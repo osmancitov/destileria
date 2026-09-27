@@ -20,6 +20,12 @@ Un instrumento puede afinar el contenido del corchete para su materia. La forma 
 
 ---
 
+## Alcance del corpus y fuentes
+
+La delimitación del corpus gobierna qué material puede fundamentar los hallazgos de lectura interna; no restringe el acceso del sistema a herramientas o fuentes para localizar, descargar o verificar la integridad y procedencia del corpus. Esas consultas no amplían el corpus analizado ni autorizan importar hechos externos como si estuvieran en él. Hermes puede consultar y citar fuentes externas para su tarea contextual, separándolas del texto estudiado.
+
+---
+
 ## Silencio declarado
 
 Cuando un instrumento no encuentra material, lo declara. Esa también es información: la ausencia tiene el mismo valor que el hallazgo. Se declara sin disculpa, sin inflar el resultado buscando candidatos débiles.
