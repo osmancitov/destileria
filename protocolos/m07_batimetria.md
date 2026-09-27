@@ -28,6 +28,8 @@ Excava solo lo cifrado y lo borrado. En cada caso registra la señal, su forma, 
 
 **Borrado.** Busca la *cicatriz*: cambio de tono, referencia sin antecedente o resolución que no corresponde a la tensión previa. Busca la *discontinuidad*: argumento abandonado, certeza erosionada entre capítulos, personaje, idea o eje que desaparece sin que el corpus lo nombre como pérdida. Una pérdida que el corpus no llama pérdida merece la misma atención que una declarada. Si la distribución de las pérdidas produce una conclusión que el corpus no quería producir, enúnciala con sus coordenadas; no fabriques una taxonomía para obtenerla.
 
+**Distribución y ritmo de las pérdidas.** Si las desapariciones se concentran, progresan hacia el cierre o se dispersan, señala el patrón con sus coordenadas. Compara las escalas personal, cultural e intelectual: ¿coinciden en el tiempo o se desfasan? No declares una sincronía por metáfora; muéstrala en el corpus.
+
 ### Cuando el observador está en el corpus
 
 En crónicas, etnografías, memorias, diarios y otros corpus donde alguien deja huella en lo que observa, apunta la excavación también al observador. Registra selecciones y omisiones *sistemáticas*, no casos sueltos: qué material elige o evita, cuántas veces, qué efecto tiene en quien lee. Localiza los quiebres en que la distancia o el método no aguantan y aparece la persona detrás del procedimiento, o la persona se oculta detrás de él. Son señales de involuntariedad, no ocasión de juicio moral. Contrasta cada lectura con una explicación formal ordinaria antes de atribuir subjetividad.
