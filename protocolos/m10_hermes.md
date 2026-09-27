@@ -45,3 +45,8 @@ Selecciona umbrales reales, no fechas arbitrarias. Por cada inflexión documenta
 ### Irradiaciones o ganancias
 
 Registra lo que el corpus produjo fuera de sí: preguntas, obras, tradiciones, métodos, efectos culturales o personales documentables. Por cada irradiación indica dominio, naturaleza (producción directa o condición que hizo algo posible) y alcance. Examina también la estela no buscada: lo que el corpus negó y aun así pudo inaugurar. No confundas semejanza posterior con influencia probada; donde el nexo causal no está documentado, conserva la incertidumbre. Si no hay irradiaciones verificables, decláralo.
+
+
+### Los bordes
+
+Contrasta las pérdidas documentadas por Batimetría con las irradiaciones que Hermes puede verificar. ¿Son proporcionales, independientes, o alimenta alguna pérdida la estela posterior? Distingue una relación sustentada de una semejanza sugerente. Si no emerge ningún nexo, decláralo. No repitas aquí el inventario de pérdidas.
