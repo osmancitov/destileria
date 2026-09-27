@@ -14,21 +14,21 @@ Una pieza puede cumplir los dos criterios. Si no cumple ninguno, no entra. **No 
 
 Antes de seleccionar o redactar, lee el corpus completo. Si su tamaño lo impide, examina una muestra representativa que incluya la apertura, tramos intermedios distribuidos y el cierre. Indica en tu informe que trabajaste con una muestra; no presentes como leídas las partes que no viste.
 
-Entrega al operador un informe breve, todavía no el Néctar, con estas tres piezas:
+Registra un diagnóstico breve antes del corte, con estas tres piezas:
 
 1. **Temperatura:** baja si solo unos pocos puntos resisten el corte, media si el valor aparece de forma intermitente, alta si abunda y se sostiene. Diagnostícalo en tres a seis frases, sin inflar el entusiasmo.
 2. **Zonas calientes:** ubica los capítulos, secciones o tramos donde aparece peso propio, ruptura de patrón o ambos. No hace falta enumerar todavía cada candidato.
 3. **Extensión propuesta:** da un número concreto de palabras para la selección final y explica en una frase por qué ese volumen corresponde al corpus. Si hay poco, pide poco. El Veredicto va aparte y no cuenta en esa cifra.
 
-**Detente aquí. Espera la confirmación explícita del operador antes de seleccionar y componer el documento final.** Puede cambiar la extensión o señalar zonas omitidas. Si lo hace, incorpora esos cambios; si señala material que no has leído, léelo antes de juzgarlo. No trates el silencio como confirmación.
+El operador (Instinct) evalúa la propuesta, fija la extensión y registra la cifra y su motivo en el documento, sin detener la ejecución para esperar confirmación. Si detecta zonas omitidas, las lee antes de juzgarlas.
 
 ## Fase 2 · Cortar y escribir
 
-Con la extensión confirmada, vuelve al corpus y escoge momentos concretos por los dos criterios, sin cuotas por sección ni relleno para alcanzar el número. Si trabajaste con una muestra en la primera fase, amplía la lectura cuanto haga falta para sostener la selección; no afirmes cobertura del corpus entero si no la hubo. Conserva el orden de aparición salvo que cambiarlo mejore claramente la lectura.
+Con la extensión fijada, vuelve al corpus y escoge momentos concretos por los dos criterios, sin cuotas por sección ni relleno para alcanzar el número. Si trabajaste con una muestra en la primera fase, amplía la lectura cuanto haga falta para sostener la selección; no afirmes cobertura del corpus entero si no la hubo. Conserva el orden de aparición salvo que cambiarlo mejore claramente la lectura.
 
 Escribe una sola pieza en prosa continua. Solo cambia de forma si la naturaleza del corpus lo pide, como podría ocurrir con una serie de aforismos. Abre con el primer elemento elegido, no con una explicación del método; termina con el último, no con una conclusión escolar. Tiende puentes breves cuando el lector los necesite, pero mantén el material del corpus en el centro. Si el puente y el comentario propio ocupan más de un tercio de la selección, recorta o recompón.
 
-Puedes citar, traducir, parafrasear o condensar para que lo elegido viva fuera de su contexto. Sé fiel a lo que el corpus dice y no inventes escenas, ideas ni relaciones. Si un fragmento no se entiende sin una larga defensa, dale la orientación mínima necesaria o déjalo fuera. La cifra confirmada guía el corte, pero nunca autoriza rellenar: si el corpus no sostiene esa extensión, dilo al operador y pide una nueva cifra antes de cerrar el documento.
+Puedes citar, traducir, parafrasear o condensar para que lo elegido viva fuera de su contexto. Sé fiel a lo que el corpus dice y no inventes escenas, ideas ni relaciones. Si un fragmento no se entiende sin una larga defensa, dale la orientación mínima necesaria o déjalo fuera. La cifra fijada guía el corte, pero nunca autoriza rellenar: si el corpus no sostiene esa extensión, el operador la recalibra y deja constancia de la nueva cifra y su motivo antes de cerrar el documento.
 
 ## Veredicto
 
@@ -40,4 +40,4 @@ Después de la selección, abre una sección separada titulada **Veredicto**. Ha
 
 ## Entrega
 
-Entrega **un único archivo `.md`**. Primero va la selección, con la extensión confirmada o renegociada y sin prólogo metodológico. Después, aparte, va el Veredicto. El informe de temperatura es un paso previo para aprobación, no parte de ese archivo.
+Entrega **un único archivo `.md`**. Primero va la selección, con la extensión fijada o recalibrada y sin prólogo metodológico. Después, aparte, va el Veredicto. Al final, registra el diagnóstico de temperatura, las zonas calientes, la extensión propuesta y la fijada, sus motivos y cualquier recalibración. Ese registro no interrumpe la selección ni exige aprobación previa.
