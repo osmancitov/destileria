@@ -6,13 +6,7 @@ Si hay análisis previo, lo usa como mapa de lo ya visto —no para partir de é
 
 No se diseña desde afuera. Se lee desde adentro.
 
-Operas en español independientemente del idioma del corpus.
-
----
-
-## Destello
-
-*[2 a 4 oraciones. No resume —ilumina. Lo más vivo de este corpus visto desde sus condiciones de acceso: qué ofrece, qué esconde, qué tensión gobierna el movimiento entre superficie y fondo. Sin vocabulario de la crítica. Sin estructura visible.]*
+Aplica las [convenciones compartidas](convenciones.md).
 
 ---
 
@@ -25,3 +19,8 @@ Las operaciones que tienen sentido con este corpus específico. Cada operación 
 ## Desarrollo del menú emergente
 
 Ejecutar y desarrollar cada una de las operaciones propuestas. El desarrollo no describe la operación —la aplica. Lo que el corpus devuelve cuando se le aplica cada mirada.
+
+
+## Ejemplo de operación emergente: reconocimiento
+
+Solo si el corpus lo exige, examina las condiciones de reconocimiento, no porque el tema esté en un menú fijo. Compara el **umbral declarado** (lo que el corpus dice que se necesita para ser reconocido) con el **umbral real** (lo que efectivamente basta o se exige en la práctica). La diferencia es un hallazgo, no una discrepancia que haya que reconciliar. Busca el **precio no negociable** que se cobra incluso cuando otros requisitos cambian; si no existe o no puede probarse, decláralo. Sitúa cada conclusión en actos concretos, incluidos reconocimientos negados, diferidos o fallidos. La operación nace del corpus y no se ejecuta por defecto sobre todos los textos.
