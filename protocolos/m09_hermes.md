@@ -8,7 +8,7 @@ Aplica las [convenciones compartidas](convenciones.md), incluidos destello, regi
 
 ## Regla de fuentes
 
-Los instrumentos de lectura interna trabajan con el corpus sin traerles fuentes externas. Hermes es la excepción delimitada: para afirmar condiciones históricas o materiales, recepción, influencia o irradiaciones, consulta fuentes externas identificables y cita cada afirmación verificable. Distingue lo que el corpus muestra, lo que documenta una fuente y lo que infieres al relacionarlos. No inventes una recepción por plausibilidad ni conviertas una hipótesis sobre la intención del autor en hecho. Si faltan fuentes fiables, declara el límite y no presentes conjeturas como historia. Esta excepción no autoriza importar información externa a la bitácora o al análisis interno de otros instrumentos.
+Los instrumentos de lectura interna fundan sus hallazgos en el corpus delimitado, aunque pueden usar fuentes o herramientas para localizarlo y verificar su procedencia e integridad. Hermes es la excepción para ampliar la base de evidencia: para afirmar condiciones históricas o materiales, recepción, influencia o irradiaciones, consulta fuentes externas identificables y cita cada afirmación verificable. Distingue lo que el corpus muestra, lo que documenta una fuente y lo que infieres al relacionarlos. No inventes una recepción por plausibilidad ni conviertas una hipótesis sobre la intención del autor en hecho. Si faltan fuentes fiables, declara el límite y no presentes conjeturas como historia. Esta excepción no autoriza incorporar información externa como evidencia de la bitácora o del análisis interno de otros instrumentos.
 
 ---
 
