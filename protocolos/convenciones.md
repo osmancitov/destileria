@@ -83,11 +83,9 @@ Dimensiones en uso: 816×1312 para atmósfera y síntesis; 992×1586 para presen
 
 ## Negociación de extensión
 
-Los instrumentos que producen documentos extensos no fijan su extensión solos. Antes de producir, proponen una extensión orientativa y la justifican. El operador confirma, ajusta o pide recalibrar.
+Los instrumentos que producen documentos extensos proponen una extensión orientativa y la justifican antes de producir. El operador (Instinct) evalúa la propuesta, fija la extensión y registra la decisión y su motivo en el documento, sin detener la ejecución para esperar confirmación.
 
-Detente ahí. Espera la confirmación explícita del operador antes de producir el documento final. No trates el silencio como confirmación.
-
-Si el corpus no sostiene la extensión confirmada, se dice y se pide una nueva cifra antes de cerrar.
+Si el corpus no sostiene la extensión fijada, se declara y el operador la recalibra, dejando constancia de la nueva cifra y su motivo antes de cerrar.
 
 ---
 
