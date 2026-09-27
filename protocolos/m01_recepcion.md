@@ -4,7 +4,7 @@ Hay obras que llegan con su nombre y aun así son desconocidas. Este instrumento
 
 Trabaja sobre el corpus entregado, no sobre el recuerdo de haberlo leído ni sobre su fama. Su orden tiene tres movimientos: metadatos para identificarlo, **Víspera** para escuchar y concebir sus imágenes, y **Nota de recibo** para orientar a un lector nuevo. La frase de recepción es el umbral del cuerpo del documento: escríbela antes de componer las imágenes, aunque en el archivo final quede donde indica el orden de entrega. No conviertas esta entrada en análisis: los demás instrumentos necesitan un terreno visible, no una interpretación que ya lo ocupe todo.
 
-Responde en español, cualquiera que sea el idioma del corpus. Conserva nombres, títulos y citas en su forma original cuando corresponda. Si recibes solo un fragmento, di que es un fragmento; no suplas capítulos, desenlaces o contexto que no tienes. Una inferencia se presenta como inferencia. Un dato que falta se deja señalado, no se inventa.
+Aplica las [convenciones compartidas](convenciones.md), en particular el idioma y la notación de imágenes. Si recibes solo un fragmento, di que es un fragmento; no suplas capítulos, desenlaces o contexto que no tienes. Una inferencia se presenta como inferencia. Un dato que falta se deja señalado, no se inventa.
 
 ---
 
@@ -54,22 +54,9 @@ La cubierta no tiene que explicar la obra. Debe sostenerla. Tal vez pida una sup
 
 Escribe tantos prompts como perspectivas realmente distintas admita este objeto. Si dos solo cambian el ángulo de cámara, quédate con uno. Puedes imaginarlo cerrado y mostrar la tela, el cuero o el barniz mate; abierto en una página cargada; en una pila que sugiere tiraje; junto a la pluma, la lupa, los márgenes anotados o la bebida de la nota de cata. También puede abrirse y revelar algo que el libro cerrado no prometía. Son caminos posibles, no casillas que haya que completar.
 
-Cada prompt debe ser **prosa continua, no formulario**. Para quien vaya a generar la imagen, deja inequívocos el punto de vista del objeto editorial, el título del corpus visible y dominante en cubierta, el sello DESTILERÍA OSMANCITO, el subtítulo de edición crítica y un símbolo nacido de la tensión central. Precisa superficie y entorno desde la temperatura emocional de ese corpus. Elige una paleta específica y coherente entre todos los prompts de Presentación. Indica ilustración editorial de alta factura, **sin fotorrealismo**, en relación **5:8**. El estilo pictórico puede ser grabado, acuarela, óleo, gouache, tinta, woodcut, litografía, pastel seco, collage analógico u otro que el corpus justifique. En cada prompt, nombra el estilo elegido **y por qué la forma de este corpus lo pide**; «acuarela» sola no basta, «acuarela porque el corpus se mueve por capas translúcidas» sí. No elijas un estilo por inercia.
+Para quien vaya a generar la imagen, deja inequívocos el punto de vista del objeto editorial, el título del corpus visible y dominante en cubierta, el sello DESTILERÍA OSMANCITO, el subtítulo de edición crítica y un símbolo nacido de la tensión central. Precisa superficie y entorno desde la temperatura emocional de ese corpus. Elige una paleta específica y coherente entre todos los prompts de Presentación. Indica ilustración editorial de alta factura. El estilo pictórico puede ser grabado, acuarela, óleo, gouache, tinta, woodcut, litografía, pastel seco, collage analógico u otro que el corpus justifique; «acuarela» sola no basta, «acuarela porque el corpus se mueve por capas translúcidas» sí. No elijas un estilo por inercia.
 
-A cada prompt le corresponde un título en negrita de dos a cuatro palabras nacido del carácter del producto; debajo va, sin alterar sus clases ni atributos, este bloque HTML para Pandoc. Sustituye en cada pieza el título y el número correlativo. La ruta usa el `slug` del YAML y los nombres `_presentacion_1.jpg`, `_presentacion_2.jpg`, sucesivamente:
-
-**[Título de 2–4 palabras extraído del carácter del producto]**
-
-<div class="prompt-imagen">
-  <div class="prompt-imagen-cabecera"><strong>[Título de la imagen]</strong></div>
-  <figure class="img-container">
-    <img src="img/$slug$_presentacion_[número].jpg"
-         alt="[Título de la imagen]"
-         width="992"
-         height="1586"
-         loading="lazy">
-  </figure>
-</div>
+Usa la [notación de imágenes](convenciones.md#notaci%C3%B3n-de-im%C3%A1genes) y la serie `_presentacion_`. El título en negrita nace del carácter del producto. No repitas aquí el bloque HTML ni las medidas.
 
 ### Atmósfera
 
@@ -79,22 +66,9 @@ Cada prompt ensaya una estrategia distinta. Podría ser un objeto solo cuyo peso
 
 **Límites para la IA de imagen:** no dibujar personajes con rasgos reconocibles, escenas concretas del argumento ni elementos tomados de cubiertas o ediciones existentes. No repetir una estrategia entre prompts. No producir imágenes fotográficas ni fotorrealistas.
 
-Cada prompt va en **prosa continua** y describe una imagen concreta, sorprendente y realizable: el motivo elegido; los detalles de época, materia y textura que hacen reconocible esta atmósfera; una tensión visual que retiene el ojo; una paleta específica derivada del tono emocional del corpus. Señala el estilo pictórico apropiado, por ejemplo grabado, acuarela, óleo, gouache, tinta, woodcut, litografía, pastel seco o collage analógico. En cada prompt, nombra el estilo y explica por qué se ajusta al corpus concreto; no entregues una etiqueta de estilo sin su razón. Pide una etiqueta discreta en la esquina inferior con este texto: **DESTILERÍA OSMANCITO · [TÍTULO EN MAYÚSCULAS] · [APELLIDO EN MAYÚSCULAS]**. Indica **sin fotorrealismo** y relación **5:8**.
+Cada prompt describe una imagen concreta, sorprendente y realizable: el motivo elegido; los detalles de época, materia y textura que hacen reconocible esta atmósfera; una tensión visual que retiene el ojo; una paleta específica derivada del tono emocional del corpus. El estilo pictórico puede ser grabado, acuarela, óleo, gouache, tinta, woodcut, litografía, pastel seco o collage analógico, siempre con su razón en este corpus. Usa la [notación de imágenes](convenciones.md#notaci%C3%B3n-de-im%C3%A1genes) y la serie `_atmosfera_`, con la etiqueta «DESTILERÍA OSMANCITO · [TÍTULO EN MAYÚSCULAS] · [APELLIDO EN MAYÚSCULAS]».
 
-Pon sobre cada prompt un título en negrita de dos a cuatro palabras tomado del corpus. Debajo, el bloque HTML para Pandoc; conserva su estructura, clases y atributos. El `slug` coincide con el YAML y el número avanza por imagen: `_atmosfera_1.jpg`, `_atmosfera_2.jpg`, sucesivamente.
-
-**[Título de 2–4 palabras extraído del corpus]**
-
-<div class="prompt-imagen">
-  <div class="prompt-imagen-cabecera"><strong>[Título de la imagen]</strong></div>
-  <figure class="img-container">
-    <img src="img/$slug$_atmosfera_[número].jpg"
-         alt="[Título de la imagen]"
-         width="816"
-         height="1312"
-         loading="lazy">
-  </figure>
-</div>
+El título en negrita de cada prompt se toma del corpus. No repitas aquí el bloque HTML ni las medidas.
 ---
 
 ## Tercero: Nota de recibo
