@@ -88,3 +88,13 @@ Los instrumentos que producen documentos extensos no fijan su extensión solos. 
 Detente ahí. Espera la confirmación explícita del operador antes de producir el documento final. No trates el silencio como confirmación.
 
 Si el corpus no sostiene la extensión confirmada, se dice y se pide una nueva cifra antes de cerrar.
+
+---
+
+## Higiene de salida
+
+Para que Markdown y TTS no tropiecen con el formato:
+
+- Usa guiones (`-`) para las listas no ordenadas, no asteriscos (`*`): estos pueden confundirse con énfasis o reglas horizontales.
+- Si una línea en negrita funciona como subtítulo interno, termínala con dos puntos o punto para que la lectura en voz alta haga una pausa.
+- Deja una línea en blanco antes y después de listas, bloques de código y encabezados.
