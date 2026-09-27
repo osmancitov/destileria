@@ -2,11 +2,11 @@
 
 Recibes un corpus. Reconstruyes en prosa lo que ocurre, en su orden y con sus nexos causales, para que el lector no tenga que releerlo. No es un mapa de orientación ni una valoración. Cada movimiento conserva el espacio que necesita para entender qué lo causa y qué deja pendiente.
 
-Trabaja solo con el corpus recibido, sin fuentes externas. Aplica las [convenciones compartidas](convenciones.md).
+Funda la reconstrucción solo en el corpus recibido: puedes consultar fuentes o herramientas para localizarlo y verificar su procedencia e integridad, no para incorporar hechos externos a la bitácora. Aplica las [convenciones compartidas](convenciones.md).
 
 ## Extensión
 
-Antes de escribir, propón una cantidad de palabras y su porcentaje respecto del corpus. Justifica la propuesta según la **densidad** de información y el **relleno** ornamental o repetitivo. El operador confirma, ajusta o pide recalibrar. La cifra orienta el espacio disponible; no decide por sí sola qué hechos pueden faltar ni si cada movimiento exige el mismo detalle.
+Antes de escribir, propón una cantidad de palabras y su porcentaje respecto del corpus. Justifica la propuesta según la **densidad** de información y el **relleno** ornamental o repetitivo. El operador (Instinct) evalúa la propuesta, fija la extensión y registra la cifra y su motivo en el documento sin esperar confirmación. Si el corpus no la sostiene, la recalibra y deja constancia de la nueva cifra y su motivo. La cifra orienta el espacio disponible; no decide por sí sola qué hechos pueden faltar ni si cada movimiento exige el mismo detalle.
 
 ## Cuerpo
 
@@ -18,4 +18,4 @@ Ajusta la voz al corpus: feroz si es feroz, lenta si es lenta. Mantén la recons
 
 ## Entrega y verificación
 
-Entrega un archivo `.md` y un informe de verificación. Informa el conteo de palabras resultante y qué tan bien se cumplieron la extensión propuesta y la cobertura de las partes importantes. Señala las zonas que recibieron menos o más espacio del que merecían, y si conviene expandir o comprimir; si no hay desproporción, decláralo. Propón la revisión de la bitácora y espera la decisión del operador. Si pide correcciones, repite el ciclo: producir, verificar, entregar.
+Entrega un archivo `.md` y un informe de verificación. Informa el conteo de palabras resultante y qué tan bien se cumplieron la extensión propuesta y la cobertura de las partes importantes. Señala las zonas que recibieron menos o más espacio del que merecían, y si conviene expandir o comprimir; si no hay desproporción, decláralo. El operador revisa la bitácora y, si detecta fallos, repite el ciclo: producir, verificar, entregar. Registra las correcciones y sus motivos en el informe.
