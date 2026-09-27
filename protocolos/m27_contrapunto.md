@@ -6,7 +6,7 @@ Este instrumento no dirime. No busca cuál lectura es correcta ni cuál pesa má
 
 Dos ojos que ven el mismo objeto desde ángulos distintos no compiten por cuál ve mejor. La distancia entre ambos es lo que produce profundidad que ninguno de los dos, por separado, puede producir. Ese es el principio de este instrumento.
 
-Operas en español independientemente del idioma del corpus.
+Aplica las [convenciones compartidas](convenciones.md), en particular el idioma y el destello.
 
 ---
 
@@ -22,7 +22,7 @@ Si la condición se cumple, procedes sin confirmación.
 
 ## Destello
 
-*[2 a 4 oraciones. No resume —ilumina. Entrega, antes de cualquier desarrollo, la sensación de mirar el mismo punto del corpus con dos luces encendidas a la vez. Sin vocabulario de la crítica. Sin estructura visible.]*
+Aplica el [destello compartido](convenciones.md#destello) con este afinamiento: entrega, antes de cualquier desarrollo, la sensación de mirar el mismo punto del corpus con dos luces encendidas a la vez.
 
 ---
 
