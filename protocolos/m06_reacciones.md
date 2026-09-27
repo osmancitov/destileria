@@ -1,59 +1,51 @@
 # Reacciones
 *Conjeturas y voces frente a un documento*
 
-Recibes un documento: puede ser un corpus o texto directo, o un análisis ya hecho sobre uno. No importa cuál de los dos sea — lo que sigue se aplica igual, y quien reacciona no necesita saber ni declarar de qué tipo de documento se trata.
+Recibes un documento: corpus o análisis ya hecho. Quien reacciona no necesita saber ni declarar cuál es.
 
-Hay dos conjuntos de reacciones, de naturaleza distinta.
-
-Las **conjeturas** son inferencia crítica: qué habría dicho cada figura real del pensamiento sobre literatura y lectura frente a este documento, razonado en tercera persona desde su obra y su método, nunca como cita inventada ni personaje encarnado.
-
-Las **voces** son fricción: un conjunto de naturalezas que reaccionan sin analizar, sin método compartido, cada una desde su propia forma de ser — no una segunda opinión sino una textura que el documento no tiene.
-
-Ninguno de los dos conjuntos sustituye al documento ni lo corrige. Ambos parten del documento completo, sin recorte previo, y ninguno necesita una pregunta que los oriente: cada figura o voz entra por donde su propia naturaleza la lleva.
+Las **conjeturas** infieren qué habrían dicho figuras reales del pensamiento frente al documento, desde su obra y método, en tercera persona: nunca citas inventadas ni personajes encarnados. Las **voces** producen fricción desde naturalezas distintas, sin analizar ni compartir método. Ninguna sustituye ni corrige al documento. Ambas parten de él completo, sin recorte ni pregunta orientadora.
 
 ---
 
 ## Regla general
 
-Extensión máxima por figura o voz: un párrafo. No hay mínimo. Si algo no da para más, o para nada, eso también es una respuesta válida — no se alarga por parejura ni se fuerza donde no rinde.
+Máximo un párrafo por figura o voz, sin mínimo. Si no da para más, no se alarga por parejura. Las conjeturas son especulativas y se declaran como tales; las voces hablan en la persona que su naturaleza pide, sin justificarse. Ninguna voz sabe lo que dijeron las demás salvo que su naturaleza dependa de ello (Solaris y Coro).
 
-Las conjeturas son siempre en tercera persona, especulativas y declaradas como tales. Las voces hablan en la persona y forma que su propia naturaleza pide, sin explicarse ni justificarse.
-
-Dentro de las voces, ninguna sabe lo que dijeron las demás salvo que su naturaleza dependa de eso (ver Solaris y Coro).
+No hay cuota: el operador elige subconjuntos, o el corpus selecciona las figuras y voces que le produzcan fricción propia. Omite las que repitan una reacción o no encuentren materia. Conserva el orden relativo de las elegidas; Solaris va última.
 
 ---
 
 ## Las conjeturas
 
 ### Jorge Luis Borges
-Leería el documento buscando sus simetrías, sus duplicaciones, lo que se repite como en un espejo o una biblioteca que se contiene a sí misma. Le interesaría más la arquitectura del conjunto que cualquier hallazgo puntual.
+Buscaría simetrías y duplicaciones, espejos, una biblioteca que se contiene a sí misma. Le interesaría más la arquitectura del conjunto que un hallazgo aislado.
 
 ### Harold Bloom
-Preguntaría, ante todo, si lo que tiene delante merece el lugar que ocupa, y de qué autores previos es heredero incómodo o deudor no confesado. Poco interés en el método; mucho en el veredicto de valor que rara vez se da.
+Preguntaría si el documento merece su lugar y de qué autores es heredero incómodo o deudor no confesado. Poco interés en el método; mucho en el veredicto de valor.
 
 ### Roland Barthes
-Sospecharía de cualquier lectura que busque la intención del autor como ancla del sentido, y preguntaría qué se hace con el placer o el goce del texto, si es que se nombra en algún lugar.
+Sospecharía de la intención del autor como ancla del sentido. Preguntaría dónde queda el placer o el goce del texto.
 
 ### Susan Sontag
-Sería la voz más incómoda con el propio proyecto: cuestionaría si tanto énfasis en explicar no termina por sofocar la experiencia sensorial, y pediría cuentas de lo que se explica en vez de dejar sentir.
+Cuestionaría si tanto explicar sofoca la experiencia sensorial: qué se explica en vez de dejar sentir.
 
 ### George Steiner
-Buscaría lo que el documento no puede decir — el límite del lenguaje frente a lo que roza pero no nombra — y probablemente lo pondría en diálogo con tradiciones o textos ausentes.
+Buscaría el límite del lenguaje frente a lo que el documento roza sin nombrar, en diálogo con tradiciones o textos ausentes.
 
 ### Walter Benjamin
-Desconfiaría de cualquier pretensión de totalidad y se inclinaría hacia el detalle descartado o marginal, el fragmento que un sistema deja pasar por no encajar en ninguna categoría.
+Desconfiaría de la totalidad y recogería el detalle marginal que el sistema deja pasar porque no encaja.
 
 ### Italo Calvino
-Evaluaría el documento con sus propias categorías de valor literario, y notaría si privilegia alguna virtud (la exhaustividad, por ejemplo) a costa de otras como la ligereza o la exactitud.
+Miraría qué virtud literaria privilegia el documento, quizá la exhaustividad, y qué precio pagan la ligereza o la exactitud.
 
 ### Vladimir Nabokov
-Sería el más cortante: exigiría precisión de detalle y desconfiaría de cualquier generalización emocional, señalando con frialdad dónde se generaliza en vez de mirar el detalle exacto.
+Exigiría precisión de detalle. Señalaría con frialdad dónde una generalización emocional sustituye la observación exacta.
 
 ### Virginia Woolf
-Leería el documento menos como sistema y más como una serie de momentos de atención; notaría dónde la propia prosa se vuelve viva o mecánica, sin separar el juicio sobre el contenido del juicio sobre cómo está escrito.
+Leería momentos de atención, no un sistema: dónde la prosa vive y dónde se vuelve mecánica. Forma y contenido no se separan.
 
 ### Édouard Glissant
-Cuestionaría el impulso mismo de volver todo legible y clasificado, y defendería que algunas zonas tengan derecho a permanecer opacas, no resueltas ni traducidas del todo.
+Cuestionaría el impulso de volverlo todo legible y clasificado. Algunas zonas tienen derecho a permanecer opacas.
 
 ---
 
@@ -90,4 +82,4 @@ Voz sin identidad propia. No opina sobre el documento: refleja lo que encuentra 
 
 ## Entrega
 
-Una sola sección: primero todas las conjeturas en el orden dado, luego todas las voces en el orden dado. Cada una encabezada solo con el nombre (las conjeturas, además, con su eje de pensamiento en una línea). Sin introducción que las enmarque ni cierre que las resuma. El operador puede pedir solo un conjunto, o el orden inverso, y eso también es válido.
+Una sola sección: conjeturas elegidas y luego voces elegidas, cada conjunto en su orden. Cada entrada lleva solo el nombre; las conjeturas, además, su eje de pensamiento en una línea. Sin introducción ni cierre. El operador puede pedir solo un conjunto o invertir el orden; Solaris, si participa, cierra las reacciones.
