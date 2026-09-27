@@ -1,73 +1,33 @@
 # Destilado
 
-Recibes el análisis completo: el corpus, todo lo que los instrumentos encontraron. Con eso produces dos cosas en orden estricto: primero un inventario de hallazgos, luego la destilación.
+Recibes el corpus y el análisis completo. Opera en tres movimientos: cartografía de hallazgos, presión y destilado. La apertura no anticipa el resultado de la compresión. El texto final debe ser bello, verdadero y no poder abreviarse sin perderse.
 
-No sabes de antemano qué forma va a tomar lo que produces. Lo descubres en el proceso. Lo que sí sabes es lo que debe cumplir: ser bello, ser verdadero, no poder abreviarse sin destruirse.
-
-Operas en español independientemente del idioma del corpus.
+Aplica las [convenciones compartidas](convenciones.md), incluidos silencio declarado, registro de hallazgos y notación de imágenes.
 
 ---
 
-## Condiciones de operación
+## I. Cartografía y hallazgos
 
-No todo corpus llega aquí. Hay textos que producen conocimiento preciso y valioso sin contener nada irreducible. Cuando ese es el caso, lo declaras sin disculpa y el instrumento termina ahí. La ausencia de destilado es también un resultado.
+Antes de aplicar presión, inventarías lo que el análisis *encontró*, no lo que el corpus ya decía. Sitúa la densidad, las zonas de alta y baja presión, las tensiones que cruzan el corpus y el territorio que bordea sin cruzar. El mapa orienta la lectura de los hallazgos; no es una recapitulación capítulo por capítulo ni un argumento que los integre.
 
-Cuando el corpus sí lo permite, operas en dos movimientos. El primero es de apertura: nombrar lo que el análisis encontró. El segundo es de presión: colapsar eso en lo irreducible. Los dos movimientos son opuestos y necesarios. El primero no puede contaminar al segundo.
+Presenta dos capas: **sobre el corpus**, aquello que los instrumentos descubrieron que este contiene sin saberlo; **sobre el análisis**, aquello que emergió cuando el sistema se miró a sí mismo. Si algo aparece entre instrumentos, recoge el hallazgo de Fuga; no lo inventes aquí como hallazgo nuevo. Si un hallazgo contradice la certeza de otro instrumento, conserva y nombra la contradicción en vez de reconciliarla.
 
----
+Cada entrada es una proposición autónoma, que puede ser verdadera o falsa y leerse sin el aparato que la produjo. Al final, entre guiones, indica el instrumento de origen como coordenada. No admitas una observación que cualquier lector atento habría hecho ni una descripción que solo repite lo ocurrido. Escribe con la mayor precisión y economía. No hay cuota: si hay dos hallazgos, hay dos. Presenta la pluralidad en paralelo, sin jerarquía ni anticipo del destilado.
 
-## Hallazgos
+### Imágenes de síntesis
 
-Antes de aplicar ninguna presión, inventarías lo que el análisis acumulado produjo. No lo que el corpus dice: lo que el análisis *encontró* que no existía antes de operar sobre él.
-
-Los hallazgos se presentan en dos capas:
-
-**Hallazgos sobre el corpus** — lo que los instrumentos directos descubrieron que el corpus contiene sin saberlo. Cada hallazgo es una proposición autónoma: puede leerse sola, sin el instrumento que la produjo. Al final de cada una, entre guiones, el instrumento de origen. No como justificación sino como coordenada: el lector que quiera saber cómo se llegó ahí sabe dónde entrar.
-
-**Hallazgos sobre el análisis** — lo que emergió cuando el sistema se miró a sí mismo: no el corpus, sino el conjunto de instrumentos que lo examinaron.
-
-### Condiciones del inventario
-
-Cada hallazgo debe cumplir esto:
-- No existía antes del análisis — no es una observación que cualquier lector atento hubiera hecho
-- Es una proposición, no una descripción — dice algo que puede ser verdadero o falso, no algo que simplemente ocurre en el corpus
-- Está escrito en el lenguaje más preciso y económico posible — sin aparato, sin justificación interna
-
-El número de hallazgos emerge de lo que el análisis realmente produjo. No hay mínimo ni máximo. Si solo hay dos hallazgos genuinos, hay dos. El silencio donde no hay hallazgo es también un resultado.
-
-### Lo que el inventario no hace
-
-El inventario no integra los hallazgos. No los jerarquiza. No construye un argumento con ellos. No anticipa el destilado. Es una presentación en paralelo: esto encontró el sistema. El lector ve la pluralidad antes de ver cómo esa pluralidad se somete a presión.
+Si una imagen encarna el todo que el análisis hizo visible, escribe el prompt; si no gana su lugar, no la produzcas. Puede mostrar el peso del corpus como objeto o lo que el lector carga al salir. Cada título toma de dos a cuatro palabras del corpus. Usa la [notación de imágenes](convenciones.md#notaci%C3%B3n-de-im%C3%A1genes) y la serie `_s`, con la etiqueta «DESTILERÍA OSMANCITO · SÍNTESIS · [Título del Corpus]». No repitas aquí el bloque HTML ni las medidas.
 
 ---
 
-## Destilamiento
+## II. Presión
 
-El inventario de hallazgos es la materia prima. Ahora aplicas presión sobre ella —y sobre todo el análisis acumulado— hasta que aparece lo irreducible.
+Somete el inventario y el análisis completo a compresión. No sumes, resumas, recapitules ni traduzcas los hallazgos a prosa bonita. Evapora lo accesorio. Si el resultado se reconoce como reformulación de una entrada, sigue presionando. Un texto puede producir conocimiento preciso sin contener nada irreducible; si no hay destilado, decláralo y termina.
 
-El destilado no es la suma de los hallazgos. No es su síntesis. No es su traducción a prosa hermosa. Es otra cosa: lo que emerge cuando todos los hallazgos se comprimen juntos bajo presión máxima. Si el destilado puede reconocerse como la reformulación de algún hallazgo del inventario, no está listo. Continúas.
+---
 
-### El proceso
+## III. Destilado
 
-Aplicas presión. No resumes. No recapitulas. No integras. Destilas: evaporas todo lo accesorio hasta que lo que queda no se puede quitar sin destruir algo. Lo que emerge puede tomar cualquier forma que el corpus exija. Las únicas condiciones son estas:
+Primero, una frase sola en su propio espacio: no título ni resumen, sino la compresión máxima. Si no aparece con claridad, no escribas el texto que la desplegaría. Después, solo lo que la frase necesite para existir sin explicarse: un ensayo continuo u otra forma que el corpus exija. Puede bastar la frase.
 
-- Encarna sin describir
-- Es bello porque es verdadero
-- No se puede abreviar sin perderse
-- No recapitula ningún instrumento anterior
-- No puede reconocerse como reformulación de ningún hallazgo del inventario
-- Lo que dice no podría decirse de otra forma
-
-Si lo que produces no cumple alguna de estas condiciones, no está listo. Continúas hasta que lo esté o hasta declarar que el corpus no llega a esto.
-
-### Lo que produces
-
-Primero: una frase sola, en su propio espacio. No un título. No una síntesis. La destilación máxima — lo que el corpus entero comprimió hasta no poder comprimirse más. Si esa frase no aparece con claridad, el ensayo tampoco existirá.
-
-Luego: lo que la frase necesita para desplegarse sin explicarse. Puede ser un ensayo de prosa continua, bella y equilibrada, que habite la frase sin describirla — que la deje respirar en toda su extensión. Puede ser otra cosa. El corpus lo decide. Lo que sí se mantiene: la prosa encarna simultáneamente lo construido, lo experiencial y lo contextual — no como secciones sino como temperatura simultánea.
-
-Si el corpus solo permite la frase y nada más, eso es suficiente. Una frase verdadera vale más que páginas que la diluyen.
-
-### Lo que no produces
-
-No produces un resumen del análisis. No produces una valoración del corpus. No produces una recomendación. No produces cierre ni conclusión. Lo que produces es el destilado — y el destilado no explica, no evalúa, no concluye. Existe.
+Comprueba que el resultado encarna sin describir, es bello porque es verdadero, no puede abreviarse sin perderse, no recapitula un instrumento ni reformula un hallazgo, y no podría decirse de otra manera. Su temperatura contiene simultáneamente lo construido, lo experiencial y lo contextual, no como secciones. No produzcas valoración, recomendación, cierre ni conclusión. El destilado existe; no se explica.
