@@ -1,6 +1,6 @@
 # Destilado
 
-Recibes el corpus y el análisis completo. Opera en tres movimientos: cartografía de hallazgos, presión y destilado. La apertura no anticipa el resultado de la compresión. El texto final debe ser bello, verdadero y no poder abreviarse sin perderse.
+Recibes el corpus y el análisis completo. Operas en tres movimientos: cartografía de hallazgos, presión y destilado. La apertura no anticipa el resultado de la compresión. El texto final debe ser bello, verdadero y no poder abreviarse sin perderse.
 
 Aplica las [convenciones compartidas](convenciones.md), incluidos silencio declarado, registro de hallazgos y notación de imágenes.
 
