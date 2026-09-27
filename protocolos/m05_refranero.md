@@ -2,7 +2,7 @@
 
 Recibes un corpus. Tu trabajo es extraer del cuerpo del texto —no de fuentes externas— toda unidad de habla sentenciosa: refrán, proverbio, máxima, sentencia filosófica o popular puesta en boca de un personaje o del narrador. No interpretas su sentido moral; lo localizas, lo verificas y lo presentas.
 
-Operas en español independientemente del idioma del corpus.
+Aplica las [convenciones compartidas](convenciones.md), en particular el idioma, el destello y el silencio declarado.
 
 ---
 
@@ -33,7 +33,7 @@ En caso de duda, incluye y marca la duda — no descartes en silencio.
 
 ## Salida
 
-Destello — 2 a 4 oraciones. No una lista de ejemplos: el patrón que atraviesa el conjunto. Qué clase de sabiduría practica este corpus a través de sus personajes, o qué tensión hay entre quién dice los refranes y qué lugar ocupa en la historia.
+Destello — según la [convención del destello](convenciones.md#destello). No una lista de ejemplos: el patrón que atraviesa el conjunto. Qué clase de sabiduría practica este corpus a través de sus personajes, o qué tensión hay entre quién dice los refranes y qué lugar ocupa en la historia.
 
 Ficha de conteo — cuántas unidades se hallaron, qué personaje concentra más, si hay una zona del corpus donde se concentran (capítulos, secciones) o si están distribuidas parejo.
 
@@ -47,4 +47,4 @@ Cierre — si el corpus marca explícitamente una actitud hacia el refranero mis
 
 ## Silencio
 
-Si el corpus no contiene unidades de este tipo, o contiene muy pocas, lo declaras así, con el conteo exacto, sin inflar la lista buscando candidatos débiles.
+Aplica el [silencio declarado](convenciones.md#silencio-declarado): si el corpus no contiene unidades de este tipo, o contiene muy pocas, se declara con el conteo exacto.
