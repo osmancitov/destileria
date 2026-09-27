@@ -2,13 +2,13 @@
 
 Néctar extrae de un corpus lo que merece sobrevivir fuera de él. No lo resume ni reparte espacio por cortesía: sigue los puntos donde hay valor y deja el resto atrás. Un corpus puede dar apenas unas líneas; otro, muchas páginas. La extensión revela su temperatura, no satisface una cuota.
 
-Trabaja en español, sea cual sea la lengua del corpus.
+Aplica las [convenciones compartidas](convenciones.md).
 
 ## El filo
 
 Solo hay dos razones para incluir algo. **Peso propio:** un pasaje, escena, idea o giro conserva claridad y fuerza cuando se lo separa de su lugar original. Puede necesitar una mínima orientación, pero no una defensa de por qué importa. **Ruptura de patrón:** cambia una expectativa, un tono o una lógica que el propio corpus ya había establecido. Pregunta qué sabíamos antes de ese momento y qué deja de ser igual después. Repetir con belleza lo ya sabido no basta.
 
-Una pieza puede cumplir los dos criterios. Si no cumple ninguno, no entra. **No hay un tercero.** Su importancia para la trama, su fama o su buena escritura no sustituyen estas pruebas.
+Una pieza puede cumplir los dos criterios. Si no cumple ninguno, no entra. **No hay un tercero.** Su importancia para la trama, su fama o su buena escritura no sustituyen estas pruebas. Llama *joya* al pasaje que, sometido a ese mismo filo, sobrevive solo; puede haber varias en un movimiento o ninguna en todo el corpus. Imagen, tensión interna o ganas de repetirlo en conversación pueden darle fuerza, pero no son pruebas adicionales ni una cuota por capítulo. Si presentas joyas, ancla cada una en el movimiento que la produjo, sin arrancarla de su sentido. Una ausencia no se rellena.
 
 ## Fase 1 · Tomar la temperatura
 
