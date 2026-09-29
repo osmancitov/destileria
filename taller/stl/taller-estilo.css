@@ -1,4 +1,4 @@
-:root { color-scheme:light; --papel:#faf6ec; --tinta:#2b2417; --oro:#8a6317; --oro-fuerte:#6d4e0f; --muted:#6e6350; --linea:#e2d7bd; }
+:root { color-scheme:dark; --papel:#080604; --tinta:#ddd0b3; --oro:#d4a044; --oro-fuerte:#e8cc88; --muted:#b09060; --linea:#362510; }
 * { box-sizing:border-box; }
 html { scroll-behavior:smooth; }
 body { margin:0; background:var(--papel); color:var(--tinta); font:1.08rem/1.75 Georgia,'Times New Roman',serif; }
@@ -38,7 +38,7 @@ footer { max-width:920px; margin:auto; padding:1.5rem; border-top:1px solid var(
 .lectura h1 + p { color:var(--muted); }
 .lectura em { font-style:italic; }
 .lectura strong { font-weight:bold; }
-.lectura pre { background:#f0e9d9; padding:1rem 1.2rem; overflow-x:auto; border-left:2px solid var(--oro); font-size:.9rem; }
+.lectura pre { background:#181009; padding:1rem 1.2rem; overflow-x:auto; border-left:2px solid var(--oro); font-size:.9rem; }
 .lectura pre code { color:var(--tinta); overflow-wrap:normal; }
 .lectura blockquote { margin:1.5rem 0; padding:0 0 0 1.2rem; border-left:2px solid var(--linea); color:var(--muted); }
 .lectura img { display:block; max-width:100%; height:auto; margin:1.8rem auto .5rem; }
