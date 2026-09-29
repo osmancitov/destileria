@@ -1,0 +1,210 @@
+/* ===========================================================
+   DESTILERÍA OSMANCITO v18 — ESTILO COMPLEMENTARIO
+   260529_ii.css
+   =========================================================== */
+
+
+/* ─── Barra flotante ──────────────────────────────────────── */
+/* ─── Botón ⚙ flotante ────────────────────────────────────── */
+#do-trigger {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 300;
+  width: 2.6rem;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  color: var(--c-texto-suave);
+  background: var(--c-fondo-bloque);
+  border: 1px solid var(--c-humo-claro);
+  cursor: pointer;
+  transition: all var(--t-rapida);
+  backdrop-filter: blur(4px);
+}
+
+#do-trigger:hover {
+  color: var(--c-oro-palido);
+  border-color: var(--c-oro-suave);
+  background: var(--c-fondo-elevado);
+}
+
+/* ─── Drawer ──────────────────────────────────────────────── */
+#do-drawer {
+  position: fixed;
+  top: 0;
+  right: -22rem;
+  width: 20rem;
+  height: 100dvh;
+  z-index: 200;
+  background: var(--c-fondo-bloque);
+  border-left: 1px solid var(--c-humo-claro);
+  display: flex;
+  flex-direction: column;
+  transition: right var(--t-normal);
+  overflow: hidden;
+}
+
+#do-drawer.abierto {
+  right: 0;
+}
+
+/* ─── Herramientas dentro del drawer ─────────────────────── */
+#do-herramientas {
+  display: flex;
+  gap: 0.5rem;
+  padding: 1.2rem 1.2rem 1rem;
+  border-bottom: 1px solid var(--c-humo-medio);
+  flex-shrink: 0;
+}
+
+.do-btn {
+  font-family: var(--f-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--c-texto-suave);
+  background: var(--c-fondo-elevado);
+  border: 1px solid var(--c-humo-claro);
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  transition: all var(--t-rapida);
+  white-space: nowrap;
+}
+
+.do-btn:hover {
+  color: var(--c-oro-palido);
+  border-color: var(--c-oro-suave);
+}
+
+/* ─── TOC dentro del drawer ───────────────────────────────── */
+#do-toc {
+  overflow-y: auto;
+  padding: 1rem 1.2rem 2rem;
+  flex: 1;
+}
+
+#do-toc a {
+  display: block;
+  font-family: var(--f-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--c-texto-suave);
+  border-bottom: 1px solid var(--c-humo);
+  border-left: none;
+  padding: 0.7rem 0;
+  transition: color var(--t-rapida);
+  line-height: 1.4;
+  hyphens: none;
+  text-align: left;
+}
+
+#do-toc a:first-child {
+  color: var(--c-texto-tenue);
+  font-size: 0.6rem;
+}
+
+#do-toc a:hover,
+#do-toc a.activo {
+  color: var(--c-oro-palido);
+}
+
+/* ─── Overlay de fondo ────────────────────────────────────── */
+#do-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 150;
+  background: rgba(0,0,0,0.4);
+  backdrop-filter: blur(1px);
+}
+
+#do-overlay.activo {
+  display: block;
+}
+
+@media (max-width: 640px) {
+  #do-drawer {
+    width: 50vw;
+    right: -54vw;
+  }
+}
+
+
+
+/* ─── Modo claro (Mapeo de Variables Maestras) ────────────── */
+body.modo-claro {
+  /* Re-definición de la paleta maestra para el estado de luz */
+  --c-fondo:            #f5f0e8;    /* Papel antiguo */
+  --c-fondo-bloque:     #ede6d4;    /* Pergamino saturado */
+  --c-fondo-elevado:    #e4dbbf;    /* Elevación cálida */
+  --c-fondo-sunken:     #faf6ee;    /* Claridad máxima */
+
+  --c-texto:            #2a1f12;    /* Tinta sepia profunda */
+  --c-texto-suave:      #5c442a;    /* Cuero gastado */
+  --c-texto-tenue:      #8b6f50;    /* Sombra de bronce */
+  --c-texto-fantasma:   #d1c4ac;    /* Marca de agua */
+
+  --c-oro:              #7a4e1c;    /* Oro quemado */
+  --c-oro-suave:        #946835;
+  --c-oro-palido:       #4d3111;
+  
+  --c-humo:             #dcd0b9;
+  --c-humo-medio:       #c8b99d;
+  --c-humo-claro:       #b0a080;
+
+  --c-mono:             #5c3810;
+  --c-mono-tenue:       #8b6f50;
+
+  /* Reajuste de sombras para fondo claro */
+  --c-sombra:           rgba(42, 31, 18, 0.15);
+  --c-sombra-suave:     rgba(42, 31, 18, 0.08);
+  --c-brillo-oro:       rgba(122, 78, 28, 0.05);
+
+  background-image:
+    radial-gradient(ellipse at 20% 0%, rgba(122,78,28,0.04) 0%, transparent 60%);
+		
+	/* Suavizamos la sombra para que no parezca un error de renderizado */
+	box-shadow: 0 0 50px rgba(42, 31, 18, 0.05);
+
+}
+
+/* Esta regla obliga al html a adoptar el color de fondo 'hundido' del modo claro */
+html:has(body.modo-claro) {
+  background-color: #f5f0e8;
+}
+
+/* Ajustes de legibilidad para elementos específicos en modo claro */
+body.modo-claro .prompt-imagen {
+  background: var(--c-fondo-sunken);
+}
+
+body.modo-claro blockquote, 
+body.modo-claro .destilado-maestro {
+	box-shadow: inset 4px 0 20px rgba(122, 78, 28, 0.05); 
+}
+
+/* ─── Barra de progreso ───────────────────────────────────── */
+#barra-progreso {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background: linear-gradient(90deg, var(--c-oro-suave), var(--c-oro));
+  z-index: 200;
+  transition: width 0.1s;
+}
+
+/* ─── Ciclo de fuentes ────────────────────────────────────── */
+
+/* Ciclo: uno → dos → tres → cuatro → cinco → uno */
+body.fuente-uno    { --f-cuerpo: 'Cormorant Garamond', Georgia, serif; }
+body.fuente-dos    { --f-cuerpo: 'EB Garamond',        Georgia, serif; }
+body.fuente-tres   { --f-cuerpo: 'Lora',               Georgia, serif; }
+body.fuente-cuatro { --f-cuerpo: 'Spectral',           Georgia, serif; }
+body.fuente-cinco  { --f-cuerpo: 'Source Serif 4',     Georgia, serif; }
+
