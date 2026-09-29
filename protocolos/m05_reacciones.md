@@ -47,6 +47,9 @@ Leería momentos de atención, no un sistema: dónde la prosa vive y dónde se v
 ### Édouard Glissant
 Cuestionaría el impulso de volverlo todo legible y clasificado. Algunas zonas tienen derecho a permanecer opacas.
 
+### Sigmund Freud
+Buscaría deseos y temores que el documento expresa sin saberlo. Podría leer en Cordelia, la hija menor del rey Lear, no solo a la hija amada sino a la muerte que el rey debe aceptar.
+
 ---
 
 ## Las voces, en este orden
