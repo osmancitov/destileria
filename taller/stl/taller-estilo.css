@@ -1,4 +1,5 @@
 :root { color-scheme:dark; --papel:#080604; --tinta:#ddd0b3; --oro:#d4a044; --oro-fuerte:#e8cc88; --muted:#b09060; --linea:#362510; }
+body.modo-claro { color-scheme:light; --papel:#f5f0e8; --tinta:#2a1f12; --oro:#7a4e1c; --oro-fuerte:#4d3111; --muted:#5c442a; --linea:#c8b99d; }
 * { box-sizing:border-box; }
 html { scroll-behavior:smooth; }
 body { margin:0; background:var(--papel); color:var(--tinta); font:1.08rem/1.75 Georgia,'Times New Roman',serif; }
@@ -47,3 +48,17 @@ footer { max-width:920px; margin:auto; padding:1.5rem; border-top:1px solid var(
 .lectura ul, .lectura ol { padding-left:1.55rem; }
 .lectura li { margin-bottom:.4rem; }
 .lectura hr { border:0; border-top:1px solid var(--linea); margin:2rem 0; }
+
+
+/* Mantener las proporciones del Taller sobre los controles de la Bodega. */
+body { font-family:var(--f-cuerpo); font-weight:400; padding:0; max-width:none; box-shadow:none; }
+body.modo-claro { background:var(--papel); color:var(--tinta); }
+main { max-width:680px; }
+p { margin:0 0 1.25rem; }
+a { color:var(--oro); }
+.sitio, footer { max-width:920px; }
+.lectura pre { background:var(--c-fondo-elevado); }
+.lectura img { cursor:zoom-in; }
+#lb-overlay img { max-width:none; }
+#do-toc a { text-decoration:none; }
+@media(max-width:640px) { #do-drawer { width:min(20rem,86vw); right:-90vw; } }
