@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link id="maestro" rel="stylesheet" href="destilados/stl/260529_i.css">
+	<link id="complemento" rel="stylesheet" href="destilados/stl/260529_ii.css">
+	<script src="destilados/js/260621_i.js"></script>	
+	<script src="destilados/js/260519_ii.js"></script>
+
+  <title>La Bodega · Destilería Osmancito</title>
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="https://osmancitov.github.io/destilados/img/icon_amanita.ico">
+  <link rel="icon" type="image/x-icon" href="https://osmancitov.github.io/destilados/img/icon_amanita.ico">
+  <link rel="apple-touch-icon" href="https://osmancitov.github.io/destilados/img/icon_amanita.ico">
+
+  <!-- Meta General -->
+  <meta name="title" content="La Bodega · Destilería Osmancito">
+  <meta name="description" content="Destilación de grandes textos. Lectura profunda operada dentro de Claude.">
+  <meta name="author" content="Osmancito">
+
+  <!-- OGMT -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="La Bodega · Destilería Osmancito" />
+  <meta property="og:description" content="Destilación de grandes textos." />
+  <meta property="og:url" content="https://osmancitov.github.io/bodega.html" />
+  <meta property="og:site_name" content="Destilería Osmancito" />
+  <meta property="og:image" content="https://osmancitov.github.io/destilados/img/000_destileria_260518_12.jpg" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="848" />
+  <meta property="og:image:height" content="1264" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="La Bodega · Destilería Osmancito">
+  <meta name="twitter:description" content="Destilación de grandes textos. Lectura profunda operada dentro de Claude.">
+  <meta name="twitter:image" content="https://osmancitov.github.io/destilados/img/000_destileria_260518_12.jpg">
+
+  <!-- Estilo Grilla -->
+	<style>
+	.grilla-portadas {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+		gap: 1.5rem;
+		padding: 1.5rem 0 2rem;
+	}
+	.tarjeta-portada {
+		position: relative;
+		cursor: pointer;
+		-webkit-tap-highlight-color: transparent;
+	}
+	.tarjeta-portada img {
+		width: 100%;
+		aspect-ratio: 2 / 3;
+		object-fit: cover;
+		display: block;
+		transition: filter 0.25s ease;
+	}
+	@media (hover: hover) {
+		.tarjeta-portada:hover img {
+			filter: brightness(0.35);
+		}
+		.tarjeta-portada:hover .tarjeta-hover {
+			opacity: 1;
+		}
+	}
+
+	.tarjeta-hover {
+		position: absolute;
+		inset: 0;
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+		padding: 1rem 0.7rem 0.7rem;
+		opacity: 0;
+		transition: opacity 0.25s ease;
+		pointer-events: none;
+		z-index: 2;
+	}
+	.tarjeta-hover-titulo {
+		font-size: 0.76rem;
+		font-weight: 700;
+		color: #fff;
+		line-height: 1.3;
+		margin: 0 0 0.35rem;
+	}
+	.tarjeta-hover-extracto {
+		font-size: 0.66rem;
+		color: rgba(255,255,255,0.82);
+		line-height: 1.45;
+		margin: 0;
+	}
+	@media (max-width: 480px) {
+		.grilla-portadas {
+			grid-template-columns: repeat(3, 1fr);
+			gap: 0.6rem;
+		}
+	}
+
+	/* ── PANEL DE INFO EN LIGHTBOX ── */
+	#lb-panel {
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		padding: 1.5rem 1.75rem 2rem;
+		background: var(--c-fondo-elevado);
+		border-top: 2px solid var(--c-humo-claro);
+		color: var(--c-texto);
+		z-index: 2001;
+		animation: subir 0.22s ease;
+		text-decoration: none;
+		cursor: pointer;
+		display: block;
+	}
+	#lb-panel:hover {
+		background: var(--c-fondo-bloque);
+	}
+	#lb-lote {
+		font-size: 0.65rem;
+		font-weight: 700;
+		letter-spacing: 0.1em;
+		text-transform: uppercase;
+		opacity: 0.5;
+		margin: 0 0 0.5rem;
+	}
+	#lb-titulo {
+		font-size: 1.05rem;
+		font-weight: 700;
+		line-height: 1.3;
+		margin: 0 0 0.6rem;
+	}
+	#lb-extracto {
+		font-size: 0.84rem;
+		line-height: 1.6;
+		opacity: 0.78;
+		margin: 0 0 1.1rem;
+	}
+	#lb-img {
+    max-width: 100%;
+    max-height: 100vh;
+    object-fit: contain;
+	}
+	</style>
+
+</head>
+<body>
+
+<!-- CABECERA -->
+<header class="cabecera-documento">
+  <div class="sello">Destilería Osmancito · La Bodega · 2026</div>
+  <h1 class="titulo-obra">La <em>Bodega</em></h1>
+  <div class="autor">Entra la materia prima. Sale el destilado puro.</div>
+</header>
+
+<!-- IMAGEN 01 -->
+<div class="prompt-imagen prompt-imagen-presentacion">
+	<figure class="img-container">
+		<img src="destilados/img/000_destileria_260518_12.jpg" 
+		alt="El Destilado"
+		width="1024"
+		height="1536"
+		data-no-lightbox>
+	</figure>
+</div>
+
+<!-- CONTENIDO -->
+<main>
+
+<!-- LOTES -->
+<section class="modulo recepcion" id="lotes">
+<div class="modulo-cabecera">
+  <h1>Destilados</h1>
+</div>
+<div class="bitacora">
+  <p>Aquí reposan y añejan los destilados terminados.</p>
+</div>
+
+<div class="grilla-portadas" id="grilla">
+<!-- Las tarjetas se generan desde el catálogo YAML -->
+</div>
+
+</section>
+
+<!-- CORPUS EN PROCESO -->
+<section class="modulo recepcion" id="en-proceso">
+<div class="modulo-cabecera">
+  <h1>En proceso</h1>
+</div>
+<div class="bitacora">
+  <p>Corpus en proceso...</p>
+</div>
+
+<div class="grilla-portadas" id="grilla-proceso">
+<!-- Las tarjetas se generan desde el catálogo YAML -->
+</div>
+
+</section>
+
+</main>
+
+	<!-- PIE -->
+	<footer class="pie-documento">
+		<div class="pie-sello"><a href="https://github.com/osmancitov/osmancitov.github.io">Destilería Osmancito</a><br>Entra la materia prima. Sale el destilado puro.</div>
+	</footer>
+
+  <!-- Módulo LightBox con panel de info integrado -->
+	<div id="lb-overlay" role="dialog" aria-modal="true" aria-label="Ficha del destilado">
+		<img id="lb-img" src="" alt="">
+		<a id="lb-panel" href="#">
+			<p id="lb-lote"></p>
+			<p id="lb-titulo"></p>
+			<p id="lb-extracto"></p>
+		</a>
+	</div>
+
+
+<!-- ═══════════════════════════════════════════════════
+     CATÁLOGO PRINCIPAL
+     Campos usados por la grilla: lote, slug, titulo, autor,
+     ano_publicacion, extracto, imagen (opcional — si se omite
+     se construye automáticamente como {slug}_presentacion_1_half.jpg)
+     ═══════════════════════════════════════════════════ -->
+<script id="catalogo-principal" type="text/yaml">
+
+---
+lot: "054"
+slug: "054_shakespeare_macbeth"
+title: "Macbeth"
+author: "William Shakespeare"
+year: "No establecido por el corpus"
+date: "27 de septiembre de 2026"
+description: "Macbeth recibe una profecía de realeza y mata al rey Duncan para ocupar el trono."
+excerpt: "Llega una tragedia donde la primera voz no anuncia un lugar: pregunta cuándo volverá a reunirse."
+language: "Inglés"
+genre: "Tragedia teatral"
+length: "18 333 palabras en el archivo recibido; unas 73 páginas a 250 palabras por página; cinco actos, 28 escenas"
+---
+
+---
+lot: "053"
+slug: "053_biblioteca_estilos"
+title: "Biblioteca de Estilos Visuales"
+author: "Osmancito"
+year: "2026"
+date: "2026-09-18"
+description: "Colección de 52 estilos pictóricos —del Renacimiento al Expresionismo, del grabado minucioso a la pincelada suelta— que permite traducir texto en imagen con precisión histórica y sensibilidad estética. Cada estilo es una lente distinta para mirar el mundo: la luz dramática de Caravaggio para el conflicto, la serenidad de Fra Angelico para lo divino, la angustia de Munch para lo psicológico, la precisión de Durero para lo detallado."
+excerpt: "52 estilos pictóricos para traducir texto en imagen con precisión histórica y sensibilidad estética."
+language: "es"
+genre: "protocolo"
+length: "52"
+---
+
+---
+lot: "052"
+slug: "052_crowley_thoth"
+title: "The Book of Thoth"
+author: "Aleister Crowley"
+year: "1944"
+date: "02/09/2026"
+description: "Tratado definitivo del Tarot Thoth: filosofía qabálistica, simbología y uso adivinatorio."
+excerpt: "Un libro que no se abre: ya está abierto. Lleva el universo plegado en 78 figuras."
+language: "Inglés"
+genre: "Ensayo esotérico / Tratado iniciático"
+length: "~77 500 palabras / ~310 páginas / 3 partes + catálogo de 78 cartas"
+frequent_word: "card"
+---
+
+---
+lot: "051"
+slug: "051_shakespeare_king_lear"
+title: "King Lear"
+author: "William Shakespeare"
+year: "1608"
+date: "Junio 15 de 2026"
+description: "Un rey reparte su reino y, al exigir amor como prueba, desata la ruina de todos."
+excerpt: "Llega King Lear como un cuerpo de papel que pesa: no trae una historia, trae una intemperie."
+language: "Inglés"
+genre: "Tragedia"
+length: "Aproximadamente 27,200 palabras"
+---
+
+---
+lot: "050"
+slug: "050_rumi_masnavi_uno"
+title: "El Masnavi, Libro Uno"
+author: "Jalal al-Din Rumi (traducción de Jawid Mojaddedi)"
+year: "1262"
+date: "2026-09-09"
+description: "El mayor poema místico jamás escrito, en su primer libro."
+excerpt: "Escucha ahora el lamento profundo de esta flauta de caña, sobre la agonía de la separación."
+language: "Persa"
+genre: "Poesía mística y narrativa didáctica sufí"
+length: "~90,000 palabras"
+---
+
+---
+lot: "049"
+slug: "049_conrad_heart_darkness"
+title: "Heart of Darkness"
+author: "Joseph Conrad"
+year: "1899"
+date: "3 de septiembre de 2025"
+description: "Marlow navega el Congo buscando a Kurtz y encuentra el núcleo de la oscuridad europea."
+excerpt: "El río se extendía ante nosotros como el comienzo de un interminable canal acuático."
+language: "Inglés"
+genre: "Novela corta / Relato enmarcado"
+length: "~38.000 palabras / ~152 páginas / 3 partes (I, II, III)"
+---
+
+---
+lot: "048"
+slug: "048_crowley_ley"
+title: "El libro de la ley"
+author: "Aleister Crowley"
+year: "1904"
+date: ""
+description: ""
+excerpt: "El peso de algo que se presenta como absoluto: una ley sin apelación, un mandato sin destinatario claro."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "047"
+slug: "047_numbers_clegg"
+title: "Are Numbers Real? The Uncanny Relationship of Mathematics and the Physical World"
+author: "Brian Clegg"
+year: "2016"
+date: ""
+description: ""
+excerpt: "El corpus llega como un libro que abre preguntas que la escuela cerró demasiado pronto."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "046"
+slug: "046_infinity_clegg"
+title: "A Brief History of Infinity: The Quest to Think the Unthinkable"
+author: "Brian Clegg"
+year: "2003"
+date: ""
+description: ""
+excerpt: "Un libro que intenta pensar lo que no puede pensarse del todo."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "045"
+slug: "045_durant_grecia"
+title: "The Life of Greece"
+author: "Will Durant"
+year: "1939"
+date: ""
+description: ""
+excerpt: "Una civilización que sobrevivió a su propia muerte y vive en todo lo que somos."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "044"
+slug: "044_agustin_confesiones"
+title: "Confesiones"
+author: "Agustín de Hipona"
+year: "397"
+date: ""
+description: ""
+excerpt: "Llegó cerrado. Denso. Como si aún guardara calor de mano."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "043"
+slug: "043_niebla_unamuno"
+title: "Niebla"
+author: "Miguel de Unamuno y Jugo"
+year: "1914"
+date: ""
+description: ""
+excerpt: "Al aparecer Augusto a la puerta de su casa extendió el brazo derecho, con la mano palma abajo y abierta."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "042"
+slug: "042_borges_arena"
+title: "El Libro de Arena"
+author: "Jorge Luis Borges"
+year: "1975"
+date: ""
+description: ""
+excerpt: "Borges recibe un libro sin primera ni última página. Lo esconde. No puede olvidarlo."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "041"
+slug: "041_laotzu_taoteching"
+title: "Lao-tzu's Taoteching"
+author: "Lao-tzu (trad. Red Pine)"
+year: "Siglo VI a.C."
+date: ""
+description: ""
+excerpt: "El camino que se hace camino no es el Camino Inmortal."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "038"
+slug: "038_mockingbird_lee"
+title: "To Kill A Mockingbird"
+author: "Harper Lee"
+year: "1960"
+date: ""
+description: ""
+excerpt: "Nombrar lo que un libro es, no lo que cuenta, es un acto distinto y más honesto."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "037"
+slug: "037_tolkien_lotr_1"
+title: "The Lord Of The Rings Illustrated"
+author: "J. R. R. Tolkien"
+year: "1954"
+date: ""
+description: ""
+excerpt: "Nombrar Lo Que Este Corpus Es No Lo Que Cuenta Exige Otra Pregunta."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "035"
+slug: "035_rigveda_x"
+title: "The Rigveda: The Earliest Religious Poetry Of India (Mandala X)"
+author: "Stephanie W. Jamison y Joel P. Brereton"
+year: "2014"
+date: ""
+description: ""
+excerpt: "Nombrar Lo Que Es Un Corpus Es Distinto De Resumir Lo Que Dice"
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "032"
+slug: "032_proust_swann"
+title: "Swann's Way"
+author: "Marcel Proust"
+year: "1913"
+date: ""
+description: ""
+excerpt: "Este corpus no avanza: envuelve. La conciencia que no suelta nada."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "031"
+slug: "031_cervantes_quijote"
+title: "El ingenioso hidalgo don Quijote de la Mancha"
+author: "Miguel de Cervantes Saavedra"
+year: "1605"
+date: ""
+description: ""
+excerpt: "Un libro que llegó al mundo fingiendo destruir libros y terminó siendo el que ninguno pudo matar."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "017"
+slug: "017_melville_moby_dick"
+title: "Moby-Dick"
+author: "Herman Melville"
+year: "1851"
+date: ""
+description: ""
+excerpt: "Un libro que no se puede abrir sin que algo se abra adentro de quien lo abre."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "016"
+slug: "016_milton_paradise_lost"
+title: "Paraíso Perdido"
+author: "John Milton"
+year: "1667"
+date: ""
+description: ""
+excerpt: "Un cosmos entero cargado en diez libros: no llega como libro sino como arquitectura."
+language: ""
+genre: ""
+length: ""
+---
+
+---
+lot: "001"
+slug: "001_durant_i_heritage"
+title: "Our Oriental Heritage"
+author: "Will Durant"
+year: "1935"
+date: ""
+description: ""
+excerpt: "Nombrar Lo Que Este Corpus Es Es Distinto De Resumir Lo Que Dice."
+language: ""
+genre: ""
+length: ""
+---
+
+</script>
+
+
+<!-- ═══════════════════════════════════════════════════
+     CATÁLOGO EN PROCESO
+     Mismo formato que el catálogo principal.
+     El href se construye como: destilados/page.html?s={slug}
+     ═══════════════════════════════════════════════════ -->
+<script id="catalogo-en-proceso" type="text/yaml">
+
+---
+lot: ""
+slug: "x_weisser_creacion"
+title: "El Misterio de la Creación"
+title_german: "Buch über das Geheimnis der Schöpfung und die Darstellung der Natur (Buch der Ursachen) von Pseudo-Apollonios von Tyana"
+title_source: "Kitāb Sirr al-Ḫalīqa"
+author: "Ursula Weisser"
+year: "1979"
+date: "3 de septiembre de 2026"
+description: "Edición crítica y estudio del Kitāb Sirr al-ḫalīqa, una cosmología pseudepigráfica de la Antigüedad tardía transmitida en árabe."
+excerpt: "Un tratado hermético sobre la creación, los minerales, las plantas y los animales, atribuido a Apolonio de Tiana."
+language: "Alemán"
+genre: "Erudición académica, edición crítica, historia de la ciencia"
+length: "txt"
+---
+
+</script>
+
+
+<!-- ═══════════════════════════════════════════════════
+     MOTOR — no tocar
+     ═══════════════════════════════════════════════════ -->
+<script>
+(function () {
+
+  /* ── 1. Parser YAML mínimo ── */
+  function parseYAML(block) {
+    var obj = {};
+    block.split('\n').forEach(function (line) {
+      var m = line.match(/^([^:#]+):\s*"?(.*?)"?\s*$/);
+      if (m) obj[m[1].trim()] = m[2].trim();
+    });
+    return obj;
+  }
+
+  /* ── 2. Construir grilla genérica ── */
+  function construirGrilla(grilla, lotes, buildHref) {
+    lotes.forEach(function (l) {
+      var img = l.imagen;
+      var href        = buildHref(l);
+      var titulo      = l.title + (l.author ? ' — ' + l.author : '') + (l.year ? ' (' + l.year + ')' : '');
+      var tituloHover = l.title + (l.year ? ' (' + l.year + ')' : '');
+
+      var div = document.createElement('div');
+      div.className  = 'tarjeta-portada';
+      div.id         = 'lote-' + l.lot;
+      div.tabIndex   = 0;
+      div.setAttribute('role', 'button');
+      div.dataset.lot      = l.lot;
+      div.dataset.title    = titulo;
+      div.dataset.excerpt  = l.excerpt;
+      div.dataset.href     = href;
+      div.dataset.imgSrc   = 'destilados/img/' + img;
+
+      div.innerHTML =
+        '<img src="destilados/img/' + img + '" alt="' + l.title + '" loading="lazy">' +
+        '<div class="tarjeta-hover" aria-hidden="true">' +
+          '<p class="tarjeta-hover-titulo">' + tituloHover + '</p>' +
+          '<p class="tarjeta-hover-extracto">' + l.excerpt + '</p>' +
+        '</div>';
+
+      grilla.appendChild(div);
+    });
+  }
+
+  /* ── 3. Grilla principal ── */
+  var rawPrincipal = document.getElementById('catalogo-principal').textContent;
+  var lotesPrincipal = rawPrincipal.split('---').map(function (b) { return b.trim(); }).filter(Boolean)
+    .map(parseYAML).filter(function (o) { return o.slug; });
+  var grillaPrincipal = document.getElementById('grilla');
+	lotesPrincipal.forEach(function (l) {
+  l.imagen = l.imagen || (l.slug + '_presentacion_1_half.jpg');
+});
+  construirGrilla(grillaPrincipal, lotesPrincipal, function (l) {
+    return 'destilados/' + l.slug + '.html';
+  });
+
+  /* ── 4. Grilla en proceso ── */
+  var rawProceso = document.getElementById('catalogo-en-proceso').textContent;
+  var lotesProceso = rawProceso.split('---').map(function (b) { return b.trim(); }).filter(Boolean)
+    .map(parseYAML).filter(function (o) { return o.slug; });
+  var grillaProceso = document.getElementById('grilla-proceso');
+	lotesProceso.forEach(function (l) {
+  l.imagen = l.imagen || 'catalogo-en-proceso_presentacion_1_half.jpg';
+});
+  construirGrilla(grillaProceso, lotesProceso, function (l) {
+    return 'https://osmancitov.github.io/destilados/page.html?s=' + l.slug;
+  });
+
+  /* ── 5. Lightbox unificado con panel de info ── */
+  var lbOverlay  = document.getElementById('lb-overlay');
+  var lbImg      = document.getElementById('lb-img');
+  var lbLote     = document.getElementById('lb-lote');
+  var lbTitulo   = document.getElementById('lb-titulo');
+  var lbExtracto = document.getElementById('lb-extracto');
+  var lbPanel    = document.getElementById('lb-panel');
+
+  function abrirLightbox(t) {
+    lbImg.src          = t.dataset.imgSrc;
+    lbImg.alt          = t.dataset.title;
+    lbLote.textContent     = t.dataset.lot ? 'Lote ' + t.dataset.lot : '';
+    lbTitulo.textContent   = t.dataset.title;
+    lbExtracto.textContent = t.dataset.excerpt;
+    lbPanel.href           = t.dataset.href;
+    lbOverlay.classList.add('activo');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function cerrarLightbox() {
+    lbOverlay.classList.remove('activo');
+    lbImg.src = '';
+    document.body.style.overflow = '';
+  }
+
+  /* click en imagen o fondo → cerrar; click en panel → no cerrar */
+  lbOverlay.addEventListener('click', function (e) {
+    if (!e.target.closest('#lb-panel')) cerrarLightbox();
+  });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && lbOverlay.classList.contains('activo')) cerrarLightbox();
+  });
+
+  /* ── 6. Click en tarjetas → lightbox unificado ── */
+  function manejarClick(e) {
+    var t = e.target.closest('.tarjeta-portada');
+    if (t) abrirLightbox(t);
+  }
+
+  function manejarTeclado(e) {
+    if (e.key === 'Enter' || e.key === ' ') {
+      var t = e.target.closest('.tarjeta-portada');
+      if (t) { e.preventDefault(); abrirLightbox(t); }
+    }
+  }
+
+  grillaPrincipal.addEventListener('click', manejarClick);
+  grillaProceso.addEventListener('click', manejarClick);
+  grillaPrincipal.addEventListener('keydown', manejarTeclado);
+  grillaProceso.addEventListener('keydown', manejarTeclado);
+
+})();
+</script>
+
+<!-- Excluir imágenes de presentación del lightbox -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('img[data-no-lightbox]').forEach(function (img) {
+    img.style.cursor = '';
+    img.addEventListener('click', function (e) {
+      e.stopImmediatePropagation();
+    }, true);
+  });
+});
+</script>
+
+</body>
+</html>
