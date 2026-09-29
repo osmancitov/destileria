@@ -26,8 +26,8 @@
     const html = marked.parse(markdown, { gfm: true });
     destino.innerHTML = DOMPurify.sanitize(html);
 
-    // Índice de navegación: solo capítulos y secciones principales (h1/h2).
-    const encabezados = [...destino.querySelectorAll('h1, h2')];
+    // Índice de navegación: solo capítulos (h1).
+    const encabezados = [...destino.querySelectorAll('h1')];
     if (encabezados.length > 1) {
       const indice = document.createElement('nav');
       indice.className = 'indice-cuaderno';
@@ -41,7 +41,6 @@
         const id = `seccion-${numero + 1}`;
         encabezado.id = id;
         const elemento = document.createElement('li');
-        if (encabezado.tagName === 'H2') elemento.className = 'indice-cuaderno-h2';
         const enlace = document.createElement('a');
         enlace.href = `#${id}`;
         enlace.textContent = encabezado.textContent;
