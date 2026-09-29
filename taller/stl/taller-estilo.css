@@ -62,3 +62,16 @@ a { color:var(--oro); }
 #lb-overlay img { max-width:none; }
 #do-toc a { text-decoration:none; }
 @media(max-width:640px) { #do-drawer { width:min(20rem,86vw); right:-90vw; } }
+/* El CSS maestro es una copia intacta; el Taller recupera su escala y jerarquía. */
+body { font-size:1.08rem; line-height:1.75; }
+main h1, .lectura h1 { font-size:clamp(2.2rem,5vw,3.2rem); font-family:var(--f-cuerpo); line-height:1.2; text-align:left; text-transform:none; letter-spacing:normal; padding:0; border:0; margin:.5rem 0 1.3rem; text-shadow:none; }
+main h2, .lectura h2, .lectura h3 { font-family:var(--f-cuerpo); text-transform:none; letter-spacing:normal; text-shadow:none; line-height:1.35; }
+main h2, .lectura h2 { font-size:1.45rem; padding:0; border-bottom:0; margin:3.1rem 0 .65rem; }
+.lectura h2 { padding-top:1.2rem; border-top:1px solid var(--linea); }
+main h2::before { content:none; }
+.lectura h3 { padding-left:0; border-left:0; margin:1.8rem 0 .5rem; }
+.lectura p, .intro { font-weight:400; text-align:left; hyphens:none; }
+.lectura p { color:var(--tinta); }
+.lectura h1 + p { color:var(--muted); }
+.lectura pre { font-family:var(--f-mono); }
+#do-toc a:first-child { color:var(--c-texto-suave); font-size:.65rem; }
