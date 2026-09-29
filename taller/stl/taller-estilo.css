@@ -27,3 +27,23 @@ h2 { font-size:1.45rem; font-weight:normal; margin:3.5rem 0 1rem; color:var(--or
 code { color:var(--oro-fuerte); font-size:.93em; overflow-wrap:anywhere; }
 footer { max-width:920px; margin:auto; padding:1.5rem; border-top:1px solid var(--linea); font:.85rem/1.5 system-ui,sans-serif; }
 @media(max-width:480px){ main { padding-top:2.6rem; } }
+
+
+/* Cuaderno renderizado: una página de lectura, no una tarjeta. */
+.pagina-cuaderno { padding-top:3.3rem; }
+.lectura h1 { margin:.35rem 0 1.2rem; }
+.lectura h2 { margin:3.1rem 0 .65rem; padding-top:1.2rem; border-top:1px solid var(--linea); font-size:1.45rem; color:var(--oro); }
+.lectura h3 { font-size:1.2rem; font-weight:normal; margin:1.8rem 0 .5rem; color:var(--tinta); }
+.lectura p { margin:0 0 1.25rem; }
+.lectura h1 + p { color:var(--muted); }
+.lectura em { font-style:italic; }
+.lectura strong { font-weight:bold; }
+.lectura pre { background:#f0e9d9; padding:1rem 1.2rem; overflow-x:auto; border-left:2px solid var(--oro); font-size:.9rem; }
+.lectura pre code { color:var(--tinta); overflow-wrap:normal; }
+.lectura blockquote { margin:1.5rem 0; padding:0 0 0 1.2rem; border-left:2px solid var(--linea); color:var(--muted); }
+.lectura img { display:block; max-width:100%; height:auto; margin:1.8rem auto .5rem; }
+.lectura figure { margin:2rem 0; }
+.lectura figcaption { text-align:center; color:var(--muted); font:.8rem/1.6 system-ui,sans-serif; }
+.lectura ul, .lectura ol { padding-left:1.55rem; }
+.lectura li { margin-bottom:.4rem; }
+.lectura hr { border:0; border-top:1px solid var(--linea); margin:2rem 0; }
