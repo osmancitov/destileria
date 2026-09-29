@@ -1,247 +1,237 @@
 # Aprendiendo Debian
 
-Una lectura desde el capítulo 1. Este cuaderno crece en bloques de notas fechados, en orden.
+Estructura de capítulos y secciones de la [Debian Reference, v2.150](https://www.debian.org/doc/manuals/debian-reference/index.en.html). Cuaderno de estudio desde cero; las notas se añadirán al avanzar.
 
-Estructura de capítulos y secciones basada en la [Debian Reference (v2.150)](https://www.debian.org/doc/manuals/debian-reference/index.en.html), con títulos de la [traducción española (v2.139)](https://www.debian.org/doc/manuals/debian-reference/index.es.html). Solo capítulos y secciones; las notas se añaden al estudiar cada tema.
+# Preface
 
-# Prefacio
+## 1. Disclaimer
 
-## 1. Aviso
+## 2. What is Debian
 
-## 2. Qué es Debian
+## 3. About this document
 
-## 3. Sobre este documento
+## 3.1. Guiding rules
 
-## 3.1. Directrices
+## 3.2. Prerequisites
 
-## 3.2. Prerrequisitos
+## 3.3. Conventions
 
-## 3.3. Convenciones
+## 3.4. The popcon
 
-## 3.4. Estadísticas de uso (popcon)
+## 3.5. The package size
 
-## 3.5. El tamaño del paquete
+## 3.6. Bug reports on this document
 
-## 3.6. Informes de errores en este documento
+## 4. Reminders for new users
 
-## 4. Consejos para nuevos usuarios
+## 5. Some quotes for new users
 
-## 5. Algunos comentarios para nuevos usuarios
+# 1. GNU/Linux tutorials
 
-# 1. Tutoriales de GNU/Linux
+## 1.1. Console basics
 
-## 1.1. Introducción a la consola
-
-**28 de septiembre de 2026 · Capítulo 1**
-
-**Primera idea: leer el prompt**
-
-`usuario@máquina:directorio$` - quién eres, dónde estás, con qué permisos andas. Si termina en `$` eres usuario normal; si termina en `#` eres root, y ahí cada tecla puede cambiar el sistema entero.
-
-Gracias Instinct!
-
-## 1.2. Sistema de archivos tipo Unix
+## 1.2. Unix-like filesystem
 
 ## 1.3. Midnight Commander (MC)
 
-## 1.4. Fundamentos de entornos de trabajo tipo Unix
+## 1.4. The basic Unix-like work environment
 
-## 1.5. Órdenes simples para el intérprete de órdenes
+## 1.5. The simple shell command
 
-## 1.6. Operaciones de texto al estilo de Unix
+## 1.6. Unix-like text processing
 
-# 2. Gestión de paquetes Debian
+# 2. Debian package management
 
-## 2.1. Prerequisitos de la gestión de paquetes Debian
+## 2.1. Debian package management prerequisites
 
-## 2.2. Operaciones básicas de la gestión de paquetes
+## 2.2. Basic package management operations
 
-## 2.3. Ejemplos de operaciones con aptitude
+## 2.3. Examples of aptitude operations
 
-## 2.4. Operaciones avanzadas de gestión de paquetes
+## 2.4. Advanced package management operations
 
-## 2.5. Gestión interna de los paquetes Debian
+## 2.5. Debian package management internals
 
-## 2.6. Recuperación de un sistema
+## 2.6. Recovery from a broken system
 
-## 2.7. Consejos para la gestión de paquetes
+## 2.7. Tips for the package management
 
-# 3. La inicialización del sistema
+# 3. The system initialization
 
-## 3.1. Resumen del proceso de arranque
+## 3.1. An overview of the boot strap process
 
 ## 3.2. Rescue system
 
 ## 3.3. Systemd
 
-## 3.4. Los mensajes del núcleo
+## 3.4. The kernel message
 
-## 3.5. El sistema de mensajes
+## 3.5. The system message
 
-## 3.6. Gestión del sistema
+## 3.6. System management
 
-## 3.7. Otros monitores del sistema
+## 3.7. Other system monitors
 
-## 3.8. Configuración del sistema
+## 3.8. System configuration
 
-## 3.9. El sistema udev
+## 3.9. The udev system
 
-## 3.10. La inicialización del módulo del núcleo
+## 3.10. The kernel module initialization
 
-# 4. Autenticación y controles de acceso
+# 4. Authentication and access controls
 
-## 4.1. Acreditación normal de Unix
+## 4.1. Normal Unix authentication
 
-## 4.2. Gestionando información de cuentas y contraseñas
+## 4.2. Managing account and password information
 
-## 4.3. Buenas contraseñas
+## 4.3. Good password
 
-## 4.4. Creando una contraseña cifrada
+## 4.4. Creating encrypted password
 
-## 4.5. PAM y NSS
+## 4.5. PAM and NSS
 
-## 4.6. Acreditación de seguridad
+## 4.6. Security of authentication
 
-## 4.7. Otros controles de acceso
+## 4.7. Other access controls
 
-# 5. Configuración de red
+# 5. Network setup
 
-## 5.1. La infraestructura de red básica
+## 5.1. The basic network infrastructure
 
-## 5.2. La configuración moderna de red en el escritorio
+## 5.2. The modern network configuration for desktop
 
-## 5.3. La moderna configuración de la red sin GUI
+## 5.3. The modern network configuration without GUI
 
-## 5.4. La moderna configuración de la red para la nube
+## 5.4. The modern network configuration for cloud
 
-## 5.5. La configuración de red de bajo nivel
+## 5.5. The low level network configuration
 
-## 5.6. Optimización de la red
+## 5.6. Network optimization
 
-## 5.7. Infraestructura Netfilter
+## 5.7. Netfilter infrastructure
 
-# 6. Aplicaciones de red
+# 6. Network applications
 
-## 6.1. Navegadores web
+## 6.1. Web browsers
 
-## 6.2. El sistema de correo
+## 6.2. The mail system
 
-## 6.3. Servidor de acceso remoto (SSH) y utilidades
+## 6.3. The remote access server and utilities (SSH)
 
-## 6.4. Servidor de impresión y utilidades
+## 6.4. The print server and utilities
 
-## 6.5. Servidores de aplicaciones en otras redes
+## 6.5. Other network application servers
 
-## 6.6. Otros clientes de aplicaciones de red
+## 6.6. Other network application clients
 
-## 6.7. Diagnóstico de los demonios del sistema
+## 6.7. The diagnosis of the system daemons
 
-# 7. Sistema GUI (interfaz gráfica de usuario)
+# 7. GUI System
 
-## 7.1. Entorno de escritorio GUI
+## 7.1. GUI desktop environment
 
-## 7.2. protocolo de comunicación GUI
+## 7.2. GUI communication protocol
 
-## 7.3. infraestructura GUI
+## 7.3. GUI infrastructure
 
-## 7.4. Aplicaciones GUI
+## 7.4. GUI applications
 
-## 7.5. Directorios de los usuarios
+## 7.5. User directories
 
-## 7.6. Tipografía
+## 7.6. Fonts
 
 ## 7.7. Sandbox
 
-## 7.8. Escritorio remoto
+## 7.8. Remote desktop
 
-## 7.9. conexión del servidor X
+## 7.9. X server connection
 
-## 7.10. Portapapeles
+## 7.10. Clipboard
 
-# 8. I18N y L10N
+# 8. I18N and L10N
 
-## 8.1. Configuración regional
+## 8.1. The locale
 
-## 8.2. La entrada por teclado
+## 8.2. The keyboard input
 
-## 8.3. La salida por pantalla
+## 8.3. The display output
 
-# 9. Trucos del sistema
+# 9. System tips
 
-## 9.1. Consejos para la consola
+## 9.1. The console tips
 
-## 9.2. Personalización de vim
+## 9.2. Customizing vim
 
-## 9.3. Registro de datos y presentación
+## 9.3. Data recording and presentation
 
-## 9.4. Monitoreando, controlando e iniciando lo que hacer los programas
+## 9.4. Monitoring, controlling, and starting program activities
 
-## 9.5. Trucos para el mantenimiento del sistema
+## 9.5. System maintenance tips
 
-## 9.6. Trucos del almacenamiento de datos
+## 9.6. Data storage tips
 
-## 9.7. La imagen de disco
+## 9.7. The disk image
 
-## 9.8. Datos binarios
+## 9.8. The binary data
 
-## 9.9. Trucos para cifrar información
+## 9.9. Data encryption tips
 
-## 9.10. El núcleo
+## 9.10. The kernel
 
-## 9.11. Sistemas virtualizados
+## 9.11. Virtualized system
 
-# 10. Gestión de información
+# 10. Data management
 
-## 10.1. Compartición, copia y archivo
+## 10.1. Sharing, copying, and archiving
 
-## 10.2. Respaldo y recuperación
+## 10.2. Backup and recovery
 
-## 10.3. Infraestructura de seguridad de la información
+## 10.3. Data security infrastructure
 
-## 10.4. Herramientas para mezclar código fuente
+## 10.4. Source code merge tools
 
 ## 10.5. Git
 
-# 11. Conversión de datos
+# 11. Data conversion
 
-## 11.1. Herramientas para la conversión de información en formato texto
+## 11.1. Text data conversion tools
 
-## 11.2. datos XML
+## 11.2. XML data
 
-## 11.3. Configuración tipográfica
+## 11.3. Type setting
 
-## 11.4. Información imprimible
+## 11.4. Printable data
 
-## 11.5. La conversión de los datos de correo
+## 11.5. The mail data conversion
 
-## 11.6. Herramientas para información gráfica
+## 11.6. Graphic data tools
 
-## 11.7. Conversiones de información variadas
+## 11.7. Miscellaneous data conversion
 
-# 12. Programación
+# 12. Programming
 
-## 12.1. Los archivos de órdenes
+## 12.1. The shell script
 
-## 12.2. Programación en lenguajes interpretados
+## 12.2. Scripting in interpreted languages
 
-## 12.3. Codificación en lenguajes compilados
+## 12.3. Coding in compiled languages
 
-## 12.4. Herramientas de análisis estático de memoria
+## 12.4. Static code analysis tools
 
-## 12.5. Depuración
+## 12.5. Debug
 
-## 12.6. Herramientas de construcción
+## 12.6. Build tools
 
 ## 12.7. Web
 
-## 12.8. La traducción de código fuente
+## 12.8. The source code translation
 
-## 12.9. Haciendo un paquete Debian
+## 12.9. Making Debian package
 
-# A. Apéndice
+# A. Appendix
 
-## A.1. Debian maze
+## A.1. The Debian maze
 
-## A.2. Histórico de copyright
+## A.2. Copyright history
 
-## A.3. Formato del documento
+## A.3. Document format
