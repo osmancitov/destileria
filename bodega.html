@@ -185,20 +185,6 @@
 
 </section>
 
-<!-- CORPUS EN PROCESO -->
-<section class="modulo recepcion" id="en-proceso">
-<div class="modulo-cabecera">
-  <h1>En proceso</h1>
-</div>
-<div class="bitacora">
-  <p>Corpus en proceso...</p>
-</div>
-
-<div class="grilla-portadas" id="grilla-proceso">
-<!-- Las tarjetas se generan desde el catálogo YAML -->
-</div>
-
-</section>
 
 </main>
 
@@ -539,32 +525,6 @@ length: ""
 
 
 <!-- ═══════════════════════════════════════════════════
-     CATÁLOGO EN PROCESO
-     Mismo formato que el catálogo principal.
-     El href se construye como: destilados/page.html?s={slug}
-     ═══════════════════════════════════════════════════ -->
-<script id="catalogo-en-proceso" type="text/yaml">
-
----
-lot: ""
-slug: "x_weisser_creacion"
-title: "El Misterio de la Creación"
-title_german: "Buch über das Geheimnis der Schöpfung und die Darstellung der Natur (Buch der Ursachen) von Pseudo-Apollonios von Tyana"
-title_source: "Kitāb Sirr al-Ḫalīqa"
-author: "Ursula Weisser"
-year: "1979"
-date: "3 de septiembre de 2026"
-description: "Edición crítica y estudio del Kitāb Sirr al-ḫalīqa, una cosmología pseudepigráfica de la Antigüedad tardía transmitida en árabe."
-excerpt: "Un tratado hermético sobre la creación, los minerales, las plantas y los animales, atribuido a Apolonio de Tiana."
-language: "Alemán"
-genre: "Erudición académica, edición crítica, historia de la ciencia"
-length: "txt"
----
-
-</script>
-
-
-<!-- ═══════════════════════════════════════════════════
      MOTOR — no tocar
      ═══════════════════════════════════════════════════ -->
 <script>
@@ -622,18 +582,6 @@ length: "txt"
     return 'destilados/' + l.slug + '.html';
   });
 
-  /* ── 4. Grilla en proceso ── */
-  var rawProceso = document.getElementById('catalogo-en-proceso').textContent;
-  var lotesProceso = rawProceso.split('---').map(function (b) { return b.trim(); }).filter(Boolean)
-    .map(parseYAML).filter(function (o) { return o.slug; });
-  var grillaProceso = document.getElementById('grilla-proceso');
-	lotesProceso.forEach(function (l) {
-  l.imagen = l.imagen || 'catalogo-en-proceso_presentacion_1_half.jpg';
-});
-  construirGrilla(grillaProceso, lotesProceso, function (l) {
-    return 'https://osmancitov.github.io/destilados/page.html?s=' + l.slug;
-  });
-
   /* ── 5. Lightbox unificado con panel de info ── */
   var lbOverlay  = document.getElementById('lb-overlay');
   var lbImg      = document.getElementById('lb-img');
@@ -682,9 +630,7 @@ length: "txt"
   }
 
   grillaPrincipal.addEventListener('click', manejarClick);
-  grillaProceso.addEventListener('click', manejarClick);
   grillaPrincipal.addEventListener('keydown', manejarTeclado);
-  grillaProceso.addEventListener('keydown', manejarTeclado);
 
 })();
 </script>
