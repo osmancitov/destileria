@@ -66,7 +66,7 @@ The Linux Documentation Project (TLDP) http://tldp.org/
 
 ### 3.3. Convenciones
 
-# command-in-root-account
+´#´ command-in-root-account
 
 $ command-in-user-account
 
