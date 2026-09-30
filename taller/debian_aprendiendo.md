@@ -10,65 +10,25 @@ de [Osamu Aoki](https://salsa.debian.org/osamu) (青木 修).
 
 ## 1. Aviso
 
-The Debian system itself is a moving target. This makes its documentation difficult to be current and correct. Although the current testing version of the Debian system was used as the basis for writing this, some contents may be already outdated by the time you read this.
+El sistema Debian es un blanco móvil (moving target): mantener la documentación al día es difícil. Este manual se escribió sobre la versión testing del momento, así que algún detalle puede llegar ya viejo cuando lo leas.
 
 ## 2. Qué es Debian
 
-What is Debian
-
-The Debian Project is an association of individuals who have made common cause to create a free operating system. It's distribution is characterized by the following.
-
-Commitment to the software freedom: Debian Social Contract and Debian Free Software Guidelines (DFSG)
-
-Internet based distributed unpaid volunteer effort: https://www.debian.org
-
-Large number of pre-compiled high quality software packages
-
-Focus on stability and security with easy access to the security updates
-
-Focus on smooth upgrade to the latest software packages in the testing archives
-
-Large number of supported hardware architectures
+El Debian Project es una asociación de personas unidas por una causa común: crear un sistema operativo libre. Su sello: compromiso con la libertad del software (el Debian Social Contract y las DFSG), esfuerzo voluntario distribuido por internet y sin paga, gran cantidad de paquetes precompilados de alta calidad, foco en estabilidad y seguridad con actualizaciones de seguridad fáciles, upgrades suaves hacia los paquetes más nuevos del archivo testing, y soporte para muchas arquitecturas de hardware.
 
 ## 3. Sobre este documento
 
 ### 3.1. Principios rectores
 
-Following guiding rules are followed while compiling this document.
-
-Provide overview and skip corner cases. (Big Picture)
-
-Keep It Short and Simple. (KISS)
-
-Do not reinvent the wheel. (Use pointers to the existing references)
-
-Focus on non-GUI tools and consoles. (Use shell examples)
-
-Be objective. (Use popcon etc.)
+Las reglas que siguió el autor: panorama general y nada de casos raros (big picture), KISS (keep it short and simple), no reinventar la rueda (apuntar a las referencias que ya existen), herramientas de consola y no gráficas (ejemplos con shell), y objetividad (datos del popcon).
 
 ### 3.2. Prerrequisitos
 
-You are expected to make good efforts to seek answers by yourself beyond this documentation. This document only gives efficient starting points.
-
-You must seek solution by yourself from primary sources.
-
-The Debian site https://www.debian.org 
-
-The documentation directory
-"/usr/share/doc/package_name"
-
-Wikipedia https://www.wikipedia.org/
-
-The Debian Administrator's Handbook
-https://www.debian.org/doc/manuals/debian-handbook/
- 
-The Linux Documentation Project (TLDP) http://tldp.org/
+Este documento solo da puntos de partida eficientes; las respuestas se buscan uno mismo, en las fuentes primarias: el sitio https://www.debian.org, el directorio /usr/share/doc/nombre_del_paquete de tu propio sistema, Wikipedia, el Debian Administrator's Handbook (https://www.debian.org/doc/manuals/debian-handbook/) y TLDP (http://tldp.org/).
 
 ### 3.3. Convenciones
 
-´#´ command-in-root-account
-
-$ command-in-user-account
+Convención de los ejemplos: `#` delante del comando significa que se ejecuta en la cuenta root; `$` significa cuenta de usuario normal.
 
 ### 3.4. Estadísticas de uso (popcon)
 
