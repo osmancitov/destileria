@@ -66,6 +66,10 @@ The Linux Documentation Project (TLDP) http://tldp.org/
 
 ### 3.3. Convenciones
 
+# command-in-root-account
+
+$ command-in-user-account
+
 ### 3.4. Estadísticas de uso (popcon)
 
 ### 3.5. El tamaño del paquete
