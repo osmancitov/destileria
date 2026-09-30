@@ -48,6 +48,8 @@ Be objective. (Use popcon etc.)
 
 ### 3.2. Prerrequisitos
 
+You are expected to make good efforts to seek answers by yourself beyond this documentation. This document only gives efficient starting points.
+
 You must seek solution by yourself from primary sources.
 
 The Debian site https://www.debian.org 
