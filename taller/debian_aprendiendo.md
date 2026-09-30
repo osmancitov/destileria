@@ -1,18 +1,66 @@
 # Aprendiendo Debian
 
-Cuaderno de estudio de la [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/index.es.html), edición 2.100 (Bookworm). Estructura y numeración según el índice de esta edición; las notas se añadirán al avanzar.
+Cuaderno de estudio de la [Debian Reference (version 2.100)](https://packages.debian.org/bookworm/debian-reference)
+Manual de usuario de [Debian 12 (Bookworm)](https://packages.debian.org/bookworm/) 
 
+de [Osamu Aoki](https://salsa.debian.org/osamu) (青木 修).
+
+---
 # Prefacio
 
 ## 1. Aviso
 
+The Debian system itself is a moving target. This makes its documentation difficult to be current and correct. Although the current testing version of the Debian system was used as the basis for writing this, some contents may be already outdated by the time you read this.
+
 ## 2. Qué es Debian
+
+What is Debian
+
+The Debian Project is an association of individuals who have made common cause to create a free operating system. It's distribution is characterized by the following.
+
+Commitment to the software freedom: Debian Social Contract and Debian Free Software Guidelines (DFSG)
+
+Internet based distributed unpaid volunteer effort: https://www.debian.org
+
+Large number of pre-compiled high quality software packages
+
+Focus on stability and security with easy access to the security updates
+
+Focus on smooth upgrade to the latest software packages in the testing archives
+
+Large number of supported hardware architectures
 
 ## 3. Sobre este documento
 
 ### 3.1. Principios rectores
 
+Following guiding rules are followed while compiling this document.
+
+Provide overview and skip corner cases. (Big Picture)
+
+Keep It Short and Simple. (KISS)
+
+Do not reinvent the wheel. (Use pointers to the existing references)
+
+Focus on non-GUI tools and consoles. (Use shell examples)
+
+Be objective. (Use popcon etc.)
+
 ### 3.2. Prerrequisitos
+
+You must seek solution by yourself from primary sources.
+
+The Debian site https://www.debian.org 
+
+The documentation directory
+"/usr/share/doc/package_name"
+
+Wikipedia https://www.wikipedia.org/
+
+The Debian Administrator's Handbook
+https://www.debian.org/doc/manuals/debian-handbook/
+ 
+The Linux Documentation Project (TLDP) http://tldp.org/
 
 ### 3.3. Convenciones
 
