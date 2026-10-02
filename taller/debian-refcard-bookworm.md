@@ -11,7 +11,7 @@ Fuente: [repositorio oficial de refcard](https://salsa.debian.org/ddp-team/refca
 ## Pidiendo ayuda
 
   - man comando 
-    Muestra la página de manual del comando indicadk. Todas las órdenes y muchos otros archivos tienen páginas de manual. Para aprender acerca de funciones internas, consulte `man bash`.
+    Muestra la página de manual del comando indicado. Todas las órdenes y muchos otros archivos tienen páginas de manual. Para aprender acerca de funciones internas, consulte `man bash`.
 
   - comando   \[`--`help, `-`h\]  
     Breve ayuda para la mayor parte de las órdenes.
