@@ -70,17 +70,14 @@ Convención de los ejemplos: `#` delante del comando significa que se ejecuta en
 
 # Tarjeta de referencia de Debian
 
-La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP): una hoja con seis columnas, tres por cara, hecha para imprimir y plegar. El manual explica; la tarjeta deja a mano los comandos para consultar ayuda, configurar el sistema y manejar paquetes.
-
-El pliegue también ordena la lectura. Primero se dobla el tercio derecho hacia la marca entre el izquierdo y el central; después, el izquierdo sobre el derecho. La portada debe quedar delante y el aviso de licencia detrás. El diagrama muestra cómo se acomodan los paneles:
+La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP): una hoja con seis columnas, tres por cara, hecha para imprimir y plegar. La tarjeta deja a mano los comandos para consultar ayuda, configurar el sistema y manejar paquetes.
 
 ![Diagrama de plegado de la tarjeta de referencia de Debian](img/2-refcard.png)
 
-Fuente del diagrama y de la tarjeta: [repositorio refcard en Salsa](https://salsa.debian.org/ddp-team/refcard), bajo licencia GPL-3 o posterior. Allí viven el texto en DocBook XML y los archivos para producir el folleto: `entries.dbk` contiene los comandos; `refcard.dbk`, la presentación y las instrucciones de plegado.
-
-La fuente actual corresponde a Debian 13 (Trixie). Este cuaderno sigue estudiando Debian 12 (Bookworm): conviene tener presente esa diferencia al consultar la tarjeta. El texto completo de la tarjeta para Bookworm (12.0) vive en su propio cuaderno: [Tarjeta de referencia de Debian, edición Bookworm](cuaderno.html?f=debian-refcard-bookworm.md).
+[Refcard v.12 (Bookworm)](https://osmancitov.github.io/taller/cuaderno.html?f=debian-refcard-bookworm.md)
 
 ---
+
 # Dónde buscar ayuda y de dónde salen las cosas
 
 Un sistema Debian no viene con un único manual sino con una red de fuentes, y saber cuál abrir ahorra mucho tiempo. Estas son las que ya están apartadas, cada una con su oficio.
