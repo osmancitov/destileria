@@ -24,41 +24,49 @@ Las reglas que siguió el autor: panorama general y nada de casos raros (big pic
 
 ### 3.2. Prerrequisitos
 
-Este documento solo da puntos de partida eficientes; las respuestas las busca uno mismo, en las fuentes primarias: el sitio https://www.debian.org, el directorio /usr/share/doc/ de tu propio sistema, Wikipedia, el Debian Administrator's Handbook (https://www.debian.org/doc/manuals/debian-handbook/) y TLDP (http://tldp.org/).
+Este documento solo da puntos de partida eficientes; las respuestas las busca uno mismo, en las fuentes primarias: el sitio https://www.debian.org, el directorio /usr/share/doc/ de tu propio sistema, Wikipedia, el Debian Administrator's Handbook (https://www.debian.org/doc/manuals/debian-handbook/) y TLDP (The Linux Documentation Project) (http://tldp.org/).
 
-> 🐍 También se mencionan otras fuentes de información e investigación. Quizás sería bueno incluirlas y tener en el cuaderno un compendio de (todas? las mejores?) fuentes como: 
+***Otras fuentes:***
 
-Sí: ese compendio es justo lo que falta, y está más abajo, en «Dónde buscar ayuda». Antes de ir a las fuentes de afuera conviene entender las que ya vienen dentro de tu propia máquina, porque Debian reparte la ayuda en capas y cada capa responde una pregunta distinta. Las cuatro citas siguientes son las primeras capas, y las voy tejiendo una por una.
+Antes de ir a las fuentes de afuera conviene entender las que ya vienen dentro de tu propia máquina, porque Debian reparte la ayuda en capas y cada capa responde una pregunta distinta. Las cuatro citas siguientes son las primeras capas.
 
-> 🐍 The Unix style **manpage**: "`dpkg -L package_name |grep '/man/man.*/'`"
+
+The Unix style **manpage**: 
+`dpkg -L package_name |grep '/man/man.*/'`
 
 La **manpage** es la capa de referencia. Cada comando, archivo de configuración o llamada del sistema trae su página, que se abre con `man nombre`, y es lo más parecido que hay al `comando /?` de MS-DOS, pero con mucha más sustancia. Las páginas se agrupan en **secciones numeradas**: 1 comandos de usuario, 2 llamadas al sistema, 3 funciones de biblioteca, 4 dispositivos, 5 formatos de archivo y configuración, 6 juegos, 7 miscelánea, 8 administración del sistema, 9 el kernel. Por eso existen `passwd` (el comando, sección 1) y `passwd` (el archivo `/etc/passwd`, sección 5): `man passwd` abre la primera, `man 5 passwd` la segunda. Y si no sabes cómo se llama lo que buscas, `man -k palabra` (o `apropos palabra`) busca la palabra en los títulos y descripciones de todas las páginas instaladas; `man -f nombre` (o `whatis`) te dice en una línea qué es. Lo que la cita muestra, `dpkg -L paquete | grep '/man/man.*/'`, es otra cosa: pregunta qué páginas de manual trae un paquete concreto, ya instalado, y sirve cuando instalaste algo y no sabes qué comandos aportó.
 
-> 🐍 The GNU style **info page**: "`dpkg -L package_name |grep '/info/'`"
+
+The GNU style **info page**: 
+`dpkg -L package_name |grep '/info/'`
 
 La **info page** es la capa de manual completo, nacida del proyecto GNU. Donde una manpage es una hoja de consulta que se lee de arriba abajo, `info` es un libro hipertextual dividido en **nodos** con enlaces: se entra con `info coreutils`, se salta entre nodos con `n` (siguiente), `p` (anterior) y `u` (subir un nivel), se sigue un enlace con Enter y se sale con `q`; `?` muestra todas las teclas. Si la manpage es el diccionario, el info es el tratado, con tutorial, ejemplos y explicaciones. Muchos comandos GNU tienen una manpage resumida que dice casi al final «la documentación completa está en info». Igual que antes, `dpkg -L paquete | grep '/info/'` lista las páginas info que trae un paquete, y no todos las traen.
 
-> 🐍 The bug report: [http://bugs.debian.org/*package\_name*](https://bugs.debian.org/)
 
-El **informe de errores** ya no es documentación sino memoria colectiva. Cada paquete de Debian tiene su página en el sistema de bugs, y ahí se ve lo que otras personas encontraron roto, lo que está en estudio y a veces la solución que la manpage no menciona. Es lo que tú hiciste con tu wishlist #1149541: abrir un bug también es hablar con quien mantiene el manual.
+The bug report: [http://bugs.debian.org/*package\_name*](https://bugs.debian.org/)
 
-> 🐍 The Debian Wiki at <https://wiki.debian.org/> for the moving and specific topics
+El **informe de errores** ya no es documentación como tal sino memoria colectiva. Cada paquete de Debian tiene su página en el sistema de bugs, y ahí se ve lo que otras personas encontraron roto, lo que está en estudio y a veces la solución que la manpage no menciona. Es lo que tú hiciste con tu wishlist #1149541: abrir un bug también es hablar con quien mantiene el manual.
+
+
+The Debian Wiki <https://wiki.debian.org/> para temas cambiantes y específicos.
 
 La **wiki de Debian** es la capa móvil: lo que cambia rápido o depende de la versión (instalar firmware, configurar la red, trucos de escritorio). Escrita por usuarios, así que se lee con criterio y mirando la fecha, pero se actualiza más rápido que cualquier manual impreso.
 
-Quedan dos capas más que la cita no nombra, y son las que usarás más a diario.
 
-La primera es **`--help`**: casi todo comando acepta `comando --help` y devuelve un resumen de opciones en pocas líneas. Es la memoria rápida: no explica, solo recuerda. Es el heredero directo del `/?` de Omnel.
+Help y Share Docs.
 
-La segunda es **`/usr/share/doc/`**, la carpeta donde cada paquete deja lo suyo: `README.Debian` (lo que Debian cambió respecto al original), el `changelog.Debian.gz`, el `copyright`, y a veces ejemplos de configuración. Aquí es donde se mira cuando el manual no alcanza.
+**`--help`**: casi todo comando acepta `comando --help` y devuelve un resumen de opciones en pocas líneas. Es la memoria rápida: no explica, solo recuerda.
 
-La idea para quedarse con ella: `--help` es la memoria, `man` es la referencia, `info` es el manual completo, `/usr/share/doc` es lo específico de Debian, y los bugs y la wiki son lo que la gente aprendió después de que el manual se escribió. Se consulta en ese orden, de lo más rápido a lo más amplio.
+**`/usr/share/doc/`**, la carpeta donde cada paquete deja lo suyo: `README.Debian` (lo que Debian cambió respecto al original), el `changelog.Debian.gz`, el `copyright`, y a veces ejemplos de configuración. Aquí es donde se mira cuando el manual no alcanza.
+
+La idea para quedarse con ella: `--help` es la memoria rápida, `man` es la referencia, `info` es el manual completo, `/usr/share/doc` es lo específico de Debian, y los bugs y la wiki son lo que la gente aprendió después de que el manual se escribió. Se consulta en ese orden, de lo más rápido a lo más amplio.
 
 ### 3.3. Convenciones
 
 Convención de los ejemplos: `#` delante del comando significa que se ejecuta en la cuenta root; `$` significa cuenta de usuario normal.
 
 ---
+
 # Tarjeta de referencia de Debian
 
 La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP): una hoja con seis columnas, tres por cara, hecha para imprimir y plegar. El manual explica; la tarjeta deja a mano los comandos para consultar ayuda, configurar el sistema y manejar paquetes.
