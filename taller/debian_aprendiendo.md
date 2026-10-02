@@ -80,7 +80,7 @@ La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP
 
 # De dónde salen las cosas
 
-Un sistema Debian no viene con un único manual sino con una red de fuentes, y saber cuál abrir ahorra mucho tiempo. Estas son las que ya están apartadas, cada una con su oficio.
+Un sistema Debian no viene con un único manual sino con una red de fuentes, y saber cuál abrir ahorra mucho tiempo. Estas son las principales, cada una con su oficio.
 
 Para **conseguir el sistema en sí** (o uno anterior) está el [archivo de imágenes ISO de Debian](https://cdimage.debian.org/cdimage/archive/): ahí quedan guardadas todas las versiones, útil cuando uno quiere instalar justo Bookworm y no la última versión.
 
@@ -91,4 +91,5 @@ La tarjeta de referencia tiene su propia casa: el [repositorio refcard en Salsa]
 Para el entorno de escritorio GNOME, la [ayuda](https://help.gnome.org/index.html) es el manual de lo que se ve y se hace con el ratón, la otra cara de lo que aquí se estudia desde la consola.
 
 Y para saber **qué hay disponible**, el [buscador de paquetes de Debian Bookworm](https://packages.debian.org/bookworm/) dice qué paquetes existen en esta versión, qué contienen y de qué dependen. Como ejemplo, la página del paquete [debian-reference](https://packages.debian.org/bookworm/debian-reference) muestra de dónde sale el manual que se estudia aquí, con su versión 2.100 de Bookworm.
+
 
