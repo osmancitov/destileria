@@ -40,4 +40,15 @@ Este documento solo da puntos de partida eficientes; las respuestas las busca un
 
 Convención de los ejemplos: `#` delante del comando significa que se ejecuta en la cuenta root; `$` significa cuenta de usuario normal.
 
+---
+# Tarjeta de referencia de Debian
 
+La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP): una hoja con seis columnas, tres por cara, hecha para imprimir y plegar. El manual explica; la tarjeta deja a mano los comandos para consultar ayuda, configurar el sistema y manejar paquetes.
+
+El pliegue también ordena la lectura. Primero se dobla el tercio derecho hacia la marca entre el izquierdo y el central; después, el izquierdo sobre el derecho. La portada debe quedar delante y el aviso de licencia detrás. El diagrama muestra cómo se acomodan los paneles:
+
+![Diagrama de plegado de la tarjeta de referencia de Debian](img/refcard.png)
+
+Fuente del diagrama y de la tarjeta: [repositorio refcard en Salsa](https://salsa.debian.org/ddp-team/refcard), bajo licencia GPL-3 o posterior. Allí viven el texto en DocBook XML y los archivos para producir el folleto: `entries.dbk` contiene los comandos; `refcard.dbk`, la presentación y las instrucciones de plegado.
+
+La fuente actual corresponde a Debian 13 (Trixie). Este cuaderno sigue estudiando Debian 12 (Bookworm): conviene tener presente esa diferencia al consultar la tarjeta.
