@@ -145,7 +145,7 @@ Fuente: [repositorio oficial de refcard](https://salsa.debian.org/ddp-team/refca
     Elimina directorios vacíos.
 
   - tar \[c\]\[x\]\[t\]\[z\]\[j\]\[J\] -f archivo.tar \[archivos\]  
-    Creaa (c), extrae (x), lista tabla de (t) archive file, *z* for `.gz`, *j* for `.bz2`, *J* for `.xz`.
+    Crea (c), extrae (x), lista tabla de (t) archive file, *z* for `.gz`, *j* for `.bz2`, *J* for `.xz`.
 
   - find directorios expresiones  
     Encuentra archivos por condición como `-name nombre` o `-size +1000`, etc.
