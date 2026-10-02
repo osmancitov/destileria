@@ -78,7 +78,7 @@ La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP
 
 ---
 
-# Dónde buscar ayuda y de dónde salen las cosas
+# De dónde salen las cosas
 
 Un sistema Debian no viene con un único manual sino con una red de fuentes, y saber cuál abrir ahorra mucho tiempo. Estas son las que ya están apartadas, cada una con su oficio.
 
@@ -88,7 +88,7 @@ La puerta principal a la documentación es la página de [manuales para usuarios
 
 La tarjeta de referencia tiene su propia casa: el [repositorio refcard en Salsa](https://salsa.debian.org/ddp-team/refcard), donde viven su texto fuente y los archivos para imprimirla.
 
-Para el escritorio, la [ayuda de GNOME](https://help.gnome.org/index.html) es el manual de lo que se ve y se hace con el ratón, la otra cara de lo que aquí se estudia desde la consola.
+Para el entorno de escritorio GNOME, la [ayuda](https://help.gnome.org/index.html) es el manual de lo que se ve y se hace con el ratón, la otra cara de lo que aquí se estudia desde la consola.
 
 Y para saber **qué hay disponible**, el [buscador de paquetes de Debian Bookworm](https://packages.debian.org/bookworm/) dice qué paquetes existen en esta versión, qué contienen y de qué dependen. Como ejemplo, la página del paquete [debian-reference](https://packages.debian.org/bookworm/debian-reference) muestra de dónde sale el manual que se estudia aquí, con su versión 2.100 de Bookworm.
 
