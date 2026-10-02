@@ -1,4 +1,5 @@
-# Tarjeta de Referencia Debian 12 (Bookworm)
+# Tarjeta de Referencia Debian 
+*v. 12 (Bookworm)*
 
 Las 101 cosas más importantes para el uso de Debian.
 
