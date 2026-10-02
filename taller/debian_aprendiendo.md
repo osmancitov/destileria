@@ -30,7 +30,7 @@ Este documento solo da puntos de partida eficientes; las respuestas las busca un
 
 ***Otras fuentes:***
 
-Antes de ir a las fuentes de afuera conviene entender las que ya vienen dentro de tu propia máquina, porque Debian reparte la ayuda en capas y cada capa responde una pregunta distinta. Las cuatro citas siguientes son las primeras capas.
+Antes de ir a las fuentes de afuera conviene entender las que ya vienen dentro de tu propia máquina, porque Debian reparte la ayuda en capas y cada capa responde una pregunta distinta. Las siguientes son las primeras capas.
 
 - The Unix style **manpage**: 
 `dpkg -L package_name |grep '/man/man.*/'`
