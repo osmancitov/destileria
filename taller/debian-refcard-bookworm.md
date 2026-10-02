@@ -1,6 +1,6 @@
 # Tarjeta de Referencia Debian 
 
-Las 101 cosas más importantes para el uso de Debian.
+*Las 101 cosas más importantes para el uso de Debian.*
 
 Edición: Refcard v. 12.0 (Bookworm), publicada el 22 de marzo de 2023. Conversión a Markdown: 1 de octubre de 2026.
 
