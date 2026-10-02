@@ -44,7 +44,7 @@ La **info page** es la capa de manual completo, nacida del proyecto GNU. Donde u
 
 - The bug report: [http://bugs.debian.org/*package\_name*](https://bugs.debian.org/)
 
-El **informe de errores** ya no es documentación como tal sino memoria colectiva. Cada paquete de Debian tiene su página en el sistema de bugs, y ahí se ve lo que otras personas encontraron roto, lo que está en estudio y a veces la solución que la manpage no menciona. Es lo que tú hiciste con tu wishlist #1149541: abrir un bug también es hablar con quien mantiene el manual.
+El **informe de errores** ya no es documentación como tal sino memoria colectiva. Cada paquete de Debian tiene su página en el sistema de bugs, y ahí se ve lo que otras personas encontraron roto, lo que está en estudio y a veces la solución que la manpage no menciona.
 
 - The Debian Wiki <https://wiki.debian.org/> para temas cambiantes y específicos.
 
