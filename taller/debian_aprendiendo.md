@@ -68,7 +68,7 @@ Convención de los ejemplos: `#` delante del comando significa que se ejecuta en
 
 ---
 
-# Tarjeta de referencia de Debian
+# Tarjeta de referencia 
 
 La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP): una hoja con seis columnas, tres por cara, hecha para imprimir y plegar. La tarjeta deja a mano los comandos para consultar ayuda, configurar el sistema y manejar paquetes.
 
@@ -82,7 +82,7 @@ La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP
 
 Un sistema Debian no viene con un único manual sino con una red de fuentes, y saber cuál abrir ahorra mucho tiempo. Estas son las que ya están apartadas, cada una con su oficio.
 
-Para **conseguir el sistema mismo** (o uno viejo) está el [archivo de imágenes ISO de Debian](https://cdimage.debian.org/cdimage/archive/): ahí quedan guardadas las versiones anteriores, útil cuando uno quiere instalar justo Bookworm y no lo que sea actual.
+Para **conseguir el sistema en sí** (o uno anterior) está el [archivo de imágenes ISO de Debian](https://cdimage.debian.org/cdimage/archive/): ahí quedan guardadas todas las versiones, útil cuando uno quiere instalar justo Bookworm y no la última versión.
 
 La puerta principal a la documentación es la página de [manuales para usuarios de Debian](https://www.debian.org/doc/user-manuals). Es el índice de todo el proyecto: la FAQ de GNU/Linux, la Guía de instalación, las Notas de la versión, la Tarjeta de referencia, el Administrator's Handbook, la Debian Reference (el manual de este cuaderno), el manual de Aptitude, la guía de APT, la FAQ de Java y hasta una guía para radioaficionados. Cuando no se sabe por dónde empezar, se empieza aquí.
 
