@@ -1,9 +1,8 @@
 # Tarjeta de Referencia Debian 
-*v. 12 (Bookworm)*
 
 Las 101 cosas más importantes para el uso de Debian.
 
-Edición: refcard 12.0, publicada el 22 de marzo de 2023. Conversión a Markdown: 1 de octubre de 2026.
+Edición: Refcard v. 12.0 (Bookworm), publicada el 22 de marzo de 2023. Conversión a Markdown: 1 de octubre de 2026.
 
 Fuente: [repositorio oficial de refcard](https://salsa.debian.org/ddp-team/refcard), etiqueta `12.0`.
 
