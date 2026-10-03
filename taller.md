@@ -1,6 +1,3 @@
----
-title: El Taller
----
 
 # El Taller
 
