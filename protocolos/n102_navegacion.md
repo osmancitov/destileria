@@ -1,7 +1,3 @@
----
-name: guia-intereses
-description: Genera una guía de navegación orientada por intereses del lector para documentos de análisis literario con múltiples secciones H1. En vez de describir qué hace cada instrumento, identifica qué le puede interesar a un lector y lo dirige a la sección correspondiente. Úsalo cuando el usuario quiera orientar a un lector que no sabe qué busca pero sí sabe qué le interesa. Trigger: el usuario pide una guía de navegación por intereses, un "si te interesa X ve aquí", o una guía de entrada para lectores sin contexto previo.
----
 
 # Guía de navegación por intereses
 
