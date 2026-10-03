@@ -1,6 +1,3 @@
----
-title: Destilería Osmancito
----
 
 # Destilería Osmancito
 
