@@ -75,7 +75,7 @@ La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP
 ![Diagrama de plegado de la tarjeta de referencia de Debian](img/2-refcard.png)
 
 Se puede ver la versión de Osmancito de la Refcard aquí:
-[Osmancito Refcard v.12](https://osmancitov.github.io/taller/cuaderno.html?f=debian-refcard-bookworm.md)
+[Osmancito Refcard v.12](https://osmancitov.github.io/taller/debian-refcard-bookworm.md)
 
 ---
 
@@ -92,5 +92,3 @@ La tarjeta de referencia tiene su propia casa: el [repositorio refcard en Salsa]
 Para el entorno de escritorio GNOME, la [ayuda](https://help.gnome.org/index.html) es el manual de lo que se ve y se hace con el ratón, la otra cara de lo que aquí se estudia desde la consola.
 
 Y para saber **qué hay disponible**, el [buscador de paquetes de Debian Bookworm](https://packages.debian.org/bookworm/) dice qué paquetes existen en esta versión, qué contienen y de qué dependen. Como ejemplo, la página del paquete [debian-reference](https://packages.debian.org/bookworm/debian-reference) muestra de dónde sale el manual que se estudia aquí, con su versión 2.100 de Bookworm.
-
-
