@@ -1,6 +1,6 @@
 # Frases notables
 
-Frases que llaman la atención por sí solas y que quizá lleguen a ser ejes, vectores unitarios o algo más que todavía no sabemos. Se guardan con su contexto y su fecha; la lista crece de a poco. No es lo mismo que las [Vetas](cuaderno.html?f=vetas.md): las vetas son los temas donde pescar, estas son los peces.
+Frases que llaman la atención por sí solas y que quizá lleguen a ser ejes, vectores unitarios o algo más que todavía no sabemos. Se guardan con su contexto y su fecha; la lista crece de a poco. No es lo mismo que las [Vetas](https://osmancitov.github.io/taller/vetas.md): las vetas son los temas donde pescar, estas son los peces.
 
 ## Origen (26 al 30 de septiembre de 2026)
 
