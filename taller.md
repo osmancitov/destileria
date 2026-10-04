@@ -7,5 +7,7 @@ Aquí se estudia y se construye en público, bloque a bloque. Los cuadernos son 
 - [Tarjeta de referencia de Debian](taller/debian-refcard-bookworm.md): Bookworm 12.0, texto completo de la refcard.
 - [Vetas](taller/vetas.md): temas por pescar, él elige cuándo y cuál.
 - [Frases notables](taller/frases_notables.md): frases que quizá lleguen a ser ejes, con su contexto.
+- [Trazar](taller/trazar.md): protocolo 1, dibuja la geometría de un corpus: ejes, relieve, densidad, redundancia y vetas.
+- [Escalar](taller/escalar.md): protocolo 2, corta y destila la siguiente copa de a quinto, siguiendo las vetas.
 
 [Volver al origen](index.html) · [La Bodega](bodega.html)
