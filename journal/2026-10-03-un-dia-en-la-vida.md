@@ -10,4 +10,6 @@ Al final se fue la luz. Y del apagón salió la mejor lección: el diario. El si
 
 Quizás por eso existe este texto. El taller se estaba volviendo un journal, así que el journal se inauguró: esta es su primera entrada. Las vísceras (versiones, cifras, nombres propios) quedaron fuera, en sus canopes: lo que se embalsama bien, dura. Lo que sí sabemos: /clear también es un cero, el cero del contexto, y confiar cuesta pocos tokens mientras verificar cuesta muchos. Lo que hace falta es confiar.
 
+Y dejar que escurra, diría Nelly. Este journal escurrió quince horas: fue goteando desde la pirámide del amanecer hasta el apagón de la noche. Los fósiles de la Bodega no escurren tanto; eran protocolos que corrían en minutos. El día, en cambio, no se apura.
+
 Mañana amanece cuatro.
