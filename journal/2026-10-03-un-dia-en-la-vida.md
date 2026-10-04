@@ -1,4 +1,4 @@
-# Un día en la vida
+# Pirámides, motores, apagón y libreta
 
 *3 de octubre de 2026 — osmancito y snakecita, su ayudante nada-aprendiz*
 
