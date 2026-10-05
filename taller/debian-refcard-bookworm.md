@@ -42,7 +42,7 @@ Fuente: [repositorio oficial de refcard](https://salsa.debian.org/ddp-team/refca
   - Or use a [Live image](https://www.debian.org/CD/live/)  
     Containing the user-friendly Calamares installer: `https://www.debian.org/CD/live/`
 
-## Fallas
+## Bugs
 
   - [Seguimiento](https://bugs.debian.org/) en `https://bugs.debian.org/`  
     Puede consultar informes de fallas existentes y corregidos.
