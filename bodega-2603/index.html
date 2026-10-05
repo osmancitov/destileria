@@ -146,26 +146,69 @@
 	}
 	</style>
 
-<style>.cabecera-documento { border-bottom: none; }</style>
+<style>
+/* La cabecera de la vitrina sigue el formato de la Destilería. */
+.cabecera-vitrina {
+  text-align: center;
+  padding: 2rem 1rem;
+  margin: 0 0 2rem;
+  background: #14110f;
+  color: #e8e0d2;
+  font-family: Georgia, "Times New Roman", serif;
+  box-sizing: border-box;
+}
+.cabecera-vitrina img {
+  width: auto;
+  max-width: 100%;
+  max-height: 52vh;
+  height: auto;
+  display: block;
+  margin: 0 auto 1.5rem;
+  border: none;
+  box-shadow: none;
+}
+.cabecera-vitrina h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 3rem;
+  line-height: 1.2;
+  letter-spacing: 0.12em;
+  text-transform: none;
+  color: #e8e0d2;
+  margin: 0 0 0.3em;
+  padding: 0;
+  border: none;
+  text-shadow: none;
+}
+.cabecera-vitrina p {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  line-height: normal;
+  font-weight: normal;
+  text-align: center;
+  margin: 0.2em 0;
+  color: #a89f90;
+  letter-spacing: 0.3em;
+  text-transform: lowercase;
+}
+@media (max-width: 600px) {
+  .cabecera-vitrina h1 { font-size: 2rem; }
+}
+</style>
 </head>
 <body>
 
 <!-- CABECERA -->
-<header class="cabecera-documento">
-  <div class="sello">Destilería Osmancito · Bodega 2603 · 2026</div>
-  <h1 class="titulo-obra"><em>Bodega 2603</em></h1>
+<header class="cabecera-vitrina">
+  <img src="img/000_destileria_260518_12.jpg"
+       alt="El Destilado"
+       width="848"
+       height="1264"
+       data-no-lightbox>
+  <h1>Bodega 2603</h1>
+  <p>osmancito</p>
 </header>
-
-<!-- IMAGEN 01 -->
-<div class="prompt-imagen prompt-imagen-presentacion">
-	<figure class="img-container">
-		<img src="img/000_destileria_260518_12.jpg" 
-		alt="El Destilado"
-		width="1024"
-		height="1536"
-		data-no-lightbox>
-	</figure>
-</div>
 
 <!-- CONTENIDO -->
 <main>
