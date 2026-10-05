@@ -31,3 +31,5 @@ Se recibe el corpus y se decide qué instrumentos tienen materia. Los que exigen
 [convenciones.md](destileria/protocolos/convenciones.md) es la única fuente transversal: idioma, destello, silencio declarado, registro de hallazgos, sentencia final, doble lectura, imágenes y negociación de extensión. Los protocolos invocan esas reglas sin copiarlas. Si cambia una convención compartida, se cambia allí.
 
 El análisis de un corpus puede acumularse en un documento maestro `.md`: cada instrumento ejecutado añade su sección, sin reescribir lo anterior. En ese documento se usa el nombre del instrumento, no su código `mXX`; cada sección comienza con `#` y sus partes internas con `##` en adelante. Se puede revisar el documento entre pasos. El destilado no es un resumen del documento: es lo que queda después de quitar todo lo que aún se podía quitar sin destruir la semilla.
+
+La [puerta principal](https://osmancitov.github.io/) reúne sus salas. [Volver al lobby](https://osmancitov.github.io/).
