@@ -24,4 +24,4 @@ Los destilados terminados reposan y añejan aquí. Veinte lotes, del más recien
 - [016 · Paraíso Perdido](destilados/016_milton_paradise_lost.html) · John Milton, 1667
 - [001 · Our Oriental Heritage](destilados/001_durant_i_heritage.html) · Will Durant, 1935
 
-[Volver al origen](index.html) · [El Taller](taller.html)
+[Volver al origen](index.md) · [El Taller](taller.md)
