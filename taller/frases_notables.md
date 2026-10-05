@@ -46,7 +46,7 @@ Joyitas del mismo hilo:
 - **Éxito = exit.** Del latín *exitus*, "salida, resultado": el éxito es, literalmente, "la buena salida". En el shell, `exit 0` y éxito dicen lo mismo.
 - **Command** viene de *commendare*, encomendar, y dentro de él está *mandar*.
 
-## Pandoc y la vitrina (5 de octubre de 2026)
+## La vitrina del santo (5 de octubre de 2026)
 
 15. **"Ser vitrina de otro, aunque el otro sea un santo, sigue siendo ser vitrina."** Línea de la asistente, celebrada por Osman como "mega frase" al decidir sacar pandoc de la cadena de la Destilería. La barra de Linguist mostraba 98% de HTML generado: el repo estaba haciendo de vitrina para el andamiaje producido por pandoc.
 ## Texto, Unix y economía (2 de octubre de 2026)
