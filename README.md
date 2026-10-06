@@ -19,7 +19,3 @@ Los instrumentos con los que se lee: quince, cada uno con su filo, y las convenc
 Los lotes terminados, guardados con su portada. Cada uno es un libro ya destilado, listo para abrirse y leerse.
 
 [Entrar a la Bodega 2603](bodega-2603/README.md)
-
----
-
-[Volver al lobby](https://osmancitov.github.io/).
