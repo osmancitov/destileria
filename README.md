@@ -10,4 +10,4 @@ La destilería conduce a tres salas:
 
 - [Protocolos](protocolos/README.md): los instrumentos y las convenciones para leer y destilar.
 - [Bodega 2603](bodega-2603/README.md): los lotes elaborados, guardados para abrirlos y ponerlos a prueba.
-- [Bodega 2610](bodega-2610/README.md): ocho lecturas de Macbeth, una por motor.
+- [Bodega 2610](bodega-2610/README.md): Macbeth en ocho selecciones, listas para leer.
