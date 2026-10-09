@@ -6,7 +6,8 @@ Una destilería es un lugar donde se destila: se separa una sustancia mediante e
 
 Aquí se ensaya algo parecido con los libros: quitar lo que sobra hasta encontrar una forma breve que conserve su fuerza y se pueda contar a otro. Es una hipótesis de trabajo, no una promesa cumplida.
 
-La destilería conduce a dos salas:
+La destilería conduce a tres salas:
 
 - [Protocolos](protocolos/README.md): los instrumentos y las convenciones para leer y destilar.
 - [Bodega 2603](bodega-2603/README.md): los lotes elaborados, guardados para abrirlos y ponerlos a prueba.
+- [Bodega 2610](bodega-2610/README.md): ocho lecturas de Macbeth, una por motor.
