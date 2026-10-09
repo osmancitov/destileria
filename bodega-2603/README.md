@@ -8,8 +8,5 @@ La bodega guarda los lotes que ya terminaron su destilación. Cada libro tiene s
 
 Lo guardado aquí es una página en HTML, hecha para leerse en el navegador.
 
-[Entrar a la vitrina](https://osmancitov.github.io/destileria/bodega-2603/)
+[Entrar a la bodega](https://osmancitov.github.io/destileria/bodega-2603/)
 
----
-
-[Volver a la Destilería](../README.md).
