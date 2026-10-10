@@ -4,7 +4,7 @@
 
 La segunda bodega de la Destilería, abierta en octubre de 2026. El nombre sigue la forma año y mes: 26 y 10.
 
-Una obra contada en pocas frases, en inglés y en español. Cada entrada es una forma distinta de recorrerla.
+Lo que la casa está destilando ahora, listo para leer.
 
 [Entrar a la bodega](https://osmancitov.github.io/destileria/bodega-110/)
 
