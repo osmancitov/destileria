@@ -1,12 +1,12 @@
 [Lobby](https://github.com/osmancitov/osmancitov.github.io/blob/main/README.md) · [Destilería](https://github.com/osmancitov/destileria/blob/main/README.md) · [Taller](https://github.com/osmancitov/taller/blob/main/README.md) · [Journal](https://github.com/osmancitov/journal/blob/main/README.md) · [Capilla](https://github.com/osmancitov/capilla/blob/main/README.md)
 
-# Bodega 2610
+# Bodega 110
 
 La segunda bodega de la Destilería, abierta en octubre de 2026. El nombre sigue la forma año y mes: 26 y 10.
 
-Macbeth, de Shakespeare, contado en pocas frases, en inglés y en español. Cada entrada es una forma distinta de recorrer la obra.
+Una obra contada en pocas frases, en inglés y en español. Cada entrada es una forma distinta de recorrerla.
 
-[Entrar a la bodega](https://osmancitov.github.io/destileria/bodega-2610/)
+[Entrar a la bodega](https://osmancitov.github.io/destileria/bodega-110/)
 
 ## Entradas
 
