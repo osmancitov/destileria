@@ -10,6 +10,6 @@ Lo que se está destilando ahora.
 
 ## Entradas
 
-- [En ocho frases](cgbaaj_macbeth-ocho-frases.html): la frase más central de cada uno de ocho lectores, unidas por una línea.
+- [En ocho frases](cgbaaj_ocho-frases.html): la frase más central de cada uno de ocho lectores, unidas por una línea.
 
 Las ocho selecciones largas (001 a 008) siguen en esta carpeta, fuera de la lista, por si se incorporan más adelante.
