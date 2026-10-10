@@ -30,7 +30,7 @@ Los tres métodos juntos son la receta de aplanado de la casa. Su valor está en
 
 ## Cuarto paso: preguntar al mapa
 
-Con las islas dibujadas, cada frase aún lleva su etiqueta de origen. Ahora se puede mirar si las frases de una misma escena, o de un mismo cuento, caen juntas, o si se mezclan. Si los trece cuentos de un libro forman trece continentes, cada cuento es un mundo aparte. Si se mezclan, el autor escribía un solo mundo con trece puertas. El mapa no dicta cuál de las dos cosas es verdad. Enseña dónde mirar, y la lectura sigue siendo de quien lee.
+Con las islas dibujadas, cada frase aún lleva su etiqueta de origen. Ahora se puede mirar si las frases de una misma escena, o de un mismo cuento, caen juntas, o si se mezclan. Si los trece cuentos de un libro forman trece continentes, cada cuento es un mundo aparte. Si se mezclan, el autor escribía un solo mundo con trece puertas. El mapa no dicta cuál de las dos cosas es verdad. Enseña dónde mirar, y la lectura sigue siendo de quien lee. Como se dice en la casa: el método es su propia pregunta.
 
 ## Qué cambia respecto de la receta 1.0
 
