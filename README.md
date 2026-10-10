@@ -9,5 +9,5 @@ Aquí se ensaya algo parecido con los libros: quitar lo que sobra hasta encontra
 La destilería conduce a tres salas:
 
 - [Protocolos](protocolos/README.md): los instrumentos y las convenciones para leer y destilar.
-- [Bodega 103](bodega-103/README.md): los primeros lotes de la casa, elaborados y guardados para que se vea de dónde viene la casa.
-- [Bodega 110](bodega-110/README.md): lo que la casa está destilando ahora, listo para leer.
+- [Bodega 103](bodega-103/README.md): los primeros lotes de la casa.
+- [Bodega 110](bodega-110/README.md): lo que se está destilando ahora.
