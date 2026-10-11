@@ -28,10 +28,6 @@ El número fija el orden de los archivos, no obliga a ejecutar cada instrumento 
 - [m14 · Sama'](m14_sama.md): escucha la partitura, el cuerpo y el silencio de un texto cuya dimensión sonora importa.
 - [m15 · Destilado](m15_destilado.md): inventaría los hallazgos, los somete a presión y deja solo lo irreducible, si lo hay.
 
-## Receta 2.0
-
-[Receta 2.0](r20_receta_2_0.md) cuenta, en lenguaje llano, cómo se mide un corpus antes de leerlo: cada frase se vuelve un vector de 2.048 números y la nube se aplana con tres métodos.
-
 ## Modo de trabajo
 
 Se recibe el corpus y se decide qué instrumentos tienen materia. Los que exigen condiciones propias las comprueban en su protocolo. No se corre un instrumento para completar una cifra; tampoco se duplica un hallazgo para justificar el costo de otra pasada. La extensión responde a lo encontrado, no al tamaño del libro ni al número de herramientas. Leer, producir y volver a leer cuesta: se guarda el trabajo que cambia la lectura y se suprime el que solo repite.
