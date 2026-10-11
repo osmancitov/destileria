@@ -2,7 +2,7 @@
 
 [Lobby](https://github.com/osmancitov/osmancitov.github.io/blob/main/README.md) · [Destilería](https://github.com/osmancitov/destileria/blob/main/README.md) · [Taller](https://github.com/osmancitov/taller/blob/main/README.md) · [Journal](https://github.com/osmancitov/journal/blob/main/README.md)
 
-# Destilería Osmancito
+# Protocolos v23
 
 La Destilería lee un corpus con instrumentos distintos. No pretende llenar todas las casillas ni hacer pasar por hallazgo lo que el texto no da. Cada instrumento trabaja sobre el material recibido, con su propio filo; si no aplica o no encuentra nada, declara el silencio. El hueso importa más que la grasa.
 
