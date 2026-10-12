@@ -805,179 +805,179 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 **MACDUFF**  
 ¡Despertad, despertad!— ¡Tañed la campana de alarma!— ¡Asesinato y traición! ¡Banquo y Donalbain! ¡Malcolm! ¡Despertad! ¡Sacúdete este sueño suave, simulacro de la muerte, y contempla a la muerte misma! ¡Arriba, arriba, y ved la imagen del gran juicio! ¡Malcolm! ¡Banquo! ¡Alzaos de vuestras tumbas y recorred como espectros para presenciar este horror!
 
-*<span style="color:#9da7b3">Suena la campana de alarma.</span>*
+*Suena la campana de alarma.*
 
-*<span style="color:#9da7b3">Entra Lady Macbeth.</span>*
-
-**LADY MACBETH**  
-<span style="color:#9da7b3">¿Qué ocurre, que tan horrible clarín convoca a parlamento a los durmientes de la casa? ¡Hablad, hablad!</span>
-
-**MACDUFF**  
-<span style="color:#9da7b3">Oh, noble dama, no es para que oigáis lo que puedo decir: repetirlo a un oído de mujer lo mataría al pronunciarlo.</span>
-
-*<span style="color:#9da7b3">Entra Banquo.</span>*
-
-**MACDUFF**  
-<span style="color:#9da7b3">¡Oh Banquo, Banquo! ¡Nuestro real señor ha sido asesinado!</span>
+*Entra Lady Macbeth.*
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">¡Ay, qué desdicha! ¿Cómo, en nuestra casa?</span>
+¿Qué sucede, que tal trompeta horrenda convoca a asamblea a los que duermen en la casa? ¡Hablad, hablad!
+
+**MACDUFF**  
+Oh, gentil señora, no es para vos oír lo que debo decir: la repetición, en oído de mujer, mataría al caer.
+
+*Entra Banquo.*
+
+**MACDUFF**  
+¡Oh, Banquo, Banquo! ¡Nuestro señor real ha sido asesinado!
+
+**LADY MACBETH**  
+¡Ay, qué desdicha! ¿Qué? ¿En nuestra casa?
 
 **BANQUO**  
-<span style="color:#9da7b3">Demasiado cruel en cualquier parte. —Querido Duff, te lo ruego, desmiente tus propias palabras y di que no es así.</span>
+Demasiado cruel en cualquier parte. — Querido Duff, te ruego, contradícete y di que no es así.
 
-*<span style="color:#9da7b3">Entran Macbeth y Lennox con Ross.</span>*
+*Entran Macbeth y Lennox con Ross.*
 
 **MACBETH**  
-<span style="color:#9da7b3">De haber muerto tan solo una hora antes de esta desgracia, habría vivido un tiempo dichoso; pues, desde este instante, no hay nada serio en la vida mortal. Todo es vanidad: la gloria y la gracia han muerto; el vino de la vida se ha agotado, y tan solo las heces quedan en esta bóveda de que jactarse.</span>
+Si tan solo hubiera muerto una hora antes de este suceso, habría vivido un tiempo bendito; pues, desde este instante, nada en la mortalidad tiene sentido. Todo no es más que nimiedades: la gloria y la gracia han muerto; el vino de la vida se ha agotado, y solo los posos quedan en esta bóveda para jactarse.
 
-*<span style="color:#9da7b3">Entran Malcolm y Donalbain.</span>*
+*Entran Malcolm y Donalbain.*
 
 **DONALBAIN**  
-<span style="color:#9da7b3">¿Qué ocurre?</span>
+¿Qué sucede?
 
 **MACBETH**  
-<span style="color:#9da7b3">Lo estáis, y no lo sabéis: el manantial, la cabeza, la fuente de vuestra sangre está detenida; la misma fuente de ella está detenida.</span>
+Lo sois, y no lo sabéis: el manantial, la cabeza, la fuente de vuestra sangre se ha detenido; la mismísima fuente de ella se ha detenido.
 
 **MACDUFF**  
-<span style="color:#9da7b3">Vuestro real padre ha sido asesinado.</span>
+Vuestro real padre ha sido asesinado.
 
 **MALCOLM**  
-<span style="color:#9da7b3">¡Oh, ¿y a manos de quién?!</span>
+¿Oh, por quién?
 
 **LENNOX**  
-<span style="color:#9da7b3">Los de su cámara, según parecía, lo habían hecho: sus manos y rostros estaban todos teñidos de sangre; al igual que sus puñales, que, sin limpiar, hallamos sobre sus almohadas. Miraban fijamente y estaban enloquecidos; la vida de ningún hombre era digna de ser confiada a ellos.</span>
+Los de su alcoba, según parecía, lo habían cometido: sus manos y rostros estaban todos marcados de sangre; también sus dagas, que sin limpiar hallamos sobre sus almohadas. Miraban con ojos desorbitados y estaban enajenados; ninguna vida podía estar segura junto a ellos.
 
 **MACBETH**  
-<span style="color:#9da7b3">¡Oh, mas me arrepiento de mi furia, por haberlos matado!</span>
+¡Oh, aún me arrepiento de mi furia, de haberlos matado!
 
 **MACDUFF**  
-<span style="color:#9da7b3">¿Por qué hiciste tal cosa?</span>
+¿Por qué habéis obrado así?
 
 **MACBETH**  
-<span style="color:#9da7b3">¿Quién puede ser prudente, atónito, moderado y furioso, leal e imparcial, en un instante? Nadie: la rapidez de mi violento amor adelantó al prudente freno, la razón. Aquí yace Duncan, su piel plateada ceñida con su sangre dorada; y sus tajos abiertos parecían una brecha en la naturaleza para la entrada ruinosa de la ruina: allí, los asesinos, empapados en los colores de su oficio, sus puñales groseramente enfundados en sangre. ¿Quién pudo contenerse, si tenía un corazón para amar y, en ese corazón, el coraje para hacer manifiesto su amor?</span>
+¿Quién puede ser sabio, atónito, sereno y furioso, leal y neutral, en un instante? Nadie: El ímpetu de mi violento amor sobrepasó a la razón, que nos detiene. Aquí yacía Duncan, su piel de plata entrelazada con su sangre dorada; y sus tajos parecían una brecha en la naturaleza para la entrada devastadora de la ruina: allí, los asesinos, empapados en los colores de su oficio, con sus dagas toscamente manchadas de sangre. ¿Quién podría haberse refrenado, que tuviera un corazón para amar y, en ese corazón, el valor para manifestar su amor?
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">¡Socorro, ayuda!</span>
+¡Sacadme de aquí, ay!
 
 **MACDUFF**  
-<span style="color:#9da7b3">Atended a la dama.</span>
+Mirad a la dama.
 
 **MALCOLM**  
-<span style="color:#9da7b3">¿Por qué guardamos silencio, nosotros que somos quienes con más derecho podemos reclamar este asunto como nuestro?</span>
+<span style="color:#9da7b3">¿Por qué guardamos silencio, nosotros que más podemos reclamar este asunto como nuestro?</span>
 
 **DONALBAIN**  
-<span style="color:#9da7b3">¿Qué se ha de hablar aquí, donde nuestro sino, oculto en un agujero de barrena, puede abalanzarse y atraparnos? Huyamos. Nuestras lágrimas aún no están preparadas.</span>
+<span style="color:#9da7b3">¿Qué debería decirse aquí, donde nuestro destino, escondido en un agujero de barrena, puede abalanzarse y atraparnos? Vámonos. Nuestras lágrimas aún no se han destilado.</span>
 
 **MALCOLM**  
-<span style="color:#9da7b3">Ni nuestro intenso dolor requiere aún la acción.</span>
+<span style="color:#9da7b3">Ni nuestra profunda pena ha echado a andar.</span>
 
 **BANQUO**  
-<span style="color:#9da7b3">Atended a la dama:—</span>
+<span style="color:#9da7b3">Atended a la señora.</span>
 
-*<span style="color:#9da7b3">Se llevan a Lady Macbeth.</span>*
+*<span style="color:#9da7b3">Lady Macbeth es sacada en brazos.</span>*
 
 **BANQUO**  
-<span style="color:#9da7b3">Y cuando hayamos cubierto nuestras fragilidades desnuda, que sufren a la intemperie, reunámonos e interroguemos esta sanguinaria obra para conocerla a fondo. Miedos y dudas nos sacuden; en la gran mano de Dios me hallo; y desde allí peleo contra el oculto propósito de la malicia traidora.</span>
+<span style="color:#9da7b3">Y cuando hayamos cubierto nuestras desnudas fragilidades, que sufren al estar expuestas, reunámonos e interroguemos esta sangrienta obra para conocerla mejor. Los temores y las dudas nos sacuden: en la gran mano de Dios me mantengo; y desde allí lucho contra el propósito no revelado de la malicia traicionera.</span>
 
 **MACDUFF**  
 <span style="color:#9da7b3">Y yo también.</span>
 
 **TODAS**  
-<span style="color:#9da7b3">Todos estamos de acuerdo.</span>
+<span style="color:#9da7b3">Todos nosotros.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Vistámonos pronto de varonil resolución y encontrémonos todos en el vestíbulo.</span>
+<span style="color:#9da7b3">Pongámonos brevemente en disposición varonil y reunámonos todos en el salón.</span>
 
 **TODAS**  
-<span style="color:#9da7b3">De acuerdo.</span>
+<span style="color:#9da7b3">Muy de acuerdo.</span>
 
-*<span style="color:#9da7b3">Salen todos menos Malcolm y Donalbain.</span>*
+*<span style="color:#9da7b3">Salen todos excepto Malcolm y Donalbain.</span>*
 
 **MALCOLM**  
-<span style="color:#9da7b3">¿Qué vais a hacer? No nos juntemos con ellos: fingir un dolor que no se siente es tarea que el hombre falso cumple fácilmente. Me marcho a Inglaterra.</span>
+<span style="color:#9da7b3">¿Qué vais a hacer? No nos juntemos con ellos: mostrar una pena que no se siente es una tarea que el hombre falso hace fácilmente. Yo iré a Inglaterra.</span>
 
 **DONALBAIN**  
-<span style="color:#9da7b3">A Irlanda, yo. Nuestra fortuna separada nos mantendrá a ambos más seguros. Donde estamos, hay puñales en las sonrisas de los hombres; cuanto más cercanos en la sangre, más sangrientos.</span>
+<span style="color:#9da7b3">Yo, a Irlanda. Nuestra fortuna separada nos mantendrá a ambos más seguros. Donde estamos, hay dagas en las sonrisas de los hombres: cuanto más cercanos en sangre, más sangrientos.</span>
 
 **MALCOLM**  
-<span style="color:#9da7b3">Esta flecha asesina que ha sido disparada aún no ha caído; y nuestro camino más seguro es evitar el blanco. Por tanto, montemos a caballo; y no andemos con delicadezas al despedirnos, sino larguémonos. Hay justificación en ese robo que se roba a sí mismo, cuando no queda piedad.</span>
+<span style="color:#9da7b3">Esta flecha asesina que ha sido disparada aún no ha caído; y nuestro camino más seguro es evitar el blanco. Por tanto, a caballo; y no seamos delicados en las despedidas, sino larguémonos. Hay justificación en ese robo que se roba a sí mismo, cuando ya no queda misericordia.</span>
 
-*<span style="color:#9da7b3">Vanse.</span>*
+*<span style="color:#9da7b3">Salen.</span>*
 
 ### Escena 4. Lo mismo. Fuera del castillo.
 
-*<span style="color:#9da7b3">Entran Ross y un anciano.</span>*
+*<span style="color:#9da7b3">Entran Ross y un Anciano.</span>*
 
 **VIEJO**  
-<span style="color:#9da7b3">Setenta años alcanzo a recordar bien, en cuyo volumen de tiempo he visto horas terribles y cosas extrañas, pero esta penosa noche ha hecho parecer juego de niños los saberes de antes.</span>
+<span style="color:#9da7b3">Setenta años puedo recordar bien, dentro del volumen de cuyo tiempo he visto horas terribles y cosas extrañas, pero esta noche dolorosa ha hecho insignificantes los conocimientos anteriores.</span>
 
 **ROSS**  
-<span style="color:#9da7b3">Ah, buen padre, ves los cielos, como turbados por la obra del hombre, amenazan su sangriento escenario: según el reloj es de día, y sin embargo la oscura noche estrangula al astro errante. ¿Es el predominio de la noche, o la vergüenza del día, que la oscuridad sepulte el rostro de la tierra cuando la luz viva debería besarlo?</span>
+<span style="color:#9da7b3">Ah, buen padre, ves que los cielos, como perturbados por el acto del hombre, amenazan su sangriento escenario: según el reloj es de día, y sin embargo la oscura noche estrangula a la lámpara viajera. ¿Es el predominio de la noche, o la vergüenza del día, que la oscuridad sepulta el rostro de la tierra, cuando la luz viva debería besarlo?</span>
 
 **VIEJO**  
-<span style="color:#9da7b3">Es antinatural, / Del mismo modo que el acto cometido. El martes pasado, un halcón, encumbrado en su orgullo de vuelo, fue cazado y muerto por un búho ratonero.</span>
+<span style="color:#9da7b3">Es antinatural, igual que el hecho que se ha cometido. El martes pasado, un halcón, elevándose en su orgullo de lugar, fue atacado y muerto por un búho ratonero.</span>
 
 **ROSS**  
-<span style="color:#9da7b3">Y los caballos de Duncan —cosa extraña y cierta—, hermosos y veloces, los mejores de su raza, enloquecieron, rompieron sus cuadras, se desbocaron, negándose a obedecer, como si quisieran hacer la guerra a la humanidad.</span>
+<span style="color:#9da7b3">Y los caballos de Duncan (una cosa de lo más extraña y cierta), hermosos y veloces, los favoritos de su raza, se volvieron salvajes, rompieron sus establos, se lanzaron fuera, luchando contra la obediencia, como si quisieran hacer la guerra a la humanidad.</span>
 
 **VIEJO**  
-<span style="color:#9da7b3">Se dice que se comen los unos a los otros.</span>
+<span style="color:#9da7b3">Se dice que se comieron unos a otros.</span>
 
 **ROSS**  
-<span style="color:#9da7b3">Así lo hicieron; para asombro de mis ojos, que lo presenciaron. Ahí llega el buen Macduff.</span>
+<span style="color:#9da7b3">Así lo hicieron; para asombro de mis ojos, que lo contemplaron. Aquí viene el buen Macduff.</span>
 
 *<span style="color:#9da7b3">Entra Macduff.</span>*
 
 **ROSS**  
-<span style="color:#9da7b3">¿Cómo marcha el mundo, señor, ahora?</span>
+<span style="color:#9da7b3">¿Cómo va el mundo, señor, ahora?</span>
 
 **MACDUFF**  
-<span style="color:#9da7b3">¿Pues no lo veis?</span>
+<span style="color:#9da7b3">¿Por qué, no lo veis?</span>
 
 **ROSS**  
-<span style="color:#9da7b3">¿Se sabe quién cometió este acto más que sangriento?</span>
+<span style="color:#9da7b3">¿Se sabe quién cometió este hecho más que sangriento?</span>
 
 **MACDUFF**  
-<span style="color:#9da7b3">Aquellos a quienes Macbeth ha dado muerte.</span>
+<span style="color:#9da7b3">Aquellos a quienes Macbeth ha matado.</span>
 
 **ROSS**  
-<span style="color:#9da7b3">¡Qué día tan infausto! ¿Qué provecho podían pretender?</span>
+<span style="color:#9da7b3">¡Ay, qué día! ¿Qué bien podrían pretender?</span>
 
 **MACDUFF**  
-<span style="color:#9da7b3">Fueron sobornados. Malcolm y Donalbain, los dos hijos del rey, se han escapado y huido, lo cual recae sobre ellos la sospecha del crimen.</span>
+<span style="color:#9da7b3">Fueron sobornados. Malcolm y Donalbain, los dos hijos del Rey, se han escapado y huido; lo cual pone sobre ellos la sospecha del hecho.</span>
 
 **ROSS**  
-<span style="color:#9da7b3">Contra la naturaleza aún: ¡Ambición desmedida, que devoras los medios de tu propia vida! —Entonces es de esperar que la corona recaiga sobre Macbeth.</span>
+<span style="color:#9da7b3">Contra la naturaleza, todavía: ¡ambición sin provecho, que devorará los medios de tu propia vida! Entonces es muy probable que la soberanía recaiga sobre Macbeth.</span>
 
 **MACDUFF**  
-<span style="color:#9da7b3">Ya ha sido nombrado, y ha partido a Scone para ser investido.</span>
+<span style="color:#9da7b3">Ya ha sido nombrado; y se ha ido a Scone para ser investido.</span>
 
 **ROSS**  
 <span style="color:#9da7b3">¿Dónde está el cuerpo de Duncan?</span>
 
 **MACDUFF**  
-<span style="color:#9da7b3">Llevado a Colmekill, sagrado depósito de sus predecesores y custodio de sus huesos.</span>
+<span style="color:#9da7b3">Llevado a Colmekill, el sagrado almacén de sus predecesores y guardián de sus huesos.</span>
 
 **ROSS**  
-<span style="color:#9da7b3">¿Partís hacia Scone?</span>
+<span style="color:#9da7b3">¿Iréis a Scone?</span>
 
 **MACDUFF**  
 <span style="color:#9da7b3">No, primo, iré a Fife.</span>
 
 **ROSS**  
-<span style="color:#9da7b3">Bien, yo iré allí.</span>
+<span style="color:#9da7b3">Bien, yo iré hacia allá.</span>
 
 **MACDUFF**  
-<span style="color:#9da7b3">Bien, que allí veas las cosas bien hechas. ¡Adiós! ¡Ojalá nuestros viejos hábitos no nos resulten más cómodos que los nuevos!</span>
+<span style="color:#9da7b3">Bien, que veáis las cosas bien hechas allí. ¡Adiós! ¡No sea que nuestras viejas ropas nos sienten mejor que las nuevas!</span>
 
 **ROSS**  
 <span style="color:#9da7b3">Adiós, padre.</span>
 
 **VIEJO**  
-<span style="color:#9da7b3">Que la bendición de Dios os acompañe, y con aquellos que del mal hagan bien y de los enemigos amigos.</span>
+<span style="color:#9da7b3">¡Que la bendición de Dios vaya con vos; y con aquellos que harían el bien del mal, y amigos de los enemigos!</span>
 
-*<span style="color:#9da7b3">Se van.</span>*
+*<span style="color:#9da7b3">Salen.</span>*
 
 ## Acto III
 
@@ -986,21 +986,21 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 *<span style="color:#9da7b3">Entra Banquo.</span>*
 
 **BANQUO**  
-<span style="color:#9da7b3">Ya lo tienes todo, rey, Cawdor, Glamis, tal como prometieron las hermanas fatídicas; y, me temo, jugaste muy sucio por ello; con todo, se dijo que no recaerían en tu posteridad, sino que yo mismo sería la raíz y el padre de muchos reyes. Si la verdad brota de ellos (como en ti, Macbeth, sus palabras resplandecen), ¿por qué, por las verdades en ti cumplidas, no habrían de ser también mis oráculos y colmarme de esperanza? Pero chitón; no más.</span>
+<span style="color:#9da7b3">Ya lo tienes, Rey, Cawdor, Glamis, todo, como prometieron las Hermanas Fatídicas; y, me temo, jugaste muy sucio por ello; sin embargo, se dijo que no permanecería en tu posteridad, sino que yo mismo sería la raíz y el padre de muchos reyes. Si viene verdad de ellas (como sobre ti, Macbeth, sus discursos brillan), ¿por qué, por las verdades hechas realidad en ti, no pueden ser mis oráculos también, y elevarme en esperanza? Pero silencio; no más.</span>
 
-*<span style="color:#9da7b3">Suenan trompetas. Entran Macbeth como rey, Lady Macbeth como reina; Lennox, Ross, loores y cortejo.</span>*
+*<span style="color:#9da7b3">Suena una trompeta. Entran Macbeth como Rey, Lady Macbeth como Reina; Lennox, Ross, Lores y asistentes.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">He aquí nuestro principal huésped.</span>
+<span style="color:#9da7b3">Aquí está nuestro invitado principal.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Si le hubiéramos olvidado, habría sido como una ausencia en nuestro gran banquete, y del todo inconveniente.</span>
+<span style="color:#9da7b3">Si hubiera sido olvidado, habría sido como un vacío en nuestro gran banquete, y del todo impropio.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Esta noche celebramos un banquete solemne, señor, y solicitaré vuestra presencia.</span>
+<span style="color:#9da7b3">Esta noche celebramos una cena solemne, señor, y solicitaré vuestra presencia.</span>
 
 **BANQUO**  
-<span style="color:#9da7b3">Que vuestra alteza me ordene, a lo cual mis deberes están unidos por un lazo de lo más indisoluble para siempre.</span>
+<span style="color:#9da7b3">Que vuestra Alteza me ordene, a lo cual mis deberes están unidos para siempre con un lazo de lo más indisoluble.</span>
 
 **MACBETH**  
 <span style="color:#9da7b3">¿Cabalgáis esta tarde?</span>
@@ -1009,164 +1009,164 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 <span style="color:#9da7b3">Sí, mi buen señor.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">De otro modo habríamos requerido vuestro buen consejo (que siempre ha sido grave y próspero) en el consejo de hoy; mas lo dejaremos para mañana. ¿Es muy lejos vuestro viaje?</span>
+<span style="color:#9da7b3">De lo contrario, habríamos deseado vuestro buen consejo (que siempre ha sido grave y próspero) en el consejo de este día; pero lo tomaremos mañana. ¿Es lejos a donde cabalgáis?</span>
 
 **BANQUO**  
-<span style="color:#9da7b3">Tan lejos, mi señor, como para ocupar el tiempo entre este momento y la cena; a menos que mi caballo ande mejor, tendré que pedirle prestada a la noche una hora oscura o dos.</span>
+<span style="color:#9da7b3">Tan lejos, mi señor, como para llenar el tiempo entre esto y la cena: si mi caballo no corre más, tendré que pedir prestada a la noche una o dos horas oscuras.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">No faltéis a nuestro festín.</span>
+<span style="color:#9da7b3">No faltéis a nuestro banquete.</span>
 
 **BANQUO**  
-<span style="color:#9da7b3">Señor, no faltaré.</span>
+<span style="color:#9da7b3">Mi señor, no lo haré.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Nos enteramos de que nuestros sangrientos primos se hallan en Inglaterra y en Irlanda, sin confesar su cruel parricidio, llenando los oídos de quienes los escuchan con extrañas invenciones. Pero de eso mañana, cuando al mismo tiempo tengamos asuntos de Estado que nos reclamen a ambos. A caballo: adiós, hasta que volváis por la noche. ¿Va Fleance con vosotros?</span>
+<span style="color:#9da7b3">Oímos que nuestros sangrientos primos se han refugiado en Inglaterra e Irlanda; sin confesar su cruel parricidio, llenando a quienes los escuchan con extrañas invenciones. Pero de eso mañana, cuando tengamos asuntos de Estado que nos reclamen a ambos. Montad a caballo: adiós, hasta que regreséis por la noche. ¿Va Fleance con vosotros?</span>
 
 **BANQUO**  
-<span style="color:#9da7b3">Sí, mi buen señor: nuestro tiempo nos reclama.</span>
+<span style="color:#9da7b3">Sí, mi buen señor: nuestro tiempo nos apremia.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Deseo que vuestros caballos sean raudos y seguros de casco; y con esto os recomiendo a sus lomos. ¡Adiós!</span>
+<span style="color:#9da7b3">Deseo que vuestros caballos sean veloces y seguros de paso; y así os encomiendo a sus lomos. Adiós.</span>
 
-*<span style="color:#9da7b3">Se va Banquo.</span>*
-
-**MACBETH**  
-<span style="color:#9da7b3">Que cada uno disponga de su tiempo hasta las siete de la noche; para que la compañía sea más bienvenida, nos mantendremos a solas hasta la hora de cenar; entretanto, que Dios os acompañe.</span>
-
-*<span style="color:#9da7b3">Salen Lady Macbeth, los señores y demás.</span>*
+*<span style="color:#9da7b3">Sale Banquo.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">Muchacho, una palabra contigo. ¿Aguardan esos hombres a que dispongamos de ellos?</span>
+<span style="color:#9da7b3">Que cada hombre sea dueño de su tiempo hasta las siete de la noche; para hacer la compañía más grata, nos mantendremos solos hasta la hora de la cena: hasta entonces, que Dios esté con vosotros.</span>
+
+*<span style="color:#9da7b3">Salen Lady Macbeth, los lores, etc.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">Muchacho, una palabra contigo. ¿Esperan esos hombres nuestro beneplácito?</span>
 
 **CRIADO**  
-<span style="color:#9da7b3">Están, mi señor, a la puerta del palacio.</span>
+<span style="color:#9da7b3">Están, mi señor, fuera de la puerta del palacio.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Hacedlos comparecer ante nosotros.</span>
+<span style="color:#9da7b3">Traedlos ante nosotros.</span>
 
-*<span style="color:#9da7b3">Vete, criado.</span>*
-
-**MACBETH**  
-<span style="color:#9da7b3">Ser esto no es nada, sino serlo con seguridad. Nuestros temores en Banquo calan hondo, y en su nobleza de carácter reina aquello que infundiría temor: es mucho lo que osza; y, a ese indómito temple de su mente, posee una sabiduría que guía su valor para actuar con seguridad. No hay nadie sino él a quien yo tema, y bajo su influjo mi genio se ve acobardado, tal como, según se dice, el de Marco Antonio lo fue por César. Él reprendió a las hermanas cuando por primera vez me dieron el nombre de rey, y les mandó que le hablaran a él; luego, como profetas, lo saludaron padre de una estirpe de reyes: sobre mi cabeza colocaron una corona estéril, y pusieron en mi mano un cetro infecundo, para ser arrancado por mano ajena, sin que ningún hijo mío me suceda. Si es así, por la descendencia de Banquo he manchado mi mente; por ellos he asesinado al bondadoso Duncan; he vertido rencores en la copa de mi paz solo por ellos; y entregado mi joya eterna al enemigo común del hombre, ¡para hacerlos reyes, la simiente de Banquo reyes! Antes que eso, ven, destino, entra en la liza y combate conmigo a muerte. ¿Quién está ahí?</span>
-
-*<span style="color:#9da7b3">Entran el criado y dos asesinos.</span>*
+*<span style="color:#9da7b3">Sale el criado.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">Id ahora a la puerta y quedaos allí hasta que os llamemos.</span>
+<span style="color:#9da7b3">Ser así no es nada, pero serlo con seguridad es mucho. Nuestros temores sobre Banquo son profundos, y en su nobleza de carácter reina aquello que debe ser temido: es mucho lo que se atreve; y, a ese temple intrépido de su mente, añade una sabiduría que guía su valor para actuar con seguridad. No hay nadie más que él cuya existencia tema: y bajo él mi genio se siente humillado; como se dice que el de Marco Antonio lo fue por César. Reprendió a las hermanas cuando primero me dieron el título de rey, y les ordenó que me hablaran a mí; luego, como un profeta, lo aclamaron padre de una estirpe de reyes: sobre mi cabeza colocaron una corona estéril, y pusieron un cetro infértil en mi mano, destinado a ser arrebatado por una mano ajena a mi linaje, sin que hijo mío me suceda. Si es así, por la descendencia de Banquo he manchado mi mente; por ellos he asesinado al bondadoso Duncan; he vertido rencor en el vaso de mi paz solo por ellos; y he entregado mi joya eterna al enemigo común del hombre, ¡para hacerlos reyes, a la semilla de Banquo reyes! Antes que eso, ven, destino, a la liza, ¡y desafíame hasta el final! —¿Quién está ahí?</span>
 
-*<span style="color:#9da7b3">Váyase el criado.</span>*
+*<span style="color:#9da7b3">Entra el criado con dos asesinos.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">¿No hablamos acaso ayer?</span>
+<span style="color:#9da7b3">Ahora ve a la puerta y quédate allí hasta que te llamemos.</span>
+
+*<span style="color:#9da7b3">Sale el criado.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">¿No fue ayer cuando hablamos?</span>
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">Así es, alteza, si le place.</span>
+<span style="color:#9da7b3">Lo fue, si place a vuestra Alteza.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Bien pues, ahora, ¿habéis reflexionado sobre mis palabras? Sabed que fue él quien en tiempos pasados os tuvo tan bajo la fortuna, ¡y al que creísteis que éramos nuestro inocente ser? Todo esto os lo probé en nuestra última entrevista, repasando con vosotros cómo se os trajo engañados, cómo se os contrarió, los instrumentos, quiénes obraron con ellos y todo lo demás que podría decir a un alma a medias y a un entendimiento turbado: «Así obró Banquo».</span>
+<span style="color:#9da7b3">Bien, pues, ¿habéis reflexionado sobre mis palabras? ¿Sabéis que fue él, en tiempos pasados, quien os mantuvo bajo tanta desgracia, lo que pensabais que era nuestra propia inocencia? Esto os lo demostré en nuestra última conferencia, repasando con vosotros cómo fuisteis engañados, cómo contrariados, los instrumentos, quién trabajó con ellos, y todo lo demás que podría, incluso a media alma y a un juicio perturbado, decirle: "Así hizo Banquo".</span>
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">Nos lo hiciste saber.</span>
+<span style="color:#9da7b3">Nos lo hicisteis saber.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Así lo hice, y fui más allá, lo cual es ahora el motivo de nuestro segundo encuentro. ¿Halláis vuestra paciencia tan preeminente en vuestra índole como para dejar pasar esto? ¿Tan evangelizados estáis, que rezáis por este buen hombre y por su descendencia, cuya pesada mano os ha sepultado en la tumba y ha arruinado a los vuestros para siempre?</span>
+<span style="color:#9da7b3">Así lo hice; y fui más allá, que es ahora el punto de nuestra segunda reunión. ¿Encontráis vuestra paciencia tan predominante en vuestra naturaleza, que podéis dejar pasar esto? ¿Sois tan cristianos, para rezar por este buen hombre y por su descendencia, cuya mano pesada os ha inclinado hacia la tumba y ha dejado a los vuestros en la miseria para siempre?</span>
 
 **PRIMER ASESINO**  
 <span style="color:#9da7b3">Somos hombres, mi señor.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Sí, en el catálogo pasáis por hombres; como sabuesos, lebreles, mestizos, perros de muestra, chuchos, galgos de pelo largo, perros de agua y lobeznos son llamados todos con el nombre de perros: la lista de valor distingue al rápido, al lento, al sutil, al guardián, al cazador, cada uno según el don que la naturaleza generosa ha encerrado en él; por el cual recibe un distintivo particular, apartado de la lista que a todos los nombra por igual; y así los hombres. Ahora bien, si ocupáis un puesto en la lista, no en el peor rango de la hombría, decidlo; y yo pondré ese asunto en vuestros pechos, cuya ejecución se lleva a vuestro enemigo, os ata al corazón y al amor de nosotros, que llevamos nuestra salud más bien enfermiza con su vida, la cual con su muerte sería perfecta.</span>
+<span style="color:#9da7b3">Sí, en el catálogo figuráis como hombres; como a los sabuesos, galgos, mestizos, spaniels, chuchos, perros de agua y semilobos se les llama a todos por el nombre de perros: la lista valorada distingue al veloz, al lento, al sutil, al guardián, al cazador, a cada uno según el don que la naturaleza generosa ha encerrado en él; por lo cual recibe una distinción particular, fuera de la lista que los escribe a todos por igual: y así ocurre con los hombres. Ahora, si tenéis un lugar en la lista, no en el peor rango de la humanidad, decidlo; y pondré en vuestras manos ese asunto cuya ejecución elimina a vuestro enemigo, os une al corazón y al amor de nosotros, que llevamos nuestra salud enfermiza mientras él vive, la cual sería perfecta con su muerte.</span>
 
 **SEGUNDO ASESINO**  
-<span style="color:#9da7b3">Soy uno, mi señor, a quien los golpes y afrentas viles del mundo han irritado tanto que me importa poco lo que haga para agraviarlo.</span>
+<span style="color:#9da7b3">Soy uno, mi señor, a quien los viles golpes y bofetadas del mundo han enfurecido tanto que no me importa lo que haga para fastidiar al mundo.</span>
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">Y yo otro, tan cansado de desastres, maltratado por la fortuna, que jugaría mi vida a cualquier azar, para mejorarla o librarme de ella.</span>
+<span style="color:#9da7b3">Y yo otro, tan cansado de los desastres, zarandeado por la fortuna, que apostaría mi vida a cualquier azar, para mejorarla o librarme de ella.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Bien sabéis los dos que Banquo era vuestro enemigo.</span>
+<span style="color:#9da7b3">Ambos sabéis que Banquo era vuestro enemigo.</span>
 
 **LOS DOS ASESINOS**  
-<span style="color:#9da7b3">Así es, mi señor.</span>
+<span style="color:#9da7b3">Es cierto, mi señor.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Así lo es el mío; y a tan sangrienta distancia, que cada minuto de su existencia atenta contra lo más vital de mi ser; y aunque con poder descarado podría barrerlo de mi vista y ordenar que mi voluntad lo justifique, sin embargo no debo hacerlo, por ciertos amigos que son tanto suyos como míos, cuyos afectos no puedo perder, sino lamentar la caída de aquel a quien yo mismo abatí: y por ello es que yo busco vuestro auxilio, ocultando este asunto a los ojos del vulgo por varias razones de peso.</span>
+<span style="color:#9da7b3">También lo es mío; y a tal distancia sangrienta, que cada minuto de su existencia atenta contra lo más vital de mi vida; y aunque podría, con poder manifiesto, barrerlo de mi vista y hacer que mi voluntad lo justifique, no debo hacerlo, por ciertos amigos que son tanto suyos como míos, cuyos afectos no puedo perder, sino lamentar la caída de quien yo mismo derribé: y de ahí que busque vuestra ayuda, ocultando el asunto a la vista común por diversas razones de peso.</span>
 
 **SEGUNDO ASESINO**  
-<span style="color:#9da7b3">Nosotros cumpliremos, mi señor, con lo que nos ordenáis.</span>
+<span style="color:#9da7b3">Cumpliremos, mi señor, lo que nos ordenéis.</span>
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">Aunque nuestras vidas—</span>
+<span style="color:#9da7b3">Aunque nuestras vidas...</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Vuestra energía resplandece en vuestros rostros. A más tardar en una hora os indicaré dónde poneros, os haré saber el momento exacto y preciso; pues ha de hacerse esta noche y a cierta distancia del palacio; teniendo siempre en cuenta que exijo quedar libre de sospecha. Y con él —por no dejar tropiezos ni remiendos en la obra— Fleance su hijo, que le hace compañía, cuya ausencia no me es menos importante que la de su padre, debe abrazar el sino de esa hora sombría. Retiraos y pensadlo aparte. Iré a veros enseguida.</span>
+<span style="color:#9da7b3">Vuestro espíritu brilla a través de vosotros. Dentro de esta hora a más tardar, os avisaré dónde colocaros, os informaré del momento preciso, el instante; pues debe hacerse esta noche y algo alejado del palacio; siempre teniendo en cuenta que requiero que no haya sospechas sobre mí. Y con él (para no dejar tropiezos ni chapuzas en el trabajo), Fleance su hijo, que le hace compañía, cuya ausencia no es menos material para mí que la de su padre, debe abrazar el destino de esa hora oscura. Decidíos aparte. Iré a veros pronto.</span>
 
 **LOS DOS ASESINOS**  
-<span style="color:#9da7b3">Estamos resueltos, mi señor.</span>
+<span style="color:#9da7b3">Estamos decididos, mi señor.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Os llamaré al instante: aguardad dentro.</span>
+<span style="color:#9da7b3">Os llamaré enseguida: permaneced dentro.</span>
 
 *<span style="color:#9da7b3">Salen los asesinos.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">Está decidido. Banquo, el vuelo de tu alma, si ha de hallar el cielo, habrá de hallarlo esta noche.</span>
+<span style="color:#9da7b3">Está concluido. Banquo, el vuelo de tu alma, si encuentra el cielo, debe encontrarlo esta noche.</span>
 
-*<span style="color:#9da7b3">Se retira.</span>*
+*<span style="color:#9da7b3">Sale.</span>*
 
 ### Escena 2. Lo mismo. Otra sala del palacio.
 
-*<span style="color:#9da7b3">Entran Lady Macbeth y un sirviente.</span>*
+*<span style="color:#9da7b3">Entran Lady Macbeth y un criado.</span>*
 
 **LADY MACBETH**  
 <span style="color:#9da7b3">¿Se ha ido Banquo de la corte?</span>
 
 **CRIADO**  
-<span style="color:#9da7b3">Sí, señora, pero vuelve esta noche.</span>
+<span style="color:#9da7b3">Sí, señora, pero regresa esta noche.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Dile al Rey que quisiera ocupar sus ratos libres con unas pocas palabras.</span>
+<span style="color:#9da7b3">Decid al Rey que deseo solicitar su atención por unas pocas palabras.</span>
 
 **CRIADO**  
-<span style="color:#9da7b3">Señora, así lo haré.</span>
+<span style="color:#9da7b3">Señora, lo haré.</span>
 
-*<span style="color:#9da7b3">Telón</span>*
+*<span style="color:#9da7b3">Sale.</span>*
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Nada se ha ganado, todo se ha gastado, cuando obtenemos nuestro deseo sin dicha: es más seguro ser aquello que destruimos, que habitar en la dudosa alegría mediante la destrucción.</span>
+<span style="color:#9da7b3">Nada se obtiene, todo se gasta, cuando nuestro deseo se logra sin contento: es más seguro ser aquello que destruimos, que habitar en la destrucción con una alegría dudosa.</span>
 
 *<span style="color:#9da7b3">Entra Macbeth.</span>*
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">¿Qué pasa, señor, por qué andáis a solas, haciendo de vuestros más tristes pensamientos vuestra compañía, alimentando esas ideas que en verdad debieron morir con aquellos en quienes se centran? Lo que no tiene remedio, sin remedio ha de estar: lo hecho, hecho está.</span>
+<span style="color:#9da7b3">¿Qué pasa, mi señor? ¿Por qué permaneces solo, haciendo de tus pensamientos más tristes tus compañeros, usando esos pensamientos que de hecho deberían haber muerto con aquellos en quienes piensan? Las cosas sin remedio deben ser sin miramientos: lo hecho, hecho está.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Hemos lacerado a la serpiente, no la hemos matado. Ella sanará y volverá a ser la misma, mientras nuestra pobre malicia sigue expuesta al peligro de su colmillo de antes. Mas que se desmorone el armazón del mundo, que perezcan ambos reinos, antes de comer nuestro pan con miedo y dormir en la zozofra de estos terribles sueños que nos sacuden cada noche. Más vale estar con los muertos, a quienes enviamos a la paz para ganar la nuestra, que yacer en la tortura de la mente con un delirio inquieto. Duncan está en su tumba; tras la fiebre inconstante de la vida duerme bien; la traición ha hecho lo peor que podía: ni el acero, ni el veneno, rencor doméstico, leva extranjera, nada puede ya tocarle.</span>
+<span style="color:#9da7b3">Hemos herido a la serpiente, no la hemos matado. Se cerrará y volverá a ser ella misma; mientras nuestra pobre malicia permanece en peligro de su antiguo diente. Pero que la estructura de las cosas se desmorone, que ambos mundos sufran, antes de que comamos nuestra comida con miedo y durmamos en la aflicción de estos sueños terribles que nos sacuden cada noche. Mejor estar con los muertos, a quienes, para ganar nuestra paz, hemos enviado a la paz, que yacer en la tortura de la mente en un éxtasis inquieto. Duncan está en su tumba; tras la febril agitación de la vida, duerme bien; la traición ha hecho lo peor: ni el acero, ni el veneno, ni la malicia doméstica, ni la leva extranjera, nada puede tocarlo más.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Vamos, sé amable, mi señor, alisa tus rasgos rudos; mantente alegre y jovial con tus invitados esta noche.</span>
+<span style="color:#9da7b3">Vamos, gentilmente mi señor, alisa tus rasgos adustos; sé brillante y jovial entre tus invitados esta noche.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Así lo haré, amor; y así, te ruego, sé tú. Recuerda siempre a Banquo; otórgale distinción, tanto con la mirada como con la palabra: inseguros vivimos, mientras tengamos que lavar nuestras honras en estas corrientes lisonjeras, y hacer de nuestros rostros máscaras de nuestros corazones, disfrazando lo que son.</span>
+<span style="color:#9da7b3">Así lo haré, amor; y así, te ruego, sé tú. Que tu recuerdo se aplique a Banquo; preséntale distinción, tanto con la mirada como con la lengua: inseguros mientras tanto, que debemos lavar nuestros honores en estas corrientes halagadoras, y hacer de nuestros rostros máscaras para nuestros corazones, disfrazando lo que son.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Debes dejar eso de lado.</span>
+<span style="color:#9da7b3">Debes dejar esto.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">¡Ay, de escorpiones llena está mi mente, esposa mía! Bien sabes que Banquo, y su Fleance, viven.</span>
+<span style="color:#9da7b3">¡Oh, llena de escorpiones está mi mente, querida esposa! Sabes que Banquo, y su Fleance, viven.</span>
 
 **LADY MACBETH**  
 <span style="color:#9da7b3">Pero en ellos la copia de la naturaleza no es eterna.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Aún hay consuelo; son vulnerables. Pues alégrate entonces. Antes de que el murciélago haya cumplido su vuelo claustral, antes de que, a la negra llamada de Hécate, el escarabajo de élitros natales, con sus somnolientos zumbidos, haya tañido el toque bostezante de la noche, se habrá consumado un hecho de espantosa notoriedad.</span>
+<span style="color:#9da7b3">Aún hay consuelo; son vulnerables. Entonces sé alegre. Antes de que el murciélago haya volado su vuelo claustral, antes de que a la llamada de la negra Hécate el escarabajo nacido en el estiércol, con sus zumbidos somnolientos, haya hecho sonar el bostezo de la noche, se realizará un acto de terrible importancia.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">¿Qué hay que hacer?</span>
+<span style="color:#9da7b3">¿Qué es lo que hay que hacer?</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Ignora la noticia del plan, querida prenda, hasta que aplaudas el hecho. Ven, noche que coses los ojos, venda el tierno ojo del día compasivo, ¡y con tu mano sangrienta e invisible anula y haz jirones ese gran pacto que me mantiene pálido! La luz se espesa, y el cuervo emprende el vuelo hacia el bosque umbrío. Las cosas buenas del día empiezan a decaer y adormecerse, mientras los agentes negros de la noche se despiertan para ir por sus presas. Te asombras de mis palabras; mas guárdate; las cosas mal empezadas se fortalecen con el mal. Pues bien, te ruego que vengas conmigo.</span>
+<span style="color:#9da7b3">Sé inocente del conocimiento, queridísima, hasta que aplaudas el hecho. ¡Ven, noche que ciegas, venda el ojo tierno del día compasivo, y con tu mano sangrienta e invisible cancela y despedaza ese gran vínculo que me mantiene pálido! La luz se espesa; y el cuervo emprende el vuelo hacia el bosque de cornejas. Las cosas buenas del día comienzan a decaer y adormecerse, mientras los agentes negros de la noche se despiertan para sus presas. Te maravillas de mis palabras: pero mantente quieta; las cosas mal empezadas se fortalecen con el mal. Así que, te ruego, ven conmigo.</span>
 
 *<span style="color:#9da7b3">Salen.</span>*
 
@@ -1175,33 +1175,33 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 *<span style="color:#9da7b3">Entran tres asesinos.</span>*
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">¿Pero quién te mandó unirte a nosotros?</span>
+<span style="color:#9da7b3">¿Pero quién te pidió que te unieras a nosotros?</span>
 
 **TERCER ASESINO**  
 <span style="color:#9da7b3">Macbeth.</span>
 
 **SEGUNDO ASESINO**  
-<span style="color:#9da7b3">No necesita que desconfiemos de él; puesto que transmite nuestras tareas y lo que hemos de hacer con absoluta precisión.</span>
+<span style="color:#9da7b3">No necesita nuestra desconfianza; ya que nos entrega nuestras funciones y lo que tenemos que hacer con la dirección exacta.</span>
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">Pues ponte con nosotros. El poniente aún brilla con algunas vetas del día. Ya espolea a paso rápido el viajero tardío para alcanzar la posada oportuna, y ya se aproxima el objeto de nuestra acecha.</span>
+<span style="color:#9da7b3">Entonces quedaos con nosotros. El oeste aún brilla con algunos destellos del día. Ahora espolea el viajero tardío a toda prisa, para llegar a la posada a tiempo; y se acerca el objeto de nuestra vigilancia.</span>
 
 **TERCER ASESINO**  
 <span style="color:#9da7b3">¡Escuchad! Oigo caballos.</span>
 
-*<span style="color:#9da7b3">Desde dentro</span>*
+*<span style="color:#9da7b3">Dentro.</span>*
 
 **BANQUO**  
-<span style="color:#9da7b3">¡Que alguien nos traiga una luz, eh!</span>
+<span style="color:#9da7b3">¡Dadnos luz ahí, ea!</span>
 
 **SEGUNDO ASESINO**  
-<span style="color:#9da7b3">Entonces es él; los demás que figuran en la lista prevista ya están en la corte.</span>
+<span style="color:#9da7b3">Entonces es él; los demás que figuran en la lista de invitados ya están en el patio.</span>
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">Sus caballos dan la vuelta.</span>
+<span style="color:#9da7b3">Sus caballos dan un rodeo.</span>
 
 **TERCER ASESINO**  
-<span style="color:#9da7b3">Casi una milla; pero suele —como todos los hombres desde aquí hasta la puerta del palacio— hacer de ello su paseo.</span>
+<span style="color:#9da7b3">Casi una milla; pero suele, como todos hacen, ir a pie desde aquí hasta la puerta del palacio.</span>
 
 *<span style="color:#9da7b3">Entran Banquo y Fleance con una antorcha.</span>*
 
@@ -1212,18 +1212,18 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 <span style="color:#9da7b3">Es él.</span>
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">A por él.</span>
+<span style="color:#9da7b3">¡A por él!</span>
 
 **BANQUO**  
-<span style="color:#9da7b3">Esta noche lloverá.</span>
+<span style="color:#9da7b3">Va a llover esta noche.</span>
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">Que se nos venga encima.</span>
+<span style="color:#9da7b3">Que caiga pues.</span>
 
 *<span style="color:#9da7b3">Ataca a Banquo.</span>*
 
 **BANQUO**  
-<span style="color:#9da7b3">¡Oh, traición! ¡Huye, buen Fleance, huye, huye, huye! ¡Tú puedes vengarte—Oh, villano!</span>
+<span style="color:#9da7b3">¡Oh, traición! ¡Huye, buen Fleance, huye, huye, huye! ¡Tú podrás vengarme! ¡Oh, villano!</span>
 
 *<span style="color:#9da7b3">Muere. Fleance escapa.</span>*
 
@@ -1231,94 +1231,94 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 <span style="color:#9da7b3">¿Quién apagó la luz?</span>
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">¿No era ese el modo?</span>
+<span style="color:#9da7b3">¿No era el camino?</span>
 
 **TERCER ASESINO**  
-<span style="color:#9da7b3">Sólo uno ha caído: el hijo ha huido.</span>
+<span style="color:#9da7b3">Solo ha caído uno: el hijo ha huido.</span>
 
 **SEGUNDO ASESINO**  
-<span style="color:#9da7b3">Hemos perdido la mitad mejor de nuestro asunto.</span>
+<span style="color:#9da7b3">Hemos perdido la mejor mitad de nuestro asunto.</span>
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">Pues marchemos ya, y digamos cuánto se ha hecho.</span>
+<span style="color:#9da7b3">Bien, vámonos y digamos cuánto se ha hecho.</span>
 
-*<span style="color:#9da7b3">[Vanse.]</span>*
+*<span style="color:#9da7b3">Salen.</span>*
 
 ### Escena 4. Lo mismo. El salón de estado del palacio.
 
-*<span style="color:#9da7b3">Se prepara un banquete. Entran Macbeth, Lady Macbeth, Ross, Lennox, los Lores y Séquito.</span>*
+*<span style="color:#9da7b3">Un banquete preparado. Entran Macbeth, Lady Macbeth, Ross, Lennox, lores y asistentes.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">Vosotros conocéis vuestros puestos, sentaos. De entrada y de salida, una cordial bienvenida.</span>
+<span style="color:#9da7b3">Conocéis vuestros rangos, sentaos. Desde el primero al último, sed bienvenidos.</span>
 
 **LORDES**  
-<span style="color:#9da7b3">Gracias a Vuestra Majestad.</span>
+<span style="color:#9da7b3">Gracias a vuestra Majestad.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Nos mezclaremos con la concurrencia y haremos de humilde anfitrión. Nuestra anfitriona mantiene su sitial; pero, a su debido tiempo, le pediremos que nos dé la bienvenida.</span>
+<span style="color:#9da7b3">Nosotros nos mezclaremos con la compañía y haremos de humilde anfitrión. Nuestra anfitriona permanece en su estrado; pero, en el momento oportuno, le pediremos su bienvenida.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Pronúncielo usted por mí, señor, a todos nuestros amigos; pues mi corazón declara que son bienvenidos.</span>
+<span style="color:#9da7b3">Pronúnciela por mí, señor, a todos nuestros amigos; pues mi corazón dice que son bienvenidos.</span>
 
-*<span style="color:#9da7b3">Entra el primer asesino por la puerta.</span>*
+*<span style="color:#9da7b3">Entra el primer asesino a la puerta.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">Ved, os saludan con las gracias de su corazón. Ambos bandos están iguales: aquí me sentaré en medio. Estad alegres en la fiesta; pronto beberemos una copa todos alrededor de la mesa. Tienes sangre en el rostro.</span>
+<span style="color:#9da7b3">Mirad, os reciben con el agradecimiento de sus corazones. Ambos lados están igualados: aquí me sentaré en medio. Alegraos mucho; pronto beberemos una ronda por toda la mesa. Tienes sangre en la cara.</span>
 
 **ASESINO**  
-<span style="color:#9da7b3">Pues es la de Banquo, entonces.</span>
+<span style="color:#9da7b3">Entonces es la de Banquo.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Más vale tu sangre fuera que él dentro. ¿Está liquidado?</span>
+<span style="color:#9da7b3">Es mejor fuera de ti que dentro de él. ¿Está despachado?</span>
 
 **ASESINO**  
-<span style="color:#9da7b3">Señor, tiene el cuello cortado. Eso ya lo hice por él.</span>
+<span style="color:#9da7b3">Mi señor, tiene el cuello cortado. Eso hice por él.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Eres el mejor de los asesinos; mas es bueno también quien hizo lo propio con Fleance: si tú lo hiciste, eres incomparable.</span>
+<span style="color:#9da7b3">Eres el mejor de los degolladores; pero es bueno el que hizo lo mismo con Fleance: si tú lo hiciste, no tienes igual.</span>
 
 **ASESINO**  
-<span style="color:#9da7b3">Mi más real señor, Fleance ha escapado.</span>
+<span style="color:#9da7b3">Majestuoso señor, Fleance ha escapado.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Vuelve entonces mi ataque: antes habría sido perfecto, entero como el mármol, cimentado como la roca, libre y amplio como el aire que nos envuelve; mas ahora estoy encabinado, pesebredo, confinado, atado a insolentes dudas y temores. ¿Pero Banquo está a salvo?</span>
+<span style="color:#9da7b3">Entonces vuelve mi ataque: de otro modo habría estado perfecto; entero como el mármol, firme como la roca, tan amplio y general como el aire que nos envuelve: pero ahora estoy encerrado, confinado, atado a insolentes dudas y temores. ¿Pero Banquo está a salvo?</span>
 
 **ASESINO**  
-<span style="color:#9da7b3">Sí, mi buen señor. A salvo yace en una zanja, con veinte profundas brechas en la cabeza; la menor de ellas, mortal por naturaleza.</span>
+<span style="color:#9da7b3">Sí, mi buen señor. A salvo yace en una zanja, con veinte profundas brechas en la cabeza; cualquiera de ellas mortal.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Gracias por ello. Ahí yace la serpiente grande; el gusano que ha huido tiene una naturaleza que con el tiempo criará veneno, aunque por ahora no tenga dientes. —Retírate; mañana lo hablaremos nosotros mismos.</span>
+<span style="color:#9da7b3">Gracias por eso. Ahí yace la serpiente adulta; el gusano que ha huido tiene una naturaleza que con el tiempo criará veneno, mas no tiene dientes por ahora. Vete; mañana nos volveremos a ver.</span>
 
-*<span style="color:#9da7b3">Se va el asesino.</span>*
+*<span style="color:#9da7b3">Sale el asesino.</span>*
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Mi real señor, no brindas alegría: el festín se vende si no se agradece a menudo mientras se hace, pues se da con bienvenida. Comer es mejor en casa; fuera de ella, el condimento de la carne es la cortesía; la reunión sería insípida sin ella.</span>
+<span style="color:#9da7b3">Mi real señor, no dais alegría: el banquete es vendido si no se ofrece a menudo; mientras se prepara, se da con bienvenida. Para alimentarse, mejor en casa; fuera de ella, la salsa de la carne es la ceremonia; el encuentro sería desnudo sin ella.</span>
 
-*<span style="color:#9da7b3">El fantasma de Banquo se levanta y se sienta en el lugar de Macbeth.</span>*
+*<span style="color:#9da7b3">El fantasma de Banquo aparece y se sienta en el lugar de Macbeth.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">¡Dulce recordatorio! — ¡Que una buena digestión acompañe al apetito, y la salud a ambos!</span>
+<span style="color:#9da7b3">¡Dulce recordatorio! Ahora, ¡que una buena digestión acompañe al apetito, y la salud a ambos!</span>
 
 **LENNOX**  
-<span style="color:#9da7b3">Plazca a vuestra alteza sentaros.</span>
+<span style="color:#9da7b3">Plazca a vuestra Alteza sentarse.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Aquí tendríamos bajo un mismo techo la honra de nuestro país, de estar presente la ilustre persona de nuestro Banquo; ¡a quien preferiría echar en cara su descortesía antes que compadecerse de una desgracia!</span>
+<span style="color:#9da7b3">Aquí tendríamos ahora el honor de nuestro país bajo techo, si la agraciada persona de nuestro Banquo estuviera presente; ¡a quien preferiría reprochar por descortés que compadecer por algún percance!</span>
 
 **ROSS**  
-<span style="color:#9da7b3">Su ausencia, señor, recrimina su promesa. ¿Dignificaros, alteza, con vuestra real compañía?</span>
+<span style="color:#9da7b3">Su ausencia, señor, culpa a su promesa. ¿Placería a vuestra Alteza honrarnos con su real compañía?</span>
 
 **MACBETH**  
 <span style="color:#9da7b3">La mesa está llena.</span>
 
 **LENNOX**  
-<span style="color:#9da7b3">Aquí tiene un asiento reservado, señor.</span>
+<span style="color:#9da7b3">Aquí hay un lugar reservado, señor.</span>
 
 **MACBETH**  
 <span style="color:#9da7b3">¿Dónde?</span>
 
 **LENNOX**  
-<span style="color:#9da7b3">Aquí, mi buen señor. ¿Qué es lo que altera a vuestra alteza?</span>
+<span style="color:#9da7b3">Aquí, mi buen señor. ¿Qué es lo que conmueve a vuestra Alteza?</span>
 
 **MACBETH**  
 <span style="color:#9da7b3">¿Cuál de vosotros ha hecho esto?</span>
@@ -1327,105 +1327,105 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 <span style="color:#9da7b3">¿Qué, mi buen señor?</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">No puedes decir que fui yo. Jamás agites tus ensangrentadas guedejas ante mí.</span>
+<span style="color:#9da7b3">No puedes decir que yo lo hice. Nunca sacudas tus ensangrentados cabellos ante mí.</span>
 
 **ROSS**  
 <span style="color:#9da7b3">Caballeros, levantaos; su Alteza no se encuentra bien.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Sentaos, dignos amigos. Mi señor suele ser así a menudo, y lo ha sido desde su juventud; os ruego que os sentéis; el ataque es pasajero; en un instante volverá a estar bien. Si mucho le observáis, le ofenderéis y prolongaréis su arrebato. Comed, y no le hagáis caso. —¿Eres un hombre?</span>
+<span style="color:#9da7b3">Sentaos, dignos amigos. Mi señor suele estar así a menudo, y lo ha estado desde su juventud: os ruego, mantened vuestros asientos; el ataque es momentáneo; en un instante volverá a estar bien. Si le observáis mucho, le ofenderéis y prolongaréis su padecimiento. Comed y no le prestéis atención. ¿Eres un hombre?</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Sí, y audaz, que osa mirar aquello que aterrorizaría al demonio.</span>
+<span style="color:#9da7b3">Sí, y uno audaz, que se atreve a mirar lo que podría espantar al mismo diablo.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">¡Vaya patochada! ¡Es la pintura misma de tu temor! Esta es la daga dibujada en el aire que, según dijiste, te condujo hacia Duncan. ¡Oh, estos arrebatos y sobresaltos —falsarios del verdadero miedo— le sentarían bien al cuento de una mujer junto al fuego de invierno, avalado por su abuela! ¡La vergüenza misma! ¿Por qué pones esas caras? Al fin y al cabo, solo miras un taburete.</span>
+<span style="color:#9da7b3">¡Oh, qué tontería! Esto es solo la pintura de tu miedo: es el puñal forjado en el aire que, según dijiste, te llevó hacia Duncan. Oh, estos desvaríos y sobresaltos (impostores del verdadero miedo) quedarían bien en el cuento de una mujer junto al fuego en invierno, autorizado por su abuela. ¡Qué vergüenza! ¿Por qué pones esas caras? Al fin y al cabo, solo miras un taburete.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">¡Por favor, mira ahí! ¡Mirad! ¡mirad! ¡Mirad! ¿Qué decís? ¿Pues qué me importa? Si puedes asentar la cabeza, habla también. — Si los osarios y las tumbas han de devolver a los que enterramos, nuestros monumentos serán las fauces de los milanos.</span>
+<span style="color:#9da7b3">¡Te ruego, mira allí! ¡Contempla! ¡mira! ¡he ahí! ¿qué decís? ¿Y a mí qué me importa? Si puedes asentir, habla también. Si los osarios y nuestras tumbas deben devolver a los que enterramos, nuestros monumentos serán las fauces de los milanos.</span>
 
 *<span style="color:#9da7b3">El fantasma desaparece.</span>*
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">¡Cómo, falto del todo de juicio y hombría!</span>
+<span style="color:#9da7b3">¿Qué, completamente despojado de hombría por la locura?</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Si estoy aquí de pie, lo he visto.</span>
+<span style="color:#9da7b3">Si estoy aquí de pie, yo lo vi.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">¡Válgame, qué vergüenza!</span>
+<span style="color:#9da7b3">¡Bah, qué vergüenza!</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">La sangre se ha derramado ya antes, en los tiempos antiguos, antes de que la ley humana purgase el pacífico estado; sí, y desde entonces también, se han cometido asesinatos demasiado terribles para el oído: hubo un tiempo en que, una vez sacados los sesos, el hombre moría y se acababa todo; pero ahora vuelven a levantarse, con veinte heridas mortales en la cabeza, y nos empujan de nuestros asientos. Esto es más extraño que un crimen semejante.</span>
+<span style="color:#9da7b3">Se ha derramado sangre antes de ahora, en los viejos tiempos, antes de que las leyes humanas purgaran el bienestar social; sí, y desde entonces también, se han cometido asesinatos demasiado terribles para el oído: hubo un tiempo en que, al salir los sesos, el hombre moría y ahí terminaba todo; pero ahora resucitan, con veinte heridas mortales en sus cabezas, y nos empujan de nuestros taburetes. Esto es más extraño que tal asesinato.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Mi digno señor, vuestros nobles amigos os reclaman.</span>
+<span style="color:#9da7b3">Mi digno señor, vuestros nobles amigos os echan de menos.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Lo he olvidado. No os asombréis de mí, dignísimos amigos míos. Sufro una extraña dolencia, que no es nada para los que me conocen. Vamos, amor y salud para todos; luego me sentaré. —Traedme vino, llenad las copas hasta el borde. — Brindo por la alegría general de toda la mesa y por nuestro querido amigo Banquo, a quien echamos de menos: ojalá estuviera aquí.</span>
+<span style="color:#9da7b3">Lo olvido. No os extrañéis de mí, mis dignísimos amigos. Tengo una extraña enfermedad, que no es nada para quienes me conocen. Vamos, amor y salud para todos; luego me sentaré. Dadme vino, llenad hasta el borde. Bebo por la alegría general de toda la mesa, y por nuestro querido amigo Banquo, a quien echamos de menos: ojalá estuviera aquí.</span>
 
-*<span style="color:#9da7b3">El fantasma vuelve a levantarse.</span>*
+*<span style="color:#9da7b3">El espectro se levanta de nuevo.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">¡Por todos, y por él, bebemos, y todos por todos!</span>
+<span style="color:#9da7b3">Por todos, y por él, brindamos, y todo para todos.</span>
 
 **LORDES**  
-<span style="color:#9da7b3">Nuestros deberes y el brindis.</span>
+<span style="color:#9da7b3">Nuestros deberes, y el brindis.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">¡Aparta! ¡y apártate de mi vista! ¡Que la tierra te oculte! Tus huesos no tienen médula, tu sangre está helada; ¡no hay brillo de inteligencia en esos ojos con los que me miras fijamente!</span>
+<span style="color:#9da7b3">¡Fuera! ¡y quítate de mi vista! ¡que la tierra te oculte! Tus huesos carecen de médula, tu sangre está fría; ¡no hay juicio en esos ojos con los que miras fijamente!</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Considerad esto, dignos pares, tan solo como un hábito; no es otra cosa, solo que arruina el placer del momento.</span>
+<span style="color:#9da7b3">Considerad esto, nobles señores, solo como algo habitual: no es otra cosa, solo que estropea el placer del momento.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Lo que un hombre ose, lo oso yo: acércate como el áspero oso ruso, el rinoceronte corazaado o el tigre hircano; adopta cualquier forma salvo esa, y mis firmes nervios jamás temblarán: o vuelve a la vida, y rétame al desierto con tu espada; si tiemblo entonces, proclamadme el pelele de una niña. ¡Vete, sombra horrible! ¡Aparta, irreal farsa!</span>
+<span style="color:#9da7b3">Lo que un hombre se atreve, yo me atrevo: acércate como el rudo oso ruso, el rinoceronte armado o el tigre hircano; toma cualquier forma menos esa, y mis firmes nervios jamás temblarán: o vuelve a estar vivo, y desafíame al desierto con tu espada; si entonces habito en el temblor, proclámame el juguete de una niña. ¡Fuera, horrible sombra! ¡Farsa irreal, fuera!</span>
 
-*<span style="color:#9da7b3">El fantasma desaparece.</span>*
+*<span style="color:#9da7b3">El espectro desaparece.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">Vaya, así es; ya ido, vuelvo a ser un hombre. Rogad os, quedaos sentados.</span>
+<span style="color:#9da7b3">Bien, así; una vez ido, vuelvo a ser un hombre. Os ruego que permanezcáis sentados.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Habéis desplazado la alegría, roto la buena reunión con un desorden de lo más admirable.</span>
+<span style="color:#9da7b3">Habéis desplazado la alegría, roto la buena reunión con el más admirable desorden.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">¿Pueden tales cosas ser, y abrumarnos como una nube de verano, sin nuestro asombro especial? Me hacéis dudar de mi propia índole, cuando ahora pienso que podéis contemplar tales visiones y conservar el rubor natural de vuestras mejillas, mientras las mí das palidecen de miedo.</span>
+<span style="color:#9da7b3">¿Pueden tales cosas suceder, y sobrecogernos como una nube de verano, sin nuestro especial asombro? Me hacéis extraño incluso a la disposición que poseo, cuando ahora pienso que podéis contemplar tales visiones y mantener el rubí natural de vuestras mejillas, cuando las mías están pálidas de miedo.</span>
 
 **ROSS**  
-<span style="color:#9da7b3">¿Qué visiones, señor?</span>
+<span style="color:#9da7b3">¿Qué visiones, mi señor?</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Os ruego que no habléis; empeora por momentos; las preguntas le enfurecen. De una vez, buenas noches; no guardéis el orden de vuestra salida, sino idos de una vez.</span>
+<span style="color:#9da7b3">Os ruego que no habléis; empeora cada vez más; interrogarlo lo enfurece. De una vez, buenas noches: no guardéis el orden de vuestra partida, sino marchaos al instante.</span>
 
 **LENNOX**  
-<span style="color:#9da7b3">Buenas noches; ¡y que Su Majestad goce de mejor salud!</span>
+<span style="color:#9da7b3">¡Buenas noches; y que una mejor salud asista a Su Majestad!</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">¡Una afectuosa buena noche a todos!</span>
+<span style="color:#9da7b3">¡Unas amables buenas noches a todos!</span>
 
-*<span style="color:#9da7b3">Salen todos los Lores y asistentes.</span>*
+*<span style="color:#9da7b3">Salen todos los lores y asistentes.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">La sangre reclama sangre, dicen; la sangre pedirá sangre. Dicen que las piedras se han movido, y los árboles han hablado; los augures y las relaciones comprendidas han sacado a la luz, mediante urracas, grajos y cornejas, al más secreto hombre de sangre. —¿Qué hora de la noche es?</span>
+<span style="color:#9da7b3">Tendrá sangre, dicen, la sangre pedirá sangre. Se sabe de piedras que se han movido y árboles que han hablado; los augurios, y las relaciones comprendidas, han sacado a la luz, mediante urracas, grajillas y cornejas, al más secreto hombre de sangre. —¿Qué hora de la noche es?</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Casi a greña con la aurora, cuál es cuál.</span>
+<span style="color:#9da7b3">Casi en conflicto con la mañana, cuál es cuál.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">¿Qué dices de que Macduff se niegue a acudir a nuestro gran banquete?</span>
+<span style="color:#9da7b3">¿Qué dices de que Macduff rechace su persona ante nuestra gran orden?</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">¿Enviaste recado a él, señor?</span>
+<span style="color:#9da7b3">¿Envió a buscarlo, señor?</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Me he enterado de pasada; pero enviaré a alguien. No hay uno solo de ellos en cuya casa no mantenga a un criado a sueldo. Mañana mismo iré a ver a las Hermanas Fatídicas; hablarán más, pues ahora estoy empeñado en saber, por los peores medios, lo peor. Por mi propio bien, todas las causas cederán: estoy tan sumergido en sangre que, si no diera más pasos, volver atrás sería tan arduo como seguir adelante. Tengo extrañas cosas en la cabeza, que pasarán a las manos, las cuales deben ser ejecutadas antes de ser examinadas.</span>
+<span style="color:#9da7b3">Lo oigo de pasada; pero enviaré. No hay uno solo de ellos en cuya casa no mantenga un sirviente a sueldo. Mañana (y será temprano) iré a las Hermanas Fatídicas: hablarán más; pues ahora estoy decidido a conocer, por los peores medios, lo peor. Por mi propio bien, todas las causas cederán: estoy tan sumergido en sangre que, si no vadeo más, regresar sería tan tedioso como cruzar. Cosas extrañas tengo en la cabeza, que pasarán a la mano, y que deben ser ejecutadas antes de que puedan ser examinadas.</span>
 
 **LADY MACBETH**  
-<span style="color:#9da7b3">Te falta el aderezo de todas las naturalezas, el sueño.</span>
+<span style="color:#9da7b3">Te falta el condimento de todas las naturalezas, el sueño.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Ven, vamos a dormir. Mi extraño y encubierto engaño es el miedo inexperto que aún falta de hábito endurecerse. Aún somos novatos en la acción.</span>
+<span style="color:#9da7b3">Vamos, nos iremos a dormir. Mi extraño autoengaño es el miedo del principiante que carece de dura práctica. Aún somos jóvenes en la acción.</span>
 
 *<span style="color:#9da7b3">Salen.</span>*
 
@@ -1434,20 +1434,20 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 *<span style="color:#9da7b3">Truenos. Entran las tres Brujas al encuentro de Hécate.</span>*
 
 **PRIMERA BRUJA**  
-<span style="color:#9da7b3">¿Por qué, qué tal, Hécate? Pareces enojada.</span>
+<span style="color:#9da7b3">¿Por qué, qué pasa, Hécate? te ves enfadada.</span>
 
 **HÉCATE**  
-<span style="color:#9da7b3">¿No tengo acaso razón, brujas como sois, insolentes y demasiado audaces? ¿Cómo osasteis negociar y tratar con Macbeth en enigmas y asuntos de muerte, y yo, la señora de vuestros encantos, la secreta autora de todos los males, jamás fui llamada a tomar mi parte o a mostrar la gloria de nuestro arte? Y, lo que es peor, todo lo que habéis hecho ha sido tan solo por un hijo caprichoso, rencoroso y furioso; quien, como hacen otros, ama por sus propios fines, no por vosotras. Pero enmendad vuestro error ahora: marchaos, y en la sima de Aqueronte reuníos conmigo por la mañana; hasta allí él vendrá para saber su destino. Preparad vuestras vasijas y vuestros sortilegios, vuestros encantos y todo lo demás. Me voy por los aires; esta noche la consagraré a un fin sombrío y fatal. Un gran asunto hay que finiquitar antes del mediodía. En la esquina de la luna cuelga una gota vaporosa y profunda; la atraparé antes de que caiga al suelo: y eso, destilado por artes mágicas, levantará espíritus artificiales tales que, por la fuerza de su ilusión, lo arrastrarán hacia su perdición. Él despreciará el sino, desdeñará la muerte, y elevará sus esperanzas por encima de la prudencia, la gracia y el temor. Y bien sabéis que la confianza es de los mortales el peor enemigo.</span>
+<span style="color:#9da7b3">¿No tengo motivos, brujas como sois, insolentes y demasiado audaces? ¿Cómo os atrevisteis a comerciar y traficar con Macbeth en acertijos y asuntos de muerte; y yo, la dueña de vuestros encantos, la artífice secreta de todos los daños, nunca fui llamada a desempeñar mi papel, o mostrar la gloria de nuestro arte? Y, lo que es peor, todo lo que habéis hecho ha sido solo por un hijo caprichoso, rencoroso y colérico; quien, como hacen otros, ama por sus propios fines, no por vosotras. Pero reparad ahora: marchaos, y en el foso del Aqueronte encontradme por la mañana: allí él vendrá a conocer su destino. Preparad vuestras vasijas y vuestros hechizos, vuestros encantos y todo lo demás. Yo voy por el aire; esta noche la pasaré hacia un fin funesto y fatal. Grandes asuntos deben ser realizados antes del mediodía. Sobre el cuerno de la luna cuelga una gota vaporosa y profunda; la atraparé antes de que llegue al suelo: y eso, destilado por artes mágicas, levantará tales espíritus artificiales que, por la fuerza de su ilusión, lo arrastrarán a su confusión. Él despreciará el destino, se burlará de la muerte y llevará sus esperanzas por encima de la sabiduría, la gracia y el miedo. Y todas sabéis que la seguridad es el mayor enemigo de los mortales.</span>
 
-*<span style="color:#9da7b3">Música y canto dentro: «Ven, ven», etc.</span>*
+*<span style="color:#9da7b3">Música y canto dentro, "Ven, ven", etc.</span>*
 
 **HÉCATE**  
-<span style="color:#9da7b3">¡Escucha! Me llaman; mi pequeño espíritu, ved, en una nube neblinosa se sienta y me espera.</span>
+<span style="color:#9da7b3">¡Escuchad! Me llaman; mi pequeño espíritu, mirad, se sienta en una nube brumosa y me espera.</span>
 
-*<span style="color:#9da7b3">Se va.</span>*
+*<span style="color:#9da7b3">Sale.</span>*
 
 **PRIMERA BRUJA**  
-<span style="color:#9da7b3">Vamos, daos prisa; pronto estará de vuelta.</span>
+<span style="color:#9da7b3">Vamos, démonos prisa; pronto estará de vuelta.</span>
 
 *<span style="color:#9da7b3">Salen.</span>*
 
@@ -1456,24 +1456,24 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 *<span style="color:#9da7b3">Entran Lennox y otro Lord.</span>*
 
 **LENNOX**  
-<span style="color:#9da7b3">Mis palabras anteriores no han hecho más que confirmar tus pensamientos, los cuales puedes interpretar más allá; solo digo que las cosas se han manejado de manera extraña. El piadoso Duncan fue de Macbeth sentido;—bien, ya estaba muerto:—y el muy valiente Banquo anduvo muy tarde; a quien, podéis decir, si os place, que mató Fleance, pues Fleance huyó. No se debe andar tan tarde. ¿Quién puede no pensar en cuán monstruoso fue que Malcolm y Donalbain mataran a su benigno padre? ¡Maldito crimen! ¡Cuánto le dolió a Macbeth! ¿No destrozó al punto, con piadosa saña, a los dos reos que eran esclavos delcohorte y siervos del sueño? ¿No fue eso un acto noble? Sí, y con gran sabiduría también; pues a cualquier corazón vivo le habría enfurecido oír a los hombres negarlo. De modo que, digo, él ha llevado las cosas bien; y yo pienso que, si tuviera bajo su llave a los hijos de Duncan (como, pluguiera al cielo, no los tendrá), sabrían lo que es matar a un padre; y lo mismo Fleance. ¡Pero en paz! —porque, según he oído, a causa de palabras imprudentes y de haber faltado a su cita en el banquete del tirano, Macduff vive caído en desgracia. Señor, ¿sabe dónde se oculta?</span>
+<span style="color:#9da7b3">Mis discursos anteriores solo han dado en el blanco de vuestros pensamientos, que pueden interpretar más allá: solo digo que las cosas han sido llevadas de manera extraña. El bondadoso Duncan fue compadecido por Macbeth: —cierto, estaba muerto:— y el muy valiente Banquo caminó demasiado tarde; a quien, podéis decir, si os place, que mató Fleance, pues Fleance huyó. Los hombres no deben caminar demasiado tarde. ¿Quién no puede dejar de pensar cuán monstruoso fue para Malcolm y para Donalbain matar a su bondadoso padre? ¡maldito hecho! ¡Cómo afligió a Macbeth! ¿no desgarró él al instante, en piadosa rabia, a los dos delincuentes que eran esclavos de la bebida y siervos del sueño? ¿No fue eso noblemente hecho? Sí, y sabiamente también; pues habría enfurecido a cualquier corazón vivo escuchar a los hombres negarlo. Así que, digo, él ha llevado todas las cosas bien: y pienso que, si tuviera a los hijos de Duncan bajo su llave (como, si al cielo le place, no lo hará), ellos descubrirían lo que es matar a un padre; así debería Fleance. Pero, ¡paz! —pues por palabras imprudentes, y porque falló en su presencia en el banquete del tirano, oigo que Macduff vive en desgracia. Señor, ¿podéis decir dónde se refugia?</span>
 
 **LORD**  
-<span style="color:#9da7b3">El hijo de Duncan, a quien este tirano usurpa el derecho de cuna, vive en la corte inglesa y es recibido por el piadoso Eduardo con tal gracia que la malevolencia de la fortuna no merma en nada su alta consideración. Allí se ha marchado Macduff para rogar al santo rey que, en su auxilio, despierte a Northumberland y al belicoso Siward, a fin de que, con la ayuda de estos (con Él arriba para ratificar la obra), podamos devolver de nuevo la comida a nuestras mesas y el sueño a nuestras noches; librar nuestros festejos y banquetes de cuchillos sangrientos, rendir fiel homenaje y recibir libres honores, todo lo cual anhelamos ahora. Y este informe de tal modo ha exasperado al Rey, que se prepara para algún apresto de guerra.</span>
+<span style="color:#9da7b3">El hijo de Duncan, de quien este tirano retiene el derecho de nacimiento, vive en la corte inglesa y es recibido por el muy piadoso Eduardo con tal gracia que la malevolencia de la fortuna no le resta nada a su alto respeto. Allí ha ido Macduff a rogar al santo rey que, con su ayuda, despierte a Northumberland y al belicoso Siward para que, con la ayuda de estos (con Aquel de arriba para ratificar la obra), podamos de nuevo dar carne a nuestras mesas, sueño a nuestras noches; libres de cuchillos sangrientos en nuestras fiestas y banquetes, rindamos fiel homenaje y recibamos honores libres, todo lo cual anhelamos ahora. Y este informe ha exasperado tanto al Rey que se prepara para algún intento de guerra.</span>
 
 **LENNOX**  
-<span style="color:#9da7b3">¿Mandó llamar a Macduff?</span>
+<span style="color:#9da7b3">¿Envió a buscar a Macduff?</span>
 
 **LORD**  
-<span style="color:#9da7b3">Lo hizo; y con un rotundo «Señor, yo no», el ceñudo mensajero me vuelve la espalda y murmura, como quien dijera: «Lamentaréis el momento que me carga con esta respuesta».</span>
+<span style="color:#9da7b3">Lo hizo: y con un absoluto "Señor, yo no", el sombrío mensajero me da la espalda y tararea, como quien dice: "Te arrepentirás del tiempo que me obstruye con esta respuesta".</span>
 
 **LENNOX**  
-<span style="color:#9da7b3">Y eso bien podría aconsejarle prudencia, para mantener toda la distancia que su sabiduría pueda procurarle. Vuele a la corte de Inglaterra algún santo ángel y revele su mensaje antes de que él llegue, para que una rápida bendición pueda regresar pronto a esta nuestra patria sufrida bajo una mano maldita.</span>
+<span style="color:#9da7b3">Y eso bien podría aconsejarle cautela, para mantener la distancia que su sabiduría pueda proveer. ¡Que algún santo ángel vuele a la corte de Inglaterra y despliegue su mensaje antes de que él venga, para que una rápida bendición pueda pronto regresar a este nuestro país sufriente bajo una mano maldita!</span>
 
 **LORD**  
-<span style="color:#9da7b3">Mis plegarias irán con él.</span>
+<span style="color:#9da7b3">Enviaré mis oraciones con él.</span>
 
-*<span style="color:#9da7b3">Vanse</span>*
+*<span style="color:#9da7b3">Salen.</span>*
 
 ## Acto IV
 
@@ -1482,229 +1482,229 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 *<span style="color:#9da7b3">Truenos. Entran las tres Brujas.</span>*
 
 **PRIMERA BRUJA**  
-<span style="color:#9da7b3">Tres veces el gato overo ha maullado.</span>
+<span style="color:#9da7b3">Tres veces ha maullado el gato atigrado.</span>
 
 **SEGUNDA BRUJA**  
-<span style="color:#9da7b3">Tres veces, y una más gruñó el erizo.</span>
+<span style="color:#9da7b3">Tres veces, y una más, ha gimoteado el erizo.</span>
 
 **TERCERA BRUJA**  
-<span style="color:#9da7b3">Harpier grita: Ya es hora, ya es hora.</span>
+<span style="color:#9da7b3">Harpier grita: es hora, es hora.</span>
 
 **PRIMERA BRUJA**  
-<span style="color:#9da7b3">Alrededor del caldero id, arrojad las entrañas de veneno. — Sapo, que bajo fría piedra, días y noches treinta y uno, veneno sudado durmiendo obtuvo, ¡hierve tú primero en el caldero encantado!</span>
+<span style="color:#9da7b3">Id alrededor del caldero; echad las entrañas envenenadas. — Sapo, que bajo piedra fría, durante treinta y un días y noches, ha destilado veneno mientras dormía, ¡hierve tú primero en la olla encantada!</span>
 
 **TODAS**  
-<span style="color:#9da7b3">Doble, doble, pena y sufra; fuego, arde; y caldera, hierve.</span>
+<span style="color:#9da7b3">Doble, doble, esfuerzo y problema; fuego, arde; y caldero, burbujea.</span>
 
 **SEGUNDA BRUJA**  
-<span style="color:#9da7b3">Lomo de víbora de pantano, en el caldero hierve y cuece; ojo de tritón y dedo de rana, pelo de murciélago y lengua de perro, lengua bífida de áspid y aguijón de lución, pata de lagartija y ala de lechuza, para un conjuro de poderoso tormento, como caldo del infierno hierve y burbujea.</span>
+<span style="color:#9da7b3">Filete de serpiente de pantano, en el caldero hierve y cuece; ojo de tritón y dedo de rana, lana de murciélago y lengua de perro, horquilla de víbora y aguijón de lución, pata de lagarto y ala de mochuelo, para un encanto de poderoso problema, como caldo infernal hierve y burbujea.</span>
 
 **TODAS**  
-<span style="color:#9da7b3">Doble, doble, pena y sufra; fuego, arde; y caldera, hierve.</span>
+<span style="color:#9da7b3">Doble, doble, esfuerzo y problema; fuego, arde; y caldero, burbujea.</span>
 
 **TERCERA BRUJA**  
-<span style="color:#9da7b3">Escama de dragón, diente de lobo, momia de bruja, estómago y abismo del tiburón hambriento de mar salada, raíz de cicuta cavada en la oscuridad, hígado de judío blasfemo, hiel de cabra y gajos de tejo cortados en el eclipse lunar, nariz de turco y labios de tártaro, dedo de niño estrangulado al nacer parido en una zanja por una ramera, haced que el potaje sea espeso y pastoso: añadid a esto las entrañas de un tigre, para los ingredientes de nuestro caldero.</span>
+<span style="color:#9da7b3">Escama de dragón, diente de lobo, momia de bruja, fauces y garganta del tiburón voraz de mar salado, raíz de cicuta cavada en la oscuridad, hígado de judío blasfemo, hiel de cabra y brotes de tejo cortados en el eclipse de luna, nariz de turco y labios de tártaro, dedo de bebé estrangulado al nacer, arrojado a la zanja por una ramera, haced que el potaje sea espeso y viscoso: añadid a eso las entrañas de un tigre, para los ingredientes de nuestro caldero.</span>
 
 **TODAS**  
-<span style="color:#9da7b3">Doble, doble, pena y desvelo; fuego, arde; y caldero, hierve.</span>
+<span style="color:#9da7b3">Doble, doble, esfuerzo y problema; fuego, arde; y caldero, burbujea.</span>
 
 **SEGUNDA BRUJA**  
-<span style="color:#9da7b3">Enfríalo con sangre de papión. Queda el conjuro firme y bueno.</span>
+<span style="color:#9da7b3">Enfriadlo con sangre de babuino. Entonces el encanto es firme y bueno.</span>
 
 *<span style="color:#9da7b3">Entra Hécate.</span>*
 
 **HÉCATE**  
-<span style="color:#9da7b3">¡Oh, bien hecho! Alabo vuestro esfuerzo, y todos participarán de la ganancia. Y ahora alrededor del caldero cantad, como duendes y hadas en rueda, encantando todo lo que en él echáis.</span>
+<span style="color:#9da7b3">¡Oh, bien hecho! Elogio vuestros esfuerzos, y todas compartiréis las ganancias. Y ahora cantad alrededor del caldero, como elfos y hadas en corro, encantando todo lo que ponéis dentro.</span>
 
-*<span style="color:#9da7b3">Música y un canto: «Espíritus negros», etc.</span>*
+*<span style="color:#9da7b3">Música y una canción: "Espíritus negros", etc.</span>*
 
-*<span style="color:#9da7b3">Se va Hécate.</span>*
+*<span style="color:#9da7b3">Sale Hécate.</span>*
 
 **SEGUNDA BRUJA**  
-<span style="color:#9da7b3">Por el picor de mis pulgares, algo perverso viene hacia aquí. ¡Abre, cerrojo, sea quien sea el que tocó!</span>
+<span style="color:#9da7b3">Por el hormigueo de mis pulgares, algo malvado viene por aquí. ¡Abrid, cerrojos, quienquiera que llame!</span>
 
 *<span style="color:#9da7b3">Entra Macbeth.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">¡Hola, brujas secretas, negras y nocturnas! ¿Qué es lo que hacéis?</span>
+<span style="color:#9da7b3">¡Cómo estáis, secretas, negras y nocturnas brujas! ¿Qué es lo que hacéis?</span>
 
 **TODAS**  
-<span style="color:#9da7b3">Una obra sin nombre.</span>
+<span style="color:#9da7b3">Una acción sin nombre.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Os conjuro, por aquello que profesáis, (por mucho que hayáis llegado a saberlo) respondedme: Aunque soltéis los vientos y los hagáis luchar contra las iglesias; aunque las olas espumosas confundan y devoren la navegación; aunque el trigo tierno sea aplastado y los árboles derribados; aunque los castillos se desplomen sobre las cabezas de sus guardianes; aunque palacios y pirámides inclinen sus cumbres hasta sus cimientos; aunque los tesoros de los gérmenes de la naturaleza se desmoronen todos juntos, hasta que la misma destrucción se harte, respondedme a lo que os pregunto.</span>
+<span style="color:#9da7b3">Os conjuro, por aquello que profesáis (sea como sea que lo sepáis), respondedme: aunque desatéis los vientos y dejéis que luchen contra las iglesias; aunque las olas espumosas confundan y traguen la navegación; aunque el trigo tierno se tumbe y los árboles sean derribados; aunque los castillos se desplomen sobre las cabezas de sus guardianes; aunque palacios y pirámides inclinen sus cimas hasta sus cimientos; aunque el tesoro de los gérmenes de la naturaleza se revuelva todo junto, hasta que la destrucción se hastíe, respondedme a lo que os pregunto.</span>
 
 **PRIMERA BRUJA**  
-<span style="color:#9da7b3">Hablad.</span>
+<span style="color:#9da7b3">Habla.</span>
 
 **SEGUNDA BRUJA**  
-<span style="color:#9da7b3">Ordena.</span>
+<span style="color:#9da7b3">Pregunta.</span>
 
 **TERCERA BRUJA**  
-<span style="color:#9da7b3">Te responderemos.</span>
+<span style="color:#9da7b3">Responderemos.</span>
 
 **PRIMERA BRUJA**  
-<span style="color:#9da7b3">Di, ¿si preferirías oírlo de nuestras bocas o de nuestros amos?</span>
+<span style="color:#9da7b3">Di, ¿prefieres oírlo de nuestras bocas o de nuestros maestros?</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Llámalos, déjame verlos.</span>
+<span style="color:#9da7b3">Llamadlos, dejad que los vea.</span>
 
 **PRIMERA BRUJA**  
-<span style="color:#9da7b3">Vierte sangre de cerda que se haya comido a sus nueve crías; arroja a la llama la grasa sudada de la horca del asesino.</span>
+<span style="color:#9da7b3">Verted sangre de cerda que haya comido a sus nueve crías; grasa que ha sudado del patíbulo del asesino, arrojadla a la llama.</span>
 
 **TODAS**  
-<span style="color:#9da7b3">Ven, alto o bajo; ¡muestra con maña tu ser y tu oficio!</span>
+<span style="color:#9da7b3">¡Venid, altos o bajos; mostrad vuestra forma y vuestro oficio con destreza!</span>
 
-*<span style="color:#9da7b3">Truenos. Surge la aparición de una cabeza armada.</span>*
+*<span style="color:#9da7b3">Truenos. Surge una aparición de una cabeza armada.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">Dime, tú, desconocido poder,—</span>
+<span style="color:#9da7b3">Dime, poder desconocido...</span>
 
 **PRIMERA BRUJA**  
 <span style="color:#9da7b3">Él conoce tu pensamiento: escucha su voz, pero no digas nada.</span>
 
 **APARICIÓN**  
-<span style="color:#9da7b3">Macbeth! ¡Macbeth! ¡Macbeth! Guárdate de Macduff; guárdate del barón de Fife. —Despídeme.—Basta.</span>
+<span style="color:#9da7b3">¡Macbeth! ¡Macbeth! ¡Macbeth! Guárdate de Macduff; guárdate del señor de Fife. —Despídeme.—Basta.</span>
 
-*<span style="color:#9da7b3">Desciende</span>*
+*<span style="color:#9da7b3">Desciende.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">Sea lo que seas, gracias por tu buen aviso; has dado en el clavo de mi miedo. —Tan solo una palabra más.</span>
+<span style="color:#9da7b3">Seas lo que seas, gracias por tu buena advertencia; has dado en el clavo de mi miedo. —Pero una palabra más.</span>
 
 **PRIMERA BRUJA**  
-<span style="color:#9da7b3">No se dejará mandar. He aquí otra, más potente que la primera.</span>
+<span style="color:#9da7b3">No se le puede mandar. Aquí hay otro, más potente que el primero.</span>
 
-*<span style="color:#9da7b3">Trueno. Surge la aparición de un niño ensangrentado.</span>*
+*<span style="color:#9da7b3">Truenos. Surge una aparición de un niño ensangrentado.</span>*
 
 **APARICIÓN**  
-<span style="color:#9da7b3">¡Macbeth! ¡Macbeth! Macbeth!</span>
+<span style="color:#9da7b3">¡Macbeth! ¡Macbeth! ¡Macbeth!</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Si tuviera tres orejas, te escucharía.</span>
+<span style="color:#9da7b3">Si tuviera tres oídos, te escucharía.</span>
 
 **APARICIÓN**  
-<span style="color:#9da7b3">Sed sangriento, audaz y firme. Búrlate del poder del hombre, pues ninguno nacido de mujer hará daño a Macbeth.</span>
+<span style="color:#9da7b3">Sé sangriento, audaz y resuelto. Búrlate del poder del hombre, pues ninguno nacido de mujer hará daño a Macbeth.</span>
 
 *<span style="color:#9da7b3">Desciende.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">Vete, vive, Macduff: ¿qué he de temer de ti? No obstante, aseguraré mi certeza al doble y le arrancaré una garantía al destino. No has de vivir; para poder decirle al pálido temor que miente, y dormir a pesar de los truenos.</span>
+<span style="color:#9da7b3">Entonces vive, Macduff: ¿qué he de temer de ti? Pero aun así, me aseguraré doblemente y tomaré una garantía del destino. No vivirás; para que pueda decirle al miedo cobarde que miente, y dormir a pesar de los truenos.</span>
 
-*<span style="color:#9da7b3">Trueno. Se eleva la aparición de un niño coronado, con un árbol en la mano.</span>*
+*<span style="color:#9da7b3">Truenos. Surge una aparición de un niño coronado, con un árbol en la mano.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">¿Qué es esto, que surge como el descendiente de un rey, y lleva sobre su frente infantil la redondez y la cumbre de la soberanía?</span>
+<span style="color:#9da7b3">¿Qué es esto que surge como el vástago de un rey y lleva sobre su frente infantil el círculo y la cima de la soberanía?</span>
 
 **TODAS**  
-<span style="color:#9da7b3">Escuchad, pero no le habléis.</span>
+<span style="color:#9da7b3">Escucha, pero no le hables.</span>
 
 **APARICIÓN**  
-<span style="color:#9da7b3">Alza la voz de león, sé orgulloso y no te preocupes por quién se enoje, quién se agite o dónde estén los conspiradores: Macbeth jamás será vencido hasta que el gran bosque de Birnam avance contra él hacia la colina del alto Dunsinane.</span>
+<span style="color:#9da7b3">Ten corazón de león, sé orgulloso y no te preocupes por quién se irrita, quién se inquieta o dónde están los conspiradores: Macbeth jamás será vencido hasta que el gran bosque de Birnam venga contra él a la alta colina de Dunsinane.</span>
 
 *<span style="color:#9da7b3">Desciende.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">¡Eso jamás sucederá! ¿Quién puede reclutar al bosque, ordenar al árbol que arranque su raíz prendida a la tierra? ¡Dulces augurios, bien! Cabeza rebelde, no te levantes jamás hasta que el bosque de Birnam se alce, y nuestro excelso Macbeth viva el plazo que le otorga la naturaleza, entregando su aliento al tiempo y a la costumbre mortal. —Sin embargo, mi corazón palpita por saber una sola cosa: decidme, si vuestro arte puede tanto, ¿reinará jamás la descendencia de Banquo en este reino?</span>
+<span style="color:#9da7b3">Eso nunca sucederá: ¿quién puede reclutar al bosque; ordenar al árbol que desclave su raíz atada a la tierra? ¡Dulces presagios, buenos! Cabeza rebelde, no te levantes nunca hasta que el bosque de Birnam se alce, y nuestro excelso Macbeth viva el plazo de la naturaleza, pague su aliento al tiempo y a la costumbre mortal. —Sin embargo, mi corazón palpita por saber una cosa: decidme, si vuestro arte puede decir tanto, ¿reinará alguna vez la descendencia de Banquo en este reino?</span>
 
 **TODAS**  
-<span style="color:#9da7b3">No procures saber más.</span>
+<span style="color:#9da7b3">No busques saber más.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">¡Exijo una respuesta! ¡Si me la negáis, que caiga sobre vosotras una maldición eterna! Sábeme dar respuesta. ¿Por qué se hunde ese caldero? ¿Y qué bullicio es este?</span>
+<span style="color:#9da7b3">Quiero estar satisfecho: si me negáis esto, ¡que caiga sobre vosotras una maldición eterna! Dejadme saber. ¿Por qué se hunde ese caldero? ¿Y qué ruido es este?</span>
 
 *<span style="color:#9da7b3">Oboes.</span>*
 
 **PRIMERA BRUJA**  
-<span style="color:#9da7b3">¡Apareced!</span>
+<span style="color:#9da7b3">¡Mostrad!</span>
 
 **SEGUNDA BRUJA**  
-<span style="color:#9da7b3">¡Muéstrase!</span>
+<span style="color:#9da7b3">¡Mostrad!</span>
 
 **TERCERA BRUJA**  
 <span style="color:#9da7b3">¡Mostrad!</span>
 
 **TODAS**  
-<span style="color:#9da7b3">¡Mostrad vuestros ojos y entristeced su corazón; venid como sombras y marchaos así!</span>
+<span style="color:#9da7b3">¡Mostrad ante sus ojos y afligid su corazón; venid como sombras, y así marchaos!</span>
 
-*<span style="color:#9da7b3">Aparece una procesión de ocho reyes que desfilan en orden, el último con un espejo en la mano, y Banquo los sigue.</span>*
+*<span style="color:#9da7b3">Aparece un desfile de ocho reyes que pasan en orden, el último con un espejo en la mano; Banquo los sigue.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">Eres demasiado parecido al espíritu de Banquo. ¡Abajo! Tu corona abrasa mis globos oculares; y tu pelo, tú, otra frente ceñida de oro, es como el primero. Un tercero es como el primero. ¡Sucias brujas! ¿Por qué me mostráis esto? —¡Un cuarto!—¡Salíos de vuestras órbitas, ojos! ¿Qué, se alargará la estirpe hasta el juicio final? ¡Otro aún! ¡Un séptimo! —No quiero ver más;— Y aun el octavo aparece, que trae un espejo que me muestra muchos más; y a algunos veo que dobles globos y triples cetros llevan. ¡Horrible visión! —Ahora veo que es verdad; pues el ensangrentado Banquo me sonríe y los señala como suyos. —¡Cómo! ¿Es esto así?</span>
+<span style="color:#9da7b3">Eres demasiado parecido al espíritu de Banquo. ¡Abajo! Tu corona abrasa mis globos oculares; y tu cabello, tú, otra frente ceñida de oro, es como la del primero. Un tercero es como el anterior. —¡Brujas inmundas! ¿Por qué me mostráis esto? —¡Un cuarto!—¡Saltad, ojos! ¿Qué, se extenderá la estirpe hasta el fin del mundo? ¡Otro más!—¡Un séptimo! —No veré más; y sin embargo aparece el octavo, que lleva un espejo que me muestra muchos más; y veo a algunos que portan orbes dobles y cetros triples. ¡Visión horrible! —Ahora veo que es verdad; pues el ensangrentado Banquo me sonríe y los señala como suyos. —¡Qué! ¿Es esto así?</span>
 
 **PRIMERA BRUJA**  
-<span style="color:#9da7b3">Sí, señor, todo esto es así; mas ¿por qué se queda Macbeth tan absorto? — Ea, hermanas, animemos su espíritu y mostremos lo mejor de nuestros encantos. He de embrujar el aire con sones, mientras vosotras hacéis vuestra danza grotesca; para que este gran rey amablemente diga que nuestros deberes le dieron la bienvenida.</span>
+<span style="color:#9da7b3">Sí, señor, todo esto es así; pero ¿por qué permanece Macbeth tan atónito? —Venid, hermanas, animemos su espíritu y mostremos lo mejor de nuestros deleites. Encantaré el aire para que dé un sonido, mientras vosotras ejecutáis vuestra ronda grotesca; para que este gran rey pueda decir amablemente que nuestros deberes pagaron su bienvenida.</span>
 
-*<span style="color:#9da7b3">Música. Las brujas bailan y se desvanecen.</span>*
+*<span style="color:#9da7b3">Música. Las brujas bailan y desaparecen.</span>*
 
 **MACBETH**  
-<span style="color:#9da7b3">¿Dónde están? ¿Se han ido? —¡Que esta hora perniciosa sea maldita para siempre en el calendario! — ¡Entrad, los de fuera!</span>
+<span style="color:#9da7b3">¿Dónde están? ¿Se han ido? —¡Que esta hora perniciosa quede maldita por siempre en el calendario! —¡Entrad, los de fuera!</span>
 
 *<span style="color:#9da7b3">Entra Lennox.</span>*
 
 **LENNOX**  
-<span style="color:#9da7b3">¿Qué desea Vuestra Merced?</span>
+<span style="color:#9da7b3">¿Cuál es la voluntad de Vuestra Gracia?</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">¿Viste a las Hermanas Fatídicas?</span>
+<span style="color:#9da7b3">¿Visteis a las Hermanas Fatídicas?</span>
 
 **LENNOX**  
 <span style="color:#9da7b3">No, mi señor.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">¿No pasaron junto a usted?</span>
+<span style="color:#9da7b3">¿No pasaron por donde estáis?</span>
 
 **LENNOX**  
-<span style="color:#9da7b3">No, mi señor, en verdad.</span>
+<span style="color:#9da7b3">No, ciertamente, mi señor.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Infectado sea el aire en que cabalgan, ¡y malditos todos los que en ellos confían! —Oí galopar caballos: ¿quién pasó por aquí?</span>
+<span style="color:#9da7b3">¡Infectado sea el aire sobre el que cabalgan; y malditos todos los que confían en ellas! —Escuché el galope de caballos: ¿quién pasó por aquí?</span>
 
 **LENNOX**  
-<span style="color:#9da7b3">Son dos o tres, mi señor, que le traen la noticia de que Macduff ha huido a Inglaterra.</span>
+<span style="color:#9da7b3">Son dos o tres, mi señor, que le traen noticias de que Macduff ha huido a Inglaterra.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">¡Huyó a Inglaterra!</span>
+<span style="color:#9da7b3">¡Huido a Inglaterra!</span>
 
 **LENNOX**  
-<span style="color:#9da7b3">Así es, mi buen señor.</span>
+<span style="color:#9da7b3">Sí, mi buen señor.</span>
 
 **MACBETH**  
-<span style="color:#9da7b3">Tiempo, te anticipas a mis temores: el propósito fugaz nunca es alcanzado a menos que la acción lo acompañe. Desde este mismo instante, los primeros frutos de mi corazón serán también los primeros frutos de mi mano. Y desde ahora mismo, para coronar mis pensamientos con actos, ¡que sea pensado y hecho!: el castillo de Macduff sorprenderé; tomaré Fife; entregaré al filo de la espada a su esposa, a sus hijos y a todas las almas desdichadas que sigan su linaje. No presumiré como un imbécil; haré este acto antes de que mi propósito se enfríe. ¡Pero basta ya de visiones! —¿Dónde están estos caballeros? Ven, condúceme a donde están.</span>
+<span style="color:#9da7b3">Tiempo, te anticipas a mis terribles hazañas: el propósito fugaz nunca es alcanzado a menos que la acción lo acompañe. Desde este momento, los primeros impulsos de mi corazón serán los primeros impulsos de mi mano. E incluso ahora, para coronar mis pensamientos con actos, que sea pensado y hecho: sorprenderé el castillo de Macduff; tomaré Fife; entregaré al filo de la espada a su esposa, a sus hijos y a todas las almas desafortunadas que sigan su linaje. Nada de jactarse como un necio; haré esta acción antes de que este propósito se enfríe: ¡pero no más visiones! —¿Dónde están estos caballeros? Venid, llevadme donde ellos están.</span>
 
-*<span style="color:#9da7b3">Se van.</span>*
+*<span style="color:#9da7b3">Salen.</span>*
 
 ### Escena 2. Fife. Una sala del castillo de Macduff.
 
 *<span style="color:#9da7b3">Entran Lady Macduff, su hijo y Ross.</span>*
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">¿Qué había hecho él para huir del país?</span>
+<span style="color:#9da7b3">¿Qué había hecho él para que huyera del país?</span>
 
 **ROSS**  
-<span style="color:#9da7b3">Debéis tener paciencia, señora.</span>
+<span style="color:#9da7b3">Debe tener paciencia, señora.</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Él no tenía ninguna; su huida fue locura: cuando nuestros actos no lo hacen, nuestros miedos nos hacen traidores.</span>
+<span style="color:#9da7b3">No tenía ninguno: su huida fue locura; cuando nuestras acciones no lo son, nuestros miedos nos hacen traidores.</span>
 
 **ROSS**  
-<span style="color:#9da7b3">No sabéis si fue su prudencia o su temor.</span>
+<span style="color:#9da7b3">No sabes si fue su sabiduría o su miedo.</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">¡Cordura! ¿abandonar a su esposa, a sus criaturas, su mansión y sus títulos, en un lugar de donde él mismo huye? No nos ama; le falta el afecto natural; pues el pobre chochín, el más diminuto de los pájaros, peleará, con sus polluelos en el nido, contra el búho. Todo es el miedo y nada el amor; tan poca es la cordura, cuando la huida va tan en contra de toda razón.</span>
+<span style="color:#9da7b3">¡Sabiduría! ¿Dejar a su esposa, dejar a sus hijos, su mansión y sus títulos, en un lugar del cual él mismo huye? No nos ama: carece del instinto natural; pues el pobre reyezuelo, el más diminuto de los pájaros, luchará, con sus crías en el nido, contra el búho. Todo es miedo y nada es amor; tan poca es la sabiduría donde la huida va tan en contra de toda razón.</span>
 
 **ROSS**  
-<span style="color:#9da7b3">Mi amadísima prima, te ruego que te moderes; mas, en cuanto a tu esposo, es noble, sabio, juicioso y conoce mejor los embates de la época. No oso hablar mucho más: pero crueles son los tiempos, cuando somos traidores, y no nos conocemos a nosotros mismos; cuando creemos los rumores por lo que tememos, mas no sabemos qué tememos, sino que flotamos en un mar salvaje y violento hacia cualquier parte y nos movemos—; me despido de vosotros: no pasará mucho tiempo antes de que esté aquí de nuevo. Lo peor, al llegar al fondo, cesará o volverá a subir a lo que era antes. —Mi querido primito, ¡que la bendición te acompañe!</span>
+<span style="color:#9da7b3">Mi querido primo, te ruego que te serenes; pero, en cuanto a tu esposo, él es noble, sabio, juicioso y conoce mejor los vaivenes de la época. No me atrevo a hablar mucho más: pero crueles son los tiempos cuando somos traidores y no nos conocemos a nosotros mismos; cuando damos crédito a los rumores por lo que tememos, sin saber qué tememos, sino que flotamos sobre un mar salvaje y violento en todas direcciones y movimientos; me despido de ti: no pasará mucho tiempo antes de que esté aquí de nuevo. Las cosas en su peor momento cesarán, o bien volverán a ascender a lo que eran antes. —¡Mi linda prima, bendiciones sobre ti!</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Tiene padre y, sin embargo, no tiene padre.</span>
+<span style="color:#9da7b3">Tiene padre, y sin embargo es huérfano.</span>
 
 **ROSS**  
-<span style="color:#9da7b3">Soy tan necio que, si me quedara más tiempo, sería mi deshonra y su incomodidad: me despido ahora mismo.</span>
+<span style="color:#9da7b3">Soy tan tonto que, si me quedara más tiempo, sería mi desgracia y tu incomodidad: me despido de inmediato.</span>
 
-*<span style="color:#9da7b3">Se va.</span>*
+*<span style="color:#9da7b3">Sale.</span>*
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Muchacho, tu padre ha muerto. ¿Y tú qué harás ahora? ¿Cómo vivirás?</span>
+<span style="color:#9da7b3">Muchacho, tu padre ha muerto. ¿Y qué harás ahora? ¿Cómo vivirás?</span>
 
 **HIJO**  
 <span style="color:#9da7b3">Como los pájaros, madre.</span>
@@ -1713,88 +1713,88 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 <span style="color:#9da7b3">¿Qué, con gusanos y moscas?</span>
 
 **HIJO**  
-<span style="color:#9da7b3">Con lo que consigo, quiero decir; y así hacen ellos.</span>
+<span style="color:#9da7b3">Con lo que consiga, quiero decir; y así hacen ellos.</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">¡Pobre pajarillo! jamás temerías la red ni la liga, la trampa ni el lazo.</span>
+<span style="color:#9da7b3">¡Pobre pájaro! Nunca temerías la red ni la liga, la trampa ni el lazo.</span>
 
 **HIJO**  
-<span style="color:#9da7b3">¿Por qué habría de hacerlo, madre? A los pájaros pobres no se les tiende la red. Mi padre no ha muerto, a pesar de lo que dices.</span>
+<span style="color:#9da7b3">¿Por qué debería, madre? Para los pobres pájaros no se preparan. Mi padre no ha muerto, a pesar de lo que digas.</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Sí, ha muerto: ¿cómo te apañarás para tener padre?</span>
+<span style="color:#9da7b3">Sí, está muerto: ¿qué harás sin un padre?</span>
 
 **HIJO**  
-<span style="color:#9da7b3">No, ¿y usted cómo hará para conseguir esposo?</span>
+<span style="color:#9da7b3">Pues bien, ¿qué harás tú sin un esposo?</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Pues puedo comprarme veinte en cualquier mercado.</span>
+<span style="color:#9da7b3">Vaya, puedo comprarme veinte en cualquier mercado.</span>
 
 **HIJO**  
-<span style="color:#9da7b3">Pues entonces los comprarás para revenderlos.</span>
+<span style="color:#9da7b3">Entonces los comprarás para venderlos de nuevo.</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Hablas con toda tu agudeza; y sin embargo, a fe mía, con la agudeza justa para ti.</span>
+<span style="color:#9da7b3">Hablas con todo tu ingenio; y aun así, en verdad, con el ingenio suficiente para ti.</span>
 
 **HIJO**  
 <span style="color:#9da7b3">¿Era mi padre un traidor, madre?</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Sí, tal era.</span>
+<span style="color:#9da7b3">Sí, eso era.</span>
 
 **HIJO**  
 <span style="color:#9da7b3">¿Qué es un traidor?</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Vaya, uno que jura y miente.</span>
+<span style="color:#9da7b3">Pues bien, alguien que jura y miente.</span>
 
 **HIJO**  
-<span style="color:#9da7b3">¿Y son traidores todos los que hacen eso?</span>
+<span style="color:#9da7b3">¿Y son todos traidores los que hacen eso?</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Todos los que hacen eso son traidores y deben ser ahorcados.</span>
+<span style="color:#9da7b3">Todo el que hace eso es un traidor y debe ser ahorcado.</span>
 
 **HIJO**  
-<span style="color:#9da7b3">¿Y han de ser ahorcados todos los que juran y mienten?</span>
+<span style="color:#9da7b3">¿Y deben ser ahorcados todos los que juran y mienten?</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Todos.</span>
+<span style="color:#9da7b3">Todos y cada uno.</span>
 
 **HIJO**  
-<span style="color:#9da7b3">¿Quién ha de colgarlos?</span>
+<span style="color:#9da7b3">¿Quién debe ahorcarlos?</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Vaya, los hombres honrados.</span>
+<span style="color:#9da7b3">Pues los hombres honestos.</span>
 
 **HIJO**  
-<span style="color:#9da7b3">Entonces los mentirosos y los perjuros son unos insensatos, porque hay mentirosos y perjuros de sobra para apalear a los hombres honrados y colgarlos.</span>
+<span style="color:#9da7b3">Entonces los mentirosos y los que juran son tontos: porque hay suficientes mentirosos y perjuros para vencer a los hombres honestos y ahorcarlos a ellos.</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">¡Pues que Dios te ampare, pobre monito! ¿Pero cómo harás para tener padre?</span>
+<span style="color:#9da7b3">¡Ahora, que Dios te ayude, pobre monito! Pero, ¿qué harás sin un padre?</span>
 
 **HIJO**  
-<span style="color:#9da7b3">Si estuviese muerto, llorarías por él; si no lo hicieras, sería una buena señal de que pronto tendría un nuevo padre.</span>
+<span style="color:#9da7b3">Si estuviera muerto, llorarías por él: si no lo hicieras, sería una buena señal de que pronto tendría un nuevo padre.</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Pobre charlatán, ¡cómo hablas!</span>
+<span style="color:#9da7b3">¡Pobre charlatán, cómo hablas!</span>
 
-*<span style="color:#9da7b3">Entra un mensajero.</span>*
+*<span style="color:#9da7b3">Entra un Mensajero.</span>*
 
 **MENSAJERO**  
-<span style="color:#9da7b3">¡Dios os guarde, hermosa dama! No soy de usted conocido, aunque en su estado de honor soy perito. Temo que algún peligro se le acerca de cerca: si acepta el consejo de un hombre humilde, no se quede aquí; váyase con sus pequeños. Asustaros así, a mi parecer, es demasiada crueldad de mi parte; infligiros un mal mayor sería una saña terrible que ronda ya demasiado cerca de vuestra persona. ¡Que el cielo os proteja! No me atrevo a quedarme más tiempo.</span>
+<span style="color:#9da7b3">¡Dios la bendiga, noble dama! No soy conocido para usted, aunque en su estado de honor estoy bien enterado. Temo que algún peligro se acerca a usted de cerca: si quiere aceptar el consejo de un hombre sencillo, no se deje encontrar aquí; váyase, con sus pequeños. Asustarla así, me parece, es demasiado salvaje; hacerle algo peor sería una crueldad atroz, que está demasiado cerca de su persona. ¡Que el cielo la proteja! No me atrevo a quedarme más tiempo.</span>
 
-*<span style="color:#9da7b3">Váyase</span>*
+*<span style="color:#9da7b3">Sale.</span>*
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">¿A dónde he de huir? No he hecho ningún mal. Mas recuerdo ahora que estoy en este mundo terrenal, donde hacer el mal es a menudo alabado; hacer el bien, a veces tenido por peligrosa locura: ¿por qué entonces, ¡ay!, pongo en juego esa defensa propia de mujeres al decir que no he hecho ningún mal? ¿Qué caras son estas?</span>
+<span style="color:#9da7b3">¿A dónde debería huir? No he hecho ningún daño. Pero recuerdo ahora que estoy en este mundo terrenal, donde hacer daño es a menudo loable; hacer el bien es a veces considerado una locura peligrosa: ¿por qué entonces, ay, pongo en práctica esa defensa femenina, al decir que no he hecho ningún daño? ¿Qué son estas caras?</span>
 
-*<span style="color:#9da7b3">Entran los asesinos.</span>*
+*<span style="color:#9da7b3">Entran Asesinos.</span>*
 
 **PRIMER ASESINO**  
 <span style="color:#9da7b3">¿Dónde está tu esposo?</span>
 
 **LADY MACDUFF**  
-<span style="color:#9da7b3">Confío en que en ningún sitio tan profano donde gentuza como tú pueda hallarle.</span>
+<span style="color:#9da7b3">Espero que en ningún lugar tan profano donde alguien como tú pueda encontrarlo.</span>
 
 **PRIMER ASESINO**  
 <span style="color:#9da7b3">Es un traidor.</span>
@@ -1803,18 +1803,703 @@ Acercaos a la cámara, y destruid vuestra vista con una nueva Gorgona. No me ord
 <span style="color:#9da7b3">¡Mientes, villano de orejas peludas!</span>
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">¡Qué, huevo de traidor!</span>
+<span style="color:#9da7b3">¡Qué, tú, huevo!</span>
 
 *<span style="color:#9da7b3">Lo apuñala.</span>*
 
 **PRIMER ASESINO**  
-<span style="color:#9da7b3">¡Cachorro de traidor!</span>
+<span style="color:#9da7b3">¡Joven fruto de la traición!</span>
 
 **HIJO**  
-<span style="color:#9da7b3">¡Me ha matado, madre: huye, te lo ruego!</span>
+<span style="color:#9da7b3">Me ha matado, madre: ¡huye, te lo ruego!</span>
 
-*<span style="color:#9da7b3">Muere. Huye Lady Macduff gritando «¡Crimen!» y perseguida por los asesinos.</span>*
+*<span style="color:#9da7b3">Muere. Sale Lady Macduff, gritando "¡Asesinato!" y perseguida por los Asesinos.</span>*
+
+### Escena 3. Inglaterra. Ante el palacio del rey.
+
+*<span style="color:#9da7b3">Entran Malcolm y Macduff.</span>*
+
+**MALCOLM**  
+<span style="color:#9da7b3">Busquemos alguna sombra desolada y allí lloremos hasta vaciar nuestros tristes pechos.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Sostengamos más bien la espada mortal y, como hombres de bien, defendamos nuestra patria caída. Cada nueva mañana nuevas viudas aúllan, nuevos huérfanos lloran; nuevas penas golpean el rostro del cielo, que resuena como si sintiera lo mismo que Escocia, y gritara la misma sílaba de dolor.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Lo que creo, lo lamentaré; lo que sé, lo creeré; y lo que pueda remediar, cuando encuentre el momento propicio, lo haré. Lo que has dicho, tal vez sea así. Este tirano, cuyo solo nombre ampolla nuestras lenguas, fue considerado alguna vez honesto: lo has amado bien; aún no te ha tocado. Soy joven; pero algo podrías obtener de él a través de mí; y es sabiduría ofrecer un cordero débil, pobre e inocente para apaciguar a un dios enojado.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">No soy traicionero.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Pero Macbeth lo es. Una naturaleza buena y virtuosa puede retroceder ante un encargo imperial. Pero pediré tu perdón. Lo que tú eres, mis pensamientos no pueden transformarlo. Los ángeles siguen siendo brillantes, aunque el más brillante cayó: aunque todas las cosas viles se vistan con el semblante de la gracia, la gracia debe seguir pareciendo tal.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">He perdido mis esperanzas.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Quizás incluso allí donde encontré mis dudas. ¿Por qué en esa imprudencia dejaste a tu esposa e hijo, esos preciosos motivos, esos fuertes lazos de amor, sin despedirte? —Te ruego que no permitas que mis recelos sean tu deshonra, sino mi propia seguridad. Puedes ser rectamente justo, sea lo que sea lo que yo piense.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¡Sangra, sangra, pobre país! Gran tiranía, asienta bien tus bases, ¡pues la bondad no se atreve a detenerte! Lleva tus agravios; el título está confirmado. —Quédate bien, señor: no sería el villano que crees ni por todo el espacio que está en manos del tirano y el rico Oriente como añadido.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">No te ofendas: no hablo por miedo absoluto a ti. Creo que nuestro país se hunde bajo el yugo; llora, sangra; y cada nuevo día se añade una herida a sus llagas. Pienso, además, que habría manos levantadas en mi favor; y aquí, de la bondadosa Inglaterra, tengo la oferta de buenos miles: pero, a pesar de todo esto, cuando pise la cabeza del tirano, o la lleve en mi espada, aun así mi pobre país tendrá más vicios que antes, sufrirá más y de formas más variadas que nunca, por aquel que me suceda.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¿Qué debería ser él?</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Me refiero a mí mismo; en quien conozco todos los detalles del vicio tan arraigados que, cuando se revelen, el negro Macbeth parecerá tan puro como la nieve; y el pobre estado lo estimará como un cordero, comparado con mis daños sin límites.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Ni en las legiones del horrible infierno puede venir un demonio más condenado en maldades para superar a Macbeth.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Lo admito sanguinario, lujurioso, avaro, falso, engañoso, repentino, malicioso, que saborea cada pecado que tiene nombre: pero no hay fondo, ninguno, en mi voluptuosidad: tus esposas, tus hijas, tus matronas y tus doncellas, no podrían llenar la cisterna de mi lujuria; y mi deseo superaría todos los impedimentos continentes que se opusieran a mi voluntad: mejor Macbeth que alguien así para reinar.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">La intemperancia sin límites en la naturaleza es una tiranía; ha sido el vaciado prematuro del trono feliz y la caída de muchos reyes. Pero no temas todavía asumir lo que es tuyo: puedes llevar tus placeres con amplia abundancia, y aun así parecer frío; al tiempo puedes engañarlo así. Tenemos suficientes damas dispuestas; no puede haber ese buitre en ti, para devorar a tantas como se dedicarán a la grandeza, encontrándola tan inclinada.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Con esto crece en mi afecto más mal compuesto una avaricia tan insaciable que, si fuera rey, cortaría a los nobles por sus tierras; desearía sus joyas y la casa de este otro: y mi mayor posesión sería como una salsa para hacerme tener más hambre; de modo que forjaría disputas injustas contra los buenos y leales, destruyéndolos por riqueza.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Esta avaricia cala más hondo; crece con raíz más perniciosa que la lujuria, que parece estival; y ha sido la espada de nuestros reyes asesinados: mas no temas; Escocia tiene abundancia para colmar tu deseo, de lo que es puramente tuyo. Todas estas son llevaderas, sopesadas con otras virtudes.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Pero yo no tengo ninguna: las virtudes propias de un rey, como la justicia, la verdad, la templanza, la estabilidad, la generosidad, la perseverancia, la misericordia, la humildad, la devoción, la paciencia, el valor, la fortaleza, no tengo gusto por ellas; sino que reboso en la división de cada crimen particular, actuándolo de muchas maneras. Es más, si tuviera poder, vertería la dulce leche de la concordia en el infierno, sembraría el caos en la paz universal, confundiría toda unidad en la tierra.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¡Oh, Escocia, Escocia!</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Si alguien así es apto para gobernar, hablad: soy tal como he hablado.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¿Apto para gobernar? No, ni siquiera para vivir. —¡Oh, nación miserable, con un tirano sin título y de cetro sangriento, cuándo verás de nuevo tus días de salud, puesto que el más legítimo heredero de tu trono se declara culpable por su propia interdicción y blasfema contra su linaje! Tu padre real fue un rey santificado. La reina que te dio a luz, más a menudo sobre sus rodillas que sobre sus pies, moría cada día que vivía. ¡Que te vaya bien! Estos males que repites sobre ti mismo me han desterrado de Escocia. —¡Oh, pecho mío, tu esperanza termina aquí!</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Macduff, esta noble pasión, hija de la integridad, ha limpiado de mi alma los negros escrúpulos, reconciliado mis pensamientos con tu buena verdad y honor. El diabólico Macbeth, mediante muchas de estas estratagemas, ha buscado atraerme a su poder, y la prudente sabiduría me aparta de la precipitación excesivamente crédula: ¡pero que Dios, allá arriba, juzgue entre tú y yo! Porque ahora mismo me pongo bajo tu dirección y me retracto de mi propia difamación; aquí abjuro de las manchas y culpas que me atribuí, como ajenas a mi naturaleza. Soy aún desconocido para mujer; nunca he faltado a mi juramento; apenas he codiciado lo que era mío; en ningún momento quebranté mi fe; no traicionaría al diablo ante su semejante; y no me deleito menos en la verdad que en la vida: mi primera falsedad fue esta sobre mí mismo. Lo que soy en verdad, está a las órdenes tuyas y de mi pobre país: hacia donde, de hecho, antes de tu llegada aquí, el viejo Siward, con diez mil hombres de guerra, ya listo, se estaba poniendo en marcha. Ahora iremos juntos, y que el azar del bien sea como nuestra justificada querella. ¿Por qué estáis en silencio?</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Cosas tan bienvenidas y no bienvenidas a la vez, es difícil de reconciliar.</span>
+
+*<span style="color:#9da7b3">Entra un Doctor.</span>*
+
+**MALCOLM**  
+<span style="color:#9da7b3">Bien; más luego. —¿Viene el Rey, os ruego?</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">Sí, señor. Hay una multitud de almas desdichadas que esperan su cura: su enfermedad vence el gran esfuerzo del arte; pero ante su toque, tal santidad ha dado el cielo a su mano, que sanan al instante.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Os agradezco, doctor.</span>
+
+*<span style="color:#9da7b3">Sale el Doctor.</span>*
+
+**MACDUFF**  
+<span style="color:#9da7b3">¿Cuál es la enfermedad a la que se refiere?</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Se le llama el mal: una obra de lo más milagrosa en este buen rey; que a menudo, desde mi estancia aquí en Inglaterra, le he visto realizar. Cómo solicita al cielo, él mismo lo sabe mejor, pero a personas extrañamente visitadas, todas hinchadas y ulcerosas, lastimosas a la vista, el puro desespero de la cirugía, él las cura; colgando un sello de oro alrededor de sus cuellos, puesto con santas oraciones: y se dice que, a la realeza sucesora, le deja la bendición sanadora. Con esta extraña virtud, posee un don celestial de profecía; y diversas bendiciones cuelgan sobre su trono, que lo proclaman lleno de gracia.</span>
+
+*<span style="color:#9da7b3">Entra Ross.</span>*
+
+**MACDUFF**  
+<span style="color:#9da7b3">¿Ved quién viene aquí?</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Mi compatriota; pero aún no le conozco.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Mi siempre gentil primo, bienvenido aquí.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Ya le conozco. ¡Buen Dios, elimina pronto el medio que nos hace extraños!</span>
+
+**ROSS**  
+<span style="color:#9da7b3">Señor, amén.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¿Sigue Escocia donde estaba?</span>
+
+**ROSS**  
+<span style="color:#9da7b3">¡Ay, pobre país, casi temeroso de conocerse a sí mismo! No puede ser llamado nuestra madre, sino nuestra tumba, donde nadie, salvo quien no sabe nada, es visto sonreír alguna vez; donde los suspiros, y los gemidos, y los gritos que desgarran el aire, son hechos, no notados; donde el dolor violento parece un éxtasis moderno. El toque de difuntos apenas se pregunta allí por quién; y las vidas de los hombres buenos expiran antes que las flores en sus gorros, muriendo antes de enfermar.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¡Oh, relato demasiado preciso, y sin embargo demasiado cierto!</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">¿Cuál es la pena más reciente?</span>
+
+**ROSS**  
+<span style="color:#9da7b3">La de una hora de antigüedad silba al que la cuenta; cada minuto engendra una nueva.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¿Cómo está mi esposa?</span>
+
+**ROSS**  
+<span style="color:#9da7b3">Pues, bien.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¿Y todos mis hijos?</span>
+
+**ROSS**  
+<span style="color:#9da7b3">Bien también.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¿El tirano no ha arremetido contra su paz?</span>
+
+**ROSS**  
+<span style="color:#9da7b3">No; estaban bien en paz cuando los dejé.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">No seáis tacaño con vuestra palabra: ¿cómo va todo?</span>
+
+**ROSS**  
+<span style="color:#9da7b3">Cuando vine aquí para transportar las noticias, que he llevado pesadamente, corría un rumor de muchos hombres valiosos que estaban fuera; lo cual fue para mi creencia atestiguado más bien, porque vi el poder del tirano en marcha. Ahora es el momento de la ayuda. Vuestra mirada en Escocia crearía soldados, haría luchar a nuestras mujeres, para quitarse sus terribles angustias.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Que sea su consuelo que venimos hacia allá. La bondadosa Inglaterra nos ha prestado al buen Siward y diez mil hombres; un soldado más viejo y mejor no hay que la cristiandad proclame.</span>
+
+**ROSS**  
+<span style="color:#9da7b3">¡Ojalá pudiera responder a este consuelo con otro igual! Pero tengo palabras que deberían ser aulladas en el aire del desierto, donde el oído no pudiera atraparlas.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¿A qué conciernen? ¿A la causa general? ¿O es un dolor particular debido a algún pecho solitario?</span>
+
+**ROSS**  
+<span style="color:#9da7b3">No hay mente honesta que no comparta en ello alguna pena, aunque la mayor parte os pertenezca solo a vos.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Si es mía, no me la ocultéis, dejadme tenerla rápidamente.</span>
+
+**ROSS**  
+<span style="color:#9da7b3">No dejen vuestros oídos despreciar mi lengua para siempre, la cual los poseerá con el sonido más pesado que jamás hayan escuchado.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¡Hum! Lo adivino.</span>
+
+**ROSS**  
+<span style="color:#9da7b3">Vuestro castillo ha sido sorprendido; vuestra esposa y vuestros hijos, salvajemente masacrados. Relatar la manera sería, sobre la presa de estos ciervos asesinados, añadir la muerte de vos mismo.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">¡Misericordioso cielo! —¡Qué, hombre! Nunca os bajéis el sombrero sobre las cejas. Dad palabras al dolor. El dolor que no habla susurra al corazón sobrecargado, y le ordena romperse.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¿Mis hijos también?</span>
+
+**ROSS**  
+<span style="color:#9da7b3">Esposa, hijos, sirvientes, todos los que pudieron ser encontrados.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¡Y yo debía estar lejos de allí! ¿Mi esposa asesinada también?</span>
+
+**ROSS**  
+<span style="color:#9da7b3">He dicho.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Consolaos: hagamos medicinas de nuestra gran venganza, para curar este dolor mortal.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Él no tiene hijos. —¡Todos mis pequeños? ¿Dijisteis todos? —¡Oh, milano infernal!— ¿Todos? ¿Qué, todos mis polluelos y su madre en un solo golpe feroz?</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Disputadlo como un hombre.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Lo haré así; pero también debo sentirlo como un hombre: no puedo dejar de recordar que tales cosas fueron, que fueron de lo más preciado para mí. —¿Miró el cielo, y no quiso tomar su parte? ¡Pecador Macduff, todos fueron golpeados por ti! Nada soy, no por sus propios deméritos, sino por los míos, cayó la matanza sobre sus almas: ¡que el cielo los repose ahora!</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Que esto sea la piedra de afilar de vuestra espada. Dejad que el dolor se convierta en ira; no embotéis el corazón, enfurecedlo.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">¡Oh, podría actuar como mujer con mis ojos, y como fanfarrón con mi lengua! —Pero, gentiles cielos, cortad toda intermisión; frente a frente, traed a este demonio de Escocia y a mí mismo; ponedlo al alcance de mi espada; si escapa, ¡que el cielo lo perdone también!</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Esta tonada suena varonil. Vamos, vayamos ante el Rey. Nuestro poder está listo; nuestra falta no es nada más que nuestra despedida. Macbeth está maduro para ser sacudido, y los poderes de arriba ponen en marcha sus instrumentos. Recibid el ánimo que podáis; larga es la noche que nunca encuentra el día.</span>
+
+*<span style="color:#9da7b3">Salen.</span>*
+
+## Acto V
+
+### Escena 1. Dunsinane. Una sala del castillo.
+
+*<span style="color:#9da7b3">Entran un médico y una dama de compañía.</span>*
+
+**DOCTOR**  
+<span style="color:#9da7b3">He velado con vos dos noches, pero no puedo percibir verdad alguna en vuestro informe. ¿Cuándo fue la última vez que caminó?</span>
+
+**DAMA**  
+<span style="color:#9da7b3">Desde que su Majestad partió al campo de batalla, la he visto levantarse de su lecho, echarse su camisón encima, abrir su armario, sacar papel, doblarlo, escribir en él, leerlo, sellarlo después y volver a meterse en la cama; y todo esto en un sueño de lo más profundo.</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">Una gran perturbación en la naturaleza, recibir a la vez el beneficio del sueño y realizar los actos de la vigilia. En esta agitación somnolienta, además de caminar y otras ejecuciones reales, ¿qué le habéis oído decir en algún momento?</span>
+
+**DAMA**  
+<span style="color:#9da7b3">Eso, señor, que no repetiré tras ella.</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">Podéis hacerlo ante mí; y es muy apropiado que lo hagáis.</span>
+
+**DAMA**  
+<span style="color:#9da7b3">Ni ante vos ni ante nadie; al no tener testigo que confirme mis palabras.</span>
+
+*<span style="color:#9da7b3">Entra Lady Macbeth con una vela.</span>*
+
+**DAMA**  
+<span style="color:#9da7b3">¡Mirad, ahí viene! Este es su aspecto exacto; y, por mi vida, profundamente dormida. Observadla; permaneced ocultos.</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">¿Cómo consiguió esa luz?</span>
+
+**DAMA**  
+<span style="color:#9da7b3">Pues estaba a su lado: tiene luz junto a ella continuamente; es su orden.</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">Veis que tiene los ojos abiertos.</span>
+
+**DAMA**  
+<span style="color:#9da7b3">Sí, pero su sentido está cerrado.</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">¿Qué es lo que hace ahora? Mirad cómo se frota las manos.</span>
+
+**DAMA**  
+<span style="color:#9da7b3">Es una acción habitual en ella, parecer que se lava así las manos. La he visto continuar en esto durante un cuarto de hora.</span>
+
+**LADY MACBETH**  
+<span style="color:#9da7b3">Aun así, aquí hay una mancha.</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">Escuchad, habla. Pondré por escrito lo que salga de ella, para satisfacer mi memoria con mayor firmeza.</span>
+
+**LADY MACBETH**  
+<span style="color:#9da7b3">¡Fuera, maldita mancha! ¡fuera, digo! Uno; dos. Pues bien, entonces es hora de hacerlo. ¡El infierno es sombrío! ¡Vergüenza, mi señor, vergüenza! ¿un soldado, y con miedo? ¿Qué necesidad tenemos de temer quién lo sepa, cuando nadie puede pedir cuentas a nuestro poder? ¿Pero quién habría pensado que el viejo tuviera tanta sangre en él?</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">¿Notáis eso?</span>
+
+**LADY MACBETH**  
+<span style="color:#9da7b3">El señor de Fife tenía una esposa. ¿Dónde está ella ahora? —¿Qué, nunca estarán limpias estas manos? No más de eso, mi señor, no más de eso: lo estropeáis todo con este sobresalto.</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">Vamos, vamos. Habéis sabido lo que no debíais.</span>
+
+**DAMA**  
+<span style="color:#9da7b3">Ella ha dicho lo que no debía, estoy segura de ello: el cielo sabe lo que ella ha sabido.</span>
+
+**LADY MACBETH**  
+<span style="color:#9da7b3">Aquí sigue el olor de la sangre: todos los perfumes de Arabia no endulzarán esta pequeña mano. ¡Oh, oh, oh!</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">¡Qué suspiro es ese! El corazón está gravemente cargado.</span>
+
+**DAMA**  
+<span style="color:#9da7b3">No querría tener tal corazón en mi pecho por la dignidad de todo el cuerpo.</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">Bien, bien, bien.</span>
+
+**DAMA**  
+<span style="color:#9da7b3">Ruega a Dios que así sea, señor.</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">Esta enfermedad está más allá de mi práctica: sin embargo, he conocido a quienes han caminado dormidos y han muerto santamente en sus lechos.</span>
+
+**LADY MACBETH**  
+<span style="color:#9da7b3">Lavaos las manos, poneos el camisón; no estéis tan pálido. Os lo digo de nuevo, Banquo está enterrado; no puede salir de su tumba.</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">¿Incluso así?</span>
+
+**LADY MACBETH**  
+<span style="color:#9da7b3">A la cama, a la cama. Hay golpes en la puerta. Ven, ven, ven, ven, dame tu mano. Lo que está hecho no puede deshacerse. A la cama, a la cama, a la cama.</span>
+
+*<span style="color:#9da7b3">Sale.</span>*
+
+**DOCTOR**  
+<span style="color:#9da7b3">¿Se irá ahora a la cama?</span>
+
+**DAMA**  
+<span style="color:#9da7b3">Directamente.</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">Corren malos rumores. Los actos antinaturales engendran problemas antinaturales: las mentes infectadas descargarán sus secretos en sus almohadas sordas. Más necesita ella al divino que al médico. —¡Dios, Dios, perdónanos a todos! Cuidad de ella; quitadle los medios de cualquier daño, y mantened siempre los ojos sobre ella. Así pues, buenas noches: ha confundido mi mente y asombrado mi vista. Pienso, pero no me atrevo a hablar.</span>
+
+**DAMA**  
+<span style="color:#9da7b3">Buenas noches, buen doctor.</span>
+
+*<span style="color:#9da7b3">Salen.</span>*
+
+### Escena 2. El campo cerca de Dunsinane.
+
+*<span style="color:#9da7b3">Entran, con tambor y banderas, Menteith, Caithness, Angus, Lennox y soldados.</span>*
+
+**MENTEITH**  
+<span style="color:#9da7b3">El poder inglés está cerca, liderado por Malcolm, su tío Siward y el buen Macduff. Las venganzas arden en ellos; pues sus causas queridas incitarían al hombre mortificado a la sangrienta y sombría alarma.</span>
+
+**ANGUS**  
+<span style="color:#9da7b3">Cerca del bosque de Birnam nos encontraremos con ellos. Por ese camino vienen.</span>
+
+**CAITHNESS**  
+<span style="color:#9da7b3">¿Quién sabe si Donalbain está con su hermano?</span>
+
+**LENNOX**  
+<span style="color:#9da7b3">Con certeza, señor, no lo está. Tengo una lista de toda la nobleza: ahí está el hijo de Siward y muchos jóvenes imberbes que ahora mismo demuestran su primera hombría.</span>
+
+**MENTEITH**  
+<span style="color:#9da7b3">¿Qué hace el tirano?</span>
+
+**CAITHNESS**  
+<span style="color:#9da7b3">Fortifica fuertemente el gran Dunsinane. Algunos dicen que está loco; otros, que lo odian menos, lo llaman furia valiente: pero, con certeza, no puede ceñir su causa desquiciada dentro del cinturón de la regla.</span>
+
+**ANGUS**  
+<span style="color:#9da7b3">Ahora siente sus asesinatos secretos pegados a sus manos; ahora las revueltas minuto a minuto reprochan su ruptura de fe; aquellos a quienes manda se mueven solo por mandato, nada por amor: ahora siente que su título le queda holgado, como la túnica de un gigante sobre un ladrón enano.</span>
+
+**MENTEITH**  
+<span style="color:#9da7b3">¿Quién, entonces, culpará a sus sentidos acosados de retroceder y sobresaltarse, cuando todo lo que hay dentro de él se condena a sí mismo por estar allí?</span>
+
+**CAITHNESS**  
+<span style="color:#9da7b3">Bien, marchemos, para dar obediencia donde es verdaderamente debida: encontremos la medicina del bienestar enfermo; y con él vertamos, en la purga de nuestro país, cada gota de nosotros.</span>
+
+**LENNOX**  
+<span style="color:#9da7b3">O tanto como sea necesario para rociar la flor soberana y ahogar las malas hierbas. Hagamos nuestra marcha hacia Birnam.</span>
+
+*<span style="color:#9da7b3">Salen, marchando.</span>*
+
+### Escena 3. Dunsinane. Una sala del castillo.
+
+*<span style="color:#9da7b3">Entran Macbeth, el médico y asistentes.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">No me traigáis más informes; dejad que huyan todos: hasta que el bosque de Birnam se mueva a Dunsinane no puedo contaminarme con el miedo. ¿Qué es el muchacho Malcolm? ¿No nació de mujer? Los espíritus que conocen todas las consecuencias mortales me han pronunciado esto: "No temas, Macbeth; ningún hombre nacido de mujer tendrá jamás poder sobre ti". —Entonces huid, falsos señores, y mezclaos con los epicúreos ingleses: la mente por la que me guío, y el corazón que llevo, nunca se hundirán con duda ni temblarán con miedo.</span>
+
+*<span style="color:#9da7b3">Entra un criado.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">¡Que el diablo te maldiga, bobo de cara de nata! ¿De dónde sacaste esa cara de ganso?</span>
+
+**CRIADO**  
+<span style="color:#9da7b3">Hay diez mil...</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">¿Gansos, villano?</span>
+
+**CRIADO**  
+<span style="color:#9da7b3">Soldados, señor.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">Ve a pincharte la cara y a cubrir de rojo tu miedo, muchacho de hígado de lirio. ¿Qué soldados, bufón? ¡Muerte a tu alma! Esas mejillas tuyas, pálidas como el lino, son consejeras del miedo. ¿Qué soldados, cara de suero?</span>
+
+**CRIADO**  
+<span style="color:#9da7b3">Las fuerzas inglesas, si os place.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">Lárgate de mi vista.</span>
+
+*<span style="color:#9da7b3">Sale el criado.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">¡Seyton! Estoy enfermo del corazón cuando contemplo... ¡Seyton, digo! Este golpe me animará para siempre o me destronará ahora. He vivido lo suficiente: mi camino de vida ha caído en lo marchito, en la hoja amarilla; y lo que debería acompañar a la vejez, como el honor, el amor, la obediencia, tropas de amigos, no debo esperar tenerlo; sino, en su lugar, maldiciones, no fuertes pero profundas, honor de boca, aliento, que el pobre corazón quisiera negar, y no se atreve. ¡Seyton!</span>
+
+*<span style="color:#9da7b3">Entra Seyton.</span>*
+
+**SEYTON**  
+<span style="color:#9da7b3">¿Cuál es su gracioso deseo?</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">¿Qué más noticias?</span>
+
+**SEYTON**  
+<span style="color:#9da7b3">Todo está confirmado, mi señor, lo que se informó.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">Lucharé hasta que mi carne sea arrancada de mis huesos. Dadme mi armadura.</span>
+
+**SEYTON**  
+<span style="color:#9da7b3">Aún no es necesaria.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">Me la pondré. Enviad más caballos, recorred el campo; ahorcad a los que hablen de miedo. Dadme mi armadura. ¿Cómo está vuestra paciente, doctor?</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">No tan enferma, mi señor, como perturbada por fantasías recurrentes que le impiden descansar.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">Curadla de eso: ¿no puedes asistir a una mente enferma, arrancar de la memoria una pena arraigada, borrar los problemas escritos del cerebro y, con algún dulce antídoto de olvido, limpiar el pecho congestionado de esa materia peligrosa que pesa sobre el corazón?</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">En eso, el paciente debe asistirse a sí mismo.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">¡Que la medicina se la den a los perros, no quiero nada de ella! Vamos, ponedme la armadura; dadme mi bastón: Seyton, enviad a los hombres. Doctor, los nobles huyen de mí. Vamos, señor, daos prisa. Si pudieras, doctor, analizar la orina de mi tierra, encontrar su enfermedad y purgarla hasta una salud sana y prístina, te aplaudiría hasta el mismo eco, que debería aplaudir de nuevo. Quitádmela, digo. ¿Qué ruibarbo, sen o qué droga purgante expulsaría a estos ingleses de aquí? ¿Sabes algo de ellos?</span>
+
+**DOCTOR**  
+<span style="color:#9da7b3">Sí, mi buen señor. Vuestra preparación real nos hace oír algo.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">Traedla tras de mí. No temeré a la muerte ni a la ruina, hasta que el bosque de Birnam venga a Dunsinane.</span>
+
+*<span style="color:#9da7b3">Salen todos excepto el doctor.</span>*
+
+**DOCTOR**  
+<span style="color:#9da7b3">Si estuviera lejos y libre de Dunsinane, difícilmente el provecho me atraería aquí de nuevo.</span>
+
+*<span style="color:#9da7b3">Sale.</span>*
+
+### Escena 4. El campo cerca de Dunsinane: un bosque a la vista.
+
+*<span style="color:#9da7b3">Entran, con tambor y banderas, Malcolm, el viejo Siward y su hijo, Macduff, Menteith, Caithness, Angus, Lennox, Ross y soldados, marchando.</span>*
+
+**MALCOLM**  
+<span style="color:#9da7b3">Primos, espero que los días estén cerca en que las cámaras estén seguras.</span>
+
+**MENTEITH**  
+<span style="color:#9da7b3">No lo dudamos en absoluto.</span>
+
+**SIWARD**  
+<span style="color:#9da7b3">¿Qué bosque es este ante nosotros?</span>
+
+**MENTEITH**  
+<span style="color:#9da7b3">El bosque de Birnam.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Que cada soldado corte una rama y la lleve ante sí. Con ello ocultaremos el número de nuestro ejército y haremos que el reconocimiento se equivoque en su informe sobre nosotros.</span>
+
+**SOLDADOS**  
+<span style="color:#9da7b3">Se hará.</span>
+
+**SIWARD**  
+<span style="color:#9da7b3">No sabemos otra cosa sino que el confiado tirano permanece en Dunsinane y soportará que nos establezcamos ante él.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Es su principal esperanza; pues donde hay ventaja que dar, tanto los grandes como los pequeños se le han rebelado, y nadie sirve con él sino cosas constreñidas, cuyos corazones también están ausentes.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Que nuestros justos juicios esperen al verdadero desenlace, y vistamos nuestra laboriosa soldadesca.</span>
+
+**SIWARD**  
+<span style="color:#9da7b3">Se acerca el tiempo que, con la debida decisión, nos hará saber lo que diremos que tenemos y lo que debemos. Los pensamientos especulativos relatan sus esperanzas inciertas, pero el resultado cierto deben arbitrarlo los golpes; hacia ellos, avanzad la guerra.</span>
+
+*<span style="color:#9da7b3">Salen marchando.</span>*
+
+### Escena 5. Dunsinane. Dentro del castillo.
+
+*<span style="color:#9da7b3">Entran con tambor y banderas Macbeth, Seyton y soldados.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">Colgad nuestras banderas en los muros exteriores; el grito sigue siendo: "¡Vienen!". La fuerza de nuestro castillo se reirá del asedio con desprecio: que se queden aquí hasta que el hambre y las fiebres los devoren. Si no estuvieran reforzados con aquellos que deberían ser nuestros, podríamos haberlos enfrentado con valentía, barba contra barba, y haberlos hecho retroceder a casa.</span>
+
+*<span style="color:#9da7b3">Un grito de mujeres dentro.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">¿Qué es ese ruido?</span>
+
+**SEYTON**  
+<span style="color:#9da7b3">Es el grito de las mujeres, mi buen señor.</span>
+
+*<span style="color:#9da7b3">Sale.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">Casi he olvidado el sabor del miedo. Hubo un tiempo en que mis sentidos se habrían enfriado al oír un grito nocturno; y mi vello se habría erizado ante un relato lúgubre como si tuviera vida propia. He cenado lleno de horrores; la fatalidad, familiar para mis pensamientos asesinos, no puede hacerme estremecer ni una vez.</span>
+
+*<span style="color:#9da7b3">Entra Seyton.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">¿A qué vino ese grito?</span>
+
+**SEYTON**  
+<span style="color:#9da7b3">La Reina, mi señor, ha muerto.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">Debería haber muerto más tarde. Habría habido un tiempo para tal palabra. Mañana, y mañana, y mañana, se arrastra a este paso mezquino de día en día, hasta la última sílaba del tiempo registrado; y todos nuestros ayeres han iluminado a los necios el camino hacia la muerte polvorienta. ¡Apágate, apágate, breve vela! La vida no es más que una sombra errante; un pobre actor que se pavonea y se agita durante su hora en el escenario, y luego no se le oye más: es un cuento contado por un idiota, lleno de ruido y furia, que no significa nada.</span>
+
+*<span style="color:#9da7b3">Entra un mensajero.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">Vienes a usar tu lengua; tu historia, rápido.</span>
+
+**MENSAJERO**  
+<span style="color:#9da7b3">Gracioso mi señor, debería informar lo que digo que vi, pero no sé cómo hacerlo.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">Bien, habla, señor.</span>
+
+**MENSAJERO**  
+<span style="color:#9da7b3">Mientras montaba mi guardia en la colina, miré hacia Birnam y, de pronto, me pareció que el bosque comenzaba a moverse.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">¡Mentiroso y esclavo!</span>
+
+**MENSAJERO**  
+<span style="color:#9da7b3">Que soporte vuestra ira si no es así. Dentro de estas tres millas podéis verlo venir; digo, una arboleda en movimiento.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">Si hablas falso, en el próximo árbol serás colgado vivo hasta que el hambre te consuma: si tu discurso es verdad, no me importa si me haces lo mismo. Me retiro en mi resolución y comienzo a dudar de la equivocación del demonio, que miente como si fuera verdad. "No temas, hasta que el bosque de Birnam venga a Dunsinane"; y ahora un bosque viene hacia Dunsinane. ¡Armaos, armaos y salid! Si esto que él asegura aparece, no hay huida posible ni permanencia aquí. Empiezo a estar cansado del sol y deseo que el estado del mundo se deshaga ahora. ¡Tocad la campana de alarma! ¡Soplad, viento! ¡Ven, ruina! Al menos moriremos con la armadura puesta.</span>
+
+*<span style="color:#9da7b3">Salen.</span>*
+
+### Escena 6. Lo mismo. La llanura ante el castillo.
+
+*<span style="color:#9da7b3">Entran, con tambor y banderas, Malcolm, el viejo Siward, Macduff y su ejército, con ramas.</span>*
+
+**MALCOLM**  
+<span style="color:#9da7b3">Ahora, lo suficientemente cerca. Arrojad vuestras pantallas de hojas y mostraos como quienes sois. Vos, digno tío, junto con mi primo, vuestro noble hijo, dirigiréis nuestra primera batalla: el digno Macduff y nosotros asumiremos lo que queda por hacer, según nuestra orden.</span>
+
+**SIWARD**  
+<span style="color:#9da7b3">Que os vaya bien. Si encontramos el poder del tirano esta noche, que seamos derrotados si no podemos luchar.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Haced que todas nuestras trompetas hablen; dadles todo el aliento, esos clamorosos heraldos de sangre y muerte.</span>
+
+*<span style="color:#9da7b3">Salen.</span>*
+
+### Escena 7. Lo mismo. Otra parte de la llanura.
+
+*<span style="color:#9da7b3">Alaridos. Entra Macbeth.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">Me han atado a un poste. No puedo huir, pero, como un oso, debo luchar hasta el final. —¿Quién es aquel que no nació de mujer? A tal hombre he de temer, o a ninguno.</span>
+
+*<span style="color:#9da7b3">Entra el joven Siward.</span>*
+
+**SIWARD HIJO**  
+<span style="color:#9da7b3">¿Cuál es tu nombre?</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">Temerías oírlo.</span>
+
+**SIWARD HIJO**  
+<span style="color:#9da7b3">No; aunque te llames con un nombre más ardiente que cualquiera que haya en el infierno.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">Mi nombre es Macbeth.</span>
+
+**SIWARD HIJO**  
+<span style="color:#9da7b3">El diablo mismo no podría pronunciar un título más odioso a mi oído.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">No, ni más temible.</span>
+
+**SIWARD HIJO**  
+<span style="color:#9da7b3">Mientes, abominable tirano. Con mi espada probaré la mentira que pronuncias.</span>
+
+*<span style="color:#9da7b3">Luchan, y el joven Siward es asesinado.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">Habías nacido de mujer. Pero sonrío ante las espadas, me río con desdén de las armas blandidas por un hombre nacido de mujer.</span>
+
+*<span style="color:#9da7b3">Sale.</span>*
+
+*<span style="color:#9da7b3">Alaridos. Entra Macduff.</span>*
+
+**MACDUFF**  
+<span style="color:#9da7b3">Por allí viene el ruido. —¡Tirano, muestra tu rostro! Si mueres sin que sea por mi golpe, los fantasmas de mi esposa y mis hijos me seguirán atormentando. No puedo golpear a viles mercenarios, cuyos brazos son alquilados para portar sus lanzas. O tú, Macbeth, o mi espada, con el filo intacto, volverá a la vaina sin haber cumplido su labor. Allí debes estar; por este gran estruendo, alguien de gran importancia parece ser anunciado. ¡Permíteme encontrarlo, Fortuna! Y no pido más.</span>
+
+*<span style="color:#9da7b3">Sale. Alaridos.</span>*
+
+*<span style="color:#9da7b3">Entran Malcolm y el viejo Siward.</span>*
+
+**SIWARD**  
+<span style="color:#9da7b3">Por aquí, mi señor; el castillo se rinde fácilmente: la gente del tirano lucha en ambos bandos; los nobles thanes actúan valientemente en la guerra, el día casi se declara vuestro, y queda poco por hacer.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Hemos encontrado enemigos que luchan a nuestro lado.</span>
+
+**SIWARD**  
+<span style="color:#9da7b3">Entrad, señor, al castillo.</span>
+
+*<span style="color:#9da7b3">Salen. Alaridos.</span>*
+
+### Escena 8. Lo mismo. Otra parte del campo.
+
+*<span style="color:#9da7b3">Entra Macbeth.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">¿Por qué habría de actuar como el loco romano y morir sobre mi propia espada? Mientras vea vidas, las heridas lucen mejor en ellos.</span>
+
+*<span style="color:#9da7b3">Entra Macduff.</span>*
+
+**MACDUFF**  
+<span style="color:#9da7b3">¡Vuélvete, sabueso del infierno, vuélvete!</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">De todos los hombres te he evitado a ti: pero retrocede; mi alma ya está demasiado cargada con tu sangre.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">No tengo palabras; mi voz está en mi espada: ¡tú, villano más sangriento de lo que los términos pueden describir!</span>
+
+*<span style="color:#9da7b3">Luchan.</span>*
+
+**MACBETH**  
+<span style="color:#9da7b3">Pierdes tu esfuerzo: tan fácil podrías marcar con tu afilada espada el aire impenetrable como hacerme sangrar: deja caer tu hoja sobre crestas vulnerables; llevo una vida encantada, que no debe rendirse ante alguien nacido de mujer.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Desespera de tu encanto; y deja que el ángel a quien siempre has servido te diga que Macduff fue arrancado prematuramente del vientre de su madre.</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">¡Maldita sea la lengua que me dice eso, pues ha acobardado mi mejor parte de hombre! ¡Y que no se crea más en estos demonios embaucadores, que juegan con nosotros en doble sentido; que mantienen la palabra de la promesa a nuestro oído, y la rompen ante nuestra esperanza! —No lucharé contigo.</span>
+
+**MACDUFF**  
+<span style="color:#9da7b3">Entonces ríndete, cobarde, y vive para ser el espectáculo y la mirada de los tiempos. Te tendremos, como a nuestros monstruos más raros, pintado sobre un poste, y con la inscripción: "Aquí podéis ver al tirano".</span>
+
+**MACBETH**  
+<span style="color:#9da7b3">No me rendiré, para besar el suelo ante los pies del joven Malcolm, y ser hostigado con la maldición de la chusma. Aunque el bosque de Birnam haya llegado a Dunsinane, y tú te opongas, no habiendo nacido de mujer, aun así probaré hasta el final. Ante mi cuerpo arrojo mi escudo guerrero: ¡ataca, Macduff; y maldito sea quien primero grite: "¡Basta, es suficiente!"</span>
+
+*<span style="color:#9da7b3">Salen luchando. Alaridos.</span>*
+
+*<span style="color:#9da7b3">Retirada. Fanfarria. Entran, con tambores y banderas, Malcolm, el viejo Siward, Ross, Thanes y soldados.</span>*
+
+**MALCOLM**  
+<span style="color:#9da7b3">Desearía que los amigos que echamos de menos hubieran llegado a salvo.</span>
+
+**SIWARD**  
+<span style="color:#9da7b3">Algunos deben partir; y aun así, por estos que veo, un día tan grande como este se compra a bajo precio.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Macduff está desaparecido, y vuestro noble hijo.</span>
+
+**ROSS**  
+<span style="color:#9da7b3">Vuestro hijo, mi señor, ha pagado la deuda de un soldado: solo vivió hasta ser un hombre; lo cual, apenas su valentía confirmó en el puesto inquebrantable donde luchó, murió como un hombre.</span>
+
+**SIWARD**  
+<span style="color:#9da7b3">¿Entonces está muerto?</span>
+
+**ROSS**  
+<span style="color:#9da7b3">Sí, y traído del campo de batalla. Vuestra causa de dolor no debe ser medida por su valor, pues entonces no tendría fin.</span>
+
+**SIWARD**  
+<span style="color:#9da7b3">¿Tenía sus heridas al frente?</span>
+
+**ROSS**  
+<span style="color:#9da7b3">Sí, en el frente.</span>
+
+**SIWARD**  
+<span style="color:#9da7b3">¡Pues entonces, que sea soldado de Dios! Si tuviera tantos hijos como pelos tengo, no desearía para ellos una muerte más noble: y así su campanada ha sonado.</span>
+
+**MALCOLM**  
+<span style="color:#9da7b3">Él merece más dolor, y eso gastaré por él.</span>
+
+**SIWARD**  
+<span style="color:#9da7b3">No merece más. Dicen que partió bien y pagó su cuenta: ¡y así, que Dios esté con él! —Aquí viene un consuelo más reciente.</span>
+
+*<span style="color:#9da7b3">Entra Macduff con la cabeza de Macbeth.</span>*
+
+**MACDUFF**  
+<span style="color:#9da7b3">Salve, Rey, pues eso es lo que eres. Mirad, donde yace la cabeza maldita del usurpador: el tiempo es libre. Os veo rodeado por la perla de vuestro reino, que pronuncian mi saludo en sus mentes; cuyas voces deseo en voz alta junto a la mía: ¡Salve, Rey de Escocia!</span>
+
+**TODAS**  
+<span style="color:#9da7b3">¡Salve, Rey de Escocia!</span>
+
+*<span style="color:#9da7b3">Fanfarria.</span>*
+
+**MALCOLM**  
+<span style="color:#9da7b3">No gastaremos mucho tiempo antes de ajustar cuentas con vuestros diversos amores, y ponernos a mano con vosotros. Mis thanes y parientes, sed desde ahora condes, los primeros que Escocia jamás nombró con tal honor. Lo que queda por hacer, que debe ser plantado de nuevo con el tiempo —como llamar a casa a nuestros amigos exiliados en el extranjero, que huyeron de las trampas de la tiranía vigilante; presentar a los crueles ministros de este carnicero muerto, y su reina demoníaca, quien, según se piensa, por sus propias y violentas manos acabó con su vida—; esto, y cualquier otra cosa necesaria que nos reclame, por la gracia de la Gracia, lo realizaremos en medida, tiempo y lugar. Así que gracias a todos a la vez, y a cada uno, a quienes invitamos a vernos coronar en Scone.</span>
+
+*<span style="color:#9da7b3">Fanfarria. Salen.</span>*
 
 ---
 
-*La traducción sigue en marcha: lo gris es provisional y la página crece escena a escena.*
+*Toda la obra está servida; lo gris es provisional y se vuelve definitivo a medida que avanza la traducción.*
