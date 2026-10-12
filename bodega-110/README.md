@@ -10,6 +10,8 @@ Lo que se está destilando ahora.
 
 ## Entradas
 
+- [Macbeth en español](cgbabc_macbeth-en-espanol.html): la traducción en marcha, desde la primera escena.
+
 - [Mapa plano de El libro de arena](cgbaba_mapa-arena.html): cada punto abre una frase de Borges.
 
 - [Macbeth en ocho frases](cgbaaj_macbeth-ocho-frases.html): la frase más central de cada uno de ocho lectores, unidas por una línea.
