@@ -12,7 +12,7 @@ Lo que se está destilando ahora.
 
 - [El libro de arena: trece cuentos](cgbabc_arena-puentes.html): una lectura breve de los cuentos de Jorge Luis Borges.
 
-- [Macbeth en español](cgbabc_macbeth-en-espanol.html): la traducción en marcha, desde la primera escena.
+- [Macbeth en español](cgbabc_macbeth-en-espanol.html): la traducción en marcha; Acto I completo.
 
 - [Mapa plano de El libro de arena](cgbaba_mapa-arena.html): cada punto abre una frase de Borges.
 
