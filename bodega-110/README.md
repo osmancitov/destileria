@@ -10,14 +10,6 @@ Lo que se está destilando ahora.
 
 ## Entradas
 
-- [Círculo de «El otro»](cgbabh_circulo-el-otro.html): las frases del primer cuento de El libro de arena en un círculo; cuanto más al centro, más central en el cuento.
-
-- [Esfera de «El otro»](cgbabi_esfera-el-otro.html): las frases del primer cuento en capas, como una cebolla; cuanto más al centro, más central en el cuento.
-
-- [Esfera de El libro de arena](cgbabg_esfera-arena.html): frases de Borges en capas, como una cebolla; cuanto más al centro, más central en el libro.
-
-- [Círculo de El libro de arena](cgbabf_circulo-arena.html): frases de Borges en un círculo; cuanto más al centro, más central en el libro.
-
 - [Nube en 3D de El libro de arena](cgbabe_nube-arena-3d.html): la nube de frases de Borges, para girar.
 
 - [El libro de arena: trece cuentos](cgbabc_arena-puentes.html): una lectura breve de los cuentos de Jorge Luis Borges.
