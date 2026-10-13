@@ -6,5 +6,5 @@ Una destilería es un lugar donde se destila: se separa una sustancia mediante e
 
 Aquí se ensaya algo parecido con los libros: quitar lo que sobra hasta encontrar una forma breve que conserve su fuerza y se pueda contar a otro. Es una hipótesis de trabajo, no una promesa cumplida.
 
-- [Bodega 103](bodega-103/README.md): los primeros lotes de la casa.
 - [Bodega 110](bodega-110/README.md): lo que se está destilando ahora.
+- [Bodega 103](bodega-103/README.md): los primeros lotes de la casa.
