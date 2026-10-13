@@ -13,7 +13,7 @@
 <div class="row" id="modes" role="group" aria-label="Vista"><button id="book" aria-pressed="true">Libro entero</button><button id="one" aria-pressed="false">Un cuento</button></div>
 <select class="pick" id="pick" aria-label="Cuento" hidden></select>
 <div class="map"><canvas aria-label="Nube de frases. Arrastra para girar; toca un punto para leerlo."></canvas><div class="zoom"><button id="plus" aria-label="Acercar">+</button><button id="minus" aria-label="Alejar">−</button><button id="pan" aria-pressed="false" aria-label="Arrastrar para mover la vista" title="Arrastrar para mover la vista">✥</button><button id="reset" aria-label="Ver el mapa completo">⟲</button><button id="spin" aria-pressed="false" aria-label="Girar sola">↻</button></div></div>
-<div class="bar" id="bar"></div><div class="scale"><span>0 · cerca del centro</span><span>1 · lejos del centro</span></div><p class="help">Distancia normalizada: blanco (0), rojo (0,25), azul (0,75), negro (1).</p>
+<div class="bar" id="bar"></div><div class="scale"><span>0 · cerca del centro</span><span>1 · lejos del centro</span></div><p class="help">Distancia normalizada: rojo (0), azul (1).</p>
 <p class="help">Arrastra para girar; con dos dedos, pellizca para acercar y mueve para desplazar (o ✥). Toca un punto para leerlo.</p>
 <section class="phrase" hidden aria-live="polite"><div class="tale"><small id="number"></small><button id="close" aria-label="Cerrar frase">×</button></div>
 <div class="tale"><span>En el cuento</span><button id="first" aria-label="Primera frase del cuento">⇤</button><button id="prev" aria-label="Frase anterior del cuento">‹</button><button id="next" aria-label="Frase siguiente del cuento">›</button><button id="last" aria-label="Última frase del cuento">⇥</button></div>
@@ -25,9 +25,9 @@
 <script>
 const data=JSON.parse(document.querySelector('#data').textContent),names=data.cuentos,S=data.s,T=data.t,N=T.length,MK=Object.keys(data.m),epi=names.indexOf('Epílogo'),AX=1.08;
 // Distancia normalizada: 0 es la más cercana y 1 la más lejana.
-// El degradado anterior conserva sus tramos dentro de 0,25 a 0,75.
+// El degradado completo va de rojo (cerca) a azul (lejos).
 const oldStops=[[0,[58,79,214]],[.22,[47,140,240]],[.38,[47,208,208]],[.52,[111,224,122]],[.64,[230,224,74]],[.76,[255,155,58]],[.88,[255,90,60]],[1,[215,38,61]]];
-const stops=[[0,[255,255,255]],...oldStops.map(([t,c])=>[.75-.5*t,c]).reverse(),[1,[0,0,0]]];
+const stops=oldStops.map(([t,c])=>[1-t,c]).reverse();
 function ramp(t){for(let k=1;k<stops.length;k++){const a=stops[k-1],b=stops[k];if(t<=b[0]){const u=(t-a[0])/(b[0]-a[0]);return'rgb('+a[1].map((c,j)=>Math.round(c+(b[1][j]-c)*u)).join(',')+')'}}return'rgb('+stops[stops.length-1][1].join(',')+')'}
 const lut=Array.from({length:1001},(_,i)=>ramp(1-i/1000));
 const $=q=>document.querySelector(q),canvas=$('canvas'),map=$('.map'),g=canvas.getContext('2d');
@@ -56,8 +56,8 @@ function rot(x,y,z){const cy=Math.cos(yaw),sy=Math.sin(yaw),cp=Math.cos(pitch),s
 function draw(){if(!w||!P)return;proj=P.map(p=>rot(p[0]/1000,p[1]/1000,p[2]/1000));g.clearRect(0,0,w,h);
 const ax=[['x','#ff7b72',[1,0,0]],['y','#7ee787',[0,1,0]],['z','#79c0ff',[0,0,1]]];g.lineWidth=1;g.font='13px system-ui';g.textAlign='center';g.textBaseline='middle';g.globalAlpha=.55;
 for(const[l,c,v]of ax){const a=rot(-v[0]*AX,-v[1]*AX,-v[2]*AX),b=rot(v[0]*AX,v[1]*AX,v[2]*AX);g.strokeStyle=c;g.fillStyle=c;g.beginPath();g.moveTo(a[0],a[1]);g.lineTo(b[0],b[1]);g.stroke();g.fillText(l,b[0]+(b[0]>=a[0]?9:-9),b[1])}
-g.globalAlpha=1;const n=data.m[model].n,idx=[];for(let i=0;i<N;i++)if(vis(i))idx.push(i);idx.sort((a,b)=>proj[b][2]-proj[a][2]);const big=mode==='one'?1.7:1;
-for(const i of idx){const q=proj[i],r=(i===sel?5:2.4*big)*.625*q[3]*Math.min(2.2,zk+.4);g.globalAlpha=Math.max(.35,Math.min(1,.55+q[3]-1+.35));g.fillStyle=lut[n[i]];g.beginPath();if(S[i]===epi){g.moveTo(q[0],q[1]-r*1.4);g.lineTo(q[0]+r*1.4,q[1]);g.lineTo(q[0],q[1]+r*1.4);g.lineTo(q[0]-r*1.4,q[1]);g.closePath()}else g.arc(q[0],q[1],r,0,Math.PI*2);g.fill()}
+g.globalAlpha=1;const n=data.m[model].n,idx=[];for(let i=0;i<N;i++)if(vis(i))idx.push(i);idx.sort((a,b)=>proj[b][2]-proj[a][2]);
+for(const i of idx){const q=proj[i],r=(i===sel?5:2.4)*.625*q[3]*Math.min(2.2,zk+.4);g.globalAlpha=Math.max(.35,Math.min(1,.55+q[3]-1+.35));g.fillStyle=lut[n[i]];g.beginPath();if(S[i]===epi){g.moveTo(q[0],q[1]-r*1.4);g.lineTo(q[0]+r*1.4,q[1]);g.lineTo(q[0],q[1]+r*1.4);g.lineTo(q[0]-r*1.4,q[1]);g.closePath()}else g.arc(q[0],q[1],r,0,Math.PI*2);g.fill()}
 g.globalAlpha=1;if(sel!==null){g.strokeStyle='#fff';g.lineWidth=2;g.beginPath();g.arc(proj[sel][0],proj[sel][1],11,0,Math.PI*2);g.stroke()}}
 function resize(){w=map.clientWidth;h=map.clientHeight;const d=devicePixelRatio||1;canvas.width=w*d;canvas.height=h*d;g.setTransform(d,0,0,d,0,0);draw()}
 function pickAt(x,y){let best=null,dist=26*26,bz=1e9;proj.forEach((q,i)=>{if(!vis(i))return;const d=(q[0]-x)**2+(q[1]-y)**2;if(d<dist-60||(d<dist&&q[2]<bz)){dist=Math.min(dist,d);bz=q[2];best=i}});if(best!==null)show(best)}
