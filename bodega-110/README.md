@@ -10,6 +10,10 @@ Lo que se está destilando ahora.
 
 ## Entradas
 
+- [Nube en 3D de El libro de arena](cgbabe_nube-arena-3d.html): la nube de frases de Borges, para girar.
+
+- [Mapa plano de El libro de arena, en cuatro modelos](cgbabe_mapa-arena-modelos.html): cada punto abre una frase de Borges; cada modelo las ordena a su modo.
+
 - [El libro de arena: trece cuentos](cgbabc_arena-puentes.html): una lectura breve de los cuentos de Jorge Luis Borges.
 
 - [Macbeth en español](cgbabc_macbeth-en-espanol.html): la obra entera; lo gris es provisional.
