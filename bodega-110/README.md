@@ -10,9 +10,7 @@ Lo que se está destilando ahora.
 
 ## Entradas
 
-- [Cercanía al centro de El libro de arena](cgbabj_nube-arena-cercania.html): la nube de frases de Borges, coloreada por su cercanía al centro del libro, en un cuento o en el libro entero.
-
-- [Nube en 3D de El libro de arena](cgbabe_nube-arena-3d.html): la nube de frases de Borges, para girar.
+- [Nube en 3D de El libro de arena](cgbabe_nube-arena-3d.html): la nube de frases de Borges, coloreada por su cercanía al centro del libro, en un cuento o en el libro entero.
 
 - [El libro de arena: trece cuentos](cgbabc_arena-puentes.html): una lectura breve de los cuentos de Jorge Luis Borges.
 
