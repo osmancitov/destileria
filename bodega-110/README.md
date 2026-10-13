@@ -10,6 +10,8 @@ Lo que se está destilando ahora.
 
 ## Entradas
 
+- [Círculo de El libro de arena](cgbabf_circulo-arena.html): frases de Borges en un círculo; cuanto más al centro, más central en el libro.
+
 - [Nube en 3D de El libro de arena](cgbabe_nube-arena-3d.html): la nube de frases de Borges, para girar.
 
 - [El libro de arena: trece cuentos](cgbabc_arena-puentes.html): una lectura breve de los cuentos de Jorge Luis Borges.
