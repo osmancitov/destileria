@@ -6,7 +6,7 @@ Jorge Luis Borges
 
 Jorge Luis Borges, escritor argentino, hizo del tiempo y de los sueños materia de sus cuentos. *El Otro* abre *El Libro de Arena*: dos hombres se encuentran junto a un río y descubren que son el mismo, separados por medio siglo. Una vida se sienta a conversar consigo misma.
 
-Las citas conservan las palabras de Borges tal como las escribió.
+En las citas suena la voz de Borges, con las palabras que él dejó escritas.
 
 > El hecho ocurrió en el mes de febrero de 1969, al norte de Boston, en Cambridge. No lo escribí inmediatamente porque mi primer propósito fue olvidarlo, para no perder la razón. Ahora, en 1972, pienso que si lo escribo, los otros lo leerán como un cuento y, con los años, lo será tal vez para mí. Sé que fue casi atroz mientras duró y más aún durante las desveladas noches que lo siguieron.
 
