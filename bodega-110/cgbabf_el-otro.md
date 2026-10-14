@@ -70,7 +70,7 @@ El dólar con fecha es la flor de Coleridge del cuento: la prueba que sobrevive 
 
 ## Coda: la hidra Universo
 
-El verso de la hidra viene de «Ce que dit la bouche d’ombre», el poema de Victor Hugo que cierra el libro VI de *Les Contemplations* (1856, poema 26). Este es el pasaje, en castellano (traducción de Instinct). Original en [Wikisource](https://fr.wikisource.org/wiki/Les_Contemplations/Ce_que_dit_la_bouche_d%E2%80%99ombre).
+El verso de la hidra viene de «Ce que dit la bouche d’ombre» («Lo que dice la boca de sombra»), el poema de Victor Hugo que cierra el libro VI de *Les Contemplations* (1856, poema 26). La boca de sombra es la voz del espectro que le habla al poeta durante todo el poema. Este es el pasaje, en castellano (traducción de Instinct).
 
 ![Óleo oscuro: una figura se deshace en polvo al caer por un pozo sin fondo hacia un sol negro cuyos rayos son franjas de tiniebla.](img/cgbabe_ce-que-dit-la-bouche-dombre_og.jpg)
 
@@ -82,6 +82,8 @@ El verso de la hidra viene de «Ce que dit la bouche d’ombre», el poema de Vi
 > y se ve en el fondo, cuando el ojo se atreve a bajar,  
 > más allá de la vida, y del aliento y del ruido,  
 > un espantoso sol negro del que irradia la noche.  
+
+[Ver el poema completo](cgbabe_ce-que-dit-la-bouche-dombre.html)
 
 ---
 
