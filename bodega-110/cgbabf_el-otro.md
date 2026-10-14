@@ -6,7 +6,7 @@ Jorge Luis Borges
 
 Jorge Luis Borges reunió en *El Libro de Arena* un puñado de cuentos donde lo imposible encuentra lugar. *El Otro* abre la puerta: un banco junto a un río, un viejo y un muchacho que son el mismo hombre, separados por medio siglo. El agua corre. Una vida se sienta a conversar consigo misma.
 
-En las citas suena la voz de Borges, con las palabras que él dejó escritas.
+Osmancito buscó las mejores frases del cuento y, con Instinct, les dio una nueva forma. Las citas son de Borges, tal como él las escribió.
 
 > El hecho ocurrió en el mes de febrero de 1969, al norte de Boston, en Cambridge. No lo escribí inmediatamente porque mi primer propósito fue olvidarlo, para no perder la razón. Ahora, en 1972, pienso que si lo escribo, los otros lo leerán como un cuento y, con los años, lo será tal vez para mí. Sé que fue casi atroz mientras duró y más aún durante las desveladas noches que lo siguieron.
 
