@@ -72,7 +72,7 @@ El dólar con fecha es la flor de Coleridge del cuento: la prueba que sobrevive 
 
 El verso de la hidra viene de «Ce que dit la bouche d’ombre», el poema de Victor Hugo que cierra el libro VI de *Les Contemplations* (1856, poema 26). Va entero, en francés. Fuente: [Wikisource](https://fr.wikisource.org/wiki/Les_Contemplations/Ce_que_dit_la_bouche_d%E2%80%99ombre).
 
-![Óleo oscuro: una figura se deshace en polvo al caer por un pozo sin fondo hacia un sol negro cuyos rayos son franjas de tiniebla.](img/cgbabf_el-otro_coda.jpg)
+![Óleo oscuro: una figura se deshace en polvo al caer por un pozo sin fondo hacia un sol negro cuyos rayos son franjas de tiniebla.](img/cgbabf_el-otro_hidra.jpg)
 
 > L’homme en songeant descend au gouffre universel.  
 > J’errais près du dolmen qui domine Rozel,  
