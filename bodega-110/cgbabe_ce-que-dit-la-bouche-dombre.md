@@ -6,7 +6,7 @@
 
 Victor Hugo
 
-«Ce que dit la bouche d’ombre» significa «Lo que dice la boca de sombra». Es el poema de Victor Hugo que cierra el libro VI de Les Contemplations (1856, poema 26): un espectro le habla al poeta y le revela lo que hay en el abismo. Va entero, verso a verso: cada verso en francés lleva debajo su traducción al castellano, de Instinct.
+«Ce que dit la bouche d’ombre» significa «Lo que dice la boca de sombra». Es el poema de Victor Hugo que cierra el libro VI de Les Contemplations (1856, poema 26): un espectro le habla al poeta y le revela lo que hay en el abismo. Va entero: cada verso en francés lleva debajo su traducción al castellano, de Instinct.
 
 > L’homme en songeant descend au gouffre universel.  
 > *El hombre, al meditar, desciende al abismo universal.*  
