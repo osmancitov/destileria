@@ -10,12 +10,15 @@ Victor Hugo
 
 > L’homme en songeant descend au gouffre universel.  
 > *El hombre, al meditar, desciende al abismo universal.*  
+> *Glosa: Habla el poeta como narrador de una visión. La escena inicial prepara una revelación sobrenatural y establece quién escuchará el discurso.*  
 > J’errais près du dolmen qui domine Rozel,  
 > *Yo erraba junto al dolmen que domina Rozel,*  
+> *Glosa: Rozel es un lugar de Jersey, isla del exilio de Hugo. El dolmen es un monumento megalítico funerario: sitúa el encuentro junto a una huella de los muertos.*  
 > À l’endroit où le cap se prolonge en presqu’île.  
 > *allí donde el cabo se prolonga en península.*  
 > Le spectre m’attendait ; l’être sombre et tranquille  
 > *El espectro me aguardaba; el ser sombrío y sereno*  
+> *Glosa: El espectro es la figura que pronunciará el discurso de la "boca de sombra". No se identifica con Dios ni recibe un nombre propio.*  
 > Me prit par les cheveux dans sa main qui grandit,  
 > *me asió por los cabellos con su mano que crecía,*  
 > M’emporta sur le haut du rocher, et me dit :  
@@ -23,8 +26,10 @@ Victor Hugo
 >
 > Sache que tout connaît sa loi, son but, sa route ;  
 > *Has de saber que todo conoce su ley, su fin, su senda;*  
+> *Glosa: Comienza la larga enseñanza del espectro al poeta. Las preguntas que siguen pertenecen al maestro sobrenatural, no al narrador humano.*  
 > Que, de l’astre au ciron, l’immensité s’écoute ;  
 > *que, del astro al ácaro, la inmensidad se escucha;*  
+> *Glosa: El ácaro representa aquí la vida minúscula. La comparación abarca los dos extremos de tamaño para que ninguna parte de la creación quede excluida.*  
 > Que tout a conscience en la création ;  
 > *que todo tiene conciencia en la creación;*  
 > Et l’oreille pourrait avoir sa vision,  
@@ -39,6 +44,7 @@ Victor Hugo
 > *¿Te imaginabas, pues, el universo de otro modo?*  
 > Crois-tu que Dieu, par qui la forme sort du nombre,  
 > *¿Crees que Dios, por quien la forma nace del número,*  
+> *Glosa: El número aparece como principio de orden del que procede la forma. No se está describiendo una operación aritmética ni una teoría científica.*  
 > Aurait fait à jamais sonner la forêt sombre,  
 > *habría hecho resonar por siempre el bosque oscuro,*  
 > L’orage, le torrent roulant de noirs limons,  
@@ -98,6 +104,7 @@ Victor Hugo
 > *un pensamiento colma el tumulto soberbio.*  
 > Dieu n’a pas fait un bruit sans y mêler le verbe.  
 > *Dios no ha hecho un ruido sin mezclar en él el verbo.*  
+> *Glosa: "Verbo" significa palabra dotada de sentido y tiene resonancia religiosa. El espectro niega que los sonidos naturales sean ruido sin significado.*  
 > Tout, comme toi, gémit ou chante comme moi ;  
 > *Todo, como tú, gime, o canta como yo;*  
 > Tout parle. Et maintenant, homme, sais-tu pourquoi  
@@ -109,6 +116,7 @@ Victor Hugo
 >
 > Tout est plein d’âmes.  
 > *Todo está lleno de almas.*  
+> *Glosa: Esta afirmación establece la premisa del discurso: también animales, plantas y cosas albergan almas. De ella dependen la explicación del castigo y la petición final de piedad.*  
 >
 > Mais comment ? Oh ! voilà le mystère inouï.  
 > *Pero ¿cómo? ¡Oh, he ahí el misterio inaudito!*  
@@ -119,6 +127,7 @@ Victor Hugo
 >
 > Dieu n’a créé que l’être impondérable.  
 > *Dios solo creó el ser imponderable.*  
+> *Glosa: "Imponderable" significa que no tiene peso. El espectro distingue la creación espiritual originaria de la materia que, según explicará, aparece después.*  
 > Il le fit radieux, beau, candide, adorable,  
 > *Lo hizo radiante, hermoso, cándido, adorable,*  
 > Mais imparfait ; sans quoi, sur la même hauteur,  
@@ -138,9 +147,11 @@ Victor Hugo
 > *La santa creación en que sueña el profeta,*  
 > Pour être, ô profondeur ! devait être imparfaite.  
 > *para ser, ¡oh hondura!, debía ser imperfecta.*  
+> *Glosa: Se aborda el problema de cómo puede existir el mal si Dios crea. La respuesta propuesta depende de distinguir al creador perfecto de una criatura necesariamente limitada.*  
 >
 > Donc, Dieu fit l’univers, l’univers fit le mal.  
 > *Así, Dios hizo el universo; el universo hizo el mal.*  
+> *Glosa: Habla el espectro: atribuye el origen del mal a lo creado, no a una decisión maligna de Dios. Esta distinción sostiene la explicación de la caída que sigue.*  
 >
 > L’être créé, paré du rayon baptismal,  
 > *El ser creado, ornado con el rayo bautismal,*  
@@ -161,6 +172,7 @@ Victor Hugo
 > *Ahora bien, la primera culpa*  
 > Fut le premier poids.  
 > *fue el primer peso.*  
+> *Glosa: El espectro da al peso un sentido moral y, a la vez, material. Ese doble uso permite pasar de la culpa a la formación de cuerpos y mundos.*  
 >
 > Dieu sentit une douleur.  
 > *Dios sintió un dolor.*  
@@ -215,12 +227,14 @@ Victor Hugo
 > *de tu materia, ¡ay!, de tu iniquidad.*  
 > Cette ombre dit : — Je suis l’être d’infirmité ;  
 > *Esa sombra dice: -Yo soy el ser de flaqueza;*  
+> *Glosa: El espectro pone palabras en boca de la sombra del cuerpo. No interviene un personaje nuevo: es una voz imaginada dentro de su explicación.*  
 > Je suis tombé déjà ; je puis tomber encore. —  
 > *ya he caído; puedo caer aún-.*  
 > L’ange laisse passer à travers lui l’aurore ;  
 > *El ángel deja que la aurora pase a través de él;*  
 > Nul simulacre obscur ne suit l’être aromal ;  
 > *ningún oscuro simulacro sigue al ser aromal;*  
+> *Glosa: "Aromal" es un término raro asociado al perfume y a una existencia sutil. Designa aquí al ser espiritual, contrapuesto al cuerpo opaco que proyecta sombra.*  
 > Homme, tout ce qui fait de l’ombre a fait le mal.  
 > *hombre, todo lo que da sombra ha hecho el mal.*  
 >
@@ -249,6 +263,7 @@ Victor Hugo
 > *Tu sol es lúgubre y tu tierra es horrible.*  
 > Vous habitez le seuil du monde châtiment.  
 > *Habitáis el umbral del mundo del castigo.*  
+> *Glosa: "Mundo del castigo" nombra una condición del universo material. El espectro no está señalando un país ni un infierno separado de la creación.*  
 > Mais vous n’êtes pas hors de Dieu complétement ;  
 > *Pero no estáis enteramente fuera de Dios;*  
 >
@@ -262,13 +277,16 @@ Victor Hugo
 > *y todo, hasta el mal, es la creación,*  
 > Car le dedans du masque est encor la figure.  
 > *pues el reverso de la máscara sigue siendo el rostro.*  
+> *Glosa: La máscara y el rostro permiten precisar que la materia no queda fuera de Dios. El mal deforma lo creado, pero no constituye una creación independiente.*  
 >
 > — Ô sombre aile invisible à l’immense envergure !  
 > *-¡Oh ala oscura, invisible, de inmensa envergadura!*  
+> *Glosa: El poeta interrumpe por un momento al espectro. Es una de las escasas intervenciones directas del oyente durante la revelación.*  
 > Esprit ! esprit ! esprit ! m’écriai-je éperdu.  
 > *¡Espíritu! ¡Espíritu! ¡Espíritu! -exclamé, aterrado.*  
 > Le spectre poursuivit sans m’avoir entendu :  
 > *El espectro prosiguió sin haberme escuchado:*  
+> *Glosa: Vuelve la voz narrativa del poeta para señalar que el espectro no responde a su exclamación. El discurso sobrenatural se reanuda en el bloque siguiente.*  
 >
 > Faisons un pas de plus dans ces choses profondes.  
 > *Demos un paso más en estas cosas hondas.*  
@@ -277,6 +295,7 @@ Victor Hugo
 > *Hombre, tú quieres, haces, construyes y fundas,*  
 > Et tu dis : — Je suis seul, car je suis le penseur.  
 > *y dices: -Estoy solo, pues soy el pensador.*  
+> *Glosa: El espectro cita una postura humana que va a refutar. La declaración de soledad y superioridad no expresa su propia doctrina.*  
 > L’univers n’a que moi dans sa morne épaisseur.  
 > *El universo solo me tiene a mí en su espesor sombrío.*  
 > En deçà, c’est la nuit ; au-delà, c’est le rêve.  
@@ -293,6 +312,7 @@ Victor Hugo
 > *¿Interrogas al agua? Y cuando miras árboles,*  
 > Parles-tu quelquefois à ces religieux ?  
 > *¿hablas alguna vez a esos religiosos?*  
+> *Glosa: Los "religiosos" son los árboles, comparados con miembros de una comunidad contemplativa. No aparecen sacerdotes humanos en esta escena.*  
 > Comme sur le versant d’un mont prodigieux,  
 > *Como en la ladera de un monte prodigioso,*  
 > Vaste mêlée aux bruits confus, du fond de l’ombre,  
@@ -350,6 +370,7 @@ Victor Hugo
 > *de los demonios encadenados sube a las almas aladas,*  
 > Fait toucher le front sombre au radieux orteil,  
 > *une la frente oscura al dedo radiante del pie,*  
+> *Glosa: La frente y el dedo del pie pertenecen a seres situados en peldaños sucesivos. La imagen corporal explica que la escala no tiene cortes entre un orden de existencia y otro.*  
 > Rattache l’astre esprit à l’archange soleil,  
 > *enlaza el astro espíritu con el arcángel sol,*  
 > Relie, en traversant des millions de lieues,  
@@ -367,6 +388,7 @@ Victor Hugo
 > *y en la muerte. Siempre la han subido los justos:*  
 > Jacob en la voyant, et Caton sans la voir.  
 > *Jacob al verla, y Catón sin verla.*  
+> *Glosa: Jacob es el patriarca que sueña una escala entre tierra y cielo en Génesis 28. Catón de Útica representa la rectitud moral no fundada en aquella revelación bíblica.*  
 > Ses échelons sont deuil, sagesse, exil, devoir.  
 > *Sus peldaños son duelo, sabiduría, exilio, deber.*  
 >
@@ -380,6 +402,7 @@ Victor Hugo
 > *y que viene, entre pálidas visiones,*  
 > Du précipice où sont les larves et les crimes,  
 > *del precipicio donde están los espectros y los crímenes,*  
+> *Glosa: Las "larvas" del francés tienen aquí el sentido de espectros o almas de muertos, no de insectos inmaduros. La traducción castellana emplea "espectros".*  
 > Où la création, effrayant les abîmes,  
 > *donde la creación, espantando a los abismos,*  
 > Se prolonge dans l’ombre en spectre indéfini.  
@@ -389,6 +412,7 @@ Victor Hugo
 >
 > Hommes, plus bas que vous, dans le nadir livide,  
 > *hombres, más abajo que vosotros, en el nadir lívido,*  
+> *Glosa: El nadir es el punto opuesto al cenit, situado hacia abajo respecto del observador. En esta visión sirve para orientar el descenso moral y cósmico.*  
 > Dans cette plénitude horrible qu’on croit vide,  
 > *en esa plenitud horrible que se cree vacía,*  
 > Le mal, qui par la chair, hélas ! vous asservit,  
@@ -399,6 +423,7 @@ Victor Hugo
 > *Allí, sombría, se hunde en oleadas de desastres*  
 > L’hydre Univers tordant son corps écaillé d’astres ;  
 > *la hidra Universo, torciendo su cuerpo escamado de astros;*  
+> *Glosa: La hidra es un monstruo de varias cabezas de la tradición griega. "Universo" forma parte de su nombre poético: la criatura representa al cosmos material entero.*  
 > Là, tout flotte et s’en va dans un naufrage obscur ;  
 > *allí todo flota y se va en un naufragio oscuro;*  
 > Dans ce gouffre sans bord, sans soupirail, sans mur,  
@@ -411,11 +436,13 @@ Victor Hugo
 > *más allá de la vida, y del aliento y del ruido,*  
 > Un affreux soleil noir d’où rayonne la nuit !  
 > *un espantoso sol negro del que irradia la noche.*  
+> *Glosa: El sol negro es una imagen paradójica del foco del mal. No designa un astro identificado por la astronomía.*  
 >
 > Donc, la matière pend à l’idéal, et tire  
 > *Así, la materia pende del ideal y arrastra*  
 > L’esprit vers l’animal, l’ange vers le satyre,  
 > *al espíritu hacia el animal, al ángel hacia el sátiro,*  
+> *Glosa: El sátiro es una figura de la mitología griega ligada a los impulsos sensuales. Permite marcar el descenso desde el espíritu hacia el apetito corporal.*  
 > Le sommet vers le bas, l’amour vers l’appétit.  
 > *a la cumbre hacia lo bajo, al amor hacia el apetito.*  
 > Avec le grand qui croule elle fait le petit.  
@@ -444,6 +471,7 @@ Victor Hugo
 >
 > Et, d’abord, qu’est-ce que la justice ?  
 > *Y, ante todo, ¿qué es la justicia?*  
+> *Glosa: El espectro pasa del origen del mal a la justicia. Las preguntas preparan una explicación del castigo sin tribunal exterior.*  
 > Qui la rend ? qui la fait ? où ? quand ? à quel moment ?  
 > *¿Quién la imparte? ¿Quién la hace? ¿Dónde? ¿Cuándo? ¿En qué momento?*  
 > Qui donc pèse la faute ? et qui le châtiment ?  
@@ -500,6 +528,7 @@ Victor Hugo
 >
 > Dieu ne nous juge point. Vivant tous à la fois,  
 > *Dios no nos juzga. Vivos todos a un tiempo,*  
+> *Glosa: Sigue hablando el espectro, no Dios. La afirmación resume su idea de una justicia inherente a los actos y no de una sentencia pronunciada desde fuera.*  
 > Nous pesons, et chacun descend selon son poids.  
 > *pesamos, y cada cual desciende según su peso.*  
 >
@@ -551,6 +580,7 @@ Victor Hugo
 > *que le hizo su delito, reptando tras él;*  
 > Tibère en un rocher, Séjan dans un serpent.  
 > *Tiberio en una roca, Sejano en una serpiente.*  
+> *Glosa: Tiberio fue emperador romano; Sejano, su poderoso prefecto y favorito. El espectro los incorpora a su catálogo de figuras del poder castigadas después de morir.*  
 >
 > L’homme marche sans voir ce qu’il fait dans l’abîme.  
 > *El hombre anda sin ver lo que hace en el abismo.*  
@@ -578,48 +608,62 @@ Victor Hugo
 > *que se apodera de él. Al horror le sucede el horror.*  
 > Nemrod gronde enfermé dans la montagne à pic ;  
 > *Nemrod gruñe encerrado en la montaña escarpada;*  
+> *Glosa: Nemrod es un rey y cazador bíblico que tradiciones posteriores asociaron con la tiranía y Babel. Su presencia pertenece a esa lectura legendaria del personaje.*  
 > Quand Dalila descend dans la tombe, un aspic  
 > *cuando Dalila desciende a la tumba, un áspid*  
+> *Glosa: Dalila entrega a Sansón a sus enemigos después de averiguar el secreto de su fuerza, en el libro de los Jueces. Aquí funciona como figura de la traición.*  
 > Sort des plis du linceul, emportant l’âme fausse ;  
 > *sale de los pliegues del sudario llevándose el alma falsa;*  
 > Phryné meurt, un crapaud saute hors de la fosse ;  
 > *Friné muere, un sapo salta fuera de la fosa;*  
+> *Glosa: Friné fue una célebre cortesana griega. El poema la incluye en un catálogo moralizante; su transformación en sapo es una invención de esta visión.*  
 > Ce scorpion au fond d’une pierre dormant,  
 > *ese escorpión que duerme en el fondo de una piedra*  
 > C’est Clytemnestre aux bras d’Égisthe son amant ;  
 > *es Clitemnestra en brazos de Egisto, su amante;*  
+> *Glosa: Clitemnestra y su amante Egisto participan en la muerte de Agamenón según la tragedia griega. La pareja introduce el asesinato familiar en el catálogo de culpas.*  
 > Du tombeau d’Anitus il sort une ciguë ;  
 > *del sepulcro de Ánito sale una cicuta;*  
+> *Glosa: Ánito fue uno de los acusadores de Sócrates. La cicuta remite al veneno con que se ejecutó al filósofo: el instrumento de la muerte se vuelve castigo del acusador.*  
 > Le houx sombre et l’ortie à la piqûre aiguë  
 > *el acebo oscuro y la ortiga de agudo aguijón*  
 > Pleurent quand l’aquilon les fouette, et l’aquilon  
 > *lloran cuando el aquilón los azota, y el aquilón*  
 > Leur dit : Tais-toi, Zoïle ! et souffre, Ganelon !  
 > *les dice: ¡Calla, Zoilo! ¡Y sufre, Ganelón!*  
+> *Glosa: Zoilo fue un crítico griego célebre por atacar a Homero; Ganelón es el traidor del Cantar de Roldán. El viento los nombra como almas cautivas en las plantas.*  
 > Dieu livre, choc affreux dont la plaine au loin gronde,  
 > *Dios entrega, choque atroz que hace retumbar la llanura,*  
 > Au cheval Brunehaut le pavé Frédégonde ;  
 > *al caballo Brunegilda el adoquín Fredegunda;*  
+> *Glosa: Brunegilda y Fredegunda fueron reinas francas rivales. Hugo utiliza su reputación tradicional de violencia; no ofrece una valoración histórica equilibrada de ambas.*  
 > La pince qui rougit dans le brasier hideux  
 > *la tenaza que enrojece en el brasero espantoso*  
 > Est faite du duc d’Albe et de Philippe deux ;  
 > *está hecha del duque de Alba y de Felipe Segundo;*  
+> *Glosa: El duque de Alba y Felipe II remiten a la represión de la rebelión de los Países Bajos. El poema los asocia con los instrumentos de una justicia cruel.*  
 > Farinace est le croc des noires boucheries ;  
 > *Farinacio es el gancho de las negras carnicerías;*  
+> *Glosa: Farinacio es Prospero Farinacci, jurista italiano especializado en derecho penal. Su aparición convierte la tradición judicial en parte del catálogo de castigos materiales.*  
 > L’orfraie au fond de l’ombre a les yeux de Jeffryes ;  
 > *el águila marina, al fondo de la sombra, tiene los ojos de Jeffreys;*  
+> *Glosa: Jeffreys fue un juez inglés célebre por la dureza de los procesos posteriores a la rebelión de Monmouth. El nombre identifica otra figura de la represión judicial.*  
 > Tristan est au secret dans le bois d’un gibet.  
 > *Tristán está incomunicado en la madera de una horca.*  
+> *Glosa: Tristán es el agente de Luis XI conocido como Tristan l'Hermite, no el amante de Isolda ni el escritor del siglo XVII. La horca lo vincula con el ejercicio del poder represivo.*  
 > Quand tombent dans la mort tous ces brigands, Macbeth,  
 > *Cuando caen en la muerte todos esos bandidos, Macbeth,*  
+> *Glosa: Macbeth es el rey asesino de la tragedia de Shakespeare. El catálogo mezcla deliberadamente historia, Biblia, mito y literatura.*  
 > Ezzelin, Richard trois, Carrier, Ludovic Sforce,  
 > *Ezzelino, Ricardo Tercero, Carrier, Ludovico Sforza,*  
+> *Glosa: Ezzelino fue un señor italiano; Ricardo III, rey inglés; Carrier, represor de Nantes durante la Revolución francesa; Ludovico Sforza, duque de Milán. Hugo los reúne bajo la figura del poder criminal.*  
 > La matière leur met la chemise de force.  
 > *la materia les pone la camisa de fuerza.*  
 > Oh ! comme en son bonheur, qui masque un sombre arrêt,  
 > *¡Oh, cómo en su dicha, que oculta una sentencia oscura,*  
 > Messaline ou l’horrible Isabeau frémirait,  
 > *temblaría Mesalina o la horrible Isabel,*  
+> *Glosa: Mesalina fue esposa del emperador Claudio; Isabel es Isabel de Baviera, reina de Francia. El poema recoge reputaciones infamantes tradicionales, especialmente discutidas en el caso de Isabel.*  
 > Si, dans ses actions du sépulcre voisines,  
 > *si, en sus acciones próximas al sepulcro,*  
 > Cette femme sentait qu’il lui vient des racines,  
@@ -630,21 +674,27 @@ Victor Hugo
 > *¡A cada cual su crimen! ¡A cada cual su dolor!*  
 > Claude est l’algue que l’eau traîne de havre en havre ;  
 > *Claudio es el alga que el agua arrastra de puerto en puerto;*  
+> *Glosa: Claudio es el emperador romano. La degradación del rango imperial forma parte de la lógica del catálogo, no de una biografía del personaje.*  
 > Xercès est excrément, Charles neuf est cadavre ;  
 > *Jerjes es excremento; Carlos Noveno es cadáver;*  
+> *Glosa: Jerjes es el rey persa; Carlos IX, el rey francés asociado a la matanza de San Bartolomé. Son ejemplos de soberanía juzgada por sus violencias.*  
 > Hérode, c’est l’osier des berceaux vagissants ;  
 > *Herodes es el mimbre de las cunas que lloran;*  
+> *Glosa: Herodes remite al rey que ordena la matanza de los niños en el relato de Mateo. Las cunas vinculan el castigo con las víctimas infantiles.*  
 > L’âme du noir Judas, depuis dix-huit cents ans,  
 > *el alma del negro Judas, desde hace mil ochocientos años,*  
+> *Glosa: Judas es el discípulo que entrega a Jesús. Los mil ochocientos años se cuentan desde el tiempo de Hugo: no deben actualizarse al presente del lector.*  
 >
 > Se disperse et renaît dans les crachats des hommes ;  
 > *se dispersa y renace en los escupitajos de los hombres;*  
 > Et le vent qui jadis soufflait sur les Sodomes  
 > *y el viento que antaño soplaba sobre las Sodomas*  
+> *Glosa: El plural "Sodomas" extiende a otras ciudades el ejemplo de Sodoma, destruida en el relato del Génesis. No exige localizar varias ciudades del mismo nombre.*  
 > Mêle, dans l’âtre abject et sous le vil chaudron,  
 > *mezcla, en el hogar abyecto y bajo el vil caldero,*  
 > La fumée Érostrate à la flamme Néron.  
 > *el humo Eróstrato con la llama Nerón.*  
+> *Glosa: Eróstrato incendió el templo de Artemisa para alcanzar fama. Nerón aporta la imagen tradicional del emperador incendiario: la asociación es literaria, no una prueba de su responsabilidad en el incendio de Roma.*  
 >
 > Et tout, bête, arbre et roche, étant vivant sur terre,  
 > *Y todo, bestia, árbol y roca, estando vivo en la tierra,*  
@@ -699,13 +749,16 @@ Victor Hugo
 > *asiste a su caída y, duro guijarro que rueda,*  
 > Pense : Je suis Octave ; et, vil chardon qu’on foule,  
 > *piensa: Soy Octavio; y, vil cardo pisoteado,*  
+> *Glosa: Octavio es Augusto, primer emperador romano. La frase citada procede del alma que se reconoce dentro de la piedra, no de una intervención del emperador en persona.*  
 > Crie au talon : Je suis Attila le géant ;  
 > *grita al talón: Soy Atila el gigante;*  
+> *Glosa: Atila fue el rey de los hunos convertido en emblema de conquista devastadora. Como en el verso anterior, habla el alma cautiva a la que el espectro presta voz.*  
 > Et, ver de terre au fond du charnier, et rongeant  
 > *y, lombriz al fondo de la fosa común, royendo*  
 >
 > Un crâne infect et noir, dit : Je suis Cléopâtre.  
 > *un cráneo infecto y negro, dice: Soy Cleopatra.*  
+> *Glosa: Cleopatra es la reina de Egipto. El "yo" pertenece al alma encerrada en la lombriz: continúa la serie de reconocimientos de vidas anteriores.*  
 > Et, hibou, malgré l’aube, ours, en bravant le pâtre,  
 > *Y, búho a pesar del alba, oso que desafía al pastor,*  
 > Elle accomplit la loi qui l’enchaîne d’en haut ;  
@@ -720,6 +773,7 @@ Victor Hugo
 > *ha de seguir siendo horrible y seguir castigado;*  
 > Ô mystère ! le tigre a peut-être pitié !  
 > *¡oh misterio! ¡Quizá el tigre tenga piedad!*  
+> *Glosa: El espectro distingue el acto de la fiera del posible sentimiento del alma presa en ella. Esta distinción prepara el paso de la condena a la compasión.*  
 > Le tigre sur son dos, qui peut-être eut une aile,  
 > *El tigre, en su lomo, que acaso tuvo un ala,*  
 > À l’ombre des barreaux de la cage éternelle ;  
@@ -738,6 +792,7 @@ Victor Hugo
 > *Antaño, sin comprenderla y con ojos atónitos,*  
 > L’Inde a presque entrevu cette métempsycose.  
 > *la India casi entrevió esta metempsicosis.*  
+> *Glosa: Metempsicosis significa transmigración de las almas entre cuerpos. La referencia a la India es la interpretación del espectro, no una descripción suficiente de sus distintas religiones.*  
 > La ronce devient griffe, et la feuille de rose  
 > *La zarza se vuelve garra, y la hoja de la rosa*  
 > Devient langue de chat, et, dans l’ombre et les cris,  
@@ -746,14 +801,17 @@ Victor Hugo
 > *horrible, lame y bebe la sangre del ratón;*  
 > Qui donc connaît le monstre appelé mandragore ?  
 > *¿quién conoce al monstruo llamado mandrágora?*  
+> *Glosa: La mandrágora es una planta cuya raíz de aspecto humano alimentó numerosas leyendas. Su fama permite unir lo vegetal y lo humano en un mismo ser inquietante.*  
 > Qui sait ce que, le soir, éclaire le fulgore,  
 > *¿Quién sabe qué ilumina, al anochecer, la fulgora,*  
+> *Glosa: La fulgora es un insecto al que se atribuyó erróneamente la capacidad de emitir luz. Hugo utiliza esa creencia naturalista antigua, no un hecho biológico confirmado.*  
 > Être en qui la laideur devient une clarté ?  
 > *ser en quien la fealdad se vuelve claridad?*  
 > Ce qui se passe en l’ombre où croît la fleur d’été  
 > *Lo que sucede en la sombra donde crece la flor de estío*  
 > Efface la terreur des antiques avernes.  
 > *borra el terror de los antiguos avernos.*  
+> *Glosa: Los avernos son los infiernos de la tradición clásica. El término amplía la comparación a todo el imaginario antiguo del mundo de los muertos.*  
 > Étages effrayants ! cavernes sur cavernes.  
 > *¡Estratos espantosos! Cavernas sobre cavernas.*  
 > Ruche obscure du mal, du crime et du remord !  
@@ -798,6 +856,7 @@ Victor Hugo
 >
 > Nous avons, nous, voyants du ciel supérieur,  
 > *Nosotros, videntes del cielo superior, tenemos*  
+> *Glosa: El "nosotros" reúne al espectro con otros videntes del mundo superior. No incluye al poeta ni supone que Dios haya tomado la palabra.*  
 > Le spectacle inouï de vos régions basses.  
 > *el espectáculo inaudito de vuestras regiones bajas.*  
 > Ô songeur, fallait-il qu’en ces nuits tu tombasses !  
@@ -832,6 +891,7 @@ Victor Hugo
 > *a las furias; y, de noche, vemos a los bosques,*  
 > D’où cherchent à s’enfuir les larves enfermées,  
 > *de donde buscan huir los espectros encerrados,*  
+> *Glosa: Se alude otra vez a almas espectrales encerradas en cuerpos materiales. En francés aparece "larves", empleado aquí en su sentido de apariciones de muertos.*  
 > S’écheveler dans l’ombre en lugubres fumées.  
 > *desgreñarse en la sombra en lúgubras humaredas.*  
 > Partout, partout, partout ! dans les flots, dans les bois,  
@@ -840,6 +900,7 @@ Victor Hugo
 > *en la hierba en flor, en el oro que sirve de cetro a los reyes,*  
 > Dans le jonc dont Hermès se fait une baguette,  
 > *en el junco del que Hermes se hace una vara,*  
+> *Glosa: Hermes es el dios griego mensajero, asociado a una vara llamada caduceo. La mención incorpora también un objeto mítico al mundo de la materia animada.*  
 > Partout, le châtiment contemple, observe ou guette,  
 > *por doquier el castigo contempla, observa o acecha,*  
 >
@@ -856,6 +917,7 @@ Victor Hugo
 > *se hunde bajo el mundo y desciende a la noche,*  
 > Et, Babel renversée, au fond de l’ombre fuit !  
 > *y, Babel invertida, ¡huye al fondo de la sombra!*  
+> *Glosa: Babel es la torre bíblica que pretendía alcanzar el cielo. Su inversión convierte la arquitectura ascendente del orgullo en una construcción que se hunde.*  
 >
 > L’homme qui plane et rampe, être crépusculaire,  
 > *El hombre, que planea y repta, ser crepuscular,*  
@@ -876,6 +938,7 @@ Victor Hugo
 > *Dios mezcla en vuestra raza, hombres desventurados,*  
 > Les demi-dieux punis aux monstres pardonnés.  
 > *a los semidioses castigados con los monstruos perdonados.*  
+> *Glosa: El espectro explica la doble procedencia de la condición humana. Según su sistema, una misma forma puede ser etapa de caída para unas almas y de recuperación para otras.*  
 >
 > De là vient que parfois, mystère que Dieu mène !  
 > *De ahí que a veces, ¡misterio que Dios rige!,*  
@@ -896,6 +959,7 @@ Victor Hugo
 > *El hombre, como el bruto, saciado de la nada,*  
 > Vide toutes les nuits le verre noir du somme.  
 > *vacía cada noche el vaso negro del sueño.*  
+> *Glosa: El sueño se presenta como suspensión cotidiana de la actividad consciente. El pasaje prepara el contraste entre las aspiraciones del espíritu y las exigencias del cuerpo.*  
 > La chaîne de l’enfer, liée au pied de l’homme,  
 > *La cadena del infierno, atada al pie del hombre,*  
 > Ramène chaque jour vers le cloaque impur  
@@ -906,6 +970,7 @@ Victor Hugo
 > *mezcla la peste al aliento ideal de los pechos,*  
 > Et traîne, avec Socrate, Aspasie aux latrines.  
 > *y arrastra, con Sócrates, a Aspasia a las letrinas.*  
+> *Glosa: Sócrates representa el pensamiento; Aspasia fue una mujer culta de la Atenas de Pericles. Las letrinas recuerdan que ni el prestigio intelectual ni la belleza eliminan las necesidades físicas.*  
 >
 > Par un côté pourtant l’homme est illimité.  
 > *Por un lado, sin embargo, el hombre es ilimitado.*  
@@ -927,6 +992,7 @@ Victor Hugo
 > *Dios, cuando un alma nace en el hombre movido al bien,*  
 > Casse en son souvenir le fil du passé ;  
 > *rompe en su memoria el hilo del pasado;*  
+> *Glosa: El olvido de vidas anteriores tiene aquí una función moral: permite actuar sin conocimiento seguro de la recompensa o el castigo. No es una explicación médica de la memoria.*  
 > De là vient que la nuit en sait plus que l’aurore.  
 > *de ahí que la noche sepa más que la aurora.*  
 > Le monstre se connaît lorsque l’homme s’ignore.  
@@ -950,6 +1016,7 @@ Victor Hugo
 > *el monstruo, árbol, roca o bestia rugiente,*  
 > Voit Dieu, c’est là sa peine, et reste enchaîné loin.  
 > *ve a Dios, ese es su tormento, y sigue encadenado lejos.*  
+> *Glosa: El espectro diferencia conocer a Dios de poder dirigirse libremente hacia él. Esa distinción explica la aparente ventaja del animal sobre el ser humano en los versos siguientes.*  
 >
 > L’homme a l’amour pour aile, et pour joug le besoin.  
 > *El hombre tiene el amor por ala y la necesidad por yugo.*  
@@ -997,6 +1064,7 @@ Victor Hugo
 > *ve llegar tu culpa y quisiera cerrarse.*  
 > Ta vitre connaît l’aube, et dit : Voir ! croire ! aimer !  
 > *Tu cristal conoce el alba y dice: ¡Ver! ¡Creer! ¡Amar!*  
+> *Glosa: El espectro cita la voz imaginada del cristal. Las breves intervenciones de los objetos forman parte de su discurso; no cambia el narrador principal.*  
 > Les rideaux de ton lit frissonnent de tes songes.  
 > *Las cortinas de tu lecho se estremecen con tus sueños.*  
 > Dans les mauvais desseins quand, rêveur, tu te plonges,  
@@ -1005,6 +1073,7 @@ Victor Hugo
 > *la ceniza dice al fondo del hogar sepulcral:*  
 > Regarde-moi ; je suis ce qui reste du mal.  
 > *Mírame; soy lo que queda del mal.*  
+> *Glosa: La ceniza recibe una voz propia dentro de la exposición del espectro. Es otro ejemplo de habla atribuida a la materia, no un interlocutor independiente.*  
 > Hélas ! l’homme imprudent trahit, torture, opprime.  
 > *¡Ay! El hombre imprudente traiciona, tortura, oprime.*  
 > La bête en son enfer voit les deux bouts du crime ;  
@@ -1015,6 +1084,7 @@ Victor Hugo
 > *¡Hombre! ¡Hombre! ¡Águila cegada, menor que un mosquito!*  
 > Pendant que dans ton Louvre ou bien dans ta chaumière  
 > *Mientras en tu Louvre o en tu choza*  
+> *Glosa: El Louvre designa aquí el palacio y la riqueza del poderoso, contrapuestos a la choza. No se está describiendo una visita al museo.*  
 > Tu vis, sans même avoir épelé la première  
 > *vives, sin haber siquiera deletreado la primera*  
 > Des constellations, sombre alphabet qui luit  
@@ -1035,6 +1105,7 @@ Victor Hugo
 > *de esos sabios que vemos soñar en los viejos bustos,*  
 > Et que tu dis : Que sais-je ? amer, froid, mécréant,  
 > *y dices: ¿Qué sé yo?, amargo, frío, descreído,*  
+> *Glosa: "¿Qué sé yo?" recuerda la divisa de Montaigne. El espectro polemiza aquí con el escepticismo humano antes de conceder a la duda una función positiva.*  
 > Prostituant ta bouche au rire du néant,  
 > *prostituyendo tu boca a la risa de la nada,*  
 > À travers le taillis de la nature énorme,  
@@ -1047,6 +1118,7 @@ Victor Hugo
 >
 > Ah ! je t’entends. Tu dis : — Quel deuil ! la bête est peu,  
 > *Ah, te oigo. Dices: -¡Qué duelo! La bestia es poco,*  
+> *Glosa: El espectro formula una objeción que atribuye al poeta. A diferencia de la interrupción del bloque 16, esta protesta llega citada dentro de su propia voz.*  
 > L’homme n’est rien. Ô loi misérable ! ombre ! abîme ! —  
 > *el hombre no es nada. ¡Oh ley miserable! ¡Sombra! ¡Abismo!-.*  
 >
@@ -1076,10 +1148,12 @@ Victor Hugo
 > *Debe estar cegado por todas las polvaredas.*  
 > Sans quoi, comme l’enfant guidé par des lisières,  
 > *Si no, como el niño al que unas correas guían,*  
+> *Glosa: Las correas eran bandas con las que se sostenía y guiaba a un niño al aprender a andar. El ejemplo distingue la conducta tutelada de una elección con riesgo de error.*  
 > L’homme vivrait, marchant droit à la vision.  
 > *el hombre viviría caminando derecho hacia la visión.*  
 > Douter est sa puissance et sa punition.  
 > *Dudar es su poder y su castigo.*  
+> *Glosa: No se trata de un cambio de hablante, sino de un matiz de la doctrina: la duda criticada como negación también hace posible el mérito de una decisión libre.*  
 > Il voit la rose, et nie ; il voit l’aurore, et doute ;  
 > *Ve la rosa y niega; ve la aurora y duda;*  
 > Où serait le mérite à retrouver sa route,  
@@ -1133,6 +1207,7 @@ Victor Hugo
 > *Las constelaciones, sombrías letras de fuego,*  
 > Sont les marques du bagne à l’épaule du monde.  
 > *son las marcas del presidio en el hombro del mundo.*  
+> *Glosa: El cuerpo marcado del presidiario sirve de modelo para imaginar el cosmos. La astronomía queda incorporada a la gran comparación del universo con una cárcel.*  
 > Dans votre région tant d’épouvante abonde,  
 > *En vuestra región abunda tanto espanto*  
 > Que, pour l’homme, marqué lui-même du fer chaud,  
@@ -1141,8 +1216,10 @@ Victor Hugo
 > *cuando alza los ojos hacia los astros, allá arriba,*  
 > Le cancer resplendit, le scorpion flamboie,  
 > *¡el Cangrejo resplandece, el Escorpión llamea,*  
+> *Glosa: Cangrejo y Escorpión son nombres de constelaciones. El pasaje aprovecha sus figuras animales para leer amenazas en el cielo.*  
 > Et dans l’immensité le chien sinistre aboie !  
 > *y en la inmensidad ladra el Perro siniestro!*  
+> *Glosa: El Perro pertenece también al repertorio de las constelaciones. El texto no especifica aquí si se refiere al Can Mayor o al Can Menor.*  
 > Ces soleils inconnus se groupent sur son front  
 > *Esos soles desconocidos se agrupan sobre su frente*  
 > Comme l’effroi, le deuil, la menace et l’affront ;  
@@ -1157,6 +1234,7 @@ Victor Hugo
 > *intercambian entre sí, en la sombra, lo que hacen;*  
 > Typhon donne l’horreur, Satan donne le crime ;  
 > *Tifón da el horror, Satán da el crimen;*  
+> *Glosa: Tifón es un monstruo de la mitología griega vencido por Zeus; Satán pertenece a la tradición bíblica. El poema combina ambas figuras como emblemas del mal.*  
 > Lugubre intimité du mal et de l’abîme !  
 > *¡lúgubre intimidad del mal y del abismo!*  
 > Amours de l’âme monstre et du monstre univers !  
@@ -1199,6 +1277,7 @@ Victor Hugo
 > *¡Por eso, soñador cuyo deseo es la muerte,*  
 > Tant d’angoisse est empreinte au front des cénobites !  
 > *tanta angustia está grabada en la frente de los cenobitas!*  
+> *Glosa: Los cenobitas son religiosos que viven en comunidad. Su angustia se explica aquí por la conciencia del sufrimiento cósmico, no por un episodio particular de su historia.*  
 >
 > Je viens de te montrer le gouffre. Tu l’habites.  
 > *Acabo de mostrarte el abismo. Tú lo habitas.*  
@@ -1226,6 +1305,7 @@ Victor Hugo
 > *Se siente a algunos de ellos estremecerse y temblar.*  
 > De là les songes vains du bronze et de l’augure.  
 > *De ahí los vanos sueños del bronce y del augur.*  
+> *Glosa: El augur es quien interpreta presagios; el bronce remite a prácticas oraculares. El espectro explica la adivinación como percepción incompleta de una naturaleza animada.*  
 >
 > Donc, représente-toi cette sombre figure :  
 > *Así pues, represéntate esta imagen sombría:*  
@@ -1270,6 +1350,7 @@ Victor Hugo
 > *en la flor, ¡y el grito emparedado en la piedra!*  
 > Oh ! qui que vous soyez, pleurez sur ces misères !  
 > *¡Oh vosotros, quienesquiera que seáis, llorad por estas miserias!*  
+> *Glosa: La enseñanza se vuelve exhortación a la piedad. El espectro pide una respuesta humana al sufrimiento sin exigir que el lector comprenda o justifique el castigo.*  
 > Pour Dieu seul, qui sait tout, elles sont nécessaires ;  
 > *Solo para Dios, que todo lo sabe, son necesarias;*  
 > Mais vous pouvez pleurer sur l’énorme cachot  
@@ -1349,8 +1430,10 @@ Victor Hugo
 > *Compadeceos del ave de crimen y de la bestia de presa.*  
 > Ce que Domitien, césar, fit avec joie,  
 > *Lo que Domiciano, césar, hizo con alegría,*  
+> *Glosa: Domiciano fue emperador romano y figura tradicional de la tiranía. El contraste con el tigre separa la crueldad voluntaria del gobernante de la violencia impuesta al animal.*  
 > Tigre, il le continue avec horreur. Verrès,  
 > *como tigre lo continúa con horror. Verres,*  
+> *Glosa: Verres fue el gobernador de Sicilia acusado por Cicerón de saqueo y extorsión. Su nombre da un antecedente humano al lobo de los versos siguientes.*  
 > Qui fut loup sous la pourpre, est loup dans les forêts ;  
 > *que fue lobo bajo la púrpura, es lobo en los bosques;*  
 > Il descend, réveillé, l’autre côté du rêve ;  
@@ -1375,6 +1458,7 @@ Victor Hugo
 > *Tened piedad. Ved almas en las cosas.*  
 > Hélas ! le cabanon subit aussi l’écrou ;  
 > *¡Ay! También el calabozo sufre el encierro;*  
+> *Glosa: El calabozo no es solo el lugar del castigo: también cuenta como materia habitada por un alma. De ahí que la compasión abarque al preso y a los instrumentos que lo retienen.*  
 > Plaignez le prisonnier, mais plaignez le verrou ;  
 > *compadeceos del prisionero, ¡pero también del cerrojo!*  
 >
@@ -1392,6 +1476,7 @@ Victor Hugo
 > *él mella el hacha, y el hacha lo hiende;*  
 > Ils se disent tout bas l’un à l’autre : Assassin !  
 > *se dicen en voz baja el uno al otro: ¡Asesino!*  
+> *Glosa: El hacha y el tajo se acusan mutuamente dentro de una escena que relata el espectro. La ejecución aparece como violencia padecida también por sus instrumentos.*  
 > Et la hache maudit les hommes, sombre essaim,  
 > *Y el hacha maldice a los hombres, enjambre sombrío,*  
 > Quand, le soir, sur le dos du bourreau, son ministre,  
@@ -1406,6 +1491,7 @@ Victor Hugo
 > *el cadáver de cuello rojo, espantoso, helado, pálido,*  
 > Seul, sait ce que lui dit le billot, tronc lui-même.  
 > *solo él sabe qué le dice el tajo, tronco también él.*  
+> *Glosa: "Tronco" permite relacionar la madera del tajo con el cuerpo decapitado. El juego no introduce otra ejecución: enlaza a dos participantes de la misma escena.*  
 > Oh ! que la terre est froide et que les rocs sont durs !  
 > *¡Oh, qué fría es la tierra y qué duras las rocas!*  
 > Quelle muette horreur dans les halliers obscurs !  
@@ -1452,18 +1538,24 @@ Victor Hugo
 > *como un rayo lejano del eterno amor;*  
 > Alors, l’hyène Atrée et le chacal Timour,  
 > *entonces la hiena Atreo y el chacal Timur,*  
+> *Glosa: Atreo es el rey mítico que sirvió a su hermano la carne de sus hijos; Timur es Tamerlán, conquistador de Asia. La pareja une crueldad legendaria e histórica.*  
 > Et l’épine Caïphe et le roseau Pilate,  
 > *y la espina Caifás y la caña Pilato,*  
+> *Glosa: Caifás y Pilato son autoridades implicadas en el proceso de Jesús: el sumo sacerdote y el gobernador romano. Sus nombres representan responsabilidades distintas en el mismo episodio.*  
 > Le volcan Alaric à la gueule écarlate,  
 > *el volcán Alarico de fauces escarlatas,*  
+> *Glosa: Alarico fue el rey visigodo que saqueó Roma en 410. El poema lo incorpora al repertorio tradicional de conquistadores devastadores.*  
 > L’ours Henri huit, pour qui Morus en vain pria,  
 > *el oso Enrique Octavo, por quien Moro rezó en vano,*  
+> *Glosa: Moro es Thomas More, ejecutado bajo Enrique VIII. La plegaria pertenece a la escena imaginada por Hugo: no se presenta como una cita documental del condenado.*  
 > Le sanglier Selim et le porc Borgia,  
 > *el jabalí Selim y el cerdo Borgia,*  
+> *Glosa: Selim remite a los sultanes otomanos; Borgia, al nombre familiar asociado con el poder y la corrupción renacentistas. El verso no precisa un numeral para Selim ni un nombre de pila para Borgia.*  
 > Poussent des cris vers l’Être adorable ; et les bêtes  
 > *lanzan gritos hacia el Ser adorable; y las bestias*  
 > Qui portèrent jadis des mitres sur leurs têtes,  
 > *que antaño llevaron mitras sobre sus cabezas,*  
+> *Glosa: La mitra es una insignia de dignidad episcopal. El catálogo incluye así a autoridades religiosas, no solo a gobernantes seculares.*  
 > Les grains de sable rois, les brins d’herbe empereurs,  
 > *los granos de arena reyes, las briznas de hierba emperadores,*  
 > Tous les hideux orgueils et toutes les fureurs,  
@@ -1474,6 +1566,7 @@ Victor Hugo
 > *el gato lame al pájaro, el pájaro besa a la mosca;*  
 > Le vautour dit dans l’ombre au passereau : Pardon !  
 > *el buitre dice en la sombra al gorrión: ¡Perdón!*  
+> *Glosa: El "perdón" lo pronuncia el buitre, animal de presa, ante un ave vulnerable. Es una voz citada por el espectro dentro de la escena de arrepentimiento general.*  
 > Une caresse sort du houx et du chardon ;  
 > *Una caricia sale del acebo y del cardo;*  
 > Tous les rugissements se fondent en prières ;  
@@ -1499,6 +1592,7 @@ Victor Hugo
 > *¡No hay duelo infinito, ni males incurables,*  
 > Pas d’enfer éternel !  
 > *ni infierno eterno!*  
+> *Glosa: El espectro rechaza expresamente la condenación sin fin. Esta tesis gobierna el desenlace y no debe confundirse con una exposición de la doctrina cristiana tradicional.*  
 > Les douleurs vont à Dieu comme la flèche aux cibles ;  
 > *Los dolores van a Dios como la flecha al blanco;*  
 > Les bonnes actions sont les gonds invisibles  
@@ -1512,6 +1606,7 @@ Victor Hugo
 > *de los monstruos agarrotados cuyo presidio es el abismo;*  
 > Quand, devant Jéhovah,  
 > *cuando, ante Jehová,*  
+> *Glosa: Jehová es una forma del nombre bíblico de Dios. Su aparición no abre un parlamento divino: continúa hablando el espectro.*  
 >
 > Un vivant reste pur dans les ombres charnelles,  
 > *un viviente permanece puro entre las sombras carnales,*  
@@ -1574,6 +1669,7 @@ Victor Hugo
 >
 > Quand, du monstre matière ouvrant toutes les serres,  
 > *cuando, abriendo todas las garras del monstruo materia,*  
+> *Glosa: El sujeto de esta larga oración es Dios, nombrado en el bloque 87. La sucesión de acciones de los bloques 85 y 86 depende de esa construcción, aunque haya separaciones gráficas.*  
 > Faisant évanouir en splendeurs les misères,  
 > *haciendo que las miserias se desvanezcan en esplendores,*  
 > Changeant l’absinthe en miel,  
@@ -1598,6 +1694,7 @@ Victor Hugo
 > *¡hará volver, entre los universos arcángeles,*  
 > L’univers paria !  
 > *al universo paria!*  
+> *Glosa: "Paria" significa excluido o marginado. El universo material es tratado como un desterrado que recupera su lugar entre los mundos espirituales.*  
 >
 > On verra palpiter les fanges éclairées,  
 > *Se verá palpitar los fangos iluminados,*  
@@ -1611,6 +1708,7 @@ Victor Hugo
 > *brillar, y erguirse, llevando espigas de astros,*  
 > La paille du cachot !  
 > *¡la paja del calabozo!*  
+> *Glosa: La paja es el sujeto de "erguirse", y la araña, el de "brillar". El orden de los versos retrasa la identificación de aquello que lleva las espigas de astros.*  
 >
 > La clarté montera dans tout comme une sève ;  
 > *La claridad subirá en todo como una savia;*  
@@ -1624,6 +1722,7 @@ Victor Hugo
 > *y sobre todos los muladares aparecerá en la sombra*  
 > Un Job resplendissant !  
 > *¡un Job resplandeciente!*  
+> *Glosa: Job es el justo bíblico sometido a pérdidas y sufrimientos, finalmente restituido. En este desenlace aporta un ejemplo de sufrimiento que desemboca en restitución.*  
 >
 > Ô disparition de l’antique anathème !  
 > *¡Oh desaparición del antiguo anatema!*  
@@ -1649,6 +1748,7 @@ Victor Hugo
 > *estrellas nacer en los negros huecos de sus cráneos,*  
 > Dieu juste ! et, par degrés devenant diaphanes,  
 > *¡Dios justo!, y, por grados volviéndose diáfanos,*  
+> *Glosa: "Dios justo" es una exclamación del espectro. Dios no empieza a hablar en este verso ni responde a los monstruos con palabras propias.*  
 > Les monstres s’azurer !  
 > *¡los monstruos tornarse azules!*  
 >
@@ -1662,6 +1762,7 @@ Victor Hugo
 > *tendrán en sus garras, en medio de los cielos serenos,*  
 > Des rayons frissonnants semblables à des palmes ;  
 > *rayos estremecidos semejantes a palmas;*  
+> *Glosa: Las palmas pertenecen al lenguaje de la victoria y la celebración religiosa. Su presencia indica que las antiguas fieras entran en ese repertorio de signos sagrados.*  
 > Les gueules baiseront !  
 > *¡las fauces besarán!*  
 >
@@ -1675,21 +1776,26 @@ Victor Hugo
 > *les tenderán los brazos desde la alta morada,*  
 > Et Jésus, se penchant sur Bélial qui pleure,  
 > *y Jesús, inclinándose sobre Belial que llora,*  
+> *Glosa: Belial es una figura demoníaca de la tradición judía y cristiana, asociada a las fuerzas del mal. Su llanto prepara el caso extremo de la reconciliación anunciada.*  
 > Lui dira : C’est donc toi !  
 > *le dirá: ¡Conque eres tú!*  
+> *Glosa: Habla Jesús, citado por el espectro, y se dirige a Belial. La breve frase es de reconocimiento y acogida, no una acusación.*  
 >
 > Et vers Dieu par la main il conduira ce frère ;  
 > *Y hacia Dios llevará de la mano a ese hermano;*  
+> *Glosa: El pronombre se refiere a Jesús, que conduce a Belial. "Hermano" declara la nueva relación entre quienes parecían adversarios irreconciliables.*  
 > Et, quand ils seront près des degrés de lumière  
 > *y, cuando estén cerca de los peldaños de luz*  
 > Par nous seuls aperçus,  
 > *que solo nosotros vemos,*  
+> *Glosa: El "nosotros" vuelve a ser el de los videntes, incluido el espectro. La escena final sigue perteneciendo a su relato anticipado del futuro.*  
 > Tous deux seront si beaux, que Dieu dont l’œil flamboie  
 > *ambos serán tan bellos que Dios, cuyo ojo llamea,*  
 > Ne pourra distinguer, père ébloui de joie,  
 > *no podrá distinguir, padre deslumbrado de alegría,*  
 > Bélial de Jésus !  
 > *¡a Belial de Jesús!*  
+> *Glosa: La incapacidad de distinguirlos corresponde a Dios, pero Dios no habla. El poema lleva hasta Jesús y el demonio su tesis de una restauración universal.*  
 >
 > Tout sera dit. Le mal expirera, les larmes  
 > *Todo estará dicho. El mal expirará, las lágrimas*  
@@ -1699,10 +1805,12 @@ Victor Hugo
 > *el atroz abismo inclemente*  
 > Cessera d’être sourd, et bégaiera : Qu’entends-je ?  
 > *dejará de ser sordo y balbuceará: ¿Qué oigo?*  
+> *Glosa: El abismo recibe una última voz citada dentro de la profecía del espectro. La pregunta muestra que el antiguo espacio de encierro empieza a escuchar.*  
 > Les douleurs finiront dans toute l’ombre ; un ange  
 > *Los dolores acabarán en toda la sombra; un ángel*  
 > Criera : Commencement !  
 > *gritará: ¡Comienzo!*  
+> *Glosa: La última palabra la pronuncia un ángel anunciado por el espectro. El final se presenta como comienzo de otra condición de la creación, no como retorno del relato al dolmen.*  
 
 ---
 
