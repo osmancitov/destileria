@@ -1,8 +1,8 @@
 12 de octubre de 2026
 
-# El libro de arena: trece cuentos
+# El Libro de Arena: trece cuentos
 
-## 1. El otro
+## 1. El Otro
 
 Jorge Luis Borges
 
@@ -89,7 +89,7 @@ La clave que ofrece el manuscrito son las treinta monedas de Judas. La Secta con
 
 ---
 
-## 6. La noche de los dones
+## 6. La Noche de los Dones
 
 En una confitería, una discusión sobre conocer y recordar lleva a un hombre mayor a contar una noche de su adolescencia. Rufino, un peón, lo había llevado a divertirse al pueblo de Lobos. Allí una mujer conocida como la Cautiva relata un malón que sufrió. Mientras el muchacho escucha, los gritos de su historia parecen atravesar la calle y llegar a la sala.
 
@@ -103,7 +103,7 @@ Un hombre trata de descolgarse por la pared. El sargento lo atraviesa con la bay
 
 ---
 
-## 7. El espejo y la máscara
+## 7. El Espejo y la Máscara
 
 Después de la victoria de Clontarf, el Alto Rey de Irlanda pide al poeta una loa que los haga inmortales a ambos. Quiere que las proezas duren en palabras. El poeta, que se llama a sí mismo el Ollan, acepta antes de enumerar todo cuanto sabe de su arte.
 
@@ -131,7 +131,7 @@ Un herrero le da refugio. Ulf compone una alabanza para el rey y escucha en su c
 
 ---
 
-## 9. Utopía de un hombre que está cansado
+## 9. Utopía de un Hombre que Está Cansado
 
 Un caminante busca refugio de la lluvia en una casa de la llanura. Lo recibe un hombre muy alto y ambos consiguen hablar en latín. El anfitrión reconoce que el visitante viene de otro siglo. Este intenta explicarle el mundo que dejó: sus noticias, sus dirigentes, la primacía de las imágenes y de la letra impresa. Dentro de esa explicación recuerda la confianza puesta en la publicidad.
 
@@ -145,7 +145,7 @@ Allí hay cuadros y un arpa. Algunas pinturas usan colores que el visitante no p
 
 ---
 
-## 10. El soborno
+## 10. El Soborno
 
 En una universidad de Texas, Ezra Winthrop debe influir en la elección de un representante para Wisconsin. Eric Einarsson, uno de los candidatos, publica un ataque contra el método que Winthrop enseña. No lo nombra, pero deja reconocible a su destinatario. Winthrop necesita decidir sin convertir aquella crítica en un agravio que deba castigar.
 
@@ -173,7 +173,7 @@ Obligado después a vitorear al presidente, obedece y se marcha entre burlas. El
 
 ---
 
-## 12. El disco
+## 12. El Disco
 
 Un leñador viejo vive al borde de un bosque cuyo otro extremo no conoce. Su hermano ha muerto; la promesa de talarlo todo quedó atrás. Ahora habla desde otra búsqueda, todavía sin explicar qué perdió. La llegada de un desconocido abre esa historia.
 
@@ -187,7 +187,7 @@ Los dedos sienten algo frío y aparece un brillo. El leñador imagina cambiar es
 
 ---
 
-## 13. El libro de arena
+## 13. El Libro de Arena
 
 Un hombre que vive solo en Buenos Aires deja de lado una explicación geométrica del infinito para contar una visita. Un vendedor de biblias le muestra un volumen adquirido en la India. Las páginas tienen números arbitrarios y las imágenes no reaparecen. Cuando el dueño de casa intenta encontrar la primera hoja y la última, siempre se interponen otras. El vendedor responde a su incredulidad.
 
