@@ -20,6 +20,8 @@ El mayor le ofreció contarle el porvenir. Su madre seguía en Buenos Aires; su 
 
 > Nuestra conversación ya había durado demasiado para ser la de un sueño. Una brusca idea se me ocurrió. —Yo te puedo probar inmediatamente —le dije— que no estás soñando conmigo. Oí bien este verso, que no has leído nunca, que yo recuerde. Lentamente entoné la famosa línea: L'hydre — univers tordant son corps écaillé d'astres.
 
+![Óleo de fantasía: una hidra enorme, con el cuerpo escamado de estrellas y galaxias, se enrosca en el cielo nocturno sobre un mar oscuro, mientras una figura diminuta con capa la mira desde una orilla de rocas.](img/cgbabc_arena-puentes_hidra.jpg)
+
 El verso es del poeta francés Victor Hugo y dice, más o menos: la hidra-universo, retorciendo su cuerpo escamado de astros. Es la imagen del universo como un monstruo marino inmenso, cubierto de estrellas como de escamas. La prueba era sencilla: si el muchacho lo estuviera soñando, el verso saldría de su propia cabeza y no lo sorprendería. Lo sorprendió. Lo repitió en voz baja, saboreando cada palabra, y admitió que él nunca escribiría una línea así. Hugo, dice Borges, los había unido. Entonces el mayor recordó otro poeta que el joven había recitado antes, con fervor, en esa misma conversación: Walt Whitman, el gran poeta estadounidense del siglo XIX, que cantó la vida, la amistad y los hombres comunes, y a quien el muchacho admiraba por su fe en lo que decía.
 
 > Antes, él había repetido con fervor, ahora lo recuerdo, aquella breve pieza en que Walt Whitman rememora una compartida noche ante el mar, en que fue realmente feliz. —Si Whitman la ha cantado —observé— es porque la deseaba y no sucedió.
