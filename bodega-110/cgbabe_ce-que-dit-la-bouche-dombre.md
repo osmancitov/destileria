@@ -6,1805 +6,1703 @@
 
 Victor Hugo
 
-«Ce que dit la bouche d’ombre» significa «Lo que dice la boca de sombra». Es el poema de Victor Hugo que cierra el libro VI de Les Contemplations (1856, poema 26): un espectro le habla al poeta y le revela lo que hay en el abismo. Va entero, primero en francés y después en la traducción de Instinct.
-
-## En francés
+«Ce que dit la bouche d’ombre» significa «Lo que dice la boca de sombra». Es el poema de Victor Hugo que cierra el libro VI de Les Contemplations (1856, poema 26): un espectro le habla al poeta y le revela lo que hay en el abismo. Va entero, verso a verso: cada verso en francés lleva debajo su traducción al castellano, de Instinct.
 
 > L’homme en songeant descend au gouffre universel.  
+> *El hombre, al meditar, desciende al abismo universal.*  
 > J’errais près du dolmen qui domine Rozel,  
+> *Yo erraba junto al dolmen que domina Rozel,*  
 > À l’endroit où le cap se prolonge en presqu’île.  
+> *allí donde el cabo se prolonga en península.*  
 > Le spectre m’attendait ; l’être sombre et tranquille  
+> *El espectro me aguardaba; el ser sombrío y sereno*  
 > Me prit par les cheveux dans sa main qui grandit,  
+> *me asió por los cabellos con su mano que crecía,*  
 > M’emporta sur le haut du rocher, et me dit :  
+> *me llevó a lo alto de la roca y me dijo:*  
 >
 > Sache que tout connaît sa loi, son but, sa route ;  
+> *Has de saber que todo conoce su ley, su fin, su senda;*  
 > Que, de l’astre au ciron, l’immensité s’écoute ;  
+> *que, del astro al ácaro, la inmensidad se escucha;*  
 > Que tout a conscience en la création ;  
+> *que todo tiene conciencia en la creación;*  
 > Et l’oreille pourrait avoir sa vision,  
+> *y el oído podría tener también su visión,*  
 > Car les choses et l’être ont un grand dialogue.  
+> *pues las cosas y el ser sostienen un gran diálogo.*  
 > Tout parle, l’air qui passe et l’alcyon qui vogue,  
+> *Todo habla: el aire que pasa, el alción que navega,*  
 > Le brin d’herbe, la fleur, le germe, l’élément.  
+> *la brizna de hierba, la flor, el germen, el elemento.*  
 > T’imaginais-tu donc l’univers autrement ?  
+> *¿Te imaginabas, pues, el universo de otro modo?*  
 > Crois-tu que Dieu, par qui la forme sort du nombre,  
+> *¿Crees que Dios, por quien la forma nace del número,*  
 > Aurait fait à jamais sonner la forêt sombre,  
+> *habría hecho resonar por siempre el bosque oscuro,*  
 > L’orage, le torrent roulant de noirs limons,  
+> *la tormenta, el torrente que arrastra negros limos,*  
 > Le rocher dans les flots, la bête dans les monts,  
+> *la roca entre las olas, la fiera entre los montes,*  
 > La mouche, le buisson, la ronce où croît la mûre,  
+> *la mosca, el matorral, la zarza donde crece la mora,*  
 > Et qu’il n’aurait rien mis dans l’éternel murmure ?  
+> *sin haber puesto nada en el eterno murmullo?*  
 > Crois-tu que l’eau du fleuve et les arbres des bois,  
+> *¿Crees que el agua del río y los árboles del bosque,*  
 > S’ils n’avaient rien à dire, élèveraient la voix ?  
+> *si nada tuvieran que decir, alzarían la voz?*  
 > Prends-tu le vent des mers pour un joueur de flûte ?  
+> *¿Tomas al viento de los mares por un flautista?*  
 > Crois-tu que l’océan, qui se gonfle et qui lutte,  
+> *¿Crees que el océano, que se hincha y que combate,*  
 > Serait content d’ouvrir sa gueule jour et nuit  
+> *se contentaría con abrir sus fauces día y noche*  
 > Pour souffler dans le vide une vapeur de bruit,  
+> *para soplar al vacío un vapor de ruido,*  
 >
 > Et qu’il voudrait rugir, sous l’ouragan qui vole,  
+> *y que querría rugir, bajo el huracán que vuela,*  
 > Si son rugissement n’était une parole ?  
+> *si su rugido no fuese una palabra?*  
 > Crois-tu que le tombeau, d’herbe et de nuit vêtu,  
+> *¿Crees que el sepulcro, de hierba y noche vestido,*  
 > Ne soit rien qu’un silence ? et te figures-tu  
+> *no es más que un silencio? ¿Y acaso te figuras*  
 > Que la création profonde, qui compose  
+> *que la honda creación, que compone*  
 > Sa rumeur des frissons du lys et de la rose,  
+> *su rumor con temblores del lirio y de la rosa,*  
 > De la foudre, des flots, des souffles du ciel bleu,  
+> *del rayo, de las olas, de los soplos del cielo azul,*  
 > Ne sait ce qu’elle dit quand elle parle à Dieu ?  
+> *no sabe lo que dice cuando habla con Dios?*  
 > Crois-tu qu’elle ne soit qu’une langue épaissie ?  
+> *¿Crees que es tan solo una lengua entorpecida?*  
 > Crois-tu que la nature énorme balbutie,  
+> *¿Crees que la naturaleza inmensa balbucea,*  
 > Et que Dieu se serait, dans son immensité,  
+> *y que Dios se habría dado, en su inmensidad,*  
 > Donné pour tout plaisir, pendant l’éternité,  
+> *por único placer, durante la eternidad,*  
 > D’entendre bégayer une sourde-muette ?  
+> *oír tartamudear a una sordomuda?*  
 > Non, l’abîme est un prêtre et l’ombre est un poëte ;  
+> *No, el abismo es un sacerdote y la sombra es un poeta;*  
 > Non, tout est une voix et tout est un parfum ;  
+> *no, todo es una voz y todo es un perfume;*  
 > Tout dit dans l’infini quelque chose à quelqu’un ;  
+> *todo dice en lo infinito algo a alguien;*  
 > Une pensée emplit le tumulte superbe.  
+> *un pensamiento colma el tumulto soberbio.*  
 > Dieu n’a pas fait un bruit sans y mêler le verbe.  
+> *Dios no ha hecho un ruido sin mezclar en él el verbo.*  
 > Tout, comme toi, gémit ou chante comme moi ;  
+> *Todo, como tú, gime, o canta como yo;*  
 > Tout parle. Et maintenant, homme, sais-tu pourquoi  
+> *todo habla. Y ahora, hombre, ¿sabes por qué*  
 > Tout parle ? Écoute bien. C’est que vents, ondes, flammes  
+> *todo habla? Escucha bien. Porque vientos, ondas, llamas,*  
 > Arbres, roseaux, rochers, tout vit !  
+> *árboles, cañas, rocas, ¡todo vive!*  
 >
 > Tout est plein d’âmes.  
+> *Todo está lleno de almas.*  
 >
 > Mais comment ? Oh ! voilà le mystère inouï.  
+> *Pero ¿cómo? ¡Oh, he ahí el misterio inaudito!*  
 > Puisque tu ne t’es pas en route évanoui,  
+> *Ya que no te has desvanecido en el camino,*  
 > Causons.  
+> *conversemos.*  
 >
 > Dieu n’a créé que l’être impondérable.  
+> *Dios solo creó el ser imponderable.*  
 > Il le fit radieux, beau, candide, adorable,  
+> *Lo hizo radiante, hermoso, cándido, adorable,*  
 > Mais imparfait ; sans quoi, sur la même hauteur,  
+> *pero imperfecto; de otro modo, a la misma altura,*  
 > La créature étant égale au créateur,  
+> *siendo la criatura igual al creador,*  
 >
 > Cette perfection, dans l’infini perdue,  
+> *aquella perfección, perdida en lo infinito,*  
 > Se serait avec Dieu mêlée et confondue,  
+> *se habría mezclado y confundido con Dios,*  
 > Et la création, à force de clarté,  
+> *y la creación, a fuerza de claridad,*  
 > En lui serait rentrée et n’aurait pas été.  
+> *habría vuelto a él y no habría sido.*  
 > La création sainte où rêve le prophète,  
+> *La santa creación en que sueña el profeta,*  
 > Pour être, ô profondeur ! devait être imparfaite.  
+> *para ser, ¡oh hondura!, debía ser imperfecta.*  
 >
 > Donc, Dieu fit l’univers, l’univers fit le mal.  
+> *Así, Dios hizo el universo; el universo hizo el mal.*  
 >
 > L’être créé, paré du rayon baptismal,  
+> *El ser creado, ornado con el rayo bautismal,*  
 > En des temps dont nous seuls conservons la mémoire,  
+> *en tiempos cuya memoria solo nosotros guardamos,*  
 > Planait dans la splendeur sur des ailes de gloire ;  
+> *planeaba en el esplendor sobre alas de gloria;*  
 > Tout était chant, encens, flamme, éblouissement ;  
+> *todo era canto, incienso, llama, deslumbramiento;*  
 > L’être errait, aile d’or, dans un rayon charmant,  
+> *el ser erraba, ala de oro, en un rayo hechicero,*  
 > Et de tous les parfums tour à tour était l’hôte ;  
+> *y de todos los perfumes era huésped por turno;*  
 > Tout nageait, tout volait.  
+> *todo nadaba, todo volaba.*  
 >
 > Or, la première faute  
+> *Ahora bien, la primera culpa*  
 > Fut le premier poids.  
+> *fue el primer peso.*  
 >
 > Dieu sentit une douleur.  
+> *Dios sintió un dolor.*  
 > Le poids prit une forme, et, comme l’oiseleur  
+> *El peso tomó forma y, como el pajarero*  
 > Fuit emportant l’oiseau qui frissonne et qui lutte,  
+> *huye llevando al ave que tiembla y se debate,*  
 > Il tomba, traînant l’ange éperdu dans sa chute.  
+> *cayó, arrastrando al ángel, aterrado, en su caída.*  
 > Le mal était fait. Puis, tout alla s’aggravant ;  
+> *El mal estaba hecho. Luego todo fue agravándose;*  
 > Et l’éther devint l’air, et l’air devint le vent ;  
+> *y el éter se hizo aire, y el aire se hizo viento;*  
 > L’ange devint l’esprit, et l’esprit devint l’homme.  
+> *el ángel se hizo espíritu, y el espíritu, hombre.*  
 > L’âme tomba, des maux multipliant la somme,  
+> *El alma cayó, multiplicando la suma de los males,*  
 > Dans la brute, dans l’arbre, et même, au-dessous d’eux,  
+> *en el bruto, en el árbol, y aun, por debajo de ellos,*  
 > Dans le caillou pensif, cet aveugle hideux.  
+> *en el guijarro pensativo, ese ciego espantoso.*  
 > Êtres vils qu’à regret les anges énumèrent !  
+> *¡Seres viles que los ángeles enumeran con pesar!*  
 > Et de tous ces amas des globes se formèrent,  
+> *Y de todos aquellos cúmulos se formaron los globos,*  
 > Et derrière ces blocs naquit la sombre nuit.  
+> *y tras aquellos bloques nació la noche oscura.*  
 > Le mal, c’est la matière. Arbre noir, fatal fruit.  
+> *El mal es la materia. Árbol negro, fruto fatal.*  
 >
 > Ne réfléchis-tu pas lorsque tu vois ton ombre ?  
+> *¿No reflexionas cuando miras tu sombra?*  
 > Cette forme de toi, rampante, horrible, sombre,  
+> *Esa forma de ti, rastrera, horrible, oscura,*  
 > Qui liée à tes pas comme un spectre vivant,  
+> *que, atada a tus pasos como un espectro vivo,*  
 > Va tantôt en arrière et tantôt en avant,  
+> *va unas veces detrás y otras delante,*  
 > Qui se mêle à la nuit, sa grande sœur funeste,  
+> *que se mezcla a la noche, su gran hermana funesta,*  
 > Et qui contre le jour, noire et dure, proteste,  
+> *y que contra el día, negra y dura, protesta,*  
 > D’où vient-elle ? De toi, de ta chair, du limon  
+> *¿de dónde viene? De ti, de tu carne, del limo*  
 > Dont l’esprit se revêt en devenant démon ;  
+> *que reviste al espíritu al volverse demonio;*  
 > De ce corps qui, créé par ta faute première,  
+> *de ese cuerpo que, creado por tu primera culpa,*  
 > Ayant rejeté Dieu, résiste à la lumière ;  
+> *tras rechazar a Dios, resiste a la luz;*  
 > De ta matière, hélas ! de ton iniquité.  
+> *de tu materia, ¡ay!, de tu iniquidad.*  
 > Cette ombre dit : — Je suis l’être d’infirmité ;  
+> *Esa sombra dice: -Yo soy el ser de flaqueza;*  
 > Je suis tombé déjà ; je puis tomber encore. —  
+> *ya he caído; puedo caer aún-.*  
 > L’ange laisse passer à travers lui l’aurore ;  
+> *El ángel deja que la aurora pase a través de él;*  
 > Nul simulacre obscur ne suit l’être aromal ;  
+> *ningún oscuro simulacro sigue al ser aromal;*  
 > Homme, tout ce qui fait de l’ombre a fait le mal.  
+> *hombre, todo lo que da sombra ha hecho el mal.*  
 >
 > Maintenant, c’est ici le rocher fatidique,  
+> *Ahora, esta es la roca fatídica,*  
 > Et je vais t’expliquer tout ce que je t’indique ;  
+> *y voy a explicarte cuanto te señalo;*  
 > Je vais t’emplir les yeux de nuit et de lueurs.  
+> *voy a llenarte los ojos de noche y de fulgores.*  
 > Prépare-toi, front triste, aux funèbres sueurs.  
+> *Prepárate, frente triste, para sudores fúnebres.*  
 > Le vent d’en haut sur moi passe, et, ce qu’il m’arrache,  
+> *El viento de lo alto pasa sobre mí, y lo que me arranca*  
 > Je te le jette ; prends, et vois.  
+> *te lo arrojo; toma y mira.*  
 >
 > Et, d’abord, sache  
+> *Y, ante todo, has de saber*  
 > Que le monde où tu vis est un monde effrayant  
+> *que el mundo donde vives es un mundo espantoso*  
 > Devant qui le songeur, sous l’infini ployant,  
+> *ante el cual el soñador, vencido por lo infinito,*  
 > Lève les bras au ciel et recule terrible.  
+> *alza los brazos al cielo y retrocede, terrible.*  
 > Ton soleil est lugubre et ta terre est horrible.  
+> *Tu sol es lúgubre y tu tierra es horrible.*  
 > Vous habitez le seuil du monde châtiment.  
+> *Habitáis el umbral del mundo del castigo.*  
 > Mais vous n’êtes pas hors de Dieu complétement ;  
+> *Pero no estáis enteramente fuera de Dios;*  
 >
 > Dieu, soleil dans l’azur, dans la cendre étincelle,  
+> *Dios, sol en el azul, chispa entre la ceniza,*  
 > N’est hors de rien, étant la fin universelle ;  
+> *no está fuera de nada, pues es el fin de todo;*  
 > L’éclair est son regard, autant que le rayon ;  
+> *el relámpago es su mirada, tanto como el rayo de luz;*  
 > Et tout, même le mal, est la création,  
+> *y todo, hasta el mal, es la creación,*  
 > Car le dedans du masque est encor la figure.  
+> *pues el reverso de la máscara sigue siendo el rostro.*  
 >
 > — Ô sombre aile invisible à l’immense envergure !  
+> *-¡Oh ala oscura, invisible, de inmensa envergadura!*  
 > Esprit ! esprit ! esprit ! m’écriai-je éperdu.  
+> *¡Espíritu! ¡Espíritu! ¡Espíritu! -exclamé, aterrado.*  
 > Le spectre poursuivit sans m’avoir entendu :  
+> *El espectro prosiguió sin haberme escuchado:*  
 >
 > Faisons un pas de plus dans ces choses profondes.  
+> *Demos un paso más en estas cosas hondas.*  
 >
 > Homme, tu veux, tu fais, tu construis et tu fondes,  
+> *Hombre, tú quieres, haces, construyes y fundas,*  
 > Et tu dis : — Je suis seul, car je suis le penseur.  
+> *y dices: -Estoy solo, pues soy el pensador.*  
 > L’univers n’a que moi dans sa morne épaisseur.  
+> *El universo solo me tiene a mí en su espesor sombrío.*  
 > En deçà, c’est la nuit ; au-delà, c’est le rêve.  
+> *Más acá está la noche; más allá está el sueño.*  
 > L’idéal est un œil que la science crève.  
+> *El ideal es un ojo que la ciencia revienta.*  
 > C’est moi qui suis la fin et qui suis le sommet. —  
+> *Yo soy el fin y soy la cumbre-.*  
 > Voyons ; observes-tu le bœuf qui se soumet ?  
+> *Veamos: ¿observas al buey que se somete?*  
 > Écoutes-tu le bruit de ton pas sur les marbres ?  
+> *¿Escuchas el sonido de tu paso en los mármoles?*  
 > Interroges-tu l’onde ? et, quand tu vois des arbres,  
+> *¿Interrogas al agua? Y cuando miras árboles,*  
 > Parles-tu quelquefois à ces religieux ?  
+> *¿hablas alguna vez a esos religiosos?*  
 > Comme sur le versant d’un mont prodigieux,  
+> *Como en la ladera de un monte prodigioso,*  
 > Vaste mêlée aux bruits confus, du fond de l’ombre,  
+> *vasta refriega de rumores confusos, del fondo de la sombra,*  
 > Tu vois monter à toi la création sombre.  
+> *ves subir hacia ti la creación oscura.*  
 > Le rocher est plus loin, l’animal est plus près.  
+> *La roca está más lejos; el animal, más cerca.*  
 > Comme le faîte altier et vivant, tu parais !  
+> *¡Pareces la cima altiva y viviente!*  
 > Mais, dis, crois-tu que l’être illogique nous trompe ?  
+> *Pero di: ¿crees que el ser, ilógico, nos engaña?*  
 > L’échelle que tu vois, crois-tu qu’elle se rompe ?  
+> *La escala que ves, ¿crees que se interrumpe?*  
 > Crois-tu, toi dont les sens d’en haut sont éclairés,  
+> *¿Crees, tú, cuyos sentidos reciben luz de arriba,*  
 > Que la création qui, lente et par degrés,  
+> *que la creación que, lenta y por grados,*  
 > S’élève à la lumière, et, dans sa marche entière,  
+> *se eleva hacia la luz y, en todo su camino,*  
 > Fait de plus de clarté luire moins de matière  
+> *con más claridad hace brillar menos materia*  
 >
 > Et mêle plus d’instincts au monstre décroissant,  
+> *y mezcla más instintos al monstruo que mengua,*  
 > Crois-tu que cette vie énorme, remplissant  
+> *crees que esa vida enorme, que llena*  
 > De souffles le feuillage et de lueurs la tête,  
+> *de alientos el follaje y de fulgores la cabeza,*  
 > Qui va du roc à l’arbre et de l’arbre à la bête,  
+> *que va de la roca al árbol y del árbol a la fiera,*  
 > Et de la pierre à toi monte insensiblement,  
+> *y desde la piedra hasta ti sube insensiblemente,*  
 > S’arrête sur l’abîme à l’homme, escarpement ?  
+> *se detiene sobre el abismo en el hombre, escarpadura?*  
 > Non, elle continue, invincible, admirable,  
+> *No, prosigue, invencible, admirable,*  
 > Entre dans l’invisible et dans l’impondérable,  
+> *entra en lo invisible y en lo imponderable,*  
 > Y disparaît pour toi, chair vile, emplit l’azur  
+> *allí desaparece para ti, carne vil, llena el azul*  
 > D’un monde éblouissant, miroir du monde obscur,  
+> *de un mundo deslumbrante, espejo del mundo oscuro,*  
 > D’êtres voisins de l’homme et d’autres qui s’éloignent,  
+> *de seres vecinos del hombre y de otros que se alejan,*  
 > D’esprits purs, de voyants dont les splendeurs témoignent,  
+> *de espíritus puros, de videntes cuyas glorias dan testimonio,*  
 > D’anges faits de rayons comme l’homme d’instincts ;  
+> *de ángeles hechos de rayos, como el hombre de instintos;*  
 > Elle plonge à travers les cieux jamais atteints,  
+> *se interna a través de cielos jamás alcanzados,*  
 > Sublime ascension d’échelles étoilées,  
+> *sublime ascensión de escalas estrelladas,*  
 > Des démons enchaînés monte aux âmes ailées,  
+> *de los demonios encadenados sube a las almas aladas,*  
 > Fait toucher le front sombre au radieux orteil,  
+> *une la frente oscura al dedo radiante del pie,*  
 > Rattache l’astre esprit à l’archange soleil,  
+> *enlaza el astro espíritu con el arcángel sol,*  
 > Relie, en traversant des millions de lieues,  
+> *une, atravesando millones de leguas,*  
 > Les groupes constellés et les légions bleues,  
+> *los grupos constelados y las legiones azules,*  
 > Peuple le haut, le bas, les bords et le milieu,  
+> *puebla lo alto, lo bajo, los bordes y el centro,*  
 > Et dans les profondeurs s’évanouit en Dieu !  
+> *¡y en las profundidades se desvanece en Dios!*  
 >
 > Cette échelle apparaît vaguement dans la vie  
+> *Esa escala aparece vagamente en la vida*  
 > Et dans la mort. Toujours les justes l’ont gravie :  
+> *y en la muerte. Siempre la han subido los justos:*  
 > Jacob en la voyant, et Caton sans la voir.  
+> *Jacob al verla, y Catón sin verla.*  
 > Ses échelons sont deuil, sagesse, exil, devoir.  
+> *Sus peldaños son duelo, sabiduría, exilio, deber.*  
 >
 > Et cette échelle vient de plus loin que la terre.  
+> *Y esa escala viene de más lejos que la tierra.*  
 > Sache qu’elle commence aux mondes du mystère,  
+> *Has de saber que empieza en los mundos del misterio,*  
 > Aux mondes des terreurs et des perditions ;  
+> *en los mundos de los terrores y las perdiciones;*  
 > Et qu’elle vient, parmi les pâles visions,  
+> *y que viene, entre pálidas visiones,*  
 > Du précipice où sont les larves et les crimes,  
+> *del precipicio donde están los espectros y los crímenes,*  
 > Où la création, effrayant les abîmes,  
+> *donde la creación, espantando a los abismos,*  
 > Se prolonge dans l’ombre en spectre indéfini.  
+> *se prolonga en la sombra como espectro indefinido.*  
 > Car, au-dessous du globe où vit l’homme banni,  
+> *Pues, bajo el globo donde vive el hombre desterrado,*  
 >
 > Hommes, plus bas que vous, dans le nadir livide,  
+> *hombres, más abajo que vosotros, en el nadir lívido,*  
 > Dans cette plénitude horrible qu’on croit vide,  
+> *en esa plenitud horrible que se cree vacía,*  
 > Le mal, qui par la chair, hélas ! vous asservit,  
+> *¡el mal, que por la carne, ay, os esclaviza,*  
 > Dégorge une vapeur monstrueuse qui vit !  
+> *vomita un vapor monstruoso que vive!*  
 > Là sombre et s’engloutit, dans des flots de désastres,  
+> *Allí, sombría, se hunde en oleadas de desastres*  
 > L’hydre Univers tordant son corps écaillé d’astres ;  
+> *la hidra Universo, torciendo su cuerpo escamado de astros;*  
 > Là, tout flotte et s’en va dans un naufrage obscur ;  
+> *allí todo flota y se va en un naufragio oscuro;*  
 > Dans ce gouffre sans bord, sans soupirail, sans mur,  
+> *en ese abismo sin borde, sin respiradero, sin muro,*  
 > De tout ce qui vécut pleut sans cesse la cendre ;  
+> *llueve sin cesar la ceniza de todo lo que vivió;*  
 > Et l’on voit tout au fond, quand l’œil ose y descendre,  
+> *y se ve en el fondo, cuando el ojo se atreve a bajar,*  
 > Au delà de la vie, et du souffle et du bruit,  
+> *más allá de la vida, y del aliento y del ruido,*  
 > Un affreux soleil noir d’où rayonne la nuit !  
+> *un espantoso sol negro del que irradia la noche.*  
 >
 > Donc, la matière pend à l’idéal, et tire  
+> *Así, la materia pende del ideal y arrastra*  
 > L’esprit vers l’animal, l’ange vers le satyre,  
+> *al espíritu hacia el animal, al ángel hacia el sátiro,*  
 > Le sommet vers le bas, l’amour vers l’appétit.  
+> *a la cumbre hacia lo bajo, al amor hacia el apetito.*  
 > Avec le grand qui croule elle fait le petit.  
+> *Con lo grande que se derrumba hace lo pequeño.*  
 >
 > Comment de tant d’azur tant de terreur s’engendre,  
+> *Cómo de tanto azul se engendra tanto espanto,*  
 > Comment le jour fait l’ombre et le feu pur la cendre,  
+> *cómo el día hace sombra y el fuego puro, ceniza,*  
 > Comment la cécité peut naître du voyant,  
+> *cómo del vidente puede nacer la ceguera,*  
 > Comment le ténébreux descend du flamboyant,  
+> *cómo lo tenebroso desciende de lo llameante,*  
 > Comment du monstre esprit naît le monstre matière,  
+> *cómo del monstruo espíritu nace el monstruo materia,*  
 > Un jour, dans le tombeau, sinistre vestiaire,  
+> *un día, en el sepulcro, siniestro vestuario,*  
 > Tu le sauras ; la tombe est faite pour savoir ;  
+> *lo sabrás; la tumba está hecha para saber;*  
 > Tu verras ; aujourd’hui tu ne peux qu’entrevoir ;  
+> *verás; hoy solo puedes entrever;*  
 > Mais, puisque Dieu permet que ma voix t’avertisse,  
+> *pero, ya que Dios permite que mi voz te advierta,*  
 > Je te parle.  
+> *te hablo.*  
 >
 > Et, d’abord, qu’est-ce que la justice ?  
+> *Y, ante todo, ¿qué es la justicia?*  
 > Qui la rend ? qui la fait ? où ? quand ? à quel moment ?  
+> *¿Quién la imparte? ¿Quién la hace? ¿Dónde? ¿Cuándo? ¿En qué momento?*  
 > Qui donc pèse la faute ? et qui le châtiment ?  
+> *¿Quién, pues, pesa la culpa? ¿Y quién el castigo?*  
 >
 > L’être créé se meut dans la lumière immense.  
+> *El ser creado se mueve en la inmensa luz.*  
 >
 > Libre, il sait où le bien cesse, où le mal commence ;  
+> *Libre, sabe dónde acaba el bien, dónde comienza el mal;*  
 > Il a ses actions pour juges.  
+> *tiene por jueces sus acciones.*  
 >
 > Il suffit  
+> *Basta*  
 > Qu’il soit méchant ou bon ; tout est dit. Ce qu’on fit,  
+> *con que sea malo o bueno; todo está dicho. Lo que se hizo,*  
 > Crime, est notre geôlier, ou, vertu, nous délivre.  
+> *si crimen, es nuestro carcelero; si virtud, nos libera.*  
 > L’être ouvre à son insu de lui-même le livre ;  
+> *El ser abre, sin saberlo, el libro de sí mismo;*  
 > Sa conscience calme y marque avec le doigt  
+> *su conciencia serena señala en él con el dedo*  
 > Ce que l’ombre lui garde ou ce que Dieu lui doit.  
+> *lo que la sombra le reserva o lo que Dios le debe.*  
 > On agit, et l’on gagne ou l’on perd à mesure ;  
+> *Se obra, y se gana o se pierde a cada paso;*  
 > On peut être étincelle ou bien éclaboussure ;  
+> *se puede ser chispa o salpicadura;*  
 > Lumière ou fange, archange au vol d’aigle ou bandit ;  
+> *luz o fango, arcángel con vuelo de águila o bandido;*  
 > L’échelle vaste est là. Comme je te l’ai dit,  
+> *la vasta escala está ahí. Como te he dicho,*  
 > Par des zones sans fin la vie universelle  
+> *por zonas sin fin la vida universal*  
 > Monte, et par des degrés innombrables ruisselle,  
+> *sube, y por innumerables grados se derrama,*  
 > Depuis l’infâme nuit jusqu’au charmant azur.  
+> *desde la noche infame hasta el azul hechicero.*  
 > L’être en la traversant devient mauvais ou pur.  
+> *El ser, al atravesarla, se vuelve malo o puro.*  
 > En haut plane la joie ; en bas l’horreur se traîne.  
+> *Arriba planea la alegría; abajo se arrastra el horror.*  
 > Selon que l’âme, aimante, humble, bonne, sereine,  
+> *Según que el alma, amante, humilde, buena, serena,*  
 > Aspire à la lumière et tend vers l’idéal,  
+> *aspire a la luz y tienda hacia el ideal,*  
 > Ou s’alourdit, immonde, au poids croissant du mal,  
+> *o se haga pesada, inmunda, bajo el peso creciente del mal,*  
 > Dans la vie infinie on monte et l’on s’élance,  
+> *en la vida infinita se sube y se toma vuelo,*  
 > Ou l’on tombe ; et tout être est sa propre balance.  
+> *o se cae; y cada ser es su propia balanza.*  
 >
 > Dieu ne nous juge point. Vivant tous à la fois,  
+> *Dios no nos juzga. Vivos todos a un tiempo,*  
 > Nous pesons, et chacun descend selon son poids.  
+> *pesamos, y cada cual desciende según su peso.*  
 >
 > Hommes ! nous n’approchons que les paupières closes  
+> *¡Hombres! Solo con los párpados cerrados nos acercamos*  
 > De ces immensités d’en bas.  
+> *a esas inmensidades de abajo.*  
 >
 > Viens, si tu l’oses !  
+> *¡Ven, si te atreves!*  
 > Regarde dans ce puits morne et vertigineux,  
+> *Mira en este pozo sombrío y vertiginoso,*  
 > De la création compte les sombres nœuds,  
+> *cuenta los oscuros nudos de la creación,*  
 > Viens, vois, sonde :  
+> *ven, mira, sondea:*  
 >
 > Au-dessous de l’homme qui contemple,  
+> *Por debajo del hombre que contempla,*  
 > Qui peut être un cloaque ou qui peut être un temple,  
+> *que puede ser una cloaca o puede ser un templo,*  
 > Être en qui l’instinct vit dans la raison dissous,  
+> *ser en quien el instinto vive disuelto en la razón,*  
 > Est l’animal courbé vers la terre ; au-dessous  
+> *está el animal inclinado hacia la tierra; por debajo*  
 > De la brute est la plante inerte, sans paupière  
+> *del bruto está la planta inerte, sin párpado*  
 > Et sans cris ; au-dessous de la plante est la pierre ;  
+> *y sin gritos; debajo de la planta está la piedra;*  
 > Au-dessous de la pierre est le chaos sans nom.  
+> *debajo de la piedra está el caos sin nombre.*  
 >
 > Avançons dans cette ombre et sois mon compagnon.  
+> *Avancemos en esta sombra y sé mi compañero.*  
 >
 > Toute faute qu’on fait est un cachot qu’on s’ouvre.  
+> *Cada culpa que uno comete es un calabozo que se abre.*  
 > Les mauvais, ignorant quel mystère les couvre,  
+> *Los malvados, ignorantes del misterio que los cubre,*  
 > Les êtres de fureur, de sang, de trahison,  
+> *los seres de furia, de sangre, de traición,*  
 > Avec leurs actions bâtissent leur prison ;  
+> *con sus acciones construyen su prisión;*  
 > Tout bandit, quand la mort vient lui toucher l’épaule  
+> *todo bandido, cuando la muerte viene a tocarle el hombro*  
 > Et l’éveille, hagard, se retrouve en la geôle  
+> *y lo despierta, se encuentra, demudado, en la cárcel*  
 > Que lui fit son forfait derrière lui rampant ;  
+> *que le hizo su delito, reptando tras él;*  
 > Tibère en un rocher, Séjan dans un serpent.  
+> *Tiberio en una roca, Sejano en una serpiente.*  
 >
 > L’homme marche sans voir ce qu’il fait dans l’abîme.  
+> *El hombre anda sin ver lo que hace en el abismo.*  
 > L’assassin pâlirait s’il voyait sa victime ;  
+> *El asesino palidecería si viese a su víctima;*  
 > C’est lui. L’oppresseur vil, le tyran, sombre fou,  
+> *es él mismo. El vil opresor, el tirano, loco sombrío,*  
 > En frappant sans pitié sur tous, forge le clou  
+> *golpeando a todos sin piedad, forja el clavo*  
 > Qui le clouera dans l’ombre au fond de la matière.  
+> *que lo clavará en la sombra, en el fondo de la materia.*  
 >
 > Les tombeaux sont les trous du crible cimetière,  
+> *Las tumbas son los agujeros de la criba cementerio,*  
 > D’où tombe, graine obscure en un ténébreux champ,  
+> *por donde cae, semilla oscura en un campo tenebroso,*  
 > L’effrayant tourbillon des âmes.  
+> *el espantoso torbellino de las almas.*  
 >
 > Tout méchant  
+> *Todo malvado*  
 > Fait naître en expirant le monstre de sa vie,  
+> *hace nacer al expirar el monstruo de su vida,*  
 > Qui le saisit. L’horreur par l’horreur est suivie.  
+> *que se apodera de él. Al horror le sucede el horror.*  
 > Nemrod gronde enfermé dans la montagne à pic ;  
+> *Nemrod gruñe encerrado en la montaña escarpada;*  
 > Quand Dalila descend dans la tombe, un aspic  
+> *cuando Dalila desciende a la tumba, un áspid*  
 > Sort des plis du linceul, emportant l’âme fausse ;  
+> *sale de los pliegues del sudario llevándose el alma falsa;*  
 > Phryné meurt, un crapaud saute hors de la fosse ;  
+> *Friné muere, un sapo salta fuera de la fosa;*  
 > Ce scorpion au fond d’une pierre dormant,  
+> *ese escorpión que duerme en el fondo de una piedra*  
 > C’est Clytemnestre aux bras d’Égisthe son amant ;  
+> *es Clitemnestra en brazos de Egisto, su amante;*  
 > Du tombeau d’Anitus il sort une ciguë ;  
+> *del sepulcro de Ánito sale una cicuta;*  
 > Le houx sombre et l’ortie à la piqûre aiguë  
+> *el acebo oscuro y la ortiga de agudo aguijón*  
 > Pleurent quand l’aquilon les fouette, et l’aquilon  
+> *lloran cuando el aquilón los azota, y el aquilón*  
 > Leur dit : Tais-toi, Zoïle ! et souffre, Ganelon !  
+> *les dice: ¡Calla, Zoilo! ¡Y sufre, Ganelón!*  
 > Dieu livre, choc affreux dont la plaine au loin gronde,  
+> *Dios entrega, choque atroz que hace retumbar la llanura,*  
 > Au cheval Brunehaut le pavé Frédégonde ;  
+> *al caballo Brunegilda el adoquín Fredegunda;*  
 > La pince qui rougit dans le brasier hideux  
+> *la tenaza que enrojece en el brasero espantoso*  
 > Est faite du duc d’Albe et de Philippe deux ;  
+> *está hecha del duque de Alba y de Felipe Segundo;*  
 > Farinace est le croc des noires boucheries ;  
+> *Farinacio es el gancho de las negras carnicerías;*  
 > L’orfraie au fond de l’ombre a les yeux de Jeffryes ;  
+> *el águila marina, al fondo de la sombra, tiene los ojos de Jeffreys;*  
 > Tristan est au secret dans le bois d’un gibet.  
+> *Tristán está incomunicado en la madera de una horca.*  
 > Quand tombent dans la mort tous ces brigands, Macbeth,  
+> *Cuando caen en la muerte todos esos bandidos, Macbeth,*  
 > Ezzelin, Richard trois, Carrier, Ludovic Sforce,  
+> *Ezzelino, Ricardo Tercero, Carrier, Ludovico Sforza,*  
 > La matière leur met la chemise de force.  
+> *la materia les pone la camisa de fuerza.*  
 > Oh ! comme en son bonheur, qui masque un sombre arrêt,  
+> *¡Oh, cómo en su dicha, que oculta una sentencia oscura,*  
 > Messaline ou l’horrible Isabeau frémirait,  
+> *temblaría Mesalina o la horrible Isabel,*  
 > Si, dans ses actions du sépulcre voisines,  
+> *si, en sus acciones próximas al sepulcro,*  
 > Cette femme sentait qu’il lui vient des racines,  
+> *sintiese esa mujer que le brotan raíces,*  
 > Et qu’ayant été monstre, elle deviendra fleur !  
+> *y que, habiendo sido monstruo, se convertirá en flor!*  
 > À chacun son forfait ! à chacun sa douleur !  
+> *¡A cada cual su crimen! ¡A cada cual su dolor!*  
 > Claude est l’algue que l’eau traîne de havre en havre ;  
+> *Claudio es el alga que el agua arrastra de puerto en puerto;*  
 > Xercès est excrément, Charles neuf est cadavre ;  
+> *Jerjes es excremento; Carlos Noveno es cadáver;*  
 > Hérode, c’est l’osier des berceaux vagissants ;  
+> *Herodes es el mimbre de las cunas que lloran;*  
 > L’âme du noir Judas, depuis dix-huit cents ans,  
+> *el alma del negro Judas, desde hace mil ochocientos años,*  
 >
 > Se disperse et renaît dans les crachats des hommes ;  
+> *se dispersa y renace en los escupitajos de los hombres;*  
 > Et le vent qui jadis soufflait sur les Sodomes  
+> *y el viento que antaño soplaba sobre las Sodomas*  
 > Mêle, dans l’âtre abject et sous le vil chaudron,  
+> *mezcla, en el hogar abyecto y bajo el vil caldero,*  
 > La fumée Érostrate à la flamme Néron.  
+> *el humo Eróstrato con la llama Nerón.*  
 >
 > Et tout, bête, arbre et roche, étant vivant sur terre,  
+> *Y todo, bestia, árbol y roca, estando vivo en la tierra,*  
 > Tout est monstre, excepté l’homme, esprit solitaire.  
+> *todo es monstruo, salvo el hombre, espíritu solitario.*  
 >
 > L’âme que sa noirceur chasse du firmament  
+> *El alma que su negrura expulsa del firmamento*  
 > Descend dans les degrés divers du châtiment  
+> *desciende por los diversos grados del castigo*  
 > Selon que plus ou moins d’obscurité la gagne.  
+> *según la gane más o menos oscuridad.*  
 > L’homme en est la prison, la bête en est le bagne,  
+> *El hombre es su prisión; la bestia, su presidio;*  
 > L’arbre en est le cachot, la pierre en est l’enfer.  
+> *el árbol, su calabozo; la piedra, su infierno.*  
 > Le ciel d’en haut, le seul qui soit splendide et clair,  
+> *El cielo de lo alto, el único espléndido y claro,*  
 > La suit des yeux dans l’ombre, et, lui jetant l’aurore,  
+> *la sigue con los ojos en la sombra y, arrojándole la aurora,*  
 > Tâche, en la regardant, de l’attirer encore.  
+> *trata, al mirarla, de atraerla todavía.*  
 > Ô chute ! dans la bête, à travers les barreaux  
+> *¡Oh caída! En la bestia, a través de los barrotes*  
 > De l’instinct obstruant de pâles soupiraux,  
+> *del instinto que obstruye pálidos respiraderos,*  
 > Ayant encor la voix, l’essor et la prunelle,  
+> *conservando aún la voz, el vuelo y la pupila,*  
 > L’âme entrevoit de loin la lueur éternelle ;  
+> *el alma entrevé a lo lejos el fulgor eterno;*  
 > Dans l’arbre elle frissonne, et, sans jour et sans yeux,  
+> *en el árbol se estremece y, sin día y sin ojos,*  
 > Sent encor dans le vent quelque chose des cieux ;  
+> *siente aún en el viento algo de los cielos;*  
 > Dans la pierre elle rampe, immobile, muette,  
+> *en la piedra repta, inmóvil, muda,*  
 > Ne voyant même plus l’obscure silhouette  
+> *sin ver ya siquiera la oscura silueta*  
 > Du monde qui s’éclipse et qui s’évanouit,  
+> *del mundo que se eclipsa y se desvanece,*  
 > Et face à face avec son crime dans la nuit.  
+> *y frente a frente con su crimen en la noche.*  
 > L’âme en ces trois cachots traîne sa faute noire.  
+> *El alma arrastra en esos tres calabozos su culpa negra.*  
 > Comme elle en a la forme, elle en a la mémoire ;  
+> *Como tiene su forma, tiene también su memoria;*  
 > Elle sait ce qu’elle est ; et, tombant sans appuis,  
+> *sabe lo que es; y, cayendo sin asideros,*  
 > Voit la clarté décroître à la paroi du puits ;  
+> *ve menguar la claridad en la pared del pozo;*  
 > Elle assiste à sa chute, et, dur caillou qui roule,  
+> *asiste a su caída y, duro guijarro que rueda,*  
 > Pense : Je suis Octave ; et, vil chardon qu’on foule,  
+> *piensa: Soy Octavio; y, vil cardo pisoteado,*  
 > Crie au talon : Je suis Attila le géant ;  
+> *grita al talón: Soy Atila el gigante;*  
 > Et, ver de terre au fond du charnier, et rongeant  
+> *y, lombriz al fondo de la fosa común, royendo*  
 >
 > Un crâne infect et noir, dit : Je suis Cléopâtre.  
+> *un cráneo infecto y negro, dice: Soy Cleopatra.*  
 > Et, hibou, malgré l’aube, ours, en bravant le pâtre,  
+> *Y, búho a pesar del alba, oso que desafía al pastor,*  
 > Elle accomplit la loi qui l’enchaîne d’en haut ;  
+> *cumple la ley que desde lo alto la encadena;*  
 > Pierre, elle écrase ; épine, elle pique ; il le faut.  
+> *piedra, aplasta; espina, hiere; así ha de ser.*  
 > Le monstre est enfermé dans son horreur vivante.  
+> *El monstruo está encerrado en su horror viviente.*  
 > Il aurait beau vouloir dépouiller l’épouvante ;  
+> *En vano querría despojarse del espanto;*  
 > Il faut qu’il reste horrible et reste châtié ;  
+> *ha de seguir siendo horrible y seguir castigado;*  
 > Ô mystère ! le tigre a peut-être pitié !  
+> *¡oh misterio! ¡Quizá el tigre tenga piedad!*  
 > Le tigre sur son dos, qui peut-être eut une aile,  
+> *El tigre, en su lomo, que acaso tuvo un ala,*  
 > À l’ombre des barreaux de la cage éternelle ;  
+> *lleva la sombra de los barrotes de la jaula eterna;*  
 > Un invisible fil lie aux noirs échafauds  
+> *un hilo invisible ata a los negros cadalsos*  
 > Le noir corbeau dont l’aile est en forme de faulx ;  
+> *al negro cuervo cuya ala tiene forma de guadaña;*  
 > L’âme louve ne peut s’empêcher d’être louve.  
+> *el alma loba no puede dejar de ser loba.*  
 > Car le monstre est tenu, sous le ciel qui l’éprouve,  
+> *Pues al monstruo, bajo el cielo que lo prueba,*  
 > Dans l’expiation par la fatalité.  
+> *la fatalidad lo mantiene en la expiación.*  
 > Jadis, sans la comprendre et d’un œil hébété,  
+> *Antaño, sin comprenderla y con ojos atónitos,*  
 > L’Inde a presque entrevu cette métempsycose.  
+> *la India casi entrevió esta metempsicosis.*  
 > La ronce devient griffe, et la feuille de rose  
+> *La zarza se vuelve garra, y la hoja de la rosa*  
 > Devient langue de chat, et, dans l’ombre et les cris,  
+> *se vuelve lengua de gato y, entre sombra y gritos,*  
 > Horrible, lèche et boit le sang de la souris ;  
+> *horrible, lame y bebe la sangre del ratón;*  
 > Qui donc connaît le monstre appelé mandragore ?  
+> *¿quién conoce al monstruo llamado mandrágora?*  
 > Qui sait ce que, le soir, éclaire le fulgore,  
+> *¿Quién sabe qué ilumina, al anochecer, la fulgora,*  
 > Être en qui la laideur devient une clarté ?  
+> *ser en quien la fealdad se vuelve claridad?*  
 > Ce qui se passe en l’ombre où croît la fleur d’été  
+> *Lo que sucede en la sombra donde crece la flor de estío*  
 > Efface la terreur des antiques avernes.  
+> *borra el terror de los antiguos avernos.*  
 > Étages effrayants ! cavernes sur cavernes.  
+> *¡Estratos espantosos! Cavernas sobre cavernas.*  
 > Ruche obscure du mal, du crime et du remord !  
+> *¡Colmena oscura del mal, del crimen y del remordimiento!*  
 >
 > Donc, une bête va, vient, rugit, hurle, mord ;  
+> *Así, una bestia va, viene, ruge, aúlla, muerde;*  
 > Un arbre est là, dressant ses branches hérissées,  
+> *un árbol está ahí, alzando sus ramas erizadas;*  
 > Une dalle s’effondre au milieu des chaussées  
+> *una losa se hunde en medio de las calzadas*  
 > Que la charrette écrase et que l’hiver détruit,  
+> *que aplasta la carreta y destruye el invierno,*  
 > Et, sous ces épaisseurs de matière et de nuit,  
+> *y, bajo esos espesores de materia y de noche,*  
 > Arbre, bête, pavé, poids que rien ne soulève,  
+> *árbol, bestia, adoquín, peso que nada levanta,*  
 > Dans cette profondeur terrible, une âme rêve !  
+> *en esa profundidad terrible, ¡un alma sueña!*  
 >
 > Que fait-elle ? Elle songe à Dieu !  
+> *¿Qué hace? ¡Piensa en Dios!*  
 >
 > Fatalité !  
+> *¡Fatalidad!*  
 > Échéance ! retour ! revers ! autre côté !  
+> *¡Plazo cumplido! ¡Retorno! ¡Reverso! ¡La otra cara!*  
 > Ô loi ! pendant qu’assis à table, joyeux groupes,  
+> *¡Oh ley! Mientras, sentados a la mesa, grupos alegres,*  
 > Les pervers, les puissants, vidant toutes les coupes,  
+> *los perversos, los poderosos, vaciando todas las copas,*  
 > Oubliant qu’aujourd’hui par demain est guetté,  
+> *olvidando que al hoy lo acecha el mañana,*  
 > Étalent leur mâchoire en leur folle gaîté,  
+> *exhiben la mandíbula en su loca alegría,*  
 > Voilà ce qu’en sa nuit muette et colossale,  
+> *esto, en su noche muda y colosal,*  
 > Montrant comme eux ses dents tout au fond de la salle,  
+> *mostrando como ellos los dientes al fondo de la sala,*  
 > Leur réserve la mort, ce sinistre rieur !  
+> *les reserva la muerte, ¡esa siniestra burlona!*  
 >
 > Nous avons, nous, voyants du ciel supérieur,  
+> *Nosotros, videntes del cielo superior, tenemos*  
 > Le spectacle inouï de vos régions basses.  
+> *el espectáculo inaudito de vuestras regiones bajas.*  
 > Ô songeur, fallait-il qu’en ces nuits tu tombasses !  
+> *¡Oh soñador, tenías que caer en esas noches!*  
 > Nous écoutons le cri de l’immense malheur.  
+> *Escuchamos el grito de la inmensa desdicha.*  
 > Au-dessus d’un rocher, d’un loup ou d’une fleur,  
+> *Por encima de una roca, de un lobo o de una flor,*  
 > Parfois nous apparaît l’âme à mi-corps sortie,  
+> *a veces se nos aparece el alma, medio cuerpo fuera,*  
 > Pauvre ombre en pleurs qui lutte, hélas ! presque engloutie ;  
+> *pobre sombra llorosa que lucha, ¡ay!, casi sumergida;*  
 > Le loup la tient, le roc étreint ses pieds qu’il tord,  
+> *el lobo la retiene, la roca aprieta y tuerce sus pies,*  
 > Et la fleur implacable et féroce la mord.  
+> *y la flor implacable y feroz la muerde.*  
 > Nous entendons le bruit du rayon que Dieu lance,  
+> *Oímos el sonido del rayo que Dios lanza,*  
 > La voix de ce que l’homme appelle le silence,  
+> *la voz de lo que el hombre llama silencio,*  
 > Et vos soupirs profonds, cailloux désespérés !  
+> *y vuestros hondos suspiros, ¡guijarros desesperados!*  
 > Nous voyons la pâleur de tous les fronts murés.  
+> *Vemos la palidez de todas las frentes emparedadas.*  
 > À travers la matière, affreux caveau sans portes,  
+> *A través de la materia, cripta atroz sin puertas,*  
 > L’ange est pour nous visible avec ses ailes mortes.  
+> *el ángel nos es visible con sus alas muertas.*  
 > Nous assistons aux deuils, au blasphème, aux regrets,  
+> *Asistimos a los duelos, a la blasfemia, al pesar,*  
 > Aux fureurs ; et, la nuit, nous voyons les forêts,  
+> *a las furias; y, de noche, vemos a los bosques,*  
 > D’où cherchent à s’enfuir les larves enfermées,  
+> *de donde buscan huir los espectros encerrados,*  
 > S’écheveler dans l’ombre en lugubres fumées.  
+> *desgreñarse en la sombra en lúgubras humaredas.*  
 > Partout, partout, partout ! dans les flots, dans les bois,  
+> *¡Por doquier, por doquier, por doquier! En las olas, en los bosques,*  
 > Dans l’herbe en fleur, dans l’or qui sert de sceptre aux rois,  
+> *en la hierba en flor, en el oro que sirve de cetro a los reyes,*  
 > Dans le jonc dont Hermès se fait une baguette,  
+> *en el junco del que Hermes se hace una vara,*  
 > Partout, le châtiment contemple, observe ou guette,  
+> *por doquier el castigo contempla, observa o acecha,*  
 >
 > Sourd aux questions, triste, affreux, pensif, hagard ;  
+> *sordo a las preguntas, triste, atroz, pensativo, demudado;*  
 > Et tout est l’œil d’où sort ce terrible regard.  
+> *y todo es el ojo del que sale esa terrible mirada.*  
 >
 > Ô châtiment ! dédale aux spirales funèbres !  
+> *¡Oh castigo! ¡Laberinto de espirales fúnebres!*  
 > Construction d’en bas qui cherche les ténèbres,  
+> *Construcción de abajo que busca las tinieblas,*  
 > Plonge au-dessous du monde et descend dans la nuit,  
+> *se hunde bajo el mundo y desciende a la noche,*  
 > Et, Babel renversée, au fond de l’ombre fuit !  
+> *y, Babel invertida, ¡huye al fondo de la sombra!*  
 >
 > L’homme qui plane et rampe, être crépusculaire,  
+> *El hombre, que planea y repta, ser crepuscular,*  
 > En est le milieu.  
+> *es su centro.*  
 >
 > L’homme est clémence et colère ;  
+> *El hombre es clemencia y cólera;*  
 > Fond vil du puits, plateau radieux de la tour ;  
+> *fondo vil del pozo, plataforma radiante de la torre;*  
 > Degré d’en haut pour l’ombre, et d’en bas pour le jour.  
+> *peldaño de arriba para la sombra, y de abajo para el día.*  
 > L’ange y descend, la bête après la mort y monte ;  
+> *El ángel baja a él; la bestia, tras la muerte, sube;*  
 > Pour la bête, il est gloire, et, pour l’ange, il est honte ;  
+> *para la bestia es gloria, y para el ángel, vergüenza;*  
 > Dieu mêle en votre race, hommes infortunés,  
+> *Dios mezcla en vuestra raza, hombres desventurados,*  
 > Les demi-dieux punis aux monstres pardonnés.  
+> *a los semidioses castigados con los monstruos perdonados.*  
 >
 > De là vient que parfois, mystère que Dieu mène !  
+> *De ahí que a veces, ¡misterio que Dios rige!,*  
 > On entend d’une bouche en apparence humaine  
+> *se oigan salir de una boca en apariencia humana*  
 > Sortir des mots pareils à des rugissements,  
+> *palabras semejantes a rugidos,*  
 > Et que, dans d’autres lieux et dans d’autres moments,  
+> *y que, en otros lugares y en otros momentos,*  
 > On croit voir sur un front s’ouvrir des ailes d’anges.  
+> *se crea ver abrirse alas de ángeles en una frente.*  
 >
 > Roi forçat, l’homme, esprit, pense, et, matière, mange.  
+> *Rey presidiario, el hombre, espíritu, piensa y, materia, come.*  
 > L’âme en lui ne se peut dresser sur son séant.  
+> *El alma en él no puede incorporarse.*  
 > L’homme, comme la brute abreuvé de néant,  
+> *El hombre, como el bruto, saciado de la nada,*  
 > Vide toutes les nuits le verre noir du somme.  
+> *vacía cada noche el vaso negro del sueño.*  
 > La chaîne de l’enfer, liée au pied de l’homme,  
+> *La cadena del infierno, atada al pie del hombre,*  
 > Ramène chaque jour vers le cloaque impur  
+> *trae de vuelta cada día a la cloaca impura*  
 > La beauté, le génie, envolés dans l’azur,  
+> *la belleza, el genio, que volaron hacia el azul,*  
 > Mêle la peste au souffle idéal des poitrines,  
+> *mezcla la peste al aliento ideal de los pechos,*  
 > Et traîne, avec Socrate, Aspasie aux latrines.  
+> *y arrastra, con Sócrates, a Aspasia a las letrinas.*  
 >
 > Par un côté pourtant l’homme est illimité.  
+> *Por un lado, sin embargo, el hombre es ilimitado.*  
 > Le monstre a le carcan, l’homme a la liberté.  
+> *El monstruo tiene la argolla; el hombre, la libertad.*  
 > Songeur, retiens ceci : l’homme est un équilibre.  
+> *Soñador, retén esto: el hombre es un equilibrio.*  
 > L’homme est une prison où l’âme reste libre.  
+> *El hombre es una prisión donde el alma sigue libre.*  
 > L’âme, dans l’homme, agit, fait le bien, fait le mal,  
+> *El alma, en el hombre, obra, hace el bien, hace el mal,*  
 > Remonte vers l’esprit, retombe à l’animal ;  
+> *remonta hacia el espíritu, recae en el animal;*  
 > Et pour que, dans son vol vers les cieux, rien ne lie  
+> *y para que, en su vuelo hacia los cielos, nada ate*  
 > Sa conscience ailée et de Dieu seul remplie,  
+> *su conciencia alada, llena solo de Dios,*  
 > Dieu, quand une âme éclôt dans l’homme au bien poussé,  
+> *Dios, cuando un alma nace en el hombre movido al bien,*  
 > Casse en son souvenir le fil du passé ;  
+> *rompe en su memoria el hilo del pasado;*  
 > De là vient que la nuit en sait plus que l’aurore.  
+> *de ahí que la noche sepa más que la aurora.*  
 > Le monstre se connaît lorsque l’homme s’ignore.  
+> *El monstruo se conoce mientras el hombre se ignora.*  
 > Le monstre est la souffrance, et l’homme est l’action.  
+> *El monstruo es el sufrimiento, y el hombre, la acción.*  
 > L’homme est l’unique point de la création  
+> *El hombre es el único punto de la creación*  
 > Où, pour demeurer libre en se faisant meilleure,  
+> *donde, para seguir siendo libre al hacerse mejor,*  
 > L’âme doive oublier sa vie antérieure.  
+> *el alma ha de olvidar su vida anterior.*  
 > Mystère ! au seuil de tout l’esprit rêve ébloui.  
+> *¡Misterio! En el umbral de todo, el espíritu sueña deslumbrado.*  
 >
 > L’homme ne voit pas Dieu, mais peut aller à lui,  
+> *El hombre no ve a Dios, pero puede ir hacia él,*  
 > En suivant la clarté du bien, toujours présente ;  
+> *siguiendo la claridad del bien, siempre presente;*  
 > Le monstre, arbre, rocher ou bête rugissante,  
+> *el monstruo, árbol, roca o bestia rugiente,*  
 > Voit Dieu, c’est là sa peine, et reste enchaîné loin.  
+> *ve a Dios, ese es su tormento, y sigue encadenado lejos.*  
 >
 > L’homme a l’amour pour aile, et pour joug le besoin.  
+> *El hombre tiene el amor por ala y la necesidad por yugo.*  
 > L’ombre est sur ce qu’il voit par lui-même semée ;  
+> *Él mismo siembra la sombra sobre lo que ve;*  
 > La nuit sort de son œil ainsi qu’une fumée ;  
+> *la noche sale de su ojo como una humareda;*  
 > Homme, tu ne sais rien ; tu marches, pâlissant !  
+> *hombre, nada sabes; ¡andas, palideciendo!*  
 > Parfois le voile obscur qui te couvre, ô passant,  
+> *A veces el velo oscuro que te cubre, oh caminante,*  
 > S’envole et flotte au vent soufflant d’une autre sphère,  
+> *se alza y flota al viento que sopla de otra esfera,*  
 > Gonfle un moment ses plis jusque dans la lumière,  
+> *hincha un instante sus pliegues hasta la luz,*  
 > Puis retombe sur toi, spectre, et redevient noir.  
+> *luego recae sobre ti, espectro, y vuelve a ser negro.*  
 > Tes mages, tes penseurs ont essayé de voir ;  
+> *Tus magos, tus pensadores han intentado ver;*  
 >
 > Qu’ont-ils vu ? qu’ont-ils fait ? qu’ont-ils dit, ces fils d’Ève ?  
+> *¿qué han visto? ¿Qué han hecho? ¿Qué han dicho, esos hijos de Eva?*  
 > Rien.  
+> *Nada.*  
 >
 > Homme ! autour de toi la création rêve.  
+> *¡Hombre! A tu alrededor sueña la creación.*  
 > Mille êtres inconnus t’entourent dans ton mur.  
+> *Mil seres desconocidos te rodean en tu muro.*  
 > Tu vas, tu viens, tu dors sous leur regard obscur,  
+> *Vas, vienes, duermes bajo su mirada oscura,*  
 > Et tu ne les sens pas vivre autour de ta vie.  
+> *y no sientes que viven alrededor de tu vida.*  
 > Toute une légion d’âmes t’est asservie ;  
+> *Toda una legión de almas te está sometida;*  
 > Pendant qu’elle te plaint, tu la foules aux pieds.  
+> *mientras se compadece de ti, tú la pisoteas.*  
 > Tous tes pas vers le jour sont par l’ombre épiés.  
+> *Todos tus pasos hacia el día los espía la sombra.*  
 > Ce que tu nommes chose, objet, nature morte,  
+> *Lo que llamas cosa, objeto, naturaleza muerta,*  
 > Sait, pense, écoute, entend. Le verrou de ta porte  
+> *sabe, piensa, escucha, entiende. El cerrojo de tu puerta*  
 > Voit arriver ta faute et voudrait se fermer.  
+> *ve llegar tu culpa y quisiera cerrarse.*  
 > Ta vitre connaît l’aube, et dit : Voir ! croire ! aimer !  
+> *Tu cristal conoce el alba y dice: ¡Ver! ¡Creer! ¡Amar!*  
 > Les rideaux de ton lit frissonnent de tes songes.  
+> *Las cortinas de tu lecho se estremecen con tus sueños.*  
 > Dans les mauvais desseins quand, rêveur, tu te plonges,  
+> *Cuando en malos designios te sumerges, pensativo,*  
 > La cendre dit au fond de l’âtre sépulcral :  
+> *la ceniza dice al fondo del hogar sepulcral:*  
 > Regarde-moi ; je suis ce qui reste du mal.  
+> *Mírame; soy lo que queda del mal.*  
 > Hélas ! l’homme imprudent trahit, torture, opprime.  
+> *¡Ay! El hombre imprudente traiciona, tortura, oprime.*  
 > La bête en son enfer voit les deux bouts du crime ;  
+> *La bestia en su infierno ve los dos extremos del crimen;*  
 > Un loup pourrait donner des conseils à Néron.  
+> *un lobo podría dar consejos a Nerón.*  
 > Homme ! homme ! aigle aveuglé, moindre qu’un moucheron !  
+> *¡Hombre! ¡Hombre! ¡Águila cegada, menor que un mosquito!*  
 > Pendant que dans ton Louvre ou bien dans ta chaumière  
+> *Mientras en tu Louvre o en tu choza*  
 > Tu vis, sans même avoir épelé la première  
+> *vives, sin haber siquiera deletreado la primera*  
 > Des constellations, sombre alphabet qui luit  
+> *de las constelaciones, alfabeto oscuro que brilla*  
 > Et tremble sur la page immense de la nuit,  
+> *y tiembla en la página inmensa de la noche,*  
 > Pendant que tu maudis et pendant que tu nies,  
+> *mientras maldices y mientras niegas,*  
 > Pendant que tu dis : Non ! aux astres ; aux génies :  
+> *mientras dices: ¡No!, a los astros; a los genios:*  
 > Non ! à l’idéal : Non ! à la vertu : Pourquoi ?  
+> *¡No!; al ideal: ¡No!; a la virtud: ¿Por qué?,*  
 > Pendant que tu te tiens en dehors de la loi,  
+> *mientras te mantienes fuera de la ley,*  
 > Copiant les dédains inquiets ou robustes  
+> *copiando los desdenes inquietos o seguros*  
 > De ces sages qu’on voit rêver dans les vieux bustes,  
+> *de esos sabios que vemos soñar en los viejos bustos,*  
 > Et que tu dis : Que sais-je ? amer, froid, mécréant,  
+> *y dices: ¿Qué sé yo?, amargo, frío, descreído,*  
 > Prostituant ta bouche au rire du néant,  
+> *prostituyendo tu boca a la risa de la nada,*  
 > À travers le taillis de la nature énorme,  
+> *a través de la espesura de la naturaleza inmensa,*  
 > Flairant l’éternité de son museau difforme,  
+> *olfateando la eternidad con su hocico deforme,*  
 >
 > Là, dans l’ombre, à tes pieds, homme, ton chien voit Dieu.  
+> *¡allí, en la sombra, a tus pies, hombre, tu perro ve a Dios!*  
 >
 > Ah ! je t’entends. Tu dis : — Quel deuil ! la bête est peu,  
+> *Ah, te oigo. Dices: -¡Qué duelo! La bestia es poco,*  
 > L’homme n’est rien. Ô loi misérable ! ombre ! abîme ! —  
+> *el hombre no es nada. ¡Oh ley miserable! ¡Sombra! ¡Abismo!-.*  
 >
 > Ô songeur ! cette loi misérable est sublime.  
+> *¡Oh soñador! Esa ley miserable es sublime.*  
 > Il faut donc tout redire à ton esprit chétif !  
+> *¡Hay que volver a decirlo todo a tu espíritu endeble!*  
 > À la fatalité, loi du monstre captif,  
+> *A la fatalidad, ley del monstruo cautivo,*  
 > Succède le devoir, fatalité de l’homme.  
+> *sucede el deber, fatalidad del hombre.*  
 > Ainsi de toutes parts l’épreuve se consomme,  
+> *Así por todas partes se cumple la prueba,*  
 > Dans le monstre passif, dans l’homme intelligent,  
+> *en el monstruo pasivo, en el hombre inteligente,*  
 > La nécessité morne en devoir se changeant ;  
+> *trocándose en deber la necesidad sombría;*  
 > Et l’âme, remontant à sa beauté première,  
+> *y el alma, remontando hacia su belleza primera,*  
 > Va de l’ombre fatale à la libre lumière.  
+> *va de la sombra fatal a la luz libre.*  
 > Or, je te le redis, pour se transfigurer,  
+> *Ahora bien, te lo repito: para transfigurarse*  
 > Et pour se racheter, l’homme doit ignorer.  
+> *y para redimirse, el hombre debe ignorar.*  
 > Il doit être aveuglé par toutes les poussières.  
+> *Debe estar cegado por todas las polvaredas.*  
 > Sans quoi, comme l’enfant guidé par des lisières,  
+> *Si no, como el niño al que unas correas guían,*  
 > L’homme vivrait, marchant droit à la vision.  
+> *el hombre viviría caminando derecho hacia la visión.*  
 > Douter est sa puissance et sa punition.  
+> *Dudar es su poder y su castigo.*  
 > Il voit la rose, et nie ; il voit l’aurore, et doute ;  
+> *Ve la rosa y niega; ve la aurora y duda;*  
 > Où serait le mérite à retrouver sa route,  
+> *¿dónde estaría el mérito de recobrar su senda,*  
 > Si l’homme, voyant clair, roi de sa volonté,  
+> *si el hombre, viendo claro, rey de su voluntad,*  
 > Avait la certitude, ayant la liberté ?  
+> *tuviese la certeza, teniendo la libertad?*  
 > Non. Il faut qu’il hésite en la vaste nature,  
+> *No. Es preciso que vacile en la vasta naturaleza,*  
 > Qu’il traverse du choix l’effrayante aventure,  
+> *que atraviese la espantosa aventura de elegir,*  
 > Et qu’il compare au vice agitant son miroir,  
+> *y que compare con el vicio que agita su espejo,*  
 > Au crime, aux voluptés, l’œil en pleurs du devoir ;  
+> *con el crimen, con los deleites, el ojo lloroso del deber;*  
 > Il faut qu’il doute ! hier croyant, demain impie ;  
+> *¡es preciso que dude! Ayer creyente, mañana impío;*  
 > Il court du mal au bien ; il scrute, sonde, épie,  
+> *corre del mal al bien; escruta, sondea, espía,*  
 > Va, revient, et, tremblant, agenouillé, debout,  
+> *va, vuelve, y, temblando, de rodillas, de pie,*  
 > Les bras étendus, triste, il cherche Dieu partout ;  
+> *con los brazos tendidos, triste, busca a Dios por doquier;*  
 > Il tâte l’infini jusqu’à ce qu’il l’y sente ;  
+> *tantea lo infinito hasta sentirlo allí;*  
 > Alors, son âme ailée éclate frémissante ;  
+> *entonces su alma alada estalla, estremecida;*  
 >
 > L’ange éblouissant luit dans l’homme transparent,  
+> *el ángel deslumbrante brilla en el hombre transparente,*  
 > Le doute le fait libre, et la liberté, grand.  
+> *la duda lo hace libre, y la libertad, grande.*  
 > La captivité sait ; la liberté suppose,  
+> *El cautiverio sabe; la libertad supone,*  
 > Creuse, saisit l’effet, le compare à la cause,  
+> *cava, apresa el efecto, lo compara con la causa,*  
 > Croit vouloir le bien-être et veut le firmament ;  
+> *cree querer el bienestar y quiere el firmamento;*  
 > Et, cherchant le caillou, trouve le diamant.  
+> *y, buscando el guijarro, encuentra el diamante.*  
 > C’est ainsi que du ciel l’âme à pas lents s’empare.  
+> *Así el alma, paso a paso, se adueña del cielo.*  
 >
 > Dans le monstre, elle expie ; en l’homme, elle répare.  
+> *En el monstruo, expía; en el hombre, repara.*  
 >
 > Oui, ton fauve univers est le forçat de Dieu.  
+> *Sí, tu universo feroz es el presidiario de Dios.*  
 > Les constellations, sombres lettres de feu,  
+> *Las constelaciones, sombrías letras de fuego,*  
 > Sont les marques du bagne à l’épaule du monde.  
+> *son las marcas del presidio en el hombro del mundo.*  
 > Dans votre région tant d’épouvante abonde,  
+> *En vuestra región abunda tanto espanto*  
 > Que, pour l’homme, marqué lui-même du fer chaud,  
+> *que, para el hombre, marcado también por el hierro ardiente,*  
 > Quand il lève les yeux vers les astres, là-haut,  
+> *cuando alza los ojos hacia los astros, allá arriba,*  
 > Le cancer resplendit, le scorpion flamboie,  
+> *¡el Cangrejo resplandece, el Escorpión llamea,*  
 > Et dans l’immensité le chien sinistre aboie !  
+> *y en la inmensidad ladra el Perro siniestro!*  
 > Ces soleils inconnus se groupent sur son front  
+> *Esos soles desconocidos se agrupan sobre su frente*  
 > Comme l’effroi, le deuil, la menace et l’affront ;  
+> *como el espanto, el duelo, la amenaza y la afrenta;*  
 > De toutes parts s’étend l’ombre incommensurable ;  
+> *por todas partes se extiende la sombra inconmensurable;*  
 > En bas l’obscur, l’impur, le mauvais, l’exécrable,  
+> *abajo lo oscuro, lo impuro, lo malo, lo execrable,*  
 > Le pire, tas hideux, fourmillent ; tout au fond,  
+> *lo peor, montón espantoso, pululan; en el fondo,*  
 > Ils échangent entre eux dans l’ombre ce qu’ils font ;  
+> *intercambian entre sí, en la sombra, lo que hacen;*  
 > Typhon donne l’horreur, Satan donne le crime ;  
+> *Tifón da el horror, Satán da el crimen;*  
 > Lugubre intimité du mal et de l’abîme !  
+> *¡lúgubre intimidad del mal y del abismo!*  
 > Amours de l’âme monstre et du monstre univers !  
+> *¡Amores del alma monstruo y del monstruo universo!*  
 > Baiser triste ! et l’informe engendré du pervers,  
+> *¡Beso triste! Y lo informe engendrado por lo perverso,*  
 > La matière, le bloc, la fange, la géhenne,  
+> *la materia, el bloque, el fango, la gehena,*  
 > L’écume, le chaos, l’hiver, nés de la haine,  
+> *la espuma, el caos, el invierno, nacidos del odio,*  
 > Les faces de beauté qu’habitent des démons,  
+> *los rostros de belleza donde habitan demonios,*  
 > Tous les êtres maudits, mêlés aux vils limons,  
+> *todos los seres malditos, mezclados a los viles limos,*  
 > Pris par la plante fauve et la bête féroce,  
+> *apresados por la planta feroz y la bestia salvaje,*  
 > Le grincement de dents, la peur, le rire atroce,  
+> *el rechinar de dientes, el miedo, la risa atroz,*  
 >
 > L’orgueil, que l’infini courbe sous son niveau,  
+> *el orgullo, que lo infinito doblega bajo su nivel,*  
 > Rampent, noirs prisonniers, dans la nuit, noir caveau.  
+> *reptan, negros prisioneros, en la noche, negra cripta.*  
 > La porte, affreuse et faite avec de l’ombre, est lourde ;  
+> *La puerta, atroz y hecha de sombra, es pesada;*  
 > Par moments, on entend, dans la profondeur sourde,  
+> *por momentos se oyen, en la profundidad sorda,*  
 > Les efforts que les monts, les flots, les ouragans,  
+> *los esfuerzos que los montes, las olas, los huracanes,*  
 > Les volcans, les forêts, les animaux brigands,  
+> *los volcanes, los bosques, los animales bandidos,*  
 > Et tous les monstres font pour soulever le pêne.  
+> *y todos los monstruos hacen por levantar el pestillo.*  
 > Et sur cet amas d’ombre, et de crime, et de peine,  
+> *Y sobre ese cúmulo de sombra, de crimen y de pena,*  
 > Ce grand ciel formidable est le scellé de Dieu.  
+> *ese gran cielo formidable es el sello de Dios.*  
 >
 > Voilà pourquoi, songeur dont la mort est le vœu,  
+> *¡Por eso, soñador cuyo deseo es la muerte,*  
 > Tant d’angoisse est empreinte au front des cénobites !  
+> *tanta angustia está grabada en la frente de los cenobitas!*  
 >
 > Je viens de te montrer le gouffre. Tu l’habites.  
+> *Acabo de mostrarte el abismo. Tú lo habitas.*  
 >
 > Les mondes, dans la nuit que vous nommez l’azur,  
+> *Los mundos, en la noche que vosotros llamáis azul,*  
 > Par les brèches que fait la mort blême à leur mur,  
+> *por las brechas que la muerte pálida abre en sus muros,*  
 > Se jettent en fuyant l’un à l’autre des âmes.  
+> *al huir se arrojan almas unos a otros.*  
 >
 > Dans votre globe où sont tant de geôles infâmes,  
+> *En vuestro globo, donde hay tantas cárceles infames,*  
 > Vous avez des méchants de tous les univers,  
+> *tenéis malvados de todos los universos,*  
 > Condamnés qui, venus des cieux les plus divers,  
+> *condenados que, venidos de los cielos más diversos,*  
 > Rêvent dans vos rochers ou dans vos arbres ploient ;  
+> *sueñan en vuestras rocas o se doblan en vuestros árboles;*  
 > Tellement stupéfaits de ce monde qu’ils voient,  
+> *tan estupefactos ante este mundo que ven,*  
 > Qu’eussent-ils la parole, ils ne pourraient parler.  
+> *que, aunque tuvieran la palabra, no podrían hablar.*  
 > On en sent quelques-uns frissonner et trembler.  
+> *Se siente a algunos de ellos estremecerse y temblar.*  
 > De là les songes vains du bronze et de l’augure.  
+> *De ahí los vanos sueños del bronce y del augur.*  
 >
 > Donc, représente-toi cette sombre figure :  
+> *Así pues, represéntate esta imagen sombría:*  
 > Ce gouffre, c’est l’égout du mal universel.  
+> *ese abismo es la cloaca del mal universal.*  
 >
 > Ici vient aboutir de tous les points du ciel  
+> *Aquí desemboca, desde todos los puntos del cielo,*  
 > La chute des punis, ténébreuse traînée.  
+> *la caída de los castigados, tenebrosa estela.*  
 > Dans cette profondeur, morne, âpre, infortunée,  
+> *En esta profundidad sombría, áspera, desventurada,*  
 >
 > De chaque globe il tombe un flot vertigineux  
+> *de cada globo cae una ola vertiginosa*  
 > D’âmes, d’esprits malsains et d’être vénéneux,  
+> *de almas, de espíritus malsanos y de seres venenosos,*  
 > Flot que l’éternité voit sans fin se répandre.  
+> *ola que la eternidad ve derramarse sin fin.*  
 > Chaque étoile au front d’or qui brille, laisse pendre  
+> *Cada estrella que brilla, con su frente de oro, deja pender*  
 > Sa chevelure d’ombre en ce puits effrayant.  
+> *su cabellera de sombra en este pozo espantoso.*  
 > Âme immortelle, vois, et frémis en voyant :  
+> *Alma inmortal, mira, y tiembla al mirar:*  
 > Voilà le précipice exécrable où tu sombres.  
+> *¡he aquí el precipicio execrable donde te hundes!*  
 >
 > Oh ! qui que vous soyez, qui passez dans ces ombres,  
+> *¡Oh vosotros, quienesquiera que seáis, que pasáis por estas sombras,*  
 > Versez votre pitié sur ces douleurs sans fond !  
+> *verted vuestra piedad sobre estos dolores sin fondo!*  
 > Dans ce gouffre, où l’abîme en l’abîme se fond,  
+> *En este abismo, donde el abismo se funde en el abismo,*  
 > Se tordent les forfaits, transformés en supplices,  
+> *se retuercen los crímenes, transformados en suplicios,*  
 > L’effroi, le deuil, le mal, les ténèbres complices,  
+> *el espanto, el duelo, el mal, las tinieblas cómplices,*  
 > Les pleurs sous la toison, le soupir expiré  
+> *las lágrimas bajo el pelaje, el suspiro extinguido*  
 > Dans la fleur, et le cri dans la pierre muré !  
+> *en la flor, ¡y el grito emparedado en la piedra!*  
 > Oh ! qui que vous soyez, pleurez sur ces misères !  
+> *¡Oh vosotros, quienesquiera que seáis, llorad por estas miserias!*  
 > Pour Dieu seul, qui sait tout, elles sont nécessaires ;  
+> *Solo para Dios, que todo lo sabe, son necesarias;*  
 > Mais vous pouvez pleurer sur l’énorme cachot  
+> *¡pero podéis llorar sobre el enorme calabozo*  
 > Sans déranger le sombre équilibre d’en haut !  
+> *sin alterar el sombrío equilibrio de lo alto!*  
 > Hélas ! hélas ! hélas ! tout est vivant ! tout pense !  
+> *¡Ay! ¡Ay! ¡Ay! ¡Todo está vivo! ¡Todo piensa!*  
 > La mémoire est la peine, étant la récompense.  
+> *La memoria es el tormento, siendo la recompensa.*  
 >
 > Oh ! comme ici l’on souffre et comme on se souvient !  
+> *¡Oh, cómo se sufre aquí y cómo se recuerda!*  
 > Torture de l’esprit que la matière tient !  
+> *¡Tortura del espíritu que la materia aprisiona!*  
 > La brute et le granit, quel chevalet pour l’âme !  
+> *El bruto y el granito, ¡qué potro de tormento para el alma!*  
 > Ce mulet fut sultan, ce cloporte était femme.  
+> *Este mulo fue sultán; esta cochinilla fue mujer.*  
 > L’arbre est un exilé, la roche est un proscrit.  
+> *El árbol es un exiliado; la roca, un proscrito.*  
 > Est-ce que, quelque part, par hasard, quelqu’un rit  
+> *¿Acaso, en alguna parte, por ventura, alguien ríe*  
 > Quand ces réalités sont là, remplissant l’ombre ?  
+> *cuando estas realidades están ahí, llenando la sombra?*  
 > La ruine, la mort, l’ossement, le décombre,  
+> *La ruina, la muerte, el hueso, el escombro,*  
 > Sont vivants. Un remords songe dans un débris.  
+> *están vivos. Un remordimiento sueña en un resto.*  
 > Pour l’œil profond qui voit, les antres sont des cris.  
+> *Para el ojo profundo que ve, los antros son gritos.*  
 > Hélas ! le cygne est noir, le lys songe à ses crimes ;  
+> *¡Ay! El cisne es negro, el lirio piensa en sus crímenes;*  
 > La perle est nuit ; la neige est la fange des cimes ;  
+> *la perla es noche; la nieve es el fango de las cumbres;*  
 >
 > Le même gouffre, horrible et fauve, et sans abri,  
+> *el mismo abismo, horrible y feroz, sin amparo,*  
 > S’ouvre dans la chouette et dans le colibri ;  
+> *se abre en la lechuza y en el colibrí;*  
 > La mouche, âme, s’envole et se brûle à la flamme ;  
+> *la mosca, alma, levanta el vuelo y se quema en la llama;*  
 > Et la flamme, esprit, brûle avec angoisse une âme ;  
+> *y la llama, espíritu, quema con angustia un alma;*  
 > L’horreur fait frissonner les plumes de l’oiseau ;  
+> *el horror estremece las plumas del pájaro;*  
 > Tout est douleur.  
+> *todo es dolor.*  
 >
 > Les fleurs souffrent sous le ciseau,  
+> *Las flores sufren bajo las tijeras,*  
 > Et se ferment ainsi que des paupières closes ;  
+> *y se cierran como párpados cerrados;*  
 > Toutes les femmes sont teintes du sang des roses ;  
+> *todas las mujeres están teñidas de sangre de rosas;*  
 > La vierge au bal, qui danse, ange aux fraîches couleurs,  
+> *la virgen en el baile, que danza, ángel de frescos colores,*  
 > Et qui porte en sa main une touffe de fleurs,  
+> *y que lleva en la mano un ramillete de flores,*  
 > Respire en soupirant un bouquet d’agonies.  
+> *respira, suspirando, un ramo de agonías.*  
 > Pleurez sur les laideurs et les ignominies,  
+> *Llorad por las fealdades y las ignominias,*  
 > Pleurez sur l’araignée immonde, sur le ver,  
+> *llorad por la araña inmunda, por el gusano,*  
 > Sur la limace au dos mouillé comme l’hiver,  
+> *por la babosa de lomo mojado como el invierno,*  
 > Sur le vil puceron qu’on voit aux feuilles pendre,  
+> *por el vil pulgón que se ve colgar de las hojas,*  
 > Sur le crabe hideux, sur l’affreux scolopendre,  
+> *por el cangrejo espantoso, por la atroz escolopendra,*  
 > Sur l’effrayant crapaud, pauvre monstre aux doux yeux,  
+> *por el sapo que aterra, pobre monstruo de ojos dulces,*  
 > Qui regarde toujours le ciel mystérieux !  
+> *¡que mira siempre el cielo misterioso!*  
 > Plaignez l’oiseau de crime et la bête de proie.  
+> *Compadeceos del ave de crimen y de la bestia de presa.*  
 > Ce que Domitien, césar, fit avec joie,  
+> *Lo que Domiciano, césar, hizo con alegría,*  
 > Tigre, il le continue avec horreur. Verrès,  
+> *como tigre lo continúa con horror. Verres,*  
 > Qui fut loup sous la pourpre, est loup dans les forêts ;  
+> *que fue lobo bajo la púrpura, es lobo en los bosques;*  
 > Il descend, réveillé, l’autre côté du rêve ;  
+> *desciende, ya despierto, por la otra vertiente del sueño;*  
 > Son rire, au fond des bois, en hurlement s’achève ;  
+> *su risa, al fondo de los bosques, acaba en aullido;*  
 > Pleurez sur ce qui hurle et pleurez sur Verrès.  
+> *llorad por lo que aúlla y llorad por Verres.*  
 > Sur ces tombeaux vivants, masqués d’obscurs arrêts,  
+> *Sobre estas tumbas vivientes, veladas por oscuras sentencias,*  
 > Penchez-vous attendri ! versez votre prière !  
+> *¡inclinaos con ternura! ¡Verted vuestra plegaria!*  
 > La pitié fait sortir des rayons de la pierre.  
+> *La piedad hace salir rayos de la piedra.*  
 > Plaignez le louveteau, plaignez le lionceau.  
+> *Compadeceos del lobezno, compadeceos del leoncillo.*  
 > La matière, affreux bloc, n’est que le lourd monceau  
+> *La materia, bloque atroz, no es más que el pesado cúmulo*  
 > Des effets monstrueux, sortis des sombres causes.  
+> *de efectos monstruosos nacidos de oscuras causas.*  
 > Ayez pitié. Voyez des âmes dans les choses.  
+> *Tened piedad. Ved almas en las cosas.*  
 > Hélas ! le cabanon subit aussi l’écrou ;  
+> *¡Ay! También el calabozo sufre el encierro;*  
 > Plaignez le prisonnier, mais plaignez le verrou ;  
+> *compadeceos del prisionero, ¡pero también del cerrojo!*  
 >
 > Plaignez la chaîne au fond des bagnes insalubres ;  
+> *Compadeceos de la cadena al fondo de los presidios insalubres;*  
 > La hache et le billot sont deux êtres lugubres ;  
+> *el hacha y el tajo son dos seres lúgubres;*  
 > La hache souffre autant que le corps, le billot  
+> *el hacha sufre tanto como el cuerpo, el tajo*  
 > Souffre autant que la tête ; ô mystères d’en haut !  
+> *sufre tanto como la cabeza; ¡oh misterios de lo alto!*  
 > Ils se livrent une âpre et hideuse bataille ;  
+> *Se libran una batalla áspera y espantosa;*  
 > Il ébrèche la hache, et la hache l’entaille ;  
+> *él mella el hacha, y el hacha lo hiende;*  
 > Ils se disent tout bas l’un à l’autre : Assassin !  
+> *se dicen en voz baja el uno al otro: ¡Asesino!*  
 > Et la hache maudit les hommes, sombre essaim,  
+> *Y el hacha maldice a los hombres, enjambre sombrío,*  
 > Quand, le soir, sur le dos du bourreau, son ministre,  
+> *cuando, al anochecer, a la espalda del verdugo, su ministro,*  
 > Elle revient dans l’ombre, et luit, miroir sinistre,  
+> *vuelve a la sombra y brilla, espejo siniestro,*  
 > Ruisselante de sang et reflétant les cieux ;  
+> *chorreando sangre y reflejando los cielos;*  
 > Et, la nuit, dans l’étal morne et silencieux,  
+> *y, de noche, en el mostrador sombrío y silencioso,*  
 > Le cadavre au cou rouge, effrayant, glacé, blême,  
+> *el cadáver de cuello rojo, espantoso, helado, pálido,*  
 > Seul, sait ce que lui dit le billot, tronc lui-même.  
+> *solo él sabe qué le dice el tajo, tronco también él.*  
 > Oh ! que la terre est froide et que les rocs sont durs !  
+> *¡Oh, qué fría es la tierra y qué duras las rocas!*  
 > Quelle muette horreur dans les halliers obscurs !  
+> *¡Qué mudo horror en las espesuras oscuras!*  
 > Les pleurs noirs de la nuit sur la colombe blanche  
+> *Las negras lágrimas de la noche sobre la paloma blanca*  
 > Tombent ; le vent met nue et torture la branche ;  
+> *caen; el viento desnuda y tortura la rama;*  
 > Quel monologue affreux dans l’arbre aux rameaux verts !  
+> *¡qué monólogo atroz en el árbol de verdes ramajes!*  
 > Quel frisson dans l’herbe ! Oh ! quels yeux fixes ouverts  
+> *¡Qué temblor en la hierba! ¡Oh, qué ojos fijos, abiertos,*  
 > Dans les cailloux profonds, oubliettes des âmes !  
+> *en los hondos guijarros, mazmorras de las almas!*  
 > C’est une âme que l’eau scie en ses froides lames ;  
+> *Es un alma lo que el agua sierra con sus frías hojas;*  
 > C’est une âme que fait ruisseler le pressoir.  
+> *es un alma lo que el lagar hace fluir.*  
 > Ténèbres ! l’univers est hagard. Chaque soir,  
+> *¡Tinieblas! El universo está demudado. Cada tarde,*  
 > Le noir horizon monte et la nuit noire tombe ;  
+> *el negro horizonte sube y la noche negra cae;*  
 > Tous deux, à l’occident, d’un mouvement de tombe,  
+> *ambos, a occidente, con movimiento de tumba,*  
 > Ils vont se rapprochant, et, dans le firmament,  
+> *van acercándose, y, en el firmamento,*  
 > Ô terreur ! sur le joug, écrasé lentement,  
+> *¡oh terror!, sobre el yugo, lentamente aplastado,*  
 > La tenaille de l’ombre effroyable se ferme.  
+> *se cierra la tenaza de la sombra espantosa.*  
 > Oh ! les berceaux font peur. Un bagne est dans un germe.  
+> *¡Oh, las cunas dan miedo! Hay un presidio en un germen.*  
 > Ayez pitié, vous tous et qui que vous soyez !  
+> *¡Tened piedad, todos vosotros, quienesquiera que seáis!*  
 > Les hideux châtiments, l’un sur l’autre broyés,  
+> *Los espantosos castigos, triturados unos contra otros,*  
 > Roulent, submergeant tout, excepté les mémoires.  
+> *ruedan, sumergiéndolo todo, salvo las memorias.*  
 >
 > Parfois on voit passer dans ces profondeurs noires,  
+> *A veces se ve pasar en esas profundidades negras,*  
 >
 > Comme un rayon lointain de l’éternel amour ;  
+> *como un rayo lejano del eterno amor;*  
 > Alors, l’hyène Atrée et le chacal Timour,  
+> *entonces la hiena Atreo y el chacal Timur,*  
 > Et l’épine Caïphe et le roseau Pilate,  
+> *y la espina Caifás y la caña Pilato,*  
 > Le volcan Alaric à la gueule écarlate,  
+> *el volcán Alarico de fauces escarlatas,*  
 > L’ours Henri huit, pour qui Morus en vain pria,  
+> *el oso Enrique Octavo, por quien Moro rezó en vano,*  
 > Le sanglier Selim et le porc Borgia,  
+> *el jabalí Selim y el cerdo Borgia,*  
 > Poussent des cris vers l’Être adorable ; et les bêtes  
+> *lanzan gritos hacia el Ser adorable; y las bestias*  
 > Qui portèrent jadis des mitres sur leurs têtes,  
+> *que antaño llevaron mitras sobre sus cabezas,*  
 > Les grains de sable rois, les brins d’herbe empereurs,  
+> *los granos de arena reyes, las briznas de hierba emperadores,*  
 > Tous les hideux orgueils et toutes les fureurs,  
+> *todos los espantosos orgullos y todas las furias,*  
 > Se brisent ; la douceur saisit le plus farouche ;  
+> *se quiebran; la dulzura se apodera del más salvaje;*  
 > Le chat lèche l’oiseau, l’oiseau baise la mouche ;  
+> *el gato lame al pájaro, el pájaro besa a la mosca;*  
 > Le vautour dit dans l’ombre au passereau : Pardon !  
+> *el buitre dice en la sombra al gorrión: ¡Perdón!*  
 > Une caresse sort du houx et du chardon ;  
+> *Una caricia sale del acebo y del cardo;*  
 > Tous les rugissements se fondent en prières ;  
+> *todos los rugidos se funden en plegarias;*  
 > On entend s’accuser de leurs forfaits les pierres ;  
+> *se oye a las piedras acusarse de sus crímenes;*  
 > Tous ces sombres cachots qu’on appelle les fleurs  
+> *todos esos oscuros calabozos que llaman flores*  
 > Tressaillent ; le rocher se met à fondre en pleurs ;  
+> *se estremecen; la roca se deshace en llanto;*  
 > Des bras se lèvent hors de la tombe dormante ;  
+> *brazos se alzan fuera de la tumba dormida;*  
 > Le vent gémit, la nuit se plaint, l’eau se lamente,  
+> *el viento gime, la noche se queja, el agua se lamenta,*  
 > Et, sous l’œil attendri qui regarde d’en haut,  
+> *y, bajo el ojo enternecido que mira desde lo alto,*  
 > Tout l’abîme n’est plus qu’un immense sanglot.  
+> *todo el abismo no es ya sino un inmenso sollozo.*  
 >
 > Espérez ! espérez ! espérez, misérables !  
+> *¡Tened esperanza! ¡Tened esperanza! ¡Tened esperanza, desdichados!*  
 > Pas de deuil infini, pas de maux incurables,  
+> *¡No hay duelo infinito, ni males incurables,*  
 > Pas d’enfer éternel !  
+> *ni infierno eterno!*  
 > Les douleurs vont à Dieu comme la flèche aux cibles ;  
+> *Los dolores van a Dios como la flecha al blanco;*  
 > Les bonnes actions sont les gonds invisibles  
+> *las buenas acciones son los goznes invisibles*  
 > De la porte du ciel.  
+> *de la puerta del cielo.*  
 >
 > Le deuil est la vertu, le remords est le pôle  
+> *El duelo es la virtud, el remordimiento es el polo*  
 > Des monstres garrottés dont le gouffre est la geôle ;  
+> *de los monstruos agarrotados cuyo presidio es el abismo;*  
 > Quand, devant Jéhovah,  
+> *cuando, ante Jehová,*  
 >
 > Un vivant reste pur dans les ombres charnelles,  
+> *un viviente permanece puro entre las sombras carnales,*  
 > La mort, ange attendri, rapporte ses deux ailes  
+> *la muerte, ángel enternecido, devuelve sus dos alas*  
 > À l’homme qui s’en va.  
+> *al hombre que se va.*  
 >
 > Les enfers se refont édens ; c’est là leur tâche.  
+> *Los infiernos se vuelven edenes; esa es su tarea.*  
 > Tout globe est un oiseau que le mal tient et lâche.  
+> *Todo globo es un pájaro que el mal retiene y suelta.*  
 > Vivants, je vous le dis,  
+> *Vivientes, os lo digo:*  
 > Les vertus, parmi vous, font ce labeur auguste  
+> *las virtudes, entre vosotros, hacen esa labor augusta*  
 > D’augmenter sur vos fronts le ciel ; quiconque est juste  
+> *de acrecer el cielo sobre vuestras frentes; quien es justo*  
 > Travaille au paradis.  
+> *trabaja en el paraíso.*  
 >
 > L’heure approche. Espérez. Rallumez l’âme éteinte !  
+> *La hora se acerca. Tened esperanza. ¡Reavivad el alma apagada!*  
 > Aimez-vous ! aimez-vous ! car c’est la chaleur sainte,  
+> *¡Amaos! ¡Amaos! Pues es el calor santo,*  
 > C’est le feu du vrai jour.  
+> *es el fuego del día verdadero.*  
 > Le sombre univers, froid, glacé, pesant, réclame  
+> *El universo oscuro, frío, helado, pesado, reclama*  
 > La sublimation de l’être par la flamme,  
+> *la sublimación del ser por la llama,*  
 > De l’homme par l’amour.  
+> *del hombre por el amor.*  
 >
 > Déjà, dans l’océan d’ombre que Dieu domine,  
+> *Ya, en el océano de sombra que Dios domina,*  
 > L’archipel ténébreux des bagnes s’illumine ;  
+> *el archipiélago tenebroso de los presidios se ilumina;*  
 > Dieu, c’est le grand aimant ;  
+> *Dios es el gran imán;*  
 > Et les globes, ouvrant leur sinistre prunelle,  
+> *y los globos, abriendo su pupila siniestra,*  
 > Vers les immensités de l’aurore éternelle  
+> *hacia las inmensidades de la aurora eterna*  
 > Se tournent lentement !  
+> *¡se vuelven lentamente!*  
 >
 > Oh ! comme vont chanter toutes les harmonies,  
+> *¡Oh, cómo cantarán todas las armonías,*  
 > Comme rayonneront dans les sphères bénies  
+> *cómo irradiarán en las esferas benditas*  
 > Les faces de clarté,  
+> *los rostros de claridad,*  
 > Comme les firmaments se fondront en délires,  
+> *cómo se fundirán los firmamentos en delirios,*  
 > Comme tressailleront toutes les grandes lyres  
+> *cómo se estremecerán todas las grandes liras*  
 > De la sérénité,  
+> *de la serenidad,*  
 >
 > Quand, du monstre matière ouvrant toutes les serres,  
+> *cuando, abriendo todas las garras del monstruo materia,*  
 > Faisant évanouir en splendeurs les misères,  
+> *haciendo que las miserias se desvanezcan en esplendores,*  
 > Changeant l’absinthe en miel,  
+> *trocando el ajenjo en miel,*  
 >
 > Inondant de beauté la nuit diminuée,  
+> *inundando de belleza la noche menguada,*  
 > Ainsi que le soleil tire à lui la nuée  
+> *como el sol atrae hacia sí la nube*  
 > Et l’emplit d’arcs-en-ciel,  
+> *y la llena de arcoíris,*  
 >
 > Dieu, de son regard fixe attirant les ténèbres,  
+> *Dios, atrayendo las tinieblas con su mirada fija,*  
 > Voyant vers lui, du fond des cloaques funèbres  
+> *viendo hacia él, desde el fondo de las cloacas fúnebres*  
 > Où le mal le pria,  
+> *donde el mal le imploró,*  
 > Monter l’énormité bégayant des louanges,  
+> *subir la enormidad balbuceando alabanzas,*  
 > Fera rentrer, parmi les univers archanges,  
+> *¡hará volver, entre los universos arcángeles,*  
 > L’univers paria !  
+> *al universo paria!*  
 >
 > On verra palpiter les fanges éclairées,  
+> *Se verá palpitar los fangos iluminados,*  
 > Et briller les laideurs les plus désespérées  
+> *y brillar las fealdades más desesperadas*  
 > Au faîte le plus haut,  
+> *en la cima más alta,*  
 > L’araignée éclatante au seuil des bleus pilastres  
+> *la araña radiante en el umbral de las pilastras azules*  
 > Luire, et se redresser, portant des épis d’astres,  
+> *brillar, y erguirse, llevando espigas de astros,*  
 > La paille du cachot !  
+> *¡la paja del calabozo!*  
 >
 > La clarté montera dans tout comme une sève ;  
+> *La claridad subirá en todo como una savia;*  
 > On verra rayonner au front du bœuf qui rêve  
+> *se verá irradiar en la frente del buey que sueña*  
 > Le céleste croissant ;  
+> *la celestial media luna;*  
 > Le charnier chantera dans l’horreur qui l’encombre,  
+> *la fosa común cantará entre el horror que la colma,*  
 > Et sur tous les fumiers apparaîtra dans l’ombre  
+> *y sobre todos los muladares aparecerá en la sombra*  
 > Un Job resplendissant !  
+> *¡un Job resplandeciente!*  
 >
 > Ô disparition de l’antique anathème !  
+> *¡Oh desaparición del antiguo anatema!*  
 > La profondeur disant à la hauteur : Je t’aime !  
+> *¡La profundidad diciendo a la altura: Te amo!*  
 > Ô retour du banni !  
+> *¡Oh retorno del desterrado!*  
 > Quel éblouissement au fond des cieux sublimes !  
+> *¡Qué deslumbramiento en el fondo de los cielos sublimes!*  
 > Quel surcroît de clarté que l’ombre des abîmes  
+> *¡Cuánta más claridad: la sombra de los abismos*  
 > S’écriant : Sois béni !  
+> *clamando: Sé bendito!*  
 >
 > On verra le troupeau des hydres formidables  
+> *Se verá a la manada de las hidras formidables*  
 > Sortir, monter du fond des brumes insondables  
+> *salir, subir del fondo de las brumas insondables*  
 > Et se transfigurer ;  
+> *y transfigurarse;*  
 >
 > Des étoiles éclore aux trous noirs de leurs crânes,  
+> *estrellas nacer en los negros huecos de sus cráneos,*  
 > Dieu juste ! et, par degrés devenant diaphanes,  
+> *¡Dios justo!, y, por grados volviéndose diáfanos,*  
 > Les monstres s’azurer !  
+> *¡los monstruos tornarse azules!*  
 >
 > Ils viendront, sans pouvoir ni parler ni répondre,  
+> *Vendrán, sin poder hablar ni responder,*  
 > Éperdus ! on verra des auréoles fondre  
+> *¡fuera de sí! Se verá a las aureolas derretir*  
 > Les cornes de leur front ;  
+> *los cuernos de sus frentes;*  
 > Ils tiendront dans leur griffe, au milieu des cieux calmes,  
+> *tendrán en sus garras, en medio de los cielos serenos,*  
 > Des rayons frissonnants semblables à des palmes ;  
+> *rayos estremecidos semejantes a palmas;*  
 > Les gueules baiseront !  
+> *¡las fauces besarán!*  
 >
 > Ils viendront ! ils viendront ! tremblants, brisés d’extase,  
+> *¡Vendrán! ¡Vendrán! Temblorosos, quebrados de éxtasis,*  
 > Chacun d’eux débordant de sanglots comme un vase,  
+> *cada uno desbordando sollozos como un vaso,*  
 > Mais pourtant sans effroi ;  
+> *pero ya sin espanto;*  
 > On leur tendra les bras de la haute demeure,  
+> *les tenderán los brazos desde la alta morada,*  
 > Et Jésus, se penchant sur Bélial qui pleure,  
+> *y Jesús, inclinándose sobre Belial que llora,*  
 > Lui dira : C’est donc toi !  
+> *le dirá: ¡Conque eres tú!*  
 >
 > Et vers Dieu par la main il conduira ce frère ;  
+> *Y hacia Dios llevará de la mano a ese hermano;*  
 > Et, quand ils seront près des degrés de lumière  
+> *y, cuando estén cerca de los peldaños de luz*  
 > Par nous seuls aperçus,  
+> *que solo nosotros vemos,*  
 > Tous deux seront si beaux, que Dieu dont l’œil flamboie  
+> *ambos serán tan bellos que Dios, cuyo ojo llamea,*  
 > Ne pourra distinguer, père ébloui de joie,  
+> *no podrá distinguir, padre deslumbrado de alegría,*  
 > Bélial de Jésus !  
+> *¡a Belial de Jesús!*  
 >
 > Tout sera dit. Le mal expirera, les larmes  
+> *Todo estará dicho. El mal expirará, las lágrimas*  
 > Tariront ; plus de fers, plus de deuils, plus d’alarmes ;  
+> *se secarán; no más hierros, no más duelos, no más alarmas;*  
 > L’affreux gouffre inclément  
+> *el atroz abismo inclemente*  
 > Cessera d’être sourd, et bégaiera : Qu’entends-je ?  
+> *dejará de ser sordo y balbuceará: ¿Qué oigo?*  
 > Les douleurs finiront dans toute l’ombre ; un ange  
+> *Los dolores acabarán en toda la sombra; un ángel*  
 > Criera : Commencement !  
-
-## En castellano
-
-Traducción de Instinct.
-
-> El hombre, al meditar, desciende al abismo universal.  
-> Yo erraba junto al dolmen que domina Rozel,  
-> allí donde el cabo se prolonga en península.  
-> El espectro me aguardaba; el ser sombrío y sereno  
-> me asió por los cabellos con su mano que crecía,  
-> me llevó a lo alto de la roca y me dijo:  
->
-> Has de saber que todo conoce su ley, su fin, su senda;  
-> que, del astro al ácaro, la inmensidad se escucha;  
-> que todo tiene conciencia en la creación;  
-> y el oído podría tener también su visión,  
-> pues las cosas y el ser sostienen un gran diálogo.  
-> Todo habla: el aire que pasa, el alción que navega,  
-> la brizna de hierba, la flor, el germen, el elemento.  
-> ¿Te imaginabas, pues, el universo de otro modo?  
-> ¿Crees que Dios, por quien la forma nace del número,  
-> habría hecho resonar por siempre el bosque oscuro,  
-> la tormenta, el torrente que arrastra negros limos,  
-> la roca entre las olas, la fiera entre los montes,  
-> la mosca, el matorral, la zarza donde crece la mora,  
-> sin haber puesto nada en el eterno murmullo?  
-> ¿Crees que el agua del río y los árboles del bosque,  
-> si nada tuvieran que decir, alzarían la voz?  
-> ¿Tomas al viento de los mares por un flautista?  
-> ¿Crees que el océano, que se hincha y que combate,  
-> se contentaría con abrir sus fauces día y noche  
-> para soplar al vacío un vapor de ruido,  
->
-> y que querría rugir, bajo el huracán que vuela,  
-> si su rugido no fuese una palabra?  
-> ¿Crees que el sepulcro, de hierba y noche vestido,  
-> no es más que un silencio? ¿Y acaso te figuras  
-> que la honda creación, que compone  
-> su rumor con temblores del lirio y de la rosa,  
-> del rayo, de las olas, de los soplos del cielo azul,  
-> no sabe lo que dice cuando habla con Dios?  
-> ¿Crees que es tan solo una lengua entorpecida?  
-> ¿Crees que la naturaleza inmensa balbucea,  
-> y que Dios se habría dado, en su inmensidad,  
-> por único placer, durante la eternidad,  
-> oír tartamudear a una sordomuda?  
-> No, el abismo es un sacerdote y la sombra es un poeta;  
-> no, todo es una voz y todo es un perfume;  
-> todo dice en lo infinito algo a alguien;  
-> un pensamiento colma el tumulto soberbio.  
-> Dios no ha hecho un ruido sin mezclar en él el verbo.  
-> Todo, como tú, gime, o canta como yo;  
-> todo habla. Y ahora, hombre, ¿sabes por qué  
-> todo habla? Escucha bien. Porque vientos, ondas, llamas,  
-> árboles, cañas, rocas, ¡todo vive!  
->
-> Todo está lleno de almas.  
->
-> Pero ¿cómo? ¡Oh, he ahí el misterio inaudito!  
-> Ya que no te has desvanecido en el camino,  
-> conversemos.  
->
-> Dios solo creó el ser imponderable.  
-> Lo hizo radiante, hermoso, cándido, adorable,  
-> pero imperfecto; de otro modo, a la misma altura,  
-> siendo la criatura igual al creador,  
->
-> aquella perfección, perdida en lo infinito,  
-> se habría mezclado y confundido con Dios,  
-> y la creación, a fuerza de claridad,  
-> habría vuelto a él y no habría sido.  
-> La santa creación en que sueña el profeta,  
-> para ser, ¡oh hondura!, debía ser imperfecta.  
->
-> Así, Dios hizo el universo; el universo hizo el mal.  
->
-> El ser creado, ornado con el rayo bautismal,  
-> en tiempos cuya memoria solo nosotros guardamos,  
-> planeaba en el esplendor sobre alas de gloria;  
-> todo era canto, incienso, llama, deslumbramiento;  
-> el ser erraba, ala de oro, en un rayo hechicero,  
-> y de todos los perfumes era huésped por turno;  
-> todo nadaba, todo volaba.  
->
-> Ahora bien, la primera culpa  
-> fue el primer peso.  
->
-> Dios sintió un dolor.  
-> El peso tomó forma y, como el pajarero  
-> huye llevando al ave que tiembla y se debate,  
-> cayó, arrastrando al ángel, aterrado, en su caída.  
-> El mal estaba hecho. Luego todo fue agravándose;  
-> y el éter se hizo aire, y el aire se hizo viento;  
-> el ángel se hizo espíritu, y el espíritu, hombre.  
-> El alma cayó, multiplicando la suma de los males,  
-> en el bruto, en el árbol, y aun, por debajo de ellos,  
-> en el guijarro pensativo, ese ciego espantoso.  
-> ¡Seres viles que los ángeles enumeran con pesar!  
-> Y de todos aquellos cúmulos se formaron los globos,  
-> y tras aquellos bloques nació la noche oscura.  
-> El mal es la materia. Árbol negro, fruto fatal.  
->
-> ¿No reflexionas cuando miras tu sombra?  
-> Esa forma de ti, rastrera, horrible, oscura,  
-> que, atada a tus pasos como un espectro vivo,  
-> va unas veces detrás y otras delante,  
-> que se mezcla a la noche, su gran hermana funesta,  
-> y que contra el día, negra y dura, protesta,  
-> ¿de dónde viene? De ti, de tu carne, del limo  
-> que reviste al espíritu al volverse demonio;  
-> de ese cuerpo que, creado por tu primera culpa,  
-> tras rechazar a Dios, resiste a la luz;  
-> de tu materia, ¡ay!, de tu iniquidad.  
-> Esa sombra dice: -Yo soy el ser de flaqueza;  
-> ya he caído; puedo caer aún-.  
-> El ángel deja que la aurora pase a través de él;  
-> ningún oscuro simulacro sigue al ser aromal;  
-> hombre, todo lo que da sombra ha hecho el mal.  
->
-> Ahora, esta es la roca fatídica,  
-> y voy a explicarte cuanto te señalo;  
-> voy a llenarte los ojos de noche y de fulgores.  
-> Prepárate, frente triste, para sudores fúnebres.  
-> El viento de lo alto pasa sobre mí, y lo que me arranca  
-> te lo arrojo; toma y mira.  
->
-> Y, ante todo, has de saber  
-> que el mundo donde vives es un mundo espantoso  
-> ante el cual el soñador, vencido por lo infinito,  
-> alza los brazos al cielo y retrocede, terrible.  
-> Tu sol es lúgubre y tu tierra es horrible.  
-> Habitáis el umbral del mundo del castigo.  
-> Pero no estáis enteramente fuera de Dios;  
->
-> Dios, sol en el azul, chispa entre la ceniza,  
-> no está fuera de nada, pues es el fin de todo;  
-> el relámpago es su mirada, tanto como el rayo de luz;  
-> y todo, hasta el mal, es la creación,  
-> pues el reverso de la máscara sigue siendo el rostro.  
->
-> -¡Oh ala oscura, invisible, de inmensa envergadura!  
-> ¡Espíritu! ¡Espíritu! ¡Espíritu! -exclamé, aterrado.  
-> El espectro prosiguió sin haberme escuchado:  
->
-> Demos un paso más en estas cosas hondas.  
->
-> Hombre, tú quieres, haces, construyes y fundas,  
-> y dices: -Estoy solo, pues soy el pensador.  
-> El universo solo me tiene a mí en su espesor sombrío.  
-> Más acá está la noche; más allá está el sueño.  
-> El ideal es un ojo que la ciencia revienta.  
-> Yo soy el fin y soy la cumbre-.  
-> Veamos: ¿observas al buey que se somete?  
-> ¿Escuchas el sonido de tu paso en los mármoles?  
-> ¿Interrogas al agua? Y cuando miras árboles,  
-> ¿hablas alguna vez a esos religiosos?  
-> Como en la ladera de un monte prodigioso,  
-> vasta refriega de rumores confusos, del fondo de la sombra,  
-> ves subir hacia ti la creación oscura.  
-> La roca está más lejos; el animal, más cerca.  
-> ¡Pareces la cima altiva y viviente!  
-> Pero di: ¿crees que el ser, ilógico, nos engaña?  
-> La escala que ves, ¿crees que se interrumpe?  
-> ¿Crees, tú, cuyos sentidos reciben luz de arriba,  
-> que la creación que, lenta y por grados,  
-> se eleva hacia la luz y, en todo su camino,  
-> con más claridad hace brillar menos materia  
->
-> y mezcla más instintos al monstruo que mengua,  
-> crees que esa vida enorme, que llena  
-> de alientos el follaje y de fulgores la cabeza,  
-> que va de la roca al árbol y del árbol a la fiera,  
-> y desde la piedra hasta ti sube insensiblemente,  
-> se detiene sobre el abismo en el hombre, escarpadura?  
-> No, prosigue, invencible, admirable,  
-> entra en lo invisible y en lo imponderable,  
-> allí desaparece para ti, carne vil, llena el azul  
-> de un mundo deslumbrante, espejo del mundo oscuro,  
-> de seres vecinos del hombre y de otros que se alejan,  
-> de espíritus puros, de videntes cuyas glorias dan testimonio,  
-> de ángeles hechos de rayos, como el hombre de instintos;  
-> se interna a través de cielos jamás alcanzados,  
-> sublime ascensión de escalas estrelladas,  
-> de los demonios encadenados sube a las almas aladas,  
-> une la frente oscura al dedo radiante del pie,  
-> enlaza el astro espíritu con el arcángel sol,  
-> une, atravesando millones de leguas,  
-> los grupos constelados y las legiones azules,  
-> puebla lo alto, lo bajo, los bordes y el centro,  
-> ¡y en las profundidades se desvanece en Dios!  
->
-> Esa escala aparece vagamente en la vida  
-> y en la muerte. Siempre la han subido los justos:  
-> Jacob al verla, y Catón sin verla.  
-> Sus peldaños son duelo, sabiduría, exilio, deber.  
->
-> Y esa escala viene de más lejos que la tierra.  
-> Has de saber que empieza en los mundos del misterio,  
-> en los mundos de los terrores y las perdiciones;  
-> y que viene, entre pálidas visiones,  
-> del precipicio donde están los espectros y los crímenes,  
-> donde la creación, espantando a los abismos,  
-> se prolonga en la sombra como espectro indefinido.  
-> Pues, bajo el globo donde vive el hombre desterrado,  
->
-> hombres, más abajo que vosotros, en el nadir lívido,  
-> en esa plenitud horrible que se cree vacía,  
-> ¡el mal, que por la carne, ay, os esclaviza,  
-> vomita un vapor monstruoso que vive!  
-> Allí, sombría, se hunde en oleadas de desastres  
-> la hidra Universo, torciendo su cuerpo escamado de astros;  
-> allí todo flota y se va en un naufragio oscuro;  
-> en ese abismo sin borde, sin respiradero, sin muro,  
-> llueve sin cesar la ceniza de todo lo que vivió;  
-> y se ve en el fondo, cuando el ojo se atreve a bajar,  
-> más allá de la vida, y del aliento y del ruido,  
-> un espantoso sol negro del que irradia la noche.  
->
-> Así, la materia pende del ideal y arrastra  
-> al espíritu hacia el animal, al ángel hacia el sátiro,  
-> a la cumbre hacia lo bajo, al amor hacia el apetito.  
-> Con lo grande que se derrumba hace lo pequeño.  
->
-> Cómo de tanto azul se engendra tanto espanto,  
-> cómo el día hace sombra y el fuego puro, ceniza,  
-> cómo del vidente puede nacer la ceguera,  
-> cómo lo tenebroso desciende de lo llameante,  
-> cómo del monstruo espíritu nace el monstruo materia,  
-> un día, en el sepulcro, siniestro vestuario,  
-> lo sabrás; la tumba está hecha para saber;  
-> verás; hoy solo puedes entrever;  
-> pero, ya que Dios permite que mi voz te advierta,  
-> te hablo.  
->
-> Y, ante todo, ¿qué es la justicia?  
-> ¿Quién la imparte? ¿Quién la hace? ¿Dónde? ¿Cuándo? ¿En qué momento?  
-> ¿Quién, pues, pesa la culpa? ¿Y quién el castigo?  
->
-> El ser creado se mueve en la inmensa luz.  
->
-> Libre, sabe dónde acaba el bien, dónde comienza el mal;  
-> tiene por jueces sus acciones.  
->
-> Basta  
-> con que sea malo o bueno; todo está dicho. Lo que se hizo,  
-> si crimen, es nuestro carcelero; si virtud, nos libera.  
-> El ser abre, sin saberlo, el libro de sí mismo;  
-> su conciencia serena señala en él con el dedo  
-> lo que la sombra le reserva o lo que Dios le debe.  
-> Se obra, y se gana o se pierde a cada paso;  
-> se puede ser chispa o salpicadura;  
-> luz o fango, arcángel con vuelo de águila o bandido;  
-> la vasta escala está ahí. Como te he dicho,  
-> por zonas sin fin la vida universal  
-> sube, y por innumerables grados se derrama,  
-> desde la noche infame hasta el azul hechicero.  
-> El ser, al atravesarla, se vuelve malo o puro.  
-> Arriba planea la alegría; abajo se arrastra el horror.  
-> Según que el alma, amante, humilde, buena, serena,  
-> aspire a la luz y tienda hacia el ideal,  
-> o se haga pesada, inmunda, bajo el peso creciente del mal,  
-> en la vida infinita se sube y se toma vuelo,  
-> o se cae; y cada ser es su propia balanza.  
->
-> Dios no nos juzga. Vivos todos a un tiempo,  
-> pesamos, y cada cual desciende según su peso.  
->
-> ¡Hombres! Solo con los párpados cerrados nos acercamos  
-> a esas inmensidades de abajo.  
->
-> ¡Ven, si te atreves!  
-> Mira en este pozo sombrío y vertiginoso,  
-> cuenta los oscuros nudos de la creación,  
-> ven, mira, sondea:  
->
-> Por debajo del hombre que contempla,  
-> que puede ser una cloaca o puede ser un templo,  
-> ser en quien el instinto vive disuelto en la razón,  
-> está el animal inclinado hacia la tierra; por debajo  
-> del bruto está la planta inerte, sin párpado  
-> y sin gritos; debajo de la planta está la piedra;  
-> debajo de la piedra está el caos sin nombre.  
->
-> Avancemos en esta sombra y sé mi compañero.  
->
-> Cada culpa que uno comete es un calabozo que se abre.  
-> Los malvados, ignorantes del misterio que los cubre,  
-> los seres de furia, de sangre, de traición,  
-> con sus acciones construyen su prisión;  
-> todo bandido, cuando la muerte viene a tocarle el hombro  
-> y lo despierta, se encuentra, demudado, en la cárcel  
-> que le hizo su delito, reptando tras él;  
-> Tiberio en una roca, Sejano en una serpiente.  
->
-> El hombre anda sin ver lo que hace en el abismo.  
-> El asesino palidecería si viese a su víctima;  
-> es él mismo. El vil opresor, el tirano, loco sombrío,  
-> golpeando a todos sin piedad, forja el clavo  
-> que lo clavará en la sombra, en el fondo de la materia.  
->
-> Las tumbas son los agujeros de la criba cementerio,  
-> por donde cae, semilla oscura en un campo tenebroso,  
-> el espantoso torbellino de las almas.  
->
-> Todo malvado  
-> hace nacer al expirar el monstruo de su vida,  
-> que se apodera de él. Al horror le sucede el horror.  
-> Nemrod gruñe encerrado en la montaña escarpada;  
-> cuando Dalila desciende a la tumba, un áspid  
-> sale de los pliegues del sudario llevándose el alma falsa;  
-> Friné muere, un sapo salta fuera de la fosa;  
-> ese escorpión que duerme en el fondo de una piedra  
-> es Clitemnestra en brazos de Egisto, su amante;  
-> del sepulcro de Ánito sale una cicuta;  
-> el acebo oscuro y la ortiga de agudo aguijón  
-> lloran cuando el aquilón los azota, y el aquilón  
-> les dice: ¡Calla, Zoilo! ¡Y sufre, Ganelón!  
-> Dios entrega, choque atroz que hace retumbar la llanura,  
-> al caballo Brunegilda el adoquín Fredegunda;  
-> la tenaza que enrojece en el brasero espantoso  
-> está hecha del duque de Alba y de Felipe Segundo;  
-> Farinacio es el gancho de las negras carnicerías;  
-> el águila marina, al fondo de la sombra, tiene los ojos de Jeffreys;  
-> Tristán está incomunicado en la madera de una horca.  
-> Cuando caen en la muerte todos esos bandidos, Macbeth,  
-> Ezzelino, Ricardo Tercero, Carrier, Ludovico Sforza,  
-> la materia les pone la camisa de fuerza.  
-> ¡Oh, cómo en su dicha, que oculta una sentencia oscura,  
-> temblaría Mesalina o la horrible Isabel,  
-> si, en sus acciones próximas al sepulcro,  
-> sintiese esa mujer que le brotan raíces,  
-> y que, habiendo sido monstruo, se convertirá en flor!  
-> ¡A cada cual su crimen! ¡A cada cual su dolor!  
-> Claudio es el alga que el agua arrastra de puerto en puerto;  
-> Jerjes es excremento; Carlos Noveno es cadáver;  
-> Herodes es el mimbre de las cunas que lloran;  
-> el alma del negro Judas, desde hace mil ochocientos años,  
->
-> se dispersa y renace en los escupitajos de los hombres;  
-> y el viento que antaño soplaba sobre las Sodomas  
-> mezcla, en el hogar abyecto y bajo el vil caldero,  
-> el humo Eróstrato con la llama Nerón.  
->
-> Y todo, bestia, árbol y roca, estando vivo en la tierra,  
-> todo es monstruo, salvo el hombre, espíritu solitario.  
->
-> El alma que su negrura expulsa del firmamento  
-> desciende por los diversos grados del castigo  
-> según la gane más o menos oscuridad.  
-> El hombre es su prisión; la bestia, su presidio;  
-> el árbol, su calabozo; la piedra, su infierno.  
-> El cielo de lo alto, el único espléndido y claro,  
-> la sigue con los ojos en la sombra y, arrojándole la aurora,  
-> trata, al mirarla, de atraerla todavía.  
-> ¡Oh caída! En la bestia, a través de los barrotes  
-> del instinto que obstruye pálidos respiraderos,  
-> conservando aún la voz, el vuelo y la pupila,  
-> el alma entrevé a lo lejos el fulgor eterno;  
-> en el árbol se estremece y, sin día y sin ojos,  
-> siente aún en el viento algo de los cielos;  
-> en la piedra repta, inmóvil, muda,  
-> sin ver ya siquiera la oscura silueta  
-> del mundo que se eclipsa y se desvanece,  
-> y frente a frente con su crimen en la noche.  
-> El alma arrastra en esos tres calabozos su culpa negra.  
-> Como tiene su forma, tiene también su memoria;  
-> sabe lo que es; y, cayendo sin asideros,  
-> ve menguar la claridad en la pared del pozo;  
-> asiste a su caída y, duro guijarro que rueda,  
-> piensa: Soy Octavio; y, vil cardo pisoteado,  
-> grita al talón: Soy Atila el gigante;  
-> y, lombriz al fondo de la fosa común, royendo  
->
-> un cráneo infecto y negro, dice: Soy Cleopatra.  
-> Y, búho a pesar del alba, oso que desafía al pastor,  
-> cumple la ley que desde lo alto la encadena;  
-> piedra, aplasta; espina, hiere; así ha de ser.  
-> El monstruo está encerrado en su horror viviente.  
-> En vano querría despojarse del espanto;  
-> ha de seguir siendo horrible y seguir castigado;  
-> ¡oh misterio! ¡Quizá el tigre tenga piedad!  
-> El tigre, en su lomo, que acaso tuvo un ala,  
-> lleva la sombra de los barrotes de la jaula eterna;  
-> un hilo invisible ata a los negros cadalsos  
-> al negro cuervo cuya ala tiene forma de guadaña;  
-> el alma loba no puede dejar de ser loba.  
-> Pues al monstruo, bajo el cielo que lo prueba,  
-> la fatalidad lo mantiene en la expiación.  
-> Antaño, sin comprenderla y con ojos atónitos,  
-> la India casi entrevió esta metempsicosis.  
-> La zarza se vuelve garra, y la hoja de la rosa  
-> se vuelve lengua de gato y, entre sombra y gritos,  
-> horrible, lame y bebe la sangre del ratón;  
-> ¿quién conoce al monstruo llamado mandrágora?  
-> ¿Quién sabe qué ilumina, al anochecer, la fulgora,  
-> ser en quien la fealdad se vuelve claridad?  
-> Lo que sucede en la sombra donde crece la flor de estío  
-> borra el terror de los antiguos avernos.  
-> ¡Estratos espantosos! Cavernas sobre cavernas.  
-> ¡Colmena oscura del mal, del crimen y del remordimiento!  
->
-> Así, una bestia va, viene, ruge, aúlla, muerde;  
-> un árbol está ahí, alzando sus ramas erizadas;  
-> una losa se hunde en medio de las calzadas  
-> que aplasta la carreta y destruye el invierno,  
-> y, bajo esos espesores de materia y de noche,  
-> árbol, bestia, adoquín, peso que nada levanta,  
-> en esa profundidad terrible, ¡un alma sueña!  
->
-> ¿Qué hace? ¡Piensa en Dios!  
->
-> ¡Fatalidad!  
-> ¡Plazo cumplido! ¡Retorno! ¡Reverso! ¡La otra cara!  
-> ¡Oh ley! Mientras, sentados a la mesa, grupos alegres,  
-> los perversos, los poderosos, vaciando todas las copas,  
-> olvidando que al hoy lo acecha el mañana,  
-> exhiben la mandíbula en su loca alegría,  
-> esto, en su noche muda y colosal,  
-> mostrando como ellos los dientes al fondo de la sala,  
-> les reserva la muerte, ¡esa siniestra burlona!  
->
-> Nosotros, videntes del cielo superior, tenemos  
-> el espectáculo inaudito de vuestras regiones bajas.  
-> ¡Oh soñador, tenías que caer en esas noches!  
-> Escuchamos el grito de la inmensa desdicha.  
-> Por encima de una roca, de un lobo o de una flor,  
-> a veces se nos aparece el alma, medio cuerpo fuera,  
-> pobre sombra llorosa que lucha, ¡ay!, casi sumergida;  
-> el lobo la retiene, la roca aprieta y tuerce sus pies,  
-> y la flor implacable y feroz la muerde.  
-> Oímos el sonido del rayo que Dios lanza,  
-> la voz de lo que el hombre llama silencio,  
-> y vuestros hondos suspiros, ¡guijarros desesperados!  
-> Vemos la palidez de todas las frentes emparedadas.  
-> A través de la materia, cripta atroz sin puertas,  
-> el ángel nos es visible con sus alas muertas.  
-> Asistimos a los duelos, a la blasfemia, al pesar,  
-> a las furias; y, de noche, vemos a los bosques,  
-> de donde buscan huir los espectros encerrados,  
-> desgreñarse en la sombra en lúgubras humaredas.  
-> ¡Por doquier, por doquier, por doquier! En las olas, en los bosques,  
-> en la hierba en flor, en el oro que sirve de cetro a los reyes,  
-> en el junco del que Hermes se hace una vara,  
-> por doquier el castigo contempla, observa o acecha,  
->
-> sordo a las preguntas, triste, atroz, pensativo, demudado;  
-> y todo es el ojo del que sale esa terrible mirada.  
->
-> ¡Oh castigo! ¡Laberinto de espirales fúnebres!  
-> Construcción de abajo que busca las tinieblas,  
-> se hunde bajo el mundo y desciende a la noche,  
-> y, Babel invertida, ¡huye al fondo de la sombra!  
->
-> El hombre, que planea y repta, ser crepuscular,  
-> es su centro.  
->
-> El hombre es clemencia y cólera;  
-> fondo vil del pozo, plataforma radiante de la torre;  
-> peldaño de arriba para la sombra, y de abajo para el día.  
-> El ángel baja a él; la bestia, tras la muerte, sube;  
-> para la bestia es gloria, y para el ángel, vergüenza;  
-> Dios mezcla en vuestra raza, hombres desventurados,  
-> a los semidioses castigados con los monstruos perdonados.  
->
-> De ahí que a veces, ¡misterio que Dios rige!,  
-> se oigan salir de una boca en apariencia humana  
-> palabras semejantes a rugidos,  
-> y que, en otros lugares y en otros momentos,  
-> se crea ver abrirse alas de ángeles en una frente.  
->
-> Rey presidiario, el hombre, espíritu, piensa y, materia, come.  
-> El alma en él no puede incorporarse.  
-> El hombre, como el bruto, saciado de la nada,  
-> vacía cada noche el vaso negro del sueño.  
-> La cadena del infierno, atada al pie del hombre,  
-> trae de vuelta cada día a la cloaca impura  
-> la belleza, el genio, que volaron hacia el azul,  
-> mezcla la peste al aliento ideal de los pechos,  
-> y arrastra, con Sócrates, a Aspasia a las letrinas.  
->
-> Por un lado, sin embargo, el hombre es ilimitado.  
-> El monstruo tiene la argolla; el hombre, la libertad.  
-> Soñador, retén esto: el hombre es un equilibrio.  
-> El hombre es una prisión donde el alma sigue libre.  
-> El alma, en el hombre, obra, hace el bien, hace el mal,  
-> remonta hacia el espíritu, recae en el animal;  
-> y para que, en su vuelo hacia los cielos, nada ate  
-> su conciencia alada, llena solo de Dios,  
-> Dios, cuando un alma nace en el hombre movido al bien,  
-> rompe en su memoria el hilo del pasado;  
-> de ahí que la noche sepa más que la aurora.  
-> El monstruo se conoce mientras el hombre se ignora.  
-> El monstruo es el sufrimiento, y el hombre, la acción.  
-> El hombre es el único punto de la creación  
-> donde, para seguir siendo libre al hacerse mejor,  
-> el alma ha de olvidar su vida anterior.  
-> ¡Misterio! En el umbral de todo, el espíritu sueña deslumbrado.  
->
-> El hombre no ve a Dios, pero puede ir hacia él,  
-> siguiendo la claridad del bien, siempre presente;  
-> el monstruo, árbol, roca o bestia rugiente,  
-> ve a Dios, ese es su tormento, y sigue encadenado lejos.  
->
-> El hombre tiene el amor por ala y la necesidad por yugo.  
-> Él mismo siembra la sombra sobre lo que ve;  
-> la noche sale de su ojo como una humareda;  
-> hombre, nada sabes; ¡andas, palideciendo!  
-> A veces el velo oscuro que te cubre, oh caminante,  
-> se alza y flota al viento que sopla de otra esfera,  
-> hincha un instante sus pliegues hasta la luz,  
-> luego recae sobre ti, espectro, y vuelve a ser negro.  
-> Tus magos, tus pensadores han intentado ver;  
->
-> ¿qué han visto? ¿Qué han hecho? ¿Qué han dicho, esos hijos de Eva?  
-> Nada.  
->
-> ¡Hombre! A tu alrededor sueña la creación.  
-> Mil seres desconocidos te rodean en tu muro.  
-> Vas, vienes, duermes bajo su mirada oscura,  
-> y no sientes que viven alrededor de tu vida.  
-> Toda una legión de almas te está sometida;  
-> mientras se compadece de ti, tú la pisoteas.  
-> Todos tus pasos hacia el día los espía la sombra.  
-> Lo que llamas cosa, objeto, naturaleza muerta,  
-> sabe, piensa, escucha, entiende. El cerrojo de tu puerta  
-> ve llegar tu culpa y quisiera cerrarse.  
-> Tu cristal conoce el alba y dice: ¡Ver! ¡Creer! ¡Amar!  
-> Las cortinas de tu lecho se estremecen con tus sueños.  
-> Cuando en malos designios te sumerges, pensativo,  
-> la ceniza dice al fondo del hogar sepulcral:  
-> Mírame; soy lo que queda del mal.  
-> ¡Ay! El hombre imprudente traiciona, tortura, oprime.  
-> La bestia en su infierno ve los dos extremos del crimen;  
-> un lobo podría dar consejos a Nerón.  
-> ¡Hombre! ¡Hombre! ¡Águila cegada, menor que un mosquito!  
-> Mientras en tu Louvre o en tu choza  
-> vives, sin haber siquiera deletreado la primera  
-> de las constelaciones, alfabeto oscuro que brilla  
-> y tiembla en la página inmensa de la noche,  
-> mientras maldices y mientras niegas,  
-> mientras dices: ¡No!, a los astros; a los genios:  
-> ¡No!; al ideal: ¡No!; a la virtud: ¿Por qué?,  
-> mientras te mantienes fuera de la ley,  
-> copiando los desdenes inquietos o seguros  
-> de esos sabios que vemos soñar en los viejos bustos,  
-> y dices: ¿Qué sé yo?, amargo, frío, descreído,  
-> prostituyendo tu boca a la risa de la nada,  
-> a través de la espesura de la naturaleza inmensa,  
-> olfateando la eternidad con su hocico deforme,  
->
-> ¡allí, en la sombra, a tus pies, hombre, tu perro ve a Dios!  
->
-> Ah, te oigo. Dices: -¡Qué duelo! La bestia es poco,  
-> el hombre no es nada. ¡Oh ley miserable! ¡Sombra! ¡Abismo!-.  
->
-> ¡Oh soñador! Esa ley miserable es sublime.  
-> ¡Hay que volver a decirlo todo a tu espíritu endeble!  
-> A la fatalidad, ley del monstruo cautivo,  
-> sucede el deber, fatalidad del hombre.  
-> Así por todas partes se cumple la prueba,  
-> en el monstruo pasivo, en el hombre inteligente,  
-> trocándose en deber la necesidad sombría;  
-> y el alma, remontando hacia su belleza primera,  
-> va de la sombra fatal a la luz libre.  
-> Ahora bien, te lo repito: para transfigurarse  
-> y para redimirse, el hombre debe ignorar.  
-> Debe estar cegado por todas las polvaredas.  
-> Si no, como el niño al que unas correas guían,  
-> el hombre viviría caminando derecho hacia la visión.  
-> Dudar es su poder y su castigo.  
-> Ve la rosa y niega; ve la aurora y duda;  
-> ¿dónde estaría el mérito de recobrar su senda,  
-> si el hombre, viendo claro, rey de su voluntad,  
-> tuviese la certeza, teniendo la libertad?  
-> No. Es preciso que vacile en la vasta naturaleza,  
-> que atraviese la espantosa aventura de elegir,  
-> y que compare con el vicio que agita su espejo,  
-> con el crimen, con los deleites, el ojo lloroso del deber;  
-> ¡es preciso que dude! Ayer creyente, mañana impío;  
-> corre del mal al bien; escruta, sondea, espía,  
-> va, vuelve, y, temblando, de rodillas, de pie,  
-> con los brazos tendidos, triste, busca a Dios por doquier;  
-> tantea lo infinito hasta sentirlo allí;  
-> entonces su alma alada estalla, estremecida;  
->
-> el ángel deslumbrante brilla en el hombre transparente,  
-> la duda lo hace libre, y la libertad, grande.  
-> El cautiverio sabe; la libertad supone,  
-> cava, apresa el efecto, lo compara con la causa,  
-> cree querer el bienestar y quiere el firmamento;  
-> y, buscando el guijarro, encuentra el diamante.  
-> Así el alma, paso a paso, se adueña del cielo.  
->
-> En el monstruo, expía; en el hombre, repara.  
->
-> Sí, tu universo feroz es el presidiario de Dios.  
-> Las constelaciones, sombrías letras de fuego,  
-> son las marcas del presidio en el hombro del mundo.  
-> En vuestra región abunda tanto espanto  
-> que, para el hombre, marcado también por el hierro ardiente,  
-> cuando alza los ojos hacia los astros, allá arriba,  
-> ¡el Cangrejo resplandece, el Escorpión llamea,  
-> y en la inmensidad ladra el Perro siniestro!  
-> Esos soles desconocidos se agrupan sobre su frente  
-> como el espanto, el duelo, la amenaza y la afrenta;  
-> por todas partes se extiende la sombra inconmensurable;  
-> abajo lo oscuro, lo impuro, lo malo, lo execrable,  
-> lo peor, montón espantoso, pululan; en el fondo,  
-> intercambian entre sí, en la sombra, lo que hacen;  
-> Tifón da el horror, Satán da el crimen;  
-> ¡lúgubre intimidad del mal y del abismo!  
-> ¡Amores del alma monstruo y del monstruo universo!  
-> ¡Beso triste! Y lo informe engendrado por lo perverso,  
-> la materia, el bloque, el fango, la gehena,  
-> la espuma, el caos, el invierno, nacidos del odio,  
-> los rostros de belleza donde habitan demonios,  
-> todos los seres malditos, mezclados a los viles limos,  
-> apresados por la planta feroz y la bestia salvaje,  
-> el rechinar de dientes, el miedo, la risa atroz,  
->
-> el orgullo, que lo infinito doblega bajo su nivel,  
-> reptan, negros prisioneros, en la noche, negra cripta.  
-> La puerta, atroz y hecha de sombra, es pesada;  
-> por momentos se oyen, en la profundidad sorda,  
-> los esfuerzos que los montes, las olas, los huracanes,  
-> los volcanes, los bosques, los animales bandidos,  
-> y todos los monstruos hacen por levantar el pestillo.  
-> Y sobre ese cúmulo de sombra, de crimen y de pena,  
-> ese gran cielo formidable es el sello de Dios.  
->
-> ¡Por eso, soñador cuyo deseo es la muerte,  
-> tanta angustia está grabada en la frente de los cenobitas!  
->
-> Acabo de mostrarte el abismo. Tú lo habitas.  
->
-> Los mundos, en la noche que vosotros llamáis azul,  
-> por las brechas que la muerte pálida abre en sus muros,  
-> al huir se arrojan almas unos a otros.  
->
-> En vuestro globo, donde hay tantas cárceles infames,  
-> tenéis malvados de todos los universos,  
-> condenados que, venidos de los cielos más diversos,  
-> sueñan en vuestras rocas o se doblan en vuestros árboles;  
-> tan estupefactos ante este mundo que ven,  
-> que, aunque tuvieran la palabra, no podrían hablar.  
-> Se siente a algunos de ellos estremecerse y temblar.  
-> De ahí los vanos sueños del bronce y del augur.  
->
-> Así pues, represéntate esta imagen sombría:  
-> ese abismo es la cloaca del mal universal.  
->
-> Aquí desemboca, desde todos los puntos del cielo,  
-> la caída de los castigados, tenebrosa estela.  
-> En esta profundidad sombría, áspera, desventurada,  
->
-> de cada globo cae una ola vertiginosa  
-> de almas, de espíritus malsanos y de seres venenosos,  
-> ola que la eternidad ve derramarse sin fin.  
-> Cada estrella que brilla, con su frente de oro, deja pender  
-> su cabellera de sombra en este pozo espantoso.  
-> Alma inmortal, mira, y tiembla al mirar:  
-> ¡he aquí el precipicio execrable donde te hundes!  
->
-> ¡Oh vosotros, quienesquiera que seáis, que pasáis por estas sombras,  
-> verted vuestra piedad sobre estos dolores sin fondo!  
-> En este abismo, donde el abismo se funde en el abismo,  
-> se retuercen los crímenes, transformados en suplicios,  
-> el espanto, el duelo, el mal, las tinieblas cómplices,  
-> las lágrimas bajo el pelaje, el suspiro extinguido  
-> en la flor, ¡y el grito emparedado en la piedra!  
-> ¡Oh vosotros, quienesquiera que seáis, llorad por estas miserias!  
-> Solo para Dios, que todo lo sabe, son necesarias;  
-> ¡pero podéis llorar sobre el enorme calabozo  
-> sin alterar el sombrío equilibrio de lo alto!  
-> ¡Ay! ¡Ay! ¡Ay! ¡Todo está vivo! ¡Todo piensa!  
-> La memoria es el tormento, siendo la recompensa.  
->
-> ¡Oh, cómo se sufre aquí y cómo se recuerda!  
-> ¡Tortura del espíritu que la materia aprisiona!  
-> El bruto y el granito, ¡qué potro de tormento para el alma!  
-> Este mulo fue sultán; esta cochinilla fue mujer.  
-> El árbol es un exiliado; la roca, un proscrito.  
-> ¿Acaso, en alguna parte, por ventura, alguien ríe  
-> cuando estas realidades están ahí, llenando la sombra?  
-> La ruina, la muerte, el hueso, el escombro,  
-> están vivos. Un remordimiento sueña en un resto.  
-> Para el ojo profundo que ve, los antros son gritos.  
-> ¡Ay! El cisne es negro, el lirio piensa en sus crímenes;  
-> la perla es noche; la nieve es el fango de las cumbres;  
->
-> el mismo abismo, horrible y feroz, sin amparo,  
-> se abre en la lechuza y en el colibrí;  
-> la mosca, alma, levanta el vuelo y se quema en la llama;  
-> y la llama, espíritu, quema con angustia un alma;  
-> el horror estremece las plumas del pájaro;  
-> todo es dolor.  
->
-> Las flores sufren bajo las tijeras,  
-> y se cierran como párpados cerrados;  
-> todas las mujeres están teñidas de sangre de rosas;  
-> la virgen en el baile, que danza, ángel de frescos colores,  
-> y que lleva en la mano un ramillete de flores,  
-> respira, suspirando, un ramo de agonías.  
-> Llorad por las fealdades y las ignominias,  
-> llorad por la araña inmunda, por el gusano,  
-> por la babosa de lomo mojado como el invierno,  
-> por el vil pulgón que se ve colgar de las hojas,  
-> por el cangrejo espantoso, por la atroz escolopendra,  
-> por el sapo que aterra, pobre monstruo de ojos dulces,  
-> ¡que mira siempre el cielo misterioso!  
-> Compadeceos del ave de crimen y de la bestia de presa.  
-> Lo que Domiciano, césar, hizo con alegría,  
-> como tigre lo continúa con horror. Verres,  
-> que fue lobo bajo la púrpura, es lobo en los bosques;  
-> desciende, ya despierto, por la otra vertiente del sueño;  
-> su risa, al fondo de los bosques, acaba en aullido;  
-> llorad por lo que aúlla y llorad por Verres.  
-> Sobre estas tumbas vivientes, veladas por oscuras sentencias,  
-> ¡inclinaos con ternura! ¡Verted vuestra plegaria!  
-> La piedad hace salir rayos de la piedra.  
-> Compadeceos del lobezno, compadeceos del leoncillo.  
-> La materia, bloque atroz, no es más que el pesado cúmulo  
-> de efectos monstruosos nacidos de oscuras causas.  
-> Tened piedad. Ved almas en las cosas.  
-> ¡Ay! También el calabozo sufre el encierro;  
-> compadeceos del prisionero, ¡pero también del cerrojo!  
->
-> Compadeceos de la cadena al fondo de los presidios insalubres;  
-> el hacha y el tajo son dos seres lúgubres;  
-> el hacha sufre tanto como el cuerpo, el tajo  
-> sufre tanto como la cabeza; ¡oh misterios de lo alto!  
-> Se libran una batalla áspera y espantosa;  
-> él mella el hacha, y el hacha lo hiende;  
-> se dicen en voz baja el uno al otro: ¡Asesino!  
-> Y el hacha maldice a los hombres, enjambre sombrío,  
-> cuando, al anochecer, a la espalda del verdugo, su ministro,  
-> vuelve a la sombra y brilla, espejo siniestro,  
-> chorreando sangre y reflejando los cielos;  
-> y, de noche, en el mostrador sombrío y silencioso,  
-> el cadáver de cuello rojo, espantoso, helado, pálido,  
-> solo él sabe qué le dice el tajo, tronco también él.  
-> ¡Oh, qué fría es la tierra y qué duras las rocas!  
-> ¡Qué mudo horror en las espesuras oscuras!  
-> Las negras lágrimas de la noche sobre la paloma blanca  
-> caen; el viento desnuda y tortura la rama;  
-> ¡qué monólogo atroz en el árbol de verdes ramajes!  
-> ¡Qué temblor en la hierba! ¡Oh, qué ojos fijos, abiertos,  
-> en los hondos guijarros, mazmorras de las almas!  
-> Es un alma lo que el agua sierra con sus frías hojas;  
-> es un alma lo que el lagar hace fluir.  
-> ¡Tinieblas! El universo está demudado. Cada tarde,  
-> el negro horizonte sube y la noche negra cae;  
-> ambos, a occidente, con movimiento de tumba,  
-> van acercándose, y, en el firmamento,  
-> ¡oh terror!, sobre el yugo, lentamente aplastado,  
-> se cierra la tenaza de la sombra espantosa.  
-> ¡Oh, las cunas dan miedo! Hay un presidio en un germen.  
-> ¡Tened piedad, todos vosotros, quienesquiera que seáis!  
-> Los espantosos castigos, triturados unos contra otros,  
-> ruedan, sumergiéndolo todo, salvo las memorias.  
->
-> A veces se ve pasar en esas profundidades negras,  
->
-> como un rayo lejano del eterno amor;  
-> entonces la hiena Atreo y el chacal Timur,  
-> y la espina Caifás y la caña Pilato,  
-> el volcán Alarico de fauces escarlatas,  
-> el oso Enrique Octavo, por quien Moro rezó en vano,  
-> el jabalí Selim y el cerdo Borgia,  
-> lanzan gritos hacia el Ser adorable; y las bestias  
-> que antaño llevaron mitras sobre sus cabezas,  
-> los granos de arena reyes, las briznas de hierba emperadores,  
-> todos los espantosos orgullos y todas las furias,  
-> se quiebran; la dulzura se apodera del más salvaje;  
-> el gato lame al pájaro, el pájaro besa a la mosca;  
-> el buitre dice en la sombra al gorrión: ¡Perdón!  
-> Una caricia sale del acebo y del cardo;  
-> todos los rugidos se funden en plegarias;  
-> se oye a las piedras acusarse de sus crímenes;  
-> todos esos oscuros calabozos que llaman flores  
-> se estremecen; la roca se deshace en llanto;  
-> brazos se alzan fuera de la tumba dormida;  
-> el viento gime, la noche se queja, el agua se lamenta,  
-> y, bajo el ojo enternecido que mira desde lo alto,  
-> todo el abismo no es ya sino un inmenso sollozo.  
->
-> ¡Tened esperanza! ¡Tened esperanza! ¡Tened esperanza, desdichados!  
-> ¡No hay duelo infinito, ni males incurables,  
-> ni infierno eterno!  
-> Los dolores van a Dios como la flecha al blanco;  
-> las buenas acciones son los goznes invisibles  
-> de la puerta del cielo.  
->
-> El duelo es la virtud, el remordimiento es el polo  
-> de los monstruos agarrotados cuyo presidio es el abismo;  
-> cuando, ante Jehová,  
->
-> un viviente permanece puro entre las sombras carnales,  
-> la muerte, ángel enternecido, devuelve sus dos alas  
-> al hombre que se va.  
->
-> Los infiernos se vuelven edenes; esa es su tarea.  
-> Todo globo es un pájaro que el mal retiene y suelta.  
-> Vivientes, os lo digo:  
-> las virtudes, entre vosotros, hacen esa labor augusta  
-> de acrecer el cielo sobre vuestras frentes; quien es justo  
-> trabaja en el paraíso.  
->
-> La hora se acerca. Tened esperanza. ¡Reavivad el alma apagada!  
-> ¡Amaos! ¡Amaos! Pues es el calor santo,  
-> es el fuego del día verdadero.  
-> El universo oscuro, frío, helado, pesado, reclama  
-> la sublimación del ser por la llama,  
-> del hombre por el amor.  
->
-> Ya, en el océano de sombra que Dios domina,  
-> el archipiélago tenebroso de los presidios se ilumina;  
-> Dios es el gran imán;  
-> y los globos, abriendo su pupila siniestra,  
-> hacia las inmensidades de la aurora eterna  
-> ¡se vuelven lentamente!  
->
-> ¡Oh, cómo cantarán todas las armonías,  
-> cómo irradiarán en las esferas benditas  
-> los rostros de claridad,  
-> cómo se fundirán los firmamentos en delirios,  
-> cómo se estremecerán todas las grandes liras  
-> de la serenidad,  
->
-> cuando, abriendo todas las garras del monstruo materia,  
-> haciendo que las miserias se desvanezcan en esplendores,  
-> trocando el ajenjo en miel,  
->
-> inundando de belleza la noche menguada,  
-> como el sol atrae hacia sí la nube  
-> y la llena de arcoíris,  
->
-> Dios, atrayendo las tinieblas con su mirada fija,  
-> viendo hacia él, desde el fondo de las cloacas fúnebres  
-> donde el mal le imploró,  
-> subir la enormidad balbuceando alabanzas,  
-> ¡hará volver, entre los universos arcángeles,  
-> al universo paria!  
->
-> Se verá palpitar los fangos iluminados,  
-> y brillar las fealdades más desesperadas  
-> en la cima más alta,  
-> la araña radiante en el umbral de las pilastras azules  
-> brillar, y erguirse, llevando espigas de astros,  
-> ¡la paja del calabozo!  
->
-> La claridad subirá en todo como una savia;  
-> se verá irradiar en la frente del buey que sueña  
-> la celestial media luna;  
-> la fosa común cantará entre el horror que la colma,  
-> y sobre todos los muladares aparecerá en la sombra  
-> ¡un Job resplandeciente!  
->
-> ¡Oh desaparición del antiguo anatema!  
-> ¡La profundidad diciendo a la altura: Te amo!  
-> ¡Oh retorno del desterrado!  
-> ¡Qué deslumbramiento en el fondo de los cielos sublimes!  
-> ¡Cuánta más claridad: la sombra de los abismos  
-> clamando: Sé bendito!  
->
-> Se verá a la manada de las hidras formidables  
-> salir, subir del fondo de las brumas insondables  
-> y transfigurarse;  
->
-> estrellas nacer en los negros huecos de sus cráneos,  
-> ¡Dios justo!, y, por grados volviéndose diáfanos,  
-> ¡los monstruos tornarse azules!  
->
-> Vendrán, sin poder hablar ni responder,  
-> ¡fuera de sí! Se verá a las aureolas derretir  
-> los cuernos de sus frentes;  
-> tendrán en sus garras, en medio de los cielos serenos,  
-> rayos estremecidos semejantes a palmas;  
-> ¡las fauces besarán!  
->
-> ¡Vendrán! ¡Vendrán! Temblorosos, quebrados de éxtasis,  
-> cada uno desbordando sollozos como un vaso,  
-> pero ya sin espanto;  
-> les tenderán los brazos desde la alta morada,  
-> y Jesús, inclinándose sobre Belial que llora,  
-> le dirá: ¡Conque eres tú!  
->
-> Y hacia Dios llevará de la mano a ese hermano;  
-> y, cuando estén cerca de los peldaños de luz  
-> que solo nosotros vemos,  
-> ambos serán tan bellos que Dios, cuyo ojo llamea,  
-> no podrá distinguir, padre deslumbrado de alegría,  
-> ¡a Belial de Jesús!  
->
-> Todo estará dicho. El mal expirará, las lágrimas  
-> se secarán; no más hierros, no más duelos, no más alarmas;  
-> el atroz abismo inclemente  
-> dejará de ser sordo y balbuceará: ¿Qué oigo?  
-> Los dolores acabarán en toda la sombra; un ángel  
-> gritará: ¡Comienzo!  
+> *gritará: ¡Comienzo!*  
 
 ---
 
