@@ -14,6 +14,8 @@ Lo que se está destilando ahora.
 
 - [El Libro de Arena: trece cuentos](cgbabc_arena-puentes.html): una lectura breve de los cuentos de Jorge Luis Borges.
 
+- [El Otro: un Cuento de Borges](cgbabf_el-otro.html): el primer cuento de El Libro de Arena, solo, para leerlo con calma.
+
 - [Macbeth en español](cgbabc_macbeth-en-espanol.html): la obra entera; lo gris es provisional.
 
 - [Macbeth en ocho frases](cgbaaj_macbeth-ocho-frases.html): la frase más central de cada uno de ocho lectores, unidas por una línea.
