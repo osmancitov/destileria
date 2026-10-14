@@ -4,7 +4,7 @@
 
 Jorge Luis Borges
 
-Jorge Luis Borges, escritor argentino, reunió en *El Libro de Arena* un puñado de cuentos donde lo imposible encuentra lugar. *El Otro* abre la puerta: un banco junto a un río, un viejo y un muchacho que son el mismo hombre, separados por medio siglo. El agua corre. Una vida se sienta a conversar consigo misma.
+Jorge Luis Borges reunió en *El Libro de Arena* un puñado de cuentos donde lo imposible encuentra lugar. *El Otro* abre la puerta: un banco junto a un río, un viejo y un muchacho que son el mismo hombre, separados por medio siglo. El agua corre. Una vida se sienta a conversar consigo misma.
 
 En las citas suena la voz de Borges, con las palabras que él dejó escritas.
 
