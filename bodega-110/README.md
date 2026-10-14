@@ -17,5 +17,3 @@ Lo que se está destilando ahora.
 - [Macbeth en castellano](cgbabc_macbeth-en-castellano.html): la obra entera.
 
 - [Macbeth en ocho frases](cgbaaj_macbeth-ocho-frases.html): la frase más central de cada uno de ocho lectores, unidas por una línea.
-
-Las ocho selecciones largas (001 a 008) siguen en esta carpeta, fuera de la lista, por si se incorporan más adelante.
