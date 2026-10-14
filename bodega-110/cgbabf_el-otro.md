@@ -4,6 +4,10 @@
 
 Jorge Luis Borges
 
+Jorge Luis Borges, escritor argentino, hizo del tiempo y de los sueños materia de sus cuentos. *El Otro* abre *El Libro de Arena*: dos hombres se encuentran junto a un río y descubren que son el mismo, separados por medio siglo. Una vida se sienta a conversar consigo misma.
+
+Las citas conservan las palabras de Borges tal como las escribió.
+
 > El hecho ocurrió en el mes de febrero de 1969, al norte de Boston, en Cambridge. No lo escribí inmediatamente porque mi primer propósito fue olvidarlo, para no perder la razón. Ahora, en 1972, pienso que si lo escribo, los otros lo leerán como un cuento y, con los años, lo será tal vez para mí. Sé que fue casi atroz mientras duró y más aún durante las desveladas noches que lo siguieron.
 
 A las diez de la mañana, Borges estaba en un banco frente al río Charles. El agua gris arrastraba hielo; al mirarla pensó en el tiempo. Alguien se sentó en el otro extremo y empezó a silbar una canción criolla que lo devolvió a un patio desaparecido. Después oyó las palabras y reconoció, con horror, su propia voz. El muchacho era argentino y vivía en Ginebra, en la misma dirección donde Borges había vivido de joven. El mayor le dijo que ambos se llamaban Jorge Luis Borges y que estaban en Cambridge, en 1969. El joven lo negó: para él, el banco estaba junto al Ródano, en Ginebra. Miró al hombre de cabeza gris y señaló el parecido.
