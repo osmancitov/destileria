@@ -10,6 +10,8 @@ Lo que se está destilando ahora.
 
 ## Entradas
 
+- [Ce que dit la bouche d’ombre: un poema de Victor Hugo](cgbabe_ce-que-dit-la-bouche-dombre.html): el poema entero de donde viene la hidra Universo, en francés y en castellano.
+
 - [El Otro: un Cuento de Borges](cgbabf_el-otro.html): el primer cuento de El Libro de Arena, solo, para leerlo con calma.
 
 - [El Libro de Arena: trece cuentos](cgbabc_arena-puentes.html): una lectura breve de los cuentos de Jorge Luis Borges.
