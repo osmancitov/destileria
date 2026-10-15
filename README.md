@@ -8,7 +8,7 @@ Aquí se ensaya algo parecido con los libros: quitar lo que sobra hasta encontra
 
 - [Ce que dit la bouche d’ombre: un poema de Victor Hugo](html/cgbabe_ce-que-dit-la-bouche-dombre.html): el poema entero de donde viene la hidra Universo, en francés y en castellano.
 - [El Otro: un Cuento de Borges](html/cgbabf_el-otro.html): el primer cuento de El Libro de Arena, solo, para leerlo con calma.
-- [Macbeth en castellano](html/cgbabc_macbeth-en-castellano.html): la obra entera.
 - [El Libro de Arena: trece cuentos](html/cgbabc_arena-puentes.html): una lectura breve de los cuentos de Jorge Luis Borges.
+- [Macbeth en castellano](html/cgbabc_macbeth-en-castellano.html): la obra entera.
 - [Macbeth en ocho frases](html/cgbaaj_macbeth-ocho-frases.html): la frase más central de cada uno de ocho lectores, unidas por una línea.
 - [Bodega 103](bodega-103/README.md): Recuerdos de la primera Destilería.
