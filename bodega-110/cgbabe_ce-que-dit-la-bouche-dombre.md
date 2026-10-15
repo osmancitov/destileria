@@ -222,7 +222,7 @@ Victor Hugo
 > D’où vient-elle ? De toi, de ta chair, du limon  
 > *¿de dónde viene? De ti, de tu carne, del limo*  
 > Dont l’esprit se revêt en devenant démon ;  
-> *que reviste al espíritu al volverse demonio;*  
+> *del que el espíritu se reviste al volverse demonio;*  
 > De ce corps qui, créé par ta faute première,  
 > *de ese cuerpo que, creado por tu primera culpa,*  
 > Ayant rejeté Dieu, résiste à la lumière ;  
@@ -240,7 +240,7 @@ Victor Hugo
 > *ningún oscuro simulacro sigue al ser aromal;*  
 > <small>"Aromal" es un término raro asociado al perfume y a una existencia sutil. Designa aquí al ser espiritual, contrapuesto al cuerpo opaco que proyecta sombra.</small>  
 > Homme, tout ce qui fait de l’ombre a fait le mal.  
-> *hombre, todo lo que da sombra ha hecho el mal.*  
+> *hombre, todo lo que proyecta sombra ha hecho el mal.*  
 >
 > Maintenant, c’est ici le rocher fatidique,  
 > *Ahora, esta es la roca fatídica,*  
@@ -272,7 +272,7 @@ Victor Hugo
 > *Pero no estáis enteramente fuera de Dios;*  
 >
 > Dieu, soleil dans l’azur, dans la cendre étincelle,  
-> *Dios, sol en el azul, chispa entre la ceniza,*  
+> *Dios, sol en el azul, chispea en la ceniza,*  
 > N’est hors de rien, étant la fin universelle ;  
 > *no está fuera de nada, pues es el fin de todo;*  
 > L’éclair est son regard, autant que le rayon ;  
@@ -860,7 +860,7 @@ Victor Hugo
 > Montrant comme eux ses dents tout au fond de la salle,  
 > *mostrando como ellos los dientes al fondo de la sala,*  
 > Leur réserve la mort, ce sinistre rieur !  
-> *les reserva la muerte, ¡esa siniestra burlona!*  
+> *les reserva la muerte, ¡esa siniestra reidora!*  
 >
 > Nous avons, nous, voyants du ciel supérieur,  
 > *Nosotros, videntes del cielo superior, tenemos*  
@@ -868,7 +868,7 @@ Victor Hugo
 > Le spectacle inouï de vos régions basses.  
 > *el espectáculo inaudito de vuestras regiones bajas.*  
 > Ô songeur, fallait-il qu’en ces nuits tu tombasses !  
-> *¡Oh soñador, tenías que caer en esas noches!*  
+> *¡Oh soñador, era preciso que cayeras en esas noches!*  
 > Nous écoutons le cri de l’immense malheur.  
 > *Escuchamos el grito de la inmensa desdicha.*  
 > Au-dessus d’un rocher, d’un loup ou d’une fleur,  
@@ -1263,7 +1263,7 @@ Victor Hugo
 > Tous les êtres maudits, mêlés aux vils limons,  
 > *todos los seres malditos, mezclados a los viles limos,*  
 > Pris par la plante fauve et la bête féroce,  
-> *apresados por la planta feroz y la bestia salvaje,*  
+> *apresados por la planta salvaje y la bestia feroz,*  
 > Le grincement de dents, la peur, le rire atroce,  
 > *el rechinar de dientes, el miedo, la risa atroz,*  
 >
@@ -1324,7 +1324,7 @@ Victor Hugo
 > Donc, représente-toi cette sombre figure :  
 > *Así pues, represéntate esta imagen sombría:*  
 > Ce gouffre, c’est l’égout du mal universel.  
-> *ese abismo es la cloaca del mal universal.*  
+> *este abismo es la cloaca del mal universal.*  
 >
 > Ici vient aboutir de tous les points du ciel  
 > *Aquí desemboca, desde todos los puntos del cielo,*  
