@@ -347,7 +347,7 @@ Victor Hugo
 > Et de la pierre à toi monte insensiblement,  
 > *y desde la piedra hasta ti sube insensiblemente,*  
 > S’arrête sur l’abîme à l’homme, escarpement ?  
-> *se detiene sobre el abismo en el hombre, escarpadura?*  
+> *se detiene sobre el abismo, en el hombre, escarpadura?*  
 > Non, elle continue, invincible, admirable,  
 > *No, prosigue, invencible, admirable,*  
 > Entre dans l’invisible et dans l’impondérable,  
@@ -420,7 +420,7 @@ Victor Hugo
 > Dégorge une vapeur monstrueuse qui vit !  
 > *vomita un vapor monstruoso que vive!*  
 > Là sombre et s’engloutit, dans des flots de désastres,  
-> *Allí, sombría, se hunde en oleadas de desastres*  
+> *Allí zozobra y se hunde en oleadas de desastres*  
 > L’hydre Univers tordant son corps écaillé d’astres ;  
 > *la hidra Universo, torciendo su cuerpo escamado de astros;*  
 > *Glosa: La hidra es un monstruo de varias cabezas de la tradición griega. "Universo" forma parte de su nombre poético: la criatura representa al cosmos material entero.*  
@@ -1059,7 +1059,7 @@ Victor Hugo
 > Ce que tu nommes chose, objet, nature morte,  
 > *Lo que llamas cosa, objeto, naturaleza muerta,*  
 > Sait, pense, écoute, entend. Le verrou de ta porte  
-> *sabe, piensa, escucha, entiende. El cerrojo de tu puerta*  
+> *sabe, piensa, escucha, oye. El cerrojo de tu puerta*  
 > Voit arriver ta faute et voudrait se fermer.  
 > *ve llegar tu culpa y quisiera cerrarse.*  
 > Ta vitre connaît l’aube, et dit : Voir ! croire ! aimer !  
@@ -1196,7 +1196,7 @@ Victor Hugo
 > Et, cherchant le caillou, trouve le diamant.  
 > *y, buscando el guijarro, encuentra el diamante.*  
 > C’est ainsi que du ciel l’âme à pas lents s’empare.  
-> *Así el alma, paso a paso, se adueña del cielo.*  
+> *Así el alma, a pasos lentos, se adueña del cielo.*  
 >
 > Dans le monstre, elle expie ; en l’homme, elle répare.  
 > *En el monstruo, expía; en el hombre, repara.*  
@@ -1486,7 +1486,7 @@ Victor Hugo
 > Ruisselante de sang et reflétant les cieux ;  
 > *chorreando sangre y reflejando los cielos;*  
 > Et, la nuit, dans l’étal morne et silencieux,  
-> *y, de noche, en el mostrador sombrío y silencioso,*  
+> *y, de noche, en el puesto sombrío y silencioso,*  
 > Le cadavre au cou rouge, effrayant, glacé, blême,  
 > *el cadáver de cuello rojo, espantoso, helado, pálido,*  
 > Seul, sait ce que lui dit le billot, tronc lui-même.  
@@ -1761,7 +1761,7 @@ Victor Hugo
 > Ils tiendront dans leur griffe, au milieu des cieux calmes,  
 > *tendrán en sus garras, en medio de los cielos serenos,*  
 > Des rayons frissonnants semblables à des palmes ;  
-> *rayos estremecidos semejantes a palmas;*  
+> *rayos trémulos semejantes a palmas;*  
 > *Glosa: Las palmas pertenecen al lenguaje de la victoria y la celebración religiosa. Su presencia indica que las antiguas fieras entran en ese repertorio de signos sagrados.*  
 > Les gueules baiseront !  
 > *¡las fauces besarán!*  

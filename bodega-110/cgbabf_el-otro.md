@@ -74,7 +74,7 @@ El verso de la hidra viene de «Ce que dit la bouche d’ombre» («Lo que dice 
 
 ![Óleo oscuro: una figura se deshace en polvo al caer por un pozo sin fondo hacia un sol negro cuyos rayos son franjas de tiniebla.](img/cgbabe_ce-que-dit-la-bouche-dombre_og.jpg)
 
-> Allí, sombría, se hunde en oleadas de desastres  
+> Allí zozobra y se hunde en oleadas de desastres  
 > la hidra Universo, torciendo su cuerpo escamado de astros;  
 > allí todo flota y se va en un naufragio oscuro;  
 > en ese abismo sin borde, sin respiradero, sin muro,  
