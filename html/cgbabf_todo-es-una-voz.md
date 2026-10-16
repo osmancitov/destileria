@@ -15,4 +15,4 @@ Una voz se oye; un perfume nos llega sin hacer ruido. Hugo junta las dos cosas p
 
 Yo saco de ahí una invitación: prestar atención antes de declarar que algo no tiene nada que decirnos. No porque una flor esconda una frase en castellano, sino porque podemos recibir algo de ella sin traducirlo a palabras. A veces entender empieza por dejar que lo distinto siga siendo distinto.
 
-Osmancito
+Osmancito, con la asistencia de Instinct
