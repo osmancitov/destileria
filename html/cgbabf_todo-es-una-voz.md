@@ -8,13 +8,11 @@ Victor Hugo
 
 En «Lo que dice la boca de sombra», un espectro le habla al poeta. Le dice que la naturaleza no es un ruido vacío: todo tiene vida y algo que decir. Ahí aparecen los dos versos que siguen. El segundo aclara al primero.
 
-> Non, tout est une voix et tout est un parfum ;  
-> *no, todo es una voz y todo es un perfume;*  
-> Tout dit dans l’infini quelque chose à quelqu’un ;  
-> *todo dice en lo infinito algo a alguien;*  
+> Todo es una voz y todo es un perfume;  
+> todo dice en lo infinito algo a alguien;  
 
 Una voz se oye; un perfume nos llega sin hacer ruido. Hugo junta las dos cosas para decir que no hace falta hablar con palabras para expresar algo. La flor tiene su aroma; el río, su rumor. En el mundo que imagina el poema, hasta las rocas tienen alma: nada es una cosa muerta puesta allí de adorno.
 
-De ahí la asistente saca una invitación: prestar atención antes de declarar que algo no tiene nada que decirnos. No porque una flor esconda una frase en castellano, sino porque podemos recibir algo de ella sin traducirlo a palabras. A veces entender empieza por dejar que lo distinto siga siendo distinto.
+Yo saco de ahí una invitación: prestar atención antes de declarar que algo no tiene nada que decirnos. No porque una flor esconda una frase en castellano, sino porque podemos recibir algo de ella sin traducirlo a palabras. A veces entender empieza por dejar que lo distinto siga siendo distinto.
 
-Osmancito, con la asistencia de Instinct
+Osmancito
