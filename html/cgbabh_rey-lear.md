@@ -488,4 +488,210 @@ Nunca me cuidaré de qué maldad haga si este hombre llega a buen fin.
 
 *Si ese hombre llega a buen puerto, ya no importa qué maldad se haga; y si ella vive hasta morir de vieja, las mujeres se volverán monstruos. Deciden seguir al viejo conde y buscar al loco de Bedlam para que lo guíe donde quiera («su locura de pícaro se permite todo»); uno va por lino y claras de huevo para la cara sangrante. «Que el cielo lo ayude».*
 
+---
+
+## Acto IV, escena 1
+
+*Edgar sigue solo, al aire todavía, y se consuela con la filosofía del fondo: mejor así, conocido por despreciado, que seguir despreciado y adulado; lo peor, lo más bajo y abatido de la Fortuna, permanece en esperanza y no vive en miedo; «el cambio lamentable es desde lo mejor; lo peor vuelve a la risa». Pero entra su padre, ciego, guiado de la mano por un viejo arrendatario de ochenta años, y el consuelo se cae: «mundo, mundo, oh mundo: si tus extrañas mutaciones no nos hicieran odiarte, la vida no cedería a la edad».*
+
+*Gloucester despide al viejo (tus consuelos no pueden hacerme ningún bien; a ti pueden hacerte daño) y suelta la sabiduría que le costó los ojos: «no tengo camino, y por eso no necesito ojos; tropecé cuando veía». Y confiesa en voz alta lo que no sabe que su hijo está oyendo:*
+
+> O dear son Edgar, The food of thy abusèd father’s wrath, Might I but live to see thee in my touch, I’d say I had eyes again.
+
+¡Oh querido hijo Edgar, alimento de la ira de tu padre engañado! Si pudiera vivir para verte con mi tacto, diría que tengo ojos otra vez.
+
+Gloucester
+
+*«Oh, hijo querido Edgar»: si pudiera vivir para verlo con el tacto, diría que ha vuelto a tener ojos. Edgar, aparte, hace el segundo descubrimiento de la escena: ¿quién puede decir «estoy en lo peor»? Lo peor no es mientras podamos decir «esto es lo peor». El viejo le presenta al loco mendigo; Gloucester recuerda al desnudo de la tormenta («me hizo pensar que el hombre es un gusano») y dicta la sentencia de la obra: «como las moscas para los muchachos traviesos somos para los dioses: nos matan por su deporte». Manda al viejo por ropa para «esta alma desnuda» («es la plaga del tiempo: que los locos guíen a los ciegos»), y el viejo se va prometiendo traer lo mejor que tenga, pase lo que pase.*
+
+*Edgar no puede más con el oficio («mal oficio, hacer de bufón del dolor»), y al ver de cerca las cuencas de su padre se le escapa la bendición:*
+
+> —Bless thy sweet eyes, they bleed.
+
+—Benditos sean tus dulces ojos, sangran.
+
+Edgar
+
+*Bendice los ojos dulces que sangran. Gloucester le da su bolso («que yo sea desgraciado te hace a ti más feliz») y redistribuye el mundo: que el hombre superfluo y cebado en lujuria, que no ve porque no siente, sienta pronto el poder de los cielos; «así la distribución desharía el exceso, y cada hombre tendría bastante». Y pide lo único que quiere: en Dover hay un acantilado cuya cabeza alta y doblada mira con miedo al mar encerrado; que lo lleve al borde mismo, que desde ese lugar no necesitará guía. Edgar le ofrece el brazo:*
+
+> Give me thy arm.
+
+Dame el brazo.
+
+Edgar
+
+*«Pobre Tom te guiará»: el hijo que él maldijo lleva al padre que lo busca, y el padre no lo sabe.*
+
+---
+
+## Acto IV, escena 2
+
+*Ante el palacio de Albany. Goneril llega con Edmund y con Oswald, que cuenta al duque cambiado: sonrió al oír del ejército desembarcado; «peor», dijo al saber que ella venía. Goneril lo diagnostica: terror gallina de su espíritu, que no se atreve a emprender. Despide a Edmund hacia Cornwall: que apure las levas de su hermano; ella cambiará nombres en casa y dará la rueca a su marido. Le cuelga un favor al cuello («lleva esto; ahorra palabras; inclina la cabeza») y le da el beso de despedida: «este beso, si se atreviera a hablar, te estiraría los espíritus hasta el aire; concibe, y que te vaya bien». Edmund responde: «tuyo en las filas de la muerte». Sola, Goneril hace la cuenta:*
+
+> To thee a woman’s services are due; My fool usurps my body.
+
+A ti se deben los servicios de una mujer; mi bufón usurpa mi cuerpo.
+
+Goneril
+
+*«Oh, la diferencia de hombre a hombre: a ti se te deben los servicios de una mujer; mi necio usurpa mi cuerpo». Llega Albany, y el marido suave ya no existe: «no vales el polvo que el viento grosero te sopla a la cara»; la que se desgaja de la savia de su origen tiene que marchitarse y venir a uso mortal. «Basta; el texto es necio». «La sabiduría y la bondad parecen viles a los viles. Tigres, no hijas: ¿qué habéis hecho? Un padre, un anciano venerable al que hasta el oso enarbolado lamería, lo habéis enloquecido. Si los cielos no mandan pronto sus espíritus visibles a domeñar estos crímenes, vendrá: la humanidad tendrá que depredarse a sí misma, como monstruos del abismo». Goneril se ríe: «hombre de hígado de leche, que aguanta mejillas para golpes y cabeza para agravios; ¿dónde está tu tambor? Francia despliega sus banderas y tú, necio moral, lloriqueas». Albany se levanta sobre ella («mírate, demonio; la deformidad no se muestra tan horrenda en el diablo como en la mujer») y llega al borde:*
+
+> Howe’er thou art a fiend, A woman’s shape doth shield thee.
+
+Por más demonio que seas, la forma de mujer te escuda.
+
+Albany
+
+*La forma de mujer lo protege; si obedeciera a su sangre, sus manos le dislocarían la carne. «Vaya, la hombría de usted, miau», empieza ella, y la corta la noticia: Cornwall ha muerto, muerto por su propio criado al sacarle el otro ojo a Gloucester. Albany levanta los ojos: «esto muestra que estáis ahí arriba, justicieros, que tan pronto vengáis nuestros crímenes de aquí abajo. Pero, oh pobre Gloucester, ¿perdió el otro ojo?»:*
+
+> Both, both, my lord.
+
+Ambos, ambos, mi señor.
+
+Mensajero
+
+*Los dos, los dos. Y la carta de Regan pide respuesta pronta: Goneril, aparte, calcula (viuda y con «mi Gloucester» a su lado, puede derrumbar todo el edificio de mi fantasía). Albany pregunta dónde estaba el hijo de Gloucester cuando le sacaban los ojos: fue él quien lo denunció y dejó la casa libre para el castigo. Albany cierra con el juramento de su segunda vida: «Gloucester, vivo para agradecerte el amor que mostraste al rey, y para vengar tus ojos». Y se lleva al mensajero: «dime qué más sabes».*
+
+---
+
+## Acto IV, escena 3
+
+*En el campamento francés, cerca de Dover. Kent pregunta por qué el rey de Francia volvió tan de repente: dejó algo imperfecto en el estado que exigía su regreso en persona; queda el mariscal La Far por general. ¿Y las cartas? ¿Traspasaron a la reina hasta una muestra de dolor? El caballero lo cuenta como quien describe un cuadro: las tomó, las leyó en su presencia, y de cuando en cuando una lágrima amplia rodaba por su mejilla delicada; parecía una reina sobre su pasión, que, muy rebelde, peleaba por ser rey sobre ella. «¿Entonces la conmovió?». No hasta la furia: paciencia y dolor competían por cuál la expresaba más hermosa; «habéis visto sol y lluvia a la vez: sus sonrisas y sus lágrimas eran como un camino mejor»; aquellas sonrisillas felices que jugaban en su labio maduro no sabían qué huéspedes tenían sus ojos, que partían de allí como perlas caídas de diamantes.*
+
+*¿Y no hizo pregunta verbal? Una o dos veces dejó escapar el nombre de «padre», jadeante, como si le apretara el corazón: «hermanas, hermanas, vergüenza de las damas, hermanas; ¡en la tormenta, en la noche!»:*
+
+> Let pity not be believed!
+
+¡Que la piedad no sea creída!
+
+Caballero
+
+*«Que no se crea la piedad»: allí sacudió el agua santa de sus ojos celestiales, y se fue a tratar con el dolor a solas. Kent lo explica con las estrellas: «las estrellas sobre nosotros gobiernan nuestras condiciones; si no, un mismo padre no podría engendrar vástagos tan distintos». ¿Y el rey? Está en el pueblo, el pobre Lear afligido; a ratos, en su mejor tono, recuerda a qué hemos venido, y de ningún modo consentirá ver a su hija. ¿Por qué? Una vergüenza soberana le pone el codo: su propia crueldad (quitarla de su bendición, dar sus derechos caros a sus hijas de corazón de perro) le pica la mente tan venenosamente que una vergüenza ardiente lo detiene lejos de Cordelia. «Ay, pobre señor». Kent se despide: lo llevará donde su amo Lear, pero una causa querida lo envolverá en ocultamiento un tiempo:*
+
+> When I am known aright, you shall not grieve Lending me this acquaintance.
+
+Cuando sea conocido rectamente, no os dolerá haberme prestado este trato.
+
+Kent
+
+*«Cuando se me conozca como es debido, no os dolerá haberme prestado este conocimiento». Y se van juntos: «os ruego, venid conmigo».*
+
+---
+
+## Acto IV, escena 4
+
+*En el campamento francés. Cordelia acaba de oírlo: «ay, es él»: lo encontraron hace un momento loco como el mar airado, cantando en voz alta, coronado de fumaria y hierbas de surco, de bardanas, cicuta, ortigas y flores de cuco, cizaña y todas las hierbas ociosas que crecen en nuestro trigo sustentador. Que salga una centuria; que busquen cada acre del campo alto y lo traigan a su vista. ¿Qué puede la sabiduría del hombre para restaurar su sentido despojado? «Quien lo ayude, que se lleve todo mi valor exterior». El médico responde que hay medios: nuestra nodriza de la naturaleza es el reposo, que él no tiene, y hay simples operativos cuyo poder cerrará el ojo de la angustia. Cordelia reza a la tierra («todos los secretos benditos, todas las virtudes no publicadas de la tierra, broten con mis lágrimas; séanse ayuda y remedio en la aflicción del buen hombre») y apura la búsqueda:*
+
+> Seek, seek for him, Lest his ungoverned rage dissolve the life That wants the means to lead it.
+
+Buscadlo, buscadlo, no sea que su rabia ingobernable disuelva la vida que carece de medios para guiarla.
+
+Cordelia
+
+*Que no lo encuentre antes la rabia sin gobierno y disuelva la vida que carece de medios para conducirse. Llega la noticia: las fuerzas británicas marchan hacia aquí. «Ya se sabía; nuestra preparación las espera». Y Cordelia declara la guerra que hace: «oh padre querido, de tu negocio voy; por eso el gran Francia tuvo piedad de mi luto y mis lágrimas importunas; ninguna ambición hinchada incita nuestras armas, sino el amor, el amor querido, y el derecho de nuestro viejo padre. Pronto pueda yo oírlo y verlo».*
+
+---
+
+## Acto IV, escena 5
+
+*En el campamento británico. Regan interroga a Oswald, el mayordomo de su hermana, que lleva una carta de Goneril para Edmund. ¿Las fuerzas de Albany ya salieron? Sí, señora, y él en persona, aunque a mucha costa: «vuestra hermana es la mejor soldada». Regan hace la lógica del poder en voz alta: «fue una gran ignorancia, sacados los ojos de Gloucester, dejarlo vivir; donde llega, mueve todos los corazones contra nosotras». Edmund, cree, ha ido a despachar por piedad la vida nocturna del ciego y a ojear la fuerza del enemigo. Y entonces va a lo que le duele: ¿por qué le escribe mi hermana a Edmund?*
+
+> Might not you Transport her purposes by word?
+
+¿No podrías tú transportar sus propósitos de palabra?
+
+Regan
+
+*«¿No podríais transportar sus propósitos de palabra?». Como Oswald no cede («mi señora me encargó mi deber en este negocio»), Regan prueba con todo: «te amaré mucho; déjame abrir la carta». «Señora, preferiría...». Regan lo sabe todo y lo dice: su señora no ama a su marido; en su última visita le lanzó a Edmund extraños guiños y miradas muy locuaces; «sé que sois de su pecho». «¿Yo, señora?». «Hablo entendiendo; lo sois, lo sé». Y le deja la nota que debe llevar: mi señor ha muerto; Edmund y yo hemos hablado, y le conviene más mi mano que la de vuestra señora; «ya podéis deducir más». Y si oye hablar del traidor ciego: «el ascenso cae sobre quien lo quite de en medio». Oswald, solo, se vende: «ojalá me lo encontrara, señora; mostraría qué partido sigo». «Que te vaya bien».*
+
+---
+
+## Acto IV, escena 6
+
+*En el campo abierto, camino de Dover. «¿Cuándo llegaré a lo alto de esa colina?», pregunta Gloucester. Edgar ha cambiado de voz y de traje, y guía a su padre por un llano que él nombra precipicio («horriblemente empinado; ¿oyes el mar?»). Gloucester nota que la voz de su guía se ha refinado; «estáis muy engañado: en nada he cambiado sino en las prendas», miente el hijo. «Venga, señor: aquí es el lugar. Quédese quieto». Y Edgar pinta el vértigo para el que no puede verlo:*
+
+> How fearful And dizzy ’tis to cast one’s eyes so low!
+
+¡Qué espantoso y vertiginoso es echar los ojos tan abajo!
+
+Edgar
+
+*Qué miedo y qué mareo echar los ojos tan abajo: los cuervos que cruzan el aire a media altura apenas parecen tan grandes como escarabajos; a mitad de la caída cuelga uno que recoge hinojo marino, oficio terrible («no parece más grande que su cabeza»); los pescadores que andan por la playa parecen ratones, y la gran barca anclada se ha encogido hasta su bote, y el bote hasta una boya casi demasiado pequeña para la vista; el murmullo de la resaca no puede oírse tan alto. «No miraré más, no se me vuelva el seso y la vista deficiente me tumbe de cabeza». Lo pone a un pie del borde extremo y se retira: Gloucester le deja otro bolso con una joya («que las hadas y los dioses te la prosperen»), pide oírlo alejarse, y se despide del mundo: renuncia a este mundo y sacude con paciencia su gran aflicción; si pudiera aguantarla más sin pelear con las voluntades de los dioses, su parte detestada de la naturaleza se consumiría sola. «Si Edgar vive, ¡oh, bendícelo! Ahora, mozo, que te vaya bien». Y se arroja, y cae en el llano.*
+
+*Edgar no sabe si la imaginación puede robar la tesorería de la vida cuando la vida misma se rinde al robo; pero el viejo revive. Lo levanta con la mentira piadosa: cayó de la cumbre espantosa de este lindero calcáreo; diez mástiles puestos uno sobre otro no hacen la altura que ha caído en perpendicular; «tu vida es un milagro». «¿Pero he caído o no?». «Mira hacia arriba». «Ay, no tengo ojos: ¿está la miseria tan privada de beneficio que no puede acabarse por la muerte?». En la cima, le inventa Edgar, había una cosa de ojos como dos lunas llenas y mil narices, con cuernos ondulados como el mar airado: algún demonio. «Los dioses más claros, que se hacen honores de las imposibilidades de los hombres, te han guardado». Gloucester lo acepta:*
+
+> Henceforth I’ll bear Affliction till it do cry out itself “Enough, enough!
+
+De aquí en adelante soportaré la aflicción hasta que ella misma grite «¡Basta, basta!
+
+Gloucester
+
+*De ahora en adelante cargará con la aflicción hasta que ella misma grite «basta, basta» y muera. ¿Pero quién viene así? Un loco coronado de hierbas, que no lo pueden tocar por acuñar moneda («yo soy el rey mismo»), que reparte dinero de recluta, mata ratones con queso tostado y reta a gigantes. Gloucester reconoce la voz: «¿no es el rey?». Lear, cada pulgada un rey, dicta su doctrina: indulta al adúltero («¿morir por adulterio? No: el pequeño pez dorado fornica ante mis ojos; que prospere la cópula, que me faltan soldados»), porque el hijo bastardo de Gloucester fue más amable con su padre que sus hijas concebidas entre sábanas legales. Gloucester quiere besarle la mano. «Deja que me la limpie primero: huele a mortalidad». «¡Oh, pieza arruinada de la natura!». «¿Me conoces?». «Recuerdo bastante bien tus ojos». Lear le manda leer el desafío con las cuencas vacías: «¿sin ojos en la cabeza ni dinero en la bolsa? Vuestros ojos están en estuche pesado y vuestra bolsa en ligero; sin embargo, ves cómo va este mundo». «Lo veo con el tacto».*
+
+*Y Lear predica: un hombre puede ver cómo va este mundo sin ojos; mira con las orejas: ese juez riñe a ese ladrón simple; cámbialos de lugar y, a la suerte, ¿cuál es el juez y cuál el ladrón? ¿Has visto al perro de un labrador ladrar a un mendigo, y a la criatura correr del chucho? Ahí puedes contemplar la gran imagen de la autoridad: se obedece a un perro cuando está en el cargo. Alguacil bribón, detén tu mano sangrienta: ¿por qué azotas a esa ramera? Desnuda tu propia espalda. El usurero cuelga al embaucador; por los harapos asoman los vicios pequeños; las togas y las pellicas lo esconden todo; chapa el pecado en oro y la fuerte lanza de la justicia se rompe sin dañarlo. «Consíguete ojos de vidrio y, como un ruin político, parece ver las cosas que no ves». Edgar lo resume aparte: «materia y desatino mezclados: ¡razón en la locura!». Y entonces Lear lo reconoce:*
+
+> If thou wilt weep my fortunes, take my eyes.
+
+Si quieres llorar mis fortunas, toma mis ojos.
+
+Lear
+
+*«Si quieres llorar mis fortunas, toma mis ojos: te conozco bastante bien; te llamas Gloucester. Tienes que ser paciente: venimos llorando aquí; la primera vez que olemos el aire, berreamos y lloramos. Cuando nacemos, lloramos de haber venido a este gran escenario de necios». Y de pronto trama: herrar con fieltro una tropa de caballo, caer por sorpresa sobre estos yernos, y «matar, matar, matar, matar, matar, matar». Llegan los criados de Cordelia: «denle mano; señor, vuestra queridísima hija...». «¿Sin rescate? ¿Prisionero? Soy el necio natural de la Fortuna. Trátenme bien; habrá rescate; tráiganme cirujanos: estoy cortado hasta los sesos». Se niega a llorar (eso haría de un hombre un hombre de sal), jura morir bravo como un novio acicalado, y sale corriendo: «soy un rey, amos, ¿lo saben? Si lo quieren, lo ganarán corriendo». El caballero lo mira irse:*
+
+> A sight most pitiful in the meanest wretch, Past speaking of in a king.
+
+Un espectáculo dignísimo de lástima en el más ruin de los miserables; indecible en un rey.
+
+Caballero
+
+*Vista dignísima de lástima en el más ruin de los hombres; indescriptible en un rey. Y añade la buena noticia: tiene una hija que redime a la naturaleza de la maldición general a que la trajeron las otras dos. Edgar pregunta por la batalla: ciertísima y en boca de todos; el otro ejército está cerca y a pie veloz. Gloucester ora («dioses siempre gentiles, quitadme el aliento; que mi peor espíritu no me tiente otra vez a morir antes de que os plazca»), y Edgar se presenta como un pobre hombre hecho manso a los golpes de la Fortuna, preñado de buena piedad por el arte de los dolores conocidos y sentidos.*
+
+*Entonces aparece Oswald, con la carta y el precio: «¡premio proclamado! Esa cabeza sin ojos tuya fue hecha carne para levantar mi fortuna; la espada está fuera». Edgar se interpone con acento de campesino: «no lo suelto, zir, sin más ocasión»:*
+
+> Nay, come not near th’ old man.
+
+No, no te acerques al viejo.
+
+Edgar
+
+*Que no se acerque al viejo: probará si el coco de Oswald o su palo es el más duro. Dos golpes, y Oswald cae: «esclavo, me has matado; toma mi bolsa; si quieres prosperar, entierra mi cuerpo, y dale las cartas que encuentres sobre mí a Edmund, conde de Gloucester». Y muere de «muerte intempestiva». Edgar lo despide:*
+
+> I know thee well, a serviceable villain, As duteous to the vices of thy mistress As badness would desire.
+
+Te conozco bien: un villano servicial, tan obediente a los vicios de tu señora como la maldad desearía.
+
+Edgar
+
+*Lo conoce bien: villano servicial, tan obediente a los vicios de su señora como la maldad podría desear. Registra los bolsillos («para conocer las mentes de nuestros enemigos les abrimos los corazones; sus papeles son más legales») y lee la carta de Goneril: recuerda nuestros votos recíprocos; tendrás muchas ocasiones de quitarlo de en medio; si vuelve vencedor, yo soy la prisionera y su cama mi cárcel; «de la calidez aborrecida de ella, líbrame, y ocupa el lugar». Firmado: «tu esposa (eso quisiera decir), afectuosa servidora, Goneril». «¡Oh espacio indistinguible de la voluntad de la mujer!». Enterrará en la arena a ese poste insaciable de lechosos asesinos, y a su tiempo golpeará con ese papel la vista del duque sentenciado a muerte. Gloucester, oyendo el tambor batido a lo lejos, envidia la locura del rey: mejor estar distraído; así mis pensamientos se separarían de mis penas, y los dolores perderían el conocimiento de sí mismos. Edgar le da la mano: «ven, padre; te acomodaré con un amigo».*
+
+---
+
+## Acto IV, escena 7
+
+*En una tienda del campamento francés. Cordelia agradece a Kent: «oh, buen Kent, ¿cómo viviré y trabajaré para igualar tu bondad? Mi vida será demasiado corta, y toda medida me faltará». Ser reconocido ya es sobrepago, responde él, y pide seguir sin nombre: «que no me conozcáis hasta que el tiempo y yo lo juzguemos conveniente». «Así sea, mi buen señor. ¿Cómo está el rey?». Duerme todavía. Y Cordelia ora:*
+
+> O, you kind gods, Cure this great breach in his abusèd nature!
+
+¡Oh, dioses bondadosos, curad esta gran brecha en su abusada naturaleza!
+
+Cordelia
+
+*«Dioses buenos, curad esta gran brecha en su natura abusada; los sentidos desafinados y discordes, oh, templadlos, de este padre cambiado por hijas». El médico manda subir la música; Cordelia besa al durmiente: «que la restauración cuelgue su medicina de mis labios, y que este beso repare los daños violentos que mis dos hermanas han hecho en tu reverencia». ¿Era esta una cara para oponer a los vientos discordes, para velar, pobre centinela perdido, con ese casco delgado? «El perro de mi enemigo, aunque me hubiera mordido, habría pasado esa noche junto a mi fuego». El rey despierta despacio: «me hacéis un agravio al sacarme de la tumba; tú eres un alma en la bienaventuranza, pero yo estoy atado a una rueda de fuego, y mis propias lágrimas escaldan como plomo fundido». «¿Me conocéis, señor?». «Sois un espíritu, lo sé. ¿Dónde moriste?». Poco a poco vuelve en sí:*
+
+> I am mightily abused; I should e’en die with pity To see another thus.
+
+Estoy poderosamente confundido; hasta moriría de piedad por ver a otro así.
+
+Lear
+
+*Está muy confundido; moriría de piedad de ver a otro así. No juraría que esas sean sus manos; prueba un alfiler; querría estar seguro de su condición. Cordelia le pide la bendición; él quiere arrodillarse ante ella («no, señor, no debéis arrodillaros»). «No se burlen: soy un viejo muy necio y muy tierno, ochenta años y más, ni una hora más ni menos, y, para hablar claro, temo no estar en mi perfecto juicio». Cree que debería conocerla, y a este hombre; no recuerda estas ropas ni dónde durmió anoche. «No se rían de mí: pues soy hombre, creo que esta dama es mi hija Cordelia». «Y así soy; soy». «¿Están mojadas tus lágrimas? Sí, por fe. Si tienes veneno para mí, lo beberé: sé que no me amas, pues tus hermanas, según recuerdo, me hicieron mal; tú tienes alguna causa; ellas, ninguna». «Ninguna causa, ninguna causa». «¿Estoy en Francia?». «En vuestro propio reino, señor». El médico frena: la gran rabia ha muerto en él, pero hay peligro en hacerle repasar el tiempo perdido. Lear se deja llevar: «tendréis que tenerme paciencia. Ahora, os ruego, olvidad y perdonad. Soy viejo y necio».*
+
+*Kent se queda con el caballero: ¿es cierto que el duque de Cornwall murió así? Ciertísimo. ¿Quién conduce su gente? El hijo bastardo de Gloucester, según se dice; y dicen que Edgar, el hijo desterrado, está con el conde de Kent en Alemania («la fama es mudable»). Las fuerzas del reino se acercan a toda prisa; el arbitraje será sangriento. «Id con Dios». Y Kent cierra el acto mirando la batalla que viene:*
+
+> My point and period will be throughly wrought, Or well, or ill, as this day’s battle’s fought.
+
+Mi punto y mi fin serán cumplidos del todo, bien o mal, según se libre la batalla de este día.
+
+Kent
+
 Osmancito, con la asistencia de Instinct
