@@ -6,6 +6,10 @@
 
 William Shakespeare
 
+La obra completa, destilada escena por escena: de las más de cuatro mil frases del original quedaron setenta y siete, las mejores, escogidas una a una. Cada cita va en su inglés, con su traducción al castellano y una glosa breve que la explica; los textos en cursiva cuentan lo que ocurre entre cita y cita.
+
+El destilado se lee en unas cincuenta páginas; la obra entera, en unas ciento diez. De cada cien palabras de Shakespeare, aquí quedan cuatro.
+
 ## Acto I, escena 1
 
 *La primera frase de la obra es de Kent: al rey lo vieron siempre más inclinado a un yerno que al otro. Entra Lear, viejo y cansado de gobernar, pide el mapa y anuncia su plan.*
