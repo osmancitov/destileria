@@ -6,7 +6,7 @@
 
 Stephen King
 
-En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio. Primera entrega: «What Writing Is», la sección donde King responde a la pregunta del título. Cada cita va en su inglés, con su traducción al castellano y una glosa breve que la explica; los textos en cursiva cuentan lo que ocurre entre cita y cita.
+En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio. Primera entrega: «What Writing Is», la sección donde King responde a la pregunta del título.
 
 El destilado de esta sección se lee en unas dos páginas.
 
