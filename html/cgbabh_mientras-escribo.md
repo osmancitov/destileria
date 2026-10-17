@@ -6,7 +6,9 @@
 
 Stephen King
 
-En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio. Aquí se destila sección a sección, con sus propias frases en inglés, su traducción al castellano y una glosa al lado. La primera entrega es «What Writing Is», la sección donde King responde a la pregunta del título: cinco páginas del original destiladas en dos, algo menos de la mitad.
+En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio. Primera entrega: «What Writing Is», la sección donde King responde a la pregunta del título, y de sus setenta y tres frases quedaron cuatro, las mejores, escogidas una a una. Cada cita va en su inglés, con su traducción al castellano y una glosa breve que la explica; los textos en cursiva cuentan lo que ocurre entre cita y cita.
+
+El destilado de esta sección se lee en unas dos páginas; la sección entera, en unas cinco. De cada cien palabras de King, aquí quedan diez.
 
 Osmancito buscó las mejores frases del libro y, con Instinct, les dio una nueva forma.
 
