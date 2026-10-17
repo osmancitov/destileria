@@ -840,6 +840,168 @@ Se puede llegar al acto de escribir con nerviosismo, con entusiasmo, con esperan
 
 *De todas esas maneras se puede llegar, menos de una: «venga como venga, menos a la ligera; no debe acercarse a la página en blanco a la ligera». No es misa ni concurso de moral: es escribir. Si el lector lo toma en serio, hay trato; si no, que cierre el libro. «Lavar el carro, quizás».*
 
+## TOOLBOX
+
+### La caja del abuelo
+
+*«Grandpa was a carpenter», canta John Prine, y el abuelo de King también lo era: Guy Pillsbury construyó su ración de casas y pasó años cuidando que el Atlántico no se llevara la finca de Winslow Homer en Prout's Neck. Fazza fumaba puros; era el tío Oren, también carpintero, quien fumaba los Camel, y cuando Fazza se retiró, Oren heredó su caja de herramientas. King no recuerda si estaba en el garaje el día que se dejó caer el bloque de hormigón en el pie, pero probablemente ocupaba ya su sitio de siempre. Era lo que llamaban una caja de las grandes: tres niveles, los dos de arriba extraíbles, con cajoncitos ingeniosos como cajas chinas; hecha a mano, listones de madera oscura unidos con clavos diminutos y tiras de latón; pestillos como los de la fiambrera de un gigante; un forro de seda con rosas repolludas rojizas que se difuminaban en una niebla de grasa y mugre. No se vendía nada igual en Wal-Mart:*
+
+> When my uncle first got it, he found a brass etching of a famous Homer painting—I believe it was *The Undertow*—lying in the bottom.
+
+Cuando mi tío lo recibió, encontró en el fondo un grabado en latón de un cuadro famoso de Homer; creo que era La resaca.
+
+*Años después el tío Oren lo autenticó con un experto neoyorquino y lo vendió por buen dinero; cómo llegó Fazza a tenerlo es un misterio, pero de la caja no hay misterio: la hizo él mismo. Un día de verano, King, de ocho o nueve años, ayudó al tío Oren a cambiar un mosquitero roto al otro lado de la casa. Él llevaba el mosquitero nuevo equilibrado en la cabeza, como un porteador nativo de película de Tarzán; Oren arrastraba la caja por las asas, a la altura del muslo, pantalones caqui, camiseta blanca limpia, el sudor brillando en el pelo gris cortado al rape y un Camel colgando del labio inferior:*
+
+> (When I came in years later with a pack of Chesterfields in my breast pocket, Uncle Oren sneered at them and called them “stockade cigarettes.”)
+
+(Cuando años después aparecí yo con un paquete de Chesterfield en el bolsillo del pecho, el tío Oren se burló y los llamó «cigarrillos de presidio»).
+
+*La caja pesaba entre ochenta y ciento veinte libras a ojo; entre Dave y él, un agarrando de cada asa, apenas lograban moverla. Oren le dejó abrir los pestillos: arriba estaban las herramientas comunes —martillo, serrucho, alicates, llaves, un nivel con su mística ventanita amarilla, un taladro y dos destornilladores—. «Pásame un destornillador». «¿Cuál?». «Cualquiera». Los tornillos de anilla no distinguían entre plano y de estrella. Cuando el mosquitero quedó firme, el niño, perplejo, preguntó para qué había arrastrado aquella caja monstruosa hasta allí si solo necesitaba un destornillador, que cabía en el bolsillo trasero de los caquis:*
+
+> “Yeah, but Stevie,” he said, bending to grasp the handles, “I didn’t know what else I might find to do once I got out here, did I?
+
+Sí, pero Stevie —dijo, agachándose para asir las asas—, yo no sabía qué más podía encontrarme que hacer una vez aquí fuera, ¿no?
+
+*Mejor llevar las herramientas encima: si no, te encuentras algo que no esperabas y te desanimas. Esa es la sugerencia: constrúyete tu propia caja, muscúlate lo bastante para cargarla, y así, en lugar de desanimarte ante un trabajo duro, agarrarás la herramienta correcta y te pondrás a la obra. La de Fazza tenía tres niveles; la tuya debería tener al menos cuatro (ya con cinco o seis la caja deja de ser portátil y pierde su virtud principal). Revisa cada herramienta al cargarla, mírala como nueva, recuerda su función y límpiale el óxido. Las herramientas comunes van arriba. La más común de todas, el pan de la escritura, es el vocabulario, y ahí puedes empacar lo que tienes sin la menor culpa ni complejo de inferioridad: como le dijo la puta al marinero tímido, «no es cuánto tienes, cariño, es cómo lo usas»:*
+
+> Some writers have enormous vocabularies; these are folks who’d know if there really is such a thing as an insalubrious dithyramb or a cozening raconteur, people who haven’t missed a multiple-choice answer in Wilfred Funk’s *It Pays to Increase Your Word Power* in oh, thirty years or so.
+
+Algunos escritores tienen vocabularios enormes; son gentes que sabrían si existe de verdad eso de un ditirambo insalubre o un cuentista embaucador, personas que no han fallado una pregunta de opción múltiple del It Pays to Increase Your Word Power de Wilfred Funk en, ah, unos treinta años.
+
+*Y pone ejemplos: un párrafo denso y paleozoico de Lovecraft, una «inscrutable depredación» de T. Coraghessan Boyle, media página de un solo aliento de Cormac McCarthy. Otros usan vocabularios pequeños y simples: «Vino al río. El río estaba ahí» (Hemingway); «Pescaron al chaval haciendo algo asqueroso bajo las gradas» (Theodore Sturgeon); o esa frase de Steinbeck de cincuenta palabras de las que treinta y nueve tienen una sola sílaba y ninguna más de dos. Hasta hay vocabulario que nunca encontrarás en el diccionario, como los diálogos fonéticos de Tom Wolfe en La hoguera de las vanidades:*
+
+> “Yeggghhh, fuck you, too, man!”This last is phonetically rendered street vocabulary.
+
+«Yeggghhh, fuck you, too, man!». Esto último es vocabulario callejero transcrito fonéticamente.
+
+*Pocos escritores tienen el oído de Wolfe para trasladar eso a la página —Elmore Leonard es otro—; el rap callejero solo entra en el diccionario cuando ya está bien muerto, y Yeggghhh no saldrá nunca en el Webster's. Pon tu vocabulario en el estante de arriba y no hagas ningún esfuerzo consciente por mejorarlo:*
+
+> (You’ll be doing that as you read, of course … but that comes later.)
+
+(Lo harás leyendo, por supuesto… pero eso viene después).
+
+*Una de las peores cosas que puedes hacerle a tu prosa es disfrazar el vocabulario, buscar palabras largas porque te avergüenzan un poco las cortas: es como vestir de gala a la mascota de casa —la mascota se avergüenza, y quien cometió ese acto de monada premeditada debería avergonzarse aún más—. Prométete ahora mismo que nunca escribirás «emolumento» queriendo decir «propina», ni «John se detuvo el tiempo suficiente para realizar un acto de excreción» cuando quieres decir que John se detuvo a cagar. No se trata de hablar sucio, sino claro y directo. La regla básica del vocabulario: usa la primera palabra que te venga a la mente, si es apropiada y tiene color:*
+
+> If you hesitate and cogitate, you will come up with another word—of course you will, there’s always another word—but it probably won’t be as good as your first one, or as close to what you really mean.
+
+Si dudas y cavilas, se te ocurrirá otra palabra —claro que sí, siempre hay otra palabra—, pero probablemente no será tan buena como la primera, ni tan cercana a lo que de verdad quieres decir.
+
+*Y esto del significado es un asunto muy serio: piensa en cuántas veces has oído «no sé describirlo» o «eso no es lo que quiero decir», y en cuántas lo has dicho tú. La palabra es solo una representación del significado; incluso en el mejor de los casos, escribir casi siempre se queda corto. Dado eso, ¿por qué empeorar las cosas eligiendo una palabra que apenas es prima hermana de la que querías? Y ten en cuenta lo apropiado, que decía George Carlin: en ciertas compañías está perfectamente bien pincharte el dedo, pero es de muy mal gusto dedear tu pincho.*
+
+### La gramática
+
+> You’ll also want grammar on the top shelf of your toolbox, and don’t annoy me with your moans of exasperation or your cries that you *don’t understand* grammar, you *never did understand* grammar, you flunked that *whole semester* in Sophomore English, writing is fun but grammar sucks the big one.
+
+También querrás la gramática en el estante de arriba de tu caja, y no me fastidies con tus gemidos de exasperación ni tus gritos de que no entiendes la gramática, que nunca la entendiste, que suspendiste todo ese semestre en el inglés de segundo año, que escribir mola pero la gramática es una mierda pinchada en un palo.
+
+*Relájate: no hace falta mucho tiempo aquí. Uno absorbe los principios gramaticales de su lengua conversando y leyendo, o no los absorbe; lo que hace el instituto es poco más que poner nombre a las piezas. Y esto no es el instituto: ahora que ya no te preocupa que la falda sea corta o larga, ni el equipo de natación, ni llegar virgen y granulento a la graduación, ni que nadie te quiere y nunca te quisieron, ahora que toda esa mierda extraña está fuera del camino, puedes estudiar ciertas materias con una concentración imposible en aquel manicomio de libros de texto. Si recuerdas los accesorios de tu mejor conjunto o la alineación de los Yankees, puedes recordar la diferencia entre un gerundio y un participio. King pensó mucho si incluir una sección detallada de gramática; parte de él quería —la enseñó con éxito, disfrazada de Inglés Comercial—, pero:*
+
+> In the end I decided against it, probably for the same reason William Strunk decided not to recap the basics when he wrote the first edition of *The Elements of Style:* if you don’t know, it’s too late.
+
+Al final decidí que no, probablemente por la misma razón por la que William Strunk decidió no repasar lo básico cuando escribió la primera edición de The Elements of Style: si no lo sabes, ya es tarde.
+
+*Quien de verdad es incapaz de asimilar la gramática —como él es incapaz de ciertos riffs de guitarra— tampoco sacará mucho de un libro como este; en ese sentido predica para convertidos. Aun así, permítanle ir un poco más allá: sustantivos y verbos son las dos piezas indispensables; toma cualquier sustantivo, ponle cualquier verbo, y tienes una oración. Nunca falla: «Las rocas explotan. Jane transmite. Las montañas flotan». Oraciones perfectas todas; hasta las raras («¡Las ciruelas deifican!») tienen un peso poético agradable. ¿Hay que escribir oraciones completas siempre? Ni pensarlo: la Policía Gramatical no vendrá a por ti. Hasta Strunk, ese Mussolini de la retórica, reconocía la deliciosa ductilidad del idioma: «Es una vieja observación que los mejores escritores a veces desdeñan las reglas de la retórica»:*
+
+> Yet he goes on to add this thought, which I urge you to consider: “Unless he is certain of doing well, [the writer] will probably do best to follow the rules.”
+
+Pero añade a continuación esta idea, que te pido que consideres: «A menos que esté seguro de hacerlo bien, [el escritor] probablemente hará mejor en seguir las reglas».
+
+*La cláusula decisiva es «a menos que esté seguro»: sin una noción rudimentaria de cómo las partes se vuelven oraciones coherentes, ¿cómo vas a estar seguro de hacerlo bien? La construcción sustantivo-verbo es una red de seguridad: si te pierdes entre cláusulas subordinadas y oraciones compuestas, recuerda que las rocas explotan, Jane transmite, las montañas flotan y las ciruelas deifican. La gramática no es solo un dolor en el culo: es el palo del que te agarras para poner tus pensamientos de pie y echarlos a andar. Además, a Hemingway le funcionaron todas esas oraciones simples, ¿no? Incluso borracho perdido, era un maldito genio. Si quieres repasar, busca en la librería de viejo un Warriner's English Grammar and Composition: casi todo lo necesario cabe en sus guardas.*
+
+### El adverbio no es tu amigo
+
+*Dos manías más quiere quitarse de encima antes de seguir. La primera: los verbos activos y pasivos. Con el activo, el sujeto hace algo; con el pasivo, le hacen algo al sujeto, que se limita a dejar que ocurra. Debes evitar la pasiva: a los escritores tímidos les gusta por la misma razón que a los amantes tímidos les gustan las parejas pasivas —es segura, no hay acción problemática que gestionar; el sujeto solo tiene que cerrar los ojos y pensar en Inglaterra—. El tipo inseguro escribe «la reunión se celebrará a las siete» porque así siente que la gente creerá que él sabe de verdad. ¡Purgad ese pensamiento traidor! Echad los hombros atrás: «La reunión es a las siete». Ahí. ¿No se sienten mejor? Hay sitio para la pasiva —«el cadáver fue llevado de la cocina al sofá del salón» es aceptable si no sabemos quién lo movió—, pero ¿por qué ha de ser el muerto el sujeto de la oración, si está muerto, por el amor de Dios? «Mi primer beso será siempre recordado por mí como el comienzo de mi romance con Shayna»: ¿quién se ha tirado un pedo, no? Mejor: «Mi romance con Shayna empezó con nuestro primer beso. Nunca lo olvidaré»:*
+
+> This makes matters easier for the reader, and the reader must always be your main concern; without Constant Reader, you are just a voice quacking in the void.
+
+Esto le facilita las cosas al lector, y el lector debe ser siempre tu principal preocupación; sin el Lector Constante, no eres más que una voz graznando en el vacío.
+
+*Y no es fácil ser quien está al otro lado: Strunk, cuenta E. B. White, sentía que el lector estaba en serios problemas la mayor parte del tiempo, un hombre hundiéndose en un pantano, y que el deber de todo el que escribiera inglés era drenar ese pantano rápido y sacarlo a terreno firme, o al menos lanzarle una cuerda. Y recuerda: el escritor lanzó la cuerda, no la cuerda fue lanzada por el escritor. Por favor, por favor:*
+
+> The other piece of advice I want to give you before moving on to the next level of the toolbox is this: *The adverb is not your friend.*
+
+El otro consejo que quiero darte antes de pasar al siguiente nivel de la caja es este: el adverbio no es tu amigo.
+
+*Los adverbios —los que suelen acabar en -mente— parecen creados pensando en el escritor tímido, igual que la pasiva: con ellos el escritor confiesa que teme no estar expresándose con claridad, que el punto o la imagen no están llegando. «Cerró la puerta con firmeza» no es una oración terrible, pero ¿hace falta el «con firmeza» si la prosa anterior ya nos dijo cómo la cerró? ¿No es redundante? Que alguien lo acusa de pesado y anal-retentivo: lo niega. Él cree que el camino al infierno está empedrado de adverbios y lo gritará desde los tejados. Son como los dientes de león: uno solo en el césped parece bonito y único:*
+
+> If you fail to root it out, however, you find five the next day … fifty the day after that … and then, my brothers and sisters, your lawn is totally, completely, and profligately covered with dandelions.
+
+Sin embargo, si no lo arrancas de raíz, al día siguiente encuentras cinco… cincuenta al otro… y entonces, hermanos y hermanas, vuestro césped está total, completa y pródigamente cubierto de dientes de león.
+
+*Puede ser buen deportista con los adverbios, con una excepción: la atribución de diálogo. «¡Suéltalo! —gritó ella». «Devuélvelo —suplicó él—, es mío». «No seas idiota, Jekyll —dijo Utterson». Ahora mírenlos con esteroides: «gritó amenazadoramente», «suplicó abyectamente», «dijo desdeñosamente»: las tres versiones revisadas son más débiles. Esas atribuciones se llaman Swifties, por Tom Swift, el héroe inventor de Victor Appleton II (««Haz tu peor», clamó Tom valientemente»), y de adolescente había un juego de fiestas que consistía en inventarlos: ««Tiene un buen trasero, señora», dijo descaradamente». Antes de dejar que un adverbio pernicioso entre en tu atribución, pregúntate si quieres escribir la clase de prosa que acaba en un juego de fiestas. Otros esquivan la regla inflando el verbo: «rechinó Jekyll», «jadéó Shayna», «escupió Bill». No hagas esas cosas. La mejor atribución es dijo: dijo él, dijo ella, dijo Bill, dijo Monica. ¿Y esto no es «haz lo que digo, no lo que hago»? Pregunta legítima, respuesta honesta: sí, lo es:*
+
+> I’ve been pretty good about avoiding the passive tense, but I’ve spilled out my share of adverbs in my time, including some (it shames me to say it) in dialogue attribution.
+
+He sido bastante bueno evitando la voz pasiva, pero en mi tiempo he derramado mi ración de adverbios, incluidos algunos (me avergüenza decirlo) en atribuciones de diálogo.
+
+> When I do it, it’s usually for the same reason any writer does it: because I am afraid the reader won’t understand me if I don’t.
+
+Cuando lo hago, suele ser por la misma razón que a cualquier escritor: porque temo que el lector no me entienda si no lo hago.
+
+*Está convencido de que el miedo está en la raíz de casi toda la mala escritura: si escribes por placer será timidez; bajo una fecha de entrega, pánico. Dumbo volaba con una pluma mágica, y puede que sientas el impulso de agarrarte a un verbo pasivo por la misma razón; recuerda antes que Dumbo no necesitaba la pluma: la magia estaba en él. Probablemente sí sabes de qué hablas:*
+
+> And you probably *have* told your story well enough to believe that when you use he said, the reader will know how he said it—fast or slowly, happily or sadly.
+
+Y probablemente has contado tu historia lo bastante bien como para confiar en que, cuando usas dijo, el lector sabrá cómo lo dijo: rápido o despacio, alegre o triste.
+
+*Tu hombre puede estar hundiéndose en el pantano, y por supuesto lánzale una cuerda, pero no hace falta noquearlo con veintisiete metros de cable de acero. Nadie está libre de pecado: E. B. White confesaba haber escrito «el hecho de que» mil veces en el calor de la composición y haberlo corregido solo quinientas —batear .500 tan tarde en la temporada, qué tristeza—, y King seguirá escribiendo a pesar de deslices como ««No puedes hablar en serio», dijo Bill incrédulo». Espera que tú hagas lo mismo:*
+
+> All I ask is that you do as well as you can, and remember that, while to write adverbs is human, to write he said or she said is divine.
+
+Todo lo que pido es que lo hagas lo mejor que puedas, y que recuerdes que, si escribir adverbios es humano, escribir dijo él o dijo ella es divino.
+
+### El párrafo
+
+*Levanta la capa de arriba de tu caja —el vocabulario y la gramática—: en la de debajo van los elementos de estilo, y ahí Strunk y White ofrecen las mejores herramientas y reglas, dichas simple y claramente, con una refrescante severidad que empieza mandando escribir siempre Thomas's bike y nunca Thomas' bike. Antes de dejar lo básico hay que pensar un momento en el párrafo, la forma de organización que viene después de la oración. Para eso, baja de la estantería una novela que no hayas leído, ábrela por la mitad y mira dos páginas cualquiera:*
+
+> Observe the pattern—the lines of type, the margins, and most particularly the blocks of white space where paragraphs begin or leave off.
+
+Observa el patrón: las líneas de tipos, los márgenes y, muy en particular, los bloques de espacio en blanco donde los párrafos empiezan o terminan.
+
+*Sin leer siquiera puedes decir si el libro va a ser fácil o duro: los fáciles tienen párrafos cortos y mucho blanco, aireados como un helado de Dairy Queen; los duros, llenos de ideas y descripción, tienen un aspecto más macizo. Empaquetado. Los párrafos importan casi tanto por cómo se ven como por lo que dicen: son mapas de intención. En la prosa expositiva el párrafo ideal lleva una oración temática seguida de otras que la explican o amplifican, y eso obliga a organizar el pensamiento y asegura contra las divagaciones. King enseñó un año en la Universidad de Maine, con una clase llena de atletas y animadoras aficionados al ensayo informal:*
+
+> I spent one whole semester fighting the urge to ask them to write two pages of well-turned prose on the subject of “If Jesus Were My Teammate.”
+
+Me pasé un semestre entero luchando contra las ganas de pedirles dos páginas de prosa bien torneada sobre el tema «Si Jesús fuera mi compañero de equipo».
+
+*Lo que lo frenó fue la certeza terrible de que la mayoría se lanzaría a la tarea con entusiasmo; algunos quizá llorarían en pleno arrebato compositivo. En la ficción el párrafo es menos estructurado: es el ritmo, no la melodía. Cuanta más ficción leas y escribas, más se formarán solos, y eso es lo que quieres: al componer, mejor no pensar demasiado en dónde empiezan y terminan los párrafos; el truco es dejar que la naturaleza siga su curso, y si luego no te gusta, lo arreglas en la reescritura. Pone de ejemplo un pasaje suyo —la habitación de Big Tony con su luz amarillenta de motel barato y Miss Mayo colgada torcida de una chincheta— y enumera lo que da de sí una sola clase de cincuenta minutos: la atribución de diálogo (innecesaria cuando sabemos quién habla), el lenguaje fonético, la coma ausente para que una frase llegue de un solo aliento, el apóstrofo que falta donde el hablante se come una letra. Y noten cómo fluyen los párrafos, con los giros y ritmos de la historia dictando dónde empieza y acaba cada uno. El más interesante es de una sola oración, técnicamente imperfecta —«Big Tony se sentó, encendió un cigarrillo, se pasó una mano por el pelo»—: su brevedad telegráfica varía el paso y mantiene la prosa fresca. Los puristas lo negarán hasta la muerte, pero el lenguaje no siempre tiene que ir de corbata y zapatos de cordones:*
+
+> The object of fiction isn’t grammatical correctness but to make the reader welcome and then tell a story … to make him/her forget, whenever possible, that he/she is reading a story at all.
+
+El objeto de la ficción no es la corrección gramatical, sino hacer sentir bienvenido al lector y luego contar una historia… hacerle olvidar, siempre que sea posible, que está leyendo una historia en absoluto.
+
+*El párrafo de una sola oración se parece más al habla que a la escritura, y eso es bueno: escribir es seducir, y la buena conversación es parte de la seducción —si no, ¿por qué tantas parejas que empiezan la noche cenando acaban en la cama?—. King sostiene que el párrafo, no la oración, es la unidad básica de la escritura: el lugar donde empieza la coherencia y las palabras tienen opción de ser algo más que palabras. Es un instrumento maravilloso y flexible: puede tener una sola palabra o dieciséis páginas, como uno de Paradise Falls. Aprender a usarlo es aprender el ritmo:*
+
+> That beat is part of the genetic hardwiring (Kellerman writes a lot of frags because he *hears* a lot of frags), but it’s also the result of the thousands of hours that writer has spent composing, and the *tens* of thousands of hours he/she may have spent reading the compositions of others.
+
+Ese ritmo es parte del cableado genético (Kellerman escribe muchos fragmentos porque oye muchos fragmentos), pero también es el resultado de los miles de horas que ese escritor ha pasado componiendo, y de las decenas de miles de horas que habrá pasado leyendo las composiciones de otros.
+
+### La magia
+
+*Vuelve a coger ese libro de la estantería: su peso en tus manos también te dice cosas sin leer una palabra. La extensión, claro, pero más: el compromiso que el escritor cargó a hombros para crear la obra, y el que tú, Lector Constante, deberás asumir para digerirla:*
+
+> Not that length and weight alone indicate excellence; many epic tales are pretty much epic crap—just ask my critics, who will moan about entire Canadian forests massacred in order to print my drivel.
+
+No es que la longitud y el peso indiquen por sí solos excelencia; muchas historias épicas son prácticamente mierda épica: pregúntales a mis críticos, que se lamentarán de bosques canadienses enteros masacrados para imprimir mis chorradas.
+
+*A la inversa, corto no siempre significa dulce —en Los puentes de Madison, corto significa demasiado dulce—. Pero ahí está el compromiso, sea el libro bueno o malo. Las palabras pesan: pregúntale a cualquiera del almacén de una editorial. Las palabras crean oraciones; las oraciones crean párrafos; a veces los párrafos se avivan y empiezan a respirar. Imagina el monstruo de Frankenstein en su losa: aquí llega el rayo, no del cielo sino de un humilde párrafo de palabras inglesas:*
+
+> Maybe it’s the first really good paragraph you ever wrote, something so fragile and yet full of possibility that you are frightened.
+
+Quizá sea el primer párrafo realmente bueno que has escrito nunca, algo tan frágil y a la vez tan lleno de posibilidad que te asusta.
+
+*Te sientes como debió sentirse Victor Frankenstein cuando aquel conglomerado de piezas de repuesto cosidas abrió de pronto sus ojos amarillos y aguados: Dios mío, está respirando; quizá esté incluso pensando; ¿qué demonios hago ahora? Pasar al tercer nivel, por supuesto, y ponerte a escribir ficción de verdad. ¿Por qué no? ¿Por qué habrías de tener miedo? Los carpinteros no construyen monstruos: construyen casas, tiendas y bancos, unos de madera, tabla a tabla, otros de ladrillo, ladrillo a ladrillo; tú construirás párrafo a párrafo, con tu vocabulario y tu gramática, y mientras trabajes a nivel y engrades bien cada puerta, podrás construir lo que quieras: mansiones enteras, si te da la energía. ¿Y hay razón para construir mansiones de palabras? Él cree que sí, y los lectores de Lo que el viento se llevó y de Casa desolada la entienden: a veces hasta un monstruo deja de ser monstruo:*
+
+> Sometimes it’s beautiful and we fall in love with all that story, more than any film or TV program could ever hope to provide.
+
+A veces es hermoso y nos enamoramos de toda esa historia, más de lo que ninguna película ni programa de televisión podría jamás aspirar a dar.
+
+*Ni tras mil páginas queremos dejar el mundo que el escritor nos ha hecho, ni a sus gentes de mentira; no te irías ni tras dos mil, si las hubiera. La trilogía de los Anillos es el ejemplo perfecto: mil páginas de hobbits no han bastado a tres generaciones de lectores de fantasía, ni aun añadiendo ese torpe y tambaleante dirigible de epílogo que es El Silmarillion; de ahí Terry Brooks, Piers Anthony, Robert Jordan y medio centenar más, todos creando los hobbits que aún aman y añoran, intentando traer a Frodo y a Sam de vuelta de los Puertos Grises porque Tolkien ya no está para hacerlo. En lo más básico esto es solo una destreza aprendida, pero ¿no estamos de acuerdo en que a veces las destrezas más básicas crean cosas que superan toda expectativa?*
+
+> We are talking about tools and carpentry, about words and style … but as we move along, you’d do well to remember that we are also talking about magic.
+
+Estamos hablando de herramientas y carpintería, de palabras y estilo… pero a medida que avancemos, harás bien en recordar que también estamos hablando de magia.
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
