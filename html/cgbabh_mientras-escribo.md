@@ -8,7 +8,7 @@ Stephen King
 
 En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio. El libro entero, destilado unidad a unidad; la página crece con cada entrega.
 
-El destilado se lee en unas veintidós páginas.
+El destilado se lee en unas treinta y cinco páginas.
 
 Osmancito buscó las mejores frases del libro y, con Instinct, les dio una nueva forma.
 
@@ -257,6 +257,134 @@ Mi primera idea realmente original para un cuento (la primera siempre se reconoc
 Estaba sentado a la mesa de la cocina de nuestra casa de Durham, Maine, mirando a mi madre pegar hojas de cupones S&H Green Stamps en una libreta.
 
 *Los Green Stamps eran cupones de compra que se cambiaban por mercancía; para más historias sabrosas sobre ellos, remite a The Liars' Club. Las hermanas le habían conseguido a su madre aquel arreglo pensando quizá en matar dos pájaros de un tiro: los viejos cuidados en casa por una hija amorosa, y resuelto El Problema Fastidioso de Ruth. Pero King cree que ella odiaba aquel trabajo: de mujer autosuficiente, graciosa y un poco loca pasó a una especie de aparcera con existencia casi sin dinero. La casa era de los tíos Ethelyn y Oren; una vez allí, quedó atrapada. Consiguió otro trabajo de verdad cuando los viejos murieron, pero vivió en esa casa hasta que la alcanzó el cáncer, y cuando salió de Durham por última vez, King intuye que probablemente estaba más que lista para irse.*
+
+### Happy Stamps
+
+*Que quede claro, dice King: no existe un vertedero de ideas ni una Central de Cuentos; las buenas ideas llegan literalmente de la nada, navegando hacia ti desde el cielo vacío: dos ideas sin relación se juntan y hacen algo nuevo bajo el sol. El trabajo del escritor no es encontrarlas, sino reconocerlas cuando aparecen. Aquel día, su madre comentó que le faltaban seis libretas de cupones para la lámpara que quería regalarle a su hermana Molly por Navidad; cruzó los ojos, le sacó la lengua, y King vio que la tenía verde S&H. Qué bien sería fabricar esos malditos cupones en el sótano, pensó, y en ese instante nació «Happy Stamps»: el concepto de falsificar cupones de descuento más la lengua verde de su madre. El héroe: Roger, un pobre diablo con dos condenas por falsificar dinero, que descubre que el diseño de los Happy Stamps es tan idiotamente simple que no está falsificando: está creando el artículo auténtico, por resmas:*
+
+> In a funny scene—probably the first really competent scene I ever wrote—Roger sits in the living room with his old mom, the two of them mooning over the Happy Stamps catalogue while the printing press runs downstairs, ejecting bale after bale of those same trading stamps.
+
+En una escena divertida —probablemente la primera escena realmente competente que escribí—, Roger está sentado en la sala con su vieja madre, los dos babeando sobre el catálogo de Happy Stamps mientras la imprenta funciona abajo, escupiendo fardo tras fardo de esos mismos cupones.
+
+*«Por seis o siete millones de libretas podríamos tener una casa Happy Stamps en las afueras», dice la madre. El problema: los cupones son perfectos, pero la goma es defectuosa; si pasan por la humedecedora mecánica, los cupones rosas se vuelven azules. El cuento termina con Roger frente al espejo, los labios rosas, la lengua más rosa todavía, abriendo otra libreta para seguir lamiendo: solo quedan once millones quinientas noventa mil para la casa Tudor de mamá:*
+
+> There were things wrong with this story (the biggest hole was probably Roger’s failure simply to start over with a different glue), but it was cute, it was fairly original, and I knew I had done some pretty good writing.
+
+El cuento tenía sus fallos (el mayor agujero era, probablemente, que a Roger no se le ocurriera simplemente empezar de nuevo con otra goma), pero era gracioso, era bastante original, y yo sabía que había escrito algunas cosas buenas.
+
+*Tras estudiar los mercados en su ajado Writer's Digest, lo mandó a Alfred Hitchcock's Mystery Magazine. Volvió a las tres semanas con el resbalón de rechazo impreso —el perfil inconfundible de Hitchcock en tinta roja— y algo más:*
+
+> At the bottom was an unsigned jotted message, the only personal response I got from *AHMM* over eight years of periodic submissions.
+
+Al pie había un mensajito garabateado sin firma, la única respuesta personal que recibí de AHMM en ocho años de envíos periódicos.
+
+*La posdata decía: «No engrape los manuscritos. Hojas sueltas más clip igual a la forma correcta de enviar originales». Consejo frío, pensó, pero útil a su manera: nunca ha vuelto a engrapar un manuscrito.*
+
+### El clavo de los rechazos
+
+*Su cuarto en la casa de Durham quedaba arriba, bajo los aleros; de noche leía en la cama con una lámpara de cuello de cisne que proyectaba en el techo una sombra como una boa constrictora, entre el ruido de la caldera, el correteo de las ratas del desván y los gritos de medianoche de su abuela pidiendo que alguien revisara a Dick, un caballo muerto hacía cuarenta años:*
+
+> I had a desk beneath the room’s other eave, my old Royal typewriter, and a hundred or so paperback books, mostly science fiction, which I lined up along the baseboard.
+
+Tenía un escritorio bajo el otro alero de la habitación, mi vieja máquina de escribir Royal y un centenar de libros de bolsillo, sobre todo de ciencia ficción, que alineaba a lo largo del zócalo.
+
+*Cuando llegó el resbalón de rechazo de AHMM, clavó un clavo en la pared, escribió «Happy Stamps» en el resbalón y lo empalmó en el clavo. Después se sentó en la cama a oír a Fats Domino cantar «I'm Ready», y se sintió bastante bien: cuando aún eres muy joven para afeitarte, el optimismo es una respuesta perfectamente legítima al fracaso. A los catorce, el clavo ya no soportaba el peso de los resbalones ensartados; lo cambió por un clavón y siguió escribiendo. A los dieciséis llegaron notas escritas a mano, más alentadoras que el consejo del clip: Algis Budrys, entonces editor de Fantasy and Science Fiction, le escribió de un cuento suyo: «Esto es bueno. No para nosotros, pero bueno. Tienes talento. Vuelve a intentarlo». Cuatro frases breves que le iluminaron el pésimo invierno de sus dieciséis años:*
+
+> Ten years or so later, after I’d sold a couple of novels, I discovered “The Night of the Tiger” in a box of old manuscripts and thought it was still a perfectly respectable tale, albeit one obviously written by a guy who had only begun to learn his chops.
+
+Unos diez años después, cuando ya había vendido un par de novelas, descubrí «The Night of the Tiger» en una caja de manuscritos viejos y me siguió pareciendo un cuento perfectamente respetable, aunque escrito a todas luces por un tipo que apenas empezaba a aprender el oficio.
+
+*Lo reescribió y, por un capricho, lo reenvió a la misma revista. Esta vez lo compraron. Algo que ha notado: cuando has tenido un poco de éxito, las revistas usan mucho menos la frase «no para nosotros».*
+
+### Dave's Rag
+
+*Dave, un año menor que sus compañeros y con un coeficiente entre 150 y 160, se aburría en el instituto: no era bastante súper, no tenía pow, no tenía wham, no tenía gracia. Lo resolvió, por un tiempo, creando un periódico: Dave's Rag, con redacción en una mesa del sótano, al norte de la caldera y al este de la despensa. Mezcla rara de boletín familiar y bisemanario de pueblo:*
+
+> Sometimes it was a monthly, if Dave got sidetracked by other interests (maple-sugaring, cider-making, rocket-building, and car-customizing, just to name a few), and then there would be jokes I didn’t understand about how Dave’s *Rag* was a little late this month or how we shouldn’t bother Dave, because he was down in the basement, on the *Rag.*
+
+A veces era mensual, si Dave se despistaba con otros intereses (hacer azúcar de arce, hacer sidra, construir cohetes, tunear carros, por nombrar unos pocos), y entonces corrían chistes que yo no entendía sobre que el Rag de Dave ese mes venía con retraso o sobre que no había que molestar a Dave, que estaba abajo en el sótano, con el Rag.
+
+*El chiste que King no entendía: on the rag significa en inglés «con la regla». Chistes o no, la tirada subió de cinco ejemplares a unos sesenta: noticias de la pierna rota de Charley Harrington, los invitados de la iglesia metodista, chistes de castores («it was nice gnawing you») y una historia por entregas que escribía King. El primer año se imprimía en morado, con un hectógrafo, una placa de gelatina que a Dave se le quedó corta pronto; a Dave, incluso en pantalón corto, lo volvía loco que lo frenaran. Cuando el novio de su madre se atascaba en un semáforo, Dave gritaba desde el asiento de atrás: «¡Pásales por encima, tío Milt!»:*
+
+> As a teenager, waiting for the hectograph to “freshen” between pages printed (while “freshening,” the print would melt into a vague purple membrane which hung in the jelly like a manatee’s shadow) drove David all but insane with impatience.
+
+Ya adolescente, esperar a que el hectógrafo se «refrescara» entre página y página (mientras se «refrescaba», la impresión se derretía en una vaga membrana morada que colgaba en la gelatina como la sombra de un manatí) volvía a David medio loco de impaciencia.
+
+*Además quería poner fotos; hacía buenas, y a los dieciséis también las revelaba:*
+
+> He rigged a darkroom in a closet and from its tiny, chemical-stinking confines produced pictures which were often startling in their clarity and composition (the photo on the back of *The Regulators,* showing me with a copy of the magazine containing my first published story, was taken by Dave with an old Kodak and developed in his closet darkroom).
+
+Se montó un cuarto oscuro en un armario, y desde ese cubículo diminuto y apestoso a químicos sacaba fotos a menudo asombrosas de nitidez y composición (la foto de la contraportada de The Regulators, donde salgo con un ejemplar de la revista que publicó mi primer cuento, la tomó Dave con una vieja Kodak y la reveló en su cuarto oscuro del armario).
+
+*La gelatina, por lo demás, tendía a incubar colonias de crecimientos extraños en el sótano húmedo: lo que el lunes parecía normal, el fin de semana parecía salido de un relato de Lovecraft. En Brunswick encontró una pequeña imprenta de tambor de segunda mano: esténciles de diecinueve centavos, la tinta más apestosa del mundo, y a darle a la manivela hasta que se te caiga el brazo. Lo que antes tomaba una semana salía en dos noches: Dave's Rag entró en su breve edad de oro.*
+
+### El péndulo
+
+*Entre 1958 y 1966, lo que de verdad le importaba a King era el cine: no el Empire, con sus musicales de gente pulcra —aburridamente sanos, previsibles—, sino el Ritz, calle abajo entre las casas de empeño: monstruos que se comían ciudades enteras, cadáveres radiactivos que salían del océano a comerse a los surfistas, chicas de sostén negro con pinta de basura de caravana. Catorce millas que hacía a dedo casi cada fin de semana, ocho años seguidos. Su género favorito, bautizado por él y su amigo Chris: las Poepictures, la serie de películas de Roger Corman con títulos tomados de Poe que de Poe tenían poco. La que más los marcó fue The Pit and the Pendulum, con su cadáver enterrado en vida filmado a través de un filtro rojo, la cara estirada en un grito silencioso y enorme:*
+
+> On the long hitch home that night (if rides were slow in coming, you might end up walking four or five miles and not get home until well after dark) I had a wonderful idea: I would turn *The Pit and the Pendulum* into a book!
+
+En el largo viaje de vuelta a casa aquella noche (si los aventones tardaban, podías acabar caminando cuatro o cinco millas y no llegar hasta bien entrada la noche), tuve una idea maravillosa: ¡convertiría The Pit and the Pendulum en un libro!
+
+*No solo escribirla: también imprimirla con la imprenta de tambor del sótano y venderla en la escuela. Como se concibió, así se hizo:*
+
+> Working with the care and deliberation for which I would later be critically acclaimed, I turned out my “novel version” of *The Pit and the Pendulum* in two days, composing directly onto the stencils from which I’d print.
+
+Trabajando con el esmero y la pausa por los que años después sería aclamado por la crítica, despaché mi «versión novelada» de The Pit and the Pendulum en dos días, componiendo directamente sobre los esténciles con los que imprimiría.
+
+*Ocho páginas a un solo espacio —cada esténcil costaba diecinueve centavos—, portada con un péndulo goteando manchurrones que él esperaba que parecieran sangre, y el sello editorial en la esquina: A V.I.B. BOOK, Very Important Book:*
+
+> I ran off about forty copies of *The Pit and the Pendulum,* blissfully unaware that I was in violation of every plagiarism and copyright statute in the history of the world; my thoughts were focused almost entirely on how much money I might make if my story was a hit at school.
+
+Tiré unos cuarenta ejemplares de The Pit and the Pendulum, felizmente ignorante de que estaba violando todas las leyes de plagio y derechos de autor de la historia del mundo; mis pensamientos se concentraban casi por completo en cuánto dinero podía ganar si mi historia pegaba fuerte en la escuela.
+
+*Los esténciles costaron 1,71 dólares, el papel unos cincuenta centavos más, las grapas gratis, birladas de su hermano —los cuentos para las revistas van con clip, pero esto era un libro, esto era la liga mayor—. Precio: un cuarto de dólar. The Pit and the Pendulum fue su primer éxito de ventas: dos docenas antes del mediodía, tres al final del almuerzo, cuando ya corría la voz de la dama emparedada que había muerto «scratcheing madley for escape», rascando como una loca por salir. Nueve dólares en cambio pesando en el fondo de la mochila. Demasiado bueno para ser verdad: a las dos lo llamaron a dirección. La señorita Hisler —la misma que años antes le había quitado The Amboy Dukes— le informó de que no podía convertir la escuela en un mercado, y menos para vender semejante porquería:*
+
+> “What I don’t understand, Stevie,” she said, “is why you’d write junk like this in the first place.
+
+«Lo que no entiendo, Stevie —dijo—, es por qué escribes porquerías como ésta para empezar. Tienes talento. ¿Por qué quieres desperdiciar tus capacidades?».
+
+*Esperó una respuesta —la pregunta no era del todo retórica, hay que reconocérselo—, pero él no tenía ninguna. Estaba avergonzado, y ha pasado muchos años desde entonces, demasiados, avergonzado de lo que escribe:*
+
+> I think I was forty before I realized that almost every writer of fiction and poetry who has ever published a line has been accused by someone of wasting his or her God-given talent.
+
+Creo que tenía cuarenta años cuando comprendí que a casi todo escritor de ficción o poesía que ha publicado una sola línea alguien lo ha acusado alguna vez de desperdiciar el talento que Dios le dio.
+
+*Devolvió el dinero sin discutir, incluso a los niños que insistieron en quedarse su ejemplar de V.I.B. nº 1, y acabó perdiendo dinero en el trato; ese verano imprimió cuatro docenas de una historia original, The Invasion of the Star-Creatures, y vendió casi todas. Ganó, al menos en lo financiero. Pero en el corazón siguió avergonzado: durante años siguió oyendo a la señorita Hisler preguntar por qué quería desperdiciar su talento, por qué quería escribir porquerías.*
+
+### The Village Vomit
+
+*En segundo de bachillerato, por haber trabajado en el periódico de Dave, lo nombraron —sin preguntarle, cree— editor del periódico escolar, The Drum, que no prosperó bajo su dirección: en el curso 63-64 publicó un solo número, eso sí, más gordo que la guía de teléfonos de Lisbon Falls. Y una noche:*
+
+> One night—sick to death of Class Reports, Cheerleading Updates, and some lamebrain’s efforts to write a school poem—I created a satiric high school newspaper of my own when I should have been captioning photographs for *The Drum.*
+
+Una noche —harto hasta la muerte de los Partes de Clase, las Noticias de las Porristas y los esfuerzos de algún descerebrado por escribir un poema escolar— creé un periódico satírico de instituto por mi cuenta, cuando debería haber estado redactando pies de foto para The Drum.
+
+*Cuatro páginas: The Village Vomit, «el vómito del pueblo», con el lema enmarcado en la esquina: no «todas las noticias dignas de imprimirse», sino «toda la mierda que se pegue». Esa chorrada le trajo el único problema serio de su etapa escolar y la lección de escritura más útil que recibió nunca:*
+
+> In typical *Mad* magazine style (“What, me worry?”), I filled the *Vomit* with fictional tidbits about the LHS faculty, using teacher nicknames the student body would immediately recognize.
+
+En el estilo típico de la revista Mad («¿Qué, yo preocuparme?»), llené el Vomit de pamplinas ficticias sobre el profesorado del instituto, usando los apodos que todo el alumnado reconocería al instante.
+
+*La señorita Raypach era Rat Pack; el señor Ricker, dueño de una lechería, Cow Man; el de ciencias, Old Raw Diehl, despedido en una crónica por meterse ojos de fetos de cerdo en las fosas nasales. Humor en la gran tradición swiftiana. A la cuarta hora, tres amigos se reían tan fuerte al fondo de la sala de estudio que la propia Rat Pack se acercó a hurtadillas a ver qué era tan gracioso:*
+
+> She confiscated *The Village Vomit,* on which I had, either out of overweening pride or almost unbelievable naiveté, put my name as Editor in Chief & Grand High Poobah, and at the close of school I was for the second time in my student career summoned to the office on account of something I had written.
+
+Confiscó The Village Vomit, en el que yo, ya fuera por orgullo desmedido o por una ingenuidad casi increíble, había puesto mi nombre como Redactor Jefe y Gran Poobah Supremo, y al final de las clases fui por segunda vez en mi carrera estudiantil llamado a dirección por culpa de algo que había escrito.
+
+*Poobah: el personaje todopoderoso de El Mikado, de Gilbert y Sullivan. La mayoría de los profesores se lo tomaron a bien —hasta Old Raw Diehl estaba dispuesto a olvidar lo de los ojos de cerdo—, pero una no: la señorita Margitan, la de mecanografía y taquigrafía, respetada y temida, de la escuela vieja: nada de ser tu amiga, tu psicóloga ni tu inspiración; sus alumnas se arrodillaban en el suelo y, si el dobladillo no tocaba el linóleo, se iban a casa a cambiarse. Las que la odiaban la llamaban Maggot, «gusano», como sin duda sus madres antes. Y el Vomit traía una nota que empezaba: «La señorita Margitan, conocida afectuosamente en todo Lisbon como Maggot...». El director calvo —Old Cue-Ball para el Vomit— le dijo que estaba muy dolida y que pedía su suspensión:*
+
+> It was the crazy part of me that had first written *The Village Vomit* and then carried it to school; now that troublesome Mr. Hyde had dubbed up and slunk out the back door.
+
+La parte loca de mí fue la que primero escribió The Village Vomit y luego lo llevó a la escuela; ahora ese molesto Mr. Hyde se había largado a escondidas por la puerta de atrás.
+
+*Al doctor Jekyll le tocó imaginar los ojos dolidos de su madre si se enteraba, y aguantarse las ganas de llorar en el despacho, sentado en la Silla del Chico Malo. Al final la cosa quedó en disculpa formal y dos semanas de castigo. Y en la disculpa, de pie frente a ella —sentada rectísima, las manos artríticas cruzadas, los ojos grises fijos en su cara—, King entendió que había algo distinto en aquella mujer: con ella no habría encanto que valiera:*
+
+> Later, while I was flying paper planes with the other bad boys and bad girls in detention hall (detention turned out to be not so bad), I decided that it was pretty simple: Miss Margitan didn’t like boys.
+
+Más tarde, mientras lanzaba aviones de papel con los otros chicos y chicas malos en el aula de castigo (el castigo resultó no ser tan malo), decidí que era muy simple: a la señorita Margitan no le gustaban los chicos.
+
+*La primera mujer que conoció en su vida a la que no le gustaban los chicos, ni un poquito. La disculpa fue sincera: ella había sido herida de verdad, y eso él podía entenderlo. Dos años después, cuando su nombre apareció en la lista de candidatos a la Sociedad de Honor, ella lo vetó: la sociedad no necesitaba chicos «de su tipo». King ha llegado a creer que tenía razón: un chico que una vez se limpió el trasero con hiedra venenosa probablemente no pertenece a un club de gente lista. Desde entonces no ha tenido muchos tratos con la sátira.*
 
 ## What Writing Is
 
