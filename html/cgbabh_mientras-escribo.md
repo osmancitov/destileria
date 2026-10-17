@@ -8,7 +8,7 @@ Stephen King
 
 En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio.
 
-El destilado ya suma cincuenta y seis páginas y crece unidad a unidad.
+El destilado ya suma sesenta y nueve páginas y crece unidad a unidad.
 
 Osmancito buscó las mejores frases del libro y, con Instinct, les dio una nueva forma.
 
@@ -589,6 +589,136 @@ El cuarto problema, y el más importante, fue darme cuenta de que la historia no
 Los había visto al vaciar mi papelera, les había sacudido la ceniza de cigarrillo a las bolas de papel arrugado, las había alisado y se había sentado a leerlas.
 
 *Quería que siguiera, dijo; quería saber el resto de la historia. Él le dijo que no sabía ni jota de chicas de instituto. Ella dijo que le ayudaría con esa parte. Tenía la barbilla inclinada y sonreía de esa manera suya, sabia y terriblemente adorable: «Tienes algo aquí. De verdad creo que lo tienes».*
+
+### Sondra y Dodie
+
+*Nunca llegó a gustarle Carrie White, y nunca confió en los motivos de Sue Snell, «pero sí que tenía algo ahí. Como toda una carrera»:*
+
+> Tabby somehow knew it, and by the time I had piled up fifty single-spaced pages, I knew it, too.
+
+Tabby lo sabía de algún modo, y cuando yo ya había apilado cincuenta páginas a un solo espacio, también lo supe.
+
+*Había escrito otras tres novelas antes —Rage, The Long Walk y The Running Man se publicarían después—, pero ninguna le enseñó lo que aprendió de Carrie White:*
+
+> The most important is that the writer’s original perception of a character or characters may be as erroneous as the reader’s. Running a close second was the realization that stopping a piece of work just because it’s hard, either emotionally or imaginatively, is a bad idea.
+
+La más importante: la percepción original que el escritor tiene de un personaje puede ser tan errónea como la del lector. Y muy cerca, en segundo lugar, descubrir que abandonar un trabajo solo porque es duro, emocional o imaginativamente, es una mala idea.
+
+*A veces hay que seguir cuando no te apetece, y a veces estás haciendo buen trabajo cuando sientes que solo logras palear mierda desde una silla. Tabby le ayudó, empezando por informarle de que los dispensadores de compresas de los institutos no suelen funcionar con monedas: a la administración no le gusta la idea de chicas caminando con las faldas manchadas de sangre por haber venido a clase sin un cuarto de dólar. Y él se ayudó a sí mismo:*
+
+> And I also helped myself, digging back to my memories of high school (my job teaching English didn’t help; I was twenty-six by then, and on the wrong side of the desk), remembering what I knew about the two loneliest, most reviled girls in my class—how they looked, how they acted, how they were treated.
+
+Excavando en mis recuerdos del instituto (mi trabajo de profesor de inglés no servía; ya tenía veintiséis años y estaba en el lado equivocado del escritorio), recordando lo que sabía de las dos chicas más solitarias y más odiadas de mi clase: cómo eran, cómo actuaban, cómo las trataban.
+
+*Pocas veces en su carrera ha explorado territorio más desagradable. La primera, llamémosla Sondra, vivía con su madre y su perro en un tráiler; tenía la carne floja y pálida como la cara de abajo de algunos hongos y ningún amigo. Un día su madre lo contrató para mover unos muebles, y en la sala del tráiler dominaba un Jesucristo crucificado de tamaño casi natural, ojos en blanco, sangre goteando bajo la corona de espinas, el vientre hundido y las costillas de interno de campo de concentración asomando sobre el taparrabos:*
+
+> It occurred to me that Sondra had grown up beneath the agonal gaze of this dying god, and doing so had undoubtedly played a part in making her what she was when I knew her: a timid and homely outcast who went scuttling through the halls of Lisbon High like a frightened mouse.
+
+Se me ocurrió que Sondra había crecido bajo la mirada agónica de ese dios moribundo, y que crecer así había tenido sin duda su parte en hacerla lo que era cuando la conocí: una marginada tímida y desgarbada que corría por los pasillos de Lisbon High como un ratón asustado.
+
+*«Ese es Jesucristo, mi Señor y Salvador —dijo la madre, siguiendo su mirada—. ¿Tú has sido salvado, Steve?». Él se apresuró a decir que salvadísimo, aunque no creía que nadie fuera lo bastante bueno para que aquella versión de Jesús interviniera por nadie: el dolor lo había vuelto loco; si ese tipo volvía, no vendría en plan de salvar. La otra, Dodie Franklin —Dodo o Doodoo para las chicas—, tenía unos padres concursantes profesionales (ganaron el Maxwell de Jack Benny, que se fue hundiendo en el paisaje junto a la casa), pero nada de ropa para adolescentes: Dodie y su hermano Bill vistieron lo mismo cada día durante año y medio. En la Durham de su infancia la vida no llevaba maquillaje: no era Arcadia, era Dogpatch sin sentido del humor. Las chicas no solo se reían de Dodie: la odiaban, porque Dodie era todo lo que ellas temían ser. Y un día, después de las vacaciones de Navidad, Dodie volvió resplandeciente: falda nueva color arándano, medias de nailon, un suéter de lana suave, permanente recién hecha, y en la cara se veía que lo sabía. No importó: esa día las burlas fueron peores que nunca; sus compañeras no tenían intención de sacarla de la caja donde la habían metido, y la castigaron solo por intentar escapar. King tuvo varias clases con ella y lo vio de primera mano: la sonrisa apagarse, la luz de los ojos primero flaquear y luego irse:*
+
+> By the end of the day she was the girl she’d been before Christmas vacation—a dough-faced and freckle-cheeked wraith, scurrying through the halls with her eyes down and her books clasped to her chest.
+
+Al final del día era otra vez la chica de antes de las vacaciones de Navidad: un espectro de cara pastosa y mejillas pecosas, escabulléndose por los pasillos con los ojos bajos y los libros apretados al pecho.
+
+*Se puso la falda y el suéter nuevos al día siguiente, y al otro, y al otro, hasta el fin del curso, aunque el calor sobraba para la lana: alguien había intentado escapar y había sido abatido; contados de nuevo los prisioneros, la vida podía volver a la normalidad. Cuando King empezó Carrie, Sondra y Dodie ya estaban muertas: Sondra, epiléptica, sola en un apartamento de Lisbon Falls, en un ataque; Dodie, casada con un hombre del tiempo de la tele, de un tiro del calibre 22 en el abdomen, en el sótano, después del nacimiento de su segundo hijo —en el pueblo dijeron depresión posparto, qué triste; él sospechó que la resaca del instituto tuvo algo que ver—. Nunca le gustó Carrie, esa versión femenina de Harris y Klebold, los chicos de Columbine, pero a través de Sondra y Dodie llegó por fin a entenderla un poco:*
+
+> I pitied her and I pitied her classmates as well, because I had been one of them once upon a time.
+
+Me dio lástima, y me dieron lástima también sus compañeros, porque yo había sido uno de ellos, érase una vez.
+
+### El telegrama
+
+*El manuscrito de Carrie salió hacia Doubleday, donde King tenía un amigo, Bill Thompson, el editor que años después descubriría a un escribiente de Mississippi llamado John Grisham:*
+
+> I pretty much forgot about it and moved on with my life, which at that time consisted of teaching school, raising kids, loving my wife, getting drunk on Friday afternoons, and writing stories.
+
+Me olvidé del asunto y seguí con mi vida, que por entonces consistía en dar clases, criar niños, querer a mi mujer, emborracharme los viernes por la tarde y escribir cuentos.
+
+*Su hora libre era la quinta, justo después del almuerzo, y la pasaba en la sala de profesores corrigiendo papeles y soñando con la siesta: a media tarde tiene toda la energía de una boa que acaba de tragarse una cabra. Un día el interfono lo llamó a la oficina: su mujer al teléfono. Caminó deprisa, sin correr del todo, con el corazón acelerado: Tabby habría tenido que abrigar a los niños para usar el teléfono de los vecinos, y solo se le ocurrían dos motivos —que Joe o Naomi se hubieran roto una pierna, o que había vendido Carrie—. Tabby, sin aliento y delirante de felicidad, le leyó un telegrama: «ENHORABUENA. CARRIE OFICIALMENTE UN LIBRO DOUBLEDAY. ¿ESTÁ BIEN ANTICIPO DE 2.500 DÓLARES? EL FUTURO ESTÁ POR DELANTE. CON AMOR, BILL»:*
+
+> Twenty-five hundred dollars was a very small advance, even for the early seventies, but I didn’t know that and had no literary agent to know it for me.
+
+Dos mil quinientos dólares era un anticipo muy pequeño, incluso para comienzos de los setenta, pero yo no lo sabía y no tenía agente literario que lo supiera por mí.
+
+*Antes de que se le ocurriera que quizá necesitaba un agente, había generado ya más de tres millones de dólares de ingresos, buena parte para la editorial. Aquella noche, en la cama comiendo tostadas y hablando hasta la madrugada, Tabby preguntó cuánto sacarían si Doubleday vendía los derechos de bolsillo:*
+
+> I’d read that Mario Puzo had just scored a huge advance for paperback rights to *The Godfather*—four hundred thousand dollars according to the newspaper—but I didn’t believe *Carrie* would fetch anything near that, assuming it sold to paperback at all.
+
+Había leído que Mario Puzo acababa de conseguir un anticipo enorme por los derechos de bolsillo de El Padrino —cuatrocientos mil dólares, según el periódico—, pero no creía que Carrie fuera a alcanzar nada parecido, suponiendo que se vendiera a bolsillo en absoluto.
+
+*Ella preguntó, más tímidamente de lo normal en su franca mujer, si él creía que el libro encontraría editorial de bolsillo. Él dijo que las probabilidades eran buenas, siete u ocho de diez. ¿Y cuánto podía traer? Entre diez mil y sesenta mil, calculó. «¿Sesenta mil dólares? ¿Eso siquiera es posible?». Posible, sí; no probable. Y el contrato mandaba reparto a medias: si Ballantine o Dell pagaban sesenta mil, a ellos les llegaban treinta. Tabby no dignificó eso con respuesta: treinta mil dólares era lo que él esperaba ganar en cuatro años de enseñanza. Probablemente un castillo en el aire, pero era noche de soñar.*
+
+### Cuatrocientos mil
+
+*Carrie avanzaba hacia la publicación con lentitud exasperante; el anticipo se fue en un carro nuevo, de cambio manual, que Tabby odiaba en su lengua de obrera más colorida, y King firmó su contrato de profesor para el curso 73-74:*
+
+> I was writing a new novel, a peculiar combination of *Peyton Place* and *Dracula* which I called *Second Coming.*
+
+Escribía una novela nueva, una combinación peculiar de Peyton Place y Drácula que llamaba Second Coming.
+
+*O, como la pensaba él: Vampiros en nuestro pueblo; sería Salem's Lot. Mientras, su madre empezaba a apagarse: sesenta y un años, la mesilla cubierta de analgésicos de receta, siempre había fumado como una chimenea, y Dave notó que había perdido peso. «¿Qué podemos hacer?». «No podemos hacer nada —respondió Dave— hasta que ella lo pida». Y un domingo no mucho después, con Tabby y los niños de visita en casa de su suegra y él trabajando en la novela de los vampiros, llamó Bill Thompson. «¿Estás sentado?». «No. ¿Hace falta?». «Podría ser. Los derechos de bolsillo de Carrie han ido a Signet Books por cuatrocientos mil dólares». De niño, Daddy Guy le decía a su madre: «Cuando Stephen abre la boca, se le caen todas las tripas». Cierto entonces y toda su vida, pero aquel Día de la Madre de 1973 se quedó completamente sin habla. «¿Has dicho cuarenta mil dólares?». «Cuatrocientos mil dólares. Según las reglas del camino —el contrato que firmaste—, doscientos mil son tuyos. Enhorabuena, Steve». Le pidió que repitiera el número despacio y claro: un cuatro, cinco ceros, y después un punto decimal y dos ceros más:*
+
+> I was still standing in the doorway, looking across the living room toward our bedroom and the crib where Joe slept.
+
+Yo seguía de pie en el umbral, mirando a través de la sala hacia nuestro dormitorio y la cuna donde dormía Joe.
+
+*Su apartamento de Sanford Street se alquilaba por noventa dólares al mes, y ese hombre al que solo había visto una vez en persona le decía que acababa de ganar la lotería. Las fuerzas le salieron de las piernas: no cayó, exactamente, pero se dejó ir hasta quedar sentado en el umbral. Media hora más de conversación de la que no recuerda una palabra. Temblando entero, se fue caminando al centro: el Día de la Madre solo abría la farmacia LaVerdiere's, y una verdad de la vida es que en LaVerdiere's no se vende nada realmente salvaje y extravagante. Hizo lo que pudo: le compró un secador de pelo. Cuando llegó, ella estaba en la cocina cantando con la radio. Miró el secador como si nunca hubiera visto uno. «¿Y esto a qué viene?». Él la tomó por los hombros y se lo contó; ella no parecía entender; se lo contó otra vez. Tabby miró por encima de su hombro aquel apartamentucho de cuatro cuartos, igual que él lo había mirado, y empezó a llorar.*
+
+### La primera borrachera
+
+*Se emborrachó por primera vez en 1966, en el viaje de fin de curso a Washington: primera noche en Nueva York, donde la edad legal era dieciocho y él, gracias a sus oídos malos y sus amígdalas de porquería, ya tenía casi diecinueve. En el colmado de la esquina, ante el exceso de botellas y marcas, se rindió y le preguntó al tipo del mostrador —el mismo calvo de bata gris y cara de aburrimiento que, está convencido, vende a los vírgenes del alcohol su primera botella desde el alba del comercio— qué era barato. Una pinta de whiskey Old Log Cabin, 1,95 dólares: el precio era el correcto. De esa noche recuerda una escena como de tele, vista desde fuera de sí mismo: lo pasean por el piso de las chicas como una atracción ambulante, él intenta decirle a Carole Lemke que le encanta cómo lleva el pelo y que tiene los ojos azules más bonitos del mundo, y lo que sale es «Uggin-wuggin-ojos azules, wuggin-ruggin-todo el mundo». Luego la habitación girando como el plato del tocadiscos —él era el eje, y pronto el eje empezaría a lanzar los discos—, el baño lleno de vómito amarillo brillante —parecen granitos de maíz, y solo pensarlo lo reactivó—, y a la mañana siguiente fuera de combate mientras los demás hacían Times Square, la Estatua de la Libertad y el Empire State. Por la tarde bajó al vestíbulo por un ginger ale y una revista, y quién iba a estar leyendo el periódico sino Old Cue-Ball, el director. Al volver de la tienda, el periódico estaba en su regazo y sus ojos en King. Y ahí descubrió algo interesante: el señor Higgins era, en realidad, un tipo decente. «Me han dicho que estuviste demasiado enfermo para conocer Nueva York con los demás. Una lástima perderse la diversión. ¿Ya mejor?». Sí; seguramente una gripe estomacal, un virus de esos de veinticuatro horas. «Espero que no te vuelva a dar ese bicho. Al menos no en este viaje». Los ojos preguntaban si se entendían:*
+
+> “I’m sure I won’t,” I say, meaning it.
+
+«Seguro que no —digo—, y lo digo en serio».
+
+> I know what drunk is like, now—a vague sense of roaring goodwill, a clearer sense that most of your consciousness is out of your body, hovering like a camera in a science fiction movie and filming everything, and then the sickness, the puking, the aching head.
+
+Ahora sé lo que es estar borracho: una vaga sensación de benevolencia rugiente, una sensación más clara de que la mayor parte de tu conciencia está fuera de tu cuerpo, flotando como una cámara en una película de ciencia ficción y filmándolo todo, y luego el malestar, los vómitos, la cabeza dolorida.
+
+*No, no volvería a coger ese bicho, se dijo, no en este viaje, no nunca: con una vez basta para saber cómo es; solo un idiota haría un segundo experimento, y solo un lunático masoquista haría del alcohol una parte habitual de su vida. Al día siguiente, camino de Washington, parada en el país amish. Había una licorería cerca de donde aparcaba el autobús. Entró a mirar:*
+
+> Although the drinking age in Pennsylvania is twenty-one, I must look easily that in my one good suit and Fazza’s old black overcoat—in fact, I probably look like a freshly released young convict, tall and hungry and very likely not bolted together right.
+
+Aunque la edad legal para beber en Pensilvania es veintiún años, con mi único traje bueno y el viejo abrigo negro de Fazza debía de aparentarla con creces; de hecho, probablemente parecía un convicto joven recién liberado: alto, hambriento y muy probablemente mal atornillado.
+
+*El dependiente le vendió una botella de Four Roses sin pedirle documentos, y para cuando pararon a dormir ya estaba borracho otra vez. Unos diez años después, en un bar irlandés con Bill Thompson, celebrando entre otras cosas la terminación de su tercer libro, The Shining:*
+
+> That’s the one which just happens to be about an alcoholic writer and ex-schoolteacher.
+
+Da la casualidad de que es la que trata sobre un escritor alcohólico y exprofesor de escuela.
+
+*Era julio, la noche del partido de las estrellas. El plan: cenar bien y ponerse tibios. King se puso a leer los letreros del bar —«TÓMATE UN MANHATTAN EN MANHATTAN», «EL TRABAJO ES LA MALDICIÓN DE LA CLASE BEBEDORA»— y justo enfrente, uno: «¡ESPECIAL MADRUGADOR! SCREWDRIVERS A UN DÓLAR, LUNES A VIERNES DE 8 A 10 A.M.». Llamó al camarero —calvo, chaqueta gris, podía ser el mismo tipo que le vendió su primera pinta en 1966; probablemente lo era— y, sonriendo, señaló el letrero: «¿Quién viene a las ocho y cuarto de la mañana a pedirse un screwdriver?». El camarero no le devolvió la sonrisa: «Chicos de universidad. Como tú».*
+
+### Mis muchachos
+
+*En 1971 o 72 murió de cáncer de mama Carolyn, la hermana de su madre; Nellie Ruth voló al funeral en Minnesota, su primer vuelo en veinte años, y en el viaje de vuelta empezó a sangrar profusamente de lo que ella habría llamado «sus partes». Aunque la menopausia quedaba lejos, se dijo que era una última regla:*
+
+> Locked in the tiny bathroom of a bouncing TWA jet, she stanched the bleeding with tampons (*plug it up, plug it up,* as Sue Snell and her friends might have cried), then returned to her seat.
+
+Encerrada en el diminuto baño de un avión de TWA que daba tumbos, estancó el sangrado con tampones (tápalo, tápalo, habrían cantado Sue Snell y sus amigas) y volvió a su asiento.
+
+*No dijo nada a nadie, ni fue al médico: hizo lo que siempre hacía en tiempos de problema, «kept herself to herself», se lo guardó para sí. Por un tiempo todo pareció ir bien; luego dejó de ir bien: en agosto de 1973, tras una operación de várices, le diagnosticaron cáncer de útero. King cree que Nellie Ruth Pillsbury King —la mujer que una vez volcó un bol de gelatina en el suelo y bailó en él mientras sus dos niños se retorcían de risa en la esquina— murió en realidad de vergüenza. El final llegó en febrero de 1974; ya corría algo del dinero de Carrie y pudo ayudar con los gastos médicos. Y estuvo ahí para lo último:*
+
+> I’d been drunk the night before but was only moderately hungover, which was good.
+
+Yo había estado borracho la noche anterior, pero solo estaba moderadamente resacoso, lo cual era bueno. Uno no quiere estar demasiado resacoso junto al lecho de muerte de su madre.
+
+*Dave lo despertó a las 6:15: creía que se iba. Estaba semiconsciente, con los ojos yendo de Dave a él, de él a Dave; había pasado de ciento sesenta libras a unas noventa, la piel amarilla y tan tirante que parecía una de esas momias que pasean por las calles de México el Día de los Muertos. Le acercaban un cigarrillo Kool a la boca por turnos, y ella estiraba los labios para prender el filtro:*
+
+> Beside her bed, reflected over and over again in a cluster of glasses, was an early bound galley of *Carrie.*
+
+Junto a su cama, reflejada una y otra vez en un racimo de vasos, había una de las primeras galeradas encuadernadas de Carrie.
+
+*Su tía Ethelyn se lo había leído en voz alta un mes antes de morir. Cuando el cigarrillo llegó al filtro, King lo apagó:*
+
+> “My boys,” she said, then lapsed into what might have been sleep or unconsciousness.
+
+«Mis muchachos», dijo, y cayó en lo que pudo ser sueño o inconsciencia.
+
+*Bajo la sábana no estaba el cuerpo de su madre sino el de una niña famélica y deformada. Los hermanos fumaron y hablaron un poco; no recuerda qué dijeron. Había llovido de noche y luego había helado; las calles de la mañana estaban llenas de hielo. Oían cómo la pausa tras cada respiración áspera se hacía más y más larga. Al final no hubo más respiraciones, y todo fue pausa.*
 
 ## What Writing Is
 
