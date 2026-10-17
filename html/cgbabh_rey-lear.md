@@ -16,8 +16,6 @@ Ha estado fuera nueve años, y de nuevo se irá.
 
 Gloucester
 
----
-
 *Llega el rey Lear con su corte. Ya viejo, ha dividido el reino en tres para soltar el peso del gobierno. Pide el mapa y anuncia que va a revelar su plan.*
 
 > Meantime we shall express our darker purpose.
@@ -25,8 +23,6 @@ Gloucester
 Entre tanto, expresaremos nuestro más oscuro designio.
 
 Lear
-
----
 
 *El plan, que él mismo llama oscuro, es un concurso: cada hija dirá cuánto lo ama y la que más lo quiera recibirá la mejor parte. Goneril y Regan, las mayores, se deshacen en elogios. Cordelia, la menor y la más querida, responde: «Nada, mi señor». Presionada, explica que lo quiere según su deber, ni más ni menos, y que cuando se case, la mitad de su amor se irá con su marido. Lear no da crédito.*
 
@@ -36,8 +32,6 @@ Lear
 
 Lear
 
----
-
 *Cordelia sostiene que sí. Lear, ciego de ira, la deshereda, reparte su parte entre las otras dos y destierra a Kent por defenderla. De los dos pretendientes, Borgoña la rechaza al quedarse sin dote y el rey de Francia la acepta tal como es. Al partir, Cordelia deja a su padre al cuidado de sus hermanas; Regan le responde que no les dicte su deber, y Goneril remata.*
 
 > You have obedience scanted And well are worth the want that you have wanted.
@@ -45,8 +39,6 @@ Lear
 Habéis escatimado la obediencia y bien merecéis la falta que os habéis buscado.
 
 Goneril
-
----
 
 *Cordelia se va con Francia. A solas, las hermanas se quitan la máscara: admiten que su padre apenas se conoce a sí mismo, que siempre fue impulsivo y que la vejez lo volverá más antojadizo. Temen que siga mandando con sus cien caballeros, y Goneril propone actuar.*
 
@@ -68,8 +60,6 @@ Vamos, si es nada, no necesitaré anteojos.
 
 Gloucester
 
----
-
 *Edmund la entrega haciéndose el reacio: una conjura de Edgar para matar al padre y repartirse su renta. Edmund jura que la encontró en su ventana y que Edgar sostiene que los viejos deben ceder el mando. Gloucester estalla.*
 
 > —Go, sirrah, seek him.
@@ -77,8 +67,6 @@ Gloucester
 —Anda, buen mozo, búscalo.
 
 Gloucester
-
----
 
 *Fuera de sí, jura:*
 
@@ -88,8 +76,6 @@ Lo apresaré.
 
 Gloucester
 
----
-
 *Gloucester le encarga buscar a Edgar y se va culpando a los eclipses; solo, Edmund se burla de los astros. Entra Edgar: con melancolía fingida, Edmund le advierte que su padre está furioso con él y que conviene evitarlo. Edgar habló con él en paz la noche anterior.*
 
 > Some villain hath done me wrong.
@@ -97,8 +83,6 @@ Gloucester
 Algún villano me ha hecho daño.
 
 Edgar
-
----
 
 *Edmund lo manda a su propio alojamiento y le aconseja salir armado. A solas, se ríe del padre crédulo y del hermano noble: si no por nacimiento, tendrá tierras por ingenio; le vale todo lo que pueda ajustar a su plan.*
 
