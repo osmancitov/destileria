@@ -8,7 +8,7 @@ Stephen King
 
 En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio. El libro entero, destilado unidad a unidad; la página crece con cada entrega.
 
-El destilado se lee en unas nueve páginas.
+El destilado se lee en unas dieciséis páginas.
 
 Osmancito buscó las mejores frases del libro y, con Instinct, les dio una nueva forma.
 
@@ -107,6 +107,88 @@ Solo sé que yo estaba en el baño, de pie con los pies descalzos sobre el radia
 Otro día me contó la que vio: un marinero que saltó del tejado del hotel Graymore de Portland, Maine, y cayó en la calle.
 
 *«Se estampó», dijo su madre con su tono más práctico, y añadió: «Lo que salió de él era verde. Nunca lo he olvidado». Y King cierra: «Ya somos dos, mamá».*
+
+### Esto no va a doler
+
+*De los nueve meses que debía pasar en primer grado, King pasó la mayoría en la cama. Empezó con un sarampión corriente y siguió a peor: anginas una tras otra (él creía que se decía «garganta a rayas» y la imaginaba en franjas rojas y blancas), hasta que un día el asunto le llegó a los oídos y su madre pidió un taxi —ella no manejaba— para llevarlo a un especialista demasiado importante para hacer visitas a domicilio. Cuarenta grados de fiebre; cada vez que tragaba, el dolor le encendía los lados de la cara como una máquina de discos. La enfermera le puso bajo la cabeza un paño absorbente —pudo haber sido un pañal— y tendría que haber sospechado algo. Olor a alcohol, el traqueteo del esterilizador, una aguja larga como la regla de su cartuchera:*
+
+> The ear doctor smiled reassuringly and spoke the lie for which doctors should be immediately jailed (time of incarceration to be doubled when the lie is told to a child): “Relax, Stevie, this won’t hurt.”
+
+El otorrino sonrió con tranquilidad y dijo la mentira por la que los médicos deberían ir directos a la cárcel (con la condena doblada cuando la mentira se le dice a un niño): «Relájate, Stevie, esto no va a doler».
+
+*Le creyó. La aguja le atravesó el tímpano y el dolor fue más allá del mundo; salió líquido caliente, como si llorara por el agujero equivocado. «Fuiste muy valiente, Stevie, y ya pasó todo». Pasó todo tres veces: la semana siguiente otro taxi, la misma mentira, y él volvió a creerla, no del todo, pero lo suficiente para quedarse quieto. Sí que dolió, casi igual que la primera:*
+
+> The smooching sound in my head was louder, too; this time it was giants kissing (“suckin’ face and rotatin’ tongues,” as we used to say).
+
+El sonido de besos dentro de mi cabeza también fue más fuerte; esta vez eran gigantes besándose («comiéndose la boca y enroscando lenguas», como decíamos entonces).
+
+*A la tercera, el taxista amenazó con parar y dejarlos si su madre no hacía callar a ese niño. Desde aquellas punciones repetidas a los seis años, uno de los principios más firmes de su vida: «Engáñame una vez, culpa tuya; engáñame dos, culpa mía; engáñame tres, culpa de los dos». La tercera vez forcejeó, gritó y apartó la aguja a manotazos hasta que la enfermera llamó a su madre y entre las dos lo sujetaron. Gritó tan fuerte y tanto tiempo que todavía lo oye: en algún valle profundo de su cabeza, aquel último grito sigue resonando.*
+
+### El helado prometido
+
+*En un mes frío y gris poco después —enero o febrero de 1954— volvió el taxi, esta vez al médico de la garganta:*
+
+> Once again my mother sat in the waiting room, once again I sat on the examining table with a nurse hovering nearby, and once again there was that sharp smell of alcohol, an aroma that still has the power to double my heartbeat in the space of five seconds.
+
+Una vez más mi madre se sentó en la sala de espera, una vez más yo me senté en la mesa de exploración con una enfermera revoloteando cerca, y una vez más estaba ese olor fuerte a alcohol, un aroma que todavía tiene el poder de doblarme los latidos en cinco segundos.
+
+*Esta vez solo apareció un hisopo: picaba y sabía horrible, pero después de la aguja larga del oído era un paseo por el parque. El médico se puso un aparato con un espejo en medio y una luz fiera como un tercer ojo:*
+
+> He looked down my gullet for a long time, urging me to open wider until my jaws creaked, but he did not put needles into me and so I loved him.
+
+Me miró garganta abajo durante un buen rato, pidiéndome que abriera más hasta que me crujían las mandíbulas, pero no me clavó agujas, y por eso lo quise.
+
+*El diagnóstico: las amígdalas. «Parece que las hubiera arañado un gato. Habrá que sacarlas». Lo último que recuerda es un hombre con mascarilla blanca inclinado sobre él, cabeza abajo desde su camilla —1953 y 1954 fueron sus años de estar tumbado en mesas—: «Cuando despiertes, podrás comer todo el helado que quieras». Al despertar, en efecto, le permitieron todo el helado que quisiera, una broma excelente, porque no quería nada. Pero mejor que el viejo truco de la aguja en el oído: «Quítenme las amígdalas si hace falta, pónganme una jaula de acero en la pierna si es preciso, pero Dios me libre del otiólogo».*
+
+### Escribe una tuya
+
+*Aquél año su hermano David saltó a cuarto grado y a King lo sacaron del colegio del todo: había perdido demasiado de primero. Entre la cama y la casa se leyó unas seis toneladas de tebeos, pasó a Tom Swift y a Jack London, y en algún momento empezó a escribir sus propias historias. La imitación precedió a la creación: copiaba tebeos de Combat Casey palabra por palabra en su cuaderno, añadiendo a veces descripciones propias:*
+
+> “They were camped in a big dratty farmhouse room,” I might write; it was another year or two before I discovered that *drat* and *draft* were different words.
+
+«They were camped in a big dratty farmhouse room», podía escribir yo; tardé todavía un año o dos en descubrir que *drat* y *draft* eran palabras distintas.
+
+*O sea: quería decir «con corrientes de aire» (drafty) y escribía «maldita» (dratty). Por la misma época creía que details («detalles») eran dentals («dentales») y que una bitch era una mujer extremadamente alta: un son of a bitch venía a ser un jugador de baloncesto. Cuando se tienen seis años, la mayoría de las bolas del bingo todavía flotan en el bombo. Un día le enseñó a su madre uno de esos híbridos copiados:*
+
+> Eventually I showed one of these copycat hybrids to my mother, and she was charmed—I remember her slightly amazed smile, as if she was unable to believe a kid of hers could be so smart—practically a damned prodigy, for God’s sake.
+
+Quedó encantada: recuerdo su sonrisa levemente asombrada, como si no pudiera creer que un hijo suyo fuera tan listo; prácticamente un maldito prodigio, por el amor de Dios.
+
+*Nunca le había visto esa cara, al menos no por él, y le encantó. Pero tuvo que admitir que había copiado casi todo de un tebeo, y la decepción de ella le aguó buena parte del gusto. Al final le devolvió el cuaderno: «Escribe una tuya, Stevie. Esos tebeos de Combat Casey son pura porquería; siempre le está rompiendo los dientes a alguien. Apuesto a que tú puedes hacerlo mejor. Escribe una tuya».*
+
+### Mr. Rabbit Trick
+
+*La idea le produjo una inmensa sensación de posibilidad, como si lo hubieran dejado entrar en un edificio enorme lleno de puertas cerradas con permiso para abrir las que quisiera. Escribió una historia de cuatro animales mágicos que recorrían el mundo en un carro viejo ayudando a niños pequeños; el jefe era un conejo blanco y grande llamado Mr. Rabbit Trick, y el que manejaba. Cuatro páginas, impresas a lápiz con esfuerzo. Nadie saltaba del tejado del Graymore:*
+
+> When I finished, I gave it to my mother, who sat down in the living room, put her pocketbook on the floor beside her, and read it all at once.
+
+Cuando lo terminé, se lo di a mi madre, que se sentó en la sala, puso el bolso en el suelo a su lado y lo leyó de una sentada.
+
+> I could tell she liked it—she laughed in all the right places—but I couldn’t tell if that was because she liked me and wanted me to feel good or because it really *was* good.
+
+Yo notaba que le gustaba (se reía en los sitios correctos), pero no sabía si era porque me quería y quería hacerme sentir bien o porque de verdad era bueno.
+
+*«¿Ésta no la copiaste?». No. Dijo que era lo bastante buena para estar en un libro, y nada de lo que nadie le ha dicho desde entonces lo ha hecho más feliz. Escribió cuatro historias más de Mr. Rabbit Trick; su madre le pagó un cuarto de dólar por cada una y las mandó a sus cuatro hermanas, que la compadecían un poco —ellas seguían casadas, sus hombres no se habían largado—: quería que vieran que, al menos, su bebé tenía talento. Cuatro historias, un cuarto cada una: «Ese fue el primer dólar que gané en este oficio».*
+
+### La jungla
+
+*Mudanza a Stratford, Connecticut: segundo grado y un amor de piedra por la muchacha guapa de al lado:*
+
+> She never looked twice at me in the daytime, but at night, as I lay in bed and drifted toward sleep, we ran away from the cruel world of reality again and again.
+
+Ella no me miraba dos veces durante el día, pero por la noche, mientras yo me quedaba dormido en la cama, huíamos juntos del cruel mundo de la realidad una y otra vez.
+
+*La maestra nueva, la señora Taylor, tenía el pelo gris de Elsa Lanchester en La novia de Frankenstein y los ojos saltones. Y a una cuadra cuesta abajo se extendía un enorme terreno enmarañado con un deshuesadero al fondo y una vía de tren en medio, uno de esos lugares a los que King vuelve siempre en la imaginación: los chicos de It lo llamaban los Barrens; ellos lo llamaban la jungla. Explorándola con Dave el primer verano, a King le entró una necesidad urgente de mover el vientre. «Llévame a casa, tengo que empujar». A Dave no le iba a arruinar media hora de tarde brillante por eso: «Hazlo en el monte. Límpiate con hojas, como hacían los vaqueros y los indios». La idea de hacerlo como un vaquero lo conquistó:*
+
+> I pretended I was Hopalong Cassidy, squatting in the underbrush with my gun drawn, not to be caught unawares even at such a personal moment.
+
+Me imaginé que era Hopalong Cassidy, en cuclillas en la maleza con la pistola desenfundada, decidido a que no me pillaran desprevenido ni en un momento tan personal.
+
+*Hopalong Cassidy: el vaquero más limpio del cine y la tele de los cincuenta. Las hojas verdes y brillantes resultaron ser hiedra venenosa. Dos días después estaba rojo vivo de las corvas a los omóplatos; los testículos se le pusieron como semáforos, y lo peor fue la mano con que se limpió, hinchada como la de Mickey Mouse después de un martillazo del pato Donald, con ampollas gigantes entre los dedos que al reventar dejaron hoyos de carne viva:*
+
+> For six weeks I sat in lukewarm starch baths, feeling miserable and humiliated and stupid, listening through the open door as my mother and brother laughed and listened to Peter Tripp’s countdown on the radio and played Crazy Eights.
+
+Durante seis semanas me senté en baños tibios de almidón, sintiéndome miserable, humillado y estúpido, oyendo a través de la puerta abierta cómo mi madre y mi hermano se reían, escuchaban la cuenta atrás de Peter Tripp en la radio y jugaban a las cartas.
 
 ## What Writing Is
 
