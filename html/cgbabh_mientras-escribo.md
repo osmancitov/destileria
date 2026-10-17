@@ -6,9 +6,9 @@
 
 Stephen King
 
-En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio. El libro entero, destilado unidad a unidad; la página crece con cada entrega.
+En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio.
 
-El destilado se lee en unas treinta y cinco páginas.
+El destilado ya suma treinta y cinco páginas y crece unidad a unidad.
 
 Osmancito buscó las mejores frases del libro y, con Instinct, les dio una nueva forma.
 
