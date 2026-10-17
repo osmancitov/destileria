@@ -94,4 +94,90 @@ Edmund
 
 *Su «pie», su entrada en escena; Tom el de Bedlam, un loco de manicomio. Le hace creer a Edgar que su padre lo odia, y el hermano noble le cree. Solo, celebra el engaño y cierra la escena: le vale todo lo que pueda ajustar a su plan.*
 
+---
+
+## Acto I, escena 3
+
+*En casa de Goneril, la hija mayor. Su mayordomo, Oswald, confirma la noticia: el rey golpeó a un caballero de ella por reprender a su Bufón. La queja lleva tiempo creciendo: a cada hora el viejo estalla en una grosería que los pone a todos en contra. Goneril lo decide en voz alta:*
+
+> I’ll not endure it.
+
+No lo soportaré.
+
+Goneril
+
+*El plan es enfriar el servicio: cuando el rey vuelva de caza, ella dirá estar enferma, y los criados atenderán con una negligencia cansada que saque el pleito a la cara. Si al rey le sienta mal, que se vaya con su hermana, que piensa lo mismo. Y se explica:*
+
+> Idle old man That still would manage those authorities That he hath given away.
+
+Viejo ocioso que aún querría manejar esas autoridades que ha cedido.
+
+Goneril
+
+*Que los caballeros reciban miradas más frías; no importa lo que salga: quiere criar ocasiones para hablar. Escribe enseguida a Regan para que sostenga el mismo curso, y vuelve a la casa con dos palabras: «Preparen la cena».*
+
+---
+
+## Acto I, escena 4
+
+*Kent, el consejero desterrado, vuelve disfrazado: se cambia el acento y la cara para servir al rey que lo condenó. Lear llega a casa de Goneril pidiendo la cena y lo ve. «¿Qué profesas?», le pregunta. Ser lo que parezco, responde Kent: servir al que me dé su confianza, conversar con el sabio que habla poco y pelear cuando no quede otro remedio. Y añade que es un hombre honrado, tan pobre como el rey. Lear, en broma, le da la razón:*
+
+> If thou be’st as poor for a subject as he’s for a king, thou art poor enough.
+
+Si eres tan pobre como súbdito como él lo es como rey, eres bastante pobre.
+
+Lear
+
+*La broma le basta: lo toma a su servicio si no le cae peor después de la cena. Pasa Oswald sin saludar; Lear lo hace volver: «¿Quién soy yo, señor?». «El padre de mi señora», responde el criado. Lear lo golpea y Kent lo derriba de una zancadilla: le enseña las diferencias.*
+
+*Llega el Bufón, mustio desde que Cordelia partió a Francia. Le ofrece a Kent su gorra de cascabeles por seguir a un amo caído en desgracia, y le canta a Lear la cuenta de sus tierras: nada de nada. «¿Me llamas loco, muchacho?», pregunta el rey. La respuesta:*
+
+> All thy other titles thou hast given away.
+
+Todos tus otros títulos los has regalado.
+
+Bufón
+
+*Ese título, remata el Bufón, es el único que nació con él; y sigue con la cuenta: el rey partió su corona por la mitad y regaló las dos partes, así que le quedó poco seso bajo la calva. Entra Goneril, ceñuda, con una queja larga y bien ordenada: los cien caballeros de Lear hacen de su palacio una taberna; pide que «reduzca el séquito» a hombres de su edad, que se conozcan a sí mismos y lo conozcan a él. Lear estalla:*
+
+> Degenerate bastard, I’ll not trouble thee.
+
+Bastardo degenerado, no te molestaré más.
+
+Lear
+
+*«Aún me queda una hija», se consuela. Llega Albany, el esposo de Goneril, y jura que es tan inocente como ignorante de lo que pasó. Lear oye sus propias lágrimas y se avergüenza; entonces alza la voz a la Naturaleza y pide que seque el vientre de Goneril: si ha de tener un hijo, que sea una tormenta torcida que la atormente, para que aprenda cuánto hiere más que el diente de una serpiente un hijo desagradecido. Y la maldición sigue subiendo:*
+
+> Th’ untented woundings of a father’s curse Pierce every sense about thee!
+
+¡Que las heridas sin cura de la maldición de un padre te traspasen todos los sentidos!
+
+Lear
+
+*Sale hacia Regan, seguro de que su otra hija, al saberlo, le arañará con las uñas la cara de loba a su hermana, y jurando que retomará la forma que creen que ha dejado para siempre. El Bufón lo sigue. Goneril, ya a solas con su esposo, defiende su prudencia con una sonrisa torcida:*
+
+> ’Tis politic and safe to let him keep At point a hundred knights!
+
+¡Es prudente y seguro dejarle mantener a punto cien caballeros!
+
+Goneril
+
+*Es sarcasmo: con cien hombres armados a punto, cada sueño del viejo puede poner en riesgo sus vidas. Ya tiene escrita la carta a Regan y manda a Oswald con ella, con orden de añadir sus propias razones. Albany se queda con la duda; lo único que alcanza a decir es que «el desenlace dirá».*
+
+---
+
+## Acto I, escena 5
+
+*Camino de Regan. Lear envía a Kent por delante con cartas: «Ve delante a Gloucester con estas cartas»; que no le cuente a su hija más de lo que le pregunten, y que vuele, o el rey llegará antes que él. En el camino, el Bufón suelta sus adivinanzas: la nariz está en medio de la cara para que los ojos vigilen lo que no se puede oler, y el caracol tiene casa para meter la cabeza, no para regalársela a sus hijas. Lear, de pronto, baja la voz: «Fui injusto con ella».*
+
+*Sigue el juego: Lear acierta una adivinanza (las siete estrellas no son ocho) y el Bufón le dice que haría un buen bufón; el rey estalla contra la ingratitud, y el Bufón le devuelve el golpe con una sonrisa:*
+
+> If thou wert my Fool, nuncle, I’d have thee beaten for being old before thy time.
+
+Si fueras mi Bufón, tío, te haría azotar por ser viejo antes de tiempo.
+
+Bufón
+
+*«Tío», lo llama: no debería haber envejecido antes de ser sabio. Lear pide al cielo, dos veces, que no lo deje enloquecer. Ya están los caballos. El Bufón cierra con una copla de doble filo: la doncella que ríe su partida no lo será por mucho, a menos que las cosas se corten más pronto.*
+
 Osmancito, con la asistencia de Instinct
