@@ -11,5 +11,5 @@ Aquí se ensaya algo parecido con los libros: quitar lo que sobra hasta encontra
 - [El Otro: un Cuento de Borges](html/cgbabf_el-otro.html): el primer cuento de El Libro de Arena, solo, para leerlo con calma.
 - [El Libro de Arena: trece cuentos](html/cgbabc_arena-puentes.html): una lectura breve de los cuentos de Jorge Luis Borges.
 - [Macbeth en castellano](html/cgbabc_macbeth-en-castellano.html): la obra entera.
-- [Macbeth en ocho frases](html/cgbaaj_macbeth-ocho-frases.html): la frase más central de cada uno de ocho lectores, unidas por una línea.
+- [Macbeth](html/cgbaaj_macbeth.html): la obra de William Shakespeare, que se va poblando escena a escena.
 - [Bodega 103](bodega-103/README.md): Recuerdos de la primera Destilería.
