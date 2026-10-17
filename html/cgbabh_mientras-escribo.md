@@ -8,7 +8,7 @@ Stephen King
 
 En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio.
 
-El destilado ya suma treinta y cinco páginas y crece unidad a unidad.
+El destilado ya suma cuarenta y cuatro páginas y crece unidad a unidad.
 
 Osmancito buscó las mejores frases del libro y, con Instinct, les dio una nueva forma.
 
@@ -385,6 +385,98 @@ La parte loca de mí fue la que primero escribió The Village Vomit y luego lo l
 Más tarde, mientras lanzaba aviones de papel con los otros chicos y chicas malos en el aula de castigo (el castigo resultó no ser tan malo), decidí que era muy simple: a la señorita Margitan no le gustaban los chicos.
 
 *La primera mujer que conoció en su vida a la que no le gustaban los chicos, ni un poquito. La disculpa fue sincera: ella había sido herida de verdad, y eso él podía entenderlo. Dos años después, cuando su nombre apareció en la lista de candidatos a la Sociedad de Honor, ella lo vetó: la sociedad no necesitaba chicos «de su tipo». King ha llegado a creer que tenía razón: un chico que una vez se limpió el trasero con hiedra venenosa probablemente no pertenece a un club de gente lista. Desde entonces no ha tenido muchos tratos con la sátira.*
+
+### John Gould
+
+*No había pasado una semana desde que salió del aula de castigo cuando lo volvieron a llamar a dirección. Esta vez era el orientador escolar: se habían hecho consultas sobre cómo encauzar su «pluma inquieta», y el semanario de Lisbon tenía una plaza de cronista deportivo. La escuela no podía obligarlo, claro, pero los ojos del orientador decían «hazlo o muere». Y allí estaba otra vez un periódico: de adolescente, King estuvo embrujado por los periódicos como Norman Maclean por las aguas de A River Runs Through It. Le dijo al señor Gould, el editor, que no sabía mucho de deportes; Gould: «Son juegos que la gente entiende viéndolos borracha en un bar. Aprenderás si lo intentas»:*
+
+> He gave me a huge roll of yellow paper on which to type my copy—I think I still have it somewhere—and promised me a wage of half a cent a word.
+
+Me dio un enorme rollo de papel amarillo para mecanografiar mis artículos —creo que todavía lo guardo por ahí— y me prometió un sueldo de medio centavo por palabra.
+
+*Era la primera vez que alguien le prometía sueldo por escribir. Sus dos primeros artículos cubrieron un partido de baloncesto con récord escolar: una crónica y una columna de color. La crónica pasó con dos correcciones menores; la columna, Gould la atacó con un gran bolígrafo negro. «¿En qué año se hizo el último récord?». King consultó sus notas: «1953». Gould gruñó y siguió tachando. Al terminar, vio algo en la cara del chico y debió tomarlo por horror. No era horror: era pura revelación:*
+
+> I took my fair share of English Lit classes in my two remaining years at Lisbon, and my fair share of composition, fiction, and poetry classes in college, but John Gould taught me more than any of them, and in no more than ten minutes.
+
+Cursé mi buena ración de clases de literatura inglesa en los dos años que me quedaban en Lisbon, y mi buena ración de clases de composición, ficción y poesía en la universidad, pero John Gould me enseñó más que todas ellas, y en no más de diez minutos.
+
+*¿Por qué los profesores de inglés nunca hacían esto?, se preguntó. Era como el Hombre Visible que Old Raw Diehl tenía en la sala de biología: por fin se veía la mecánica por dentro. «Solo saqué las partes malas, ¿sabes? La mayor parte está bastante bien»:*
+
+> “I know,” I said, meaning both things: yes, most of it was good—okay anyway, serviceable—and yes, he had only taken out the bad parts.
+
+«Lo sé», dije, queriendo decir ambas cosas: sí, la mayor parte era buena —bueno, aceptable, servible—, y sí, él solo había sacado las partes malas.
+
+*«No volverá a pasar». Gould se rio: «Si eso es verdad, nunca tendrás que trabajar para vivir; puedes hacer esto en su lugar». Y le dejó dos frases para el resto de la vida: «Cuando escribes una historia, te la estás contando a ti mismo; cuando reescribes, tu trabajo principal es sacar todas las cosas que no son la historia». Y la otra: escribe con la puerta cerrada, reescribe con la puerta abierta.*
+
+### Ratas grandes como perros
+
+*Justo después del viaje de fin de curso a Washington, King consiguió trabajo en Worumbo Mills and Weaving, la fábrica textil de Lisbon Falls:*
+
+> I didn’t want it—the work was hard and boring, the mill itself a dingy fuckhole overhanging the polluted Androscoggin River like a workhouse in a Charles Dickens novel—but I needed the paycheck.
+
+No lo quería —el trabajo era duro y aburrido, y el molino un antro miserable colgado sobre el contaminado río Androscoggin como el asilo de pobreza de una novela de Dickens—, pero necesitaba el cheque.
+
+*Su madre, que ganaba un sueldo miserable de asistenta en una residencia de enfermos mentales, estaba decidida a que fuera a la universidad como Dave. En el mundo grande, los chicos sin universidad iban en barco a la guerra no declarada del señor Johnson y muchos volvían en cajas. King le dijo una vez que alistarse quizá fuera bueno para él; seguro que salía un libro de ahí. «No seas idiota, Stephen. Con tu vista, serías el primero al que disparan. No puedes escribir si estás muerto». Así que becas, préstamos y fábrica: levantarse a las siete, escuela, fichar en Worumbo a las 2:58, embolsar tela ocho horas, fichar la salida a las 11:02, un bol de cereales, la cama, y otra vez. En verano lo bajaron a la tintorería del sótano, treinta grados más fresco, a teñir paño de morado y azul marino; él imagina que todavía hay chaquetas en armarios de Nueva Inglaterra teñidas por él. La semana del Cuatro de Julio la fábrica cerró y una cuadrilla limpió el sótano, intocable desde hacía cincuenta años. Uno de la tintorería se lo contó después: «Las ratas de ahí abajo eran grandes como gatos; algunas, maldita sea si no eran grandes como perros»:*
+
+> One day late in my final semester at college, finals over and at loose ends, I recalled the dyehouse guy’s story about the rats under the mill—big as cats, goddam, some as big as *dogs*—and started writing a story called “Graveyard Shift.”
+
+Un día al final de mi último semestre universitario, con los exámenes finales ya hechos y el tiempo libre, recordé la historia del tipo de la tintorería sobre las ratas de debajo del molino —grandes como gatos, maldita sea, algunas como perros— y empecé a escribir un cuento llamado «Graveyard Shift».
+
+> I was only passing the time on a late spring afternoon, but two months later *Cavalier* magazine bought the story for two hundred dollars.
+
+Yo solo estaba matando el tiempo una tarde de finales de primavera, pero dos meses después la revista Cavalier compró el cuento por doscientos dólares.
+
+*Había vendido dos cuentos antes, por sesenta y cinco dólares entre ambos. Esto era el triple, de un solo golpe. Le quitó el aliento. Era rico.*
+
+### Tabitha
+
+*El verano de 1969, con un trabajo de media jornada en la biblioteca de la Universidad de Maine: temporada a la vez hermosa y atroz. Nixon «terminaba» la guerra bombardeando el Sudeste Asiático; los chicos felices llevaban pantalones de campana y camisetas que decían «matar por la paz es como follar por la castidad». King tenía unas patillas de chuleta de cordero magníficas. Los hombres habían aterrizado en la luna y él en la lista del decano. Un día de finales de junio, un grupo de la biblioteca almorzaba sobre la hierba detrás de la librería universitaria, y entre Paolo Silva y Eddie Marsh había una chica menuda de risa estruendosa, pelo rojizo y las piernas más bonitas que él había visto, bien a la vista bajo una falda amarilla corta. Llevaba un ejemplar de Soul on Ice, de Eldridge Cleaver:*
+
+> I hadn’t run across her in the library, and I didn’t believe a college student could utter such a wonderful, unafraid laugh.
+
+No me la había cruzado en la biblioteca, y no creía que una estudiante universitaria pudiera soltar una risa tan maravillosa y sin miedo.
+
+> Also, heavy reading or no heavy reading, she swore like a mill-worker instead of a coed.
+
+Además, lecturas pesadas o no, juraba como una obrera de fábrica en vez de como una colegiala.
+
+*Y él, que había sido obrero de fábrica, estaba capacitado para juzgar. Se llamaba Tabitha Spruce. Se casaron un año y medio después; siguen casados, y ella no le ha perdonado nunca que la primera vez que la vio la tomara por la novia pueblerina de Eddie Marsh, quizá una camarera lectora de la pizzería del pueblo en su tarde libre.*
+
+### Un cántico gradual
+
+*Ha funcionado: su matrimonio ha sobrevivido a todos los líderes mundiales salvo a Castro, y si siguen hablando, discutiendo, haciendo el amor y bailando a los Ramones, probablemente seguirá funcionando. Lo que más los ata son las palabras, el lenguaje y el trabajo de sus vidas. King se enamoró de ella en un taller de poesía del otoño de 1969, en parte porque entendía lo que ella hacía con su trabajo; en parte porque ella entendía lo que hacía con él; también porque llevaba un vestido negro y medias de seda, de las que se enganchan con liguero. El ambiente intelectual de la época:*
+
+> I don’t want to speak too disparagingly of my generation (actually I do, we had a chance to change the world and opted for the Home Shopping Network instead), but there was a view among the student writers I knew at that time that good writing came spontaneously, in an uprush of feeling that had to be caught at once; when you were building that all-important stairway to heaven, you couldn’t just stand around with your hammer in your hand.
+
+No quiero hablar con demasiado desprecio de mi generación (en realidad sí quiero: tuvimos la oportunidad de cambiar el mundo y optamos por el canal de teletienda), pero entre los estudiantes escritores que yo conocía entonces corría la idea de que la buena escritura venía espontáneamente, en un arrebato de sentimiento que había que atrapar al vuelo; cuando estás construyendo esa importantísima escalera al cielo, no puedes quedarte parado con el martillo en la mano.
+
+*La ars poética de 1969 la resumía una canción de Donovan: «Primero hay una montaña; luego no hay montaña; luego la hay». Los aspirantes a poeta vivían en un mundo empañado a lo Tolkien, pescando poemas del éter, taquígrafos benditos tomando dictado divino; si el poema salía flojo, daba igual, había que «soltarse y captar lo denso», tío. King pone como ejemplo un poema ficticio armado con pedazos de muchos poemas reales: «in th dark / i swallow th cloth / of loneliness» —en la oscuridad trago la tela de la soledad—:*
+
+> I didn’t cop to much of this attitude (although I didn’t dare say so out loud, at least not in so many words), and was overjoyed to find that the pretty girl in the black dress and the silk stockings didn’t cop to much of it, either.
+
+Yo no me tragaba mucho de esa actitud (aunque no me atrevía a decirlo en voz alta, al menos no con tantas palabras), y me dio una alegría enorme descubrir que la chica guapa del vestido negro y las medias de seda tampoco se tragaba mucho de ella.
+
+*No hizo falta que lo dijera: habló su obra. En el taller de Jim Bishop leyó «A Gradual Canticle for Augustine», un poema sobre un oso flaco que despierta en invierno: «Certain words are edible; they nourish / more than snow heaped upon silver plates» —hay palabras comestibles; nutren más que la nieve servida en platos de plata—. Silencio al terminar: del poema parecían correr cables que tensaban los versos hasta casi hacerlos zumbar. A King le entusiasmó la combinación de dicción astuta e imaginería delirante, y le confirmó que no estaba solo: la buena escritura puede ser a la vez embriagadora e idea:*
+
+> If stone-sober people can fuck like they’re out of their minds—can actually be out of their minds while caught in that throe—why shouldn’t writers be able to go bonkers and still stay sane?
+
+Si la gente completamente sobria puede follar como si estuviera loca —estar de verdad fuera de sí atrapada en esa convulsión—, ¿por qué los escritores no iban a poder volverse locos y seguir cuerdos?
+
+> There was also a work-ethic in the poem that I liked, something that suggested writing poems (or stories, or essays) had as much in common with sweeping the floor as with mythy moments of revelation.
+
+También había en el poema una ética del trabajo que me gustaba, algo que sugería que escribir poemas (o cuentos, o ensayos) tenía tanto en común con barrer el suelo como con los míticos momentos de revelación.
+
+*Como en A Raisin in the Sun: «¡Quiero volar! ¡Quiero tocar el sol!», y la mujer responde: «Primero cómete los huevos». En la discusión quedó claro que Tabby entendía su propio poema; conocía a San Agustín —madre cristiana, padre pagano, autor de la plegaria del libertino: «Señor, hazme casto, pero todavía no»—, y sabía que él a veces se comparaba con un oso. Tabby tiene una manera de inclinar la barbilla al sonreír que la hace parecer sabia y terriblemente adorable a la vez:*
+
+> She did that then, I remember, and said, “Besides, I like bears.”
+
+Eso hizo entonces, lo recuerdo, y dijo: «Además, me gustan los osos».
+
+> In a way, Tabby said when called upon to explicate, the bear can be seen as a symbol of mankind’s troubling and wonderful habit of dreaming the right dreams at the wrong time.
+
+En cierto modo, dijo Tabby cuando le pidieron que lo explicara, el oso puede verse como un símbolo de esa costumbre inquietante y maravillosa de la humanidad de soñar los sueños correctos en el momento equivocado.
+
+*Ella estaba en una de las mecedoras de Jim Bishop; él, sentado en el suelo a su lado. Mientras ella hablaba, le puso la mano en la pantorrilla, ahuecando la curva tibia a través de la media. Ella le sonrió. Él le devolvió la sonrisa. «A veces estas cosas no son accidentes. Estoy casi seguro».*
 
 ## What Writing Is
 
