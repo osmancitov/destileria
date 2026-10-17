@@ -8,7 +8,7 @@ Stephen King
 
 En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio. El libro entero, destilado unidad a unidad; la página crece con cada entrega.
 
-El destilado se lee en unas dieciséis páginas.
+El destilado se lee en unas veintidós páginas.
 
 Osmancito buscó las mejores frases del libro y, con Instinct, les dio una nueva forma.
 
@@ -189,6 +189,74 @@ Me imaginé que era Hopalong Cassidy, en cuclillas en la maleza con la pistola d
 > For six weeks I sat in lukewarm starch baths, feeling miserable and humiliated and stupid, listening through the open door as my mother and brother laughed and listened to Peter Tripp’s countdown on the radio and played Crazy Eights.
 
 Durante seis semanas me senté en baños tibios de almidón, sintiéndome miserable, humillado y estúpido, oyendo a través de la puerta abierta cómo mi madre y mi hermano se reían, escuchaban la cuenta atrás de Peter Tripp en la radio y jugaban a las cartas.
+
+### El electroimán de Dave
+
+*Dave era un hermano estupendo, pero demasiado listo para un niño de diez años: sus sesos siempre lo metían en líos, y aprendió pronto que el hermanito Stevie podía acompañarlo en la primera línea cuando se avecinaba tormenta:*
+
+> Dave never asked me to shoulder *all* the blame for his often brilliant fuck-ups—he was neither a sneak nor a coward—but on several occasions I was asked to share it.
+
+Dave nunca me pidió que cargara con toda la culpa de sus meteduras de pata, a menudo brillantes (no era ni un rastrero ni un cobarde), pero en varias ocasiones se me pidió compartirla.
+
+*Así que los dos se buscaron el lío cuando Dave represó el arroyo de la jungla e inundó buena parte de West Broad Street, y los dos corrieron riesgo de morir con su proyecto de feria de ciencias de 1958: el Súper Electroimán de Dave. Nada de dibujos de ranas ni casas del futuro con rollos de papel higiénico: Dave apuntaba a las estrellas. El primer intento no fue muy súper que digamos —salió de un libro de verdad: imantar un clavo frotándolo con un imán y reforzarlo con un hilo de cobre y una pila—, pero Dave no quería levantar limaduras de hierro; Dave quería levantar Buicks, vagones de tren, quizá aviones de transporte del ejército. La nueva versión prescindió de la pila vieja y se conectó directamente a la corriente de la pared, con el cable pelado de una lámpara rescatada de la basura. El papel de Dave era construirlo; el de King, probarlo: el Chuck Yeager de Stratford:*
+
+> Then, sitting on the floor in the kitchen of our West Broad Street apartment, he offered me the Super Duper Electromagnet and bade me do my part and plug it in.
+
+Entonces, sentado en el suelo de la cocina de nuestro apartamento de West Broad Street, me ofreció el Súper Electroimán y me instó a hacer mi parte: enchufarlo.
+
+*Dudó —que conste—, pero el entusiasmo maníaco de Dave era demasiado. Lo enchufó. No hubo magnetismo apreciable, pero el aparato fundió todas las luces y electrodomésticos del apartamento, del edificio y del edificio de al lado, donde vivía su chica soñada. Algo estalló en el transformador y vinieron policías:*
+
+> Dave and I spent a horrible hour watching from our mother’s bedroom window, the only one that looked out on the street (all the others had a good view of the grassless, turd-studded yard behind us, where the only living thing was a mangy canine named Roop-Roop).
+
+Dave y yo pasamos una hora horrible mirando desde la ventana del cuarto de nuestra madre, la única que daba a la calle (las demás tenían una buena vista del patio trasero, sin hierba y sembrado de cacas, donde el único ser vivo era un perro sarnoso llamado Roop-Roop).
+
+*Ese día solo cabía preguntarse si su madre iría a visitarlos al reformatorio. Al final las luces volvieron, no los descubrieron, y Dave decidió que quizá construiría un Súper Planeador en vez de un Súper Electroimán. King, le informó, haría el primer vuelo. ¿No sería estupendo?*
+
+### La tele
+
+*King nació en 1947 y en casa no hubo televisor hasta 1958. Lo primero que recuerda haber visto es Robot Monster: un tipo disfrazado de mono con una pecera en la cabeza intentando matar a los últimos supervivientes de una guerra nuclear. Le pareció arte de muy alta naturaleza. Había todo un mundo de aventura ajenas empaquetado en blanco y negro, catorce pulgadas, patrocinado por marcas que todavía le suenan a poesía. Lo amó todo, pero la tele llegó tarde a casa de los King, y se alegra: pertenece al grupo selecto de los últimos novelistas americanos que aprendieron a leer y escribir antes de aprender a tragarse la ración diaria de tonterías en vídeo. Y de ahí, un consejo práctico:*
+
+> On the other hand, if you’re just starting out as a writer, you could do worse than strip your television’s electric plug-wire, wrap a spike around it, and then stick it back into the wall.
+
+Por otro lado, si estás empezando como escritor, no hay nada malo en pelar el cable del enchufe de tu televisor, enrollarle un clavo y volver a meterlo en la pared.
+
+*«A ver qué salta, y hasta dónde. Solo una idea».*
+
+### El Ackermonster
+
+*A finales de los cincuenta, Forrest J. Ackerman, agente literario y coleccionista compulsivo de memorabilia de ciencia ficción, cambió la vida de miles de niños —King fue uno— con su revista Famous Monsters of Filmland. Hacia 1960, King mandó un cuento a Spacemen, su revista hermana: el primero que enviaba a publicar, muy deudor del mono asesino con pecera de Robot Monster. Se lo rechazaron, pero Forry se lo quedó (Forry lo guarda todo, como sabe cualquiera que haya visitado su casa, la Ackermansión):*
+
+> About twenty years later, while I was signing autographs at a Los Angeles bookstore, Forry turned up in line … with my story, single-spaced and typed with the long-vanished Royal typewriter my mom gave me for Christmas the year I was eleven.
+
+Unos veinte años después, mientras yo firmaba autógrafos en una librería de Los Ángeles, apareció Forry en la cola... con mi cuento, a un solo espacio y mecanografiado con la Royal desaparecida hacía años que mi madre me había regalado la Navidad de mis once años.
+
+*Quería que se lo firmara, y King cree que lo hizo, aunque el encuentro fue tan surrealista que no puede jurarlo. «Hablando de fantasmas. Madre mía».*
+
+### Profanador de tumbas adolescente
+
+*El primer cuento que publicó de verdad salió en un fanzine de terror de Mike Garrett, de Birmingham, Alabama:*
+
+> He published this novella under the title “In a Half-World of Terror,” but I still like my title much better.
+
+Publicó la novelita con el título «In a Half-World of Terror», pero el mío me sigue gustando mucho más.
+
+*El suyo era «I Was a Teen-Age Grave-robber»: yo fui un profanador de tumbas adolescente. «Súper. ¡Pow!».*
+
+### Durham
+
+*De vuelta a Maine, llega el recuerdo que ordena la memoria: la primera idea propia de un cuento.*
+
+> My first really original story idea—you always know the first one, I think—came near the end of Ike’s eight-year reign of benignity.
+
+Mi primera idea realmente original para un cuento (la primera siempre se reconoce, creo) llegó cerca del final de los ocho años de reinado benévolo de Ike.
+
+*Ike: el presidente Eisenhower. La familia se había vuelto a Maine para que su madre cuidara de sus padres ancianos: Mama, unos ochenta años, obesa, hipertensa y casi ciega; Daddy Guy —su madre lo llamaba «Fazza»—, ochenta y dos, flaco, hosco y propenso a arranques a lo pato Donald que solo ella entendía:*
+
+> I was sitting at the kitchen table of our house in Durham, Maine, and watching my mother stick sheets of S&H Green Stamps into a book.
+
+Estaba sentado a la mesa de la cocina de nuestra casa de Durham, Maine, mirando a mi madre pegar hojas de cupones S&H Green Stamps en una libreta.
+
+*Los Green Stamps eran cupones de compra que se cambiaban por mercancía; para más historias sabrosas sobre ellos, remite a The Liars' Club. Las hermanas le habían conseguido a su madre aquel arreglo pensando quizá en matar dos pájaros de un tiro: los viejos cuidados en casa por una hija amorosa, y resuelto El Problema Fastidioso de Ruth. Pero King cree que ella odiaba aquel trabajo: de mujer autosuficiente, graciosa y un poco loca pasó a una especie de aparcera con existencia casi sin dinero. La casa era de los tíos Ethelyn y Oren; una vez allí, quedó atrapada. Consiguió otro trabajo de verdad cuando los viejos murieron, pero vivió en esa casa hasta que la alcanzó el cáncer, y cuando salió de Durham por última vez, King intuye que probablemente estaba más que lista para irse.*
 
 ## What Writing Is
 
