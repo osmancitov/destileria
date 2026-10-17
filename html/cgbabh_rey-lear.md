@@ -58,4 +58,48 @@ Goneril
 
 ---
 
+## Acto I, escena 2
+
+*En casa de Gloucester. A solas, Edmund, el hijo bastardo, toma a la Naturaleza por diosa y jura quedarse con la tierra de Edgar, su hermano legítimo: lleva una carta falsificada. Entra Gloucester, alarmado por las noticias de la corte, y lo sorprende guardándosela. Exige verla.*
+
+> Come, if it be nothing, I shall not need spectacles.
+
+Vamos, si es nada, no necesitaré anteojos.
+
+Gloucester
+
+---
+
+*Edmund la entrega haciéndose el reacio: una conjura de Edgar para matar al padre y repartirse su renta. Edmund jura que la encontró en su ventana y que Edgar sostiene que los viejos deben ceder el mando. Gloucester estalla.*
+
+> —Go, sirrah, seek him.
+
+—Anda, buen mozo, búscalo.
+
+Gloucester
+
+---
+
+*Fuera de sí, jura:*
+
+> I’ll apprehend him.
+
+Lo apresaré.
+
+Gloucester
+
+---
+
+*Gloucester le encarga buscar a Edgar y se va culpando a los eclipses; solo, Edmund se burla de los astros. Entra Edgar: con melancolía fingida, Edmund le advierte que su padre está furioso con él y que conviene evitarlo. Edgar habló con él en paz la noche anterior.*
+
+> Some villain hath done me wrong.
+
+Algún villano me ha hecho daño.
+
+Edgar
+
+---
+
+*Edmund lo manda a su propio alojamiento y le aconseja salir armado. A solas, se ríe del padre crédulo y del hermano noble: si no por nacimiento, tendrá tierras por ingenio; le vale todo lo que pueda ajustar a su plan.*
+
 Osmancito, con la asistencia de Instinct
