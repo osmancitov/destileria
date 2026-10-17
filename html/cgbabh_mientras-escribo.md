@@ -8,7 +8,7 @@ Stephen King
 
 En el año 2000, Stephen King publicó *On Writing* («mientras escribo»), un libro raro: mitad memoria de cómo se hizo escritor, mitad manual del oficio.
 
-El destilado ya suma cuarenta y cuatro páginas y crece unidad a unidad.
+El destilado ya suma cincuenta y seis páginas y crece unidad a unidad.
 
 Osmancito buscó las mejores frases del libro y, con Instinct, les dio una nueva forma.
 
@@ -477,6 +477,118 @@ Eso hizo entonces, lo recuerdo, y dijo: «Además, me gustan los osos».
 En cierto modo, dijo Tabby cuando le pidieron que lo explicara, el oso puede verse como un símbolo de esa costumbre inquietante y maravillosa de la humanidad de soñar los sueños correctos en el momento equivocado.
 
 *Ella estaba en una de las mecedoras de Jim Bishop; él, sentado en el suelo a su lado. Mientras ella hablaba, le puso la mano en la pantorrilla, ahuecando la curva tibia a través de la media. Ella le sonrió. Él le devolvió la sonrisa. «A veces estas cosas no son accidentes. Estoy casi seguro».*
+
+### Steve King, vaya a casa
+
+*A los tres años de casados ya tenían dos niños: ni planeados ni no planeados; llegaron cuando llegaron, y fueron bienvenidos. Naomi era propensa a infecciones de oído; Joe estaba sano pero parecía no dormir nunca:*
+
+> When Tabby went into labor with him, I was at a drive-in movie in Brewer with a friend—it was a Memorial Day triple feature, three horror films.
+
+Cuando Tabby se puso de parto con él, yo estaba en un autocine de Brewer con un amigo: triple sesión del Memorial Day, tres películas de terror.
+
+*Iban por la tercera película (The Corpse Grinders) y el segundo six-pack cuando el encargado habló por los altavoces de poste —entonces todavía se colgaban de la ventanilla del carro—, así que el anuncio retumbó en todo el estacionamiento: «¡STEVE KING, VAYA A CASA! ¡SU MUJER ESTÁ DE PARTO! ¡STEVE KING, VAYA A CASA! ¡SU MUJER VA A TENER EL BEBÉ!». Al salir con el viejo Plymouth, un par de centenares de bocinas le tocaron un saludo satírico y muchos le encendieron y apagaron las luces; su amigo Jimmy Smith se rio tan fuerte que se deslizó al hueco de los pies del asiento del copiloto y ahí se quedó casi todo el viaje de vuelta a Bangor, riéndose entre las latas de cerveza. Cuando llegó, Tabby estaba tranquila y con la maleta hecha. Joe nació menos de tres horas después: vino al mundo con facilidad, y durante los cinco años siguientes nada más en él fue fácil. Pero era una delicia. Los dos lo eran, en realidad:*
+
+> Even when Naomi was tearing off the wallpaper above her crib (maybe she thought she was housekeeping) and Joe was shitting in the wicker seat of the rocker we kept on the porch of our apartment on Sanford Street, they were a treat.
+
+Incluso cuando Naomi arrancaba el papel pintado por encima de su cuna (quizá pensaba que estaba poniendo orden) y Joe se cagaba en el asiento de mimbre de la mecedora del porche de nuestro apartamento de Sanford Street, eran una delicia.
+
+### La lavandería
+
+*La madre de King lo apoyaba en lo suyo, pero con un plan de respaldo:*
+
+> My mother knew I wanted to be a writer (with all those rejection slips hanging from the spike on my bedroom wall, how could she not?), but she encouraged me to get a teacher’s credential “so you’ll have something to fall back on.”
+
+Mi madre sabía que yo quería ser escritor (con todos aquellos resbalones de rechazo colgando del clavón de mi pared, ¿cómo no iba a saberlo?), pero me animó a sacarme el título de profesor «para que tengas algo de donde agarrarte».
+
+*«Una buhardilla junto al Sena solo es romántica si eres soltero —le había dicho—. No es lugar para criar una familia»:*
+
+> I did as she suggested, entering the College of Education at UMO and emerging four years later with a teacher’s certificate … sort of like a golden retriever emerging from a pond with a dead duck in its jaws.
+
+Hice lo que sugirió: entré en la Facultad de Educación de la UMO y emergí cuatro años después con el certificado de profesor... algo así como un golden retriever emergiendo de un estanque con un pato muerto entre las fauces.
+
+*Muerto estaba, sí: no encontró trabajo de profesor y acabó en la lavandería New Franklin, por un sueldo apenas mayor que el de la fábrica de cuatro años antes:*
+
+> I was keeping my family in a series of garrets which overlooked not the Seine but some of Bangor’s less appetizing streets, the ones where the police cruisers always seemed to show up at two o’clock on Saturday morning.
+
+Mantenía a mi familia en una serie de buhardillas que no daban al Sena, sino a algunas de las calles menos apetitosas de Bangor, esas donde los coches patrulla siempre parecían aparecer a las dos de la madrugada del sábado.
+
+*En la New Franklin casi no veía ropa personal; lo suyo eran las sábanas de motel de la costa de Maine y los manteles de los restaurantes costeros, y los manteles eran desesperadamente asquerosos: los turistas quieren langosta, y cuando esos manteles llegaban a sus manos apestaban a gloria y a menudo hervían de gusanos que intentaban subirle por los brazos mientras cargaba las lavadoras. ¿Por qué la gente es tan guarra?, se preguntaba. Las sábanas de hospital eran aún peores: también con gusanos en verano, pero alimentados de sangre, y con premios sorpresa dentro, como las cajas de Cracker Jack: una cuña de acero en una carga, unas tijeras quirúrgicas en otra (estas sí, una herramienta de cocina de lo más útil). Una vez oyó un clic-clac raro dentro de una de sus máquinas, apretó el paro de emergencia y sacó una enorme bola de túnicas quirúrgicas chorreando: debajo, repartido por el tambor, lo que parecía una dentadura humana completa. Se le pasó por la cabeza que haría un collar interesante; luego la recogió y la tiró a la basura. «Mi mujer ha aguantado mucho de mí con los años, pero su sentido del humor tiene un límite».*
+
+### Un cheque de quinientos
+
+*En términos financieros, dos niños eran probablemente dos de más para unos recién graduados que trabajaban en una lavandería y en el turno de noche de Dunkin' Donuts. La única ventaja venía de revistas como Dude, Cavalier, Adam y Swank: lo que su tío Oren llamaba «los libros de tetas». Para 1972 ya enseñaban bastante más que pechos y la ficción salía por la puerta de atrás, pero King tuvo la suerte de coger la última ola. Escribía después del trabajo; en la época de Grove Street, a veces también en la hora del almuerzo:*
+
+> I suppose that sounds almost impossibly Abe Lincoln, but it was no big deal—I was having fun.
+
+Supongo que eso suena casi imposiblemente a lo Abraham Lincoln, pero no era para tanto: me estaba divirtiendo.
+
+*Esos cuentos, por sombríos que fueran, eran pequeñas escapadas del jefe y de Harry, el capataz, que tenía ganchos en vez de manos desde una caída en el calandrado de sábanas durante la guerra. Cómico de corazón, Harry a veces metía un gancho bajo el grifo del agua fría y el otro bajo el de la caliente, se acercaba por detrás mientras cargabas la ropa y te plantaba los dos ganchos de acero en la nuca. Rocky y King se pasaban buen rato especulando sobre cómo resolvía Harry ciertas actividades de limpieza en el baño:*
+
+> “Well,” Rocky said one day while we were drinking our lunch in his car, “at least he don’t need to wash his hands.”
+
+«Bueno —dijo Rocky un día mientras almorzábamos de trago en su carro—, al menos no necesita lavarse las manos».
+
+*Había veces, sobre todo en verano, tragándose su píldora de sal de la tarde, en que a King se le ocurría que estaba simplemente repitiendo la vida de su madre. Normalmente la idea le hacía gracia; pero si estaba cansado, o había facturas extra y no había dinero, le parecía horrible: «No es así como se supone que tendrían que ir nuestras vidas». Y luego: «La mitad del mundo tiene la misma idea»:*
+
+> The stories I sold to the men’s magazines between August of 1970, when I got my two-hundred-dollar check for “Graveyard Shift,” and the winter of 1973-1974 were just enough to create a rough sliding margin between us and the welfare office (my mother, a Republican all her life, had communicated her deep horror of “going on the county” to me; Tabby had some of that same horror).
+
+Los cuentos que vendí a las revistas masculinas entre agosto de 1970, cuando llegó mi cheque de doscientos dólares por «Graveyard Shift», y el invierno de 1973-1974 eran justo suficientes para crear un margen tosco y deslizante entre nosotros y la oficina de asistencia social (mi madre, republicana toda su vida, me había contagiado su horror profundo a «vivir del condado»; Tabby compartía algo de ese horror).
+
+*Su recuerdo más nítido de aquellos días: volver un domingo a la tarde del fin de semana en casa de su madre, por la época en que empezaban a asomar los síntomas del cáncer que la mataría. Naomi, con otra infección de oído, ardía de fiebre: él la llevaba en brazos junto con la bolsa del arsenal de supervivencia de bebés, y Tabby cargaba a Joe, que le había vomitado encima, arrastrando un saco de pañales sucios. Los dos sabían que Naomi necesitaba LO ROSA, como llamaban a la amoxicilina líquida. LO ROSA era caro, y estaban pelados. Pelados de solemnidad. Naomi le resplandecía contra el pecho como una brasa. Y al abrir la puerta vio un sobre asomando del buzón, una entrega rara de sábado; lo cogió rezando para que no fuera otra factura:*
+
+> It wasn’t. My friends at the Dugent Publishing Corporation, purveyors of *Cavalier* and many other fine adult publications, had sent me a check for “Sometimes They Come Back,” a long story I hadn’t believed would sell anywhere.
+
+No lo era. Mis amigos de la Dugent Publishing Corporation, suministradores de Cavalier y otras muchas finas publicaciones para adultos, me habían mandado un cheque por «Sometimes They Come Back», un cuento largo que yo no creía que se vendiera en ninguna parte.
+
+*Quinientos dólares: de lejos la suma más grande que había cobrado nunca. De repente podían pagar no solo el médico y el frasco de LO ROSA, sino también una buena cena de domingo por la noche; y él imagina que, una vez dormidos los niños, Tabby y él se pusieron cariñosos. Cree que fueron muy felices en aquellos días, aunque también tenían mucho miedo: no eran mucho más que un par de niños, y ponerse cariñosos ayudaba a mantener a raya los rojos mezquinos. Tabby salía con su uniforme rosa hacia el Dunkin' Donuts y llamaba a la policía cuando los borrachos del café se ponían pesados; él lavaba sábanas de motel y seguía escribiendo películas de terror de una bobina.*
+
+### Los manuscritos del cajón
+
+*Para cuando empezó Carrie, King había conseguido por fin trabajo de profesor de inglés en Hampden: seis mil cuatrocientos dólares al año, una suma impensable después del dólar sesenta la hora de la lavandería; de haber hecho bien la cuenta, con las reuniones y los papeles corregidos en casa, habría visto que era muy pensable, y que su situación era peor que nunca. A finales del invierno de 1973 vivían en un tráiler doble en Hermon (años después lo llamó «el culo del mundo» en una entrevista; los de Hermon se enfurecieron, y él pide aquí disculpas: Hermon no es más que la axila del mundo). Manejaban un Buick con la transmisión averiada que no podían pagar, Tabby seguía en el Dunkin' Donuts y no tenían teléfono: simplemente no podían pagar la cuota mensual. Tabby probó con los relatos de confesionario («Too Pretty to Be a Virgin», cosas así) y habría abierto brecha con un par de horas más al día, pero estaba atascada con las veinticuatro de siempre. A King tampoco le iba bien: las revistas masculinas cambiaban el terror por sexo cada vez más explícito, pero el problema mayor era otro: por primera vez en su vida, escribir era difícil. La culpa era de la enseñanza: le gustaban sus colegas y quería a los chicos, pero los viernes a la tarde se sentía como si hubiera pasado la semana con las pinzas de arranque de una batería conectadas al cerebro. Si alguna vez estuvo cerca de desesperar por su futuro de escritor, fue entonces: se veía treinta años después, con los mismos sacos de tweed raídos con coderas, la barriga cervecera rodando sobre los khakis:*
+
+> I’d have a cigarette cough from too many packs of Pall Malls, thicker glasses, more dandruff, and in my desk drawer, six or seven unfinished manuscripts which I would take out and tinker with from time to time, usually when drunk.
+
+Tendría tos de fumador de tanto Pall Mall, gafas más gruesas, más caspa, y en el cajón del escritorio seis o siete manuscritos sin terminar que sacaría para retocar de vez en cuando, normalmente borracho.
+
+> And of course I’d lie to myself, telling myself there was still time, it wasn’t too late, there were novelists who didn’t get started until they were fifty, hell, even sixty.
+
+Y por supuesto me mentiría, diciéndome que todavía había tiempo, que no era tarde, que había novelistas que no habían empezado hasta los cincuenta; diablos, hasta los sesenta.
+
+*Probablemente un montón de ellos. En aquellos dos años, su mujer marcó una diferencia crucial:*
+
+> If she had suggested that the time I spent writing stories on the front porch of our rented house on Pond Street or in the laundry room of our rented trailer on Klatt Road in Hermon was wasted time, I think a lot of the heart would have gone out of me.
+
+Si ella hubiera sugerido que el tiempo que yo pasaba escribiendo cuentos en el porche de nuestra casa alquilada de Pond Street o en el lavadero de nuestro tráiler alquilado de Klatt Road, en Hermon, era tiempo perdido, creo que se me habría ido buena parte del ánimo.
+
+*Tabby nunca expresó una sola duda: su apoyo era una constante, una de las pocas cosas buenas que él podía dar por sentadas. «Y cada vez que veo una primera novela dedicada a una mujer (o a un marido), sonrío y pienso: ahí hay alguien que sabe. Escribir es un trabajo solitario. Que haya alguien que cree en ti marca mucha diferencia. No tienen que hacer discursos. Normalmente basta con que crean».*
+
+### Carrie
+
+*Un verano de juventud, King trabajó de conserje en el instituto de Brunswick con Harry, un tipo de fatigas verdes, llavero enorme y cojera, gran contador de historias: una carga banzai en Tarawa, con oficiales japoneses blandiendo espadas hechas de latas de café Maxwell House. Un día les tocó fregar las manchas de óxido de las paredes de la ducha de las chicas. Era igual que el vestuario de los chicos y a la vez completamente distinto: sin urinarios, con dos cajas metálicas sin marcar en la pared —«Pussyplugs —dijo Harry—. Para esos días del mes»—, y con cortinas plásticas rosas colgando de anillas cromadas: allí una podía ducharse con intimidad. Años después, cargando lavadoras en la New Franklin, el recuerdo volvió convertido en escena: un vestuario sin cortinas ni intimidad, una chica a la que le viene la regla sin saber lo que es, las demás —asqueadas, horrorizadas, divertidas— bombardeándola con tampones y compresas; toda esa sangre; ella cree que se muere, que se burlan de ella mientras se desangra... reacciona... se defiende... ¿pero cómo? Un artículo viejo de la revista Life sugería que al menos parte de la actividad poltergeist podía ser telequinesis, mover objetos con el pensamiento, y que esos poderes aparecerían sobre todo en chicas alrededor de su primera regla. ¡Pow! Dos ideas sin relación, la crueldad adolescente y la telequinesis, se juntaron:*
+
+> Still, I thought I might have the basis for a good *Cavalier* yarn, with the possibility of *Playboy* lurking in the back of my mind.
+
+Aun así, pensé que quizá tenía la base de un buen relato para Cavalier, con la posibilidad de Playboy rondando al fondo de mi mente.
+
+*Playboy pagaba hasta dos mil dólares por cuento: una transmisión nueva para el Buick y sobraba para el mercado. La idea quedó al fuego lento un tiempo, hirviendo en ese lugar que no es del todo consciente ni del todo subconsciente. Ya enseñando, se sentó una noche a intentarlo:*
+
+> I did three single-spaced pages of a first draft, then crumpled them up in disgust and threw them away.
+
+Escribí tres páginas a un solo espacio de un primer borrador, luego las arrugué con asco y las tiré.
+
+*Cuatro problemas. El primero y menos importante: la historia no lo emocionaba. Segundo: no le gustaba la protagonista; Carrie White parecía lerda y pasiva, una víctima prefabricada, y mientras las otras le lanzaban tampones cantando «¡Tápala! ¡Tápala!», a él no le importaba. Tercero: no se sentía en casa ni en el ambiente ni con su reparto enteramente femenino; había aterrizado en el Planeta Mujer, y una excursión al vestuario de chicas del instituto de Brunswick años antes no servía de mucho para navegarlo. «Para mí, escribir siempre funciona mejor cuando es íntimo, tan sexy como piel con piel; con Carrie me sentía como metido en un traje de neopreno que no podía quitarme». Y cuarto:*
+
+> Fourth and most important of all was the realization that the story wouldn’t pay off unless it was pretty long, probably even longer than “Sometimes They Come Back,” which had been at the absolute outer limit of what the men’s magazine market could accept in terms of word-count.
+
+El cuarto problema, y el más importante, fue darme cuenta de que la historia no rendiría a menos que fuera bastante larga, probablemente más que «Sometimes They Come Back», que ya había estado en el límite absoluto de lo que el mercado de las revistas masculinas aceptaba en extensión.
+
+*Había que dejar sitio a las fotos de porristas que de algún modo habían olvidado ponerse la ropa interior, que era por lo que los tipos compraban de verdad aquellas revistas; no veía sentido a gastar dos semanas, quizá un mes, creando una novelita que no le gustaba y que no podría vender. Así que la tiró. A la noche siguiente, al volver de la escuela, Tabby tenía las páginas:*
+
+> She’d spied them while emptying my wastebasket, had shaken the cigarette ashes off the crumpled balls of paper, smoothed them out, and sat down to read them.
+
+Los había visto al vaciar mi papelera, les había sacudido la ceniza de cigarrillo a las bolas de papel arrugado, las había alisado y se había sentado a leerlas.
+
+*Quería que siguiera, dijo; quería saber el resto de la historia. Él le dijo que no sabía ni jota de chicas de instituto. Ella dijo que le ayudaría con esa parte. Tenía la barbilla inclinada y sonreía de esa manera suya, sabia y terriblemente adorable: «Tienes algo aquí. De verdad creo que lo tienes».*
 
 ## What Writing Is
 
