@@ -8,8 +8,6 @@ William Shakespeare
 
 Macbeth, el mejor general del rey Duncan, oye de tres brujas que será rey de Escocia, y la profecía le prende la ambición: empujado por su esposa, asesina al rey bajo su propio techo y ocupa el trono; de ahí en adelante solo puede sostenerlo con más crímenes, entre la culpa y el miedo, hasta que la misma profecía se cumple al revés. Es la tragedia más breve de Shakespeare y una de las más oscuras.
 
-La obra completa, destilada escena a escena: por ahora, nueve páginas.
-
 ## Acto I, escena 1
 
 ![Grabado en línea: tres brujas encapuchadas conspiran en un páramo desolado bajo un cielo de tormenta con un gran relámpago; niebla baja sobre el brezo y las rocas.](img/cgbaaj_macbeth_i-1.jpg)
