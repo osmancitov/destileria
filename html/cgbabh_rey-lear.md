@@ -180,4 +180,126 @@ Bufón
 
 *«Tío», lo llama: no debería haber envejecido antes de ser sabio. Lear pide al cielo, dos veces, que no lo deje enloquecer. Ya están los caballos. El Bufón cierra con una copla de doble filo: la doncella que ríe su partida no lo será por mucho, a menos que las cosas se corten más pronto.*
 
+---
+
+## Acto II, escena 1
+
+*Esa misma noche, en casa de Gloucester. Edmund saluda a Curan, un caballerizo, que trae rumores: Cornwall y Regan llegan esta noche, y se susurran guerras entre los duques de Cornwall y Albany, «argumentos que aún no pasan de besos al oído». Edmund, a solas, huele la ocasión: la visita se teje sola dentro de su trama. Llama a Edgar: su padre lo vigila, que huya; y le explica por qué desenvaina contra su propio hermano:*
+
+> In cunning I must draw my sword upon you.
+
+Con astucia debo desenvainar mi espada contra ti.
+
+Edmund
+
+*«En astucia»: la pelea es teatro. Edgar huye; Edmund se corta el brazo para acreditar su propia defensa («he visto borrachos hacer más que esto en juego») y grita que ahí estuvo el villano, a oscuras, conjurando a la luna. Gloucester traga entero: manda perseguirlo y dicta su suerte:*
+
+> Not in this land shall he remain uncaught, And found—dispatch.
+
+No quedará en esta tierra sin ser capturado, y hallado—ejecutado.
+
+Gloucester
+
+*«Y hallado, muerte»: la sentencia del padre. El retrato de Edgar correrá por todo el reino; sus tierras irán al hijo «leal y natural»: Edmund. Llegan Cornwall y Regan con trompetas. Regan ata cabos con elegancia: si Edgar andaba con los caballeros alborotosos de su padre, no es maravilla que quisiera al viejo muerto; su hermana ya la avisó: si esos caballeros llegan a su casa, ella no estará. Cornwall recluta a Edmund en el acto: naturalezas de tanta confianza harán mucha falta; desde hoy es de los suyos. Y Edmund agradece con su doble fondo:*
+
+> I shall serve you, sir, Truly, however else.
+
+Os serviré, señor, fielmente, sea lo demás como sea.
+
+Edmund
+
+*«Lealmente, en todo lo demás no»: el villano lo dice a la cara y nadie lo oye. Regan explica la visita: su padre y su hermana escriben de diferencias, y ella prefirió responder fuera de casa; necesita el consejo de Gloucester esta misma noche. El viejo, con el corazón «quebrado», se ofrece: los sirve; sus gracias son bien venidas.*
+
+---
+
+## Acto II, escena 2
+
+*Ante la casa de Gloucester, de noche. «Buen amanecer te dé, amigo; ¿eres de esta casa?». Es Oswald, el mayordomo de Goneril, que llega con cartas de ella; Kent, el servidor disfrazado, llega con las del rey, y lo reconoce al instante: es el criado que insultó a Lear. ¿Dónde dejamos los caballos?, pregunta Oswald. «En el lodo». ¿Por qué me tratas así?, si ni te conozco. La respuesta:*
+
+> Fellow, I know thee.
+
+Mozo, yo sí te conozco.
+
+Kent
+
+*Y le canta las cuarenta: bellaco, canalla, comedor de sobras, bribón de tres trajes, esclavo de un solo baúl, hijo y heredero de una perra mestiza. Desenvaina: «aunque sea de noche, luna hay». Al grito de «¡asesinato!» salen Edmund, Gloucester y los duques con Regan. Cornwall pregunta cómo creció la pendencia; Oswald, sin aliento, se pinta de víctima: perdonó la vida al viejo rufián por respeto a su barba cana. Kent no discute el cuento; le explica a Cornwall su oficio:*
+
+> Sir, ’tis my occupation to be plain: I have seen better faces in my time Than stands on any shoulder that I see Before me at this instant.
+
+Señor, es mi oficio ser llano: he visto mejores caras en mi tiempo que las que hay sobre cualquier hombro que veo ante mí en este instante.
+
+Kent
+
+*Franqueza como oficio, y un insulto de regalo: ha visto mejores caras que todas las que hoy tiene delante. Cornwall no se lo traga: conoce a esos que, alabados por bruscos, esconden bajo la llaneza más oficio y peores fines que veinte aduladores inclinados. «Traigan el cepo». Kent avisa: sirve al rey, y castigar así a su mensajero es hacerle el agravio al rey. Gloucester intercede; Cornwall responde por él. «¿Hasta el mediodía?», pregunta Regan. «Hasta la noche, señor, y toda la noche». Kent lo intenta una última vez:*
+
+> Why, madam, if I were your father’s dog, You should not use me so.
+
+Vamos, señora, si yo fuera el perro de vuestro padre, no me trataríais así.
+
+Kent
+
+*«Por eso, por ser su criado», responde Regan. Le meten las piernas en el cepo y lo dejan solo en la noche. Kent bromea con su suerte: la fortuna de un buen hombre puede andar gastada por los talones; dormirá un rato y el resto lo silbará. Pide a la luna, «faro de este mundo de abajo», luz para leer una carta que le llega: es de Cordelia, que ya sabe de su rumbo escondido y sabrá poner remedio a tantas pérdidas. «Casi nada ve milagros sino la miseria». Y se duerme con un encargo: «Fortuna, buenas noches; sonríe una vez más, y gira la rueda».*
+
+---
+
+## Acto II, escena 3
+
+*Edgar, solo, cuenta su suerte: proscrito por la voz de su propio padre, se salvó de la cacería en el hueco dichoso de un árbol; ningún puerto está libre de guardias y vigilias. Su decisión:*
+
+> Whiles I may ’scape, I will preserve myself, and am bethought To take the basest and most poorest shape That ever penury in contempt of man Brought near to beast.
+
+Mientras pueda escapar, me preservaré, y estoy decidido a tomar la forma más baja y más pobre que jamás la penuria, en desprecio del hombre, acercara a la bestia.
+
+Edgar
+
+*La forma más baja y más pobre que la miseria acercó jamás a la bestia: se tiznará la cara con mugre, ceñirá sus lomos con una manta, se enredará el pelo en nudos de duende y, casi desnudo, desafiará los vientos y las persecuciones del cielo. El país le da el modelo: los mendigos de Bedlam, que con voz de bramido se clavan alfileres, clavos y ramas de romero en los brazos entumecidos, y con ese objeto horrible fuerzan la caridad de granjas, aldeas y molinos. «¡Pobre Turlygod! ¡Pobre Tom!». Eso es algo todavía. Y se borra del mundo: «Edgar ya no soy nada».*
+
+---
+
+## Acto II, escena 4
+
+*Lear llega a la casa de Gloucester con el Bufón y encuentra lo que no puede creer: su mensajero, Kent, sentado en el cepo como un ladrón común. «¿Haces de esta vergüenza tu pasatiempo?». No, mi señor. El Bufón cuenta las ligas: los caballos se atan por la cabeza, los perros y los osos por el cuello, los monos por los lomos y los hombres por las piernas. ¿Quién te puso aquí? «Tu hijo y tu hija». No. Sí. Que no, por Júpiter. Que sí, por Juno. Lear lo nombra:*
+
+> ’Tis worse than murder To do upon respect such violent outrage.
+
+Es peor que el asesinato cometer sobre el respeto tan violento ultraje.
+
+Lear
+
+*Kent cuenta: apenas entregadas las cartas del rey, llegó un poste sudado con las de Goneril; leyeron primero las de ella, montaron y salieron, y a él, por sacar la espada contra el otro mensajero, lo pagaron así. El Bufón canta su copla de invierno: los padres con bolsas verán hijas amables; el que sirve por ganancia empacará cuando empiece a llover, pero el Bufón se quedará. Lear pide hablar con los duques. Responden que están enfermos, cansados del viaje: «meros rodeos, figuras de la rebelión y la deserción». Gloucester sale con excusas del «carácter ardiente» del duque, y el rey se contiene a golpes: «oh, mi corazón, mi corazón que sube: ¡abajo!». Por fin salen Cornwall y Regan.*
+
+*Regan lo recibe con paciencia de manual: su hermana no puede haber faltado a su obligación; si frenó los alborotos del séquito, lo hizo con un fin sano que la libra de toda culpa. Y le suelta la verdad fría:*
+
+> O sir, you are old.
+
+¡Oh señor, sois viejo!
+
+Regan
+
+*Está al borde mismo de su confín, sigue Regan: necesita que lo gobierne una discreción que vea su estado mejor que él mismo. Que vuelva con su hermana y le diga que la ha agraviado. «¿Pedirle perdón?». Y Lear monta la mueca de la escena: «Querida hija, confieso que soy viejo; la vejez sobra; de rodillas te pido vestido, cama y comida». Regan corta: basta de trucos feos. Lear maldice a Goneril con el aire que lleva, con los relámpagos, con las nieblas chupadas de pantano que caen a ampollar. Regan tiembla de que le toque a ella; Lear jura que no: su naturaleza es tierna, sus ojos consuelan y no queman, y no ha olvidado su mitad del reino. Regan responde con cuatro palabras:*
+
+> Good sir, to th’ purpose.
+
+Buen señor, al grano.
+
+Regan
+
+*«Al propósito»: cuatro palabras de hielo; entre ellas y los dioses a los que Lear grita se mide toda la escena. Vuelve la pregunta enterrada: ¿quién metió a mi hombre en el cepo? Suena una trompeta: es Goneril, que llega. Lear mira las dos manos tomadas y aprieta los costados: «¿No te da vergüenza mirar esta barba?». Cornwall confiesa lo del cepo: lo puso él, y los desórdenes del criado merecían menos honor. Regan ofrece sus términos: que vuelva con la hermana un mes y despida a la mitad del séquito. Lear renuncia antes a todos los techos: compañero del lobo y del búho, de la necesidad que pellizca. Y a Goneril, que le dice «a su elección, señor», le suplica:*
+
+> I prithee, daughter, do not make me mad.
+
+Te ruego, hija, no me hagas enloquecer.
+
+Lear
+
+*No volverán a verse, le dice; ella es su carne, o mejor una enfermedad de su carne, un divieso en su sangre podrida; pero no la regañará: que la vergüenza venga cuando quiera. Puede ser paciente; se quedará con Regan, él y sus cien caballeros. Entonces empieza la subasta: Regan no está lista para recibirlo; ¿cincuenta seguidores?, ¿para qué tantos?; traiga veinticinco, y a ninguno más dará lugar. Lear prefiere a Goneril: su cincuenta dobla el amor de Regan. Goneril baja la apuesta: ¿para qué veinticinco, o diez, o cinco? «¿Para qué uno?», remata Regan. Y ahí Lear responde con la pregunta de la obra: que no razonen la necesidad; hasta el mendigo más bajo tiene algo que le sobra; si la naturaleza no tiene más de lo que necesita, la vida del hombre vale lo que la de la bestia. Y se muestra a los dioses:*
+
+> You see me here, you gods, a poor old man As full of grief as age, wretched in both.
+
+Me veis aquí, dioses, un pobre viejo tan lleno de pena como de edad, desdichado en ambas.
+
+Lear
+
+*Si son ustedes, dioses, los que revuelven estos corazones contra su padre, no me hagan tan tonto como para aguantarlo manso: tóquenme con ira noble y no dejen que las armas de las mujeres, las gotas de agua, manchen estas mejillas de hombre. A ustedes, brujas contra natura, les haré tales venganzas que serán los terrores de la tierra; cuáles son, todavía no lo sé. ¿Creen que lloraré? No lloraré: tengo plena causa, pero este corazón se romperá en cien mil pedazos antes de que yo llore. «Oh, Bufón, me volveré loco». Sale a la noche. Gloucester vuelve con la noticia: el rey está en gran furia y pide los caballos, nadie sabe a dónde. «Es mejor dejarlo pasar», dice Cornwall; «él mismo se guía». Regan y Goneril se lavan las manos: a los hombres obstinados, las injurias que ellos mismos se procuran les sirven de maestras; la casa es pequeña; que cierren las puertas. Y Cornwall cierra la escena con la orden que abre la tormenta: «Cierren las puertas, mi señor; es una noche salvaje. Entra, sal de la tormenta».*
+
 Osmancito, con la asistencia de Instinct
