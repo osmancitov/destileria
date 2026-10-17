@@ -6,9 +6,9 @@
 
 William Shakespeare
 
-La obra completa, destilada escena por escena: de las más de cuatro mil frases del original quedaron setenta y siete, las mejores, escogidas una a una. Cada cita va en su inglés, con su traducción al castellano y una glosa breve que la explica; los textos en cursiva cuentan lo que ocurre entre cita y cita.
+Hacia 1605-1606, William Shakespeare escribió *King Lear*, una de sus grandes tragedias: un rey viejo, cansado de gobernar, reparte su reino entre sus tres hijas según el amor que cada una diga tenerle, y deshereda a la menor, la única que se niega a mentir. La obra completa, destilada escena por escena: las mejores frases, escogidas una a una. Cada cita va en su inglés, con su traducción al castellano y una glosa breve que la explica; los textos en cursiva cuentan lo que ocurre entre cita y cita.
 
-El destilado se lee en unas cincuenta páginas; la obra entera, en unas ciento diez. De cada cien palabras de Shakespeare, aquí quedan cuatro.
+El destilado se lee en unas cincuenta páginas.
 
 ## Acto I, escena 1
 
