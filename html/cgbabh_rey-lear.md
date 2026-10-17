@@ -440,7 +440,15 @@ Bufón
 
 *«¿Es vuestro nombre Goneril?». «No puede negarlo», asiente Lear. «Perdone: la tomé por un taburete». A la otra hay que pararla: «¡deténganla! ¡Armas, espada, fuego! ¡Corrupción en el tribunal! ¿Por qué la dejó escapar, falso juez?». Kent lo mira con piedad: «¿dónde está ahora la paciencia que tantas veces se jactó de guardar?». A Edgar se le saltan las lágrimas y le estropean la actuación. Lear ve perritos que le ladran (Tray, Blanch y Sweetheart, todos) y pide la autopsia que nadie puede hacer: «que anatomícen a Regan, a ver qué se cría alrededor de ese corazón; ¿hay en la naturaleza causa que haga estos corazones duros?». Y al desnudo lo nombra de su cien: «usted, señor, lo tomo por uno de mis cien; solo que no me gusta la moda de sus prendas; dirá que son persas, pero que se las cambien».*
 
-*Al fin el sueño: «no hagan ruido, no hagan ruido; corran las cortinas; así, así; iremos a cenar por la mañana». «Y yo iré a acostarme al mediodía», responde el Bufón, y es su última copla en la obra. Gloucester vuelve con la alarma: ha oído una trama de muerte contra el rey; hay una litera lista; a Dover, donde hallarán bienvenida y protección; si se demoran media hora, su vida, y la de todos los que lo defiendan, está perdida. Kent lo toma en brazos: «la naturaleza oprimida duerme; este descanso aún podría haber curado tus nervios rotos». Al quedarse solo, Edgar hace la cuenta de la escena: cuando vemos a nuestros superiores cargar nuestras desgracias, apenas creemos que las miserias sean enemigas nuestras; qué liviano y portable es mi dolor ahora que lo que me dobla a mí dobla al rey: «él con hijos como yo con padre». Y se va: «Tom, afuera; atento a los ruidos altos; lo que pase más esta noche, que el rey se escape a salvo. Agazápate, agazápate».*
+*Al fin el sueño: «no hagan ruido, no hagan ruido; corran las cortinas; así, así; iremos a cenar por la mañana». «Y yo iré a acostarme al mediodía», responde el Bufón, y es su última copla en la obra. Gloucester vuelve con la alarma: ha oído una trama de muerte contra el rey; hay una litera lista; a Dover, donde hallarán bienvenida y protección; si se demoran media hora, su vida, y la de todos los que lo defiendan, está perdida. Gloucester pregunta dónde está el rey su señor, y Kent señala al que duerme:*
+
+> Here, sir, but trouble him not; his wits are gone.
+
+Aquí, señor, pero no lo turbéis; sus sesos se han ido.
+
+Kent
+
+*Lo toman en brazos («la naturaleza oprimida duerme; este descanso aún podría haber curado tus nervios rotos») y lo suben a la litera. Al quedarse solo, Edgar hace la cuenta de la escena: cuando vemos a nuestros superiores cargar nuestras desgracias, apenas creemos que las miserias sean enemigas nuestras; qué liviano y portable es mi dolor ahora que lo que me dobla a mí dobla al rey: «él con hijos como yo con padre». Y se va: «Tom, afuera; atento a los ruidos altos; lo que pase más esta noche, que el rey se escape a salvo. Agazápate, agazápate».*
 
 ---
 
