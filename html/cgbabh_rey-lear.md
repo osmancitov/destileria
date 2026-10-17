@@ -694,4 +694,122 @@ Mi punto y mi fin serán cumplidos del todo, bien o mal, según se libre la bata
 
 Kent
 
+---
+
+## Acto V, escena 1
+
+*En el campamento británico, cerca de Dover. Edmund despacha a un oficial: que le pregunten al duque si su último propósito se mantiene o si algo lo ha aconsejado a cambiar de curso («está lleno de alteración y de reprenderse a sí mismo»). Regan tiene su propio parte: el hombre de nuestra hermana se ha perdido por el camino. Y luego va a lo suyo: «ahora, dulce señor: conoces la bondad que te destino; dime con verdad: ¿no amas a mi hermana?». «Con amor honrado». «¿Nunca hallaste el camino de mi hermano al lugar vedado?». «Ese pensamiento os injuria». Ella no se queda tranquila, y lo pide llano:*
+
+> Dear my lord, Be not familiar with her.
+
+Mi querido señor, no seáis familiar con ella.
+
+Regan
+
+*«No la soportaré nunca: querido señor, no seas familiar con ella». «No temáis». Goneril, que llega con Albany, lo piensa aparte: «prefiero perder la batalla a que esa hermana nos suelte a él y a mí». Albany expone su caso con nobleza incómoda: pelea porque Francia invade su tierra, no porque enarbole al rey, del que le pesan las causas justas y graves. «Hablas noblemente», dice Edmund. «¿Por qué se razona esto?», corta Regan; y Goneril: uníos contra el enemigo, que estos pleitos domésticos y particulares no son la cuestión. Regan quiere a Goneril lejos de Edmund («¿vienes con nosotros?». «No». «Es lo más conveniente; os lo ruego». «Oho, ya entiendo la adivinanza: iré»).*
+
+*Un caballero encapuchado detiene a Albany: si alguna vez su gracia habló con hombre tan pobre, que lo oiga una palabra. Es Edgar, sin nombre todavía: «antes de pelear la batalla, abra esta carta; si tiene victoria, que la trompeta llame al que la trajo; por miserable que parezca, puedo producir un campeón que probará lo que ahí se asevera». Albany quiere retenerlo mientras lee; no puede:*
+
+> When time shall serve, let but the herald cry And I’ll appear again.
+
+Cuando el tiempo sirva, que solo grite el heraldo y apareceré de nuevo.
+
+Edgar
+
+*«Cuando el tiempo sirva, que el heraldo grite, y yo apareceré de nuevo». Edmund vuelve con el parte del enemigo («saquen sus fuerzas; aquí está el cálculo de su verdadera potencia, por diligente descubrimiento»), y, solo, hace su inventario: a ambas hermanas les ha jurado amor, celosa cada una de la otra como los picados de la víbora; ¿cuál tomar? ¿Ambas? ¿Una? ¿Ninguna? Ninguna puede gozarse si ambas quedan vivas; tomar a la viuda enfurece y enloquece a Goneril, y con su marido vivo difícilmente sacará adelante su bando. Y decide el uso de todos:*
+
+> Now, then, we’ll use His countenance for the battle, which, being done, Let her who would be rid of him devise His speedy taking off.
+
+Ahora, pues, usaremos su apoyo para la batalla, la cual, una vez hecha, que la que quiera librarse de él maquine su pronta eliminación.
+
+Edmund
+
+*«Usaremos su rostro para la batalla; hecha esta, que la que querría librarse de él trame su pronta muerte». En cuanto a la misericordia que Albany piensa tener con Lear y con Cordelia: terminada la batalla y teniéndolos en su poder, nunca verán su perdón, «porque mi estado está sobre mí para defenderlo, no para debatirlo».*
+
+---
+
+## Acto V, escena 2
+
+*Edgar deja a su padre a la sombra de un árbol («toma la sombra de este árbol por tu buen hospedaje; ruega que el derecho prospere; si vuelvo otra vez, te traeré consuelo»). «La gracia vaya con vos, señor». Vuelve al poco, corriendo, con la batalla perdida: «fuera, viejo»:*
+
+> Give me thy hand.
+
+Dame la mano.
+
+Edgar
+
+*«El rey Lear ha perdido; él y su hija, presos. Vamos». «No más lejos, señor: un hombre puede pudrirse incluso aquí». «¿Otra vez en malos pensamientos? Los hombres deben aguantar su irse de aquí igual que su venir: la madurez es todo. Vamos». «Y eso también es verdad».*
+
+---
+
+## Acto V, escena 3
+
+*Los prisioneros salen bajo buena guardia, hasta que se conozcan los placeres mayores de quienes han de juzgarlos. Cordelia se consuela en alto: «no somos los primeros que, con la mejor intención, incurren en lo peor; por ti, rey oprimido, estoy abatida; por mí, podría desafiar el ceño de la falsa Fortuna». ¿No veremos a esas hijas, a esas hermanas? «No, no, no, no. Ven, vayámonos a la prisión»: los dos solos cantarán como pájaros en la jaula:*
+
+> When thou dost ask me blessing, I’ll kneel down And ask of thee forgiveness.
+
+Cuando tú me pidas la bendición, me arrodillaré y te pediré perdón.
+
+Lear
+
+*«Cuando tú me pidas la bendición, yo me arrodillaré y te pediré perdón». Así vivirán: rezar, cantar, contar cuentos viejos, reírse de las mariposas doradas, oír a los pícaros hablar de las nuevas de la corte (quién pierde y quién gana, quién está dentro y quién fuera) y tomar sobre sí el misterio de las cosas, como si fueran espías de Dios. «Sobre tales sacrificios, Cordelia mía, los dioses mismos echan incienso. ¿Te tengo? Quien nos separe traerá un tizón del cielo y nos ahumará como a zorros. Enjúgate los ojos: los años buenos los devorarán, carne y pellejo, antes de que nos hagan llorar». Edmund, en voz baja, da al capitán su nota: que los siga a la prisión; los hombres son como el tiempo; el ánimo tierno no le sienta a una espada; que escriba «feliz» cuando lo haya hecho. «No sé tirar de un carro ni comer avena seca, pero si es trabajo de hombre, lo haré».*
+
+*Albany reclama los prisioneros («usarlos como sus méritos y nuestra seguridad determinen») y le baja los humos a Edmund: «lo tengo por súbdito de esta guerra, no por hermano». Regan se lo disputa («llevó la comisión de mi lugar y mi persona; eso bien puede llamarse hermano suyo») y se lo entrega todo: «toma mis soldados, prisioneros, patrimonio; sea el mundo testigo de que aquí te creo mi señor y mi dueño». «¿Piensas gozarlo?», escupe Goneril. Albany toma la palabra y la cambia por arresto: «Edmund, te arresto por traición capital; y, en tu mácula, a esta serpiente dorada. Por tu demanda, bella hermana, la prohíbo en interés de mi esposa: ella está subcontratada a este lord, y yo, su marido, contradigo vuestras amonestaciones». «¡Un entremés!». Albany tira la prenda: que suene la trompeta; si nadie aparece a probar sobre su persona sus traiciones atroces y manifiestas, él lo hará sobre su corazón antes de probar el pan. Regan se retuerce («enferma, oh, enferma»; Goneril, aparte: «si no, no volveré a fiarme de la medicina»). La trompeta suena tres veces, y al tercer toque entra un caballero armado: «sabed que mi nombre está perdido, roído en limpio por el diente de la traición; pero soy tan noble como el adversario a quien vengo a afrontar». Y reta:*
+
+> Say thou “no,” This sword, this arm, and my best spirits are bent To prove upon thy heart, whereto I speak, Thou liest.
+
+Di "no": esta espada, este brazo y mis mejores bríos están inclinados a probar sobre tu corazón, a lo cual hablo, que mientes.
+
+Edgar
+
+*«Esta espada, este brazo y mis mejores espíritus están dispuestos a probar sobre tu corazón que mientes»: traidor falso a tus dioses, a tu hermano y a tu padre; desde lo más alto de tu cabeza hasta el polvo bajo tu pie, un traidor moteado de sapo. Edmund devuelve el reto («devuelvo estas traiciones a tu cabeza; mi espada les abrirá paso instantáneo, donde reposarán para siempre»), hablan las trompetas, y Edmund cae. Goneril grita ardid («por la ley de la guerra no estabas obligado a responder a un contrario desconocido; no estás vencido: estás embaucado y engañado»), y Albany le tapa la boca con el papel: «tú, peor que cualquier nombre, lee tu propio mal. ¿Conoces este papel?». «No me preguntes lo que sé; las leyes son mías, no tuyas; ¿quién puede procesarme por ello?». Sale, desesperada. Edmund, herido, confiesa: «lo que me has imputado, eso he hecho, y más, mucho más; ha pasado, y yo también. Pero ¿qué eres tú, que tienes esta fortuna sobre mí? Si eres noble, te perdono». Edgar se da a conocer: «intercambiemos caridad: no soy menos en sangre que tú, Edmund; si más, más me has agraviado. Mi nombre es Edgar, hijo de tu padre. Los dioses son justos, y de nuestros vicios placenteros hacen instrumentos para plagarnos: el lugar oscuro y vicioso donde te engendró le costó a él los ojos». «Has dicho la verdad: la rueda ha dado la vuelta entera; estoy aquí».*
+
+*Albany lo abraza («que el dolor me parta el corazón si alguna vez te odié a ti o a tu padre») y pide la historia. Edgar la cuenta breve: huyendo de la proclama sangrienta («¡oh, dulzura de nuestras vidas, que por el dolor de la muerte morimos a cada hora antes que morir de una vez!») se cambió a harapos de loco, un semblante que los perros mismos desdeñaban; en ese hábito encontró a su padre, con sus anillos sangrantes de piedras recién perdidas; se hizo su guía, mendigó por él, lo salvó de la desesperación, y nunca se le reveló hasta hace media hora, ya armado, cuando le pidió la bendición y le contó la peregrinación de principio a fin: «su corazón defectuoso, demasiado débil para sostener el conflicto entre dos extremos de pasión, gozo y pena, reventó sonriendo». Y mientras él clamaba, llegó un hombre que lo había visto en su peor estado, le echó los brazos fuertes al cuello y bramó como para reventar el cielo, contando el cuento más lastimoso de Lear y de sí mismo que oreja recibió jamás: Kent, el desterrado Kent, que disfrazado siguió a su rey enemigo y le hizo servicios impropios de un esclavo. A Edmund le llega:*
+
+> This speech of yours hath moved me, And shall perchance do good.
+
+Este vuestro discurso me ha conmovido, y quizá haga bien.
+
+Edmund
+
+*«Vuestro discurso me ha movido, y quizá haga bien». Pero no hay tiempo: entra un caballero pidiendo ayuda, con un cuchillo que echa humo («viene del corazón de... ¡oh, está muerta!»): la señora de Albany, y su hermana envenenada junto a ella; lo ha confesado. «Yo estaba contratado con ambas: las tres nos casamos ahora en un instante». Traigan los cuerpos. Llega Kent, viejo y cansado: «vengo a darle a mi rey y señor las buenas noches para siempre». «¡Gran cosa de nosotros olvidada! ¿Dónde está el rey? ¿Y Cordelia?». «Sin embargo, Edmund fue amado», dice el moribundo: una envenenó a la otra por él, y luego se mató. «Cúbranles las caras». Edmund jadea por la vida, y quiere una última cosa:*
+
+> Some good I mean to do Despite of mine own nature.
+
+Algún bien pretendo hacer a despecho de mi propia naturaleza.
+
+Edmund
+
+*«Algún bien quiero hacer, a pesar de mi propia naturaleza»: que corran al castillo, en breve, porque su orden pesa sobre la vida de Lear y de Cordelia; que lleven su espada al capitán como señal de indulto. El encargo era: «tiene comisión de tu mujer y mía para ahorcar a Cordelia en la prisión y echarle la culpa a su propia desesperación». «¡Que los dioses la defiendan! ¡Corred, corred, oh, corred!».*
+
+*Tarde. Entra Lear con Cordelia en brazos: «¡aúllen, aúllen, aúllen! ¡Oh, son hombres de piedra! Si tuviera vuestras lenguas y vuestros ojos, los usaría de modo que la bóveda del cielo se agrietara. Se fue para siempre. Yo sé cuándo alguien está muerto y cuándo vive: está muerta como la tierra». Pide un espejo («si su aliento empaña o mancha la piedra, entonces vive»), luego una pluma: «esta pluma se mueve: ¡vive! Si es así, es una suerte que redime todas las penas que he sentido jamás». Kent se le acerca («¿es este el fin prometido?»; «¿o imagen de ese horror?», añade Edgar; «cae y acaba», dice Albany), y Lear lo espanta: «quítate. Una peste sobre vosotros, asesinos, traidores todos. Yo la habría salvado. Cordelia, Cordelia, quédate un poco. ¿Qué es lo que dices? Su voz fue siempre suave, gentil y baja, una cosa excelente en una mujer. Maté al esclavo que te estaba ahorcando».*
+
+*Kent se nombra por fin, y lo hace con una sentencia:*
+
+> If Fortune brag of two she loved and hated, One of them we behold.
+
+Si la Fortuna se jacta de dos a quienes amó y odió, a uno de ellos lo contemplamos.
+
+Kent
+
+*«¿No eres Kent?». «El mismo: tu servidor Kent». «¿Dónde está tu servidor Cayo?». «Ha muerto y se ha pudrido». «No, mi buen señor: soy el mismísimo hombre que desde tu primera diferencia y decadencia ha seguido tus tristes pasos». «Todo sombrío, oscuro y mortal: tus hijas mayores se han quitado la vida». Lear ya no entiende («sí, eso creo»). Un mensajero: Edmund ha muerto. «No es más que una bagatela aquí». Albany empieza a repartir el reino («durante la vida de esta vieja Majestad, le resigno nuestro poder absoluto; todos los amigos probarán el salario de su virtud, y todos los enemigos la copa de sus merecimientos»), y entonces: «¡oh, miren, miren!».*
+
+*«Y mi pobre bufón está ahorcado. ¿No, no, ninguna vida? ¿Por qué han de tener vida un perro, un caballo, una rata, y tú ningún aliento? No vendrás más: nunca, nunca, nunca, nunca, nunca. Os ruego, desabrochen este botón. Gracias, señor. ¿Ven esto? Mírenla, miren, sus labios: ¡miren allí, miren allí!». Se desmaya, vuelve en sí un instante, y Kent reza por el final:*
+
+> Vex not his ghost.
+
+No atormentéis su fantasma.
+
+Kent
+
+*«No molestéis su espíritu: ¡oh, dejen que pase! Odia al que quisiera estirarlo más tiempo sobre el potro de este mundo duro». «Se ha ido, en verdad». «Maravilla es que haya aguantado tanto: no hacía más que usurpar su vida». Albany reparte: «amigos de mi alma: ustedes dos, gobiernen este reino y sostengan el estado corneado». Kent se despide: «tengo un viaje, señor, que hacer en breve; mi amo me llama; no puedo decir que no». Y Edgar cierra la obra:*
+
+> The weight of this sad time we must obey, Speak what we feel, not what we ought to say.
+
+El peso de este triste tiempo debemos obedecer, hablar lo que sentimos, no lo que deberíamos decir.
+
+Edgar
+
+*«El más viejo ha cargado más; nosotros, los jóvenes, no veremos tanto ni viviremos tanto».*
+
 Osmancito, con la asistencia de Instinct
