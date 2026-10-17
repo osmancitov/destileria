@@ -6,9 +6,9 @@
 
 William Shakespeare
 
-Hacia 1605-1606, William Shakespeare escribió *King Lear*, una de sus grandes tragedias: un rey viejo, cansado de gobernar, reparte su reino entre sus tres hijas según el amor que cada una diga tenerle, y deshereda a la menor, la única que se niega a mentir. La obra completa, destilada escena por escena: las mejores frases, escogidas una a una.
+Hacia 1605-1606, William Shakespeare escribió *King Lear*, una de sus grandes tragedias: un rey viejo, cansado de gobernar, reparte su reino entre sus tres hijas según el amor que cada una diga tenerle, y deshereda a la menor, la única que se niega a mentir.
 
-El destilado se lee en unas cincuenta páginas.
+La obra completa, destilada en cincuenta páginas.
 
 ## Acto I, escena 1
 
