@@ -1630,6 +1630,90 @@ Yogananda
 
 Yogananda
 
+## Capítulo 22: El corazón de una imagen de piedra
+
+*Su hermana mayor Roma lo miraba suplicante en su casa de Calcuta: «como leal esposa hindú no quiero quejarme de mi marido, pero anhelo verlo apartarse de sus puntos de vista materialistas; se deleita ridiculizando las imágenes de los santos en mi cuarto de meditación. Querido hermano, tengo la profunda fe de que puedes ayudarlo. ¿Lo harás?». La súplica lo conmovió: Roma había ejercido una profunda influencia espiritual sobre su vida temprana y había intentado llenar con amor el vacío que dejó la muerte de la madre. Tras un rato de oración silenciosa, una inspiración lo tomó: «mañana voy al templo de Dakshineswar; ven conmigo y persuade a tu marido de acompañarnos, pero no le reveles nuestro propósito». Muy temprano a la mañana siguiente, mientras el coche de alquiler traqueteaba hacia Dakshineswar, su cuñado Satish Chandra Bose se divertía ridiculizando a los gurús espirituales del pasado, del presente y del futuro; Roma lloraba en silencio. «Hermana, ¡anímate!, le susurró. No le des a tu marido la satisfacción de creer que tomamos en serio sus burlas». Ya en el recinto, Satish le exigió con tono amenazante ocuparse del almuerzo: «voy a meditar ahora; no te preocupes por tu comida, respondió él tajante. La Madre Divina se ocupará de ella». Solo, en el pórtico de columnas frente al gran templo de Kali, dispuso su cuerpo en postura de loto y concentró su mente en la diosa cuya imagen de Dakshineswar había sido el objeto especial de adoración del gran maestro Sri Ramakrishna Paramhansa:*
+
+> In answer to his anguished demands, the stone image of this very temple had often taken a living form and conversed with him.
+
+«En respuesta a sus angustiadas demandas, la imagen de piedra de este mismo templo había tomado muchas veces forma viviente y conversado con él».
+
+Yogananda
+
+*«Madre silenciosa de corazón pétreo, oró, tú te llenaste de vida ante la petición de tu amado devoto Ramakrishna; ¿por qué no atiendes también los lamentos de este hijo tuyo que anhela?». Pasaron cinco horas sin respuesta y se sintió algo descorazonado: a veces Dios demora el cumplimiento de las plegarias como prueba, pero al final aparece al devoto persistente en la forma que este aprecia. Cuando por fin abrió los ojos, un sacerdote cerraba las puertas del templo según la costumbre del mediodía, y el suelo de piedra del patio abrasaba sus pies descalzos bajo el sol:*
+
+> “Divine Mother,” I silently remonstrated, “Thou didst not come to me in vision, and now Thou art hidden in the temple behind closed doors.
+
+«"Madre Divina, reproché en silencio, no viniste a mí en visión, y ahora estás oculta en el templo tras las puertas cerradas"».
+
+Yogananda
+
+*Su petición interior fue reconocida al instante: primero una deliciosa ola fría le descendió por la espalda y bajo los pies, desterrando toda incomodidad; luego, para su asombro, el templo se magnificó enormemente y su gran puerta se abrió despacio, revelando la figura de piedra de la diosa Kali, que se trocó gradualmente en una forma viviente que asentía sonriente en saludo, colmándolo de un gozo indescriptible. Como por una jeringa mística, el aliento le fue retirado de los pulmones; podía ver con claridad varias millas sobre el Ganges y, a través de las paredes de todos los edificios, que brillaban transparentes, a la gente caminando por acres distantes:*
+
+> An ecstatic enlargement of consciousness followed.
+
+«Siguió un extático ensanchamiento de la conciencia».
+
+Yogananda
+
+*Tras los muros del templo divisó de pronto a su cuñado, sentado bajo las ramas espinosas de un árbol bel sagrado, y pudo discernir sin esfuerzo el curso de sus pensamientos. Se volvió directamente hacia la forma bondadosa de la diosa: «Madre Divina, ¿no cambiarás espiritualmente al esposo de mi hermana?»:*
+
+> The beautiful figure, hitherto silent, spoke at last: “Thy wish is granted!”
+
+«La hermosa figura, hasta entonces silenciosa, habló al fin: "¡tu deseo está concedido!"».
+
+Yogananda
+
+*Miró feliz a Satish, que, como si intuyera instintivamente que algún poder espiritual actuaba, se levantó resentido de su asiento en el suelo y vino corriendo por detrás del templo agitando el puño. La visión abarcadora desapareció; el cuerpo volvió a sofocarse bajo los rayos feroces del sol:*
+
+> It was one o’clock; the divine vision had lasted an hour.
+
+«Era la una; la visión divina había durado una hora».
+
+Yogananda
+
+*«Pequeño tonto, le soltó el cuñado, llevas seis horas ahí sentado, con las piernas cruzadas y los ojos bizcos; he ido y venido observándote. ¿Dónde está mi comida? El templo está cerrado y nos hemos quedado sin almuerzo». La exaltación por la presencia de la diosa aún vibraba en su corazón:*
+
+> I was emboldened to exclaim, “Divine Mother will feed us!”
+
+«Me envalentoné para exclamar: "¡la Madre Divina nos alimentará!"».
+
+Yogananda
+
+*Satish, fuera de sí de rabia, gritó: «¡de una vez por todas, quiero ver a tu Madre Divina darnos de comer aquí sin arreglos previos!». Apenas pronunciadas esas palabras, un sacerdote del templo cruzó el patio y se les unió:*
+
+> “Son,” he addressed me, “I have been observing your face serenely glowing during hours of meditation.
+
+«"Hijo, me dijo, he estado observando tu rostro serenamente radiante durante horas de meditación"».
+
+Yogananda
+
+*«Vi la llegada de tu grupo esta mañana y sentí el deseo de reservar comida abundante para su almuerzo; va contra las reglas del templo alimentar a quien no lo pide de antemano, pero he hecho una excepción por ti». Satish enrojeció de emoción y bajó la mirada en silencioso arrepentimiento; ante el opulento banquete, con mangos fuera de temporada, su apetito fue escaso. En el regreso a Calcuta no pronunció una sola palabra. A la tarde siguiente, Roma recibió a su hermano con un milagro que contar: la noche anterior su marido había llorado abiertamente ante ella, feliz de que aquel «plan reformador» hubiera obrado una transformación; desde esa noche usarían el dormitorio grande solo como lugar de culto, y él se castigaría no hablándole a Mukunda hasta haber progresado en el camino espiritual:*
+
+> Deeply I will seek the Divine Mother from now on; someday I must surely find Her!”’
+
+«Buscaré profundamente a la Madre Divina desde ahora; ¡algún día debo encontrarla!».
+
+Yogananda
+
+*Años después, visitando a su cuñado en Delhi:*
+
+> I was overjoyed to perceive that he had developed highly in self-realization, and had been blessed by the vision of Divine Mother.
+
+«Me llenó de alegría comprobar que había alcanzado un alto grado de autorrealización y había sido bendecido con la visión de la Madre Divina».
+
+Yogananda
+
+*Satish pasaba en secreto la mayor parte de cada noche en meditación divina, aunque sufría una afección seria y trabajaba de día en su oficina. Un día Roma leyó el pensamiento de su hermano: «yo estoy bien y mi marido está enfermo; sin embargo, quiero que sepas que, como devota esposa hindú, yo seré la primera en morir»:*
+
+> It won’t be long now before I pass on.”
+
+«No pasará mucho tiempo antes de que yo parta».
+
+Yogananda
+
+*Estaba en América cuando su hermana murió, como un año después de su predicción. Su hermano menor Bishnu le contó los detalles: aquella mañana Roma se vistió con su atavío nupcial («este es mi último día de servicio a ti en la tierra») y, poco después, presa de un ataque al corazón, detuvo a su hijo, que corría en busca de ayuda: «hijo, no me dejes; es inútil: me habré ido antes de que llegue un médico». Diez minutos después, sosteniendo los pies de su esposo en reverencia, Roma abandonó conscientemente su cuerpo, feliz y sin sufrimiento. Satish se volvió muy recluido tras la muerte de su esposa; un día, mirando con Bishnu una gran fotografía sonriente de Roma, exclamó como si ella estuviera presente: «¿de qué te ríes? ¿Crees que fuiste astuta al arreglar irte antes que yo? Probaré que no puedes permanecer lejos de mí por mucho tiempo; pronto me reuniré contigo». Aunque por entonces gozaba de excelente salud, murió sin causa aparente poco después de aquella extraña frase. Así, proféticamente, pasaron la querida hermana Roma y su esposo Satish, el que cambió en Dakshineswar de hombre mundano ordinario a santo silencioso.*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
