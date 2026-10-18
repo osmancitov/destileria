@@ -519,6 +519,43 @@ El Swami Tigre
 
 El Swami Tigre
 
+
+## Capítulo 7: El santo levitante
+
+*Un amigo le contó haber visto a un yogi flotar en el aire durante una reunión nocturna; el muchacho adivinó el nombre: Bhaduri Mahasaya, que vivía cerca de su casa y al que visitaba a menudo. El santo llevaba veinte años sin salir de su clausura, dominaba los pranayamas con tal fuerza que una vez pareció levantar una tormenta en la habitación, y luego quedaba en la calma vívida de la superconciencia. Bhaduri lo recibía con libertad («que Mukunda venga cuando quiera»), porque los mundanos no aprecian la franqueza que rompe sus ilusiones:*
+
+> His own face was always serious, yet touched with an ecstatic smile.
+
+«Su rostro era siempre serio, aunque tocado por una sonrisa extática».
+
+Yogananda
+
+*Le dio un consejo que llevaba una profecía escondida: le habló de sus corresponsales de la lejana América, que redescubrían la India «con mejor sentido de la orientación que Colón», y le dijo que lo esencial para la salvación humana no debía diluirse para Occidente:*
+
+> I did not realize that his speech was a veiled prophetic guidance.
+
+«No me di cuenta de que sus palabras eran una guía profética velada».
+
+Yogananda
+
+*Solo al escribir estas líneas, años después, entiende que el santo le anunciaba que llevaría las enseñanzas de la India a América. En las reuniones vespertinas, Bhaduri hablaba de la princesa Mirabai, que abandonó su corte por los sadhus y respondió al sannyasi que la rechazaba por mujer: «Dile al maestro que yo no sabía que hubiera otro Macho en el universo fuera de Dios; ¿no somos todos hembras ante Él?». Un estudiante, despediéndose, se arrodilló admirado:*
+
+> “Master, you are wonderful!”
+
+«¡Maestro, usted es maravilloso!».
+
+Un estudiante
+
+*Le alababa haber renunciado a las riquezas y comodidades por buscar a Dios. El santo lo corrigió con una sonrisa: estaba invirtiendo los términos.*
+
+> I have left a few paltry rupees, a few petty pleasures, for a cosmic empire of endless bliss.
+
+«He dejado unas pocas rupias miserables, unos pocos placeres mezquinos, por un imperio cósmico de dicha infinita».
+
+Bhaduri Mahasaya
+
+*¿Qué sacrificio hay en eso? Los verdaderos renunciantes, cerró, son los mundanos: cambian una posesión divina sin par por un puñado de juguetes terrenales. Años después, antes de embarcar a América, el joven se arrodilló ante él por la bendición de despedida: «Hijo, ve a América; toma por escudo la dignidad de la antiquísima India; la victoria está escrita en tu frente».*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
