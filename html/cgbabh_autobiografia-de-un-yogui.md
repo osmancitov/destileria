@@ -1218,6 +1218,90 @@ Un estudiante
 
 Yogananda
 
+## Capítulo 16: Cómo burlar a los astros
+
+*«Mukunda, ¿por qué no te consigues un brazalete astrológico?». «¿Debería, maestro? No creo en la astrología». La respuesta fue toda una lección: no se trata de creer; la única actitud científica ante cualquier tema es preguntarse si es verdadero. La ley de la gravitación funcionaba con la misma eficiencia antes de Newton que después de él; el cosmos sería un caos si sus leyes necesitaran la sanción de la creencia humana. Los charlatanes han desacreditado la ciencia estelar, pero no hay que desechar la sabiduría por culpa de los «sabios»:*
+
+> The balanced rhythm of the universe is rooted in reciprocity,” my guru continued.
+
+«El ritmo equilibrado del universo se enraíza en la reciprocidad», prosiguió mi gurú.
+
+Sri Yukteswar
+
+*El hombre combate dos fuerzas: los tumultos internos de los elementos y los poderes desintegradores de la naturaleza. La astrología estudia la respuesta del hombre a los estímulos planetarios: las estrellas no tienen benevolencia ni animosidad, solo envían radiaciones que sirven de cauce al equilibrio de causa y efecto que cada quien puso en marcha en el pasado. Un niño nace el día y la hora en que los rayos celestes están en armonía matemática con su karma; el mensaje de los cielos no enfatiza el destino, sino que incita a la voluntad a escapar de la servidumbre: lo que él ha hecho, puede deshacerlo. El sabio derrota a sus planetas, es decir a su pasado, trasladando su lealtad de la creación al Creador.*
+
+> I ventured this question after a long silence, during which I had tried to assimilate Sri Yukteswar’s noble exposition.
+
+«Aventuré esta pregunta tras un largo silencio, durante el cual había intentado asimilar la noble exposición de Sri Yukteswar».
+
+Yogananda
+
+*La respuesta: solo el viajero que ha llegado a la meta puede desechar sus mapas; durante el viaje aprovecha cualquier atajo conveniente. Los antiguos rishis descubrieron que los metales puros, ciertas plantas y sobre todo las joyas sin defecto de dos quilates o más emiten una luz astral que contrarresta los tirones negativos de los planetas, siempre que se lleven pegadas a la piel. Para fines generales aconsejaba un brazalete de oro, plata y cobre; pero para él, uno de plata y plomo:*
+
+> “The stars are about to take an unfriendly interest in you, Mukunda.
+
+«Los astros están a punto de tomar un interés hostil en ti, Mukunda».
+
+Sri Yukteswar
+
+*«No temas; estarás protegido. En un mes tu hígado te causará muchos problemas. La enfermedad está prevista para seis meses, pero tu brazalete astrológico reducirá el período a veinticuatro días». Buscó un joyero al día siguiente:*
+
+> My health was excellent; Master’s prediction slipped from my mind.
+
+«Mi salud era excelente; la predicción del maestro se me borró de la mente».
+
+Yogananda
+
+*Treinta días después de la conversación, un dolor súbito en la región del hígado. Las semanas siguientes fueron una pesadilla de dolor atroz; decidió soportar la prueba solo, sin molestar al gurú, que había ido a Benarés, pero a los veintitrés días de tortura flaqueó y tomó el tren. El maestro lo recibió con calidez inusual, pero no le dio ocasión de contarle sus penas a solas; enfermo y desatendido, esperó en un rincón hasta que el último visitante se marchó. Entonces el gurú lo llamó al balcón octogonal: «habrás venido por tu trastorno del hígado. Veamos: ¿llevas veinticuatro días enfermo, no?». «Sí, señor». «Haz el ejercicio estomacal que te enseñé». «Si supieras la magnitud de mi sufrimiento, no me lo pedirías». «Tú dices que tienes dolor; yo digo que no lo tienes. ¿Cómo pueden existir tales contradicciones?»:*
+
+> No longer could I feel the continuous torment that had kept me nearly sleepless for weeks; at Sri Yukteswar’s words the agony vanished as though it had never been.
+
+«Ya no podía sentir el tormento continuo que me había tenido casi sin dormir durante semanas; a las palabras de Sri Yukteswar, la agonía se desvaneció como si nunca hubiera existido».
+
+Yogananda
+
+*Quiso arrodillarse agradecido a sus pies, pero el maestro se lo impidió de inmediato: «no seas infantil; levántate y disfruta de la belleza de la luna sobre el Ganges»:*
+
+> But Master’s eyes were twinkling happily as I stood in silence beside him. I understood by his attitude that he wanted me to feel that not he, but God, had been the Healer.
+
+«Pero los ojos del maestro chispeaban alegres mientras yo permanecía en silencio a su lado. Comprendí por su actitud que quería que sintiera que no él, sino Dios, había sido el Sanador».
+
+Yogananda
+
+*Su prejuicio contra la astrología venía de la infancia, en parte por ver a tanta gente adherida a ella con servilismo y en parte por una predicción del astrólogo de la familia: «te casarás tres veces y serás dos veces viudo». El muchacho rumiaba el asunto sintiéndose como una cabra en espera del sacrificio ante el templo del triple matrimonio:*
+
+> “You may as well be resigned to your fate,” my brother Ananta had remarked.
+
+«Más te vale resignarte a tu destino», había comentado mi hermano Ananta.
+
+Ananta
+
+*Una noche le llegó la intuición clara de que la profecía era del todo falsa: prendío fuego al rollo del horóscopo y puso las cenizas en una bolsa de papel con una inscripción desafiante: «Las semillas del karma pasado no germinan si se tuestan en los fuegos divinos de la sabiduría». Tres veces su familia intentó concertar su matrimonio antes de su mayoría de edad y las tres se negó. El maestro ampliaba además su comprensión de las escrituras: ponía los textos sagrados sobre la mesa inmaculada de su mente y los disecaba con el bisturí del razonamiento intuitivo, separando errores e interpolaciones de eruditos de las verdades originales de los profetas. De una estrofa del Bhagavad Gita mal traducida por pundits orientales y traductores occidentales («fija la vista en la punta de la nariz»):*
+
+> “The path of a yogi is singular enough as it is,” he remarked.
+
+«El sendero de un yogui ya es bastante singular de por sí», observó.
+
+Sri Yukteswar
+
+*«¿Para qué aconsejarle que además se ponga bizco? Nasikagram significa "origen de la nariz", no "punta de la nariz": la nariz comienza en el punto entre las dos cejas, sede de la visión espiritual». Otro día, el muchacho se exasperó con la alegoría bíblica: ¡la historia de Adán y Eva me es incomprensible! ¿Por qué castigó Dios no solo a la pareja culpable, sino a las generaciones inocentes aún no nacidas?:*
+
+> Master was more amused by my vehemence than my ignorance.
+
+«El maestro se divertía más con mi vehemencia que con mi ignorancia».
+
+Yogananda
+
+*«El Génesis es hondamente simbólico y no puede captarse con una interpretación literal: su "árbol de la vida" es el cuerpo humano; la médula espinal es un árbol invertido con el cabello como raíces y los nervios como ramas; la "serpiente" es la energía espinal enroscada; "Adán" es la razón y "Eva" el sentimiento. Cuando el sentimiento sucumbe al impulso, la razón también cae». Y al terminar el discurso:*
+
+> As Sri Yukteswar ended his discourse, I glanced with new respect at the pages of Genesis.
+
+«Cuando Sri Yukteswar terminó su discurso, miré con nuevo respeto las páginas del Génesis».
+
+Yogananda
+
+*«Querido maestro, le dije: ¡por primera vez siento una debida obligación filial hacia Adán y Eva!».*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
