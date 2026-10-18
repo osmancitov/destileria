@@ -750,4 +750,206 @@ Un lord
 
 *Que algún ángel santo vuele a Inglaterra con el mensaje, para que una bendición veloz regrese a este sufrido país bajo una mano maldita. Última frase, del Lord: «Enviaré mis oraciones con él».*
 
+---
+
+## Acto IV, escena 1
+
+![Grabado en línea: en una caverna, tres brujas rodean el caldero hirviente mientras del vapor emergen una cabeza con casco, un niño ensangrentado y un niño coronado con una rama, y al fondo desfila una procesión de reyes.](img/cgbaaj_macbeth_i-18.jpg)
+
+*«Tres veces ha maullado el gato atigrado»: la primera frase abre el aquelarre. Alrededor del caldero: «Dad vueltas al caldero y echad las entrañas envenenadas»; sapo venenoso, ojo de tritón, pata de rana, lengua de perro, escama de dragón, hígado de judío blasfemo, nariz de turco, dedo de niño estrangulado al nacer. Y el estribillo: «Doble, doble, afán y desgracia; arde, fuego; burbujea, caldero». Hécate elogia el trabajo y se une al corro. Entonces: «Por el picor de mis pulgares, algo malvado viene hacia aquí». Es Macbeth: «¿Qué hacéis, brujas secretas, negras y de medianoche?». «Una acción sin nombre». Él las conjura: aunque desaten los vientos contra las iglesias, aunque el mar trague la navegación, respóndanle. ¿De sus bocas o de sus maestros? «Llámalos; déjame verlos». Primera aparición, una cabeza armada: «Guárdate de Macduff; guárdate del thane de Fife». Macbeth:*
+
+> Whate’er thou art, for thy good caution, thanks; Thou hast harp’d my fear aright.
+
+
+
+Seas lo que seas, gracias por tu buena advertencia; has tocado bien mi miedo.
+
+
+
+Macbeth
+
+*Segunda aparición, un niño sangriento:*
+
+> Be bloody, bold, and resolute.
+
+
+
+Sé sanguinario, audaz y resuelto.
+
+
+
+Aparición
+
+*«Ríete con desprecio del poder del hombre, pues ninguno nacido de mujer dañará a Macbeth». Entonces viva Macduff, ¿qué ha de temerle? «Pero aun así haré doblemente segura la seguridad y tomaré fianza al destino: no vivirás; para poder decirle al miedo de corazón pálido que miente, y dormir a pesar del trueno». Tercera aparición, un niño coronado con un árbol en la mano: «Macbeth nunca será vencido hasta que el gran bosque de Birnam venga contra él hasta la alta colina de Dunsinane». ¿Quién puede alistar al bosque, desclavar la raíz del árbol? Dulces augurios:*
+
+> Rebellious head, rise never till the wood Of Birnam rise, and our high-plac’d Macbeth Shall live the lease of nature, pay his breath To time and mortal custom.
+
+
+
+Cabeza rebelde, no te alces nunca hasta que se alce el bosque de Birnam; y nuestro altamente colocado Macbeth vivirá el plazo de la naturaleza y pagará su aliento al tiempo y a la costumbre mortal.
+
+
+
+Macbeth
+
+*«Y sin embargo, mi corazón late por saber una cosa: ¿reinará alguna vez en este reino la descendencia de Banquo?». «No busques saber más». Él insiste con maldiciones; el caldero se hunde; suena música; las brujas dicen «¡Muéstrenle!»: «Mostrad sus ojos y afligid su corazón; venid como sombras, y como sombras marchad». Ocho reyes desfilan, el último con un espejo que muestra muchos más, y algunos con globos dobles y cetros triples; «¿Cómo, se alargará la línea hasta el estallido del juicio final?». Y al final:*
+
+> —Now I see ’tis true; For the blood-bolter’d Banquo smiles upon me, And points at them for his.
+
+
+
+Ahora veo que es verdad; pues Banquo, apelmazado de sangre, me sonríe y los señala como suyos.
+
+
+
+Macbeth
+
+*Las brujas bailan su ronda grotesca y se desvanecen. «¡Que esta hora perniciosa quede siempre maldita en el calendario! ¡Infectado sea el aire en que cabalgan, y condenados todos los que se fían de ellas!». Entra Lennox con la noticia: Macduff ha huido a Inglaterra. Macbeth:*
+
+> Time, thou anticipat’st my dread exploits: The flighty purpose never is o’ertook Unless the deed go with it.
+
+
+
+Tiempo, tú te adelantas a mis hazañas terribles: el propósito fugaz nunca se alcanza si el acto no va con él.
+
+
+
+Macbeth
+
+*«Desde este momento, las primicias mismas de mi corazón serán las primicias de mi mano»: sorprenderá el castillo de Macduff, pasará a filo de espada a su esposa, a sus niños y a todas las almas de su linaje. Sin jactancias de tonto: lo hará antes de que se enfríe el propósito. Última frase: «Venid, llevadme adonde están».*
+
+---
+
+## Acto IV, escena 2
+
+![Grabado en línea: en el salón de su castillo, Lady Macduff abraza a sus hijos mientras los asesinos de Macbeth irrumpen por la puerta con las espadas en alto.](img/cgbaaj_macbeth_i-19.jpg)
+
+*En el castillo de Macduff, su mujer pregunta a Ross en la primera frase: «¿Qué había hecho para huir del país?». Ross pide paciencia. «Él no la tuvo: su huida fue locura; cuando nuestros actos no lo hacen, nuestros miedos nos vuelven traidores». ¿Sabiduría?*
+
+> to leave his wife, to leave his babes, His mansion, and his titles, in a place From whence himself does fly?
+
+
+
+¿Dejar a su esposa, dejar a sus hijos, su mansión y sus títulos en un lugar de donde él mismo huye?
+
+
+
+Lady Macduff
+
+*«No nos quiere: le falta el sentimiento natural; pues el pobre chochín, el más diminuto de los pájaros, peleará, con sus polluelos en el nido, contra el búho». Ross no puede quedarse: «crueles son los tiempos en que somos traidores y no nos conocemos; en que damos crédito al rumor por lo que tememos, sin saber qué tememos». Se va. Y viene el dúo más dulce y más frágil de la obra, la madre y su hijo:*
+
+> Sirrah, your father’s dead.
+
+
+
+Muchacho, tu padre ha muerto.
+
+
+
+Lady Macduff
+
+*«¿Y qué harás ahora? ¿Cómo vivirás?». «Como los pájaros, madre». «¿Qué harás tú por un marido?», devuelve el niño. «Pues puedo comprarme veinte en cualquier mercado». «Entonces los comprarás para venderlos otra vez». ¿Era su padre un traidor? Uno que jura y miente, dice ella; y todos los que juran y mienten deben ser ahorcados por los hombres honrados. El niño concluye: «Entonces los mentirosos y los que juran son necios, pues hay mentirosos y perjuros de sobra para vencer a los hombres honrados y ahorcarlos». Llega un mensajero, temblando:*
+
+> I doubt some danger does approach you nearly: If you will take a homely man’s advice, Be not found here; hence, with your little ones.
+
+
+
+Temo que algún peligro se os acerca mucho. Si queréis el consejo de un hombre sencillo, no os encontréis aquí; salid con vuestros pequeños.
+
+
+
+Mensajero
+
+*No se atreve a quedarse. «¿Adónde habría de huir?», dice ella; «no he hecho daño». «Pero recuerdo ahora que estoy en este mundo terrenal, donde hacer daño es a menudo laudable y hacer el bien se tiene a veces por necedad peligrosa». Entran los asesinos: ¿dónde está su marido? Traidor, dicen. El niño: «¡Mientes, villano de orejas peludas!». «¡Cómo, tú, huevo! ¡Renacuajo de la traición!». Y la última frase es del niño: «Me ha matado, madre. ¡Huye, te lo ruego!».*
+
+---
+
+## Acto IV, escena 3
+
+![Grabado en línea: en la campiña inglesa, junto a un bosque, Macduff se lleva el puño al pecho ante Malcolm y Ross, entre el dolor y el juramento de venganza.](img/cgbaaj_macbeth_i-20.jpg)
+
+*En Inglaterra. «Busquemos alguna sombra desolada y allí vaciemos llorando nuestros pechos tristes», propone Malcolm en la primera frase. «Mejor empuñemos firme la espada mortal y, como hombres de bien, defendamos nuestra patria caída», responde Macduff:*
+
+> Each new morn New widows howl, new orphans cry; new sorrows Strike heaven on the face, that it resounds As if it felt with Scotland, and yell’d out Like syllable of dolour.
+
+
+
+Cada nueva mañana aúllan nuevas viudas, gritan nuevos huérfanos; nuevos dolores golpean al cielo en la cara, y este resuena como si sintiera con Escocia y aullara la misma sílaba de dolor.
+
+
+
+Macduff
+
+*Pero Malcolm desconfía: este tirano fue tenido por honrado, Macduff lo quiso bien y aún no lo ha tocado; «soy joven; pero algo podríais ganar de él por medio mío; y es sabiduría ofrecer un cordero débil, pobre e inocente para aplacar a un dios airado». «No soy traicionero», dice Macduff. «He perdido mis esperanzas». Entonces Malcolm monta la prueba terrible: se declara peor que Macbeth —sin fondo en su lujuria, su avaricia pegaría más hondo que esa lujuria veraniega, y de las gracias regias (justicia, verdad, templanza, misericordia) no tiene ni el gusto: «No, si tuviera poder, derramaría la dulce leche de la concordia en el infierno, alborotaría la paz universal, confundiría toda unidad en la tierra». Y la sentencia:*
+
+> If such a one be fit to govern, speak: I am as I have spoken.
+
+
+
+Si uno así es apto para gobernar, hablad: soy como he dicho.
+
+
+
+Malcolm
+
+*«¿Apto para gobernar? No, ni para vivir». Y Macduff llora a su país:*
+
+> —O nation miserable, With an untitled tyrant bloody-scepter’d, When shalt thou see thy wholesome days again, Since that the truest issue of thy throne By his own interdiction stands accus’d, And does blaspheme his breed?
+
+
+
+Oh nación miserable, con un tirano sin título y de cetro sangriento, ¿cuándo volverás a ver tus días sanos, si el heredero más legítimo de tu trono se declara acusado por su propia boca y blasfema contra su estirpe?
+
+
+
+Macduff
+
+*Ahí termina la prueba: «Macduff, esta noble pasión, hija de la integridad, ha borrado de mi alma los negros escrúpulos». Todo era mentira sobre sí mismo: es virgen, nunca perjuró, no traicionaría ni al diablo con su compañero; «mi primer falso decir fue este contra mí mismo».*
+
+> What I am truly, Is thine and my poor country’s to command: Whither, indeed, before thy here-approach, Old Siward, with ten thousand warlike men, Already at a point, was setting forth.
+
+
+
+Lo que soy en verdad es tuyo y de mi pobre país para mandar; adonde, de hecho, antes de que tú llegaras, el viejo Siward, con diez mil hombres de guerra, ya a punto, se disponía a partir.
+
+
+
+Malcolm
+
+*«Cosas tan bienvenidas y tan mal venidas a la vez es difícil reconciliar», dice Macduff. Interludio: el rey de Inglaterra cura con el tacto la enfermedad llamada «el mal», «una obra muy milagrosa en este buen rey», y cuelga sobre su trono bendiciones que lo hablan lleno de gracia — el contrarretrato del tirano. Llega Ross. ¿Cómo va Escocia? «Ay, pobre país, casi con miedo de conocerse a sí mismo. No puede llamarse nuestra madre, sino nuestra tumba, donde nada, salvo quien nada sabe, se ve sonreír una vez». ¿Y su mujer? «Pues bien». ¿Y sus hijos? Bien también. «No seas avaro de tu habla: ¿cómo va?». Y Ross lo suelta: «Vuestro castillo ha sido sorprendido; vuestra esposa y vuestros hijos, salvajemente degollados».*
+
+> To relate the manner Were, on the quarry of these murder’d deer, To add the death of you.
+
+
+
+Contar el modo sería, sobre el montón de estos ciervos abatidos, añadir vuestra muerte.
+
+
+
+Ross
+
+*Malcolm: «Da palabras al dolor; la pena que no habla susurra al corazón sobrecargado y le manda romperse». Macduff: «¿Todos mis pequeños? ¿Cómo, todos mis lindos polluelos y su madre de un solo golpe feroz? ¡Oh, milano del infierno! ¿Todos?». «Disputa como un hombre», dice Malcolm. «Lo haré; pero también debo sentirlo como un hombre». «Consuélate: hagamos medicinas de nuestra gran venganza». «Él no tiene hijos». «Que el dolor se convierta en ira». Macduff:*
+
+> —But, gentle heavens, Cut short all intermission; front to front, Bring thou this fiend of Scotland and myself; Within my sword’s length set him; if he ’scape, Heaven forgive him too!
+
+
+
+Pero, gentiles cielos, cortad toda demora; frente a frente, traed a este demonio de Escocia y a mí; ponedlo a la distancia de mi espada; si escapa, ¡que el cielo lo perdone también!
+
+
+
+Macduff
+
+*«Esta música suena viril», dice Malcolm, y cierra la escena y el acto:*
+
+> Receive what cheer you may; The night is long that never finds the day.
+
+
+
+Recibid el ánimo que podáis: es larga la noche que nunca encuentra el día.
+
+
+
+Malcolm
+
 Osmancito, con la asistencia de Instinct
