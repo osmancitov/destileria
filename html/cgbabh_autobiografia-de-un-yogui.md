@@ -1447,6 +1447,8 @@ Afzal
 
 ## Capítulo 19: Mi maestro, estando en Calcuta, aparece en Serampore
 
+![El joven Yogananda, arrodillado en el cuarto de la pensión, toca los zapatos de Sri Yukteswar, que se materializa envuelto en una luz dorada deslumbrante](img/cgbabh_autobiografia-de-un-yogui_i-19.jpg)
+
 *Dijen Babu, su compañero de cuarto en la pensión Panthi, se confesaba asediado por dudas ateísticas, aunque lo atormentaba una sospecha: ¿no existirán posibilidades inexploradas del alma? ¿No pierde el hombre su destino verdadero si no las explora? Una tarde Yogananda lo llevó a la ermita, y en presencia del maestro recibió tal paz espiritual que pronto fue visitante constante. Ambos cursaban juntos la carrera en el Serampore College y caminaban al ashram al terminar las clases. Una tarde, Kanai les salió al paso con malas noticias: el maestro había sido llamado a Calcuta por una nota urgente. Al día siguiente llegó una postal: «saldré de Calcuta el miércoles por la mañana; recíbanme con Dijen en el tren de las nueve». El miércoles, a eso de las ocho y media, un mensaje telepático de Sri Yukteswar destelló insistente en la mente de Yogananda: «me he retrasado; no reciban el tren de las nueve». «¡Tú y tu intuición!, se burló Dijen, ya vestido para salir. Yo prefiero fiarme de la palabra escrita del maestro». Y se fue dando un portazo. El cuarto estaba algo oscuro; Yogananda se acercó a la ventana enrejada que daba a la calle. La escasa luz del sol creció de pronto hasta una brillantez intensa en la que la ventana se desvaneció por completo:*
 
 > Against this dazzling background appeared the clearly materialized figure of Sri Yukteswar!
