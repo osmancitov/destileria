@@ -430,6 +430,93 @@ Gandha Baba
 
 Yogananda
 
+
+## Capítulo 6: El Swami Tigre
+
+*Un amigo de la escuela, Chandi, consiguió la dirección del famoso Sohong Swami, que antes de ser monje peleaba tigres a puño limpio. Tras una larga espera (la ley no escrita de la India: el buscador de la verdad debe tener paciencia), entraron en su cuarto y se quedaron mudos ante su cuerpo titánico: bíceps como balones, ojos con algo de paloma y de tigre, y por toda ropa una piel de tigre en la cintura. ¿Cómo se somete a puñetazos a un bengalí real? «Ustedes ven tigres; yo veo gatitos», se rio él. El muchacho objetó que podría convencer a su subconsciente, pero no al tigre. La clave, explicó el swami, es que la mente empuña los músculos: el cuerpo lo fabrica y lo sostiene la mente. Y confesó su propio comienzo:*
+
+> My will was mighty, but my body was feeble.
+
+«Mi voluntad era poderosa, pero mi cuerpo era débil».
+
+El Swami Tigre
+
+> I have every reason to extol the compelling mental vigor which I found to be the real subduer of royal Bengals.
+
+«Tengo sobradas razones para ensalzar el vigor mental arrollador que resultó ser el verdadero domador de los bengalíes reales».
+
+El Swami Tigre
+
+*Cuando el muchacho preguntó si él también podría pelear tigres, el swami sonrió: sí, pero hay muchas clases de tigres, y algunos rondan las junglas de los deseos humanos; mejor vencer a esos merodeadores internos. Y contó su conversión. En la cumbre de la fama, la embriaguez del orgullo lo llevó a exhibirse en funciones públicas. Su padre le advirtió entonces que en la familia de la jungla había resentimiento contra él, y que un santo le había dejado una predicción ominosa: su próximo encuentro con un tigre le causaría heridas graves y seis meses de enfermedad mortal. El joven domador se rebeló:*
+
+> I beg you not to impose any command that I change my way of life.
+
+«Le ruego que no me imponga ninguna orden de cambiar mi modo de vida».
+
+El Swami Tigre, a su padre
+
+*La predicción, sin embargo, era explícita sobre lo que vendría después del castigo:*
+
+> He shall then forsake his former ways and become a monk.
+
+«Abandonará entonces su antigua vida y se hará monje».
+
+El santo, según el padre
+
+> I considered that Father had been the credulous victim of a deluded fanatic.
+
+«Pensé que mi padre había sido la víctima crédula de un fanático engañado».
+
+El Swami Tigre
+
+*Poco después viajó a Cooch Behar, donde la ciudad entera se alborotó con su visita:*
+
+> He must be an incarnation of the king of tigers himself!
+
+«¡Debe ser una encarnación del mismísimo rey de los tigres!».
+
+Los murmullos de la calle
+
+*El príncipe de Cooch Behar lo mandó buscar con carruaje y sombrilla, lo recibió en persona y le escupió la duda sarcástica: un bengalí de ciudad, criado a arroz blanco, solo pudo haber peleado con animales drogados de opio. Ante la pregunta de si era cierto que peleaba tigres salvajes a mano desnuda, la respuesta fue seca:*
+
+> It is quite true.
+
+«Es completamente cierto».
+
+El Swami Tigre
+
+*El príncipe lo desafió a pelear con Raja Begum, su tigre recién capturado: si lo aturdía, lo encadenaba y salía de la jaula por su pie, se lo regalaba con miles de rupias; si se negaba, lo proclamaría impostor en todo el estado. La semana previa, los aldeanos corrían versiones fantásticas: que Raja Begum era un espíritu maligno reencarnado, o la respuesta del Cielo Tigre a las plegarias de los animales humillados. El swami, filosófico sobre la cautela del príncipe, que no le permitió ver al tigre antes del combate:*
+
+> Whether the prince feared I might seek to hypnotize the beast, or secretly feed him opium, I know not!
+
+«Si el príncipe temía que yo intentara hipnotizar a la bestia o darle opio en secreto, ¡no lo sé!».
+
+El Swami Tigre
+
+*El día del combate, ante miles de espectadores aterrados, entró en la jaula semidesnudo. El tigre le destrozó la mano derecha de un zarpazo; él escondió los dedos sangrantes bajo la ropa y peleó con la izquierda hasta derrumbar a la bestia de un golpe final. «¡Como un gatito!», interpuso el muchacho, y el swami rio de gusto. Aún le abrió las fauces y metió la cabeza dentro, lo encadenó, y cuando el tigre traicionero rompió la cadena y se le echó encima, lo volvió a inmovilizar. La ciudad entró en fiesta, le llovieron monedas de oro y le regalaron a Raja Begum, pero:*
+
+> A spiritual change had entered my heart.
+
+«Un cambio espiritual había entrado en mi corazón».
+
+El Swami Tigre
+
+*Siguieron seis meses al borde de la muerte por envenenamiento de la sangre, como había predicho el santo. Al sanar, se lo confesó a su padre:*
+
+> I know now that my teacher is the holy man who gave the wise warning.
+
+«Ahora sé que mi maestro es el santo que dio la sabia advertencia».
+
+El Swami Tigre
+
+*Y un día el santo llegó sin anunciarse: «Basta de domar tigres; ven conmigo, te enseñaré a someter las bestias de la ignorancia que rondan las junglas de la mente humana. Estás acostumbrado a tener público: que sea una galaxia de ángeles». Lo inició en el camino espiritual:*
+
+> Hand in hand, we soon set out for my training in the Himalayas.
+
+«De la mano, partimos pronto hacia mi entrenamiento en los Himalayas».
+
+El Swami Tigre
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
