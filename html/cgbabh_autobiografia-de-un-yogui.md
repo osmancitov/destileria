@@ -1795,6 +1795,8 @@ Yogananda
 
 ## Capítulo 24: Me hago monje de la Orden de los Swamis
 
+![Sri Yukteswar ciñe la seda teñida de ocre alrededor de Mukunda, arrodillado con las manos juntas en el balcón de la ermita de Serampore](img/cgbabh_autobiografia-de-un-yogui_i-24.jpg)
+
 *«Maestro, mi padre ha estado ansioso por que acepte un puesto ejecutivo en el ferrocarril Bengal-Nagpur, pero lo he rechazado definitivamente»:*
 
 > I added hopefully, “Sir, will you not make me a monk of the Swami Order?” I looked pleadingly at my guru.
