@@ -603,6 +603,57 @@ J. C. Bose
 
 *Años después, en 1938, investigadores de la Universidad de Columbia confirmaron que las fibras de la planta nitella propagan ondas eléctricas idénticas a las de las fibras nerviosas de animales y hombres: la «piedra Rosetta» entre la mente y la materia que Bose ya había anunciado.*
 
+
+## Capítulo 9: El devoto dichoso y su romance cósmico
+
+*Entró en silencio en la habitación y el santo lo recibió sin volverse: «Siéntate, señorcito; estoy hablando con mi Madre Divina»:*
+
+> The angelic appearance of Master Mahasaya fairly dazzled me.
+
+«El aspecto angélico de Master Mahasaya me deslumbró por completo».
+
+Yogananda
+
+*El saludo del santo le produjo el efecto más violento de su vida: una agonía de separación de la Madre Divina peor que la muerte de su madre. Cayó al suelo gimiendo y se aferró a los pies del maestro pidiendo su intercesión:*
+
+> Beyond reach of doubt, I was convinced that Master Mahasaya was in intimate converse with the Universal Mother.
+
+«Estaba convencido, fuera de toda duda, de que Master Mahasaya conversaba íntimamente con la Madre Universal».
+
+Yogananda
+
+*El santo accedió a transmitir su ruego. Esa noche, meditando en su buhardilla, el muchacho tuvo la visión: la Madre Divina ante él, en esplendor: «Siempre te he amado. Siempre te amaré». A la mañana siguiente volvió muy temprano por la respuesta, y el maestro, que no había salido de su cuarto, sonrió: «¿Podría yo añadir una sola palabra a la seguridad que recibiste anoche a las diez de la Madre Hermosa en persona?». Y añadió:*
+
+> Think you that your devotion did not touch the Infinite Mercy? The Motherhood of God, that you have worshiped in forms both human and divine, could never fail to answer your forsaken cry.
+
+«¿Crees que tu devoción no conmovió la Misericordia Infinita? La Maternidad de Dios, a la que has adorado en formas humanas y divinas, jamás podría dejar sin respuesta tu grito desamparado».
+
+Master Mahasaya
+
+*La casa de Amherst Street donde el santo dirigía una pequeña escuela era, por añadidura, el antiguo hogar del muchacho, la escena de la muerte de su madre: paredes sagradas, testigos de sus heridas y de su sanación. Allí no había reglas ni castigos: se enseñaban matemáticas superiores y una química del amor ausente de los libros. Cuando le llevó una guirnalda de champak, el santo la aceptó solo como ofrenda a la Madre que habitaba en su cuerpo. Y le anunció:*
+
+> “I am not your guru; he shall come a little later,” he told me.
+
+«Yo no soy tu gurú; él llegará un poco después».
+
+Master Mahasaya
+
+*Discípulo de Sri Ramakrishna, Master Mahasaya lo llevó en barca por el Ganges al templo de Dakshineswar, donde cantaba el nombre de la Madre hasta romperle el corazón en mil pedazos. Su romance con la Beloved era inagotable y práctico: una tarde, acorralados por un conocido vanidoso que no paraba de hablar, le susurró al muchacho que la Madre había prometido recordarle al pesado «asuntos más urgentes» al llegar a la casa roja de la esquina; y así ocurrió, a mitad de frase. Otra vez lo sorprendió criticando en silencio a unos devotos que cantaban mecánicamente: «¿No es verdad, señorcito, que el nombre de la Amada suena dulce en todos los labios, ignorantes o sabios?»:*
+
+> “He can serve as an earthly prototype for the very angels of heaven!”
+
+«¡Puede servir de prototipo terrenal a los mismísimos ángeles del cielo!».
+
+Yogananda
+
+*Un día le ofreció ir a ver «bioscopos». El primero fue una conferencia universitaria mortalmente aburrida, de la que la Madre Divina los rescató apagando las luces de la sala hasta que salieron. El segundo fue mejor: un golpecito suave en el pecho, y la Calcuta entera pasó ante sus ojos en silencio absoluto y omnipresente, como una película muda bañada en una luz apacible, hasta que otro golpecito devolvió el estrépito del mundo. De ese hijo seráfico de la Madre Divina cierra el capítulo:*
+
+> But ever enshrined in memory is the seraphic son of Divine Mother-Master Mahasaya!
+
+«¡Pero para siempre consagrado en la memoria queda el hijo seráfico de la Madre Divina, Master Mahasaya!».
+
+Yogananda
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
