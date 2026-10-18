@@ -2673,6 +2673,169 @@ Yogananda
 
 *«Lahiri Mahasaya me explicó después muchos puntos metafísicos concernientes al plan divino oculto para esta tierra, concluyó Ram Gopal: Babaji ha sido elegido por Dios para permanecer en su cuerpo durante la duración de este ciclo mundial particular; las edades vendrán y pasarán, y el maestro inmortal, contemplando el drama de los siglos, seguirá presente en este escenario terrenal».*
 
+## Capítulo 34: Materialización de un palacio en el Himalaya
+
+*«El primer encuentro de Babaji con Lahiri Mahasaya es un relato apasionante, y uno de los pocos que nos dan un vistazo detallado del gurú inmortal»:*
+
+> These words were Swami Kebalananda’s preamble
+
+«Estas palabras eran el preámbulo de Swami Kebalananda a un cuento maravilloso».
+
+Yogananda
+
+*La primera vez que lo contó, Yogananda quedó literalmente embelesado; en muchas otras ocasiones persuadió a su gentil tutor de sánscrito a repetir la historia, que Sri Yukteswar le refirió después en sustancialmente las mismas palabras: ambos discípulos de Lahiri Mahasaya la habían oído directamente de labios de su gurú. «Mi primer encuentro con Babaji tuvo lugar en mi año treinta y tres, había dicho Lahiri Mahasaya: en el otoño de 1861 estaba destinado en Danapur como contador del gobierno en el Departamento de Ingeniería Militar; una mañana, el jefe de oficina me llamó: "Lahiri, acaba de llegar un telegrama de nuestra oficina principal: será usted transferido a Ranikhet, donde se está estableciendo un puesto del ejército". Con un sirviente, emprendí el viaje de quinientas millas y, viajando a caballo y en calesa, llegamos en treinta días al sitio himalayo de Ranikhet. Mis obligaciones de oficina no eran onerosas; podía pasar muchas horas vagando por las magníficas colinas, y me llegó el rumor de que grandes santos bendecían la región con su presencia: sentí un fuerte deseo de verlos. Una tarde temprano, durante una caminata, quedé asombrado al oír una voz distante que me llamaba por mi nombre; continué mi vigoroso ascenso por el monte Drongiri, con una leve inquietud ante la idea de no poder rehacer mis pasos antes de que cayera la oscuridad sobre la jungla, hasta llegar a un pequeño claro cuyos lados estaban salpicados de cuevas. Sobre una de las cornisas rocosas estaba de pie un joven sonriente, que me extendía la mano en bienvenida: noté con asombro que, salvo por su cabello cobrizo, guardaba un notable parecido conmigo. "¡Lahiri, has venido!, me dijo el santo afectuosamente en hindi; descansa aquí en esta cueva: fui yo quien te llamó". Entré en una gruta pulcra que contenía varias mantas de lana y unos cuencos de mendicante. "¿Lahiri, recuerdas aquel asiento?": el yogui señaló una manta doblada en un rincón. "No, señor, respondí, algo aturdido por lo extraño de mi aventura; debo irme ahora, antes del anochecer: tengo asuntos en la oficina por la mañana". El misterioso santo respondió en inglés: "la oficina fue traída para ti, y no tú para la oficina"»:*
+
+> “I was dumbfounded
+
+«"Me quedé pasmado de que este asceta del bosque no solo hablara inglés, sino que parafraseara las palabras de Cristo».
+
+Yogananda
+
+*«"Veo que mi telegrama hizo efecto": la observación del yogui era incomprensible para mí, y le pregunté su significado. "Me refiero al telegrama que te llamó a estas partes aisladas: fui yo quien sugirió en silencio a la mente de tu oficial superior que fueras transferido a Ranikhet; cuando uno siente su unidad con la humanidad, todas las mentes se vuelven estaciones transmisoras a través de las cuales puede obrar a voluntad". Y añadió suavemente: "Lahiri, ¿seguro que esta cueva te resulta familiar?"»:*
+
+> “As I maintained a bewildered silence
+
+«"Mientras yo guardaba un silencio perplejo, el santo se acercó y me golpeó suavemente en la frente».
+
+Yogananda
+
+*A su toque magnético, una corriente maravillosa recorrió mi cerebro, liberando las dulces memorias-semilla de mi vida anterior. «"¡Recuerdo!, mi voz se ahogaba a medias en sollozos gozosos"»:*
+
+> ‘You are my guru Babaji, who has belonged to me always! Scenes of the past arise vividly in my mind; here in this cave I spent many years of my last incarnation!’
+
+«"¡Tú eres mi gurú Babaji, que me has pertenecido siempre! ¡Escenas del pasado surgen vívidas en mi mente: aquí, en esta cueva, pasé muchos años de mi última encarnación!"».
+
+Yogananda
+
+*Mientras los recuerdos inefables me abrumaban, abracé llorando los pies de mi maestro. «"Por más de tres décadas te he esperado aquí: ¡esperé a que regresaras a mí!: la voz de Babaji resonaba con amor celestial; te escabulliste y te desvaneciste en las tumultuosas olas de la vida más allá de la muerte: la varita mágica de tu karma te tocó y te fuiste; aunque tú me perdiste de vista, ¡yo nunca te perdí de vista!: te perseguí sobre el luminiscente mar astral donde navegan los ángeles gloriosos; a través de penumbra, tormenta, convulsión y luz te seguí, como un ave madre que guarda a sus crías; mientras cumplías tu término humano de vida en el vientre y emergías como bebé, mi ojo estaba siempre sobre ti; cuando cubrías tu forma pequeña en postura de loto bajo las arenas de Nadia en tu infancia, ¡yo estaba invisiblemente presente! Pacientemente, mes tras mes, año tras año, te he vigilado, esperando este día perfecto. ¡Ahora estás conmigo!: he aquí tu cueva, amada de antaño: la he mantenido siempre limpia y lista para ti; aquí está tu santificada manta-asana, donde te sentabas a diario a llenar de Dios tu corazón expansivo; contempla ahí tu cuenco, del que a menudo bebiste el néctar que yo preparaba: ¡mira cómo he mantenido la copa de latón brillantemente pulida, para que pudieras beber de nuevo de ella! Amor mío, ¿comprendes ahora?"»:*
+
+> “‘may guru, what can I say?’
+
+«"Mi gurú, ¿qué puedo decir?"».
+
+Yogananda
+
+*«"¿Dónde se ha oído jamás de un amor tan inmortal?", murmuré quebrado, y contemplé larga y extáticamente mi tesoro eterno, mi gurú en la vida y en la muerte»:*
+
+> “‘Lahiri, you need purification.
+
+«"Lahiri, necesitas purificación».
+
+Yogananda
+
+*«"Bebe el aceite de este cuenco y acuéstate junto al río": la sabiduría práctica de Babaji, reflexioné con una rápida sonrisa de recuerdo, estaba siempre a la vista. Obedecí sus indicaciones: aunque la helada noche himalaya descendía, un calor confortante, una radiación interior, comenzó a pulsar en cada célula de mi cuerpo; los vientos amargos azotaban a mi alrededor en la oscuridad, lanzando un reto feroz, y las gélidas ondas del río Gogash me lamían de cuando en cuando el cuerpo, tendido en la orilla rocosa; los tigres aullaban cerca, pero mi corazón estaba libre de miedo: la fuerza radiante recién generada en mí daba una seguridad de protección inasaltable. Mis solitarias cavilaciones fueron interrumpidas por el sonido de pasos que se acercaban: en la oscuridad, la mano de un hombre me ayudó gentilmente a ponerme de pie y me dio ropa seca. "Ven, hermano, dijo mi compañero: el maestro te espera". Me guió a través del bosque, y la noche sombría se iluminó de pronto con una luminosidad constante a lo lejos: "¿puede ser el amanecer?, pregunté; ¿seguro que no ha pasado toda la noche?". "Es medianoche, rió quedo mi guía"»:*
+
+> ‘Yonder light is the glow of a golden palace
+
+«"Aquella luz es el resplandor de un palacio de oro, materializado aquí esta noche por el incomparable Babaji».
+
+Yogananda
+
+*«"En un pasado lejano expresaste una vez el deseo de disfrutar las bellezas de un palacio"»:*
+
+> Our master is now satisfying your wish
+
+«Nuestro maestro está ahora satisfaciendo tu deseo, liberándote así de las cadenas del karma"».
+
+Yogananda
+
+*«Y añadió: "el magnífico palacio será esta noche la escena de tu iniciación en el Kriya Yoga; todos tus hermanos aquí se unen en un peán de bienvenida, regocijándose por el fin de tu largo exilio: ¡contempla!". Un vasto palacio de oro deslumbrante se alzaba ante nosotros: tachonado de incontables joyas y enmarcado en jardines, presentaba un espectáculo de grandeza sin paralelo; santos de semblante angelical montaban guardia junto a portones resplandecientes, semienrojecidos por el fulgor de los rubíes; diamantes, perlas, zafiros y esmeraldas de gran tamaño y lustre se incrustaban en los arcos decorativos. Seguí a mi compañero a un espacioso salón de recepción: el olor del incienso y de las rosas flotaba en el aire, lámparas tenues derramaban un resplandor multicolor y pequeños grupos de devotos, unos de piel clara y otros oscura, cantaban musicalmente o se sentaban en postura meditativa, inmersos en paz interior. "Harta tus ojos; disfruta los esplendores artísticos de este palacio, pues ha sido traído a la existencia únicamente en tu honor". "Hermano, dije, la belleza de esta estructura supera los límites de la imaginación humana; por favor, dime el misterio de su origen". "Con gusto te iluminaré: en realidad no hay nada inexplicable en esta materialización; el cosmos entero es un pensamiento materializado del Creador; este pesado terrón terrestre que flota en el espacio es un sueño de Dios: Él creó todas las cosas desde su conciencia, como el hombre en su conciencia onírica reproduce y vivifica una creación con sus criaturas; Dios creó primero la tierra como idea, luego la vivificó: los átomos de energía surgieron y Él los coordinó en esta sólida esfera, cuyas moléculas se mantienen unidas por la voluntad de Dios; cuando Él retire su voluntad, la tierra se desintegrará de nuevo en energía, la energía se disolverá en conciencia y la idea-tierra desaparecerá de la objetividad. La sustancia de un sueño se mantiene materializada por el pensamiento subconsciente del soñador: cuando ese pensamiento cohesivo se retira al despertar, el sueño y sus elementos se disuelven; del mismo modo, cuando el hombre despierte en la conciencia cósmica, desmaterializará sin esfuerzo las ilusiones del sueño cósmico. Siendo uno con la infinita Voluntad todo-realizadora, Babaji puede convocar a los átomos elementales a combinarse y manifestarse en cualquier forma: este palacio dorado, creado instantáneamente, es real, como esta tierra es real; Babaji creó esta mansión palaciega desde su mente y mantiene unidos sus átomos por el poder de su voluntad, como Dios creó esta tierra y la mantiene intacta; cuando la estructura haya servido a su propósito, Babaji la desmaterializará. Este palacio trémulo no ha sido construido por esfuerzo humano ni con oro y gemas laboriosamente minados: se alza sólido, un desafío monumental al hombre; quienquiera que se realice como hijo de Dios, como Babaji lo ha hecho, puede alcanzar cualquier meta por los infinitos poderes ocultos en él: una piedra común encierra el secreto de una tremenda energía atómica, y del mismo modo un mortal es aún una central de divinidad". El sabio tomó de una mesa cercana un grácil florero cuyo asa flameaba de diamantes: "toca este florero y sus diamantes: satisfarán todas las pruebas de la experiencia sensorial". Examiné el florero y pasé la mano por las lisas paredes del salón, gruesas de oro reluciente: cada una de las joyas esparcidas con profusión era digna de la colección de un rey, y una honda satisfacción se extendió por mi mente: un deseo sumergido, oculto en mi subconsciente desde vidas ya idas, parecía simultáneamente gratificado y extinguido. Mi majestuoso compañero me condujo por arcos y corredores ornamentados a una serie de cámaras ricamente amuebladas al estilo de un palacio de emperador, y entramos en un inmenso hall: en el centro se alzaba un trono dorado, incrustado de joyas que derramaban una deslumbrante mezcla de colores y, allí, en postura de loto, estaba sentado el supremo Babaji; me arrodillé en el piso brillante a sus pies. "¿Lahiri, sigues festejándote con tus deseos soñados de un palacio de oro?: los ojos de mi gurú chispeaban como sus propios zafiros; ¡despierta!: todas tus sedes terrenales están a punto de ser saciadas para siempre"»:*
+
+> He murmured some mystic words of blessing.
+
+«Murmuró unas místicas palabras de bendición».
+
+Yogananda
+*«"Hijo mío, levántate: recibe tu iniciación en el reino de Dios a través del Kriya Yoga". Babaji extendió la mano y apareció un fuego homa, un fuego sacrificial, rodeado de frutas y flores: recibí la liberadora técnica yóguica ante aquel altar llameante. Los ritos concluyeron en la primera aurora; sin sentir necesidad de sueño en mi estado extático, vagué por el palacio, lleno por todas partes de tesoros y objetos de arte inapreciables, y al descender a los jardines magníficos noté, cerca, las mismas cuevas y cornisas peladas de la montaña que el día anterior no habían tenido vecindad alguna con palacio ni terraza florida. Al reentrar al palacio, fabulosamente reluciente bajo la fría luz del sol himalaya, busqué la presencia de mi maestro, aún entronizado y rodeado de muchos quietos discípulos: "Lahiri, tienes hambre"»:*
+
+> Babaji added, ‘Close your eyes.’
+
+«Babaji añadió: "Cierra los ojos"».
+
+Yogananda
+
+*Cuando reabrí los ojos, el palacio encantador y sus pintorescos jardines habían desaparecido: mi propio cuerpo y las formas de Babaji y del grupo de chelas estaban ahora sentados en el suelo pelado, en el sitio exacto del palacio desvanecido, no lejos de las soleadas entradas de las grutas rocosas; recordé que mi guía había observado que el palacio sería desmaterializado, liberados sus átomos cautivos en las esencias-pensamiento de las que había surgido. Aunque aturdido, miré confiadamente a mi gurú: no sabía qué esperar a continuación en aquel día de milagros. «"El propósito para el que fue creado el palacio ya se ha cumplido, explicó Babaji, y levantó un recipiente de barro del suelo: pon ahí tu mano y recibe la comida que desees". Tan pronto como toqué el ancho cuenco vacío, quedó colmado de calientes luchis fritos en mantequilla, curry y raros dulces; me serví, observando que el recipiente estaba siempre lleno, y al terminar mi comida busqué agua con la mirada: mi gurú señaló el cuenco ante mí y, ¡mirad!, la comida se había desvanecido y en su lugar había agua, clara como de arroyo de montaña»:*
+
+> “‘Few mortals know
+
+«"Pocos mortales saben que el reino de Dios incluye el reino de los cumplimientos mundanos, observó Babaji».
+
+Yogananda
+
+*«"El reino divino se extiende a lo terrenal, pero este, siendo ilusorio, no puede incluir la esencia de la realidad"»:*
+
+> “‘Beloved guru, last night
+
+«"Amado gurú, ¡anoche me demostraste el vínculo de belleza entre el cielo y la tierra!"».
+
+Yogananda
+
+*Sonreí al recuerdo del palacio desvanecido: seguramente ningún simple yogui había recibido jamás la iniciación en los augustos misterios del Espíritu en medio de un entorno de lujo más impresionante. Aquella tarde me senté sobre mi manta, santificada por asociaciones de realizaciones de vidas pasadas; mi divino gurú se acercó y pasó la mano sobre mi cabeza: entré en el estado de nirbikalpa samadhi y permanecí ininterrumpidamente en su dicha durante siete días, cruzando los estratos sucesivos del autoconocimiento hasta penetrar los reinos inmortales de la realidad; todas las limitaciones ilusorias cayeron y mi alma quedó plenamente establecida en el altar eterno del Espíritu Cósmico. Al octavo día, caí a los pies de mi gurú y le imploré que me conservara siempre cerca de él en aquella sagrada soledad:*
+
+> “‘My son,’ Babaji said, embracing me
+
+«"Hijo mío, dijo Babaji abrazándome, tu papel en esta encarnación debe representarse en un escenario exterior».
+
+Yogananda
+
+*«"Prenatalmente bendecido por muchas vidas de meditación solitaria, debes ahora mezclarte en el mundo de los hombres; un hondo propósito subyace al hecho de que no me hayas conocido esta vez hasta ser ya un hombre casado, con modestas responsabilidades de negocios: debes apartar tus pensamientos de unirte a nuestra banda secreta en el Himalaya; tu vida está en los atestados mercados, sirviendo de ejemplo del ideal yogui-hombre de familia. Los gritos de tantos hombres y mujeres mundanos y perplejos no han caído desoídos en los oídos de los Grandes, prosiguió: has sido elegido para llevar el consuelo espiritual del Kriya Yoga a numerosos buscadores fervientes; los millones agobiados por lazos familiares y pesados deberes mundanos cobrarán nuevo ánimo de ti, un padre de familia como ellos: debes guiarlos a ver que las más altas realizaciones yóguicas no están vedadas al hombre de familia. Ninguna necesidad te obliga a dejar el mundo, pues interiormente ya has cortado todo lazo kármico: no siendo de este mundo, debes sin embargo estar en él; muchos años quedan aún en los que debes cumplir concienzudamente tus deberes familiares, de negocios, cívicos y espirituales; de tu vida equilibrada comprenderán que la liberación depende de renunciaciones interiores, más que exteriores". Cuán remota me parecía mi familia, la oficina, el mundo, mientras escuchaba a mi gurú en las altas soledades del Himalaya; y sin embargo, una verdad adamantina resonaba en sus palabras, y accedí sumiso a dejar aquel bendito remanso de paz. Babaji me instruyó en las antiguas y rígidas reglas que gobiernan la transmisión del arte yóguico de gurú a discípulo: "otorga la llave del Kriya solo a chelas calificados: quien promete sacrificarlo todo en la búsqueda de lo Divino es apto para desentrañar los misterios finales de la vida a través de la ciencia de la meditación". "Gurú angelical, ya que has favorecido a la humanidad resucitando el arte perdido del Kriya, ¿no aumentarás ese beneficio relajando los estrictos requisitos del discipulado?: miré suplicante a Babaji; te ruego que me permitas comunicar el Kriya a todos los buscadores, aunque al principio no puedan comprometerse a una completa renunciación interior; los torturados hombres y mujeres del mundo, perseguidos por el triple sufrimiento, necesitan un aliento especial: quizá nunca intenten el camino a la libertad si se les niega la iniciación del Kriya". "Así sea"»:*
+
+> The divine wish has been expressed through you.’
+
+«El deseo divino ha sido expresado a través de ti"».
+
+Yogananda
+
+*Con estas simples palabras, el misericordioso gurú desterró las rigurosas salvaguardas que por edades habían ocultado el Kriya al mundo: «"da el Kriya libremente a todos los que humildemente pidan ayuda, y repite a cada uno de tus discípulos esta majestuosa promesa de la Bhagavad Gita: incluso un poquito de la práctica de esta religión te salvará de terribles temores y sufrimientos colosales"». A la mañana siguiente, arrodillado a los pies de mi gurú para su bendición de despedida, él percibió mi honda renuencia a dejarlo: «"no hay separación para nosotros, amado hijo mío: me tocó el hombro afectuosamente; dondequiera que estés, cuando me llames, estaré contigo al instante"». Consolado por su maravillosa promesa, y rico con el oro recién hallado de la sabiduría de Dios, descendí de la montaña; en la oficina me dieron la bienvenida mis compañeros de trabajo, que por diez días me habían creído perdido en las junglas himalayas, y pronto llegó una carta de la oficina central: «"Lahiri debe volver a la oficina de Danapur: su transferencia a Ranikhet ocurrió por error"»: sonreí, reflexionando sobre las ocultas contracorrientes de los eventos que me habían llevado a aquel rincón extremo de la India. Antes de volver a Danapur, pasé unos días con una familia bengalí en Moradabad; seis amigos se reunieron a saludarme y, al llevar yo la conversación a temas espirituales, mi anfitrión observó sombríamente: «"¡oh, en estos días la India está desprovista de santos!". "Babu, protesté calurosamente, ¡por supuesto que aún hay grandes maestros en esta tierra!": y en un arrebato de fervor exaltado me sentí impelido a relatar mis experiencias milagrosas en el Himalaya; la pequeña concurrencia se mostró cortésmente incrédula»:*
+
+> “‘Lahiri,’ one man said soothingly
+
+«"Lahiri, dijo un hombre tranquilizadoramente, tu mente ha estado bajo tensión en esos enrarecidos aires montañeses».
+
+Yogananda
+
+*«"Esto es algún sueño despierto que has contado". Ardiendo con el entusiasmo de la verdad, hablé sin la debida reflexión»:*
+
+> ‘If I call him, my guru will appear right in this house.’
+
+«"Si lo llamo, mi gurú aparecerá aquí mismo, en esta casa"».
+
+Yogananda
+
+*El interés brilló en cada ojo: no era de extrañar que el grupo estuviera ansioso por contemplar a un santo materializado de modo tan extraño; medio a regañadientes, pedí un cuarto tranquilo y dos mantas de lana nuevas: «"el maestro se materializará desde el éter, dije; permanezcan en silencio fuera de la puerta; pronto los llamaré"»:*
+
+> “I sank into the meditative state
+
+«"Me hundí en el estado meditativo, convocando humildemente a mi gurú».
+
+Yogananda
+
+*El cuarto oscurecido se llenó pronto de una tenue luz de luna áurica: emergió la luminosa figura de Babaji. «"¿Lahiri, me llamas por una nimiedad?: la mirada del maestro era severa; la verdad es para los buscadores fervientes, no para los de ociosa curiosidad; es fácil creer cuando se ve, pues no hay nada entonces que negar: la verdad suprasensorial es merecida y descubierta por quienes superan su natural escepticismo materialista. ¡Déjame ir!". Caí suplicante a sus pies: "santo gurú, reconozco mi grave error y te pido humildemente perdón; fue para crear fe en estas mentes espiritualmente cegadas que me aventuré a llamarte; porque has aparecido graciosamente a mi oración, por favor no partas sin otorgar una bendición a mis amigos: incrédulos como son, al menos estuvieron dispuestos a investigar la verdad de mis extrañas afirmaciones". "Muy bien; me quedaré un rato: no quiero que tu palabra quede desacreditada ante tus amigos: el rostro de Babaji se había suavizado, pero añadió gentilmente: de ahora en adelante, hijo mío, vendré cuando me necesites, y no siempre cuando me llames". Un silencio tenso reinó en el grupito cuando abrí la puerta: como desconfiando de sus sentidos, mis amigos contemplaban la lustrosa figura sobre el asiento de manta. "¡Esto es hipnotismo de masas!, rió un hombre a carcajadas: ¡nadie pudo haber entrado en este cuarto sin que lo supiéramos!". Babaji avanzó sonriente e hizo seña a cada uno de tocar la carne cálida y sólida de su cuerpo; disipadas las dudas, mis amigos se postraron en el suelo en arrepentimiento reverente. "Que se prepare halua", hizo Babaji esta petición, lo supe, para asegurar aún más al grupo de su realidad física, y mientras hervía el manjar, el divino gurú charló afablemente: grande fue la metamorfosis de aquellos Tomases dubitativos en devotos san Pablo. Después de que hubimos comido, Babaji nos bendijo a cada uno por turno; hubo un destello súbito y presenciamos la instantánea desquimicalización de los elementos electrónicos de su cuerpo en una vaporosa luz expansiva: la voluntad afinada con Dios del maestro había soltado su presa de los átomos del éter mantenidos unidos como su cuerpo, y los billones de diminutas chispas lifetrónicas se desvanecieron en el infinito reservorio»:*
+
+> “‘With my own eyes I have seen
+
+«"Con mis propios ojos he visto al vencedor de la muerte».
+
+Yogananda
+
+*Maitra, uno del grupo, habló reverentemente, el rostro transfigurado por el gozo de su reciente despertar: «"el supremo gurú jugó con el tiempo y el espacio como un niño juega con las burbujas"»:*
+
+> I have beheld one with the keys of heaven and earth.’
+
+«He contemplado a uno que tiene las llaves del cielo y de la tierra"».
+
+Yogananda
+
+*Regresé pronto a Danapur y, firmemente anclado en el Espíritu, asumí de nuevo las múltiples obligaciones de negocios y familia de un hombre de familia. Lahiri Mahasaya relató también a Swami Kebalananda y a Sri Yukteswar la historia de otro encuentro con Babaji, en circunstancias que recordaban la promesa del gurú: «vendré cuando me necesites». «La escena fue un Kumbha Mela en Allahabad, contó Lahiri Mahasaya a sus discípulos: había ido allí durante unas cortas vacaciones de mis obligaciones de oficina; vagando entre la multitud de monjes y sadhus llegados de grandes distancias para asistir al santo festival, noté a un asceta embadurnado de ceniza que sostenía un cuenco de mendicante, y el pensamiento surgió en mi mente de que el hombre era un hipócrita, que vestía los símbolos exteriores de la renunciación sin la correspondiente gracia interior»:*
+
+> “No sooner had I passed the ascetic
+
+«"No bien había pasado junto al asceta, mi ojo asombrado cayó sobre Babaji».
+
+Yogananda
+
+*Estaba arrodillado ante un anacoreta de cabello enmarañado. «"¡Guruji!, me apresuré a su lado; señor, ¿qué estás haciendo aquí?". "Estoy lavando los pies de este renunciante, y después limpiaré sus utensilios de cocina": Babaji me sonrió como un niño pequeño, y supe que me indicaba que no criticara a nadie, sino que viera al Señor residiendo por igual en todos los templos-cuerpo, fueran de hombres superiores o inferiores. Y el gran gurú añadió: "sirviendo a sadhus sabios e ignorantes, estoy aprendiendo la mayor de las virtudes, la más agradable a Dios por encima de todas: la humildad"».*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
