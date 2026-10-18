@@ -2122,7 +2122,7 @@ Yogananda
 
 ## Capítulo 29: Rabindranath Tagore y yo comparamos escuelas
 
-*Bhola Nath, un muchacho de catorce años de la escuela de Ranchi que había estudiado antes en Santiniketan («Refugio de Paz»), la famosa escuela de Tagore, canta a todas horas; el poeta les enseñaba a cantar, le explica, como forma natural de expresarse, como los pájaros. Yogananda le responde:*
+*Bhola Nath, alumno de Ranchi que estudió antes en Santiniketan, la escuela de Tagore, canta a todas horas: el poeta les enseñaba a cantar como a los pájaros. Yogananda le responde:*
 
 > “The songs of Rabindranath have been on my lips since early youth,” I told my companion. “All Bengal, even the unlettered peasants, delights in his lofty verse.”
 
@@ -2130,15 +2130,7 @@ Yogananda
 
 Yogananda
 
-*Cantan juntos unos estribillos de Tagore, que puso música a miles de poemas indios, y Yogananda recuerda su primer encuentro con él en Calcuta, presentado por su secretario, C. F. Andrews; lo atrajo su coraje nada diplomático con los críticos literarios:*
-
-> “I met Rabindranath soon after he had received the Nobel Prize for literature,” I remarked after our vocalizing.
-
-«Conocí a Rabindranath poco después de que recibiera el Premio Nobel de Literatura, comenté tras nuestro canto.»
-
-Yogananda
-
-*La historia era esta: los eruditos lo habían desollado por mezclar lo coloquial con lo clásico en la poesía bengalí; un crítico influyente lo llamó «poeta-paloma que vendía sus arrullos impresos por una rupia». Pero cuando el Gitanjali («Ofrendas de canciones»), traducido al inglés, le ganó el homenaje de Occidente, un tren entero de pundits, con sus antiguos detractores incluidos, viajó a Santiniketan a felicitarlo. Tagore los recibió tras un retraso intencional, oyó sus alabanzas en silencio estoico y luego les devolvió sus propias armas: los honores fragantes de hoy, les dijo, se mezclan mal con los olores pútridos de su desprecio pasado; ¿qué conexión hay entre el Nobel y sus de pronto agudos poderes de apreciación?*
+*Los eruditos lo desollaban por mezclar lo coloquial con lo clásico; un crítico lo llamó «poeta-paloma que vende sus arrullos por una rupia». Pero el Gitanjali («Ofrendas de canciones») le ganó el Nobel, y un tren de pundits fue a felicitarlo; él oyó sus alabanzas en silencio estoico y les echó en cara su desprecio pasado:*
 
 > “The newspapers published an account of the bold chastisement given by Tagore. I admired the outspoken words of a man unhypnotized by flattery,” I went on.
 
@@ -2146,7 +2138,7 @@ Yogananda
 
 Yogananda
 
-*Unos dos años después de fundar la escuela de Ranchi, el poeta lo invita a Santiniketan para tratar de ideales educativos. Lo encuentra en su estudio: rostro cincelado y patricio, enmarcado en melena y barba, ojos grandes y fundidos, sonrisa angelical, voz de flauta; una ternura casi femenina unida a la espontaneidad de un niño. Pronto comparan sus dos escuelas no ortodoxas, con muchos rasgos idénticos: instrucción al aire libre, sencillez, amplio margen al espíritu creador del niño. Los de Santiniketan guardan ratos de silencio pero no reciben entrenamiento de yoga; Tagore escucha con atención halagada la descripción de los ejercicios Yogoda. Y cuenta su propia historia escolar:*
+*Invitado a Santiniketan, comparan sus escuelas no ortodoxas: clases al aire libre, sencillez, margen al espíritu creador del niño. Tagore cuenta su propia historia escolar:*
 
 > Tagore told me of his own early educational struggles. “I fled from school after the fifth grade,” he said, laughing.
 
@@ -2154,15 +2146,7 @@ Tagore me contó sus propios tropiezos educativos de juventud: «Me escapé de l
 
 Tagore
 
-*Por eso abrió Santiniketan bajo los árboles y las glorias del cielo, dice señalando a un grupo que estudia en el jardín: la verdadera educación no puede embutirse desde fuera, sino ayudar a sacar a la superficie los tesoros infinitos de sabiduría que están dentro. Su padre, Devendranath, el «Maharishi» que pasó dos años meditando en el Himalaya, le había regalado aquella tierra fértil con casa de huéspedes y templo; allí empezó su experimento en 1901 con diez muchachos, y las ocho mil libras del Nobel se fueron en el sostén de la escuela. Esa noche, en el patio de la casa de huéspedes, Yogananda contempla al poeta entre los suyos:*
-
-> Time unfolded backward: the scene before me was like that of an ancient hermitage-the joyous singer encircled by his devotees, all aureoled in divine love.
-
-El tiempo se desplegó hacia atrás: la escena ante mí era como la de una antigua ermita: el cantor alegre rodeado de sus devotos, todos aureolados en amor divino.
-
-Yogananda
-
-*Nunca asertivo, Tagore anudaba cada vínculo con cuerdas de armonía y cautivaba los corazones por puro magnetismo. Con su voz melodiosa les leyó poemas recién creados; su arte, para Yogananda, está en referirse a Dios en casi cada estrofa sin mencionar apenas el Nombre sagrado:*
+*Por eso abrió Santiniketan bajo los árboles: la verdadera educación no se embute desde fuera, sino que saca a la superficie la sabiduría de dentro. Esa noche, en el patio, les leyó poemas nuevos, con ese arte suyo de referir a Dios en casi cada estrofa sin nombrarlo:*
 
 > “Drunk with the bliss of singing,” he wrote, “I forget myself and call thee friend who art my lord.”
 
@@ -2170,11 +2154,11 @@ Yogananda
 
 Rabindranath Tagore
 
-*Al día siguiente, tras el almuerzo, Yogananda se despide a regañadientes. La escuelita creció hasta ser la universidad internacional Viswa-Bharati, y el capítulo cierra con el poema de Tagore que canta el país que despierta «a ese cielo de libertad» donde la mente no tiene miedo y la cabeza se alza en alto.*
+*Al día siguiente se despidieron; la escuelita creció hasta ser la universidad Viswa-Bharati, y cierra con su poema del país que despierta «a ese cielo de libertad».*
 
 ## Capítulo 30: La ley de los milagros
 
-*El capítulo abre con un cuento de Tolstoi, Los tres ermitaños, resumido por su amigo Nicholas Roerich: en una isla viven tres viejos tan simples que su única oración es «Somos tres; Tú eres Tres; ten misericordia de nosotros», y con esa oración ingenua ocurren grandes milagros. El obispo local, escandalizado por una plegaria tan poco canónica, va a la isla, les enseña las invocaciones correctas y se marcha en barco. Entonces ve una luz radiante que sigue la nave: son los tres ermitaños, corriendo cogidos de las manos sobre las olas, porque han olvidado las oraciones aprendidas y quieren que se las repita:*
+*Un cuento de Tolstoi, Los tres ermitaños: tres viejos tan simples que su única oración es «Somos tres; Tú eres Tres; ten misericordia de nosotros», y con ella ocurren grandes milagros. El obispo les enseña las oraciones canónicas y se va en barco; entonces ve una luz que sigue la nave: son los tres, corriendo sobre las olas porque han olvidado lo aprendido:*
 
 > “‘Dear ones,’ he replied humbly, ‘continue to live with your old prayer!’”
 
@@ -2182,7 +2166,7 @@ Rabindranath Tagore
 
 El obispo, en el cuento de Tolstoi
 
-*¿Cómo caminaron los tres santos sobre el agua? ¿Cómo resucitó Cristo su cuerpo crucificado? ¿Cómo hacían sus milagros Lahiri Mahasaya y Sri Yukteswar? La ciencia moderna aún no responde, pero la palabra «imposible» va perdiendo peso en su vocabulario. Las escrituras védicas declaran que el mundo físico opera bajo una ley fundamental, la de maya: el principio de relatividad y dualidad, el velo ilusorio bajo el cual la Unidad absoluta aparece como creación múltiple. Newton y Einstein, cada uno a su modo, la confirman: toda acción tiene su reacción igual y contraria, y toda la física se mueve por polaridades. El paso siguiente asombra: los maestros que materializan y desmaterializan su cuerpo y se mueven a la velocidad de la luz cumplen la condición einsteiniana de masa infinita, porque su conciencia ya no se identifica con un cuerpo estrecho sino con la estructura universal. Los «anillos que no se traspasan», es decir los límites del cuerpo en el tiempo y el espacio, ceden ante un solo disolvente:*
+*¿Cómo caminaron sobre el agua? ¿Cómo resucitó Cristo su cuerpo? La respuesta védica: el mundo físico opera bajo la ley de maya, el principio de relatividad y dualidad; la física entera se mueve por polaridades, como confirman Newton y Einstein. Los maestros que se mueven a la velocidad de la luz cumplen la condición einsteiniana de masa infinita: su conciencia ya es una con la estructura universal, y los límites del cuerpo ceden ante un disolvente:*
 
 > Their imprisoning “rings-pass-not” have yielded to the solvent: “I am He.”
 
@@ -2190,7 +2174,7 @@ Sus anillos carcelarios, esos «anillos que no se traspasan», han cedido al dis
 
 Yogananda
 
-*La clave está en la luz. Entre los misterios del cosmos, la luz es el más fenomenal: no necesita aire ni medio alguno, y su velocidad, 186.000 millas por segundo, es la única constante del universo en la teoría de Einstein, el patrón del que dependen todas nuestras medidas de tiempo y espacio. La muerte de la materia, al aniquilarse sus partículas, es el nacimiento de la era atómica: la materia es luz condensada. ¿Y cómo rearranja un yogi los átomos de luz del universo? La respuesta se ve cada noche en nosotros mismos: en el sueño, cuando la mente suelta las limitaciones del ego, resucitan los amigos muertos, los continentes remotos, las escenas de la infancia. Esa omnipotencia mental que todos demostramos soñando es la misma que el maestro emplea despierto:*
+*La clave está en la luz: su velocidad es la única constante del universo, y la materia, luz condensada. ¿Cómo rearranja un yogi sus átomos? La respuesta se ve cada noche en nosotros: en el sueño, suelto el ego, la mente resucita amigos muertos y continentes remotos:*
 
 > With that free and unconditioned consciousness, known to all men in the phenomena of dreams, the God-tuned master has forged a never-severed link.
 
@@ -2198,7 +2182,7 @@ Con esa conciencia libre e incondicionada, que todos los hombres conocen en los 
 
 Yogananda
 
-*En 1915, poco después de entrar en la orden de los swamis, Yogananda tuvo una visión de contrastes violentos que le mostró la relatividad de la conciencia humana. Estaba sentado una mañana en su cuartito del desván de la casa paterna, meditando con tristeza sobre los muertos de la Primera Guerra Mundial, cuando de pronto su conciencia pasó al cuerpo de un capitán al mando de un acorazado. Un obús gigante alcanzó la santabárbara y partió el barco en dos; saltó al agua con los pocos supervivientes y llegó a la orilla con el corazón desbocado. Pero una bala perdida terminó su vuelo furioso en su pecho. Cayó gimiendo, el cuerpo entero paralizado, aunque consciente de poseerlo como se es consciente de una pierna dormida:*
+*En 1915, meditando sobre los muertos de la Primera Guerra Mundial, su conciencia pasó al cuerpo de un capitán de acorazado: un obús partió el barco en dos, saltó al agua, llegó a la orilla, y una bala perdida terminó su vuelo en su pecho:*
 
 > “At last the mysterious footstep of Death has caught up with me,” I thought.
 
@@ -2206,7 +2190,7 @@ Yogananda
 
 Yogananda
 
-*Con un último suspiro, a punto de hundirse en la inconsciencia, se encontró de pronto sentado en postura de loto en su cuarto, vivo, acariciando y pellizcando entre lágrimas de alegría un cuerpo sin agujero de bala. Y en medio de esas autofelicitaciones, otra vez fue transferido al cadáver del capitán junto a la orilla sangrienta. La confusión fue total:*
+*A punto de hundirse en la inconsciencia, se halló sentado en su cuarto, llorando de alegría sobre un cuerpo sin agujero de bala; y otra vez fue transferido al cadáver del capitán. La confusión fue total:*
 
 > “Lord,” I prayed, “am I dead or alive?”
 
@@ -2214,7 +2198,7 @@ Yogananda
 
 Yogananda
 
-*Un juego deslumbrante de luz llenó todo el horizonte, y un suave retumbo vibratorio se formó en palabras:*
+*Un juego deslumbrante de luz llenó el horizonte y un suave retumbo se hizo palabras:*
 
 > “What has life or death to do with Light? In the image of My Light I have made you. The relativities of life and death belong to the cosmic dream. Behold your dreamless being! Awake, my child, awake!”
 
@@ -2222,7 +2206,7 @@ Yogananda
 
 La Luz
 
-*El cine, invento de la luz, le sirve ahora de parábola: el Director Cósmico escribe sus obras y reúne el reparto inmenso del espectáculo de los siglos; desde la cabina oscura de la eternidad vierte su haz creador sobre las películas de las edades, y las imágenes se proyectan en la pantalla del espacio. Un día, en plena guerra, Yogananda entró en un cine a ver un noticiario de los campos de batalla europeos; el realismo de la carnicería lo dejó con el corazón turbado, y oró: «Señor, ¿por qué permites semejante sufrimiento?». La respuesta fue instantánea: una visión de los campos de batalla reales, cuyo horror superaba con mucho al del noticiario:*
+*El cine le sirve de parábola: el Director Cósmico proyecta el espectáculo de los siglos desde la cabina oscura de la eternidad. Un día, turbado por un noticiario de la carnicería europea, oró: «¿Por qué permites semejante sufrimiento?», y la respuesta fue una visión de los campos de batalla reales:*
 
 > “Look intently!” A gentle voice spoke to my inner consciousness. “You will see that these scenes now being enacted in France are nothing but a play of chiaroscuro. They are the cosmic motion picture, as real and as unreal as the theater newsreel you have just seen—a play within a play.”
 
@@ -2230,7 +2214,7 @@ La Luz
 
 La voz interior
 
-*Su corazón seguía sin consuelo, y la voz divina continuó: la creación es luz y sombra a la vez, si no no hay imagen posible; el bien y el mal de maya deben alternarse en el predominio; si la alegría fuera incesante en este mundo, ¿buscaría el hombre otro? Sin el sufrimiento apenas se acuerda de que ha abandonado su hogar eterno. El dolor es un aguijón para el recuerdo, y la vía de escape es la sabiduría. Y remató con la comparación del teatro:*
+*Su corazón seguía sin consuelo, y la voz divina continuó: la creación es luz y sombra a la vez; sin el sufrimiento, el hombre apenas se acuerda de que ha abandonado su hogar eterno:*
 
 > The tragedy of death is unreal; those who shudder at it are like an ignorant actor who dies of fright on the stage when nothing more is fired at him than a blank cartridge. My sons are the children of light; they will not sleep forever in delusion.”
 
@@ -2238,7 +2222,7 @@ La tragedia de la muerte es irreal; quienes se estremecen ante ella son como un 
 
 La voz divina
 
-*Esas visiones personales le dieron lo que no le habían dado las escrituras: la convicción profunda de que la creación es solo una vasta película y de que la propia realidad no está en ella sino más allá. Y al terminar de escribir este mismo capítulo, sentado en postura de loto en su cama, lo comprobó otra vez: el techo se salpicó de luces pequeñas color mostaza, centelleantes; miríadas de rayos finos como láminas de lluvia se juntaron en un eje transparente que se derramó en silencio sobre él:*
+*Al terminar de escribir este mismo capítulo, sentado en su cama, vio el techo salpicado de luces color mostaza; miríadas de rayos finos se juntaron en un eje transparente que se derramó en silencio sobre él:*
 
 > At once my physical body lost its grossness and became metamorphosed into astral texture.
 
@@ -2246,7 +2230,7 @@ Al instante mi cuerpo físico perdió su densidad y se metamorfoseó en textura 
 
 Yogananda
 
-*Sintió una sensación de flotación; el cuerpo ingrávido apenas rozaba la cama, oscilando a izquierda y derecha. Los muebles y las paredes seguían en su sitio, pero la luz se había multiplicado tanto que el techo era invisible. Entonces:*
+*Flotaba, ingrávido; la luz se multiplicó hasta borrar el techo. Entonces:*
 
 > “This is the cosmic motion picture mechanism.” A voice spoke as though from within the light. “Shedding its beam on the white screen of your bed sheets, it is producing the picture of your body. Behold, your form is nothing but light!”
 
@@ -2254,7 +2238,7 @@ Yogananda
 
 La voz
 
-*Miró sus brazos, los movió de un lado a otro y no sintió su peso; un gozo extático lo inundó. Durante largo rato experimentó esa película de su cuerpo en el teatro semioscuro de su propia habitación: ninguna de sus muchas visiones fue nunca más singular. Cuando la ilusión del cuerpo sólido se disipó por completo, miró la corriente palpitante de «lifetrons», átomos de vida, y habló suplicante: «Luz divina, por favor, retira esta humilde imagen corporal mía dentro de Ti, como Elías fue elevado al cielo en una llama»:*
+*Con un gozo extático, miró la corriente de «lifetrons», átomos de vida, y habló suplicante: «Luz divina, retira esta humilde imagen corporal mía dentro de Ti, como Elías fue elevado al cielo en una llama»:*
 
 > This prayer was evidently startling; the beam disappeared. My body resumed its normal weight and sank on the bed; the swarm of dazzling ceiling lights flickered and vanished. My time to leave this earth had apparently not arrived.
 
@@ -2262,11 +2246,11 @@ La oración fue evidentemente sorprendente; el haz desapareció. Mi cuerpo recup
 
 Yogananda
 
-*«Además, pensó filosóficamente, bien podría el profeta Elías estar disgustado por mi presunción». Con ese humor cierra su capítulo sobre la ley de los milagros.*
+*«Además, pensó filosóficamente, bien podría el profeta Elías estar disgustado por mi presunción».*
 
 ## Capítulo 31: Una entrevista con la Madre Sagrada
 
-*De paso por Benarés, Yogananda cumple un viejo deseo: visitar a Kashi Moni, la compañera de vida de Lahiri Mahasaya, el maestro de su propio maestro. Ella lo recibe en la vieja casa de los Lahiri, en el barrio de Garudeswar Mohulla; ya anciana, florece como un loto y emana en silencio una fragancia espiritual. Lo lleva al cuartito donde vivió con su marido, el santuario en que el maestro sin par se dignó representar el drama humano del matrimonio, y le hace seña de que se siente a su lado. Y empieza a contar:*
+*Kashi Moni, la compañera de Lahiri Mahasaya, lo recibe en la vieja casa de Benarés y lo lleva al cuartito donde vivió con su marido:*
 
 > “It was years before I came to realize the divine stature of my husband,” she began. “One night, in this very room, I had a vivid dream.
 
@@ -2274,7 +2258,7 @@ Yogananda
 
 Kashi Moni
 
-*En el sueño vio ángeles gloriosos flotando en una gracia inimaginable; tan realista era la escena que despertó al instante, y el cuarto estaba extrañamente envuelto en una luz deslumbrante. Su marido, en postura de loto, levitaba en el centro de la habitación, rodeado de ángeles que lo adoraban con las palmas juntas. Asombrada sin medida, creyó seguir soñando:*
+*Despertó con el cuarto envuelto en luz: su marido levitaba en postura de loto, rodeado de ángeles que lo adoraban. Creyó seguir soñando:*
 
 > “‘Woman,’ Lahiri Mahasaya said, ‘you are not dreaming. Forsake your sleep forever and forever.’
 
@@ -2282,7 +2266,7 @@ Kashi Moni
 
 Lahiri Mahasaya
 
-*Mientras él descendía lentamente al suelo, ella se postró a sus pies:*
+*Mientras él descendía, ella se postró a sus pies:*
 
 > “‘Master,’ I cried, ‘again and again I bow before you! Will you pardon me for having considered you as my husband?
 
@@ -2290,21 +2274,13 @@ Lahiri Mahasaya
 
 Kashi Moni
 
-*Muerta de vergüenza por haber dormido en la ignorancia junto a alguien divinamente despierto, le pidió que desde esa noche fuera ya no su marido sino su guru y la aceptara como discípula. «Alma sagrada, levántate: quedas aceptada», respondió él, y le indicó que saludara a cada uno de los santos ángeles; las voces angélicas sonaron juntas como un coro de escritura antigua: «Consorte del Divino, eres bendita». Desaparecidas las formas refulgentes, el guru le pidió recibir la iniciación en el Kriya Yoga:*
+*Desde esa noche sería ya no su marido sino su guru («alma sagrada, levántate: quedas aceptada»); los ángeles la saludaron: «Consorte del Divino, eres bendita». Él le pidió recibir la iniciación en el Kriya Yoga, y ella lamentó no haberla tenido antes: «aún no era el tiempo», sonrió él; «gran parte de tu karma te he ayudado en silencio a resolverlo»:*
 
-> “‘Of course,’ I responded. ‘I am sorry not to have had its blessing earlier in my life.’
 
-«Por supuesto, respondí: lamento no haber tenido su bendición antes en mi vida.»
-
-Kashi Moni
-
-> “‘The time was not ripe.’ Lahiri Mahasaya smiled consolingly. ‘Much of your karma I have silently helped you to work out. Now you are willing and ready.’
-
-«Aún no era el tiempo: Lahiri Mahasaya sonrió consoladoramente: gran parte de tu karma te he ayudado en silencio a resolverlo. Ahora estás dispuesta y lista.»
 
 Lahiri Mahasaya
 
-*Él le tocó la frente: aparecieron masas de luz giratoria que se fueron formando en el ojo espiritual azul ópalo, anillado de oro y centrado por una estrella pentagonal blanca. Visión tras visión rompió como oleaje oceánico en las orillas de su alma, hasta que las esferas panorámicas se fundieron en un mar de dicha; horas después, al volver a este mundo, el maestro le dio la técnica del Kriya Yoga:*
+*Le tocó la frente: la luz giratoria formó el ojo espiritual azul ópalo, anillado de oro; visión tras visión se fundió en un mar de dicha:*
 
 > “From that night on, Lahiri Mahasaya never slept in my room again. Nor, thereafter, did he ever sleep.
 
@@ -2312,7 +2288,7 @@ Lahiri Mahasaya
 
 Kashi Moni
 
-*La venerable señora guardó silencio, y luego confesó un pecado contra su guru-marido. Meses después de su iniciación se sentía desvalida y desatendida; una mañana, vencida por una violenta ilusión, le reprochó con acritud que pasara todo el tiempo con los discípulos y no proveyera más dinero para la familia:*
+*Meses después, vencida por la ilusión, le reprochó que no proveyera dinero para la familia:*
 
 > “The master glanced at me for a moment, then lo! he was gone. Awed and frightened, I heard a voice resounding from every part of the room:
 >
@@ -2322,7 +2298,7 @@ Kashi Moni
 
 Kashi Moni
 
-*Ella imploró perdón un millón de veces, y la respuesta vino de arriba: el maestro se materializó en el aire, con la cabeza tocando el techo y los ojos como llamas cegadoras. Ya en el suelo, le enseñó que buscara la riqueza divina y no la pobre bisutería de la tierra, pues adquirido el tesoro interior, el suministro exterior siempre llega; y le anunció que uno de sus hijos espirituales proveería para ella, como de hecho ocurrió. No era Kashi Moni la única mujer discípula: eran cientos, incluida la propia madre de Yogananda. A una chela que le pidió su fotografía, el guru le entregó una copia con una advertencia: si la crees una protección, lo es; si no, es solo una foto. Días después, esa mujer y la nuera del maestro estudiaban el Bhagavad Gita bajo el retrato cuando estalló una tormenta eléctrica; el rayo cayó sobre el libro que leían y las dos salieron ilesas. Otra discípula, Abhoya, protagonizó dos milagros: el primero, cuando el tren de Benarés silbaba ya para partir y ella oró en silencio pidiendo que se detuviera; las ruedas giraban sin que el tren avanzara, ante el asombro del maquinista y los pasajeros, hasta que ella y su marido subieron. Al llegar, Abhoya se postró y trató de tocar los pies del maestro:*
+*Reapareció en el aire, con los ojos como llamas, y le enseñó: busca la riqueza divina, que la exterior siempre llega. Otra discípula, Abhoya, detuvo un tren con su oración silenciosa: las ruedas giraban sin avanzar hasta que ella subió. Al llegar se postró ante el maestro:*
 
 > “Compose yourself, Abhoya,” he remarked. “How you love to bother me! As if you could not have come here by the next train!”
 
@@ -2330,7 +2306,7 @@ Kashi Moni
 
 Lahiri Mahasaya
 
-*El segundo milagro fue con la cigüeña: ocho hijos había tenido Abhoya y todos murieron al nacer; el maestro le prometió que el noveno viviría, con una condición: la niña nacería de noche y la lámpara de aceite debía arder hasta el alba. La madre y la enfermera velaron hasta muy entrada la madrugada, pero al final se durmieron; el aceite casi se agotaba y la luz parpadeaba. Entonces la puerta del cuarto se abrió de golpe con un sonido violento:*
+*A su noveno hijo le prometió vida con una condición: la lámpara de aceite debía arder hasta el alba. Las mujeres se durmieron; la luz parpadeaba; la puerta se abrió de golpe:*
 
 > Their astonished eyes beheld the form of Lahiri Mahasaya.
 >
@@ -2340,15 +2316,10 @@ Sus ojos asombrados contemplaron la forma de Lahiri Mahasaya: «¡Abhoya, mira: 
 
 Lahiri Mahasaya
 
-*La enfermera rellenó la lámpara, y en cuanto ardió de nuevo el maestro se desvaneció; la niña sobrevivió y aún vivía en 1935. Otro testigo de primera mano, el venerable Kali Kumar Roy, contó a Yogananda sus años como huésped en la casa de Benarés:*
+*La niña vivió. Kali Kumar Roy, huésped asiduo de la casa, contó que muchos swamis santos llegaban en la quietud de la noche a sentarse a los pies del guru, y que jamás lo vio acostarse a dormir.*
 
-> “I observed that many saintly figures, danda swami, arrived in the quiet of night to sit at the guru’s feet. Sometimes they would engage in discussion of meditational and philosophical points. At dawn the exalted guests would depart. I found during my visits that Lahiri Mahasaya did not once lie down to sleep.
 
-«Observé que muchas figuras santas, swamis de danda, llegaban en la quietud de la noche a sentarse a los pies del guru. A veces discutían puntos de meditación y filosofía; al alba partían los exaltados huéspedes. Comprobé durante mis visitas que Lahiri Mahasaya no se acostaba ni una sola vez para dormir.»
-
-Kali Kumar Roy
-
-*Roy tenía un empleador empedernido en el materialismo que amenazaba con decirle al «guru charlatán» unas cuantas palabras memorables. Una noche lo siguió e irrumpió groseramente en la salita; apenas se hubo sentado, Lahiri Mahasaya propuso al grupo de unos doce discípulos ver «una película»: apagaron la luz, se sentaron en círculo y cada uno cubrió con las manos los ojos del de enfrente:*
+*Su empleador materialista irrumpió una noche a increpar al «charlatán»; el maestro apagó la luz y les propuso ver «una película», manos sobre los ojos del de enfrente:*
 
 > In a few minutes Lahiri Mahasaya asked us what we were seeing.
 >
@@ -2358,7 +2329,7 @@ A los pocos minutos, Lahiri Mahasaya nos preguntó qué estábamos viendo. «Se�
 
 Kali Kumar Roy
 
-*«¿Reconoces a esa mujer?», preguntó el maestro al empleador. El hombre, luchando con emociones nuevas para su naturaleza, confesó avergonzado que llevaba años gastando su dinero en ella teniendo una buena esposa, y pidió perdón y ser recibido como discípulo. «Si llevas una buena vida moral durante seis meses, te aceptaré», le dijo el maestro, y añadió enigmático: «de lo contrario, no tendré que iniciarte». El hombre se abstuvo tres meses; luego reanudó la relación, y dos meses después murió:*
+*El hombre la reconoció avergonzado: era en quien malgastaba su dinero. «Seis meses de vida moral y te acepto; si no, no tendré que iniciarte». A los tres meses recayó; a los dos, murió:*
 
 > Thus I came to understand my guru’s veiled prophecy about the improbability of the man’s initiation.”
 
@@ -2366,7 +2337,7 @@ Así llegué a comprender la profecía velada de mi guru sobre la improbabilidad
 
 Kali Kumar Roy
 
-*Cierra el capítulo la figura de Trailanga Swami, el gran amigo de Lahiri Mahasaya, al que se reputaba tener más de trescientos años: una libra de peso por cada año de vida. Miles lo vieron flotar sobre el Ganges o beber venenos mortales sin efecto; la policía de Benarés lo encarcelaba por su desnudez de Adán, y su enorme cuerpo aparecía paseando por el techo de la prisión con la celda aún cerrada. Un escéptico quiso desenmascararlo y le ofreció, burlándose con falsa reverencia, un cubo de cal apagada como si fuera leche cortada; Trailanga apuró hasta la última gota del líquido cáustico. A los pocos minutos el malhechor cayó al suelo en agonía, pidiendo ayuda y perdón:*
+*Cierra Trailanga Swami, el amigo de más de trescientos años: flotaba en el Ganges, y su cuerpo enorme aparecía en el techo de la cárcel con la celda cerrada. Un escéptico le ofreció cal apagada por leche cortada; él la apuró, y el bromista cayó en agonía:*
 
 > The great yogi broke his habitual silence. “Scoffer,” he said, “you did not realize when you offered me poison that my life is one with your own.
 
@@ -2374,11 +2345,11 @@ El gran yogui rompió su silencio habitual: «Burlón, dijo, no te diste cuenta,
 
 Trailanga Swami
 
-*Solo su conocimiento de que Dios está presente en su estómago como en cada átomo de la creación le salvó de la cal, le explicó; y el dolor rebotado en el agresor no fue venganza suya sino la ley de justicia que sostiene la creación: «Mía es la venganza; yo pagaré, dice el Señor». Cristo apuntó a la misma justicia divina ante los fariseos que le pedían reprender a sus discípulos: si estos callaran, las piedras gritarían. A Trailanga le tocó sanar al tío materno de Yogananda, que logró tocar sus pies en un ghat de Benarés y quedó libre al instante de una enfermedad crónica. Su única discípula viva conocida es Shankari Mai Jiew, una asceta nacida en 1826 que pasó cuarenta años en cuevas del Himalaya y conserva su pelo negro y su energía asombrosa. Cuando un discípulo objetó que un swami renunciante honrara en público a un simple casado, Trailanga respondió que Lahiri Mahasaya era como un gatito divino: quedándose donde la Madre Cósmica lo puso, y mientras cumplía con su papel de hombre de mundo, había alcanzado esa autorrealización perfecta para la que él había renunciado hasta a su taparrabos.*
+*No fue venganza sino la ley de justicia: «Mía es la venganza, dice el Señor». Cuando le objetaron que honrara a un casado, Trailanga respondió que Lahiri era un gatito divino que, cumpliendo su papel de hombre de mundo, había logrado esa realización para la que él había renunciado hasta a su taparrabos.*
 
 ## Capítulo 32: Rama es resucitado de entre los muertos
 
-*Una mañana soleada, en el balcón de la ermita de Serampore, Sri Yukteswar expone las escrituras cristianas ante unos discípulos y un grupo de muchachos de Ranchi: el pasaje de Lázaro, «Esta enfermedad no es para muerte, sino para la gloria de Dios». Y explica el sentido de esa gloria:*
+*En el balcón de la ermita de Serampore, Sri Yukteswar expone el pasaje de Lázaro («esta enfermedad no es para muerte, sino para la gloria de Dios»):*
 
 > “In this passage Jesus calls himself the Son of God. Though he was truly united with God, his reference here has a deep impersonal significance,” my guru explained.
 
@@ -2386,7 +2357,7 @@ Trailanga Swami
 
 Sri Yukteswar
 
-*El Hijo de Dios es la Conciencia Crística en el hombre, continúa: ningún mortal puede glorificar a una Abstracción que no conoce; el único honor que el hombre rinde a su Creador es buscarlo, y el nimbo alrededor de la cabeza de los santos es el testigo simbólico de su capacidad de rendir homenaje divino. Leyó luego el relato maravilloso de la resurrección de Lázaro y, al terminar, cayó en un largo silencio con el libro sagrado abierto sobre la rodilla:*
+*El Hijo de Dios es la Conciencia Crística en el hombre; ningún mortal puede glorificar a una Abstracción que no conoce. Tras leer la resurrección de Lázaro, cayó en un largo silencio:*
 
 > “I too was privileged to behold a similar miracle.” My guru finally spoke with solemn unction. “Lahiri Mahasaya resurrected one of my friends from the dead.”
 
@@ -2394,15 +2365,8 @@ Sri Yukteswar
 
 Sri Yukteswar
 
-*Los muchachos sonrieron con vivo interés. El amigo era Rama, tímido y recluso, que visitaba al guru solo a medianoche y al alba, cuando se ausentaba la multitud de discípulos diurnos; Yukteswar era el conducto espiritual por el que Rama dejaba salir la riqueza de sus percepciones:*
 
-> I found inspiration in his ideal companionship.” My guru’s face softened with memories.
-
-«Encontraba inspiración en su compañía ideal: el rostro de mi guru se ablandó de recuerdos.»
-
-Sri Yukteswar
-
-*Rama contrajo el cólera asiático. Como el maestro nunca se oponía a los médicos en las enfermedades graves, se llamó a dos especialistas, mientras Yukteswar corría a casa de Lahiri Mahasaya a sollozar la historia. «Los doctores están viendo a Rama; se pondrá bien», sonrió el guru. De vuelta junto al lecho, lo halló moribundo: no duraría más de una o dos horas. Corrió una vez más: «Los doctores son hombres concienzudos; estoy seguro de que Rama sanará», lo despidió el maestro alegremente. En la casa había ya una nota: «Hemos hecho lo posible; su caso no tiene esperanza». Y Rama se incorporó con un último esfuerzo:*
+*Rama, su amigo inseparable, tímido y recluso, contrajo el cólera asiático. Dos veces corrió Yukteswar a Lahiri Mahasaya, y dos veces oyó lo mismo: «los doctores están viendo a Rama; se pondrá bien». Pero los médicos dejaron una nota: «caso sin esperanza». Rama se incorporó con un último esfuerzo:*
 
 > “‘Yukteswar., run to Master and tell him I am gone. Ask him to bless my body before its last rites.’
 
@@ -2410,7 +2374,7 @@ Sri Yukteswar
 
 Rama
 
-*Con esas palabras suspiró pesadamente y entregó el espíritu. Yukteswar lloró una hora junto a la forma amada (siempre amante de la quietud, ahora había alcanzado el silencio total de la muerte) y, medio aturdido, regresó a pie a su guru:*
+*Espiró. Yukteswar lloró una hora junto a la forma amada y volvió medio aturdido con su guru:*
 
 > “‘How is Rama now?’ Lahiri Mahasaya’s face was wreathed in smiles.
 >
@@ -2420,7 +2384,7 @@ Rama
 
 Sri Yukteswar
 
-*En pocas horas vería su cuerpo camino de la hoguera, añadió entre gemidos. «Yukteswar, contrólate; siéntate tranquilo y medita»: el guru se retiró a samadhi y la tarde y la noche pasaron en silencio ininterrumpido:*
+*«Contrólate; siéntate y medita»: el guru se retiró a samadhi y la noche pasó en silencio:*
 
 > “At dawn Lahiri Mahasaya glanced at me consolingly. ‘I see you are still disturbed. Why didn’t you explain yesterday that you expected me to give Rama tangible aid in the form of some medicine?’
 
@@ -2428,7 +2392,7 @@ Sri Yukteswar
 
 Lahiri Mahasaya
 
-*El maestro señaló una lámpara en forma de copa que contenía aceite de ricino crudo: «Llena un frasquito de la lámpara; pon siete gotas en la boca de Rama». «Señor, protesté, lleva muerto desde ayer al mediodía; ¿de qué sirve el aceite ahora?». «No importa; haz lo que te pido». Halló el cuerpo rígido en el abrazo de la muerte y, sin atender a su condición espantosa, le abrió los labios con el dedo y fue dejando caer el aceite gota a gota sobre los dientes apretados. Al tocar la séptima gota los labios fríos, Rama se estremeció violentamente; sus músculos vibraron de pies a cabeza y se incorporó asombrado:*
+*Le señaló una lámpara con aceite de ricino: «siete gotas en la boca de Rama». Sobre los dientes apretados del cuerpo rígido fue cayendo el aceite; a la séptima gota, Rama se estremeció y se incorporó:*
 
 > “‘I saw Lahiri Mahasaya in a blaze of light,’ he cried. ‘He shone like the sun. ”Arise; forsake your sleep,” he commanded me. ”Come with Yukteswar to see me.’”
 
@@ -2436,7 +2400,7 @@ Lahiri Mahasaya
 
 Rama
 
-*Rama se vistió y, con fuerzas tras aquella enfermedad fatal, caminó hasta la casa del guru y se postró con lágrimas de gratitud. El maestro, fuera de sí de júbilo, bromeó con ojos pícaros: «Yukteswar, de ahora en adelante seguro que no dejarás de llevar contigo un frasco de aceite de ricino: ¡siete gotas de aceite de lámpara deben bastar, sin duda, para frustrar el poder de Yama!». Yukteswar le pidió que le señalara la naturaleza de su error, y Lahiri Mahasaya se la explicó: dos veces le había dicho que Rama estaría bien y él no lo había creído del todo; no quiso interferir con los médicos, que también tienen que vivir; pero lo dicho, dicho estaba:*
+*Rama caminó hasta la casa del guru. El maestro, entre risas, le señaló a Yukteswar su error: dos veces le había dicho que sanaría y él había dudado; no quiso interferir con los médicos, que también tienen que vivir; pero lo dicho, dicho estaba:*
 
 > ‘I know now that your simple word is binding on the whole cosmos.’”
 
@@ -2444,7 +2408,7 @@ Rama
 
 Sri Yukteswar
 
-*Cuando terminó el relato imponente, uno de los muchachos se atrevió a preguntar por qué aceite de ricino. «Niño, dar el aceite no tenía más significado que este: yo esperaba algo material, y Lahiri Mahasaya eligió el aceite cercano como símbolo objetivo para despertar mi fe mayor. El maestro dejó morir a Rama porque yo había dudado parcialmente; pero el guru divino sabía que, habiendo dicho que el discípulo sanaría, la cura debía ocurrir, ¡aunque tuviera que curar a Rama de la muerte, una enfermedad normalmente final!». Despedido el grupito, el maestro hizo seña a Yogananda de que se sentara a sus pies:*
+*¿Por qué el aceite?, preguntó un muchacho. «Yo esperaba algo material; el maestro eligió el aceite cercano como símbolo para despertar mi fe mayor; dejó morir a Rama porque dudé, pero habiendo dicho que sanaría, la cura debía ocurrir, ¡aunque tuviera que curarlo de la muerte!». Despedido el grupo, sentó a Yogananda a sus pies:*
 
 > “Yogananda,” he said with unusual gravity, “you have been surrounded from birth by direct disciples of Lahiri Mahasaya. The great master lived his sublime life in partial seclusion, and steadfastly refused to permit his followers to build any organization around his teachings. He made, nevertheless, a significant prediction.
 
@@ -2452,29 +2416,24 @@ Sri Yukteswar
 
 Sri Yukteswar
 
-*La predicción: unos cincuenta años después de su muerte, su vida sería escrita a causa del profundo interés que Occidente manifestaría por el yoga, y el mensaje yóguico rodearía el globo ayudando a establecer la hermandad de los hombres. «Hijo mío Yogananda, añadió el maestro, debes hacer tu parte en difundir ese mensaje y en escribir esa vida sagrada.» Cincuenta años después de la muerte de Lahiri Mahasaya en 1895 se cumplieron en 1945, el año de este libro y también el de la era atómica: la paz por la hermandad se volvió urgente. La India, sobreviviente de Babilonia y de Egipto, prueba que una tierra vive no de sus logros materiales sino de sus obras maestras humanas: la nación que produce diez hombres grandes ante el Juez Soborno no conocerá la extinción. Cierra el capítulo una breve biografía del maestro: nacido el 30 de septiembre de 1828 en Ghurni, aldea del distrito de Nadia; casado en 1846 con Kashi Moni; contable del departamento de ingeniería militar del gobierno inglés, un éxito también en el pequeño drama humano de su papel de oficinista. A los treinta y tres años, cerca de Ranikhet, conoció a Babaji y fue iniciado en el Kriya Yoga: la llama largamente escondida bajo la ceniza estalló al fin, y el arte perdido del yoga más alto volvía a la luz, como el Ganges celestial que baja de las fortalezas secretas del Himalaya a los polvorientos dominios de los hombres.*
+*La predicción se cumplió: cincuenta años después de su muerte, en 1945, año de este libro, su vida se escribió por el interés de Occidente en el yoga. Cierra su breve biografía: nacido en 1828 en Ghurni, casado con Kashi Moni, contable; a los treinta y tres, Babaji lo inició en el Kriya Yoga cerca de Ranikhet, y el arte perdido del yoga volvió a la luz.*
 
 ## Capítulo 33: Babaji, el yogui-Cristo de la India moderna
 
-*En las peñas del Himalaya norte, cerca de Badrinarayan, aún bendice el mundo la presencia viva de Babaji, el guru de Lahiri Mahasaya, que ha conservado su forma física durante siglos, tal vez milenios: el inmortal Babaji es un avatara, palabra sánscrita que significa «descenso» (de ava, «abajo», y tri, «pasar»): la bajada de la Divinidad a la carne. Las Upanishads clasifican minuciosamente cada etapa del avance espiritual: un siddha o «ser perfeccionado» ha pasado del estado de jivanmukta («libre estando vivo») al de paramukta («supremamente libre», con pleno poder sobre la muerte), y si este último regresa a un cuerpo físico es un avatar, un medio divinamente designado para bendiciones supernas sobre el mundo:*
+*Cerca de Badrinarayan, en el Himalaya, aún bendice el mundo la presencia viva de Babaji, el guru de Lahiri Mahasaya, que conserva su forma física desde hace siglos: es un avatara, «descenso» de la Divinidad a la carne:*
 
-> “Babaji’s spiritual state is beyond human comprehension,” Sri Yukteswar explained to me. “The dwarfed vision of men cannot pierce to his transcendental star. One attempts in vain even to picture the avatar’s attainment. It is inconceivable.”
+> “Babaji’s spiritual state is beyond human comprehension,” Sri Yukteswar explained to me. “The dwarfed vision of men cannot pierce to his transcendental star.
 
-«El estado espiritual de Babaji está más allá de la comprensión humana, me explicó Sri Yukteswar: la visión enana de los hombres no puede penetrar hasta su estrella trascendental. En vano se intenta siquiera imaginar la realización del avatar. Es inconcebible.»
+«El estado espiritual de Babaji está más allá de la comprensión humana, me explicó Sri Yukteswar: la visión enana de los hombres no puede penetrar hasta su estrella trascendental.»
 
 Sri Yukteswar
 
-*Un avatar no está sujeto a la economía universal: su cuerpo puro no proyecta sombra ni deja huella en el suelo, pruebas externas y simbólicas de una falta interior de oscuridad y de atadura material. Omar Jayam, tan groseramente incomprendido, cantó a ese hombre liberado en su Rubaiyat («Luna de mi Delicia, que no conoces menguante»), y Cristo lo expresó de otro modo: los zorros tienen madrigueras y las aves nidos, pero el Hijo del hombre no tiene dónde recostar la cabeza. La misión de Babaji ha sido asistir a los profetas en sus dispensaciones especiales: dio iniciación yóguica a Shankara, el antiguo fundador de la orden de los swamis, y a Kabir, el famoso santo medieval, y su principal discípulo del siglo XIX fue Lahiri Mahasaya, el restaurador del arte perdido del Kriya. El Mahavatar está en comunión constante con Cristo; juntos planearon la técnica espiritual de salvación para esta era. Nunca ha aparecido abiertamente en siglo alguno: como el Creador, única y silenciosa Potencia, trabaja en humilde oscuridad. No se han descubierto datos sobre su familia o su lugar de nacimiento; habla hindi, pero conversa con facilidad en cualquier idioma. No lleva marcas de edad: aparenta veinticinco años, con la tez clara y el largo pelo cobrizo. Y un hecho muy extraño: su parecido con Lahiri Mahasaya es tan asombroso que el discípulo, en sus últimos años, podría haber pasado por padre del joven Babaji.*
+*Un avatar no proyecta sombra ni deja huella; inició a Shankara y a Kabir y está en comunión constante con Cristo; como el Creador, trabaja en humilde oscuridad. Aparenta veinticinco años y se parece asombrosamente a Lahiri. Kebalananda, el tutor de sánscrito de Yogananda, pasó un tiempo con él: «el maestro sin par se mueve con su grupo de un lugar a otro, y cuando quiere mudarse dice: Dera danda uthao (levantemos el campamento y el bastón), y el grupo se traslada al instante»:*
 
-*Swami Kebalananda, el santo tutor de sánscrito de Yogananda, pasó un tiempo con Babaji en el Himalaya:*
-
-> “The peerless master moves with his group from place to place in the mountains,” Kebalananda told me. “His small band contains two highly advanced American disciples. After Babaji has been in one locality for some time, he says: ‘Dera danda uthao.’ (‘Let us lift our camp and staff.’)
-
-«El maestro sin par se mueve con su grupo de un lugar a otro en las montañas, me contó Kebalananda: su pequeña banda incluye dos discípulos americanos muy avanzados. Cuando Babaji lleva un tiempo en una localidad, dice: Dera danda uthao («levantemos el campamento y el bastón»).»
 
 Kebalananda
 
-*Esas palabras son la señal de mudarse instantáneamente a otro lugar, aunque a veces va a pie de pico en pico. Solo puede ser visto o reconocido cuando él lo desea, y se le conoce en formas ligeramente distintas, con barba o sin ella. Dos incidentes asombrosos contó Kebalananda. El primero: una noche, en torno a un gran fuego ceremonial védico, el maestro agarró de pronto un leño ardiendo y golpeó ligeramente el hombro desnudo de un chela. Ante la protesta de Lahiri («Señor, ¡qué crueldad!») preguntó: «¿Preferirías haberlo visto reducido a cenizas ante tus ojos, según el decreto de su karma pasado?», y posó la mano sanadora sobre el hombro desfigurado: «Te he librado esta noche de una muerte dolorosa; la ley kármica quedó satisfecha con tu leve sufrimiento por el fuego». El segundo: el círculo sagrado se vio perturbado por la llegada de un desconocido, que había escalado con destreza asombrosa hasta la repisa casi inaccesible del campamento:*
+*Dos incidentes contó. Uno: golpeó con un leño ardiendo el hombro de un chela; ante la protesta de Lahiri: ¿preferirías verlo reducido a cenizas según su karma? Y lo sanó: «la ley kármica quedó satisfecha con tu leve sufrimiento por el fuego». Otro: un desconocido escaló hasta la repisa del campamento:*
 
 > “‘Sir, you must be the great Babaji.’ The man’s face was lit with inexpressible reverence. ‘For months I have pursued a ceaseless search for you among these forbidding crags. I implore you to accept me as a disciple.’
 
@@ -2482,15 +2441,15 @@ Kebalananda
 
 El desconocido
 
-*El gran guru no respondió, y el hombre señaló el abismo rocoso a sus pies: «Si me rechaza, saltaré de esta montaña; la vida no tiene más valor si no gano su guía hacia lo Divino». «Salta, pues, dijo Babaji sin emoción: no puedo aceptarte en tu actual estado de desarrollo». El hombre se arrojó de inmediato por el precipicio; Babaji ordenó a los discípulos conmocionados que trajeran el cuerpo, y cuando volvieron con la forma destrozada, el maestro posó su mano divina sobre el muerto. Y he aquí que abrió los ojos y se postró humildemente ante el omnipotente:*
+*«Salta, pues, dijo Babaji sin emoción: no puedo aceptarte en tu actual estado». El hombre se arrojó al abismo; trajeron el cuerpo destrozado y el maestro posó su mano sobre el muerto:*
 
-> “‘You are now ready for discipleship.’ Babaji beamed lovingly on his resurrected chela. ‘You have courageously passed a difficult test. Death shall not touch you again; now you are one of our immortal flock.’
+> “‘You are now ready for discipleship.’ Babaji beamed lovingly on his resurrected chela. ‘You have courageously passed a difficult test.’
 
-«Ahora estás listo para el discipulado: Babaji sonrió amorosamente a su chela resucitado: has pasado con coraje una prueba difícil. La muerte no volverá a tocarte; ya eres uno de nuestra grey inmortal.»
+«Ahora estás listo para el discipulado: Babaji sonrió amorosamente a su chela resucitado: has pasado con coraje una prueba difícil. La muerte no volverá a tocarte.»
 
 Babaji
 
-*Para un avatar, que vive en el Espíritu omnipresente, no hay distancia inversa al cuadrado: solo una razón lo mueve a conservar su forma siglo tras siglo, y es dar a la humanidad un ejemplo concreto de sus propias posibilidades; sin un vislumbre de la Divinidad en la carne, el hombre seguiría oprimido por la pesada ilusión mayica de que no puede trascender su mortalidad. Como Cristo, que pronunció ciertas palabras «por la gente que está alrededor, para que crean», Babaji representa actos de su vida divina ante testigos. Así ocurrió con Ram Gopal Muzumdar, «el santo insomne», que contó a Yogananda su primer encuentro con Babaji. Una medianoche, meditando con el grupo de Lahiri Mahasaya en Benarés, recibió una orden sorprendente: ir al ghat de Dasasamedh. Allí, bajo la luna, una enorme losa de piedra se alzó gradualmente y de una cueva subterránea salió levitando, envuelta en un halo suave, una mujer joven y de belleza incomparable: Mataji, la hermana de Babaji, que había convocado a su hermano y a Lahiri para tratar un asunto de gran importancia. Una luz nebulosa cruzó el Ganges y se condensó en la forma humana de Lahiri Mahasaya; y una masa giratoria de luz mística descendió del cielo y se materializó en un joven hermoso, idéntico a Lahiri pero mucho más joven y de largo pelo brillante. Los tres se arrodillaron ante el guru:*
+*Solo una razón lo mueve a conservar su forma: dar a la humanidad un ejemplo concreto de sus posibilidades. Ram Gopal, «el santo insomne», contó su encuentro: en el ghat de Dasasamedh una losa se alzó sola y de una cueva salió levitando Mataji, la hermana de Babaji; una luz se condensó en Lahiri y un remolino flamígero se hizo Babaji, idéntico a Lahiri pero más joven:*
 
 > “‘Blessed sister,’ Babaji said, ‘I am intending to shed my form and plunge into the Infinite Current.’
 
@@ -2498,13 +2457,8 @@ Babaji
 
 Babaji
 
-> “‘I have already glimpsed your plan, beloved master. I wanted to discuss it with you tonight. Why should you leave your body?’
 
-«Ya he vislumbrado tu plan, amado maestro: quería hablarlo contigo esta noche. ¿Por qué habrías de dejar tu cuerpo?»
-
-Mataji
-
-*«¿Qué diferencia hay entre llevar una ola visible o invisible sobre el océano de mi Espíritu?», respondió Babaji; y Mataji, con un agudo destello de ingenio: «Guru inmortal, si no hay diferencia, entonces por favor no renuncies nunca a tu forma»:*
+*Mataji ya había vislumbrado su plan: «¿por qué habrías de dejar tu cuerpo?». «¿Qué diferencia hay entre una ola visible o invisible sobre el océano de mi Espíritu?», respondió él; y ella, ingeniosa: «si no hay diferencia, no renuncies nunca a tu forma»:*
 
 > “‘Be it so,’ Babaji said solemnly. ‘I will never leave my physical body. It will always remain visible to at least a small number of people on this earth. The Lord has spoken His own wish through your lips.’
 
@@ -2512,15 +2466,10 @@ Mataji
 
 Babaji
 
-*Mientras escuchaba asombrado la conversación entre esos seres exaltados, el gran guru se volvió hacia Ram Gopal con un gesto benigno: «No temas: eres bendito por ser testigo de la escena de esta promesa inmortal». Al apagarse la dulce melodía de su voz, las formas de Babaji y de Lahiri se elevaron despacio y retrocedieron sobre el Ganges, templeadas por una aureola de luz deslumbrante, hasta desvanecerse en el cielo nocturno; la forma de Mataji flotó hasta la cueva y la losa se cerró sola, como movida por un resorte invisible. Infinitamente inspirado, Ram Gopal emprendió el regreso a la casa de Lahiri Mahasaya y se inclinó ante él en la madrugada; el guru le sonrió comprensivamente:*
+*Las formas se elevaron aureoladas sobre el Ganges; la losa se cerró sola. De regreso al alba, Lahiri, que no se había movido de su estrado en toda la noche, le sonrió: «me alegro por ti; tu deseo de conocer a Babaji y a Mataji se ha cumplido al fin»:*
 
-> “‘I am happy for you, Ram Gopal,’ he said. ‘The desire of meeting Babaji and Mataji, which you have often expressed to me, has found at last a sacred fulfillment.’
 
-«Me alegro por ti, Ram Gopal, dijo: el deseo de conocer a Babaji y a Mataji, que tantas veces me has expresado, ha encontrado al fin un sagrado cumplimiento.»
-
-Ram Gopal
-
-*Los condiscípulos le informaron de que Lahiri Mahasaya no se había movido de su estrado desde la tarde anterior, y de que había dado un discurso maravilloso sobre la inmortalidad después de que él partiera al ghat: por primera vez comprendió del todo la verdad de los versos escriturales según los cuales el hombre autorrealizado puede aparecer en distintos lugares en dos o más cuerpos a la vez. Y así concluyó Ram Gopal: Babaji ha sido elegido por Dios para permanecer en su cuerpo durante este ciclo particular del mundo; las edades vendrán y pasarán, y el maestro inmortal, contemplando el drama de los siglos, seguirá presente en este escenario terrestre.*
+*El autorrealizado puede estar en dos lugares a la vez. Conclusión: Babaji fue elegido por Dios para permanecer en su cuerpo durante este ciclo del mundo; las edades pasarán y el maestro inmortal seguirá presente.*
 
 ## Capítulo 34: Materialización de un palacio en el Himalaya
 
