@@ -1220,6 +1220,8 @@ Yogananda
 
 ## Capítulo 16: Cómo burlar a los astros
 
+![En el balcón de Benarés, bajo la luna sobre el Ganges, Sri Yukteswar sana al joven discípulo que lleva el brazalete de plata y plomo](img/cgbabh_autobiografia-de-un-yogui_i-16.jpg)
+
 *«Mukunda, ¿por qué no te consigues un brazalete astrológico?». «¿Debería, maestro? No creo en la astrología». La respuesta fue toda una lección: no se trata de creer; la única actitud científica ante cualquier tema es preguntarse si es verdadero. La ley de la gravitación funcionaba con la misma eficiencia antes de Newton que después de él; el cosmos sería un caos si sus leyes necesitaran la sanción de la creencia humana. Los charlatanes han desacreditado la ciencia estelar, pero no hay que desechar la sabiduría por culpa de los «sabios»:*
 
 > The balanced rhythm of the universe is rooted in reciprocity,” my guru continued.
