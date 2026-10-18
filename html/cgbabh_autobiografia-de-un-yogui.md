@@ -1445,6 +1445,48 @@ Afzal
 
 *«Adiós, mundo: voy en busca del perdón del Amado Cósmico».*
 
+## Capítulo 19: Mi maestro, estando en Calcuta, aparece en Serampore
+
+*Dijen Babu, su compañero de cuarto en la pensión Panthi, se confesaba asediado por dudas ateísticas, aunque lo atormentaba una sospecha: ¿no existirán posibilidades inexploradas del alma? ¿No pierde el hombre su destino verdadero si no las explora? Una tarde Yogananda lo llevó a la ermita, y en presencia del maestro recibió tal paz espiritual que pronto fue visitante constante. Ambos cursaban juntos la carrera en el Serampore College y caminaban al ashram al terminar las clases. Una tarde, Kanai les salió al paso con malas noticias: el maestro había sido llamado a Calcuta por una nota urgente. Al día siguiente llegó una postal: «saldré de Calcuta el miércoles por la mañana; recíbanme con Dijen en el tren de las nueve». El miércoles, a eso de las ocho y media, un mensaje telepático de Sri Yukteswar destelló insistente en la mente de Yogananda: «me he retrasado; no reciban el tren de las nueve». «¡Tú y tu intuición!, se burló Dijen, ya vestido para salir. Yo prefiero fiarme de la palabra escrita del maestro». Y se fue dando un portazo. El cuarto estaba algo oscuro; Yogananda se acercó a la ventana enrejada que daba a la calle. La escasa luz del sol creció de pronto hasta una brillantez intensa en la que la ventana se desvaneció por completo:*
+
+> Against this dazzling background appeared the clearly materialized figure of Sri Yukteswar!
+
+¡Contra este fondo deslumbrante apareció la figura claramente materializada de Sri Yukteswar!.
+
+Yogananda
+
+*Atónito hasta el choque, se levantó de la silla y se arrodilló ante él; con su gesto acostumbrado le tocó los zapatos: un par familiar, de lona teñida de naranja con suela de cuerda. Sintió con claridad no solo la textura de la tela ocre, sino la superficie áspera del calzado y la presión de los dedos dentro. «Me alegro de que recibieras mi mensaje telepático: ya terminé mis asuntos en Calcuta y llegaré a Serampore en el tren de las diez»:*
+
+> Master’s voice was calm, entirely normal.
+
+«La voz del maestro era calmada, enteramente normal».
+
+Yogananda
+
+> As I still stared mutely, Sri Yukteswar went on, “This is not an apparition, but my flesh and blood form. I have been divinely commanded to give you this experience, rare to achieve on earth.
+
+«Como yo seguía mirándolo mudo, Sri Yukteswar prosiguió: "Esto no es una aparición, sino mi forma de carne y hueso. He recibido el mandato divino de darte esta experiencia, rara de lograr en la tierra"».
+
+Yogananda
+
+*«Espérame en la estación: tú y Dijen me verán venir hacia ustedes, vestido como ahora. Iré precedido de un compañero de viaje: un niño que lleva una jarra de plata»:*
+
+> My guru placed both hands on my head, with a murmured blessing.
+
+«Mi gurú puso ambas manos sobre mi cabeza, con una bendición murmurada».
+
+Yogananda
+
+*Al concluir con las palabras «taba asi», se oyó un peculiar retumbar y su cuerpo empezó a fundirse gradualmente dentro de la luz punzante: primero los pies y las piernas, luego el torso y la cabeza, como un pergamino que se enrolla; hasta el último instante pudo sentir sus dedos reposando leves sobre el cabello. La efulgencia se apagó y solo quedó la ventana enrejada con un pálido hilo de sol. Cuando Dijen volvió cabizbajo («el maestro no venía en el tren de las nueve, ni siquiera en el de las nueve y media»), lo tomó de la mano y lo arrastró a la estación sin oír protestas. El tren ya resoplaba detenido: ¡todo el tren está lleno de la luz del aura del maestro!:*
+
+> He is there!”
+
+¡Allí está!.
+
+Yogananda
+
+*«¿Lo sueñas?», se rió Dijen con sorna. Pero al terminar Yogananda su descripción, Sri Yukteswar apareció a la vista, con la misma ropa vista esa mañana, caminando despacio a la zaga de un niño que llevaba una jarra de plata. Una ola de frío temor recorrió al muchacho: ¿había vuelto a los días antiguos en que Jesús se apareció a Pedro sobre el mar? El maestro sonrió a Dijen: «yo también te envié un mensaje, pero no pudiste captarlo». Más tarde, ya en la calle, Dijen se detuvo con la indignación manando de cada poro: «¡el maestro me envió un mensaje y tú me lo ocultaste! ¡Exijo una explicación!». «¿Puedo yo evitar que tu espejo mental oscile con tanta inquietud que no registra las instrucciones de nuestro gurú?». La ira se desvaneció del rostro de Dijen: «el relato que acabo de oír de los poderes de nuestro gurú, dijo al llegar al college, me hace sentir que cualquier universidad del mundo es apenas un jardín de infancia».*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
