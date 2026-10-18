@@ -763,6 +763,83 @@ Yogananda
 
 *Le dio nombre y dirección (Swami Sri Yukteswar Giri, ermita de Serampore, a solo doce millas de Calcuta) y una orden que aguó el milagro: «Vendrás a mí en cuatro semanas», es decir, volver a casa, justo lo que el muchacho había jurado no hacer. Se despidió en tensión. En la ermita la hostilidad creció hasta que, tres semanas después, él y Jitendra partieron juntos a Serampore: el «pájaro joven» se disponía a «abatirse» peligrosamente cerca de Calcuta.*
 
+
+## Capítulo 11: Dos muchachos sin un céntimo en Brindaban
+
+*En Agra, su hermano Ananta lo sermoneó: el padre haría bien en desheredarlo por tirar la vida. «Dios primero; el dinero es su esclavo», respondió el muchacho. Y como seguía declarándose independiente de la fortuna paterna, Ananta le propuso poner su filosofía a prueba en el mundo tangible. Los términos: ir con Jitendra a Brindaban esa misma mañana sin una rupia, sin mendigar, sin revelar su apuro a nadie, sin faltar a ninguna comida y sin quedarse varados; si volvía antes de medianoche, sería el hombre más asombrado de Agra:*
+
+> “You well know, Ananta, I seek my inheritance from the Heavenly Father.”
+
+«Bien sabes, Ananta, que busco mi herencia del Padre Celestial».
+
+Yogananda
+
+> “I am conscious of my dependence on God.”
+
+«Soy consciente de mi dependencia de Dios».
+
+Yogananda
+
+*En la estación, Ananta los cacheó en busca de tesoros ocultos. Jitendra pidió un par de rupias de seguridad («hay algo reconfortante en el tintineo de las monedas») y Mukunda se negó en firme. Al despedirlos, al hermano escéptico le tembló la certidumbre:*
+
+> “If by any chance or grace you pass successfully through the Brindaban ordeal, I shall ask you to initiate me as your disciple.”
+
+«Si por casualidad o por gracia superas con éxito la prueba de Brindaban, te pediré que me inicies como tu discípulo».
+
+Ananta
+
+*En el tren, Jitendra lo pellizcó: no veía señales de que Dios fuera a proveer la próxima comida. Pero en el último tramo dos desconocidos se interesaron por los muchachos, los montaron en un coche de caballos y los dejaron en una imponente ermita. Su explicación a la anfitriona:*
+
+> As soon as we met on the train, I felt drawn to them as devotees of Lord Krishna.
+
+«En cuanto nos conocimos en el tren, me sentí atraído por ellos como devotos del Señor Krishna».
+
+Un desconocido del tren
+
+*La anfitriona, Gauri Ma, esperaba ese día a dos príncipes que habían cancelado a última hora: el banquete de treinta platos, digno de príncipes, fue para los dos muchachos. Jitendra rompió a llorar; Mukunda le devolvió el pellizco: «Tomás el incrédulo: el Señor trabaja, y con prisa». Después, bajo un árbol cadamba, Jitendra recayó en la duda («¿cómo vamos a ver la ciudad sin una pice?»), y un joven de agradable semblante se acercó a ofrecerse de guía. Ante el extraño honor, Mukunda preguntó por qué:*
+
+> “You are my guru.”
+
+«Tú eres mi gurú».
+
+Pratap Chatterji
+
+> One face was yours, my master! Often have I seen it in meditation!
+
+«¡Uno de los rostros era el tuyo, maestro mío! ¡Muchas veces lo he visto en meditación!».
+
+Pratap Chatterji
+
+*Pratap, que había visto a los dos muchachos en una visión del Señor Krishna durante sus oraciones del mediodía, los llevó en carruaje por los templos de Krishna, los colmó de dulces y les compró los billetes de vuelta a Agra y un fajo de rupias. En un rincón apartado de la estación, Mukunda lo inició en el kriya de Lahiri Mahasaya, el chintamani que abrevia el millón de años de la evolución espiritual:*
+
+> Be faithful in your practice; you will approach the Guru of all gurus.
+
+«Sé fiel a tu práctica; te acercarás al Gurú de todos los gurús».
+
+Yogananda, a Pratap
+
+*Jitendra lloró en el tren de vuelta, esta vez contra sí mismo: «¡Qué superficial mi confianza! ¡Nunca volveré a dudar de la protección de Dios!». Antes de medianoche, los dos «cenicientos» derramaron las rupias sobre la mesa de Ananta, que pasó de la broma a la solemnidad: la ley de la oferta y la demanda, concluyó, alcanza reinos más sutiles de lo que suponía:*
+
+> “I understand for the first time your indifference to the vaults and vulgar accumulations of the world.”
+
+«Comprendo por primera vez tu indiferencia ante las bóvedas y las vulgares acumulaciones del mundo».
+
+Ananta
+
+*Esa misma noche Ananta recibió la iniciación: el «gurú» Mukunda cargó con dos discípulos no buscados en un solo día. Tras una visita al Taj Mahal, Jitendra se quedó en Calcuta con su familia, y el muchacho llegó solo a Serampore: habían pasado veintiocho días desde Benarés. «Vendrás a mí en cuatro semanas»:*
+
+> Here I was, heart pounding, standing within his courtyard on quiet Rai Ghat Lane.
+
+«Allí estaba yo, con el corazón desbocado, de pie en su patio de la apacible Rai Ghat Lane».
+
+Yogananda
+
+> I entered for the first time the hermitage where I was to spend the best part of the next ten years with India’s Jyanavatar, “incarnation of wisdom.”
+
+«Entré por primera vez en la ermita donde pasaría la mejor parte de los diez años siguientes con el Jyanavatar de la India, la “encarnación de la sabiduría”».
+
+Yogananda
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
