@@ -382,6 +382,8 @@ Swami Kebalananda
 
 ## Capítulo 5: Un «santo de los perfumes» exhibe sus maravillas
 
+![Óleo al estilo de Nicholas Roerich: un yogui regordete y barbudo, sentado sobre una piel de leopardo, hace brotar con un gesto de bendición una lluvia luminosa de pétalos de rosa y jazmín sobre la palma de un muchacho; devotos en penumbra azul.](img/cgbabh_autobiografia-de-un-yogui_i-5.jpg)
+
 *El encuentro con el Santo de los Perfumes tuvo dos prólogos. El primero, en el templo de Kalighat, ante la imagen de Kali: un sadhu errante leyó en voz alta la confusión de sus pensamientos sobre los aspectos benignos y terribles de la naturaleza:*
 
 > “You have indeed penetrated the bewilderment of my thoughts!”
