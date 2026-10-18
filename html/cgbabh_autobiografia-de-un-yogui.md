@@ -1134,6 +1134,88 @@ Yogananda
 
 Sri Yukteswar
 
+## Capítulo 15: El robo de la coliflor
+
+*Para las vacaciones de verano se instaló con su gurú en la ermita de Puri, frente a la bahía de Bengala, y le llevó un regalo ceremonial: seis enormes coliflores plantadas con sus propias manos y cuidadas con la ternura de una madre que amamanta a su criatura. A la mañana siguiente, en la caminata por la playa, el maestro hizo marchar a los discípulos en dos filas al compás de una cancioncilla, y de pronto se detuvo: «¿te acordaste de cerrar con llave la puerta trasera de la ermita?». «Creo que sí, señor»:*
+
+> Sri Yukteswar was silent for a few minutes, a half-suppressed smile on his lips.
+
+«Sri Yukteswar se quedó en silencio unos minutos, con una sonrisa a medias contenida en los labios».
+
+Yogananda
+
+*«No, lo olvidaste. La contemplación divina no debe ser excusa para el descuido material: has faltado a tu deber de custodiar el ashram y serás castigado. Tus seis coliflores pronto serán solo cinco». Ya de regreso, el maestro lo mandó observar el camino: un campesino apareció bailando grotescamente y agitando los brazos, y al llegar al punto donde se perdería de vista, Sri Yukteswar dijo «ahora volverá». El hombre giró en el acto hacia la parte trasera del ashram:*
+
+> I had left it unlocked, even as my guru had said.
+
+«La había dejado sin llave, tal como mi gurú había dicho».
+
+Yogananda
+
+*El hombre salió al poco rato con una de las preciadas coliflores, caminando ya respetablemente, investido de la dignidad de la posesión. Yogananda salió en persecución indignada, pero el maestro lo llamó de vuelta, sacudido de risa de pies a cabeza: «ese pobre loco llevaba tiempo anhelando una coliflor; me pareció buena idea que consiguiera una de las tuyas, ¡tan mal guardadas!». El ladrón, de fijación vegetal, no había tocado los anillos de oro, el reloj ni el dinero que estaban a la vista sobre la manta. Esa noche le pidió una explicación:*
+
+> My guru shook his head slowly. “You will understand it someday.
+
+«Mi gurú negó lentamente con la cabeza. "Lo entenderás algún día"».
+
+Yogananda
+
+*«La ciencia pronto descubrirá algunas de estas leyes ocultas». Años después, cuando la radio asombró al mundo, recordó la predicción: los pensamientos no son más que vibraciones suavísimas que viajan por el éter, y su gurú era una radio humana perfecta, capaz de captar entre millones de voluntades la de un hombrecillo que ansiaba una coliflor, y de emitir la orden de retroceder y buscarla. Pocos días después desapareció una lámpara de queroseno. Convencido de la omnisciencia recién presenciada, esperó que el maestro la localizara como un juego de niños. Con gravedad exagerada, Sri Yukteswar interrogó a todos los residentes, recibió la confesión de un discípulo que la había usado para ir al pozo, y sentenció solemne: «buscad la lámpara cerca del pozo». Corrió allá: ¡nada!*
+
+> I realized that Master would never display his powers when challenged, or for a triviality.
+
+«Comprendí que el maestro jamás exhibiría sus poderes ante un desafío, ni por una trivialidad».
+
+Yogananda
+
+*¡Qué lástima no haberte guiado hasta la lámpara desaparecida: no soy un adivino!, se rio el maestro sin compunsión. ¡Ni siquiera un Sherlock Holmes satisfactorio! Semanas deliciosas siguieron. Para la procesión religiosa por el pueblo y la playa de Puri, en uno de los días más calurosos del verano, el discípulo protestó desesperado: «Guruji, ¿cómo llevar a los estudiantes descalzos sobre las arenas ardientes?».*
+
+> “I will tell you a secret,” Master responded.
+
+«Te diré un secreto», respondió el maestro.
+
+Yogananda
+
+*«El Señor enviará un paraguas de nubes; caminarán cómodos». Apenas salieron de la ermita con el estandarte de Sat-Sanga, la parte del cielo sobre sus cabezas se llenó de nubes como por magia y cayó una llovizna leve que refrescó las calles y el arenal durante las dos horas del desfile; en el instante exacto del regreso al ashram, nubes y lluvia pasaron sin dejar rastro:*
+
+> “You see how God feels for us,” Master replied after I had expressed my gratitude.
+
+«Ya ves cómo Dios siente por nosotros», respondió el maestro después de que le expresé mi gratitud.
+
+Sri Yukteswar
+
+*El capítulo prosigue con el festival del solsticio de invierno en Serampore: procesión descalza con cien voces y flautas, calles sembradas de flores, calderos humeantes de khichuri bajo el patio, sankirtan con armonio en el piso alto y el maestro, de oído perfecto, dejando a los cocineros para corregir a los cantores: «¡están desafinados!». A medianoche, lavados ya los calderos, el gurú lo llamó a su lado: «estoy complacido con tus alegres labores; te quiero conmigo: esta noche dormirás en mi cama»:*
+
+> I felt a tinge of unreality in the unexpected joy of sleeping beside my guru.
+
+«Sentí un dejo de irrealidad en la inesperada dicha de dormir junto a mi gurú».
+
+Yogananda
+
+*Apenas diez minutos después de acostarse, el maestro se levantó y empezó a vestirse: «cualquier estudiante que perdió su tren llegará pronto; tengamos comida lista». «¡Guruji, nadie vendría a la una de la mañana!». «Quédate en cama, que has trabajado muy duro. Pero yo voy a cocinar». Ante el tono resuelto, el discípulo saltó de la cama y lo siguió a la cocinita. El arroz y el dhal ya hervían cuando el maestro sonrió afectuoso: «esta noche has vencido la fatiga y el miedo al trabajo duro; nunca volverán a molestarte»:*
+
+> As he uttered these words of lifelong blessing, footsteps sounded in the courtyard.
+
+«Mientras pronunciaba estas palabras de bendición para toda la vida, sonaron pasos en el patio».
+
+Yogananda
+
+*Bajó corriendo y abrió a un grupo de estudiantes:*
+
+> “We made a mistake about train schedules, but felt we could not return home without a glimpse of our guru.”
+
+«Nos equivocamos con los horarios del tren, pero sentimos que no podíamos volver a casa sin un atisbo de nuestro gurú».
+
+Un estudiante
+
+*«Los ha estado esperando y en este momento les prepara la comida», resonó la voz acogedora de Sri Yukteswar. Y cuando los visitantes atónitos estuvieron en la cocina, el maestro se volvió hacia él con ojos chispeantes: «ahora que han terminado de cotejar notas, ¡sin duda quedaste satisfecho de que nuestros invitados sí perdieron su tren!».*
+
+> I followed him to his bedroom a half hour later, realizing fully that I was about to sleep beside a godlike guru.
+
+«Lo seguí a su dormitorio media hora después, comprendiendo plenamente que estaba a punto de dormir junto a un gurú semejante a un dios».
+
+Yogananda
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
