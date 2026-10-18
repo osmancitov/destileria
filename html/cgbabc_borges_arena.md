@@ -2,11 +2,13 @@
 
 # El Libro de Arena: trece cuentos
 
-## 1. El Otro
-
-
+![Óleo de fantasía al estilo de El Bosco: unas manos enguantadas sostienen un libro antiguo cuyas páginas se multiplican y se disuelven en arena, en una biblioteca en penumbra.](img/cgbabc_borges_arena_og.jpg)
 
 Jorge Luis Borges
+
+En 1975, Jorge Luis Borges publicó *El Libro de Arena*, trece cuentos que el autor prefiere presentar con un epílogo en lugar de un prólogo, porque prologar cuentos todavía no leídos es tarea casi imposible. Un viejo y un muchacho que son el mismo hombre conversan en un banco junto a un río, un congreso crece hasta confundirse con el cosmos y la suma de los días, una utopía cansa al hombre que la imagina y un libro de páginas infinitas se vuelve un objeto de pesadilla para quien lo posee.
+
+## 1. El Otro
 
 > El hecho ocurrió en el mes de febrero de 1969, al norte de Boston, en Cambridge. No lo escribí inmediatamente porque mi primer propósito fue olvidarlo, para no perder la razón. Ahora, en 1972, pienso que si lo escribo, los otros lo leerán como un cuento y, con los años, lo será tal vez para mí. Sé que fue casi atroz mientras duró y más aún durante las desveladas noches que lo siguieron.
 
