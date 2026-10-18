@@ -288,4 +288,190 @@ Macbeth
 
 *Y salen a cenar. La última frase es suya: «Vamos, y burlemos al tiempo con la apariencia más bella: un rostro falso ha de ocultar lo que sabe el corazón falso».*
 
+---
+
+## Acto II, escena 1
+
+![Grabado en línea: en un pasillo abovedado de castillo iluminado por una antorcha, Macbeth extiende la mano hacia una daga que flota en el aire con gotas de sangre en la hoja.](img/cgbaaj_macbeth_i-8.jpg)
+
+*Medianoche en el castillo. Banquo y su hijo Fleance cruzan el patio («¿Cómo va la noche, muchacho?», la primera frase de la escena): la luna ya cayó, «hay economía en el cielo: todas sus velas están apagadas». Banquo entrega la espada al muchacho: le pesa el sueño como plomo, y no quiere dormir, y dice por qué:*
+
+> Merciful powers, Restrain in me the cursed thoughts that nature Gives way to in repose!
+
+
+
+Poderes misericordiosos, contened en mí los pensamientos malditos a los que la naturaleza cede en el reposo.
+
+
+
+Banquo
+
+*Sobró decirlo: «Anoche soñé con las tres Hermanas Fatídicas: a vos os han mostrado algo de verdad». Aparece Macbeth, de ronda. Banquo le cuenta que el rey se recogió feliz y le manda un diamante a la anfitriona; Macbeth tienta a Banquo: «Si os mantenéis de mi parte cuando llegue el momento, os traerá honor». La respuesta de Banquo es limpia:*
+
+> So I lose none In seeking to augment it, but still keep My bosom franchis’d, and allegiance clear, I shall be counsell’d.
+
+
+
+Mientras no pierda ninguno al buscar aumentarlo, y conserve libre mi pecho y limpia mi lealtad, aceptaré consejo.
+
+
+
+Banquo
+
+*Se despiden. Solo, esperando la campana convenida, Macbeth la ve: una daga en el aire, el mango hacia su mano:*
+
+> Come, let me clutch thee:— I have thee not, and yet I see thee still.
+
+
+
+Ven, déjame aferrarte. No te tengo, y aun así te sigo viendo.
+
+
+
+Macbeth
+
+*«¿No eres sino una daga de la mente, una falsa criatura nacida de un cerebro oprimido por el calor?»; la ve con gotas de sangre en la hoja, y no hay tal cosa: es el negocio sangriento el que así informa a sus ojos. La noche está muerta, la brujería celebra sus ofrendas, el asesinato marcha con paso de fantasma. «Mientras yo amenazo, él vive»: las palabras enfrían los actos. Suena la campana. «La campana me invita», y la última frase de la escena es para el que duerme: «No la oigas, Duncan, pues es un toque de difuntos que te llama al cielo o al infierno».*
+
+---
+
+## Acto II, escena 2
+
+![Grabado en línea: unas manos manchadas de sangre se hunden en el agua oscura de una palangana de piedra bajo los arcos de un muro.](img/cgbaaj_macbeth_i-9.jpg)
+
+*Lady Macbeth espera en la oscuridad, y la primera frase de la escena es su brindis feroz: lo que emborrachó a los camareros la ha hecho a ella valiente; lo que los apagó a ellos, a ella le dio fuego. Chilla un búho («el fatal sereno, que da las buenas noches más severas»). Las puertas están abiertas, los criados roncan con sus bebidas drogadas. Ella dejó las dagas listas. Y confiesa lo único que la detuvo:*
+
+> I am afraid they have awak’d, And ’tis not done.
+
+
+
+Temo que se hayan despertado y no esté hecho.
+
+
+
+Lady Macbeth
+
+*Nada de eso: «Si no se hubiera parecido a mi padre mientras dormía, yo lo habría hecho». Sale Macbeth del cuarto del rey: «He hecho la fechoría». Está deshecho: cree haber oído un ruido (¿quién duerme en la segunda alcoba? Donalbain), se mira las manos («Esto es un triste espectáculo»), y cuenta que uno de los durmientes rió, otro gritó «¡Asesinato!», dijeron sus oraciones, y él:*
+
+> Methought I heard a voice cry, “Sleep no more!
+
+
+
+Me pareció oír una voz que gritaba: «¡No dormiréis más!
+
+
+
+Macbeth
+
+*«Pero ¿por qué no pude pronunciar «Amén»? Yo tenía más necesidad que nadie de bendición, y el «Amén» se me atascó en la garganta». Ella lo corta: pensar estas cosas así volverá locos a los dos. Pero él siguió oyendo la voz por toda la casa: «Glamis ha asesinado el sueño, y por eso Cawdor no dormirá más. ¡Macbeth no dormirá más!». Ella lo manda a lavarse «ese sucio testigo» y a devolver las dagas para untar de sangre a los camareros. Él no vuelve ahí ni muerto («Me da miedo pensar lo que he hecho; volver a mirarlo, no me atrevo»), así que va ella («Los dormidos y los muertos no son más que pinturas»). Llaman a la puerta del sur. Macbeth se mira las manos como si fueran ajenas:*
+
+> Ha, they pluck out mine eyes!
+
+
+
+¡Ah, me arrancan los ojos!
+
+
+
+Macbeth
+
+*«¿Lavará todo el océano del gran Neptuno esta sangre de mi mano hasta dejarla limpia? No: esta mano mía más bien enrojecerá los mares multitudinarios, volviendo roja la verde inmensidad». Ella vuelve con las manos del mismo color («Mis manos son de tu color, pero me da vergüenza llevar un corazón tan blanco») y lo arrastra a acostarse: «Un poco de agua nos limpia de este acto. ¡Qué fácil es, entonces!». Más golpes en la puerta. Macbeth se queda atrás un instante:*
+
+> To know my deed, ’twere best not know myself.
+
+
+
+Para conocer mi acto, lo mejor sería no conocerme.
+
+
+
+Macbeth
+
+*Y cierra la escena con el aldabonazo y su deseo: «¡Despierta a Duncan con tus golpes! ¡Ojalá pudieras!».*
+
+---
+
+## Acto II, escena 3
+
+![Grabado en línea: un portero viejo y desgreñado entreabre el gran portón de un castillo al amanecer; fuera aguardan nobles a caballo y en la escalera interior la corte se arremolina presa del alboroto.](img/cgbaaj_macbeth_i-10.jpg)
+
+*«¡Esto sí que es un llamar!»: la primera frase de la escena es del portero, que abre la puerta del castillo medio dormido y jugando a ser el portero del infierno. Va dejando pasar a sus condenados: un labrador que se ahorcó esperando abundancia, un sastre inglés ladrón de paño, y este:*
+
+> Faith, here’s an equivocator, that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven: O, come in, equivocator.
+
+
+
+Pues aquí hay un equivocador, que juraría en ambos platos de la balanza contra cualquiera de ellos; que cometió traición de sobra por amor de Dios, y aun así no pudo llegar al cielo con sus equívocos. Oh, entra, equivocador.
+
+
+
+Portero
+
+*(El equivocador: el que jura por ambos platillos de la balanza; alusión a los jesuitas de la pólvora, que mentían con verdad a medias, y eso no equivoca el camino al cielo.) «No hago más de portero del diablo», se cansa, y abre: son Macduff y Lennox. Entre chistes de taberna (la bebida provoca tres cosas: la nariz roja, el sueño y la orina; y con la lujuria, provoca el deseo y quita la ejecución), Macduff pregunta por el rey, que le mandó llamarlo temprano. Macbeth, ya vestido, lo guía: «Esta es la puerta». Lennox cuenta que la noche fue revuelta: chimeneas caídas, lamentos en el aire, gritos extraños de muerte, el pájaro oscuro clamando toda la noche; dicen que la tierra tenía fiebre y tembló. Sale Macduff del cuarto: «¡Oh horror, horror, horror!»:*
+
+> Confusion now hath made his masterpiece!
+
+
+
+¡La Confusión ha hecho ahora su obra maestra!
+
+
+
+Macduff
+
+*«¡Despertad, despertad! Tocad la campana de alarma. ¡Asesinato y traición!». Sale Lady Macbeth preguntando qué negocio es ese, y Macduff: «Oh, gentil señora, no es para vos oír lo que puedo decir». Sale Banquo («Querido Duff, te ruego que te desdigas y digas que no es así»). Y sale Macbeth, de luto perfecto:*
+
+> Had I but died an hour before this chance, I had liv’d a blessed time; for, from this instant There’s nothing serious in mortality.
+
+
+
+Si yo hubiera muerto una hora antes de este suceso, habría vivido un tiempo bendito; pues desde este instante no hay nada serio en lo mortal.
+
+
+
+Macbeth
+
+*Los hijos del rey, Malcolm y Donalbain, llegan al enterarse: los camareros aparecieron manchados de sangre, con las dagas sin limpiar sobre las almohadas. Y Macbeth suelta que los mató él, en un arrebato: «Oh, aún me arrepiento de mi furia, por haberlos matado». ¿Quién puede ser a la vez sabio, asombrado, templado y furioso, leal y neutral? Lady Macbeth se desvanece («¡Sacadme de aquí, oh!») y la apartan. Banquo convoca a juntarse y averiguar la obra sangrienta; todos juran contra la malicia traidora. Los dos hermanos se quedan atrás, hablando bajo: aquí «hay dagas en las sonrisas de los hombres: cuanto más cercano en sangre, más cercano a la sangre». Malcolm irá a Inglaterra, Donalbain a Irlanda:*
+
+> This murderous shaft that’s shot Hath not yet lighted; and our safest way Is to avoid the aim.
+
+
+
+Esta flecha asesina que se ha disparado aún no ha caído; y nuestro camino más seguro es evitar la puntería.
+
+
+
+Malcolm
+
+*«Por tanto, a caballo», sin despedidas. La última frase es de Malcolm: «Hay licencia en el hurto que se roba a sí mismo cuando no queda misericordia».*
+
+---
+
+## Acto II, escena 4
+
+![Grabado en línea: en un cielo oscuro como de medianoche un búho ratonero mata en vuelo a un halcón; abajo, en las caballerizas de un castillo, los caballos enloquecidos rompen los pesebres y se encabritan entre los escombros.](img/cgbaaj_macbeth_i-11.jpg)
+
+*Fuera del castillo, un viejo y Ross hablan de los presagios. «Recuerdo bien setenta años», dice el viejo en la primera frase de la escena, «pero esta noche dolorosa ha hecho bagatela de lo que sabía»: es de día y la noche oscura estrangula la lámpara viajera; el martes un búho ratonero mató a un halcón en su altura; los caballos de Duncan se volvieron salvajes, rompieron las caballerizas y, dicen, se comieron entre sí. El viejo lo resume:*
+
+> ’Tis unnatural, Even like the deed that’s done.
+
+
+
+Es antinatural, igual que el acto cometido.
+
+
+
+Viejo
+
+*Llega Macduff con las noticias: los culpables fueron «los que ha matado Macbeth», sobornados, dicen; y Malcolm y Donalbain huyeron, lo que hace caer la sospecha sobre ellos («¡Ambición pródiga, que devoras los medios de tu propia vida!»). La corona: Macbeth ya está nombrado y ha ido a Scone a ser investido; el cuerpo de Duncan va a Colmekill, la tumba sagrada de sus antepasados. Macduff no va a la coronación: se vuelve a Fife, no sin antes desearle a Ross, en la despedida, una frase con doble filo: «Bien, ojalá veáis allí las cosas bien hechas»; «¡no sea que nuestras ropas viejas nos sienten mejor que las nuevas!». Cierra la escena la bendición del viejo:*
+
+> God’s benison go with you; and with those That would make good of bad, and friends of foes!
+
+
+
+Que la bendición de Dios vaya con vos, y con los que quieran hacer bien del mal y amigos de enemigos.
+
+
+
+Viejo
+
 Osmancito, con la asistencia de Instinct
