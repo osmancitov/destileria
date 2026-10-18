@@ -2338,6 +2338,130 @@ Yogananda
 
 *«Además, pensó filosóficamente, ¡bien podría el profeta Elías disgustarse por mi presunción!».*
 
+## Capítulo 31: Una entrevista con la Madre Sagrada
+
+*«Madre Reverenda, fui bautizado en la infancia por su profético esposo; él fue el gurú de mis padres y de mi propio gurú Sri Yukteswarji; ¿me concederá entonces el privilegio de oír algunos incidentes de su vida sagrada?». Así se dirigía Yogananda a Srimati Kashi Moni, la compañera de vida de Lahiri Mahasaya: hallándose en Benares por un corto período, cumplía un deseo largamente sentido de visitar a la venerable señora, que lo recibió con agrado en la vieja casona de los Lahiri en el barrio de Garudeswar Mohulla. Aunque anciana, florecía como un loto, emanando en silencio una fragancia espiritual. «Hijo, eres bienvenido aquí; sube», y lo guio a un cuarto muy pequeño donde, por un tiempo, había vivido con su esposo, y lo acomodó en un cojín a su lado:*
+
+> “It was years before I came to realize
+
+«"Pasaron años antes de que llegara a comprender la estatura divina de mi esposo", comenzó».
+
+Yogananda
+
+*Una noche, en ese mismo cuarto, tuvo un sueño vívido: ángeles gloriosos flotaban en gracia inimaginable sobre ella; tan realista fue la visión que despertó en el acto, y la habitación estaba extrañamente envuelta en una luz deslumbrante. Su esposo, en postura de loto, levitaba en el centro del cuarto, rodeado de ángeles que lo adoraban con la suplicante dignidad de las palmas juntas. Asombrada sin medida, se convenció de que aún soñaba:*
+
+> “‘Woman,’ Lahiri Mahasaya said
+
+«"Mujer, dijo Lahiri Mahasaya, no estás soñando».
+
+Yogananda
+
+*«Abandona tu sueño por los siglos de los siglos»: mientras descendía lentamente al suelo, ella se postró a sus pies:*
+
+> “‘Master,’ I cried, ‘again and again I bow
+
+«"Maestro, exclamé, ¡una y otra vez me inclino ante ti!».
+
+Yogananda
+
+*«¿Me perdonarás por haberte considerado mi esposo? Muero de vergüenza al comprender que he permanecido dormida en la ignorancia junto a uno que está divinamente despierto»:*
+
+> From this night, you are no longer my husband, but my guru.
+
+«Desde esta noche ya no eres mi esposo, sino mi gurú».
+
+Yogananda
+
+*«¿Aceptarás mi insignificante ser como tu discípula?». El maestro la tocó suavemente: «alma sagrada, levántate: eres aceptada», y señalando a los ángeles añadió: «inclínate a tu vez ante cada uno de estos santos». Cuando hubo terminado sus humildes genuflexiones, las voces angélicas sonaron juntas, como un coro de una escritura antigua: «consorte del Divino, eres bendita; te saludamos», y se inclinaron a sus pies antes de que sus formas refulgentes se desvanecieran y el cuarto se oscureciera. El gurú le pidió entonces que recibiera la iniciación en el Kriya Yoga: «por supuesto, respondió; lamento no haber tenido su bendición antes en mi vida». «El tiempo no estaba maduro»:*
+
+> Lahiri Mahasaya smiled consolingly. ‘Much of your karma I have silently helped you to work out.
+
+«Lahiri Mahasaya sonrió consoladoramente. "Gran parte de tu karma te he ayudado en silencio a resolver».
+
+Yogananda
+
+*«Ahora estás dispuesta y lista». Le tocó la frente: aparecieron masas de luz giratoria y el resplandor se formó gradualmente en el ojo espiritual azul ópalo, anillado de oro y centrado con una estrella blanca pentagonal. «Penetra tu conciencia a través de la estrella en el reino del Infinito»: la voz de su gurú tenía una nota nueva, suave como música distante. Visión tras visión rompió como oleaje oceánico en las orillas de su alma; las esferas panorámicas se fundieron al fin en un mar de dicha, y cuando volvió, horas después, a la conciencia de este mundo, el maestro le dio la técnica del Kriya Yoga:*
+
+> “From that night on, Lahiri Mahasaya never slept
+
+«"Desde aquella noche, Lahiri Mahasaya no volvió a dormir en mi cuarto».
+
+Yogananda
+
+*Ni volvió él a dormir nunca más: permanecía en el cuarto delantero de la planta baja, en compañía de sus discípulos de día y de noche. La ilustre señora guardó silencio; comprendiendo lo única de su relación con el yogui sublime, Yogananda se atrevió al fin a pedirle más recuerdos: «hijo, eres codicioso; no obstante, tendrás una historia más», sonrió tímidamente, y le confesó un pecado que había cometido contra su gurú-esposo. Unos meses después de su iniciación, comenzó a sentirse desamparada y desdeñada; una mañana, Lahiri Mahasaya entró en el cuartito a buscar un objeto y ella lo siguió rápidamente, presa de violenta ilusión: «pasas todo tu tiempo con los discípulos; ¿qué hay de tus responsabilidades con tu esposa y tus hijos? Lamento que no te intereses en proveer más dinero para la familia»:*
+
+> “The master glanced at me for a moment
+
+«"El maestro me miró un momento y, ¡mirad!, ya no estaba».
+
+Yogananda
+
+*Asombrada y atemorizada, oyó una voz que resonaba desde cada parte del cuarto: «todo es nada, ¿no lo ves? ¿Cómo podría una nada como yo producir riquezas para ti?». «¡Guruji, exclamé, te imploro perdón un millón de veces! Mis ojos pecadores ya no pueden verte: por favor, aparece en tu forma sagrada». «Estoy aquí»: la respuesta vino de arriba; alzó la vista y vio al maestro materializarse en el aire, la cabeza tocando el techo y los ojos como llamas cegadoras; fuera de sí de miedo, yació sollozando a sus pies cuando él hubo descendido quedamente al suelo. «Mujer, dijo, busca la riqueza divina, no la mezquina quincalla de la tierra: tras adquirir el tesoro interior, hallarás que la provisión exterior siempre acude», y añadió: «uno de mis hijos espirituales proveerá para ti». Las palabras del gurú se cumplieron, naturalmente: un discípulo dejó una suma considerable para la familia. Al día siguiente, Yogananda volvió a la casa y disfrutó varias horas de discusión filosófica con Tincouri y Ducouri Lahiri, los dos hijos santos del gran yogui de la India, que seguían de cerca sus pasos ideales. Su esposa no era la única mujer discípula de Lahiri Mahasaya: había cientos, incluida la madre de Yogananda. A una chela que le pidió su fotografía, el gurú le entregó una copia con esta observación: «si la consideras una protección, así es; de otro modo, es solo una foto». Pocos días después, esa mujer y la nuera de Lahiri Mahasaya estudiaban la Bhagavad Gita en una mesa tras la que colgaba la foto del gurú, cuando estalló una tormenta eléctrica de gran furia: «¡Lahiri Mahasaya, protégenos!», y se inclinaron ante la imagen. El rayo cayó sobre el libro que leían, pero las dos devotas quedaron ilesas: «sentí como si una sábana de hielo hubiera sido colocada a mi alrededor para apartar el calor abrasador», explicó la chela. Lahiri Mahasaya hizo dos milagros en relación con una mujer discípula, Abhoya: partiendo un día con su esposo, un abogado de Calcuta, a visitar al gurú en Benares, el tráfico pesado demoró su carruaje y llegaron a la estación central de Howrah justo para oír silbar la partida del tren de Benares. Abhoya se detuvo en silencio junto a la boletería y oró para sí: «Lahiri Mahasaya, te suplico que detengas el tren: no puedo sufrir las punzadas de esperar otro día para verte». Las ruedas del tren resoplante siguieron girando y girando, pero sin avanzar; el maquinista y los pasajeros bajaron al andén a contemplar el fenómeno, y un guardia ferroviario inglés, contra todo precedente, ofreció sus servicios: «Babu, deme el dinero: yo les compraré los boletos mientras ustedes abordan». En cuanto la pareja quedó sentada y con los boletos en la mano, el tren avanzó lentamente, y nadie supió jamás cómo arrancó ni por qué se había detenido en primer lugar. Al llegar a la casa de Lahiri Mahasaya en Benares, Abhoya se postró en silencio ante el maestro e intentó tocarle los pies:*
+
+> “Compose yourself, Abhoya,” he remarked.
+
+«"Serénate, Abhoya, observó».
+
+Yogananda
+
+*«¡Cómo te gusta molestarme! ¡Como si no hubieras podido venir en el siguiente tren!». Abhoya visitó a Lahiri Mahasaya en otra ocasión memorable, esta vez en busca de su intercesión no con un tren, sino con la cigüeña: «te ruego que me bendigas para que mi noveno hijo viva; ocho bebés me han nacido y todos murieron poco después del parto». El maestro sonrió comprensivamente: «tu hijo por venir vivirá; sigue mis instrucciones con cuidado: la bebé, una niña, nacerá de noche; procura que la lámpara de aceite se mantenga ardiendo hasta el alba; no te duermas y permitas así que la luz se apague». La niña nació de noche, exactamente como previó el gurú omnisciente; la madre instruyó a su enfermera que mantuviera la lámpara llena de aceite, y ambas mujeres cumplieron la urgente vigilia hasta muy entrada la madrugada, pero al fin se durmieron: el aceite de la lámpara casi se había agotado y la luz parpadeaba débilmente. La puerta del dormitorio se desatrancó y se abrió de golpe con violento sonido; las mujeres despertaron sobresaltadas:*
+
+> Their astonished eyes beheld
+
+«Sus ojos asombrados contemplaron la forma de Lahiri Mahasaya».
+
+Yogananda
+
+*«¡Abhoya, mira, la luz casi se apaga!»: señaló la lámpara, que la enfermera se apresuró a rellenar; en cuanto volvió a arder con brillo, el maestro se desvaneció, la puerta se cerró y el cerrojo se ajustó sin agencia visible. El noveno hijo de Abhoya sobrevivió: en 1935, cuando Yogananda hizo averiguaciones, aún vivía. Uno de los discípulos de Lahiri Mahasaya, el venerable Kali Kumar Roy, le refirió muchos detalles fascinantes de su vida con el maestro: «fui a menudo huésped de su casa de Benares por semanas enteras, me contó Roy»:*
+
+> “I observed that many saintly figures
+
+«"Observé que muchas figuras santas, danda swamis, llegaban en el silencio de la noche a sentarse a los pies del gurú».
+
+Yogananda
+
+*A veces discutían puntos de meditación y de filosofía, y al alba partían los exaltados huéspedes:*
+
+> I found during my visits
+
+«En mis visitas comprobé que Lahiri Mahasaya no se acostaba a dormir ni una sola vez».
+
+Yogananda
+
+*En un período temprano de su asociación con el maestro, Roy tuvo que lidiar con la oposición de su empleador, un hombre embebido en materialismo: «no quiero fanáticos religiosos en mi personal, solía burlarse; si alguna vez conozco a tu gurú charlatán, le daré unas palabras para recordar»:*
+
+> “This alarming threat failed
+
+«"Esta alarmante amenaza no logró interrumpir mi programa habitual; pasaba casi todas las tardes en presencia de mi gurú».
+
+Yogananda
+
+*Una noche, el empleador lo siguió e irrumpió rudamente en la sala, sin duda bien dispuesto a soltar las pulverizantes observaciones que había prometido; no bien se hubo sentado el hombre, Lahiri Mahasaya se dirigió al grupito de unos doce discípulos: «¿querrían todos ver una imagen?». Cuando asintieron, les pidió oscurecer el cuarto: «siéntense uno tras otro en círculo, dijo, y coloquen las manos sobre los ojos del que tienen delante». No sorprendió a Roy ver que su empleador también seguía, aunque de mala gana, las indicaciones del maestro:*
+
+> In a few minutes Lahiri Mahasaya asked us
+
+«A los pocos minutos, Lahiri Mahasaya nos preguntó qué estábamos viendo».
+
+Yogananda
+
+*«Señor, respondí, aparece una hermosa mujer: viste un sari de borde rojo y está de pie junto a una planta oreja de elefante». Todos los demás discípulos dieron la misma descripción. El maestro se volvió hacia el empleador: «¿reconoces a esa mujer?». «Sí, respondió el hombre, luchando evidentemente con emociones nuevas para su naturaleza: he estado gastando neciamente mi dinero en ella, aunque tengo una buena esposa; me avergüenzan los motivos que me trajeron aquí; ¿me perdonas y me recibes como discípulo?». «Si llevas una buena vida moral durante seis meses, te aceptaré», y el maestro añadió enigmáticamente: «de lo contrario, no tendré que iniciarte». Por tres meses el empleador se abstuvo de la tentación; luego reanudó su antigua relación con la mujer, y dos meses después murió:*
+
+> Thus I came to understand
+
+«Así llegué a comprender la velada profecía de mi gurú sobre la improbabilidad de la iniciación de aquel hombre"».
+
+Yogananda
+
+*Lahiri Mahasaya tenía un amigo muy famoso, Swami Trailanga, del que se decía que tenía más de trescientos años; los dos yoguis se sentaban a menudo juntos en meditación. Si Cristo volviera a la tierra y caminara por las calles de Nueva York mostrando sus poderes divinos, causaría la misma excitación que creó Trailanga décadas atrás al pasar por los atestados callejones de Benares: en muchas ocasiones se lo vio beber, sin efecto adverso, los venenos más mortíferos; miles de personas lo han visto flotar sobre el Ganges, sentarse días enteros sobre el agua o permanecer larguísimos períodos bajo las olas. Con estas hazañas, Trailanga buscaba enseñar a los hombres que la vida de un yogui no depende del oxígeno ni de las condiciones y precauciones ordinarias. El yogui era grande no solo espiritual sino físicamente: su peso excedía las trescientas libras, ¡una libra por cada año de su vida!, pese a que comía rara vez. Trailanga permanecía siempre completamente desnudo, inconsciente de su desnudez como el primer Adán en el jardín del Edén; la acosada policía de Benares, muy consciente de ella, lo metió sin ceremonias a la cárcel: pronto se vio el enorme cuerpo de Trailanga, en su entereza acostumbrada, sobre el techo de la prisión, mientras su celda, aún cerrada con llave, no ofrecía pista alguna de su modo de escape. Los desalentados oficiales de la ley cumplieron una vez más su deber y apostaron un guardia ante la celda: el poder volvió a retirarse ante el derecho, y Trailanga fue pronto observado en su paseo despreocupado por el techo; la justicia es ciega, y la policía burlada decidió seguir su ejemplo. El gran yogui guardaba un silencio habitual y, tras semanas sin comida, rompía su ayuno con ollas de leche cuajada que le ofrecían los devotos. Un escéptico decidió exponerlo como charlatán y puso ante el swami un gran cubo de mezcla de cal, de la usada para blanquear las paredes: «maestro, dijo el materialista con burlona reverencia, te he traído leche cuajada; por favor, bébela». Trailanga apuró sin vacilar, hasta la última gota, el contenedor de cal ardiente, y a los pocos minutos el malhechor cayó al suelo en agonía: «¡ayuda, swami, ayuda!, gritó; ¡me quemo! ¡Perdona mi malvada prueba!». El gran yogui rompió su silencio habitual: «burlón, dijo, no comprendiste, al ofrecerme veneno, que mi vida es una con la tuya; salvo por mi conocimiento de que Dios está presente en mi estómago, como en cada átomo de la creación, la cal me habría matado; ahora que conoces el significado divino del bumerán, nunca más juegues trucos con nadie»:*
+
+> The well-purged sinner
+
+«El pecador bien purgado, sanado por las palabras de Trailanga, se alejó débilmente».
+
+Yogananda
+
+*El reverso del dolor no se debió a volición alguna del maestro, sino a la aplicación infalible de la ley de justicia que sostiene el orbe más lejano de la creación: los hombres de realización en Dios, como Trailanga, permiten que la ley divina opere instantáneamente, pues han desterrado para siempre toda contracorriente frustrante del ego. Los ajustes automáticos de la rectitud, pagados a menudo en moneda inesperada, sosiegan nuestra indignación apresurada ante la injusticia humana: «mía es la venganza; yo pagaré, dice el Señor». La omnipotencia de la ley espiritual fue señalada por Cristo con ocasión de su entrada triunfal en Jerusalén: cuando los discípulos y la multitud gritaban de gozo y ciertos fariseos se quejaron del espectáculo indigno, «Maestro, protestaron, reprende a tus discípulos», Jesús respondió: «os digo que, si estos callaran, las piedras clamarían en el acto». La gracia del yogui semejante a Cristo, Trailanga, fue concedida una vez al sajo mama de Yogananda, su tío materno: una mañana, el tío vio al maestro rodeado de una multitud de devotos en un ghat de Benares, logró abrirse paso hasta Trailanga y le tocó humildemente los pies, y se asombró de hallarse libre al instante de una dolorosa enfermedad crónica. La única discípula viva conocida del gran yogui es una mujer, Shankari Mai Jiew: vivió cuarenta años en una serie de cuevas solitarias del Himalaya cerca de Badrinath, Kedarnath, Amarnath y Pasupatinath, y aunque nació en 1826 conserva su cabello negro, sus dientes brillantes y su asombrosa energía. Ella contó que un día, sentada junto a Lahiri Mahasaya en el barrio de Barackpur, cerca de Calcuta, el gran gurú Babaji entró quedamente en la habitación y conversó con ambos. En una ocasión, Trailanga, abandonando su silencio habitual, honró muy señaladamente a Lahiri Mahasaya en público, y un discípulo de Benares objetó: «señor, ¿por qué tú, un swami y un renunciante, muestras tal respeto a un hombre de familia?». «Hijo mío, respondió Trailanga, Lahiri Mahasaya es como un gatito divino, que permanece donde la Madre Cósmica lo ha colocado: mientras representa con esmero su papel de hombre mundano, ha recibido esa perfecta autorrealización por la que yo he renunciado incluso a mi taparrabos».*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
