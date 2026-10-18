@@ -1552,6 +1552,82 @@ Yogananda
 
 *Rajendra y Auddy aparecieron en la puerta, y el resentimiento de sus caras se trocó en simpatía al ver al médico y el semblante algo demacrado del enfermo. Mukunda no pudo evitar reírse cuando colocaron el equipaje en el mismo rincón que había ocupado la víspera, y citó el viejo refrán: «había un barco que fue a España; cuando llegó, ¡regresó de nuevo!». Cuando el maestro entró en la habitación, se permitió la libertad de un convaleciente y le tomó la mano con cariño: «Guruji, desde mis doce años he hecho muchos intentos fallidos de llegar al Himalaya; por fin estoy convencido de que sin tus bendiciones la diosa Parvati no me recibirá».*
 
+## Capítulo 21: Visitamos Cachemira
+
+*Dos días después de la curación milagrosa, el maestro lo sorprendió: «ya estás fuerte para viajar; te acompañaré a Cachemira». Esa noche el grupo de seis tomó el tren hacia el norte. Primera parada pausada en Simla, ciudad reina reposando sobre el trono de las colinas del Himalaya. En un pintoresco mercado al aire libre, una vieja gritaba «fresas inglesas»; el maestro, curioso ante aquellas frutillas rojas, compró una cesta y la ofreció a Kanai y a Mukunda, que probó una y la escupió con prisa: «¡qué fruta tan agria; jamás me gustarán las fresas!». El maestro rió: «te gustarán en América. En una cena allá, tu anfitriona te las servirá con azúcar y crema; después de machacarlas con un tenedor, las probarás y dirás: ¡qué fresas tan deliciosas! Entonces recordarás este día en Simla». Muchos años después, recién llegado a América, cenaba en casa de la señora Alice T. Hasey en West Somerville, Massachusetts, cuando sirvieron un postre de fresas: la anfitriona tomó su tenedor, machacó las bayas y añadió crema y azúcar. «La fruta es algo ácida; creo que te gustará así». Mukunda probó un bocado y exclamó ¡qué fresas tan deliciosas!:*
+
+> At once my guru’s prediction in Simla emerged from the fathomless cave of memory.
+
+«Al instante, la predicción de mi gurú en Simla emergió de la cueva insondable de la memoria».
+
+Yogananda
+
+*De Simla a Rawalpindi, y allí alquilaron un gran landó tirado por dos caballos para el viaje de siete días hasta Srinagar, capital de Cachemira. El segundo día asomó la verdadera inmensidad del Himalaya; mientras las ruedas de hierro chirriaban por los caminos calurosos y pedregosos, iban embelesados con las vistas cambiantes de grandeza montañosa:*
+
+> “Sir,” Auddy said to Master, “I am greatly enjoying these glorious scenes in your holy company.”
+
+«"Señor, le dijo Auddy al maestro, disfruto enormemente de estas escenas gloriosas en su santa compañía"».
+
+Yogananda
+
+*Mukunda sintió una punzada de placer ante el cumplido, pues hacía de anfitrión en aquel viaje:*
+
+> Sri Yukteswar caught my thought; he turned to me and whispered:
+
+«Sri Yukteswar captó mi pensamiento; se volvió hacia mí y me susurró:».
+
+Yogananda
+
+*«No te hagas ilusiones: Auddy no está tan embelesado con el paisaje como con la perspectiva de dejarnos el tiempo suficiente para fumarse un cigarrillo». Horrorizado, Mukunda pidió en voz baja que no rompiera la armonía con palabras desagradables; apenas podía creer que Auddy ansiara fumar. Al detenerse el landó en un pequeño caravansar, mientras abrevaban los caballos, Auddy pidió permiso para ir un rato con el cochero, «a tomar un poco de aire». «Quiere humo fresco, no aire fresco», comentó el maestro, y al reanudar la marcha le indicó con los ojos chispeantes: «asoma el cuello por la portezuela y mira lo que Auddy hace con el aire». Obedeció, y se quedó atónito al ver a Auddy exhalando anillos de humo de cigarrillo. «Tiene razón, como siempre, señor: Auddy disfruta de una fumada junto con la panorámica».*
+
+*Noches en posadas rústicas, comida preparada por ellos mismos y jugo de lima en todas las comidas, por cuidado especial del maestro. En Srinagar ocuparon habitaciones en una posada de dos pisos con vista a las colinas nobles, con agua sacada de un pozo cercano, y peregrinaron al antiguo templo de Swami Shankara: ante la ermita de la cima, recortada audaz contra el cielo, Mukunda cayó en un trance extático y tuvo la visión de una mansión en la cumbre de una colina, en una tierra lejana; años después, al visitar por primera vez Los Ángeles y ver el gran edificio de la cresta del Monte Washington, lo reconoció de inmediato como la futura sede de la Self-Realization Fellowship. Siguieron a Gulmarg, «senderos montañosos de flores», seis mil pies más arriba: su primera monta en un caballo grande, una carrera disparatada tras el trotón incansable de Rajendra por el escarpado Khilanmarg, y por primera vez en esta vida los Himalayas nevados en todas direcciones, tendidos fila tras fila como siluetas de enormes osos polares; rodó alegre con sus jóvenes compañeros, todos de abrigo, por las laderas blancas y chispeantes. Después, los famosos jardines reales del emperador Jehangir en Shalimar y Nishat Bagh, con el palacio construido sobre una cascada natural, y paseos en shikaras de toldos bordados de rojo por los canales del lago Dal, entre jardines flotantes de troncos y tierra. «La Dama de Cachemira está coronada de montañas, enguirnaldada de lagos y calzada de flores».*
+
+*Tras semanas felices, le tocó volver a Bengala para el trimestre de otoño del Serampore College; Sri Yukteswar se quedó en Srinagar con Kanai y Auddy:*
+
+> Before I departed, Master hinted that his body would be subject to suffering in Kashmir.
+
+«Antes de partir, el maestro insinuó que su cuerpo sufriría en Cachemira».
+
+Yogananda
+
+*«Señor, usted parece la imagen de la salud», protestó. «Existe la posibilidad de que incluso abandone esta tierra». «¡Guruji!, exclamó, cayendo a sus pies en gesto implorante. Prométame que no dejará su cuerpo ahora; no estoy en absoluto preparado para seguir sin usted»:*
+
+> Sri Yukteswar was silent, but smiled at me so compassionately that I felt reassured.
+
+«Sri Yukteswar calló, pero me sonrió con tanta compasión que me sentí tranquilo».
+
+Yogananda
+
+*Se fue a regañadientes. Poco después de su regreso a Serampore le llegó un telegrama de Auddy: «maestro gravemente enfermo»:*
+
+> “Sir,” I wired my guru frantically, “I asked for your promise not to leave me. Please keep your body; otherwise, I also shall die.”
+
+«"Señor, telegrafié desesperado a mi gurú, le pedí su promesa de no dejarme. Por favor, conserve su cuerpo; de lo contrario, yo también moriré"».
+
+Yogananda
+
+> “Be it as you wish.” This was Sri Yukteswar’s reply from Kashmir.
+
+«"Sea como deseas". Esa fue la respuesta de Sri Yukteswar desde Cachemira».
+
+Yogananda
+
+*Una carta de Auddy informó días después que el maestro se había recuperado, pero a su vuelta a Serampore Mukunda lo halló con el cuerpo reducido a la mitad de su peso habitual: Sri Yukteswar había quemado en el fuego de aquella fiebre muchos pecados de sus discípulos. El método metafísico de la transferencia física de la enfermedad es conocido de los yoguis más avanzados: como un hombre fuerte ayuda a uno más débil cargando su pesado fardo, un superhombre espiritual puede aligerar las cargas físicas o mentales de sus discípulos compartiendo el karma de sus acciones pasadas; por un método secreto, el yogui une su mente y su vehículo astral a los del que sufre, y la enfermedad pasa, total o parcialmente, al cuerpo del santo. Jesús se significó a sí mismo como rescate por los pecados de muchos: con sus poderes divinos, su cuerpo jamás habría podido morir en la cruz de no cooperar él voluntariamente con la sutil ley cósmica de causa y efecto. Mukunda conoció a un santo indio con medio cuerpo ulcerado por una diabetes tan aguda que no podía estar sentado más de quince minutos seguidos; «Señor, oraba, ¿vendrás a mi templo roto?». Con dominio incesante de la voluntad llegó a sentarse dieciocho horas diarias en postura de loto, absorto en el trance extático:*
+
+> “And,” he told me, “at the end of three years, I found the Infinite Light blazing within my shattered form. Rejoicing in the joyful splendour, I forgot the body. Later I saw that it had become whole through the Divine Mercy.”
+
+«"Y, me contó, al cabo de tres años encontré la Luz Infinita ardiendo dentro de mi forma destrozada. Regocijado en el esplendor gozoso, olvidé el cuerpo. Más tarde vi que había quedado entero por la Misericordia Divina"».
+
+Yogananda
+
+*La historia registra el caso del rey Baber, fundador del imperio mogol en la India: su hijo, el príncipe Humayun, yacía enfermo de muerte, y el padre oró con determinación angustiada para recibir él la enfermedad y salvar al hijo; cuando los médicos ya no daban esperanza, Humayun sanó y Baber cayó enfermo y murió del mismo mal. Cuando Mukunda se atrevió a decir unas palabras de compasión por la figura demacrada de su gurú, este replicó alegremente: «tiene sus ventajas: ¡ahora puedo meterme en algunos ganjis que no me ponía desde hacía años!»:*
+
+> Listening to Master’s jovial laugh, I remembered the words of St. Francis de Sales: “A saint that is sad is a sad saint!”
+
+«Al escuchar la risa jovial del maestro, recordé las palabras de san Francisco de Sales: "¡un santo triste es un triste santo!"».
+
+Yogananda
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
