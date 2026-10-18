@@ -2114,6 +2114,9 @@ Yogananda
 
 ## Capítulo 28: Kashi, renacido y reencontrado
 
+
+![Kashi, renacido y reencontrado: un niño hindú arrodillado ante un yogui anciano que le señala el horizonte en la terraza de un ashram del Himalaya](img/cgbabh_autobiografia-de-un-yogui_i-28.jpg)
+
 *Un alumno le pregunta si seguirá siempre el camino de la renuncia; Kashi, un niño brillante de doce años, pregunta por su destino y oye: «Pronto estarás muerto». El niño le pide que lo busque cuando renazca:*
 
 > “Yes,” I promised. “If the Heavenly Father lends His aid, I will try to find you.”
@@ -2147,6 +2150,9 @@ Lo dirigí a un maestro del Himalaya que, hasta el día de hoy, guía al Kashi r
 Yogananda
 
 ## Capítulo 29: Rabindranath Tagore y yo comparamos escuelas
+
+
+![Rabindranath Tagore, un poeta anciano de barba blanca, enseña a cantar a sus alumnos bajo los grandes árboles de Santiniketan](img/cgbabh_autobiografia-de-un-yogui_i-29.jpg)
 
 *Bhola Nath, alumno de Ranchi que estudió antes en Santiniketan, la escuela de Tagore, canta a todas horas: el poeta les enseñaba a cantar como a los pájaros. Yogananda le responde:*
 
@@ -2183,6 +2189,9 @@ Rabindranath Tagore
 *Al día siguiente se despidieron; la escuelita creció hasta ser la universidad Viswa-Bharati, y cierra con su poema del país que despierta «a ese cielo de libertad».*
 
 ## Capítulo 30: La ley de los milagros
+
+
+![Los tres ermitaños de Tolstoi: tres ancianos de barbas blancas caminan sobre las aguas hacia el barco del obispo](img/cgbabh_autobiografia-de-un-yogui_i-30.jpg)
 
 *Un cuento de Tolstoi, Los tres ermitaños: tres viejos tan simples que su única oración es «Somos tres; Tú eres Tres; ten misericordia de nosotros», y con ella ocurren grandes milagros. El obispo les enseña las oraciones canónicas y se va en barco; entonces ve una luz que sigue la nave: son los tres, corriendo sobre las olas porque han olvidado lo aprendido:*
 
@@ -2275,6 +2284,9 @@ Yogananda
 *«Además, pensó filosóficamente, bien podría el profeta Elías estar disgustado por mi presunción».*
 
 ## Capítulo 31: Una entrevista con la Madre Sagrada
+
+
+![La Madre Sagrada en el cuartito de Benarés donde vivió con Lahiri Mahasaya, iluminado por una lámpara de aceite](img/cgbabh_autobiografia-de-un-yogui_i-31.jpg)
 
 *Kashi Moni, la compañera de Lahiri Mahasaya, lo recibe en la vieja casa de Benarés y lo lleva al cuartito donde vivió con su marido:*
 
@@ -2375,6 +2387,9 @@ Trailanga Swami
 
 ## Capítulo 32: Rama es resucitado de entre los muertos
 
+
+![Rama resucitado: el yogui en el balcón de la ermita de Serampore junto al joven que despierta a la vida](img/cgbabh_autobiografia-de-un-yogui_i-32.jpg)
+
 *En el balcón de la ermita de Serampore, Sri Yukteswar expone el pasaje de Lázaro («esta enfermedad no es para muerte, sino para la gloria de Dios»):*
 
 > “In this passage Jesus calls himself the Son of God. Though he was truly united with God, his reference here has a deep impersonal significance,” my guru explained.
@@ -2446,6 +2461,9 @@ Sri Yukteswar
 
 ## Capítulo 33: Babaji, el yogui-Cristo de la India moderna
 
+
+![Babaji, el yogui-Cristo de la India moderna, joven y luminoso, medita en su cueva del Himalaya](img/cgbabh_autobiografia-de-un-yogui_i-33.jpg)
+
 *Cerca de Badrinarayan, en el Himalaya, aún bendice el mundo la presencia viva de Babaji, el guru de Lahiri Mahasaya, que conserva su forma física desde hace siglos: es un avatara, «descenso» de la Divinidad a la carne:*
 
 > “Babaji’s spiritual state is beyond human comprehension,” Sri Yukteswar explained to me. “The dwarfed vision of men cannot pierce to his transcendental star.
@@ -2498,6 +2516,9 @@ Babaji
 *El autorrealizado puede estar en dos lugares a la vez. Conclusión: Babaji fue elegido por Dios para permanecer en su cuerpo durante este ciclo del mundo; las edades pasarán y el maestro inmortal seguirá presente.*
 
 ## Capítulo 34: Materialización de un palacio en el Himalaya
+
+
+![El palacio materializado por Babaji entre los picos azules del Himalaya, junto a la cueva de Drongiri](img/cgbabh_autobiografia-de-un-yogui_i-34.jpg)
 
 *El encuentro, oído de sus propios labios: en 1861 un telegrama lleva al contable Lahiri a Ranikhet, en el Himalaya; en el monte Drongiri una voz lo llama y llega a una cueva donde un joven idéntico a él lo esperaba: «La oficina fue traída para ti, no tú para la oficina»; fue Babaji quien sugirió su traslado a la mente de su superior. Un toque magnético en la frente le devuelve las memorias de su vida pasada:*
 
@@ -2558,6 +2579,9 @@ Lahiri Mahasaya
 *El cuarto oscuro se llenó de una luz como de luna y Babaji emergió: «¿Lahiri, me llamas por una bagatela? La verdad es para buscadores serios; de ahora en adelante vendré cuando me necesites, no siempre que me llames». Se quedó un rato por no desacreditar la palabra de su discípulo: hizo que cada uno tocara su carne cálida y sólida, pidió halua, charló afable, los bendijo y se desvaneció. Los Tomases dudantes quedaron convertidos en Paulos devotos.*
 
 ## Capítulo 35: La vida de Lahiri Mahasaya, semejante a la de Cristo
+
+
+![Lahiri Mahasaya meditando en la azotea de su casa de Benarés, sobre los tejados y el Ganges al anochecer](img/cgbabh_autobiografia-de-un-yogui_i-35.jpg)
 
 *El capítulo empieza lejos de Benarés, en el Jordán: Yogananda sostiene que Juan el Bautista fue, en vidas pasadas, el gurú de Jesús; Elías, y Jesús su discípulo Eliseo. Al pedir el bautismo a Juan, Jesús reconoce los derechos divinos de su maestro. El mismo lazo eterno unió a Babaji con Lahiri Mahasaya, a quien guió vida tras vida hasta reencontrarlo en Ranikhet. Y luego, desconocido para el mundo, desde un rincón de Benarés empezó a fluir una gran renovación espiritual. El jefe inglés de la oficina donde trabajaba el maestro fue de los primeros en notar algo:*
 
@@ -2665,6 +2689,9 @@ Yogananda
 
 ## Capítulo 36: El interés de Babaji por Occidente
 
+
+![Sri Yukteswar y Yogananda conversan bajo las estrellas en el jardín de la ermita de Serampore](img/cgbabh_autobiografia-de-un-yogui_i-36.jpg)
+
 *Noche de verano en Serampore: Yogananda le pregunta a su maestro si conoció alguna vez a Babaji:*
 
 > “Yes.” Master smiled at my direct question; his eyes lit with reverence. “Three times I have been blessed by the sight of the deathless guru.
@@ -2741,6 +2768,9 @@ Lahiri Mahasaya
 
 ## Capítulo 37: Parto hacia América
 
+
+![La visión en el almacén de Ranchi: una multitud luminosa de rostros occidentales anuncia el viaje a América](img/cgbabh_autobiografia-de-un-yogui_i-37.jpg)
+
 *Año 1920. En el almacén de la escuela de Ranchi tiene una visión: una multitud de caras occidentales. «Voy a descubrir América, como Colón», le dice al niño Bimal. Al día siguiente llega la confirmación: una invitación a un Congreso de Liberales Religiosos en Boston. Corre a Serampore y el maestro lo despacha: todas las puertas están abiertas; es ahora o nunca:*
 
 > “I give you this money,” he said, “not in my capacity as a father, but as a faithful disciple of Lahiri Mahasaya.
@@ -2814,6 +2844,9 @@ Sri Yukteswar
 
 ## Capítulo 38: Luther Burbank, un santo entre las rosas
 
+
+![Luther Burbank, un santo entre las rosas: el anciano horticultor en su huerto de Santa Rosa, California](img/cgbabh_autobiografia-de-un-yogui_i-38.jpg)
+
 *Santa Rosa, California: visita a Luther Burbank, el gran horticultor. Su secreto no es solo la ciencia, sino el amor: hablaba a los cactus para que soltaran las espinas:*
 
 > “While I was conducting experiments to make ‘spineless’ cacti,” he continued, “I often talked to the plants to create a vibration of love. ‘You have nothing to fear,’ I would tell them. ‘You don’t need your defensive thorns. I will protect you.’
@@ -2858,6 +2891,9 @@ Yogananda
 
 
 ## Capítulo 39: Therese Neumann, la estigmatizada católica
+
+
+![Therese Neumann, la estigmatizada de Konnersreuth, en éxtasis de oración entre las velas de su iglesia](img/cgbabh_autobiografia-de-un-yogui_i-39.jpg)
 
 *1935. Quince años después de llegar a América, meditando en Mt. Washington, oye en el oído interior la voz de su maestro, que lo llama de vuelta a la India:*
 
@@ -2935,6 +2971,9 @@ Yogananda
 
 
 ## Capítulo 40: Regreso a la India
+
+
+![El Rajputana atraca en Bombay: guirnaldas, reporteros y una multitud esperan en el muelle](img/cgbabh_autobiografia-de-un-yogui_i-40.jpg)
 
 *22 de agosto de 1935: el Rajputana atraca en Bombay. Guirnaldas en el muelle, reporteros, y luego Calcuta, donde una multitud inmensa los espera en la estación de Howrah, encabezada por el joven maharajá de Kasimbazar y su hermano Bishnu. Su anciano padre lo abraza como a un resucitado. Y luego viene el reencuentro que de verdad importa:*
 
@@ -3031,6 +3070,9 @@ Yogananda
 Yogananda y el señor Wright
 
 ## Capítulo 41: Un idilio en el sur de la India
+
+
+![Un idilio en el sur de la India: palacios y templos de Mysore entre colinas, bosques y elefantes](img/cgbabh_autobiografia-de-un-yogui_i-41.jpg)
 
 *Noviembre de 1935. Yogananda y su secretario, el señor Wright, pasan un mes como invitados del Estado de Mysore, en el sur de la India: tierra de palacios, templos y bosques con elefantes. En el templo de Chamundi, sobre la colina, Yogananda le da una noticia a su compañero: es el primer occidental que entra en ese santuario; muchos lo han intentado en vano:*
 
@@ -3143,6 +3185,9 @@ Yogananda
 *El cansado muchacho llegó a su casa por el método antiguo y prosaico de caminar a pie. Wright y Yogananda siguen hacia Calcuta, donde lo espera el Congreso Filosófico de la India.*
 
 ## Capítulo 42: Los últimos días con mi gurú
+
+
+![Los últimos días con mi gurú: el discípulo ofrece frutas y rosas a su anciano maestro en el jardín](img/cgbabh_autobiografia-de-un-yogui_i-42.jpg)
 
 *Año 1936. Llega a Serampore con frutas y rosas y le reclama al maestro que nunca le ha dicho «te amo»:*
 
@@ -3332,6 +3377,9 @@ Yogananda
 
 ## Capítulo 43: La resurrección de Sri Yukteswar
 
+
+![La resurrección de Sri Yukteswar: el maestro aparece luminoso en la habitación del hotel Regent de Bombay](img/cgbabh_autobiografia-de-un-yogui_i-43.jpg)
+
 *Bombay, junio de 1936. Yogananda viaja con su secretario, el señor Wright, recorriendo las maravillas de la India antes de volver a América. Una tarde, solo en su cuarto del hotel Regent, entregado a la meditación, la habitación se transforma en un mundo extraño y ante él aparece, de carne y hueso, el maestro muerto tres meses atrás:*
 
 > Waves of rapture engulfed me as I beheld the flesh and blood form of Sri Yukteswar!
@@ -3512,6 +3560,9 @@ Ma
 
 ## Capítulo 44: Con Mahatma Gandhi en Wardha
 
+
+![Mahatma Gandhi hilando algodón en su rueca en el ashram de Wardha](img/cgbabh_autobiografia-de-un-yogui_i-44.jpg)
+
 *Wardha, agosto de 1935. Yogananda pasa unos días en el ashram de Mahatma Gandhi (los indios lo llaman así: «gran alma»), el hombre cuya resistencia sin armas tiene en jaque al imperio británico. En la comunidad conoce a Madeleine Slade, hija de un almirante inglés, que vive allí como una monja hindú y hace los trabajos más humildes:*
 
 > “I came to India in 1925,” she told me. “In this land I feel that I have ‘come back home.’ Now I would never be willing to return to my old life and old interests.”
@@ -3645,6 +3696,9 @@ Yogananda
 ## Capítulo 45: La bengalí «Madre Impregnada de Gozo»
 
 
+![Ananda Moyi Ma, la Madre Impregnada de Gozo, radiante entre sus devotos en un jardín de Calcuta](img/cgbabh_autobiografia-de-un-yogui_i-45.jpg)
+
+
 *Calcuta, 1935. La sobrina de Yogananda, Amiyo Bose, le habla de una mujer santa venerada en toda la India: Ananda Moyi Ma, la «Madre Impregnada de Alegría». Él ya sabía de ella:*
 
 > “I have read of her advanced state of God-realization. A little article about her appeared years ago in East-West.”
@@ -3736,6 +3790,9 @@ Ananda Moyi Ma
 
 
 ## Capítulo 46: La yoguina que nunca come
+
+
+![Giri Bala, la yoguina que nunca come, medita frente a su choza junto al río en Bengala](img/cgbabh_autobiografia-de-un-yogui_i-46.jpg)
 
 *Con el señor Wright y dos estudiantes bengalíes, Yogananda viaja a Burighat, en el Bengala, para conocer a Giri Bala, una mujer yogui de la que se dice que no ha comido nada en cincuenta y seis años; dos veces ha pasado semanas observada a puerta cerrada por escépticos, sin probar bocado. Los recibe un vecino anciano, Lambadar Babu:*
 
@@ -3836,6 +3893,9 @@ Giri Bala
 ## Capítulo 47: Regreso a Occidente
 
 
+![Regreso a Occidente: el yogui reparte regalos de la India en la fiesta de Navidad de Los Ángeles](img/cgbabh_autobiografia-de-un-yogui_i-47.jpg)
+
+
 *Septiembre de 1936: da clases en Londres y regresa a Los Ángeles para la fiesta de Navidad del centro, con regalos de la India para los discípulos:*
 
 > “Thank you, sir; it brings the pageant of India before my eyes.”
@@ -3887,6 +3947,9 @@ Sr. Dickinson
 
 
 ## Capítulo 48: En Encinitas, California
+
+
+![Encinitas, California: ermitas y jardines de la colonia junto al Pacífico al atardecer](img/cgbabh_autobiografia-de-un-yogui_i-48.jpg)
 
 *El último capítulo vuelve a California, a Encinitas, la colonia junto al mar que la Self-Realization Fellowship ha levantado en pocos años. Antes, un recuerdo de los comienzos: en 1920, en Filadelfia, un amigo le advierte que no cante himnos orientales, no vaya el público a responder con tomates maduros:*
 
