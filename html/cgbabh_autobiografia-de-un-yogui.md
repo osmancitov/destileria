@@ -371,6 +371,55 @@ Ramu
 
 Swami Kebalananda
 
+
+## Capítulo 5: Un «santo de los perfumes» exhibe sus maravillas
+
+*El encuentro con el Santo de los Perfumes tuvo dos prólogos. El primero, en el templo de Kalighat, ante la imagen de Kali: un sadhu errante leyó en voz alta la confusión de sus pensamientos sobre los aspectos benignos y terribles de la naturaleza:*
+
+> “You have indeed penetrated the bewilderment of my thoughts!”
+
+«¡De veras ha penetrado usted la confusión de mis pensamientos!».
+
+Yogananda
+
+*El sadhu disertó sobre el enigma del bien y del mal, sobre el autoescrutinio que pulveriza el ego y produce videntes, y sobre la compasión que madura cuando uno descubre la unidad de todas las mentes:*
+
+> “The saints of every age, sir, have felt like yourself for the sorrows of the world.”
+
+«Los santos de todas las épocas, señor, han sentido como usted por los dolores del mundo».
+
+Yogananda
+
+> By ignoble whips of pain, man is driven at last into the Infinite Presence, whose beauty alone should lure him.
+
+«Con ignominiosos latigazos de dolor, el hombre es empujado al fin a la Presencia Infinita, cuya belleza por sí sola debería atraerlo».
+
+El sadhu de Kalighat
+
+*Al despedirse, el sadhu le profetizó: «Después de que salgas de aquí hoy, te llegará una experiencia inusual». A la vuelta de una esquina lo atrapó un viejo conocido conversador, de esos que ignoran el tiempo:*
+
+> Inwardly I petitioned the Goddess Kali to devise a graceful means of escape.
+
+«En mi interior le pedí a la diosa Kali que ideara un medio elegante de escape».
+
+Yogananda
+
+*El hombre lo soltó por fin, pero volvió corriendo solo para decirle que en esa casa estaba Gandha Baba, el Santo de los Perfumes: «Puedes tener una experiencia inusual». La profecía repetida lo decidió a entrar. Sobre una piel de leopardo, el yogi regordete le ofreció un perfume. Siguió un duelo verbal: ¿esclavizar a Dios para hacer olores?, ¿doce años de práctica para fabricar lo que cuesta unas rupias en la floristería? El santo, divertido, capituló:*
+
+> Mr. Philosopher, you please my mind.
+
+«Señor Filósofo, me complace su mente».
+
+Gandha Baba
+
+*«Extiende la mano derecha», le ordenó. Sin tocarlo, le preguntó qué perfume quería: «Rosa». Y de la palma de la mano brotó con fuerza una fragancia de rosa; luego, a pedido del muchacho, una flor blanca sin olor se llenó al instante de jazmín. En casa, su hermana Uma olió ambas maravillas, lo que descartó la autosugestión. Un discípulo le contó que el maestro de Gandha Baba era un yogi tibetano de más de mil años; años después entendería que estos prodigios eran materializaciones reales de vibraciones, no hipnosis. Espectaculares, pero espiritualmente inútiles, concluye: desvíos de la búsqueda seria de Dios, como el fakir que se enorgullece de dominar el agua (¡una rana también se mueve en el agua!, se burlaba el místico persa Abu Said). Ni el sabio de Kalighat ni el yogi entrenado en el Tíbet colmaron su anhelo:*
+
+> A guru too literally “marvelous” was not to my liking.
+
+«Un gurú demasiado literalmente “maravilloso” no era de mi gusto».
+
+Yogananda
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
