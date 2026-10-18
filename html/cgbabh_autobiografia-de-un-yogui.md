@@ -188,6 +188,8 @@ La madre
 
 ## Capítulo 3: El santo de los dos cuerpos
 
+![Óleo al estilo de Nicholas Roerich: el doble luminoso de un yogui se aparece ante un niño asombrado mientras su cuerpo medita en otra parte; celda sencilla de Benarés, picos del Himalaya por la ventana.](img/cgbabh_autobiografia-de-un-yogui_i-3.jpg)
+
 *El padre le permitió un viaje a Benarés con dos cartas: una para un amigo suyo cuya dirección había perdido, y otra de presentación para el swami Pranabananda, discípulo de Lahiri Mahasaya, que sabría encontrarlo. El swami lo recibió como a un viejo amigo, adivinó quién era antes de leer la carta y bromeó: gozaba de dos pensiones, una del ferrocarril por recomendación del padre y otra «del Padre Celestial», una pensión de paz insondable. Luego cayó en un silencio de esfinge, del que salió solo para anunciar que el hombre buscado llegaría en media hora. El niño no entendía nada:*
 
 > The swami has spoken to no one but myself since my arrival!
