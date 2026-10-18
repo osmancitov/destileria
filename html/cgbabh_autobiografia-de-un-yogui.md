@@ -2838,151 +2838,225 @@ Yogananda
 
 ## Capítulo 35: La vida de Lahiri Mahasaya, semejante a la de Cristo
 
-*«Así nos conviene cumplir toda justicia»: con estas palabras a Juan el Bautista, al pedirle que lo bautizara, Jesús reconocía los derechos divinos de su gurú. De un estudio reverente de la Biblia desde un punto de vista oriental, y de la percepción intuitiva, estoy convencido de que Juan el Bautista fue, en vidas pasadas, el gurú de Cristo: numerosos pasajes infieren que Juan y Jesús fueron, en sus últimas encarnaciones, Elías y su discípulo Eliseo. El vínculo eterno de gurú y discípulo que existió entre Juan y Jesús estuvo presente también para Babaji y Lahiri Mahasaya: con tierna solicitud, el gurú inmortal nadó las aguas leteas que se arremolinaban entre las dos últimas vidas de su chela, y no fue hasta el año treinta y tres del discípulo cuando Babaji juzgó maduro el tiempo de restablecer abiertamente el vínculo jamás cortado. Tras su breve encuentro cerca de Ranikhet, el maestro desinteresado desterró a su amadísimo discípulo del grupito de la montaña, liberándolo para una misión en el mundo exterior: «hijo mío, vendré cuando me necesites»: ¿qué amante mortal puede otorgar esa promesa infinita? Desconocido para la sociedad en general, un gran renacimiento espiritual comenzó a fluir desde un rincón remoto de Benares: así como la fragancia de las flores no puede reprimirse, Lahiri Mahasaya, viviendo quedamente como hombre de familia ideal, no podía ocultar su gloria innata, y lentamente, de toda la India, las abejas devotas buscaron el néctar divino del maestro liberado:*
+*El capítulo empieza lejos de Benarés, en el Jordán: Yogananda sostiene que Juan el Bautista fue, en vidas pasadas, el gurú de Jesús; Elías, y Jesús su discípulo Eliseo. Al pedir el bautismo a Juan, Jesús reconoce los derechos divinos de su maestro. El mismo lazo eterno unió a Babaji con Lahiri Mahasaya, a quien guió vida tras vida hasta reencontrarlo en Ranikhet. Y luego, desconocido para el mundo, desde un rincón de Benarés empezó a fluir una gran renovación espiritual. El jefe inglés de la oficina donde trabajaba el maestro fue de los primeros en notar algo:*
 
-> The English office superintendent was one of the first
+> The English office superintendent was one of the first to notice a strange transcendental change in his employee, whom he endearingly called “Ecstatic Babu.”
 
-*«"Señor, parece usted triste; ¿qué le pasa?", le preguntó comprensivo una mañana a su empleador. "Mi esposa, en Inglaterra, está gravemente enferma; me desgarra la ansiedad". "Le traeré noticias de ella": Lahiri Mahasaya salió del cuarto y se sentó un rato en un lugar retirado; a su regreso, sonrió consoladoramente: "su esposa está mejorando; ahora mismo le está escribiendo una carta". El yogui omnisciente citó algunas partes de la misiva:*
+El superintendente inglés de la oficina fue de los primeros en notar un cambio trascendental y extraño en su empleado, a quien llamaba con cariño «Babu Extático».
+
+Yogananda
+
+*Una mañana el jefe le confiesa su angustia: su mujer está grave en Inglaterra. Lahiri Mahasaya se ausenta un rato, se sienta a solas y vuelve sonriendo: su esposa está mejorando y en este momento le escribe una carta:*
 
 > The omniscient yogi quoted some parts of the missive.
 
-> “Ecstatic Babu, I already know that you are no ordinary man.
+El yogui omnisciente citó algunos pasajes de la misiva.
 
-*El superintendente escéptico no podía creer que su empleado desterrara a voluntad el tiempo y el espacio, pero la carta prometida llegó por fin, y contenía no solo la buena nueva de la recuperación de su esposa, sino las mismas frases que, semanas antes, Lahiri Mahasaya había repetido. La esposa vino a la India unos meses después y visitó la oficina, donde Lahiri Mahasaya estaba sentado quedamente en su escritorio; la mujer se le acercó reverentemente:*
+Yogananda
+
+*El inglés no sale de su asombro:*
+
+> “Ecstatic Babu, I already know that you are no ordinary man. Yet I am unable to believe that, at will, you can banish time and space!”
+
+«Babu Extático, ya sé que no es usted un hombre corriente. ¡Y sin embargo no puedo creer que, a voluntad, pueda abolir el tiempo y el espacio!»
+
+El superintendente
+
+*La carta llegó semanas después, con las mismas frases que él había repetido. Y cuando la esposa viajó a la India y entró en la oficina, se acercó a su escritorio con reverencia:*
 
 > “Sir,” she said, “it was your form, haloed in glorious light, that I beheld months ago by my sickbed in London. At that moment I was completely healed!
 
-*«"Poco después pude emprender el largo viaje por mar a la India", relató ella misma. Día tras día, uno o dos devotos suplicaban al sublime gurú la iniciación del Kriya; además de estos deberes espirituales y los de su vida de negocios y familia, el gran maestro tomó un entusiasta interés en la educación: organizó muchos grupos de estudio y participó activamente en el crecimiento de una gran escuela superior en el barrio de Bengalitola de Benares. Con estas múltiples actividades, Lahiri Mahasaya buscaba responder al reto común: «después de cumplir los deberes de los negocios y la sociedad, ¿dónde queda tiempo para la meditación devocional?». La vida armoniosamente equilibrada del gran gurú-hombre de familia se volvió la silenciosa inspiración de miles de corazones interrogantes. Aunque instalado en el asiento del Supremo, Lahiri Mahasaya mostraba reverencia a todos los hombres, fuera cual fuera su mérito: cuando sus devotos lo saludaban, él se inclinaba a su vez ante ellos. Un rasgo significativo de su vida fue su regalo de la iniciación del Kriya a personas de toda fe: no solo hindúes, sino musulmanes y cristianos estuvieron entre sus primeros discípulos; y aunque brahmán de alta casta, hizo cuanto pudo por disolver el rígido fanatismo de casta de su tiempo:*
+«Señor, dijo, fue su forma, rodeada de luz gloriosa, la que contemplé meses atrás junto a mi lecho de enferma en Londres. ¡En aquel momento quedé completamente curada!»
+
+La esposa
+
+*A su casa llegan cada día buscadores; él sostiene que no hace falta renunciar al mundo para hallar a Dios, y su propia vida de padre de familia, empleado modesto y maestro es la prueba. A sus discípulos les repite:*
 
 > Reflect that some day you will suddenly have to leave everything in this world—so make the acquaintanceship of God now,” the great guru told his disciples.
 
-*«"Prepárate para el venidero viaje astral de la muerte cabalgando a diario en el globo de la percepción de Dios; por ilusión te percibes como un bulto de carne y huesos, que a lo sumo es un nido de problemas: medita sin cesar, para que pronto te contemples como la Esencia Infinita, libre de toda forma de miseria; deja de ser un prisionero del cuerpo: usando la llave secreta del Kriya, aprende a escapar al Espíritu". El gran gurú alentaba a sus diversos estudiantes a adherirse a la buena disciplina tradicional de su propia fe, y con sabio discernimiento guiaba a sus seguidores a los caminos del Bhakti, el Karma, el Jnana o el Raja Yoga según las tendencias naturales de cada uno, enseñándoles a evitar la discusión teórica de las escrituras:*
+Reflexionad en que algún día tendréis que dejarlo todo en este mundo de repente: haceos, pues, desde ahora, con el conocimiento de Dios, decía el gran gurú a sus discípulos.
+
+Lahiri Mahasaya
+
+*Y también:*
 
 > “He only is wise who devotes himself to realizing, not reading only, the ancient revelations,” he said.
 
-*«"Resuelve todos tus problemas a través de la meditación; cambia las especulaciones religiosas infructuosas por el contacto real con Dios; limpia tu mente de escombros teológicos dogmáticos y deja entrar las aguas frescas y sanadoras de la percepción directa". La omnipresencia del maestro quedó demostrada un día ante un grupo de discípulos que escuchaban su exposición de la Bhagavad Gita: mientras explicaba el significado de Kutastha Chaitanya, la Conciencia Crística en toda la creación vibratoria, Lahiri Mahasaya jadeó de pronto y exclamó: «"¡me estoy ahogando en los cuerpos de muchas almas frente a las costas de Japón!"». A la mañana siguiente, los chelas leyeron en el periódico la muerte de muchas personas cuyo barco había naufragado el día anterior cerca de Japón. Los discípulos distantes de Lahiri Mahasaya eran a menudo conscientes de su presencia envolvente:*
+«Solo es sabio quien se dedica a realizar, y no solo a leer, las antiguas revelaciones», dijo.
+
+Lahiri Mahasaya
+
+*A quienes no podían vivir cerca de él les dejó una promesa:*
 
 > “I am ever with those who practice Kriya,” he said consolingly to chelas who could not remain near him. “I will guide you to the Cosmic Home through your enlarging perceptions.”
 
-*Swami Satyananda supo de un devoto que, imposibilitado de ir a Benares, había recibido no obstante la precisa iniciación del Kriya en un sueño: Lahiri Mahasaya había aparecido a instruir al chela en respuesta a sus oraciones. Si un discípulo descuidaba alguna de sus obligaciones mundanas, el maestro lo corregía y disciplinaba con suavidad: «"las palabras de Lahiri Mahasaya eran suaves y sanadoras, incluso cuando se veía obligado a hablar abiertamente de las faltas de un chela", me dijo una vez Sri Yukteswar, y añadió con pesar:*
+«Siempre estoy con los que practican kriya, decía consolador a los discípulos que no podían permanecer a su lado: os guiaré al Hogar Cósmico a través de vuestras percepciones en expansión.»
 
-> He added ruefully, “No disciple ever fled from our master’s barbs.” I could not help laughing, but I truthfully assured Sri Yukteswar that, sharp or not, his every word was music to my ears.
+Lahiri Mahasaya
 
-*Lahiri Mahasaya graduaba cuidadosamente el Kriya en cuatro iniciaciones progresivas, y otorgaba las tres técnicas superiores solo después de que el devoto manifestara un progreso espiritual definido. Un día, cierto chela, convencido de que su valía no era debidamente evaluada, dio voz a su descontento:*
+*Su trato, eso sí, no era blando; años después, un discípulo suyo se lo recordaría a Yogananda:*
 
-> “Master,” he said, “surely I am ready now
+> He added ruefully, “No disciple ever fled from our master’s barbs.”
 
-*En ese momento se abrió la puerta para admitir a un humilde discípulo, Brinda Bhagat, un cartero de Benares:*
+Y añadió con pesar: «Ningún discípulo escapó jamás a las pullas de nuestro maestro.»
 
-> The great guru smiled at him affectionately.
+Un discípulo
 
-*«"Brinda, siéntate aquí junto a mí", dijo el maestro, y preguntó: "¿estás listo para la segunda técnica del Kriya?"». El pequeño cartero juntó las manos en súplica:*
+*La anécdota del cartero lo muestra: un discípulo que se ganaba la vida repartiendo cartas pidió la segunda iniciación:*
 
-> “Gurudeva,” he said in alarm
+> “Master,” he said, “surely I am ready now for the second initiation.”
 
-*Alarmado ante la sola idea de recibir más, añadió:*
+«Maestro, dijo, seguro que ya estoy listo para la segunda iniciación.»
 
-> I have come today to ask your blessings
+El cartero
 
-*«"Ya Brinda nada en el mar del Espíritu", observó el gurú. Ante estas palabras de Lahiri Mahasaya:*
+*La recibió. Poco después volvió, alarmado:*
 
-> At these words from Lahiri Mahasaya, his other disciple
+> “Gurudeva,” he said in alarm, “no more initiations, please! How can I assimilate any higher teachings? I have come today to ask your blessings, because the first divine Kriya has filled me with such intoxication that I cannot deliver my letters!”
 
-*«"Maestro, dijo entonces el chela descontento, veo que he sido un pobre obrero, hallando faltas en mis herramientas"». El cartero, un hombre sin educación, desarrolló después, a través del Kriya, una percepción tal que los eruditos buscaban ocasionalmente su interpretación de puntos escriturales intrincados: inocente por igual del pecado y de la sintaxis, el pequeño Brinda ganó renombre en el dominio de los pandits doctos. Además de los numerosos discípulos de Benares, cientos llegaban de partes distantes de la India; él mismo viajó a Bengala en varias ocasiones, y por un tiempo fue tutor privado del hijo del maharajá de Benares: tanto el maharajá como su hijo buscaron la iniciación del Kriya. Algunos discípulos de influyente posición mundana deseaban expandir el círculo del Kriya por la publicidad, pero el gurú negó su permiso; un chela, médico real del Señor de Benares, inició un esfuerzo organizado para difundir el nombre del maestro como «Kashi Baba», y de nuevo el gurú lo prohibió:*
+«Gurudeva, dijo alarmado, ¡no más iniciaciones, por favor! Hoy vengo a pedir sus bendiciones, porque el primer kriya divino me ha llenado de tal embriaguez que no puedo repartir mis cartas.»
 
-> “Let the fragrance of the Kriya flower
+El cartero
 
-*«"Sus semillas echarán raíces en el suelo de los corazones espiritualmente fértiles", explicó. Aunque el gran maestro no adoptó el sistema de predicar por el medio moderno de una organización o de la imprenta, sabía que el poder de su mensaje se alzaría como una inundación irresistible, anegando por su propia fuerza las riberas de las mentes humanas: las vidas cambiadas y purificadas de los devotos eran las simples garantías de la vitalidad inmortal del Kriya. En 1886, veinticinco años después de su iniciación en Ranikhet, Lahiri Mahasaya se retiró pensionado: con su disponibilidad diurna, los discípulos lo buscaron en números siempre crecientes; el gran gurú se sentaba ahora en silencio la mayor parte del tiempo, cerrado en la tranquila postura de loto, y rara vez salía de su pequeña sala. Para asombro de todos los observadores, su estado fisiológico habitual exhibía los rasgos sobrehumanos de ausencia de respiración, de sueño, de pulso y latido, ojos calmados sin parpadear por horas y un aura profunda de paz:*
+*El maestro prohibía también todo exhibicionismo:*
 
-> No visitors departed
+> “Let the fragrance of the Kriya flower be wafted naturally, without any display,” he said.
 
-*El maestro permitió entonces a su discípulo Panchanon Bhattacharya abrir una «Institución Arya Mission» en Calcuta, y dio a la gente en general, conforme a la antigua costumbre, un aceite de neem para curar diversas enfermedades: cuando el gurú pedía a un discípulo que lo destilara, la tarea se cumplía con facilidad; si lo intentaba cualquier otro, el aceite medicinal casi se evaporaba en la destilación: evidentemente, la bendición del maestro era un ingrediente necesario. Como Jesús y otros grandes profetas, Lahiri Mahasaya no escribió libros, pero sus penetrantes interpretaciones fueron registradas por diversos discípulos: gracias a su celo, el mundo posee comentarios sin par de Lahiri Mahasaya sobre veintiséis escrituras antiguas. Sri Ananda Mohan Lahiri, nieto del maestro, escribió un interesante folleto sobre el Kriya: «"fueron los comentarios de Lahiri Mahasaya los que sacaron a la luz, libres de alegorías, la verdadera ciencia de la religión que había sido tan astutamente escondida en el acertijo de las letras y las imágenes escriturales"». Nuestro afán de actividad mundana mata en nosotros el sentido del asombro espiritual: nuestra relación con la naturaleza es de negocios prácticos, la usamos para servir nuestros propósitos; pero cuando el yo está en comunión con un poder superior, la naturaleza obedece automáticamente, sin estrés ni esfuerzo, la voluntad del hombre:*
+«Que la fragancia de la flor del kriya se propague naturalmente, sin exhibición», decía.
 
-> This effortless command over nature
+Lahiri Mahasaya
 
-*«La vida de Lahiri Mahasaya puso un ejemplo que cambió la noción errónea de que el yoga es una práctica misteriosa, escribe su nieto: la ley del Kriya Yoga es eterna; es verdadera como las matemáticas: quémense todos los libros de matemáticas, y las mentes lógicas redescubrirán siempre tales verdades; destrúyanse todos los libros sagrados del yoga, y sus leyes fundamentales saldrán a la luz cada vez que aparezca un yogui verdadero que encierre en sí mismo devoción pura y, por consiguiente, conocimiento puro"». Así como Babaji es un Mahavatar y Sri Yukteswar un Jnanavatar o Encarnación de la Sabiduría, Lahiri Mahasaya puede justamente ser llamado Yogavatar, Encarnación del Yoga: por su poder de elevar a sus discípulos cercanos a la estatura de Cristo y por su amplia difusión de la verdad entre las masas, figura entre los salvadores de la humanidad. Su unicidad como profeta reside en su énfasis práctico en un método definido, el Kriya, que abre por primera vez las puertas de la libertad yóguica a todos los hombres. En referencia a los milagros, Lahiri Mahasaya decía a menudo: «"la operación de leyes sutiles desconocidas para la gente en general no debe discutirse ni publicarse sin la debida discriminación"»; si en estas páginas he parecido burlar sus palabras de cautela, es porque el maestro me ha dado un consuelo interior: «"la unión divina, proclamó el Yogavatar, es posible mediante el esfuerzo propio, y no depende de creencias teológicas ni de la voluntad arbitraria de un Dictador Cósmico"». Nueva esperanza para hombres nuevos: por el uso de la llave del Kriya, las personas que no pueden resignarse a creer en la divinidad de hombre alguno contemplarán por fin la plena divinidad de su propio ser.*
+*La casita de Benarés no dejaba salir a nadie como había entrado:*
+
+> No visitors departed without upliftment of spirit; all knew they had received the silent blessing of a true man of God.
+
+Ningún visitante se marchaba sin una elevación del espíritu; todos sabían que habían recibido la bendición silenciosa de un verdadero hombre de Dios.
+
+Yogananda
+
+*De sus prodigios serenos, Yogananda anota:*
+
+> This effortless command over nature is called ‘miraculous’ by the uncomprehending materialist.
+
+Este dominio sin esfuerzo sobre la naturaleza es llamado «milagroso» por el materialista que no lo comprende.
+
+Yogananda
 
 ## Capítulo 36: El interés de Babaji por Occidente
 
-*«Maestro, ¿conoció usted alguna vez a Babaji?»: era una noche serena de verano en Serampore; las grandes estrellas de los trópicos brillaban sobre nuestras cabezas mientras me sentaba junto a Sri Yukteswar en el balcón del segundo piso del ashram. «Sí»:*
+*Noche de verano en Serampore. En el balcón de la ermita, bajo las grandes estrellas del trópico, Yogananda le hace a su maestro una pregunta directa: ¿conoció usted alguna vez a Babaji?*
 
-> 
+> “Yes.” Master smiled at my direct question; his eyes lit with reverence. “Three times I have been blessed by the sight of the deathless guru.
 
-*«Nuestro primer encuentro fue en Allahabad, en una Kumbha Mela»: las ferias religiosas que se celebran en la India desde tiempo inmemorial han mantenido las metas espirituales a la vista constante de la multitud; hindúes devotos se reúnen por millones cada seis años para encontrarse con miles de sadhus, yoguis, swamis y ascetas de toda clase, muchos de ellos ermitaños que jamás abandonan sus refugios solitarios salvo para asistir a las melas y dar su bendición a hombres y mujeres mundanos. «Yo no era un swami cuando conocí a Babaji, prosiguió Sri Yukteswar, pero ya había recibido la iniciación del Kriya de Lahiri Mahasaya, que me alentó a asistir a la mela que se reunía en enero de 1894 en Allahabad: era mi primera experiencia de una kumbha y me sentía levemente aturdido por el clamor y la oleada de la multitud; en mis miradas inquisitivas no veía el rostro iluminado de un maestro: "oh, esta feria no es sino un caos de ruido y mendigos, pensé desilusionado: me pregunto si los científicos occidentales, que amplían pacientemente los dominios del conocimiento para el bien práctico de la humanidad, no serán más agradables a Dios que estos holgazanes que profesan religión pero se concentran en las limosnas". Mis reflexiones humeantes sobre la reforma social fueron interrumpidas por la voz de un sannyasi alto que se detuvo ante mí: "señor, un santo lo llama; ven y compruébalo tú mismo": siguiendo vacilante este lacónico consejo, pronto me hallé cerca de un árbol cuyas ramas cobijaban a un gurú con un atractivo grupo de discípulos; el maestro, una figura luminosa e inusual de ojos oscuros y chispeantes, se levantó a mi llegada y me abrazó»:*
+«Sí.» El maestro sonrió ante mi pregunta directa; sus ojos se encendieron de reverencia. «Tres veces he sido bendecido con la visión del gurú inmortal.»
 
-> “‘Welcome, Swamiji,’ he said affectionately.
+Sri Yukteswar
 
-*«"Señor, repliqué enfático, no soy un swami". "Aquellos sobre quienes soy divinamente dirigido a otorgar el título de swami jamás lo desechan": el santo me habló con sencillez, pero una profunda convicción de verdad resonaba en sus palabras; fui envuelto en una ola instantánea de bendición espiritual y me incliné a los pies del evidentemente gran y angélico ser en forma humana que así me honraba. Babaji, porque era en verdad él, me indicó un asiento junto a él bajo el árbol: era fuerte y joven, y se parecía a Lahiri Mahasaya, aunque el parecido no me llamó la atención, porque Babaji posee un poder por el que puede impedir que un pensamiento específico surja en la mente de una persona; evidentemente, el gran gurú quería que yo fuera perfectamente natural en su presencia, no sobrecogido por el conocimiento de su identidad. "¿Qué piensas de la Kumbha Mela?". "Estaba muy decepcionado, señor, hasta el momento de conocerte: de algún modo, los santos y esta conmoción no parecen ir juntos". "Hijo, dijo el maestro, aunque aparentemente yo tenía casi el doble de su edad, por las faltas de muchos no juzgues al todo: todo en la tierra es de carácter mixto, como una mezcla de arena y azúcar; sé como la hormiga sabia que toma solo el azúcar y deja la arena intacta; aunque muchos sadhus aquí vagan aún en el engaño, la mela está bendecida por unos pocos hombres realizados en Dios"»:*
+*Era enero de 1894, en un Kumbha Mela de Allahabad; él aún no era swami, pero ya era discípulo de Lahiri Mahasaya. Entre la multitud no veía ningún rostro iluminado, hasta que un sannyasi alto se detuvo ante él: «Un santo lo llama». Lo siguió hasta un árbol bajo el que un maestro de ojos oscuros y centelleantes se levantó a abrazarlo:*
 
-> “In view of my own meeting with this exalted master, I quickly agreed with his observation.
+> ‘Welcome, Swamiji,’ he said affectionately.
 
-*«"Señor, comenté, he estado pensando en los hombres de ciencia de Occidente, mucho más dotados de inteligencia que la mayoría de los congregados aquí, viviendo en la distante Europa y América, profesando credos diferentes e ignorantes de los valores reales de melas como esta: son los hombres que más podrían beneficiarse de encuentros con los maestros de la India; pero aunque altos en logros intelectuales, muchos occidentales están casados con el materialismo raso, y otros, famosos en ciencia y filosofía, no reconocen la unidad esencial de la religión: sus credos sirven como barreras insuperables que amenazan con separarlos de nosotros para siempre". "Veo que te interesa tanto Occidente como Oriente"»:*
+«Bienvenido, Swamiji, dijo afectuosamente.»
 
-> Babaji’s face beamed with approval.
+Babaji
 
-*«"Sentí las punzadas de tu corazón, lo bastante amplio para todos los hombres, orientales u occidentales: por eso te llamé aquí. Oriente y Occidente deben establecer un sendero dorado medio de actividad y espiritualidad combinadas: la India tiene mucho que aprender de Occidente en desarrollo material; a cambio, la India puede enseñar los métodos universales con los que Occidente podrá basar sus creencias religiosas sobre los cimientos inconmovibles de la ciencia yóguica. Tú, Swamiji, tienes un papel que desempeñar en el armonioso intercambio venidero entre Oriente y Occidente: dentro de algunos años te enviaré un discípulo a quien podrás entrenar para la difusión del yoga en Occidente; las vibraciones de muchas almas que buscan lo espiritual llegan a mí desde allá como una inundación: percibo santos potenciales en América y Europa, esperando ser despertados"»:*
+*Yukteswar protesta: no es swami. La respuesta le queda vibrando: a quienes él confiere ese título, guiado divinamente, jamás lo abandonan. Babaji lo hace sentar a su lado y le pregunta qué le parece el mela; el joven se sincera: decepcionado, tantos sadhus pidiendo limosna le parecen menos agradables a Dios que los científicos de Occidente:*
 
-> At this point in his story, Sri Yukteswar turned his gaze fully on mine.
+> ‘Child,’ the master said, though apparently I was nearly twice his own age, ‘for the faults of the many, judge not the whole. Everything on earth is of mixed character, like a mingling of sand and sugar. Be like the wise ant which seizes only the sugar, and leaves the sand untouched.
+
+«Hijo, dijo el maestro, aunque aparentemente yo tenía casi el doble de su edad, no juzgues al todo por las faltas de muchos. Todo en la tierra es de carácter mixto, como una mezcla de arena y azúcar. Sé como la hormiga sabia, que toma solo el azúcar y deja la arena intacta.»
+
+Babaji
+
+*Y entonces viene el encargo que lo cambiaría todo; Babaji le dice que ha sentido las punzadas de su corazón, lo bastante amplio para orientales y occidentales, y que por eso lo ha llamado:*
+
+> ‘East and West must establish a golden middle path of activity and spirituality combined,’ he continued. ‘India has much to learn from the West in material development; in return, India can teach the universal methods by which the West will be able to base its religious beliefs on the unshakable foundations of yogic science.
+
+«Oriente y Occidente deben establecer un sendero dorado intermedio que combine actividad y espiritualidad, prosiguió: la India tiene mucho que aprender de Occidente en desarrollo material; a cambio, la India puede enseñar los métodos universales con los que Occidente podrá basar sus creencias religiosas en los cimientos inconmovibles de la ciencia yóguica.»
+
+Babaji
+
+*Y le anuncia su parte:*
+
+> ‘You, Swamiji, have a part to play in the coming harmonious exchange between Orient and Occident. Some years hence I shall send you a disciple whom you can train for yoga dissemination in the West.
+
+«Tú, Swamiji, tienes un papel que jugar en el próximo intercambio armonioso entre Oriente y Occidente. Dentro de algunos años te enviaré un discípulo al que podrás formar para difundir el yoga en Occidente.»
+
+Babaji
+
+*Sri Yukteswar detiene el relato y mira de lleno a Yogananda:*
 
 > “My son,” he said, smiling in the moonlight, “you are the disciple that, years ago, Babaji promised to send me.”
 
-*Me alegró saber que Babaji había dirigido mis pasos hacia Sri Yukteswar, aunque me costaba visualizarme en el remoto Occidente, lejos de mi amado gurú y de la paz sencilla del ashram. «Babaji habló entonces de la Bhagavad Gita, prosiguió Sri Yukteswar: para mi asombro, indicó con unas palabras de elogio que sabía que yo había escrito interpretaciones de varios capítulos de la Gita: "a petición mía, Swamiji, emprende por favor otra tarea, dijo el gran maestro: ¿no escribirás un libro breve sobre la unidad básica subyacente entre las escrituras cristianas e hindúes? Muestra con referencias paralelas que los hijos inspirados de Dios han dicho las mismas verdades, ahora oscurecidas por las diferencias sectarias de los hombres". "Maharaj, respondí con timidez, ¡qué mandato! ¿Seré capaz de cumplirlo?"»:*
+«Hijo mío, dijo, sonriendo a la luz de la luna, tú eres el discípulo que, hace años, Babaji prometió enviarme.»
 
-> “Babaji laughed softly.
+Sri Yukteswar
 
-*«"Hijo mío, ¿por qué dudas?, dijo tranquilizadoramente: ¿de quién es obra todo esto, y quién es el Hacedor de todas las acciones? Lo que sea que el Señor me haya hecho decir está destinado a materializarse como verdad". Me sentí investido por las bendiciones del santo y acepté escribir el libro; y al levantarme, sintiendo a regañadientes que había llegado la hora de la despedida, el maestro me preguntó: "¿conoces a Lahiri? Es una gran alma, ¿verdad? Cuéntale de nuestro encuentro"»:*
+*Babaji le encargó también un libro: demostrar la unidad profunda de la Biblia y las escrituras hindúes. Ante la duda de Yukteswar:*
 
-> He then gave me a message for Lahiri Mahasaya.
+> Babaji laughed softly. ‘My son, why do you doubt?’ he said reassuringly. ‘Indeed, Whose work is all this, and Who is the Doer of all actions? Whatever the Lord has made me say is bound to materialize as truth.’
 
-*«"Cuando tu libro esté terminado, te haré una visita, prometió: adiós por ahora". Partí de Allahabad al día siguiente y tomé el tren a Benares; al llegar a la casa de mi gurú, le derramé el relato del santo maravilloso de la Kumbha Mela: "¡oh, ¿no lo reconociste?: los ojos de Lahiri Mahasaya danzaban de risa: ya veo que no pudiste, porque él te lo impidió: es mi incomparable gurú, el celestial Babaji!". "¡Babaji!, repetí, sobrecogido: ¡el Yogui-Cristo Babaji! ¡El salvador invisible-visible Babaji! ¡Oh, si pudiera recordar el pasado y estar una vez más en su presencia, para mostrar mi devoción a sus pies de loto!"»:*
+Babaji rio suavemente. «Hijo mío, ¿por qué dudas?, dijo tranquilizador. ¿De quién es toda esta obra, y quién es el Hacedor de todas las acciones? Lo que el Señor me ha hecho decir está destinado a materializarse como verdad.»
 
-> “‘Never mind,’ Lahiri Mahasaya said consolingly.
+Babaji
 
-*«"Te ha prometido verte de nuevo"»:*
+*El libro se escribió, y Babaji cumplió su promesa de visitarlo; pero Yukteswar guardó un reproche: el maestro había desaparecido sin esperar los dulces que fue a buscarle. Meses después, en Benarés, Lahiri Mahasaya le hizo ver al gurú celestial, escondido en el umbral de su propio cuarto:*
 
-> “‘Gurudeva, the divine master asked me to give you a message.
+> ‘Child, you must meditate more,’ he said. ‘Your gaze is not yet faultless—you could not see me hiding behind the sunlight.’
 
-*«"Dile a Lahiri, dijo, que el poder almacenado para esta vida ya corre bajo; está casi terminado"»:*
+«Hijo, debes meditar más, dijo: tu mirada aún no es intachable; no pudiste verme escondido detrás de la luz del sol.»
 
-> “At my utterance of these enigmatic words, Lahiri Mahasaya’s figure trembled as though touched by a lightning current.
+Babaji
 
-*En un instante todo en él cayó en silencio; su semblante sonriente se volvió increíblemente severo; como una estatua de madera, sombrío e inmóvil en su asiento, su cuerpo perdió el color: alarmado y desconcertado, jamás en mi vida había visto a aquella alma jubilosa manifestar tan terrible gravedad, y los otros discípulos presentes miraban aprensivos. Pasaron tres horas en absoluto silencio; luego Lahiri Mahasaya reasumió su semblante natural y alegre, y habló afectuosamente a cada uno de los chelas: todos suspiraron aliviados. Por la reacción de mi maestro comprendí que el mensaje de Babaji había sido una señal inequívoca por la que Lahiri Mahasaya entendió que su cuerpo pronto quedaría deshabitado: su silencio imponente probó que mi gurú había controlado al instante su ser, cortado su último cordón de apego al mundo material y huido a su identidad siempre viva en el Espíritu:*
+*El mensaje que Yukteswar había llevado a Lahiri Mahasaya desde el mela era enigmático: «dile que el poder almacenado para esta vida ya está bajo; que casi se ha agotado»:*
+
+> At my utterance of these enigmatic words, Lahiri Mahasaya’s figure trembled as though touched by a lightning current.
+
+Al pronunciar yo estas palabras enigmáticas, la figura de Lahiri Mahasaya tembló como tocada por una corriente de relámpago.
+
+Sri Yukteswar
+
+*Tres horas pasaron en un silencio absoluto: la señal de que el cuerpo de Lahiri Mahasaya pronto quedaría vacío:*
 
 > Babaji’s remark had been his way of saying: ‘I shall be ever with you.’
 
-*Aunque Babaji y Lahiri Mahasaya eran omniscientes y no necesitaban comunicarse entre sí por mi medio ni por ningún otro, los grandes a menudo se dignan desempeñar un papel en el drama humano: ocasionalmente transmiten sus profecías por mensajeros de manera ordinaria, para que el cumplimiento final de sus palabras infunda una mayor fe divina en el amplio círculo de hombres que luego conocen la historia. «Pronto dejé Benares y me puse a trabajar en Serampore en los escritos escriturales pedidos por Babaji, continuó Sri Yukteswar: apenas comencé mi tarea, pude componer un poema dedicado al gurú inmortal, cuyas líneas melodiosas fluían sin esfuerzo de mi pluma, aunque nunca antes había intentado poesía en sánscrito; en la quietud de la noche me ocupaba de una comparación de la Biblia y las escrituras del Sanatan Dharma, mostrando que las enseñanzas del bendito Señor Jesús eran en esencia una con las revelaciones de los Vedas, y para mi alivio el libro quedó terminado en poco tiempo: comprendí que esta bendición veloz se debía a la gracia de mi Param-Guru-Maharaj; los capítulos aparecieron primero en la revista Sadhusambad y luego fueron impresos privadamente como libro por uno de mis discípulos de Kidderpore. La mañana siguiente a la conclusión de mis esfuerzos literarios fui al Rai Ghat a bañarme en el Ganges; el ghat estaba desierto, y tras un chapuzón en las aguas chispeantes emprendí el regreso a casa; al pasar más allá del gran baniano cercano a la ribera, un fuerte impulso me urgió a mirar atrás: ¡allí, a la sombra del baniano y rodeado de unos pocos discípulos, estaba sentado el gran Babaji! "¡Saludos, Swamiji!: la hermosa voz del maestro resonó para asegurarme que no soñaba: veo que has completado tu libro con éxito; como prometí, estoy aquí para agradecerte". Con el corazón acelerado me prosterné por completo a sus pies y le supliqué que honrara mi casa cercana con su presencia; el gurú supremo declinó sonriente: "no, hijo, somos gente a la que le gusta el abrigo de los árboles; este lugar es bastante cómodo". "Por favor, demórate un rato, Maestro, le rogué: volveré enseguida con unos dulces especiales". Cuando regresé a los pocos minutos con un plato de delicias, ¡el señorial baniano ya no cobijaba a la compañía celestial! Busqué por todo el ghat, pero en mi corazón sabía que la pequeña banda ya había huido en alas etéricas. Estaba profundamente herido: "aunque volvamos a encontrarnos, no querría hablarle, me aseguré: fue cruel dejarme tan de pronto": era una ira de amor, por supuesto, y nada más. Unos meses después visité a Lahiri Mahasaya en Benares; al entrar en su pequeña salita, mi gurú sonrió en saludo: "bienvenido, Yukteswar: ¿acabas de encontrarte con Babaji en el umbral de mi cuarto?". "Pues no, respondí sorprendido". "Ven aquí": Lahiri Mahasaya me tocó suavemente la frente y al instante contemplé, cerca de la puerta, la forma de Babaji, floreciendo como un loto perfecto. Recordé mi vieja herida y no me incliné»:*
+La observación de Babaji había sido su manera de decir: «estaré siempre contigo».
 
-> Lahiri Mahasaya looked at me in astonishment.
+Sri Yukteswar
 
-*El gurú divino me miró con ojos insondables: «"estás molesto conmigo". "Señor, ¿por qué no habría de estarlo?, respondí: del aire viniste con tu grupo mágico, y al aire sutil te desvaneciste". "Te dije que te vería, pero no dije cuánto permanecería"»:*
-
-> Babaji laughed softly.
-
-*«"Estabas lleno de excitación: te aseguro que fui prácticamente extinguido en el éter por la ráfaga de tu inquietud". Esta poco halagadora explicación me satisfizo al instante; me arrodillé a sus pies y el gurú supremo me palmeó bondadosamente el hombro»:*
-
-> “‘Child, you must meditate more,’ he said.
-
-*«"Tu mirada aún no es intachable: no pudiste verme escondido detrás de la luz del sol": con estas palabras en voz de flauta celestial, Babaji desapareció en la radiancia oculta. Aquella fue una de mis últimas visitas a Benares para ver a mi gurú, concluyó Sri Yukteswar: tal como Babaji había predicho en la Kumbha Mela, la encarnación de hombre de familia de Lahiri Mahasaya llegaba a su fin. Durante el verano de 1895, su cuerpo fornido desarrolló un pequeño divieso en la espalda: protestó contra que se lo abrieran, pues estaba elaborando en su propia carne el karma malo de algunos de sus discípulos; finalmente, unos pocos chelas se pusieron muy insistentes, y el maestro respondió crípticamente: "el cuerpo tiene que hallar una causa para irse; seré complaciente con lo que queráis hacer". Poco después, el incomparable gurú abandonó su cuerpo en Benares: "ya no necesito buscarlo en su pequeña salita; hallo cada día de mi vida bendecido por su guía omnipresente"». Años después, de labios de Swami Keshabananda, un discípulo avanzado, oí muchos detalles maravillosos sobre el tránsito de Lahiri Mahasaya: «"unos días antes de que mi gurú dejara su cuerpo, me contó Keshabananda, se materializó ante mí mientras yo estaba sentado en mi ermita de Hardwar: "ven a Benares enseguida": con estas palabras, Lahiri Mahasaya se desvaneció. Tomé el tren de inmediato a Benares; en casa de mi gurú encontré a muchos discípulos reunidos, y durante horas aquel día el maestro expuso la Gita; luego se dirigió a nosotros con sencillez: "me voy a casa". Los sollozos de angustia brotaron como un torrente irresistible: "consolaos; resucitaré": tras estas palabras, Lahiri Mahasaya giró tres veces su cuerpo en círculo, miró al norte en su postura de loto y entró gloriosamente en el maha-samadhi final. El hermoso cuerpo de Lahiri Mahasaya, tan querido por los devotos, fue cremado con solemnes ritos de hombre de familia en el Manikarnika Ghat, junto al santo Ganges; al día siguiente, a las diez de la mañana, mientras yo aún estaba en Benares, mi cuarto se colmó de una gran luz"»:*
+*Al año siguiente, 1895, Lahiri Mahasaya entregó el cuerpo en Benarés. Pero la historia no terminó ahí: Keshabananda, un discípulo avanzado, contó que a la mañana siguiente de la cremación, a las diez, su cuarto se llenó de una gran luz:*
 
 > Lo! before me stood the flesh and blood form of Lahiri Mahasaya!
 
-*«"Parecía exactamente su viejo cuerpo, excepto que aparecía más joven y más radiante: "Keshabananda, dijo mi gurú divino, soy yo: de los átomos desintegrados de mi cuerpo cremado he resucitado una forma remodelada; mi trabajo de hombre de familia en el mundo está terminado, pero no dejo la tierra por completo: de ahora en adelante pasaré algún tiempo con Babaji en los Himalayas, y con Babaji en el cosmos""»:*
+¡He aquí que ante mí estaba la forma de carne y hueso de Lahiri Mahasaya!
 
-> “With a few words of blessing to me, the transcendent master vanished.
+Keshabananda
 
-*Una inspiración prodigiosa colmó su corazón, elevado en el Espíritu como lo estuvieron los discípulos de Cristo y de Kabir cuando contemplaron a sus gurús vivos después de la muerte física: «"cuando regresé a mi aislada ermita de Hardwar, prosiguió Keshabananda, llevé conmigo las cenizas sagradas de mi gurú: sé que ha escapado de la jaula espacio-temporal; el pájaro de la omnipresencia está libre"»:*
+*El maestro resucitado le habló: de los átomos desintegrados de su cuerpo cremado había levantado una forma remodelada; pasaría un tiempo con Babaji en el Himalaya, y con Babaji en el cosmos:*
 
-> Yet it comforted my heart to enshrine his sacred remains.”
+> With a few words of blessing to me, the transcendent master vanished.
 
-*Otro discípulo bendecido por la visión de su gurú resucitado fue el santo Panchanon Bhattacharya, fundador de la Institución Arya Mission de Calcuta: lo visité en su hogar y escuché con deleite la historia de sus muchos años con el maestro; al concluir, me contó el acontecimiento más maravilloso de su vida: «"aquí en Calcuta, dijo Panchanon, a las diez de la mañana que siguió a su cremación, Lahiri Mahasaya apareció ante mí en gloria viviente"». Swami Pranabananda, «el santo de dos cuerpos», también me confió los detalles de su propia experiencia superna: «"unos días antes de que Lahiri Mahasaya dejara su cuerpo, me contó cuando visitó mi escuela de Ranchi, recibí una carta suya pidiéndome que fuera a Benares enseguida; me retrasé, sin embargo, y no pude partir de inmediato, y mientras estaba en medio de los preparativos del viaje, hacia las diez de la mañana, me sobrecogió de pronto la alegría de ver la figura refulgente de mi gurú: "¿por qué apresurarse a Benares?"»:*
+Con unas palabras de bendición para mí, el maestro trascendente desapareció.
 
-> Lahiri Mahasaya said, smiling.
+Keshabananda
 
-*«"Ya no me encontrarás allí". Cuando el sentido de sus palabras amaneció en mí, sollozé deshecho, creyendo que lo veía solo en una visión»:*
+*De vuelta en su ermita de Hardwar, llevó consigo las cenizas:*
 
-> “The master approached me comfortingly.
+> Yet it comforted my heart to enshrine his sacred remains.
 
-*«"Aquí, toca mi carne, dijo: estoy vivo, como siempre; no lamentes; ¿no estoy contigo para siempre?"». De labios de estos tres grandes discípulos ha emergido una historia de verdad prodigiosa: a la hora de las diez de la mañana, el día después de que el cuerpo de Lahiri Mahasaya fuera entregado a las llamas, el maestro resucitado, en un cuerpo real pero transfigurado, apareció ante tres discípulos, cada uno en una ciudad diferente: «"cuando esto corruptible se haya vestido de incorrupción, y esto mortal se haya vestido de inmortalidad, entonces se cumplirá la palabra que está escrita: la muerte es tragada en victoria; ¿muerte, dónde está tu aguijón?; ¿sepulcro, dónde tu victoria?"».*
+Y sin embargo reconfortó mi corazón custodiar sus restos sagrados.
+
+Keshabananda
+
+*Y no fue el único: Panchanon Bhattacharya lo vio en Calcuta; Pranabananda, el «santo de los dos cuerpos», lo vio cuando se preparaba para viajar a Benarés, y el maestro lo consoló:*
+
+> ‘Here, touch my flesh,’ he said. ‘I am living, as always. Do not lament; am I not with you forever?’
+
+«Aquí, toca mi carne, dijo: estoy vivo, como siempre. No te lamentes; ¿no estoy contigo para siempre?»
+
+Lahiri Mahasaya
+
+*De los labios de tres grandes discípulos, en tres ciudades distintas, a la misma hora de la misma mañana, salió la misma historia: el maestro resucitado, en un cuerpo real pero transfigurado. El capítulo cierra con san Pablo: «¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?»*
 
 ## Capítulo 37: Parto hacia América
 
