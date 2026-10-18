@@ -542,6 +542,9 @@ Nunca me cuidaré de qué maldad haga si este hombre llega a buen fin.
 
 ## Acto IV, escena 1
 
+
+![Óleo: Edgar guía a Gloucester, ciego y con los ojos vendados, por un sendero del páramo, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-17.jpg)
+
 *Edgar sigue solo, al aire todavía, y se consuela con la filosofía del fondo: mejor así, conocido por despreciado, que seguir despreciado y adulado; lo peor, lo más bajo y abatido de la Fortuna, permanece en esperanza y no vive en miedo; «el cambio lamentable es desde lo mejor; lo peor vuelve a la risa». Pero entra su padre, ciego, guiado de la mano por un viejo arrendatario de ochenta años, y el consuelo se cae: «mundo, mundo, oh mundo: si tus extrañas mutaciones no nos hicieran odiarte, la vida no cedería a la edad».*
 
 *Gloucester despide al viejo (tus consuelos no pueden hacerme ningún bien; a ti pueden hacerte daño) y suelta la sabiduría que le costó los ojos: «no tengo camino, y por eso no necesito ojos; tropecé cuando veía». Y confiesa en voz alta lo que no sabe que su hijo está oyendo:*
@@ -576,6 +579,9 @@ Edgar
 
 ## Acto IV, escena 2
 
+
+![Óleo: Goneril se despide de Edmund ante el palacio de Albany mientras Oswald observa a distancia, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-18.jpg)
+
 *Ante el palacio de Albany. Goneril llega con Edmund y con Oswald, que cuenta al duque cambiado: sonrió al oír del ejército desembarcado; «peor», dijo al saber que ella venía. Goneril lo diagnostica: terror gallina de su espíritu, que no se atreve a emprender. Despide a Edmund hacia Cornwall: que apure las levas de su hermano; ella cambiará nombres en casa y dará la rueca a su marido. Le cuelga un favor al cuello («lleva esto; ahorra palabras; inclina la cabeza») y le da el beso de despedida: «este beso, si se atreviera a hablar, te estiraría los espíritus hasta el aire; concibe, y que te vaya bien». Edmund responde: «tuyo en las filas de la muerte». Sola, Goneril hace la cuenta:*
 
 > To thee a woman’s services are due; My fool usurps my body.
@@ -606,6 +612,9 @@ Mensajero
 
 ## Acto IV, escena 3
 
+
+![Óleo: el campamento francés junto al mar, cerca de Dover, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-19.jpg)
+
 *En el campamento francés, cerca de Dover. Kent pregunta por qué el rey de Francia volvió tan de repente: dejó algo imperfecto en el estado que exigía su regreso en persona; queda el mariscal La Far por general. ¿Y las cartas? ¿Traspasaron a la reina hasta una muestra de dolor? El caballero lo cuenta como quien describe un cuadro: las tomó, las leyó en su presencia, y de cuando en cuando una lágrima amplia rodaba por su mejilla delicada; parecía una reina sobre su pasión, que, muy rebelde, peleaba por ser rey sobre ella. «¿Entonces la conmovió?». No hasta la furia: paciencia y dolor competían por cuál la expresaba más hermosa; «habéis visto sol y lluvia a la vez: sus sonrisas y sus lágrimas eran como un camino mejor»; aquellas sonrisillas felices que jugaban en su labio maduro no sabían qué huéspedes tenían sus ojos, que partían de allí como perlas caídas de diamantes.*
 
 *¿Y no hizo pregunta verbal? Una o dos veces dejó escapar el nombre de «padre», jadeante, como si le apretara el corazón: «hermanas, hermanas, vergüenza de las damas, hermanas; ¡en la tormenta, en la noche!»:*
@@ -630,6 +639,9 @@ Kent
 
 ## Acto IV, escena 4
 
+
+![Óleo: Cordelia llora en su tienda al oír cómo encontraron a su padre, loco y coronado de hierbas, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-20.jpg)
+
 *En el campamento francés. Cordelia acaba de oírlo: «ay, es él»: lo encontraron hace un momento loco como el mar airado, cantando en voz alta, coronado de fumaria y hierbas de surco, de bardanas, cicuta, ortigas y flores de cuco, cizaña y todas las hierbas ociosas que crecen en nuestro trigo sustentador. Que salga una centuria; que busquen cada acre del campo alto y lo traigan a su vista. ¿Qué puede la sabiduría del hombre para restaurar su sentido despojado? «Quien lo ayude, que se lleve todo mi valor exterior». El médico responde que hay medios: nuestra nodriza de la naturaleza es el reposo, que él no tiene, y hay simples operativos cuyo poder cerrará el ojo de la angustia. Cordelia reza a la tierra («todos los secretos benditos, todas las virtudes no publicadas de la tierra, broten con mis lágrimas; séanse ayuda y remedio en la aflicción del buen hombre») y apura la búsqueda:*
 
 > Seek, seek for him, Lest his ungoverned rage dissolve the life That wants the means to lead it.
@@ -644,6 +656,9 @@ Cordelia
 
 ## Acto IV, escena 5
 
+
+![Óleo: Regan interroga con severidad a Oswald en el campamento británico, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-21.jpg)
+
 *En el campamento británico. Regan interroga a Oswald, el mayordomo de su hermana, que lleva una carta de Goneril para Edmund. ¿Las fuerzas de Albany ya salieron? Sí, señora, y él en persona, aunque a mucha costa: «vuestra hermana es la mejor soldada». Regan hace la lógica del poder en voz alta: «fue una gran ignorancia, sacados los ojos de Gloucester, dejarlo vivir; donde llega, mueve todos los corazones contra nosotras». Edmund, cree, ha ido a despachar por piedad la vida nocturna del ciego y a ojear la fuerza del enemigo. Y entonces va a lo que le duele: ¿por qué le escribe mi hermana a Edmund?*
 
 > Might not you Transport her purposes by word?
@@ -657,6 +672,9 @@ Regan
 ---
 
 ## Acto IV, escena 6
+
+
+![Óleo: Edgar hace creer a su padre ciego que está al borde del acantilado de Dover, con el mar gris a lo lejos, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-22.jpg)
 
 *En el campo abierto, camino de Dover. «¿Cuándo llegaré a lo alto de esa colina?», pregunta Gloucester. Edgar ha cambiado de voz y de traje, y guía a su padre por un llano que él nombra precipicio («horriblemente empinado; ¿oyes el mar?»). Gloucester nota que la voz de su guía se ha refinado; «estáis muy engañado: en nada he cambiado sino en las prendas», miente el hijo. «Venga, señor: aquí es el lugar. Quédese quieto». Y Edgar pinta el vértigo para el que no puede verlo:*
 
@@ -718,6 +736,9 @@ Edgar
 
 ## Acto IV, escena 7
 
+
+![Óleo: Lear dormido en la tienda del campamento francés, velado por Cordelia y el médico, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-23.jpg)
+
 *En una tienda del campamento francés. Cordelia agradece a Kent: «oh, buen Kent, ¿cómo viviré y trabajaré para igualar tu bondad? Mi vida será demasiado corta, y toda medida me faltará». Ser reconocido ya es sobrepago, responde él, y pide seguir sin nombre: «que no me conozcáis hasta que el tiempo y yo lo juzguemos conveniente». «Así sea, mi buen señor. ¿Cómo está el rey?». Duerme todavía. Y Cordelia ora:*
 
 > O, you kind gods, Cure this great breach in his abusèd nature!
@@ -747,6 +768,9 @@ Kent
 ---
 
 ## Acto V, escena 1
+
+
+![Óleo: Edmund da órdenes a un oficial en el campamento británico, entre banderas y corceles, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-24.jpg)
 
 *En el campamento británico, cerca de Dover. Edmund despacha a un oficial: que le pregunten al duque si su último propósito se mantiene o si algo lo ha aconsejado a cambiar de curso («está lleno de alteración y de reprenderse a sí mismo»). Regan tiene su propio parte: el hombre de nuestra hermana se ha perdido por el camino. Y luego va a lo suyo: «ahora, dulce señor: conoces la bondad que te destino; dime con verdad: ¿no amas a mi hermana?». «Con amor honrado». «¿Nunca hallaste el camino de mi hermano al lugar vedado?». «Ese pensamiento os injuria». Ella no se queda tranquila, y lo pide llano:*
 
@@ -780,6 +804,9 @@ Edmund
 
 ## Acto V, escena 2
 
+
+![Óleo: Edgar deja a su padre a la sombra de un gran árbol y corre hacia la batalla lejana, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-25.jpg)
+
 *Edgar deja a su padre a la sombra de un árbol («toma la sombra de este árbol por tu buen hospedaje; ruega que el derecho prospere; si vuelvo otra vez, te traeré consuelo»). «La gracia vaya con vos, señor». Vuelve al poco, corriendo, con la batalla perdida: «fuera, viejo»:*
 
 > Give me thy hand.
@@ -793,6 +820,9 @@ Edgar
 ---
 
 ## Acto V, escena 3
+
+
+![Óleo: Lear entra cargando el cuerpo de Cordelia entre soldados cabizbajos al atardecer, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-26.jpg)
 
 *Los prisioneros salen bajo buena guardia, hasta que se conozcan los placeres mayores de quienes han de juzgarlos. Cordelia se consuela en alto: «no somos los primeros que, con la mejor intención, incurren en lo peor; por ti, rey oprimido, estoy abatida; por mí, podría desafiar el ceño de la falsa Fortuna». ¿No veremos a esas hijas, a esas hermanas? «No, no, no, no. Ven, vayámonos a la prisión»: los dos solos cantarán como pájaros en la jaula:*
 
