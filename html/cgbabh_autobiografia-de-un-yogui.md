@@ -10,6 +10,8 @@ Yogananda nació en la India de finales del siglo diecinueve y llegó a ser el g
 
 ## Capítulo 1: Mis padres y mi primera infancia
 
+![Óleo al estilo de Nicholas Roerich: un niño hindú ora ante el retrato luminoso de un sabio que parece cobrar vida, en una habitación humilde con los picos azules del Himalaya por la ventana.](img/cgbabh_autobiografia-de-un-yogui_i-1.jpg)
+
 *El libro empieza con una confesión asombrosa: el autor dice que recuerda su vida anterior. De niño ya sabía que había sido un yogui del Himalaya.*
 
 > Clear recollections came to me of a distant life, a yogi amidst the Himalayan snows.
