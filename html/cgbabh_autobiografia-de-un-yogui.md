@@ -656,6 +656,111 @@ Yogananda
 
 Yogananda
 
+
+## Capítulo 10: Encuentro a mi maestro, Sri Yukteswar
+
+*Aprobó el bachillerato por la vía de la Ingenuidad Infinita: su amigo Nantu le adelantó las preguntas trampa de los exámenes, y unas hojas sueltas de versos sánscritos encontradas en un solar le resolvieron la prueba de sánscrito al día siguiente. Libre de su promesa al padre, decidió partir a un ermitaño en Benarés con su amigo Jitendra. La despedida:*
+
+> Let me go, that I someday return with a more divine understanding.
+
+«Déjame ir, para volver un día con un entendimiento más divino».
+
+Yogananda, a su padre
+
+*En la ermita de Mahamandal, los compañeros no veían con buenos ojos que se encerrara a meditar en la buhardilla en vez de dedicarse a las tareas de la organización:*
+
+> “Don’t try to catch God so soon!”
+
+«¡No intentes atrapar a Dios tan pronto!».
+
+Un compañero de la ermita
+
+*Dyananda, el joven swami director, le ordenó devolver el dinero que su padre le enviaba y no mencionar jamás el hambre. El muchacho ayunó veinticuatro horas de prueba, y justo ese día el tren de Dyanandaji se retrasó y nadie comería hasta su llegada:*
+
+> “The next Benares death from starvation is due at once in this hermitage,” I thought.
+
+«La próxima muerte por inanición en Benarés está a punto de ocurrir en esta ermita», pensé.
+
+Yogananda
+
+*Cuando por fin cenó a las nueve, descubrió que Dyananda llevaba cuatro días sin comer ni beber por regla de su orden. Avergonzado, objetó que seguir esa disciplina a rajatabla podía llevarlo a morir de hambre. «¡Muere, entonces!», estalló el swami: nunca admitas que vives del poder de la comida y no del poder de Dios; el arroz, el dinero y los hombres son solo sus instrumentos indirectos:*
+
+> There and then I tasted the Spirit’s all-sufficiency.
+
+«Allí y entonces gusté la suficiencia absoluta del Espíritu».
+
+Yogananda
+
+*Esos días el amuleto de plata desapareció de su caja cerrada, cumpliendo la predicción del sadhu: había vuelto al éter del que vino, pues su propósito estaba cumplido. Aislado y hostilizado en la ermita, una madrugada oró hasta la respuesta: «¡Tu Maestro llega hoy!», oyó una voz de mujer que venía de todas partes y de ninguna:*
+
+> Suddenly I felt lifted as though bodily to a sphere uncircumscribed.
+
+«De pronto me sentí elevado, como en cuerpo, a una esfera sin límites».
+
+Yogananda
+
+*Esa mañana, en un mercado de Benarés, vio al final de un callejón a un swami de túnica ocre, inmóvil, que le resultó instantánea y antiguamente familiar. Pero la duda pudo más:*
+
+> “You are confusing this wandering monk with someone known to you,” I thought.
+
+«Estás confundiendo a este monje errante con alguien conocido», pensé.
+
+Yogananda
+
+*Siguió caminando, y a los diez minutos sus pies se volvieron de piedra: no podían alejarse; al darse la vuelta, recobraban la ligereza:*
+
+> “The saint is magnetically drawing me to him!”
+
+«¡El santo me está atrayendo magnéticamente hacia él!».
+
+Yogananda
+
+*Voló de regreso al callejón. La figura quieta seguía mirando en su dirección:*
+
+> The divine face was none other than he of my thousand visions.
+
+«El rostro divino no era otro que el de mis mil visiones».
+
+Yogananda
+
+> “O my own, you have come to me!”
+
+«¡Oh, mío propio, has venido a mí!».
+
+Sri Yukteswar
+
+*Cuántos años te he esperado, repitió el gurú en bengalí, trémulo de gozo. Entraron en una unidad de silencio; el pasado, el presente y el futuro giraron como escenas de un solo tiempo:*
+
+> This was not the first sun to find me at these holy feet!
+
+«¡No era éste el primer sol que me encontraba a estos santos pies!».
+
+Yogananda
+
+*En el balcón de piedra sobre el Ganges, el maestro le ofreció sus ermitas y todo lo que poseía; el muchacho respondió que venía por sabiduría y contacto con Dios. Entonces Sri Yukteswar le dio su amor incondicional y le pidió lo mismo: el amor ordinario es egoísta, enraizado en deseos:*
+
+> The flux of the human heart is gone forever at the transfixing touch of pure love.
+
+«El fluir del corazón humano desaparece para siempre al toque trascendente del amor puro».
+
+Sri Yukteswar
+
+*Sin que el muchacho hubiera contado nada, el gurú le habló del amuleto perdido («no lo lamentes; cumplió su propósito») y de su situación infeliz en la ermita:*
+
+> Like a divine mirror, my guru apparently had caught a reflection of my whole life.
+
+«Como un espejo divino, mi gurú había captado al parecer el reflejo de toda mi vida».
+
+Yogananda
+
+> “The living reality of your presence, Master, is joy beyond any symbol.”
+
+«La realidad viva de tu presencia, Maestro, es un gozo superior a cualquier símbolo».
+
+Yogananda
+
+*Le dio nombre y dirección —Swami Sri Yukteswar Giri, ermita de Serampore, a solo doce millas de Calcuta— y una orden que aguó el milagro: «Vendrás a mí en cuatro semanas», es decir, volver a casa, justo lo que el muchacho había jurado no hacer. Se despidió en tensión. En la ermita la hostilidad creció hasta que, tres semanas después, él y Jitendra partieron juntos a Serampore: el «pájaro joven» se disponía a «abatirse» peligrosamente cerca de Calcuta.*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
