@@ -2875,8 +2875,6 @@ Therese me saludó con un apretón de manos muy suave. Ambos radiamos en comuni�
 
 Yogananda
 
-*Resuelto el dinero gracias a los discípulos, zarpa en junio vía Europa. En Baviera quiere conocer a la gran mística católica Therese Neumann: ciega y paralítica a los veinte años, curada por milagro, vive sin comer desde hace doce:*
-
 > “I live by God’s light.”
 
 «Vivo de la luz de Dios.»
@@ -3717,8 +3715,6 @@ Ananda Moyi Ma
 
 Ananda Moyi Ma
 
-*Hablan un rato; luego ella entra en éxtasis y pasa una hora ausente del cuerpo. Al volver, él la invita al jardín para una foto:*
-
 > “Father, I am going to the Himalayas,” she told me. “Generous disciples have built me a hermitage in Dehra Dun.”
 
 «Padre, me voy al Himalaya, me dijo. Unos discípulos generosos me han construido una ermita en Dehra Dun.»
@@ -3844,8 +3840,6 @@ Giri Bala
 
 La discípula
 
-*Septiembre de 1936: da clases en Londres y regresa a Los Ángeles para la fiesta de Navidad del centro, con regalos de la India para los discípulos:*
-
 > “Sir,” he said, “please let me thank you now for the silver cup. I could not find any words on Christmas night.”
 
 «Señor, dijo, permítame agradecerle ahora la copa de plata. La noche de Navidad no encontré palabras.»
@@ -3859,8 +3853,6 @@ Sr. Dickinson
 «No, hijo mío, yo no soy tu gurú. Vivekananda clavó en los míos sus ojos hermosos y penetrantes. Tu maestro vendrá más tarde. Te dará una copa de plata.»
 
 Vivekananda
-
-*Y le cuenta una historia guardada cuarenta y tres años: de joven conoció al gran swami Vivekananda y deseó, sin atreverse a decirlo, que fuera su maestro:*
 
 > “The next evening I attended, for the first time, one of your lectures here in Los Angeles, and knew then that my prayer had been granted.”
 
