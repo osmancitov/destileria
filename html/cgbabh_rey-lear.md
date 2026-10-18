@@ -10,6 +10,9 @@ Hacia 1605-1606, William Shakespeare escribió *King Lear*, una de sus grandes t
 
 ## Acto I, escena 1
 
+
+![Óleo: un rey anciano coronado estudia el mapa de su reino rodeado de cortesanos y sus tres hijas, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-1.jpg)
+
 *La primera frase de la obra es de Kent: al rey lo vieron siempre más inclinado a un yerno que al otro. Entra Lear, viejo y cansado de gobernar, pide el mapa y anuncia su plan.*
 
 > Meantime we shall express our darker purpose.
@@ -62,6 +65,9 @@ Goneril
 
 ## Acto I, escena 2
 
+
+![Óleo: Edmund, el hijo bastardo, habla a solas con la Naturaleza en el patio del castillo, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-2.jpg)
+
 *Edmund, hijo bastardo de Gloucester, habla a solas: su diosa es la Naturaleza («Thou, Nature, art my goddess») y no acepta la costumbre que lo condena por bastardo:*
 
 > Wherefore should I Stand in the plague of custom, and permit The curiosity of nations to deprive me For that I am some twelve or fourteen moonshines Lag of a brother?
@@ -100,6 +106,9 @@ Edmund
 
 ## Acto I, escena 3
 
+
+![Óleo: Goneril da órdenes a su mayordomo Oswald en la galería de su palacio, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-3.jpg)
+
 *En casa de Goneril, la hija mayor. Su mayordomo, Oswald, confirma la noticia: el rey golpeó a un caballero de ella por reprender a su Bufón. La queja lleva tiempo creciendo: a cada hora el viejo estalla en una grosería que los pone a todos en contra. Goneril lo decide en voz alta:*
 
 > I’ll not endure it.
@@ -121,6 +130,9 @@ Goneril
 ---
 
 ## Acto I, escena 4
+
+
+![Óleo: Kent, desterrado y disfrazado de criado, se ofrece a servir al rey que lo condenó, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-4.jpg)
 
 *Kent, el consejero desterrado, vuelve disfrazado: se cambia el acento y la cara para servir al rey que lo condenó. Lear llega a casa de Goneril pidiendo la cena y lo ve. «¿Qué profesas?», le pregunta. Ser lo que parezco, responde Kent: servir al que me dé su confianza, conversar con el sabio que habla poco y pelear cuando no quede otro remedio. Y añade que es un hombre honrado, tan pobre como el rey. Lear, en broma, le da la razón:*
 
@@ -170,6 +182,9 @@ Goneril
 
 ## Acto I, escena 5
 
+
+![Óleo: camino de Regan, el rey y el Bufón en el páramo mientras Kent parte a galope con las cartas, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-5.jpg)
+
 *Camino de Regan. Lear envía a Kent por delante con cartas: «Ve delante a Gloucester con estas cartas»; que no le cuente a su hija más de lo que le pregunten, y que vuele, o el rey llegará antes que él. En el camino, el Bufón suelta sus adivinanzas: la nariz está en medio de la cara para que los ojos vigilen lo que no se puede oler, y el caracol tiene casa para meter la cabeza, no para regalársela a sus hijas. Lear, de pronto, baja la voz: «Fui injusto con ella».*
 
 *Sigue el juego: Lear acierta una adivinanza (las siete estrellas no son ocho) y el Bufón le dice que haría un buen bufón; el rey estalla contra la ingratitud, y el Bufón le devuelve el golpe con una sonrisa:*
@@ -185,6 +200,9 @@ Bufón
 ---
 
 ## Acto II, escena 1
+
+
+![Óleo: Edmund escucha los rumores de Curan en el patio oscuro de la casa de Gloucester, de noche, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-6.jpg)
 
 *Esa misma noche, en casa de Gloucester. Edmund saluda a Curan, un caballerizo, que trae rumores: Cornwall y Regan llegan esta noche, y se susurran guerras entre los duques de Cornwall y Albany, «argumentos que aún no pasan de besos al oído». Edmund, a solas, huele la ocasión: la visita se teje sola dentro de su trama. Llama a Edgar: su padre lo vigila, que huya; y le explica por qué desenvaina contra su propio hermano:*
 
@@ -216,6 +234,9 @@ Edmund
 
 ## Acto II, escena 2
 
+
+![Óleo: Kent y Oswald se encaran a espada ante la casa de Gloucester al amanecer, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-7.jpg)
+
 *Ante la casa de Gloucester, de noche. «Buen amanecer te dé, amigo; ¿eres de esta casa?». Es Oswald, el mayordomo de Goneril, que llega con cartas de ella; Kent, el servidor disfrazado, llega con las del rey, y lo reconoce al instante: es el criado que insultó a Lear. ¿Dónde dejamos los caballos?, pregunta Oswald. «En el lodo». ¿Por qué me tratas así?, si ni te conozco. La respuesta:*
 
 > Fellow, I know thee.
@@ -246,6 +267,9 @@ Kent
 
 ## Acto II, escena 3
 
+
+![Óleo: Edgar, proscrito, se oculta en el hueco de un gran roble con las jaurías cerca, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-8.jpg)
+
 *Edgar, solo, cuenta su suerte: proscrito por la voz de su propio padre, se salvó de la cacería en el hueco dichoso de un árbol; ningún puerto está libre de guardias y vigilias. Su decisión:*
 
 > Whiles I may ’scape, I will preserve myself, and am bethought To take the basest and most poorest shape That ever penury in contempt of man Brought near to beast.
@@ -259,6 +283,9 @@ Edgar
 ---
 
 ## Acto II, escena 4
+
+
+![Óleo: el rey encuentra a su mensajero Kent sentado en el cepo como un ladrón, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-9.jpg)
 
 *Lear llega a la casa de Gloucester con el Bufón y encuentra lo que no puede creer: su mensajero, Kent, sentado en el cepo como un ladrón común. «¿Haces de esta vergüenza tu pasatiempo?». No, mi señor. El Bufón cuenta las ligas: los caballos se atan por la cabeza, los perros y los osos por el cuello, los monos por los lomos y los hombres por las piernas. ¿Quién te puso aquí? «Tu hijo y tu hija». No. Sí. Que no, por Júpiter. Que sí, por Juno. Lear lo nombra:*
 
@@ -308,6 +335,9 @@ Lear
 
 ## Acto III, escena 1
 
+
+![Óleo: Kent y un caballero conversan en el páramo azotado por la tormenta, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-10.jpg)
+
 *En el páramo, en plena tormenta. Kent encuentra a un caballero del séquito: ¿quién hay ahí, además del mal tiempo? Uno de humor parecido al tiempo. ¿Dónde está el rey? Peleando con los elementos airados: manda al viento soplar la tierra hasta el mar, se arranca los pelos blancos, corre sin sombrero en la noche en que hasta el oso y el lobo guardan el pelo seco; y no lo acompaña nadie sino el Bufón, que se afana por ganar con bromas a las injurias que le traspasan el corazón.*
 
 *Kent se fía de él: hay división entre Albany y Cornwall, y algo peor; criados que parecen otra cosa espían para Francia, y una fuerza francesa ya tiene pies secretos en los mejores puertos. Que corra a Dover con el encargo y hallará quien se lo agradezca; si ve a Cordelia, que le muestre este anillo y ella le dirá quién es este mozo que aún no conoce. El caballero le da la mano: «¿no tiene más que decir?». Y Kent cierra la escena:*
@@ -321,6 +351,9 @@ Kent
 ---
 
 ## Acto III, escena 2
+
+
+![Óleo: Lear desafía a la tormenta con los brazos abiertos en medio del páramo, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-11.jpg)
 
 *En el páramo, bajo la tormenta entera. Lear no se resguarda: le habla al tiempo como a un ejército. «¡Soplen, vientos, y rómpanse las mejillas! ¡Cataratas y huracanes, chorreen hasta ahogar las torres! ¡Fuegos sulfurosos que ejecutan el pensamiento, chamusquen mi cabeza blanca! ¡Trueno que lo sacudes todo, aplana la redondez del mundo, rompe los moldes de la natura y derrama de una vez los gérmenes del hombre ingrato!». El Bufón tira de él: el agua bendita de la corte bajo techo vale más que esta agua de fuera; entra, tío; pide la bendición de tus hijas; esta noche no tiene piedad ni de sabios ni de locos.*
 
@@ -354,6 +387,9 @@ Lear
 
 ## Acto III, escena 3
 
+
+![Óleo: Gloucester abre su corazón a Edmund a la luz de una sola vela, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-12.jpg)
+
 *En la casa de Gloucester, el viejo abre su corazón a Edmund: no le gusta este trato contra natura; por pedir permiso para apiadarse del rey le quitaron el uso de su propia casa y le prohibieron, bajo perpetua desgracia, hasta hablar de él. Y añade lo que no debe decir: hay división entre los duques, y algo peor; esta noche recibió una carta, peligrosa de pronunciar, que guarda bajo llave; estas injurias que el rey padece serán vengadas a fondo; ya hay parte de una fuerza con pie en tierra.*
 
 *Su decisión es la desobediencia:*
@@ -369,6 +405,9 @@ Gloucester
 ---
 
 ## Acto III, escena 4
+
+
+![Óleo: el rey se niega a entrar al cobertizo bajo la lluvia, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-13.jpg)
 
 *Kent consigue al fin el cobertizo: la tiranía de la noche abierta es demasiado cruda para que la naturaleza la aguante. Lear no quiere entrar; piensa en voz alta: donde la enfermedad mayor está fija, la menor apenas se siente; quien huye del oso hacia el mar bramante se lo encuentra de boca; cuando la mente está libre, el cuerpo es delicado, pero esta tempestad de la mente le quita a los sentidos todo sentir salvo lo que ahí late. La ingratitud filial: como si esta boca desgarrara esta mano por llevarle comida. En una noche así, ¿echarlo fuera? «Oh, Regan, Goneril, vuestro viejo y buen padre, cuyo corazón franco lo dio todo...». Y se frena a sí mismo:*
 
@@ -410,6 +449,9 @@ Gloucester
 
 ## Acto III, escena 5
 
+
+![Óleo: Cornwall dicta su venganza a sus servidores en la sala del castillo, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-14.jpg)
+
 *Cornwall no se irá de esa casa sin su venganza, y ya reescribe el caso: no fue solo la mala disposición de Edgar la que buscó la muerte de Gloucester, sino un mérito provocador del propio padre, puesto a andar por una maldad reprobable. Edmund le sigue el juego con una queja perfecta:*
 
 > How malicious is my fortune that I must repent to be just!
@@ -423,6 +465,9 @@ Edmund
 ---
 
 ## Acto III, escena 6
+
+
+![Óleo: el rey loco preside un juicio imaginario en la choza, ante el Bufón y el mendigo, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-15.jpg)
 
 *Bajo techo al fin. Todo el poder de los sesos del rey ha cedido a su impaciencia, dice Kent. Tom oye a su demonio Frateretto: Nerón pesca en el lago de la oscuridad. El Bufón le pregunta a Lear si un loco es un caballero o un villano. «Un rey, un rey». No: es villano el que tiene un caballero por hijo, porque loco está el villano que ve a su hijo caballero delante de él. Y el Bufón deja caer su sabiduría de la casa:*
 
@@ -455,6 +500,9 @@ Kent
 ---
 
 ## Acto III, escena 7
+
+
+![Óleo: los guardias de Cornwall sujetan a Gloucester atado a una silla en una sala sombría, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-16.jpg)
 
 *En la casa de Gloucester, Cornwall despacha: carta veloz a Albany («el ejército de Francia ha desembarcado»), Edmund acompaña a Goneril, y del padre traidor se encarga él. «Que lo cuelguen en el acto», dice Regan. «Que le saquen los ojos», dice Goneril. Traen a Gloucester atado como a un ladrón, en su propia casa, y él apela a la ley más vieja:*
 
