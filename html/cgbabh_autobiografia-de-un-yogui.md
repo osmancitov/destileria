@@ -2152,6 +2152,74 @@ Yogananda
 
 Yogananda
 
+## Capítulo 29: Rabindranath Tagore y yo comparamos escuelas
+
+*«Rabindranath Tagore nos enseñó a cantar, como una forma natural de autoexpresión, como los pájaros». Así lo explicó Bhola Nath, un despierto muchacho de catorce años de la escuela de Ranchi, cuando él lo felicitó una mañana por sus melodiosos arranques: con motivo o sin él, el niño derramaba un raudal afinado; antes había asistido a la famosa escuela tagoriana de Santiniketan, el Remanso de Paz, en Bolpur:*
+
+> “The songs of Rabindranath
+
+«"Las canciones de Rabindranath han estado en mis labios desde la juventud temprana", le dije a mi compañero».
+
+Yogananda
+
+*Toda Bengala, incluso los campesinos sin letras, se deleita en sus versos elevados. Bhola y él cantaron juntos algunos estribillos de Tagore, que puso música a miles de poemas indios, unos originales y otros de venerable antigüedad:*
+
+> “I met Rabindranath soon after
+
+«"Conocí a Rabindranath poco después de que recibiera el Premio Nobel de literatura", comenté tras nuestro canto».
+
+Yogananda
+
+*Lo atrajo visitarlo porque admiraba su coraje poco diplomático para despachar a sus críticos literarios. Los eruditos lo habían desollado por introducir un nuevo estilo en la poesía bengalí, mezclando expresiones coloquiales y clásicas sin hacer caso de las limitaciones prescritas tan caras al corazón de los pandits; un crítico influyente lo llamó desdeñosamente «poeta paloma que vendía sus arrullos impresos por una rupia». Pero la venganza de Tagore estaba a la mano: el mundo occidental entero le rindió homenaje poco después de que tradujera al inglés su Gitanjali, las Ofrendas de canciones, y un tren entero de pandits, incluidos sus antiguos críticos, viajó a Santiniketan a felicitarlo. Rabindranath recibió a sus huéspedes solo tras una demora intencionalmente larga y oyó sus elogios en silencio estoico; al fin volvió contra ellos sus propias armas habituales de crítica: «señores, dijo, los fragantes honores que aquí me otorgan se mezclan de modo incongruente con los olores pútridos de su desprecio pasado; ¿existe acaso alguna conexión entre mi Premio Nobel y sus de pronto agudas facultades de apreciación? Sigo siendo el mismo poeta que les desagradó cuando ofrecí por primera vez mis humildes flores en el altar de Bengala». Los periódicos publicaron la osada reprimenda:*
+
+> I admired the outspoken words
+
+«Admiré las palabras francas de un hombre no hipnotizado por la adulación, proseguí».
+
+Yogananda
+
+*Lo presentaron a Rabindranath en Calcuta por medio de su secretario, el señor C. F. Andrews, ataviado sencillamente con un dhoti bengalí y que se refería amorosamente a Tagore como su gurudeva:*
+
+> Rabindranath received me graciously.
+
+«Rabindranath me recibió con agrado».
+
+Yogananda
+
+*Emanaba de él un aura calmante de encanto, cultura y cortesía; a su pregunta sobre su formación literaria, Tagore le dijo que una fuente antigua de su inspiración, además de las epopeyas religiosas, había sido el poeta clásico Bidyapati. Inspirado por estos recuerdos, se puso a cantar la versión de Tagore de una vieja canción bengalí, «Enciende la lámpara de tu amor», y Bhola y él la entonaron gozosos mientras paseaban por los terrenos del Vidyalaya. Unos dos años después de fundar la escuela de Ranchi, recibió una invitación de Rabindranath para visitarlo en Santiniketan y discutir sus ideales educativos; fue con gusto. El poeta estaba sentado en su estudio: un modelo de varonil hermosura como pintor alguno podría desear, el rostro noblemente patricio enmarcado en larga cabellera y barba fluida, ojos grandes y fundidos, sonrisa angélica y una voz de cualidad de flauta literalmente encantadora; fornido, alto y grave, combinaba una ternura casi femenina con la deliciosa espontaneidad de un niño. Pronto estuvieron absortos en un estudio comparativo de sus escuelas, ambas fundadas en líneas poco ortodoxas, y descubrieron muchos rasgos idénticos: instrucción al aire libre, sencillez, amplio margen para el espíritu creador del niño; Rabindranath, eso sí, ponía considerable énfasis en la literatura, la poesía y la autoexpresión por la música y el canto, y escuchó con atención halagadora la descripción de los ejercicios energizantes Yogoda y las técnicas de concentración yoga que se enseñan a todos los estudiantes de Ranchi:*
+
+> Tagore told me of his own early educational struggles.
+
+«Tagore me contó sus propias luchas educativas tempranas».
+
+Yogananda
+
+*«Huí de la escuela después del quinto grado», dijo riendo. «Por eso abrí Santiniketan bajo los árboles sombríos y las glorias del cielo», y señaló elocuentemente a un grupito que estudiaba en el bello jardín: «un niño está en su ambiente natural entre las flores y los pájaros cantores; solo así puede expresar plenamente la riqueza oculta de su dotación individual; la verdadera educación nunca puede embutirse ni bombearse desde fuera, sino que debe ayudar a sacar espontáneamente a la superficie los tesoros infinitos de sabiduría interior». Él estuvo de acuerdo: «los instintos idealistas y de veneración heroica de los jóvenes perecen de hambre con una dieta exclusiva de estadísticas y eras cronológicas». El poeta habló con amor de su padre, Devendranath, el «Maharishi», que le había regalado aquella tierra fértil con casa de huéspedes y templo ya construidos, y de cómo las ocho mil libras del Premio Nobel fueron a parar íntegramente al sostenimiento de la escuela. De aquel árbol ilustre brotó una familia de genios: sus hermanos Gogonendra y Abanindra figuran entre los primeros artistas de la India, y otro hermano, Dwijendra, es un filósofo de honda mirada ante cuyo suave llamado acuden los pájaros y las criaturas del bosque. Rabindranath lo invitó a pasar la noche en la casa de huéspedes; fue un espectáculo encantador, al atardecer, ver al poeta sentado con un grupo en el patio:*
+
+> Time unfolded backward: the scene before me was like that of an ancient hermitage-the joyous singer encircled by his devotees, all aureoled in divine love.
+
+«El tiempo se desplegó hacia atrás: la escena ante mí era como la de un ashram antiguo, el cantor gozoso rodeado de sus devotos, todos aureolados de amor divino».
+
+Yogananda
+
+*Tagore tejía cada lazo con las cuerdas de la armonía:*
+
+> Never assertive
+
+«Nunca asertivo, atraía y capturaba el corazón con un magnetismo irresistible».
+
+Yogananda
+
+*¡Raro capullo de poesía floreciendo en el jardín del Señor, atrayendo a otros con su fragancia natural! Con su voz melodiosa, Rabindranath les leyó algunos de sus exquisitos poemas recién creados; la belleza de sus versos reside, para Yogananda, en su arte de referirse a Dios en casi cada estrofa sin mencionar apenas el sagrado Nombre:*
+
+> “Drunk with the bliss of singing
+
+«"Ebrio de la dicha de cantar, escribió, me olvido de mí mismo y te llamo amigo a ti que eres mi señor"».
+
+Yogananda
+
+*Al día siguiente, tras el almuerzo, se despidió del poeta a regañadientes. Se regocija de que su escuelita haya crecido hasta ser la universidad internacional Viswa-Bharati, donde eruditos de todas las tierras han hallado un marco ideal, y cierra el capítulo con la oración del propio Tagore: «donde la mente no tiene miedo y la cabeza se alza en alto; donde el conocimiento es libre; donde el mundo no ha sido fragmentado por estrechas paredes domésticas... donde la mente es conducida por Ti hacia un pensamiento y una acción siempre más amplios: hacia ese cielo de libertad, Padre mío, ¡despierte mi país!».*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
