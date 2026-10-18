@@ -1489,6 +1489,67 @@ Yogananda
 
 *«¿Lo sueñas?», se rió Dijen con sorna. Pero al terminar Yogananda su descripción, Sri Yukteswar apareció a la vista, con la misma ropa vista esa mañana, caminando despacio a la zaga de un niño que llevaba una jarra de plata. Una ola de frío temor recorrió al muchacho: ¿había vuelto a los días antiguos en que Jesús se apareció a Pedro sobre el mar? El maestro sonrió a Dijen: «yo también te envié un mensaje, pero no pudiste captarlo». Más tarde, ya en la calle, Dijen se detuvo con la indignación manando de cada poro: «¡el maestro me envió un mensaje y tú me lo ocultaste! ¡Exijo una explicación!». «¿Puedo yo evitar que tu espejo mental oscile con tanta inquietud que no registra las instrucciones de nuestro gurú?». La ira se desvaneció del rostro de Dijen: «el relato que acabo de oír de los poderes de nuestro gurú, dijo al llegar al college, me hace sentir que cualquier universidad del mundo es apenas un jardín de infancia».*
 
+## Capítulo 20: No visitamos Cachemira
+
+*Tercer verano con el mismo plan: llevar al maestro y a cuatro amigos a las faldas del Himalaya durante las vacaciones. El padre soltó una carcajada: «es la tercera vez que me vienes con el mismo cuento; a última hora, Sri Yukteswarji se niega a ir». Aun así, al día siguiente, entre bromas de buen humor, le entregó seis pases de tren y un rollo de billetes de diez rupias: «apenas creo que tu viaje teórico necesite apoyos tan prácticos, pero aquí los tienes». Aquella tarde Mukunda exhibió su botín ante Sri Yukteswar, que sonrió ante su entusiasmo sin comprometerse: «me gustaría ir; ya veremos». La salida quedó fijada para el lunes siguiente, y el lunes temprano el muchacho llegó a Serampore con su equipaje:*
+
+> Rajendra met me at the hermitage door.
+
+«Rajendra me salió al encuentro en la puerta de la ermita».
+
+Yogananda
+
+*«El maestro salió a caminar; se ha negado a ir». Igual de afligido que obstinado, Mukunda decidió no dar a su padre una tercera ocasión de ridiculizar sus planes quiméricos: los demás irían de todos modos. Kanai no viajaría sin el maestro, así que salió a buscar a Behari, antiguo sirviente de la familia, para que cuidara el equipaje. En el camino se cruzó con su gurú frente a la iglesia cristiana, junto al juzgado de Serampore: «no creo que Behari esté dispuesto a ir», le dijo con el rostro serio. Y en efecto: la cordialidad de Behari se evaporó al oír la palabra Cachemira; murmuró una disculpa, entró en la casa de su patrón y, tras media hora de espera nerviosa, un hombre informó en la puerta: «Behari se fue por la escalera de atrás hace unos treinta minutos». De vuelta, junto a la misma iglesia, el maestro seguía allí: «¡así que Behari no quiso ir! ¿Y ahora, cuáles son tus planes?». «Pediré a mi tío que me preste a su sirviente, Lal Dhari»:*
+
+> “See your uncle if you want to,” Sri Yukteswar replied with a chuckle.
+
+«"Ve a ver a tu tío si quieres", respondió Sri Yukteswar con una risita».
+
+Yogananda
+
+*El tío Sarada Ghosh, abogado del gobierno, lo recibió con cariño y se alegró del viaje; pero la sencilla petición del sirviente tuvo el efecto de un terremoto: el tío saltó con tal violencia que la silla volcó, los papeles del escritorio volaron en todas direcciones y su pipa de coco cayó al suelo con gran estrépito. «Joven egoísta, gritó temblando de ira, ¿quién me cuidará a mí si te llevas a mi sirviente a una de tus excursiones de placer?». La retirada del juzgado fue más veloz que digna. De vuelta en la ermita, donde los amigos esperaban expectantes, crecía en él la convicción de que había algún motivo suficiente, aunque sumamente recóndito, tras la actitud del maestro:*
+
+> Remorse seized me that I had been trying to thwart my guru’s will.
+
+«El remordimiento me embargó al darme cuenta de que había intentado frustrar la voluntad de mi gurú».
+
+Yogananda
+
+*«Mukunda, ¿no te gustaría quedarte un rato más conmigo? Rajendra y los demás pueden ir por delante y esperarte en Calcuta; habrá tiempo de sobra para tomar el último tren de la noche». «Señor, no me interesa ir sin usted», respondió con tristeza. Los amigos no le prestaron la menor atención: llamaron un coche de alquiler y partieron con todo el equipaje. Kanai y él se sentaron en silencio a los pies del gurú. Media hora después, al levantarse de su asiento, lo derribaron de pronto unas náuseas atroces y un dolor punzante tan intenso que se sintió arrojado a un infierno violento: todos los síntomas del temido cólera asiático. «Maestro, le entrego mi vida», gritó retorcido de dolor, convencido de que esta se le escapaba del cuerpo:*
+
+> “Master,” I protested, “only you can heal me.
+
+«"Maestro, protesté, solo usted puede sanarme"».
+
+Yogananda
+
+*Sri Yukteswar le puso la cabeza sobre el regazo y le acarició la frente con ternura angélica: «ya ves lo que habría pasado si estuvieras en la estación con tus amigos; tenía que cuidarte de este modo extraño, porque elegiste dudar de mi juicio sobre hacer el viaje en este momento». «Hijo, te protege la Misericordia Divina; no te preocupes por el médico, no te encontrará en este estado»:*
+
+> You are already healed.”
+> With my guru’s words, the excruciating suffering left me.
+
+«Ya estás sanado. Con las palabras de mi gurú, el sufrimiento insoportable me abandonó».
+
+Yogananda
+
+*Se sentó débilmente. El médico llegó pronto y lo examinó con cuidado:*
+
+> “You appear to have passed through the worst,” he said.
+
+«"Parece que ha pasado lo peor", dijo».
+
+Yogananda
+
+*A la mañana siguiente el facultativo llegó apresurado y lo encontró sentado, sonriendo y charlando como si no hubiera estado al borde de la muerte: «apenas esperaba encontrarte vivo después de descubrir en las muestras que tu enfermedad era el cólera asiático. Eres afortunado, joven, de tener un gurú con poderes divinos de curación»:*
+
+> I am convinced of it!”
+
+«Estoy convencido de ello».
+
+Yogananda
+
+*Rajendra y Auddy aparecieron en la puerta, y el resentimiento de sus caras se trocó en simpatía al ver al médico y el semblante algo demacrado del enfermo. Mukunda no pudo evitar reírse cuando colocaron el equipaje en el mismo rincón que había ocupado la víspera, y citó el viejo refrán: «había un barco que fue a España; cuando llegó, ¡regresó de nuevo!». Cuando el maestro entró en la habitación, se permitió la libertad de un convaleciente y le tomó la mano con cariño: «Guruji, desde mis doce años he hecho muchos intentos fallidos de llegar al Himalaya; por fin estoy convencido de que sin tus bendiciones la diosa Parvati no me recibirá».*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
