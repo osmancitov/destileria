@@ -2220,6 +2220,124 @@ Yogananda
 
 *Al día siguiente, tras el almuerzo, se despidió del poeta a regañadientes. Se regocija de que su escuelita haya crecido hasta ser la universidad internacional Viswa-Bharati, donde eruditos de todas las tierras han hallado un marco ideal, y cierra el capítulo con la oración del propio Tagore: «donde la mente no tiene miedo y la cabeza se alza en alto; donde el conocimiento es libre; donde el mundo no ha sido fragmentado por estrechas paredes domésticas... donde la mente es conducida por Ti hacia un pensamiento y una acción siempre más amplios: hacia ese cielo de libertad, Padre mío, ¡despierte mi país!».*
 
+## Capítulo 30: La ley de los milagros
+
+*El gran novelista León Tolstói escribió un cuento delicioso, Los tres eremitas, que su amigo Nicholas Roerich resumió así: en una isla vivían tres viejos eremitas tan simples que su única oración era «somos tres; Tú eres Tres: ten misericordia de nosotros»:*
+
+> Great miracles were manifested
+
+«Grandes milagros se manifestaban durante esta ingenua oración».
+
+Yogananda
+
+*El obispo local se enteró de los tres eremitas y de su oración inadmisible, y decidió visitarlos para enseñarles las invocaciones canónicas; les dijo que su petición celestial era indigna, les enseñó muchas de las oraciones acostumbradas y partió luego en barca. Vio entonces, siguiendo la nave, una luz radiante: al acercarse, distinguió a los tres eremitas, que se tomaban de las manos y corrían sobre las olas tratando de alcanzar la embarcación. «Hemos olvidado las oraciones que nos enseñó, gritaron al llegar, y nos hemos apresurado a pedirle que nos las repita»:*
+
+> The awed bishop shook his head.
+> “‘Dear ones,’ he replied humbly, ‘continue to live with your old prayer!’”
+
+«El obispo, asombrado, movió la cabeza. "Queridos, respondió humildemente, ¡sigan viviendo con su vieja oración!"».
+
+Yogananda
+
+*¿Cómo caminaron los tres santos sobre el agua? ¿Cómo resucitó Cristo su cuerpo crucificado? ¿Cómo hicieron sus milagros Lahiri Mahasaya y Sri Yukteswar? La ciencia moderna aún no responde, aunque con la bomba atómica y las maravillas del radar la palabra «imposible» pierde peso en el vocabulario científico. Las antiguas escrituras védicas declaran que el mundo físico opera bajo una ley fundamental de maya, el principio de relatividad y dualidad: la ley de movimiento de Newton es ley de maya, la electricidad es repulsión y atracción, el átomo un imán de polos positivo y negativo; ninguna ley de la física se halla libre de principios opuestos. La ciencia no puede formular leyes fuera de maya, la textura misma de la creación: es apta para formular las leyes de un cosmos ya existente y en funcionamiento, pero impotente para detectar al Legislador y único Operador. Superar maya fue la tarea asignada al género humano por los profetas milenarios: elevarse sobre la dualidad de la creación y percibir la unidad del Creador; quienes se aferran a la ilusión cósmica deben aceptar su ley esencial de polaridad: flujo y reflujo, día y noche, placer y dolor, bien y mal, nacimiento y muerte. La ilusión del mundo se llama individualmente avidya, literalmente «no-conocimiento», y no puede destruirse por convicción o análisis intelectual, sino únicamente alcanzando el estado interior del nirbikalpa samadhi. Entre los millones de millones de misterios del cosmos, el más fenomenal es la luz: en las gigantescas concepciones de Einstein, la velocidad de la luz domina toda la Teoría de la Relatividad como la única constante en un universo de flujo imparable; Eddington escribe que «la materia del mundo es materia mental», y sir James Jeans que «el universo empieza a parecerse más a un gran pensamiento que a una gran máquina»: la ciencia del siglo veinte suena como una página de los vetustos Vedas. En su famosa ecuación, Einstein probó que la energía de toda partícula de materia iguala su masa multiplicada por el cuadrado de la velocidad de la luz; y como ningún cuerpo material, cuya masa aumenta con su velocidad, puede alcanzar jamás la velocidad de la luz, solo un cuerpo cuya masa fuera infinita podría igualarla. Esta concepción conduce a la ley de los milagros: los maestros capaces de materializar y desmaterializar sus cuerpos o cualquier objeto, de moverse con la velocidad de la luz y de usar los rayos creativos de luz para hacer visible al instante cualquier manifestación física, han cumplido la necesaria condición einsteiniana: su masa es infinita. La conciencia de un yogui perfeccionado se identifica sin esfuerzo, no con un cuerpo estrecho, sino con la estructura universal, y la gravitación no puede compelerlo a exhibir la propiedad del «peso»:*
+
+> Their imprisoning “rings-pass-not”
+
+«Sus carcelarios "anillos que no se pasan" han cedido ante el solvente: "Yo soy Él"».
+
+Yogananda
+
+*«Fiat lux: y se hizo la luz»: el primer mandato de Dios a su creación ordenada trajo a la existencia la única realidad atómica: la luz, y sobre los haces de ese medio inmaterial ocurren todas las manifestaciones divinas. El yogui que por la meditación perfecta ha fundido su conciencia con el Creador percibe la esencia cósmica como luz: para él no hay diferencia entre los rayos de luz que componen el agua y los que componen la tierra, y transfiere su cuerpo de luz con igual facilidad sobre los rayos de luz de la tierra, el agua, el fuego o el aire. En la conciencia onírica del hombre, que suelta en el sueño su garra de las limitaciones egoístas que lo cercan de día, la omnipotencia de su mente tiene una demostración nocturna: allí están en el sueño los amigos muertos hace años, los continentes más remotos, las escenas resucitadas de la infancia:*
+
+> With that free and unconditioned consciousness
+
+«Con esa conciencia libre e incondicionada, conocida de todos los hombres en los fenómenos del sueño, el maestro afinado con Dios ha forjado un vínculo jamás cortado».
+
+Yogananda
+
+*Inocente de todo motivo personal, y empleando la voluntad creadora que le otorgó el Creador, un yogui reordena los átomos de luz del universo para satisfacer cualquier oración sincera de un devoto: para este fin fueron hechos el hombre y la creación, para que se alzara como señor de maya, conociendo su dominio sobre el cosmos. En 1915, poco después de entrar en la Orden Swami, presenció una visión de violentos contrastes, una mañana, sentado en su cuartito del desván de la casa paterna de Gurpar Road, mientras la Primera Guerra Mundial hacía estragos en Europa y él reflexionaba con tristeza sobre el vasto tributo de muerte. Al cerrar los ojos en meditación, su conciencia se transfirió de súbito al cuerpo de un capitán al mando de un acorazado: el trueno de los cañones partía el aire, un enorme proyectil alcanzó el polvorín y destrozó el barco; saltó al agua junto con los pocos marineros supervivientes y, con el corazón desbocado, llegó a salvo a la orilla, pero una bala perdida terminó su vuelo furioso en su pecho. Cayó gimiendo al suelo, el cuerpo entero paralizado, aunque consciente de poseerlo como se es consciente de una pierna dormida:*
+
+> “At last the mysterious footstep of Death
+
+«"Por fin el misterioso paso de la Muerte me ha alcanzado", pensé».
+
+Yogananda
+
+*Con un suspiro final estaba a punto de hundirse en la inconsciencia cuando, ¡mirad!, se encontró sentado en postura de loto en su cuarto de Gurpar Road: lágrimas histéricas brotaron mientras acariciaba y pellizcaba gozoso su posesión recobrada, un cuerpo libre de todo agujero de bala en el pecho, y se mecía adelante y atrás inhalando y exhalando para asegurarse de que vivía. En medio de esas autofelicitaciones, de nuevo se halló su conciencia transferida al cadáver del capitán junto a la orilla sangrienta:*
+
+> Utter confusion of mind came upon me.
+> “Lord,” I prayed, “am I dead or alive?”
+
+«Una confusión total de la mente se apoderó de mí. "Señor, oré, ¿estoy muerto o vivo?"».
+
+Yogananda
+
+*Un deslumbrante juego de luz llenó todo el horizonte; una suave vibración rumorosa se formó en palabras:*
+
+> “What has life or death to do with Light? In the image of My Light I have made you.
+
+«"¿Qué tienen que ver la vida o la muerte con la Luz? A imagen de Mi Luz te he hecho».
+
+Yogananda
+
+*«Las relatividades de la vida y la muerte pertenecen al sueño cósmico»:*
+
+> Behold your dreamless being! Awake, my child, awake!”
+
+«¡Contempla tu ser sin sueños! ¡Despierta, hijo mío, despierta!"».
+
+Yogananda
+
+*Como pasos en el despertar del hombre, el Señor inspira a los científicos a descubrir, a su debido tiempo y lugar, los secretos de su creación: las maravillas del cine, la radio, la televisión, el radar, la célula fotoeléctrica y las energías atómicas se basan todas en el fenómeno electromagnético de la luz. El arte del cine puede retratar cualquier milagro: el cuerpo astral transparente de un hombre elevándose de su forma física, caminar sobre el agua, resucitar a los muertos, invertir la secuencia natural de los acontecimientos; ensamblando las imágenes de luz a su antojo, el fotógrafo logra maravillas ópticas que un maestro verdadero produce con rayos de luz reales. El Director Cósmico ha escrito sus propias obras y reunido el elenco tremendo para el desfile de los siglos: desde la cabina oscura de la eternidad, vierte su haz creador a través de las películas de las edades sucesivas, y las imágenes se arrojan sobre la pantalla del espacio; igual que las imágenes del cine parecen reales pero son solo combinaciones de luz y sombra, así es la variedad universal un parecer engañoso. Un día entró en un cine a ver un noticiario de los campos de batalla europeos: el realismo de la carnicería lo dejó con el corazón turbado. «Señor, oró, ¿por qué permites semejante sufrimiento?». Para su intensa sorpresa, llegó una respuesta instantánea en forma de visión de los verdaderos campos de batalla europeos, cuyo horror, lleno de muertos y moribundos, superaba con creces en ferocidad cualquier representación del noticiario. «¡Mira atentamente!, le habló una voz apacible a su conciencia interior. Verás que estas escenas que ahora se representan en Francia no son sino un juego de claroscuro: son la película cósmica, tan real y tan irreal como el noticiario que acabas de ver, una obra dentro de la obra»:*
+
+> My heart was still not comforted.
+
+«Mi corazón aún no quedaba consolado».
+
+Yogananda
+
+*La voz divina prosiguió: «la creación es luz y sombra a la vez; si no, ninguna imagen es posible. El bien y el mal de maya deben alternarse siempre en la supremacía. Si la alegría fuera incesante en este mundo, ¿buscaría el hombre alguna vez otro? Sin el sufrimiento apenas le importa recordar que ha abandonado su hogar eterno. El dolor es un aguijón para el recuerdo. ¡La vía de escape es la sabiduría! La tragedia de la muerte es irreal: quienes se estremecen ante ella son como un actor ignorante que muere de miedo en el escenario cuando no se le dispara más que un cartucho de fogueo»:*
+
+> My sons are the children of light
+
+«Mis hijos son los hijos de la luz; no dormirán para siempre en el engaño"».
+
+Yogananda
+
+*Aunque había leído relatos escriturales sobre maya, no le habían dado la honda comprensión que vino con las visiones personales y sus palabras de consuelo: los valores de uno cambian profundamente cuando se convence al fin de que la creación es solo una vasta película, y de que su propia realidad no está en ella, sino más allá. Al terminar de escribir este capítulo, sentado en su cama en postura de loto, en el cuarto débilmente iluminado por dos lámparas de pantalla, alzó la mirada y notó que el techo estaba salpicado de pequeñas luces color mostaza, centelleantes y trémulas con un lustre como de radio; miríadas de rayos finos como lápices, cual sábanas de lluvia, se reunieron en un haz transparente que se derramó en silencio sobre él:*
+
+> At once my physical body lost its grossness
+
+«Al instante mi cuerpo físico perdió su densidad y se metamorfoseó en textura astral».
+
+Yogananda
+
+*Sintió una sensación de flotación: apenas rozando la cama, el cuerpo sin peso se balanceaba leve y alternadamente a izquierda y derecha; miró alrededor: los muebles y las paredes seguían como siempre, pero la pequeña masa de luz se había multiplicado tanto que el techo era invisible, y él se quedó pasmado de asombro. «Este es el mecanismo de la película cósmica, habló una voz como desde dentro de la luz. Derramando su haz sobre la pantalla blanca de tus sábanas, está produciendo la imagen de tu cuerpo»:*
+
+> Behold, your form is nothing but light!”
+
+«¡Mira, tu forma no es sino luz!"».
+
+Yogananda
+
+*Contempló sus brazos y los movió de un lado a otro sin poder sentir su peso; un gozo extático lo abrumó: ese tallo cósmico de luz, floreciendo como su cuerpo, parecía una réplica divina de los haces de luz que salen de la cabina de proyección de un cine y se manifiestan como imágenes en la pantalla. Durante largo tiempo experimentó esa película de su cuerpo en el teatro penumbroso de su propio dormitorio: pese a sus muchas visiones, ninguna fue jamás más singular. Cuando su ilusión de un cuerpo sólido se disipó por completo y su comprensión de que la esencia de todos los objetos es luz se profundizó, miró hacia la corriente palpitante de lifetrones y habló suplicante: «Luz Divina, por favor retira hacia Ti esta, mi humilde imagen corporal, como Elías fue elevado al cielo por una llama»:*
+
+> This prayer was evidently startling
+
+«La oración era evidentemente asombrosa; el haz desapareció».
+
+Yogananda
+
+*Su cuerpo recobró su peso normal y se hundió en la cama; el enjambre de luces deslumbrantes del techo parpadeó y se desvaneció:*
+
+> My time to leave this earth
+
+«Mi hora de dejar esta tierra, al parecer, no había llegado».
+
+Yogananda
+
+*«Además, pensó filosóficamente, ¡bien podría el profeta Elías disgustarse por mi presunción!».*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
