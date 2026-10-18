@@ -978,6 +978,94 @@ Sri Yukteswar
 
 El magistrado
 
+## Capítulo 13: El santo que no dormía
+
+*A los seis meses de vida en la ermita, una de esas ilusiones imprevisibles que asaltan al devoto le hizo sentir una impaciencia creciente por los deberes de la ermita y los estudios: pidió permiso a su maestro para irse a los Himalayas:*
+
+> I hope in unbroken solitude to achieve continuous divine communion.”
+
+«Espero alcanzar, en soledad ininterrumpida, la comunión divina continua».
+
+Yogananda
+
+*La respuesta del maestro llegó lenta y sencilla: «muchos montañeses viven en los Himalayas y no poseen percepción de Dios; la sabiduría se busca mejor en un hombre de realización que en una montaña inerte». El muchacho ignoró la alusión clara e insistió en su ruego:*
+
+> Sri Yukteswar vouchsafed no reply.
+
+«Sri Yukteswar no se dignó responder».
+
+Yogananda
+
+*Tomó el silencio por consentimiento, una interpretación precaria que siempre resulta cómoda, y a la mañana siguiente pidió a su profesor de sánscrito, Behari Pundit, la dirección de un gran discípulo de Lahiri Mahasaya: Ram Gopal Muzumdar, el «santo que no duerme», siempre despierto en una conciencia extática. Esperaba arrancarle una sanción para la meditación solitaria en el Himalaya. En el camino se detuvo ante el famoso santuario de Tarakeswar, venerado como el Lourdes de la India, donde su propia tía había obtenido un milagro para su tío Sarada: tras una semana de ayuno y oración en el templo, halló una hierba materializada en su mano, hizo un cocimiento y se lo dio a beber:*
+
+> His disease vanished at once, and has never reappeared.”
+
+«Su enfermedad desapareció al instante y nunca ha vuelto a aparecer».
+
+Su tía
+
+*El ánimo austero del momento lo llevó a salir del templo sin inclinarse ante la piedra redonda del altar: Dios, reflexionaba, solo debe buscarse dentro del alma. Después erró el camino (un transeúnte oracular le indicó ªba la derecha» donde debía ser a la izquierda), pasó la noche en la choza de un campesino que al principio lo tomó por detective mentiroso, y al alba cruzó campos de arroz bajo un sol abrasador mientras cada campesino le juraba que Ranbajpur quedaba «a solo dos millas»:*
+
+> Sleep was inconsiderable that night; I prayed deeply to be directed to the secret yogi, Ram Gopal.
+
+«Dormí poco aquella noche; oré profundamente para ser guiado hasta el yogui secreto, Ram Gopal».
+
+Yogananda
+
+*A media tarde, un hombre menudo y ligero, de un extraordinario par de ojos oscuros y penetrantes, se detuvo a su lado: «pensaba irme de Ranbajpur, pero tu propósito era bueno, así que te esperé». Y le echó en cara su orgullo: si Dios lo impregna todo, ¿por qué no te inclinaste ayer ante el Infinito en la piedra de Tarakeswar? Por eso el transeúnte te extravió, y por eso hoy lo has pasado tan mal. Maravillado, y de golpe refrescado en pleno campo ardiente, el muchacho escuchó la lección: el yoga es el camino más alto, nos dijo Lahiri Mahasaya, pero:*
+
+> But discovering the Lord within, we soon perceive Him without.
+
+«Pero al descubrir al Señor dentro, pronto lo percibimos fuera».
+
+Ram Gopal
+
+*La actitud censora del santo se desvaneció; sus ojos se volvieron compasivamente suaves y le palmeó el hombro:*
+
+> “Young yogi, I see you are running away from your master.
+
+«Joven yogui, veo que huyes de tu maestro».
+
+Ram Gopal
+
+*«Él tiene todo lo que necesitas; debes volver con él. Las montañas no pueden ser tu gurú». Y cuando el muchacho admitió que en casa tenía un cuarto donde cerrar la puerta y estar solo, el santo sentenció: «esa es tu cueva»:*
+
+> The yogi bestowed on me a gaze of illumination which I have never forgotten.
+
+«El yogui me dirigió una mirada de iluminación que nunca he olvidado».
+
+Yogananda
+
+> “That is your sacred mountain.
+
+«Esa es tu montaña sagrada».
+
+Ram Gopal
+
+*«Ahí es donde encontrarás el reino de Dios». En un campo de arroz en llamas, el muchacho despertó de sus sueños de nieves eternas:*
+
+> His simple words instantaneously banished my lifelong obsession for the Himalayas.
+
+«Sus sencillas palabras disiparon al instante mi obsesión de toda la vida por los Himalayas».
+
+Yogananda
+
+*En su choza de adobe, sentado en postura de loto bajo la luna, Ram Gopal le contó sus cuarenta y cinco años de cuevas: veinte en una gruta secreta meditando dieciocho horas al día, veinticinco en otra más inaccesible meditando veinte, sin necesidad de dormir, porque en la supraconciencia los órganos internos quedan en animación suspendida, electrificados por la energía cósmica. El muchacho, abrumado por su magnetismo espiritual, se atrevió a pedirle un samadhi:*
+
+> “Your master will bestow that experience shortly.
+
+«Tu maestro te concederá esa experiencia en breve».
+
+Ram Gopal
+
+*«Tu cuerpo aún no está afinado: como una lámpara pequeña no resiste un voltaje excesivo, tus nervios no están listos para la corriente cósmica». Aquella noche el muchacho vio relámpagos con los ojos abiertos y cerrados, la habitación fundida en una bóveda de luz infinita; al alba, el santo lo despidió con un último regalo: la curación instantánea de un dolor de espalda que lo aquejaba desde hacía años. De regreso en Tarakeswar, esta vez se postró por completo ante la piedra redonda, que ante su visión interior se agrandó hasta volverse las esferas cósmicas, anillo dentro de anillo, zona tras zona:*
+
+> My travels ended, not in the lofty mountains, but in the Himalayan presence of my Master.
+
+«Mis viajes terminaron, no en las altivas montañas, sino en la himalaya presencia de mi maestro».
+
+Yogananda
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
