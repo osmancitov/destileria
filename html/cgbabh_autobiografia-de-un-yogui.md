@@ -766,6 +766,8 @@ Yogananda
 
 ## Capítulo 11: Dos muchachos sin un céntimo en Brindaban
 
+![Los dos muchachos agasajados con un banquete principesco en la ermita de Brindaban](img/cgbabh_autobiografia-de-un-yogui_i-11.jpg)
+
 *En Agra, su hermano Ananta lo sermoneó: el padre haría bien en desheredarlo por tirar la vida. «Dios primero; el dinero es su esclavo», respondió el muchacho. Y como seguía declarándose independiente de la fortuna paterna, Ananta le propuso poner su filosofía a prueba en el mundo tangible. Los términos: ir con Jitendra a Brindaban esa misma mañana sin una rupia, sin mendigar, sin revelar su apuro a nadie, sin faltar a ninguna comida y sin quedarse varados; si volvía antes de medianoche, sería el hombre más asombrado de Agra:*
 
 > “You well know, Ananta, I seek my inheritance from the Heavenly Father.”
