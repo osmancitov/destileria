@@ -1994,6 +1994,95 @@ Yogananda
 
 Yogananda
 
+## Capítulo 27: Fundación de una escuela de yoga en Ranchi
+
+*«¿Por qué te repugna el trabajo de organización?». La pregunta del maestro lo sobresaltó: su convicción privada de entonces era que las organizaciones eran «nidos de avispas». «Es una tarea ingrata, señor; haga lo que haga el líder, es criticado». «¿Quieres todo el channa divino solo para ti?, replicó su gurú con una mirada severa. ¿Podrías tú o cualquier otro alcanzar el contacto con Dios por el yoga si una línea de maestros de corazón generoso no hubiera querido transmitir su conocimiento a otros? Dios es la Miel; las organizaciones son las colmenas; ambas son necesarias». El consejo lo conmovió profundamente: no respondió en voz alta, pero una resolución de acero surgió en su pecho: compartiría con sus semejantes, en la medida de su poder, las verdades liberadoras aprendidas a los pies de su gurú. «Señor, oró, que tu Amor brille por siempre en el santuario de mi devoción, y que yo pueda despertar ese Amor en otros corazones».*
+
+*El ideal de una educación completa para la juventud le había sido siempre cercano: veía con claridad los resultados áridos de la instrucción ordinaria, dirigida solo al desarrollo del cuerpo y el intelecto, mientras los valores morales y espirituales faltaban en el currículo formal. Decidió fundar una escuela donde los muchachos pudieran desarrollarse hasta la plena estatura de la hombría. El primer paso fueron siete niños en Dihika, un pequeño paraje rural de Bengala; un año después, en 1918, gracias a la generosidad de Sir Manindra Chandra Nundy, maharajá de Kasimbazar, trasladó su grupo en rápido crecimiento a Ranchi, un pueblo de Bihar bendecido con uno de los climas más saludables de la India. El palacio de Kasimbazar se transformó en el Brahmacharya Vidyalaya: materias agrícolas, industriales, comerciales y académicas, concentración y meditación yoga, y un sistema único de desarrollo físico, «Yogoda», cuyos principios había descubierto en 1916: si el cuerpo es como una batería eléctrica, puede recargarse de energía por la agencia directa de la voluntad humana. Al final del primer año, las solicitudes de admisión llegaron a dos mil. Un día su padre llegó a Ranchi para darle la bendición paternal largamente retenida desde que rechazó el puesto en el ferrocarril Bengal-Nagpur:*
+
+> “Son,” he said, “I am now reconciled to your choice in life.
+
+«"Hijo, dijo, ahora estoy reconciliado con tu elección en la vida"».
+
+Yogananda
+
+*«Me da alegría verte entre estos muchachitos felices y ansiosos; perteneces aquí más que entre las cifras sin vida de los horarios de ferrocarril». Y señalando a la docena de pequeños que iban pegados a sus talones, observó con los ojos chispeantes: «yo solo tuve ocho hijos, ¡pero puedo compadecerte!». Con un gran huerto de frutales y veinticinco acres fértiles, disfrutaban felices horas de labor al aire libre. Tenían muchas mascotas, entre ellas una cervatilla a la que los niños idolatraban; él mismo la quería tanto que le permitía dormir en su cuarto. Un día la alimentó más temprano de lo usual por un asunto en el pueblo, y advirtió a los muchachos que no le dieran de comer hasta su regreso; uno desobedeció y le dio al cervatillo una gran cantidad de leche. Al volver, la triste noticia: el animalito estaba casi muerto de sobrealimentación. En lágrimas, lo puso sobre su regazo y oró lastimeramente a Dios por su vida; horas después, la criatura abrió los ojos, se puso de pie y caminó débilmente, y toda la escuela gritó de alegría. Pero aquella noche le llegó una lección profunda que jamás podría olvidar. Se quedó con la cervatilla hasta las dos; se durmió, y el ciervo le apareció en sueños y le habló: «me estás reteniendo. Por favor, déjame ir; ¡déjame ir!». «Está bien», respondió en el sueño. Despertó al instante gritando «¡muchachos, el ciervo se muere!»; corrió al rincón: el animal hizo un último esfuerzo por levantarse, tambaleó hacia él y cayó muerto a sus pies. Según el karma colectivo que guía los destinos de los animales, su vida había terminado y estaba listo para progresar a una forma superior:*
+
+> But by my deep attachment, which I later realized was selfish, and by my fervent prayers, I had been able to hold it in the limitations of the animal form from which the soul was struggling for release.
+
+«Pero por mi profundo apego, que luego comprendí egoísta, y por mis fervientes oraciones, había podido retenerlo en las limitaciones de la forma animal, de la que el alma luchaba por liberarse».
+
+Yogananda
+
+*El alma del ciervo presentó su súplica en sueños porque, sin su permiso amoroso, no quería o no podía irse; en cuanto él accedió, partió. Toda pena lo dejó: Dios quiere que sus hijos lo amen todo como parte de Él, sin sentir engañosamente que la muerte lo termina todo. La escuela de Ranchi creció de comienzos pequeños y sencillos hasta ser una institución conocida en toda la India, con escuelas filiales en Midnapore, Lakshmanpur y Puri, y un departamento médico que atiende gratis a más de 18.000 pobres al año. Una de las primeras grandes figuras en visitar el Vidyalaya fue Swami Pranabananda, el «santo de los dos cuerpos» de Benares: al contemplar las pintorescas clases al aire libre bajo los árboles, y ver por la tarde a los muchachos sentados inmóviles durante horas en meditación yoga, se conmovió profundamente: «llega alegría a mi corazón al ver que los ideales de Lahiri Mahasaya para la debida formación de la juventud se llevan adelante en esta institución». Un muchachito sentado a su lado se atrevió a preguntar al gran yogui: «señor, ¿llegaré a ser monje? ¿Es mi vida solo para Dios?». El swami sonrió con dulzura, pero sus ojos horadaban el futuro: «hijo, cuando crezcas, te espera una hermosa novia». (El muchacho, en efecto, acabó casándose, tras años de planear entrar en la Orden.)*
+
+*Algún tiempo después de la visita de Swami Pranabananda a Ranchi, acompañó a su padre a la casa de Calcuta donde el yogui se hospedaba temporalmente:*
+
+> Pranabananda’s prediction, made to me so many years before, came rushing to my mind: “I shall see you, with your father, later on.”
+
+«La predicción de Pranabananda, hecha tantos años antes, me vino de golpe a la mente: "Te veré, con tu padre, más adelante"».
+
+Yogananda
+
+*Al entrar el padre, el gran yogui se levantó de su asiento y lo abrazó con amoroso respeto: «Bhagabati, ¿qué haces contigo mismo?»:*
+
+> Don’t you see your son racing to the Infinite?”
+
+«¿No ves a tu hijo corriendo hacia el Infinito?».
+
+Yogananda
+
+*Enrojeció al oír su elogio ante su padre. «Recuerdas cuántas veces nuestro bendito gurú solía decir: banat, banat, ban jai; sigue así el Kriya Yoga sin cesar y llega pronto a los portales divinos». El cuerpo de Pranabananda, tan lozano en su primera y asombrosa visita a Benares, mostraba ahora un envejecimiento definido, aunque su postura seguía admirablemente erguida. «Swamiji, inquirió mirándolo recto a los ojos, dígame la verdad: ¿no siente el avance de la edad? Al debilitarse el cuerpo, ¿sufren sus percepciones de Dios alguna disminución?». Él sonrió angélicamente:*
+
+> “The Beloved is more than ever with me now.”
+
+«El Amado está conmigo ahora más que nunca».
+
+Yogananda
+
+*«Sigo disfrutando de dos pensiones: una de Bhagabati, aquí presente, y otra de arriba». Y señalando con el dedo al cielo, el santo cayó en éxtasis, el rostro encendido de fulgor divino. Su habitación estaba llena de plantas y paquetes de semillas: «he dejado Benares para siempre y voy camino del Himalaya; allí abriré un ashram para mis discípulos; estas semillas darán espinacas y algunas otras verduras; mis queridos vivirán con sencillez, pasando el tiempo en gozosa unión con Dios. Nada más es necesario». Cuando el padre preguntó cuándo volvería a Calcuta, el santo respondió: «nunca más: este es el año en que Lahiri Mahasaya me dijo que dejaría para siempre mi amado Benares y me iría al Himalaya, a despojarme allí de mi forma mortal». A Mukunda se le llenaron los ojos de lágrimas, pero el swami sonrió tranquilo, como un pequeño niño celestial sentado seguro en el regazo de la Madre Divina. Meses después se encontró con un viejo amigo, Sanandan, discípulo cercano de Pranabananda:*
+
+> “My adorable guru is gone,” he told me, amidst sobs.
+
+«"Mi adorable gurú se ha ido", me dijo entre sollozos».
+
+Yogananda
+
+*«Estableció una ermita cerca de Rishikesh y nos dio su amorosa formación; cuando estábamos bien asentados, propuso un día dar de comer a una multitud enorme. Le pregunté por qué quería un número tan grande: "esta es mi última ceremonia de festival", respondió. Pranabanandaji ayudó a cocinar para unos dos mil invitados; tras el banquete, sentado en una tarima alta, dio un sermón inspirado sobre el Infinito. Al final, ante la mirada de miles, se volvió hacia mí, sentado a su lado en el estrado, y habló con una fuerza inusual: "Sanandan, prepárate; voy a patear el armazón". Tras un silencio atónito, grité con fuerza: "¡maestro, no lo haga! ¡Por favor, no lo haga!":*
+
+> My guru smiled at me, but his solemn gaze was already fixed on Eternity.
+> “‘Be not selfish,’ he said, ‘nor grieve for me.
+
+«Mi gurú me sonrió, pero su mirada solemne ya estaba fija en la Eternidad. "No seas egoísta, dijo, ni te aflijas por mí"».
+
+Yogananda
+
+*«Llevo mucho tiempo sirviéndoles alegremente a todos; ahora alégrense y deséenme un buen viaje a Dios. Voy al encuentro de mi Amado Cósmico»:*
+
+> In a whisper, Pranabanandaji added, ‘I shall be reborn shortly.
+
+«Y en un susurro, Pranabanandaji añadió: "Renaceré en breve"».
+
+Yogananda
+
+*«Tras disfrutar un breve período de la Dicha Infinita, volveré a la tierra y me uniré a Babaji; pronto sabrás cuándo y dónde mi alma se ha encerrado en un nuevo cuerpo». Y gritó de nuevo: «Sanandan, aquí pateo el armazón por el segundo Kriya Yoga»:*
+
+> “He looked at the sea of faces before us, and gave a blessing.
+
+«Miró el mar de rostros que teníamos delante y dio una bendición».
+
+Yogananda
+
+*Dirigiendo su mirada hacia adentro, al ojo espiritual, quedó inmóvil: mientras la multitud desconcertada creía que meditaba en éxtasis, ya había dejado el tabernáculo de carne y zambullido su alma en la inmensidad cósmica. Los discípulos tocaron su cuerpo, sentado en postura de loto, pero ya no era carne cálida: solo quedaba un armazón rígido; el inquilino había huido a la orilla inmortal. Cuando le pregunté a Sanandan dónde renacería Pranabananda:*
+
+> “That’s a sacred trust I cannot divulge to anyone,” Sanandan replied.
+
+«"Eso es un encargo sagrado que no puedo divulgar a nadie", respondió Sanandan».
+
+Yogananda
+
+*«Quizá lo descubras por otro camino». Años después, en efecto, supo por Swami Keshabananda que Pranabananda, pocos años después de nacer en un nuevo cuerpo, se había ido a Badrinath, en el Himalaya.*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
