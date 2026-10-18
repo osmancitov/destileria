@@ -1377,6 +1377,8 @@ Yogananda
 
 ## Capítulo 18: Un hacedor de milagros mahometano
 
+![El fakir Afzal Khan convoca platos de oro que caen del aire cargados de manjares ante los invitados asombrados](img/cgbabh_autobiografia-de-un-yogui_i-18.jpg)
+
 *Apenas instalado en Panthi, la pensión de ladrillo frente al Ganges donde viviría sus años en el Serampore College, recibió la primera visita del maestro, que soltó una frase sorprendente: «años atrás, en esta misma habitación que ahora ocupas, un hacedor de milagros mahometano realizó cuatro prodigios ante mí». Se llamaba Afzal Khan, y había adquirido sus poderes extraordinarios por un encuentro casual con un yogui hindú: un día de su infancia, en una aldea de Bengala oriental, un sannyasi cubierto de polvo le pidió agua:*
 
 > ‘Master, I am a Mohammedan. How could you, a Hindu, accept a drink from my hands?’
