@@ -267,6 +267,8 @@ Swami Pranabananda
 
 ## Capítulo 4: Mi fuga frustrada hacia el Himalaya
 
+![Óleo al estilo de Nicholas Roerich: tres muchachos hindúes huyen de madrugada en un tren colonial hacia el Himalaya y uno señala con decisión los picos azules que se acercan.](img/cgbabh_autobiografia-de-un-yogui_i-4.jpg)
+
 *La fuga se planeó como una operación de guerra: un amigo de la escuela, Amar, recogería en un carruaje el bulto lanzado desde la ventana (una manta, sandalias, la foto de Lahiri Mahasaya, el Bhagavad Gita y dos taparrabos) y ambos partirían al Himalaya vestidos de europeos para despistar a Ananta, el hermano detective. En el camino se sumó el primo Jatinda, que desertó en la primera estación (confesó después que lo espantó la promesa de Mukunda de que los tigres se sentarían a recibir caricias: él ya se veía entrando en el estómago de uno «por entregas»). En un andén, un inspector con un telegrama de Ananta interrogó a los muchachos; Amar le advirtió antes a Mukunda:*
 
 > All I ask of you, Mukunda, is to keep still.
