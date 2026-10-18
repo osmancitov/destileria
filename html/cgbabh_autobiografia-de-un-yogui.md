@@ -1718,6 +1718,8 @@ Yogananda
 
 ## Capítulo 23: Recibo mi título universitario
 
+![Mukunda llega en bicicleta con flores a la ermita de Serampore, donde Sri Yukteswar lo espera en la puerta; en primer plano, el atlas de Romesh y las hojas de examen](img/cgbabh_autobiografia-de-un-yogui_i-23.jpg)
+
 *El profesor D. C. Ghoshal de Serampore College se lo dijo con severidad: ignoraba las tareas de los libros de filosofía y confiaba sin duda en una «intuición» nada laboriosa para salir airoso de los exámenes; si no se aplicaba de modo más académico, se encargaría de que no aprobara el curso. Suspender aquella prueba final escrita lo dejaría fuera de los exámenes conclusivos que fijaba la Universidad de Calcuta, y un suspenso en una sola materia obligaba a examinarse de nuevo de todas al año siguiente. Los profesores solían tratarlo con una amabilidad no exenta de tolerancia divertida y se ahorraban con tacto hacerle preguntas en clase, confiando en que las pruebas escritas lo eliminaran de la lista de candidatos:*
 
 > “Mukunda is a bit over-drunk with religion.”
