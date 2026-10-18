@@ -561,6 +561,8 @@ Bhaduri Mahasaya
 
 ## Capítulo 8: El gran científico de la India, J. C. Bose
 
+![Óleo al estilo de Nicholas Roerich: un científico hindú de la era colonial contempla en su laboratorio la sombra magnificada de un helecho en una pantalla luminosa, rodeado de instrumentos de latón, con un jardín de fuente de loto al fondo.](img/cgbabh_autobiografia-de-un-yogui_i-8.jpg)
+
 *En una acera oyó a unos profesores decir que las invenciones inalámbricas de Jagadis Chandra Bose eran anteriores a las de Marconi, y al día siguiente visitó al sabio en su casa de Gurpar Road. Bose, formado en Cambridge, unía la verificación experimental occidental con la introspección oriental; su crescógrafo alcanzaba diez millones de aumentos y demostraba que las plantas tienen un sistema nervioso sensible y una vida emocional variada:*
 
 > “You have done much, sir, to hasten the embrace of East and West in the impersonal arms of science.”
