@@ -1306,6 +1306,8 @@ Yogananda
 
 ## Capítulo 17: Sasi y los tres zafiros
 
+![Sasi, demacrado y lloroso, se arroja a los pies de Sri Yukteswar y deposita los tres zafiros](img/cgbabh_autobiografia-de-un-yogui_i-17.jpg)
+
 *Santosh, hijo del veterinario Narayan Chunder Roy, rogó a Yogananda que se interesara por su padre, un agnóstico empedernido. El doctor acompañó al muchacho a la ermita de Serampore, toleró una breve entrevista de silencios estoicos y se marchó bruscamente. «¿Por qué traes un muerto al ashram?», preguntó el maestro apenas se cerró la puerta. «¡Señor, el doctor está bien vivo!». «Pero en poco tiempo estará muerto». Ante el ruego del discípulo, el gurú accedió: el orgulloso doctor sufría una diabetes avanzada sin saberlo; en quince días caería en cama, los médicos lo darían por perdido y su plazo natural sobre la tierra era de seis semanas; por la intercesión del muchacho, en esa fecha sanaría, con una condición: que llevara un brazalete astrológico. El doctor se negó con beligerancia («estoy en la mejor de las saludes; nunca me impresionarán estas supersticiones astrológicas») hasta que, súbitamente enfermo, consintió mansamente. El médico tratante dio el caso por desahuciado; quince días después volvió a buscar al muchacho con aire de disculpa: «¡el doctor Roy se ha recuperado por completo! ¡Es el caso más asombroso de mi experiencia!»:*
 
 > Your guru must indeed be a healing prophet!”
