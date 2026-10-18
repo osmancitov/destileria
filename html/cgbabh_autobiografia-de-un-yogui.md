@@ -980,9 +980,10 @@ El magistrado
 
 ## Capítulo 13: El santo que no dormía
 
+
 ![El joven Yogananda encuentra a Ram Gopal, el santo que no duerme, esperándolo en el sendero de un campo dorado](img/cgbabh_autobiografia-de-un-yogui_i-13.jpg)
 
-*A los seis meses de vida en la ermita, una de esas ilusiones imprevisibles que asaltan al devoto le hizo sentir una impaciencia creciente por los deberes de la ermita y los estudios: pidió permiso a su maestro para irse a los Himalayas:*
+*A los seis meses de ermita, la impaciencia lo asaltó: pidió permiso al maestro para irse a los Himalayas:*
 
 > I hope in unbroken solitude to achieve continuous divine communion.”
 
@@ -990,7 +991,7 @@ El magistrado
 
 Yogananda
 
-*La respuesta del maestro llegó lenta y sencilla: «muchos montañeses viven en los Himalayas y no poseen percepción de Dios; la sabiduría se busca mejor en un hombre de realización que en una montaña inerte». El muchacho ignoró la alusión clara e insistió en su ruego:*
+*«La sabiduría se busca mejor en un hombre de realización que en una montaña inerte», respondió el maestro. El muchacho insistió en su ruego:*
 
 > Sri Yukteswar vouchsafed no reply.
 
@@ -998,7 +999,7 @@ Yogananda
 
 Yogananda
 
-*Tomó el silencio por consentimiento, una interpretación precaria que siempre resulta cómoda, y a la mañana siguiente pidió a su profesor de sánscrito, Behari Pundit, la dirección de un gran discípulo de Lahiri Mahasaya: Ram Gopal Muzumdar, el «santo que no duerme», siempre despierto en una conciencia extática. Esperaba arrancarle una sanción para la meditación solitaria en el Himalaya. En el camino se detuvo ante el famoso santuario de Tarakeswar, venerado como el Lourdes de la India, donde su propia tía había obtenido un milagro para su tío Sarada: tras una semana de ayuno y oración en el templo, halló una hierba materializada en su mano, hizo un cocimiento y se lo dio a beber:*
+*Tomó el silencio por consentimiento y salió a buscar a Ram Gopal Muzumdar, el «santo que no duerme», discípulo de Lahiri Mahasaya, esperando una sanción para la meditación solitaria. En el camino vio curar a un hombre por la fe:*
 
 > His disease vanished at once, and has never reappeared.”
 
@@ -1006,7 +1007,7 @@ Yogananda
 
 Su tía
 
-*El ánimo austero del momento lo llevó a salir del templo sin inclinarse ante la piedra redonda del altar: Dios, reflexionaba, solo debe buscarse dentro del alma. Después erró el camino (un transeúnte oracular le indicó ªba la derecha» donde debía ser a la izquierda), pasó la noche en la choza de un campesino que al principio lo tomó por detective mentiroso, y al alba cruzó campos de arroz bajo un sol abrasador mientras cada campesino le juraba que Ranbajpur quedaba «a solo dos millas»:*
+*Salió del templo de Tarakeswar sin inclinarse ante la piedra del altar: Dios, pensaba, solo debe buscarse dentro del alma. Erró el camino, pasó la noche en la choza de un campesino y al alba cruzó campos de arroz:*
 
 > Sleep was inconsiderable that night; I prayed deeply to be directed to the secret yogi, Ram Gopal.
 
@@ -1014,7 +1015,7 @@ Su tía
 
 Yogananda
 
-*A media tarde, un hombre menudo y ligero, de un extraordinario par de ojos oscuros y penetrantes, se detuvo a su lado: «pensaba irme de Ranbajpur, pero tu propósito era bueno, así que te esperé». Y le echó en cara su orgullo: si Dios lo impregna todo, ¿por qué no te inclinaste ayer ante el Infinito en la piedra de Tarakeswar? Por eso el transeúnte te extravió, y por eso hoy lo has pasado tan mal. Maravillado, y de golpe refrescado en pleno campo ardiente, el muchacho escuchó la lección: el yoga es el camino más alto, nos dijo Lahiri Mahasaya, pero:*
+*A media tarde, un hombre de ojos oscuros y penetrantes se detuvo a su lado: «tu propósito era bueno, así que te esperé». Y le echó en cara su orgullo: ¿por qué no te inclinaste ayer ante el Infinito en la piedra?*
 
 > But discovering the Lord within, we soon perceive Him without.
 
@@ -1022,7 +1023,7 @@ Yogananda
 
 Ram Gopal
 
-*La actitud censora del santo se desvaneció; sus ojos se volvieron compasivamente suaves y le palmeó el hombro:*
+*La actitud censora del santo se desvaneció; le palmeó el hombro:*
 
 > “Young yogi, I see you are running away from your master.
 
@@ -1030,7 +1031,7 @@ Ram Gopal
 
 Ram Gopal
 
-*«Él tiene todo lo que necesitas; debes volver con él. Las montañas no pueden ser tu gurú». Y cuando el muchacho admitió que en casa tenía un cuarto donde cerrar la puerta y estar solo, el santo sentenció: «esa es tu cueva»:*
+*«Él tiene todo lo que necesitas; debes volver con él. Las montañas no pueden ser tu gurú». Y como el muchacho tenía en casa un cuarto donde estar solo: «esa es tu cueva»:*
 
 > The yogi bestowed on me a gaze of illumination which I have never forgotten.
 
@@ -1044,7 +1045,7 @@ Yogananda
 
 Ram Gopal
 
-*«Ahí es donde encontrarás el reino de Dios». En un campo de arroz en llamas, el muchacho despertó de sus sueños de nieves eternas:*
+*«Ahí es donde encontrarás el reino de Dios». En un campo de arroz despertó de sus sueños de nieves eternas:*
 
 > His simple words instantaneously banished my lifelong obsession for the Himalayas.
 
@@ -1052,7 +1053,7 @@ Ram Gopal
 
 Yogananda
 
-*En su choza de adobe, sentado en postura de loto bajo la luna, Ram Gopal le contó sus cuarenta y cinco años de cuevas: veinte en una gruta secreta meditando dieciocho horas al día, veinticinco en otra más inaccesible meditando veinte, sin necesidad de dormir, porque en la supraconciencia los órganos internos quedan en animación suspendida, electrificados por la energía cósmica. El muchacho, abrumado por su magnetismo espiritual, se atrevió a pedirle un samadhi:*
+*En su choza, bajo la luna, Ram Gopal le contó sus cuarenta y cinco años de cuevas: veinte meditando dieciocho horas al día, veinticinco meditando veinte, sin necesidad de dormir:*
 
 > “Your master will bestow that experience shortly.
 
@@ -1060,7 +1061,7 @@ Yogananda
 
 Ram Gopal
 
-*«Tu cuerpo aún no está afinado: como una lámpara pequeña no resiste un voltaje excesivo, tus nervios no están listos para la corriente cósmica». Aquella noche el muchacho vio relámpagos con los ojos abiertos y cerrados, la habitación fundida en una bóveda de luz infinita; al alba, el santo lo despidió con un último regalo: la curación instantánea de un dolor de espalda que lo aquejaba desde hacía años. De regreso en Tarakeswar, esta vez se postró por completo ante la piedra redonda, que ante su visión interior se agrandó hasta volverse las esferas cósmicas, anillo dentro de anillo, zona tras zona:*
+*«Tu cuerpo aún no está afinado: una lámpara pequeña no resiste un voltaje excesivo». Aquella noche vio relámpagos con los ojos abiertos y cerrados; al alba, el santo lo despidió curándole al instante un viejo dolor de espalda:*
 
 > My travels ended, not in the lofty mountains, but in the Himalayan presence of my Master.
 
@@ -1220,9 +1221,10 @@ Yogananda
 
 ## Capítulo 16: Cómo burlar a los astros
 
+
 ![En el balcón de Benarés, bajo la luna sobre el Ganges, Sri Yukteswar sana al joven discípulo que lleva el brazalete de plata y plomo](img/cgbabh_autobiografia-de-un-yogui_i-16.jpg)
 
-*«Mukunda, ¿por qué no te consigues un brazalete astrológico?». «¿Debería, maestro? No creo en la astrología». La respuesta fue toda una lección: no se trata de creer; la única actitud científica ante cualquier tema es preguntarse si es verdadero. La ley de la gravitación funcionaba con la misma eficiencia antes de Newton que después de él; el cosmos sería un caos si sus leyes necesitaran la sanción de la creencia humana. Los charlatanes han desacreditado la ciencia estelar, pero no hay que desechar la sabiduría por culpa de los «sabios»:*
+*«Mukunda, ¿por qué no te consigues un brazalete astrológico?». «¿Debería, maestro? No creo en la astrología». La respuesta fue una lección: la actitud científica ante cualquier tema es preguntarse si es verdadero; la gravitación funcionaba igual antes de Newton que después:*
 
 > The balanced rhythm of the universe is rooted in reciprocity,” my guru continued.
 
@@ -1230,7 +1232,7 @@ Yogananda
 
 Sri Yukteswar
 
-*El hombre combate dos fuerzas: los tumultos internos de los elementos y los poderes desintegradores de la naturaleza. La astrología estudia la respuesta del hombre a los estímulos planetarios: las estrellas no tienen benevolencia ni animosidad, solo envían radiaciones que sirven de cauce al equilibrio de causa y efecto que cada quien puso en marcha en el pasado. Un niño nace el día y la hora en que los rayos celestes están en armonía matemática con su karma; el mensaje de los cielos no enfatiza el destino, sino que incita a la voluntad a escapar de la servidumbre: lo que él ha hecho, puede deshacerlo. El sabio derrota a sus planetas, es decir a su pasado, trasladando su lealtad de la creación al Creador.*
+*La astrología estudia la respuesta del hombre a los estímulos planetarios: las estrellas solo envían radiaciones que sirven de cauce al equilibrio de causa y efecto que cada quien puso en marcha. Un niño nace cuando los rayos celestes están en armonía matemática con su karma:*
 
 > I ventured this question after a long silence, during which I had tried to assimilate Sri Yukteswar’s noble exposition.
 
@@ -1238,7 +1240,7 @@ Sri Yukteswar
 
 Yogananda
 
-*La respuesta: solo el viajero que ha llegado a la meta puede desechar sus mapas; durante el viaje aprovecha cualquier atajo conveniente. Los antiguos rishis descubrieron que los metales puros, ciertas plantas y sobre todo las joyas sin defecto de dos quilates o más emiten una luz astral que contrarresta los tirones negativos de los planetas, siempre que se lleven pegadas a la piel. Para fines generales aconsejaba un brazalete de oro, plata y cobre; pero para él, uno de plata y plomo:*
+*La respuesta: solo el viajero que ha llegado a la meta puede desechar sus mapas. Los rishis descubrieron que las joyas sin defecto, pegadas a la piel, contrarrestan los tirones negativos de los planetas:*
 
 > “The stars are about to take an unfriendly interest in you, Mukunda.
 
@@ -1246,7 +1248,7 @@ Yogananda
 
 Sri Yukteswar
 
-*«No temas; estarás protegido. En un mes tu hígado te causará muchos problemas. La enfermedad está prevista para seis meses, pero tu brazalete astrológico reducirá el período a veinticuatro días». Buscó un joyero al día siguiente:*
+*«No temas; estarás protegido. En un mes tu hígado te causará problemas: la enfermedad duraría seis meses, pero el brazalete la reducirá a veinticuatro días»:*
 
 > My health was excellent; Master’s prediction slipped from my mind.
 
@@ -1254,7 +1256,7 @@ Sri Yukteswar
 
 Yogananda
 
-*Treinta días después de la conversación, un dolor súbito en la región del hígado. Las semanas siguientes fueron una pesadilla de dolor atroz; decidió soportar la prueba solo, sin molestar al gurú, que había ido a Benarés, pero a los veintitrés días de tortura flaqueó y tomó el tren. El maestro lo recibió con calidez inusual, pero no le dio ocasión de contarle sus penas a solas; enfermo y desatendido, esperó en un rincón hasta que el último visitante se marchó. Entonces el gurú lo llamó al balcón octogonal: «habrás venido por tu trastorno del hígado. Veamos: ¿llevas veinticuatro días enfermo, no?». «Sí, señor». «Haz el ejercicio estomacal que te enseñé». «Si supieras la magnitud de mi sufrimiento, no me lo pedirías». «Tú dices que tienes dolor; yo digo que no lo tienes. ¿Cómo pueden existir tales contradicciones?»:*
+*Treinta días después, un dolor súbito en el hígado. A los veintitrés días de tortura flaqueó y tomó el tren a Benarés; el maestro no le dio ocasión de quejarse y le pidió un masaje en el pecho:*
 
 > No longer could I feel the continuous torment that had kept me nearly sleepless for weeks; at Sri Yukteswar’s words the agony vanished as though it had never been.
 
@@ -1262,7 +1264,7 @@ Yogananda
 
 Yogananda
 
-*Quiso arrodillarse agradecido a sus pies, pero el maestro se lo impidió de inmediato: «no seas infantil; levántate y disfruta de la belleza de la luna sobre el Ganges»:*
+*Quiso arrodillarse agradecido a sus pies, pero el maestro se lo impidió: «no seas infantil; levántate y disfruta de la belleza de la luna sobre el Ganges»:*
 
 > But Master’s eyes were twinkling happily as I stood in silence beside him. I understood by his attitude that he wanted me to feel that not he, but God, had been the Healer.
 
@@ -1270,7 +1272,7 @@ Yogananda
 
 Yogananda
 
-*Su prejuicio contra la astrología venía de la infancia, en parte por ver a tanta gente adherida a ella con servilismo y en parte por una predicción del astrólogo de la familia: «te casarás tres veces y serás dos veces viudo». El muchacho rumiaba el asunto sintiéndose como una cabra en espera del sacrificio ante el templo del triple matrimonio:*
+*Su prejuicio venía de la infancia: el astrólogo de la familia había predicho «te casarás tres veces y serás dos veces viudo»:*
 
 > “You may as well be resigned to your fate,” my brother Ananta had remarked.
 
@@ -1278,7 +1280,7 @@ Yogananda
 
 Ananta
 
-*Una noche le llegó la intuición clara de que la profecía era del todo falsa: prendío fuego al rollo del horóscopo y puso las cenizas en una bolsa de papel con una inscripción desafiante: «Las semillas del karma pasado no germinan si se tuestan en los fuegos divinos de la sabiduría». Tres veces su familia intentó concertar su matrimonio antes de su mayoría de edad y las tres se negó. El maestro ampliaba además su comprensión de las escrituras: ponía los textos sagrados sobre la mesa inmaculada de su mente y los disecaba con el bisturí del razonamiento intuitivo, separando errores e interpolaciones de eruditos de las verdades originales de los profetas. De una estrofa del Bhagavad Gita mal traducida por pundits orientales y traductores occidentales («fija la vista en la punta de la nariz»):*
+*Una noche prendió fuego al horóscopo y guardó las cenizas con una inscripción: «las semillas del karma pasado no germinan si se tuestan en los fuegos divinos de la sabiduría». Tres veces su familia intentó concertar su matrimonio y las tres se negó:*
 
 > “The path of a yogi is singular enough as it is,” he remarked.
 
@@ -1286,7 +1288,7 @@ Ananta
 
 Sri Yukteswar
 
-*«¿Para qué aconsejarle que además se ponga bizco? Nasikagram significa "origen de la nariz", no "punta de la nariz": la nariz comienza en el punto entre las dos cejas, sede de la visión espiritual». Otro día, el muchacho se exasperó con la alegoría bíblica: ¡la historia de Adán y Eva me es incomprensible! ¿Por qué castigó Dios no solo a la pareja culpable, sino a las generaciones inocentes aún no nacidas?:*
+*«Nasikagram significa "origen de la nariz", no "punta": la nariz comienza entre las cejas, sede de la visión espiritual». Otro día se exasperó con la historia de Adán y Eva: ¿por qué castigó Dios también a las generaciones inocentes?*
 
 > Master was more amused by my vehemence than my ignorance.
 
@@ -1294,7 +1296,7 @@ Sri Yukteswar
 
 Yogananda
 
-*«El Génesis es hondamente simbólico y no puede captarse con una interpretación literal: su "árbol de la vida" es el cuerpo humano; la médula espinal es un árbol invertido con el cabello como raíces y los nervios como ramas; la "serpiente" es la energía espinal enroscada; "Adán" es la razón y "Eva" el sentimiento. Cuando el sentimiento sucumbe al impulso, la razón también cae». Y al terminar el discurso:*
+*«El Génesis es hondamente simbólico: el "árbol de la vida" es el cuerpo humano; la "serpiente", la energía espinal enroscada; "Adán", la razón; "Eva", el sentimiento»:*
 
 > As Sri Yukteswar ended his discourse, I glanced with new respect at the pages of Genesis.
 
@@ -1306,9 +1308,10 @@ Yogananda
 
 ## Capítulo 17: Sasi y los tres zafiros
 
+
 ![Sasi, demacrado y lloroso, se arroja a los pies de Sri Yukteswar y deposita los tres zafiros](img/cgbabh_autobiografia-de-un-yogui_i-17.jpg)
 
-*Santosh, hijo del veterinario Narayan Chunder Roy, rogó a Yogananda que se interesara por su padre, un agnóstico empedernido. El doctor acompañó al muchacho a la ermita de Serampore, toleró una breve entrevista de silencios estoicos y se marchó bruscamente. «¿Por qué traes un muerto al ashram?», preguntó el maestro apenas se cerró la puerta. «¡Señor, el doctor está bien vivo!». «Pero en poco tiempo estará muerto». Ante el ruego del discípulo, el gurú accedió: el orgulloso doctor sufría una diabetes avanzada sin saberlo; en quince días caería en cama, los médicos lo darían por perdido y su plazo natural sobre la tierra era de seis semanas; por la intercesión del muchacho, en esa fecha sanaría, con una condición: que llevara un brazalete astrológico. El doctor se negó con beligerancia («estoy en la mejor de las saludes; nunca me impresionarán estas supersticiones astrológicas») hasta que, súbitamente enfermo, consintió mansamente. El médico tratante dio el caso por desahuciado; quince días después volvió a buscar al muchacho con aire de disculpa: «¡el doctor Roy se ha recuperado por completo! ¡Es el caso más asombroso de mi experiencia!»:*
+*El doctor Roy, agnóstico empedernido, acompañó a su hijo a la ermita y se marchó bruscamente. «¿Por qué traes un muerto al ashram?», preguntó el maestro. «¡El doctor está bien vivo!». «Pero en poco tiempo estará muerto». Ante el ruego del discípulo, accedió a curarlo, con una advertencia:*
 
 > Your guru must indeed be a healing prophet!”
 
@@ -1316,7 +1319,7 @@ Yogananda
 
 El médico
 
-*El maestro había añadido una advertencia: que no comiera carne. Seis meses después, justo cuando se sentía en su mejor forma y alardeaba de que las ideas dietéticas poco científicas del gurú no lo habían influenciado, el doctor Roy cayó muerto una mañana. Sasi, otro amigo de la universidad, pasaba felices fines de semana en Serampore; el maestro le tenía inmenso cariño y lamentaba que su vida privada fuera salvaje y desordenada: «Sasi, si no te reformas, dentro de un año estarás gravemente enfermo. Mukunda es testigo: no digas luego que no te lo advertí»:*
+*Que no comiera carne. Seis meses después, cuando alardeaba de no haberse dejado influenciar por las ideas dietéticas del gurú, el doctor cayó muerto. Sasi, otro amigo, llevaba una vida salvaje y desordenada: «si no te reformas, dentro de un año estarás gravemente enfermo»:*
 
 > Sri Yukteswar gazed at my friend with affectionate exasperation.
 
@@ -1324,7 +1327,7 @@ El médico
 
 Yogananda
 
-*Sasi se reía: «maestro, te dejo a ti interesar una dulce caridad del cosmos en mi triste caso; mi espíritu está dispuesto, pero mi voluntad es débil»:*
+*Sasi se reía: «mi espíritu está dispuesto, pero mi voluntad es débil»:*
 
 > You are my only savior on earth; I believe in nothing else.”
 
@@ -1340,7 +1343,7 @@ Sasi
 
 Sasi
 
-*«Dentro de un año traerás tres zafiros, respondió crípticamente Sri Yukteswar. Entonces ya no servirán». Un año después, visitando al maestro en la casa calcuteña de un discípulo, Yogananda oyó abrirse la puerta de la calle:*
+*«Dentro de un año traerás tres zafiros; entonces ya no servirán», respondió crípticamente el maestro. Un año después, en la casa calcuteña de un discípulo, oyeron abrirse la puerta:*
 
 > Master straightened stiffly.
 > “It is that Sasi,” he remarked gravely.
@@ -1349,7 +1352,7 @@ Sasi
 
 Yogananda
 
-*«El año se ha cumplido: ha perdido ambos pulmones. Ignoró mi consejo; dile que no quiero verlo». Sasi subió llorando la escalera, se arrojó a los pies del gurú y depositó allí tres hermosos zafiros: «¡gurú omnisciente, los médicos dicen que tengo tuberculosis galopante y no me dan más de tres meses!». «¿No es un poco tarde para preocuparte por tu vida? Llévate tus joyas; pasó su tiempo de utilidad». Tras una hora de silencio de esfinge, la mirada del maestro se ablandó: «levántate, Sasi, ¡qué alboroto armas en casa ajena! Devuelve los zafiros al joyero, ya son un gasto innecesario; consigue un brazalete astrológico y no temas: es más posible que el sol y la luna intercambien sus posiciones que el que tú mueras de tuberculosis». Semanas después, sin embargo, el médico sentenció: «Sasi no pasa de esta noche». Yogananda voló a Serampore con el informe lloroso, y el gurú lo escuchó con frialdad: «¿a qué vienes a molestarme? Ya me oíste asegurarle a Sasi su recuperación»:*
+*«Ha perdido ambos pulmones; dile que no quiero verlo». Sasi subió llorando con tres zafiros: «los médicos no me dan más de tres meses». «¿No es un poco tarde? Llévate tus joyas». Tras una hora de silencio, la mirada del maestro se ablandó:*
 
 > Sri Yukteswar said no parting word, but sank into silence, his unwinking eyes half-open, their vision fled to another world.
 
@@ -1357,7 +1360,7 @@ Yogananda
 
 Yogananda
 
-*De regreso en Calcuta, encontró con asombro a su amigo incorporado, bebiendo leche: cuatro horas antes había sentido la presencia del maestro en la habitación, y los terribles síntomas desaparecieron de inmediato:*
+*De regreso en Calcuta, halló a su amigo incorporado: había sentido la presencia del maestro y los síntomas desaparecieron:*
 
 > I feel that through his grace I am entirely well.”
 
@@ -1365,7 +1368,7 @@ Yogananda
 
 Sasi
 
-*En pocas semanas Sasi estaba más rollizo y sano que nunca, aunque su reacción tuvo un dejo ingrato: casi no volvió a visitar al gurú, avergonzado de su vida anterior. Mientras tanto se acercaban ominosos los exámenes finales de Intermediate Arts, y Yogananda, de asistencia escolar irregularísima, huyó a Puri con la vaga esperanza de que el maestro sancionara su ausencia. «Te has dedicado de lleno a tus deberes espirituales; aplica diligencia a tus libros la próxima semana y saldrás del trance sin fracaso». Una meditación le trajo la inspiración: abrir cada libro al azar y estudiar solo las páginas así expuestas, dieciocho horas al día durante una semana. Aprobó todo por un pelo:*
+*Sasi sanó, aunque casi no volvió al ashram. Y el maestro, al volver de Puri, le dio a Yogananda una sorpresa:*
 
 > On his return from Puri, Sri Yukteswar gave me a pleasant surprise. “Your Calcutta studies are now over.
 
@@ -1373,7 +1376,7 @@ Sasi
 
 Yogananda
 
-*«Veré que cursen aquí mismo en Serampore tus dos últimos años de universidad». «Pero señor, en esta ciudad no hay carrera de grado». Dos meses después, el presidente del Serampore College anunció públicamente que había reunido los fondos para ofrecer el curso completo de cuatro años. ¡El profesor Howells ni sueña cuánto debe a tu ayuda silenciosa! «Así no perderás tantas horas en trenes; quizá te vuelvas menos empollón de última hora y más estudioso, respondió el maestro con falsa severidad. Aunque, por algún motivo, su tono carecía de convicción».*
+*«Cursarás aquí en Serampore tus dos últimos años». «Pero señor, en esta ciudad no hay carrera de grado». Dos meses después, el Serampore College anunció el curso completo de cuatro años: «así no perderás tantas horas en trenes», sonrió el maestro.*
 
 ## Capítulo 18: Un hacedor de milagros mahometano
 
@@ -1557,9 +1560,10 @@ Yogananda
 
 ## Capítulo 21: Visitamos Cachemira
 
+
 ![El landó de los seis viajeros camino de Srinagar, sobre una colina de flores amarillas, con los Himalayas nevados fila tras fila y la ermita de un pico lejano](img/cgbabh_autobiografia-de-un-yogui_i-21.jpg)
 
-*Dos días después de la curación milagrosa, el maestro lo sorprendió: «ya estás fuerte para viajar; te acompañaré a Cachemira». Esa noche el grupo de seis tomó el tren hacia el norte. Primera parada pausada en Simla, ciudad reina reposando sobre el trono de las colinas del Himalaya. En un pintoresco mercado al aire libre, una vieja gritaba «fresas inglesas»; el maestro, curioso ante aquellas frutillas rojas, compró una cesta y la ofreció a Kanai y a Mukunda, que probó una y la escupió con prisa: «¡qué fruta tan agria; jamás me gustarán las fresas!». El maestro rió: «te gustarán en América. En una cena allá, tu anfitriona te las servirá con azúcar y crema; después de machacarlas con un tenedor, las probarás y dirás: ¡qué fresas tan deliciosas! Entonces recordarás este día en Simla». Muchos años después, recién llegado a América, cenaba en casa de la señora Alice T. Hasey en West Somerville, Massachusetts, cuando sirvieron un postre de fresas: la anfitriona tomó su tenedor, machacó las bayas y añadió crema y azúcar. «La fruta es algo ácida; creo que te gustará así». Mukunda probó un bocado y exclamó ¡qué fresas tan deliciosas!:*
+*Dos días después de curarse, el maestro lo sorprendió: «te acompañaré a Cachemira». En el mercado de Simla compró una cesta de fresas y le hizo una predicción que solo años después saldría de la cueva insondable de la memoria:*
 
 > At once my guru’s prediction in Simla emerged from the fathomless cave of memory.
 
@@ -1567,7 +1571,7 @@ Yogananda
 
 Yogananda
 
-*De Simla a Rawalpindi, y allí alquilaron un gran landó tirado por dos caballos para el viaje de siete días hasta Srinagar, capital de Cachemira. El segundo día asomó la verdadera inmensidad del Himalaya; mientras las ruedas de hierro chirriaban por los caminos calurosos y pedregosos, iban embelesados con las vistas cambiantes de grandeza montañosa:*
+*De Simla a Rawalpindi, y en landó hasta Srinagar, capital de Cachemira; iban embelesados con la grandeza montañosa:*
 
 > “Sir,” Auddy said to Master, “I am greatly enjoying these glorious scenes in your holy company.”
 
@@ -1583,11 +1587,11 @@ Yogananda
 
 Yogananda
 
-*«No te hagas ilusiones: Auddy no está tan embelesado con el paisaje como con la perspectiva de dejarnos el tiempo suficiente para fumarse un cigarrillo». Horrorizado, Mukunda pidió en voz baja que no rompiera la armonía con palabras desagradables; apenas podía creer que Auddy ansiara fumar. Al detenerse el landó en un pequeño caravansar, mientras abrevaban los caballos, Auddy pidió permiso para ir un rato con el cochero, «a tomar un poco de aire». «Quiere humo fresco, no aire fresco», comentó el maestro, y al reanudar la marcha le indicó con los ojos chispeantes: «asoma el cuello por la portezuela y mira lo que Auddy hace con el aire». Obedeció, y se quedó atónito al ver a Auddy exhalando anillos de humo de cigarrillo. «Tiene razón, como siempre, señor: Auddy disfruta de una fumada junto con la panorámica».*
+*«No te hagas ilusiones: Auddy no está tan embelesado con el paisaje como con la perspectiva de fumarse un cigarrillo». Y en efecto: al detenerse el landó, Auddy pidió permiso para ir un rato con el cochero, «a tomar el aire»:*
 
-*Noches en posadas rústicas, comida preparada por ellos mismos y jugo de lima en todas las comidas, por cuidado especial del maestro. En Srinagar ocuparon habitaciones en una posada de dos pisos con vista a las colinas nobles, con agua sacada de un pozo cercano, y peregrinaron al antiguo templo de Swami Shankara: ante la ermita de la cima, recortada audaz contra el cielo, Mukunda cayó en un trance extático y tuvo la visión de una mansión en la cumbre de una colina, en una tierra lejana; años después, al visitar por primera vez Los Ángeles y ver el gran edificio de la cresta del Monte Washington, lo reconoció de inmediato como la futura sede de la Self-Realization Fellowship. Siguieron a Gulmarg, «senderos montañosos de flores», seis mil pies más arriba: su primera monta en un caballo grande, una carrera disparatada tras el trotón incansable de Rajendra por el escarpado Khilanmarg, y por primera vez en esta vida los Himalayas nevados en todas direcciones, tendidos fila tras fila como siluetas de enormes osos polares; rodó alegre con sus jóvenes compañeros, todos de abrigo, por las laderas blancas y chispeantes. Después, los famosos jardines reales del emperador Jehangir en Shalimar y Nishat Bagh, con el palacio construido sobre una cascada natural, y paseos en shikaras de toldos bordados de rojo por los canales del lago Dal, entre jardines flotantes de troncos y tierra. «La Dama de Cachemira está coronada de montañas, enguirnaldada de lagos y calzada de flores».*
+*Noches en posadas rústicas y jugo de lima en todas las comidas, por cuidado del maestro. En Srinagar peregrinaron al antiguo templo de Swami Shankara, y ante la ermita de la cima Mukunda cayó en un trance extático:*
 
-*Tras semanas felices, le tocó volver a Bengala para el trimestre de otoño del Serampore College; Sri Yukteswar se quedó en Srinagar con Kanai y Auddy:*
+*Semanas después le tocó volver a Bengala; el maestro se quedó en Srinagar con Kanai y Auddy:*
 
 > Before I departed, Master hinted that his body would be subject to suffering in Kashmir.
 
@@ -1595,7 +1599,7 @@ Yogananda
 
 Yogananda
 
-*«Señor, usted parece la imagen de la salud», protestó. «Existe la posibilidad de que incluso abandone esta tierra». «¡Guruji!, exclamó, cayendo a sus pies en gesto implorante. Prométame que no dejará su cuerpo ahora; no estoy en absoluto preparado para seguir sin usted»:*
+*«Señor, usted parece la imagen de la salud». «Existe la posibilidad de que incluso abandone esta tierra». «¡Prométame que no dejará su cuerpo ahora!»:*
 
 > Sri Yukteswar was silent, but smiled at me so compassionately that I felt reassured.
 
@@ -1603,7 +1607,7 @@ Yogananda
 
 Yogananda
 
-*Se fue a regañadientes. Poco después de su regreso a Serampore le llegó un telegrama de Auddy: «maestro gravemente enfermo»:*
+*Se fue a regañadientes. Poco después le llegó un telegrama de Auddy: «maestro gravemente enfermo»:*
 
 > “Sir,” I wired my guru frantically, “I asked for your promise not to leave me. Please keep your body; otherwise, I also shall die.”
 
@@ -1617,7 +1621,7 @@ Yogananda
 
 Yogananda
 
-*Una carta de Auddy informó días después que el maestro se había recuperado, pero a su vuelta a Serampore Mukunda lo halló con el cuerpo reducido a la mitad de su peso habitual: Sri Yukteswar había quemado en el fuego de aquella fiebre muchos pecados de sus discípulos. El método metafísico de la transferencia física de la enfermedad es conocido de los yoguis más avanzados: como un hombre fuerte ayuda a uno más débil cargando su pesado fardo, un superhombre espiritual puede aligerar las cargas físicas o mentales de sus discípulos compartiendo el karma de sus acciones pasadas; por un método secreto, el yogui une su mente y su vehículo astral a los del que sufre, y la enfermedad pasa, total o parcialmente, al cuerpo del santo. Jesús se significó a sí mismo como rescate por los pecados de muchos: con sus poderes divinos, su cuerpo jamás habría podido morir en la cruz de no cooperar él voluntariamente con la sutil ley cósmica de causa y efecto. Mukunda conoció a un santo indio con medio cuerpo ulcerado por una diabetes tan aguda que no podía estar sentado más de quince minutos seguidos; «Señor, oraba, ¿vendrás a mi templo roto?». Con dominio incesante de la voluntad llegó a sentarse dieciocho horas diarias en postura de loto, absorto en el trance extático:*
+*El maestro se recuperó, pero volvió a Serampore con la mitad de su peso: había quemado en aquella fiebre muchos pecados de sus discípulos. La transferencia física de la enfermedad es conocida de los yoguis avanzados; él mismo la había practicado años atrás:*
 
 > “And,” he told me, “at the end of three years, I found the Infinite Light blazing within my shattered form. Rejoicing in the joyful splendour, I forgot the body. Later I saw that it had become whole through the Divine Mercy.”
 
@@ -1625,7 +1629,7 @@ Yogananda
 
 Yogananda
 
-*La historia registra el caso del rey Baber, fundador del imperio mogol en la India: su hijo, el príncipe Humayun, yacía enfermo de muerte, y el padre oró con determinación angustiada para recibir él la enfermedad y salvar al hijo; cuando los médicos ya no daban esperanza, Humayun sanó y Baber cayó enfermo y murió del mismo mal. Cuando Mukunda se atrevió a decir unas palabras de compasión por la figura demacrada de su gurú, este replicó alegremente: «tiene sus ventajas: ¡ahora puedo meterme en algunos ganjis que no me ponía desde hacía años!»:*
+*La historia registra el caso del rey Baber: oró por recibir la enfermedad de su hijo Humayun; el príncipe sanó y Baber murió del mismo mal. Cuando Mukunda se atrevió a compadecer la figura demacrada de su gurú:*
 
 > Listening to Master’s jovial laugh, I remembered the words of St. Francis de Sales: “A saint that is sad is a sad saint!”
 
@@ -1800,6 +1804,7 @@ Yogananda
 
 ## Capítulo 24: Me hago monje de la Orden de los Swamis
 
+
 ![Sri Yukteswar ciñe la seda teñida de ocre alrededor de Mukunda, arrodillado con las manos juntas en el balcón de la ermita de Serampore](img/cgbabh_autobiografia-de-un-yogui_i-24.jpg)
 
 *«Maestro, mi padre ha estado ansioso por que acepte un puesto ejecutivo en el ferrocarril Bengal-Nagpur, pero lo he rechazado definitivamente»:*
@@ -1826,7 +1831,7 @@ Yogananda
 
 Yogananda
 
-*Había analizado la vida de muchos amigos que, tras cierta disciplina espiritual, se habían casado: lanzados al mar de las responsabilidades mundanas, olvidaron sus resoluciones de meditar profundamente. Aunque Dios es el único Dueño del cosmos, colmándonos en silencio de dones vida tras vida, queda una cosa que no posee y que cada corazón humano puede negarle u otorgarle: el amor del hombre. El día siguiente fue uno de los más memorables de su vida: un jueves soleado de julio de 1914, pocas semanas después de su graduación. En el balcón interior de la ermita de Serampore, el maestro sumergió una pieza nueva de seda blanca en un tinte ocre, el color tradicional de la Orden:*
+*Aunque Dios es el único Dueño del cosmos, queda una cosa que no posee y que cada corazón puede negarle u otorgarle: el amor del hombre. El día de la iniciación, tiñó de ocre la tela:*
 
 > After the cloth had dried, my guru draped it around me as a renunciate’s robe.
 
@@ -1842,7 +1847,7 @@ Yogananda
 
 Yogananda
 
-*«Te haré swami a la manera bidwat, sin ceremonias»: nada de ritos funerarios simbólicos en el fuego; solo le pidió elegir un nombre nuevo. «Yogananda», respondió tras un instante de reflexión: dicha (ananda) mediante la unión divina (yoga). «Así sea: abandonando tu nombre familiar de Mukunda Lal Ghosh, en adelante serás llamado Yogananda, de la rama Giri de la Orden de los Swamis»:*
+*«Te haré swami a la manera bidwat, sin ceremonias»: solo le pidió elegir un nombre nuevo. «Yogananda»: dicha (ananda) mediante la unión divina (yoga). «En adelante serás Yogananda, de la rama Giri de la Orden de los Swamis»:*
 
 > As I knelt before Sri Yukteswar, and for the first time heard him pronounce my new name, my heart overflowed with gratitude. How lovingly and tirelessly had he labored, that the boy Mukunda be someday transformed into the monk Yogananda!
 
@@ -1858,7 +1863,7 @@ Yogananda
 
 Yogananda
 
-*Todo swami pertenece a la antigua orden monástica organizada en su forma actual por Shankara: nadie puede darse a sí mismo el título, lo recibe de otro swami, y así todos los monjes trazan su linaje espiritual hasta un gurú común. Al nuevo nombre, que suele terminar en ananda, se añade un título que indica la subdivisión de la Orden: Giri (montaña), Sagar (mar), Bharati (tierra), Aranya (bosque), Puri, Tirtha, Saraswati y otras hasta diez. Un swami no es siempre un yogui: cualquiera que practique una técnica científica de contacto con Dios es un yogui, casado o no, y la Senda Óctuple de Patanjali (yama, niyama, asana, pranayama, pratyahara, dharana, dhyana y samadhi) conduce a la meta final de Kaivalya, la Absolutud. El yoga no puede conocer barreras de Oriente y Occidente, como tampoco las conoce la luz sanadora y equitativa del sol; el doctor C. G. Jung lo escribió con claridad: «el yoga ofrece la posibilidad de una experiencia controlable, y satisface así la necesidad científica de hechos». Se acerca el día occidental en que la ciencia interior del autodominio resultará tan necesaria como la conquista exterior de la naturaleza: las fuerzas más finas de la mente humana pueden y deben liberar energías mayores que las encerradas en piedras y metales, no sea que el gigante atómico recién desencadenado se vuelva contra el mundo en destrucción sin mente.*
+*Todo swami recibe su título de otro swami, en un linaje que sube hasta Shankara: al nombre, que suele terminar en ananda, se añade el título de la subdivisión: Giri (montaña), Sagar (mar), Bharati (tierra), Puri (ciudad), y otras.*
 
 ## Capítulo 25: El hermano Ananta y la hermana Nalini
 
@@ -1938,9 +1943,10 @@ Yogananda
 
 ## Capítulo 26: La ciencia del Kriya Yoga
 
+
 ![Un yogui medita en loto mientras una espiral dorada de energía asciende por los seis centros de su columna, bajo un cielo cósmico de sol, estrellas y galaxias](img/cgbabh_autobiografia-de-un-yogui_i-26.jpg)
 
-*La ciencia de Kriya Yoga, mencionada tantas veces en estas páginas, se dio a conocer ampliamente en la India moderna por medio de Lahiri Mahasaya, el gurú de su gurú. La raíz sánscrita de Kriya es kri, hacer, actuar y reaccionar, la misma de la palabra karma: unión con el Infinito mediante cierta acción o rito. Por ciertas antiguas prescripciones yoguis, no puede dar en un libro para el público general una explicación completa: la técnica debe aprenderse de un Kriyaban; aquí basta una referencia amplia. Es un método sencillo, psicofisiológico, por el que la sangre se descarboniza y se recarga de oxígeno, cuyos átomos extra se transmutan en corriente vital que rejuvenece el cerebro y los centros espinales. Elías, Jesús, Kabir y otros profetas fueron maestros consumados en el uso de Kriya o de una técnica similar, con la que desmaterializaban sus cuerpos a voluntad. Kriya es una ciencia antigua: Lahiri Mahasaya la recibió de Babaji, que la redescubrió y aclaró tras perderse en las edades oscuras; «el Kriya Yoga que doy al mundo a través de ti en este siglo XIX, le dijo Babaji, es una reactivación de la misma ciencia que Krishna dio, milenios atrás, a Arjuna, y que conocieron después Patanjali y Cristo, san Juan, san Pablo y otros discípulos». La Bhagavad Gita la refiere en una estrofa: «ofreciendo el aliento inhalado en el exhalado, y el exhalado en el inhalado, el yogui neutraliza ambos alientos; libera así la fuerza vital del corazón y la pone bajo su control»:*
+*La ciencia de Kriya Yoga se dio a conocer por Lahiri Mahasaya, el gurú de su gurú. Kriya viene de la raíz sánscrita kri, hacer: unión con el Infinito mediante cierta acción; por antiguas prescripciones yoguis, no puede explicarla aquí por completo:*
 
 > Thus neutralizing decay and growth, by quieting the heart, the yogi learns life control.”
 
@@ -1948,7 +1954,7 @@ Yogananda
 
 Yogananda
 
-*Patanjali, el máximo exponente del yoga, la menciona dos veces: «el Kriya Yoga consiste en disciplina del cuerpo, control mental y meditación en Aum»; y habla de Dios como el auténtico Sonido Cósmico de Aum que se oye en la meditación, la Palabra Creadora, el sonido del Motor Vibratorio:*
+*Patanjali, el máximo exponente del yoga, la menciona dos veces y habla de Dios como el auténtico Sonido Cósmico de Aum que se oye en la meditación:*
 
 > Even the yoga-beginner soon inwardly hears the wondrous sound of Aum. Receiving this blissful spiritual encouragement, the devotee becomes assured that he is in actual touch with divine realms.
 
@@ -1964,7 +1970,7 @@ Yogananda
 
 Yogananda
 
-*El cuerpo del hombre medio es como una lámpara de cincuenta vatios, incapaz de alojar los mil millones de vatios que despertaría una práctica excesiva: el principiante emplea su ejercicio solo de catorce a veintiocho veces, dos veces al día, y con el aumento gradual y regular el cuerpo se transforma astralmente día a día. Medio minuto de revolución de la energía alrededor de la sensible médula espinal equivale a un año de desenvolvimiento espiritual natural; mil Kriyas practicadas en ocho horas dan al yogui, en un solo día, el equivalente de mil años de evolución natural. Los efectos rejuvenecedores del sueño se deben a la inconsciencia temporal del cuerpo y la respiración: el durmiente se vuelve un yogui, y cada noche realiza inconscientemente el rito de liberarse de la identificación corporal y de fundir la fuerza vital con las corrientes sanadoras del cerebro y de los seis subdínamos de sus centros espinales:*
+*El cuerpo del hombre medio es como una lámpara de cincuenta vatios, incapaz de alojar los mil millones que despertaría una práctica excesiva: el principiante emplea su ejercicio solo de catorce a veintiocho veces, dos veces al día. El durmiente, sin saberlo, se recarga:*
 
 > The sleeper thus dips unknowingly into the reservoir of cosmic energy which sustains all life.
 
@@ -1972,7 +1978,7 @@ Yogananda
 
 Yogananda
 
-*El yogui voluntario realiza consciente ese proceso simple y natural que el durmiente realiza sin saberlo: satura y alimenta todas sus células físicas con luz imperecedera y las mantiene en estado magnetizado; hace innecesaria la respiración sin producir los estados del sueño subconsciente o la inconsciencia. Desatando el cordón del aliento que liga el alma al cuerpo, Kriya sirve para prolongar la vida y ensanchar la conciencia hasta el infinito:*
+*El yogui realiza consciente ese proceso: satura sus células con luz imperecedera y hace innecesaria la respiración. Desatando el cordón del aliento que liga el alma al cuerpo, Kriya prolonga la vida:*
 
 > He knows his real nature is bound neither by physical encasement nor by breath, symbol of the mortal enslavement to air, to nature’s elemental compulsions.
 
@@ -1980,7 +1986,7 @@ Yogananda
 
 Yogananda
 
-*Frente a la introspección, esa manera no científica de forzar la separación entre mente y sentidos, Kriya, que controla la mente directamente a través de la fuerza vital, es la vía más fácil, efectiva y científica de acercamiento al Infinito: frente al lento e incierto «carromato de bueyes» del camino teológico hacia Dios, bien puede llamársela la ruta del «aeroplano». El yoga permite al devoto conectar o desconectar a voluntad la corriente vital de los cinco teléfonos de los sentidos (vista, oído, olfato, gusto y tacto):*
+*Frente al lento «carromato de bueyes» del camino teológico, Kriya, que controla la mente a través de la fuerza vital, es la ruta del «aeroplano»:*
 
 > No longer is he unwillingly brought back by the life force to the mundane sphere of rowdy sensations and restless thoughts.
 
@@ -1988,7 +1994,7 @@ Yogananda
 
 Yogananda
 
-*Amo de su cuerpo y de su mente, el Kriya Yogui alcanza al fin la victoria sobre el «último enemigo», la muerte. «El ritual exterior no puede destruir la ignorancia, porque no se contradicen mutuamente», escribió Shankara en sus famosos Versos del Siglo:*
+*Amo de su cuerpo, el Kriya Yogui vence al «último enemigo», la muerte. «El ritual exterior no puede destruir la ignorancia», escribió Shankara:*
 
 > “Realized knowledge alone destroys ignorance....
 
@@ -1996,7 +2002,7 @@ Yogananda
 
 Yogananda
 
-*El intelecto no tiene respuesta a las preguntas (¿quién soy yo? ¿cómo nació este universo? ¿quién es su hacedor? ¿cuál es su causa material?) y por eso los rishis elaboraron el yoga como técnica de la indagación espiritual. Kriya Yoga es el verdadero «rito del fuego» exaltado en la Bhagavad Gita: el yogui avanzado, reteniendo toda su mente, voluntad y sentimiento de la falsa identificación con los deseos corporales, uniendo su mente a las fuerzas supraconscientes de los santuarios espinales, ofrece sus laberínticos anhelos humanos a una hoguera monoteísta dedicada al Dios sin par:*
+*El intelecto no tiene respuesta a las preguntas últimas; por eso los rishis elaboraron el yoga como técnica de indagación espiritual. Kriya Yoga es el verdadero «rito del fuego» de la Bhagavad Gita:*
 
 > The Ultimate Flame receives the sacrifice of all human madness, and man is pure of dross. His bones stripped of all desirous flesh, his karmic skeleton bleached in the antiseptic suns of wisdom, he is clean at last, inoffensive before man and Maker.
 
