@@ -4,41 +4,85 @@
 
 ## 1. El Otro
 
+
+
 Jorge Luis Borges
 
 > El hecho ocurrió en el mes de febrero de 1969, al norte de Boston, en Cambridge. No lo escribí inmediatamente porque mi primer propósito fue olvidarlo, para no perder la razón. Ahora, en 1972, pienso que si lo escribo, los otros lo leerán como un cuento y, con los años, lo será tal vez para mí. Sé que fue casi atroz mientras duró y más aún durante las desveladas noches que lo siguieron.
 
-A las diez de la mañana, Borges estaba en un banco frente al río Charles. El agua gris arrastraba hielo; al mirarla pensó en el tiempo. Alguien se sentó en el otro extremo y empezó a silbar una canción criolla que lo devolvió a un patio desaparecido. Después oyó las palabras y reconoció, con horror, su propia voz. El muchacho era argentino y vivía en Ginebra, en la misma dirección donde Borges había vivido de joven. El mayor le dijo que ambos se llamaban Jorge Luis Borges y que estaban en Cambridge, en 1969. El joven lo negó: para él, el banco estaba junto al Ródano, en Ginebra. Miró al hombre de cabeza gris y señaló el parecido.
+Borges escribe esto en 1972 y jura que le pasó de verdad en febrero de 1969, en Cambridge, una ciudad junto a Boston. Atroz quiere decir espantoso; desvelada es la noche que se pasa sin dormir. Desde la primera línea avisa que lo cuenta como cuento para no perder la razón.
 
-> Lo raro es que nos parecemos, pero usted es mucho mayor, con la cabeza gris. Yo le contesté: —Puedo probarte que no miento. Voy a decirte cosas que no puede saber un desconocido. En casa hay un mate de plata con un pie de serpientes, que trajo del Perú nuestro bisabuelo. También hay una palangana de plata, que pendía del arzón. En el armario de tu cuarto hay dos filas de libros.
+*Son las diez de la mañana y Borges está recostado en un banco frente al río Charles. El agua gris arrastra pedazos de hielo y, como pasa siempre que se mira un río, lo pone a pensar en el tiempo. No hay un alma a la vista, hasta que alguien se sienta en la otra punta del banco y se pone a silbar una milonga criolla que lo devuelve a un patio de su juventud, ya desaparecido, y a un amigo ya muerto. Después el desconocido empieza a decir los versos en voz alta.*
 
-El mayor enumeró los libros del armario y recordó un atardecer de juventud. El muchacho corrigió el nombre de la plaza, pero no aceptó la prueba: si estaba soñando, aquel desconocido podía saber cuanto él sabía. Borges admitió la objeción. Si el encuentro era un sueño, cada uno podía creerse el soñador; ninguno sabía si llegaría a despertarse. El mayor buscó una manera de habitar juntos aquella incertidumbre.
+> La voz no era la de Álvaro, pero quería parecerse a la de Álvaro. La reconocí con horror. Me le acerqué y le dije: —Señor, ¿usted es oriental o argentino? —Argentino, pero desde el catorce vivo en Ginebra —fue la contestación. Hubo un silencio largo. Le pregunté: —¿En el número diecisiete de Malagnou, frente a la iglesia rusa? Me contestó que sí.
 
-> Nuestra evidente obligación, mientras tanto, es aceptar el sueño, como hemos aceptado el universo y haber sido engendrados y mirar con los ojos y respirar. —¿Y si el sueño durara? —dijo con ansiedad. Para tranquilizarlo y tranquilizarme, fingí un aplomo que ciertamente no sentía. Le dije: —Mi sueño ha durado ya setenta años. Al fin y al cabo, al recordarse, no hay persona que no se encuentre consigo misma. Es lo que nos está pasando ahora, salvo que somos dos.
+Álvaro Melián Lafinur era aquel amigo de la juventud de Borges: la voz se le parece y reconocerla le da horror, porque en el fondo es su propia voz. Oriental quiere decir uruguayo, y el catorce es 1914: el desconocido vive en Ginebra desde 1914, en la calle Malagnou, la misma dirección donde Borges vivió de muchacho con su familia.
 
-El mayor le ofreció contarle el porvenir. Su madre seguía en Buenos Aires; su padre y su abuela habían muerto; su hermana se había casado. Le anunció libros y clases, otra guerra y un país cada vez más encerrado en sí mismo. El joven apenas escuchaba: lo vencía el miedo de encontrarse ante lo imposible. Borges sintió por él un amor más íntimo que el de un padre. Hablaron de Dostoievski, cuyo libro el muchacho llevaba entre las manos, y de los versos que preparaba para cantar la fraternidad de los oprimidos. El mayor dudó de esa multitud abstracta: sólo encontraba individuos, cambiantes como ellos mismos. Tampoco coincidían sobre las metáforas. El joven buscaba imágenes nuevas; el viejo prefería las afinidades que la imaginación ya había aceptado, como el tiempo y el agua. Entonces el muchacho vio una dificultad: si aquel hombre había sido él, ¿por qué no recordaba haberse encontrado en 1918 con un Borges anciano? El mayor sugirió, sin convicción, que había intentado olvidar algo demasiado extraño. El joven quiso saber hasta dónde podía confiar en su memoria. Con timidez le preguntó cómo andaba la memoria del mayor. Borges comprendió que, para un muchacho de menos de veinte años, un hombre de más de setenta era casi un muerto, y le contestó con humor: su memoria solía parecerse al olvido, pero todavía encontraba lo que le encargaban; estudiaba anglosajón y no era el último de la clase. Después, buscando una prueba que ningún sueño pudiera inventar, pensó en un verso.
+*El mayor le dice entonces quién es: los dos se llaman Jorge Luis Borges y están en Cambridge, en 1969. El muchacho no lo acepta: para él el banco está en Ginebra, a unos pasos del Ródano. Lo único raro que concede es el parecido, aunque el otro tenga la cabeza gris. El mayor le ofrece una prueba.*
+
+> Yo le contesté: —Puedo probarte que no miento. Voy a decirte cosas que no puede saber un desconocido. En casa hay un mate de plata con un pie de serpientes, que trajo del Perú nuestro bisabuelo. También hay una palangana de plata, que pendía del arzón. En el armario de tu cuarto hay dos filas de libros.
+
+El arzón es la parte delantera de la silla de montar, donde se cuelgan las cosas. Un mate de plata con pie de serpientes y una palangana que pendía del arzón son objetos de la casa de los Borges que ningún desconocido puede conocer: si el otro sabe eso, es que no es un desconocido. Después le nombra uno por uno los libros del armario y un atardecer en una plaza, y el muchacho solo corrige el nombre de la plaza.
+
+*La prueba no le basta: si está soñando, ese señor puede saber todo lo que él sabe, y el catálogo de recuerdos no prueba nada. La objeción es justa y Borges la admite. Si aquello es un sueño, cada uno tiene que creerse el soñador; tal vez dejen de soñar, tal vez no. Lo que queda es aceptar el sueño como se acepta el universo. Entonces el muchacho pregunta con ansiedad qué pasa si el sueño dura.*
+
+> —¿Y si el sueño durara? —dijo con ansiedad. Para tranquilizarlo y tranquilizarme, fingí un aplomo que ciertamente no sentía. Le dije: —Mi sueño ha durado ya setenta años. Al fin y al cabo, al recordarse, no hay persona que no se encuentre consigo misma. Es lo que nos está pasando ahora, salvo que somos dos.
+
+Aplomo es serenidad, calma. Borges, que tiene setenta años, lo tranquiliza con una broma seria: su sueño lleva setenta años y, al recordarse, cualquiera se encuentra consigo mismo; lo nuevo de esa mañana es que el encuentro es con otro que es él.
+
+*El mayor le ofrece entonces lo que nadie puede ofrecer: contarle el porvenir, que para él es pasado.*
+
+> ¿No querés saber algo de mi pasado, que es el porvenir que te espera? Asintió sin una palabra.
+
+Para el viejo es recuerdo y para el joven es futuro: es la misma vida vista desde sus dos orillas. El muchacho asiente sin decir palabra.
+
+*Le cuenta que su madre sigue bien, en la casa de Charcas y Maipú, la esquina de Buenos Aires donde vivía la familia; que su padre murió hace años, y su abuela en la misma casa, y que su hermana Norah se casó y tiene dos hijos. Le anuncia otra guerra y un país que se encierra en sí mismo. El muchacho apenas lo escucha: lo amilana el miedo de encontrarse ante lo imposible. Y entonces vacila y pregunta por él.*
+
+> Vaciló y me dijo: —¿Y usted? —No sé la cifra de los libros que escribirás, pero sé que son demasiados. Escribirás poesías que te darán un agrado no compartido y cuentos de índole fantástica. Darás clases como tu padre y como tantos otros de nuestra sangre.
+
+El muchacho quiere saber qué fue de la vida de ese señor, y la respuesta es la propia biografía de Borges: escribirá poemas y cuentos fantásticos y dará clases, como su padre y como tantos de su familia. Un agrado no compartido es un gusto que no se puede repartir con nadie.
+
+*Hablan de literatura, como no podía ser de otro modo. El muchacho lleva entre las manos un libro de Dostoievski y prepara unos versos para cantar la fraternidad de los oprimidos; al viejo esa masa le parece una abstracción, porque solo existen los individuos. Tampoco coinciden en las metáforas: el joven quiere inventar imágenes nuevas y el viejo prefiere las afinidades de siempre, el tiempo y el agua, los sueños y la vida. Entonces al muchacho se le ocurre una dificultad.*
+
+> De pronto dijo: —Si usted ha sido yo, ¿cómo explicar que haya olvidado su encuentro con un señor de edad que en 1918 le dijo que él también era Borges? No había pensado en esa dificultad. Le respondí sin convicción: —Tal vez el hecho fue tan extraño que traté de olvidarlo. Aventuró una tímida pregunta: —¿Cómo anda su memoria? Comprendí que para un muchacho que no había cumplido veinte años, un hombre de más de setenta era casi un muerto. Le contesté: —Suele parecerse al olvido, pero todavía encuentra lo que le encargan. Estudio anglosajón y no soy el último de la clase.
+
+La objeción es de lógica fina: si el viejo ya fue ese muchacho, tendría que recordar esta misma conversación desde el otro lado, y no la recuerda. Borges sale del paso: tal vez quiso olvidar algo demasiado extraño. Y contesta lo de su memoria con humor: le encuentra la vuelta todavía, aunque ande estudiando anglosajón, el idioma que se hablaba en Inglaterra hace mil años.
+
+*La conversación ya duró demasiado para ser la de un sueño. A Borges se le ocurre de golpe una prueba que ningún sueño puede fabricar: un verso.*
 
 > Nuestra conversación ya había durado demasiado para ser la de un sueño. Una brusca idea se me ocurrió. —Yo te puedo probar inmediatamente —le dije— que no estás soñando conmigo. Oí bien este verso, que no has leído nunca, que yo recuerde. Lentamente entoné la famosa línea: L'hydre — univers tordant son corps écaillé d'astres.
 
-![Óleo de fantasía: una hidra enorme, con el cuerpo escamado de estrellas y galaxias, se enrosca en el cielo nocturno sobre un mar oscuro, mientras una figura diminuta con capa la mira desde una orilla de rocas.](img/cgbabc_arena-puentes_hidra.jpg)
+![Óleo de fantasía: una hidra enorme, con el cuerpo escamado de estrellas y galaxias, se enrosca en el cielo nocturno sobre un mar oscuro, mientras una figura diminuta con capa la mira desde una orilla de rocas.](img/cgbabc_borges_arena_hidra.jpg)
 
-El verso es del poeta francés Victor Hugo y dice, más o menos: la hidra-universo, retorciendo su cuerpo escamado de astros. Es la imagen del universo como un monstruo marino inmenso, cubierto de estrellas como de escamas. La prueba era sencilla: si el muchacho lo estuviera soñando, el verso saldría de su propia cabeza y no lo sorprendería. Lo sorprendió. Lo repitió en voz baja, saboreando cada palabra, y admitió que él nunca escribiría una línea así. Hugo, dice Borges, los había unido. Entonces el mayor recordó otro poeta que el joven había recitado antes, con fervor, en esa misma conversación: Walt Whitman, el gran poeta estadounidense del siglo XIX, que cantó la vida, la amistad y los hombres comunes, y a quien el muchacho admiraba por su fe en lo que decía.
+El verso es francés, del poeta Victor Hugo, y dice, más o menos: la hidra-universo, retorciendo su cuerpo escamado de astros. Una hidra es un monstruo de muchas cabezas; Hugo ve el universo como un animal inmenso con escamas de estrellas. La prueba es fina: si el muchacho lo estuviera soñando, el verso saldría de su propia cabeza y no podría sorprenderlo.
 
-> Antes, él había repetido con fervor, ahora lo recuerdo, aquella breve pieza en que Walt Whitman rememora una compartida noche ante el mar, en que fue realmente feliz. —Si Whitman la ha cantado —observé— es porque la deseaba y no sucedió.
+> Sentí su casi temeroso estupor. Lo repitió en voz baja, saboreando cada resplandeciente palabra. —Es verdad —balbuceó—. Yo no podré nunca escribir una línea como ésa. Hugo nos había unido.
 
-Borges sostuvo que un poema gana si adivinamos en él un anhelo y no el relato de un hecho: Whitman habría escrito esa noche feliz junto al mar porque deseaba vivirla, no porque la hubiera vivido. El muchacho se quedó mirándolo y le respondió que no conocía a Whitman: Whitman era incapaz de mentir. Entonces el mayor sintió, bajo la discusión sobre un poeta, la distancia entre los dos.
+El verso sí lo sorprende: lo repite en voz baja, saboreando cada palabra, y confiesa que él nunca escribiría una línea así. Hugo los había unido, dice Borges: los dos admiran al mismo poeta y por un momento dejan de ser dos extraños.
 
-> Medio siglo no pasa en vano. Bajo nuestra conversación de personas de miscelánea lectura y gustos diversos, comprendí que no podíamos entendernos. Éramos demasiado distintos y demasiado parecidos. No podíamos engañarnos, lo cual hace difícil el diálogo. Cada uno de los dos era el remedo caricaturesco del otro.
+*El muchacho había recitado antes, con fervor, a otro poeta: Walt Whitman, el gran poeta estadounidense del siglo XIX, que cantó la vida y a los hombres comunes. El viejo recuerda una pieza en que Whitman rememora una noche feliz ante el mar, y le da una vuelta.*
 
-Discutir no cambiaría el destino del muchacho: llegaría a ser aquel hombre. El mayor recordó una fantasía de Coleridge, la flor que alguien recibe en el paraíso soñado y conserva al despertar. Buscó una prueba semejante y le pidió una moneda; a cambio le tendió un billete americano. El joven vio en él la fecha de 1974 y gritó que era imposible. El narrador añade que meses después le dijeron que los billetes no llevan fecha. Para el muchacho, aquello era un milagro, y los milagros daban miedo. Hizo pedazos el billete y guardó la moneda. El viejo decidió arrojarla al río, pero el gesto que había imaginado no llegó a cumplirse. Intentó calmar el miedo del joven.
+> Antes, él había repetido con fervor, ahora lo recuerdo, aquella breve pieza en que Walt Whitman rememora una compartida noche ante el mar, en que fue realmente feliz. —Si Whitman la ha cantado —observé— es porque la deseaba y no sucedió. El poema gana si adivinamos que es la manifestación de un anhelo, no la historia de un hecho. Se quedó mirándome. —Usted no lo conoce —exclamó—. Whitman es incapaz de mentir.
+
+Borges lee el poema al revés: si Whitman cantó esa noche feliz es porque quiso vivirla y no pudo; un poema vale más como anhelo, como deseo, que como relato de un hecho. El muchacho se rebela: para él Whitman es incapaz de mentir. Los dos aman al mismo poeta y no se entienden sobre él.
+
+*Medio siglo no pasa en vano: bajo la charla de libros, el viejo comprende que no pueden entenderse, demasiado distintos y demasiado parecidos, y que discutir es inútil, porque el destino del muchacho es llegar a ser ese hombre. Entonces recuerda una fantasía de Coleridge y busca un artificio parecido: una prueba que cruce de un tiempo al otro.*
+
+> De pronto recordé una fantasía de Coleridge. Alguien sueña que cruza el paraíso y le dan como prueba una flor. Al despertarse, ahí está la flor. Se me ocurrió un artificio análogo. —Oí —le dije—, ¿tenés algún dinero?
+
+Coleridge es un poeta inglés del siglo XIX. La fantasía es ésa: alguien sueña que cruza el paraíso y le dan una flor de prueba, y al despertar la flor está ahí. Si algo del sueño vuelve con uno a la vigilia, el sueño fue más que un sueño. Por eso Borges le pide dinero: un intercambio que atraviese los dos tiempos.
+
+*El muchacho saca tres escudos de plata y unas piezas menores y le ofrece una moneda; Borges le tiende a cambio uno de esos billetes americanos que tienen muy diverso valor y el mismo tamaño. El joven lo examina con avidez y grita que no puede ser: el billete lleva la fecha de 1974, cinco años después de aquel banco. Meses después le dirán al narrador que los billetes de banco no llevan fecha. Para el muchacho es un milagro, y lo milagroso da miedo: hace pedazos el billete y guarda la moneda. El viejo piensa tirarla al río; la moneda de plata perdiéndose en el río de plata habría cerrado la historia con una imagen viva, pero la suerte no lo quiere.*
 
 > Respondí que lo sobrenatural, si ocurre dos veces, deja de ser aterrador. Le propuse que nos viéramos al día siguiente, en ese mismo banco que está en dos tiempos y en dos sitios. Asintió en el acto y me dijo, sin mirar el reloj, que se le había hecho tarde. Los dos mentíamos y cada cual sabía que su interlocutor estaba mintiendo. Le dije que iban a venir a buscarme.
 
-El muchacho se sorprendió de que fueran a buscarlo. El mayor le explicó que, al llegar a su edad, habría perdido casi toda la vista: quedarían el amarillo, las sombras y las luces. Le habló de la ceguera gradual como de un lento atardecer de verano. Se despidieron sin tocarse. Borges no volvió al banco al día siguiente; supone que el joven tampoco fue. El encuentro quedó en su memoria, a la espera de una explicación.
+Los dos quedan en verse al día siguiente y los dos saben que no irán: la despedida es una mentira cortés de los dos lados. El banco está en dos tiempos y en dos sitios porque para uno es Cambridge en 1969 y para el otro es Ginebra en 1918.
+
+*¿A buscarlo?, se sorprende el muchacho. Sí, le explica el viejo: cuando tenga su edad habrá perdido casi toda la vista y le quedarán el amarillo, las sombras y las luces, y la ceguera que llega despacio no es una tragedia, es como un lento atardecer de verano. Se despiden sin tocarse. Al día siguiente Borges no vuelve al banco y supone que el otro tampoco fue. Después, durante años, le da vueltas al encuentro.*
 
 > He cavilado mucho sobre este encuentro, que no he contado a nadie. Creo haber descubierto la clave. El encuentro fue real, pero el otro conversó conmigo en un sueño y fue así que pudo olvidarme; yo conversé con él en la vigilia y todavía me atormenta el recuerdo. El otro me soñó, pero no me soñó rigurosamente. Soñó, ahora lo entiendo, la imposible fecha en el dólar.
 
----
+Cavilar es pensar mucho, darle vueltas a una cosa. La clave que encuentra Borges cierra el cuento: el muchacho lo soñó y por eso pudo olvidarlo, y soñó también la fecha imposible del dólar; él lo vivió despierto y por eso el recuerdo todavía lo atormenta.
 
 ## 2. Ulrica
 

@@ -10,6 +10,6 @@ Aquí se ensaya algo parecido con los libros: quitar lo que sobra hasta encontra
 - [Todo es una voz: una glosa de Victor Hugo](html/cgbabf_todo-es-una-voz.html): «todo es una voz y todo es un perfume», leído con calma.
 - [Ce que dit la bouche d’ombre: un poema de Victor Hugo](html/cgbabe_ce-que-dit-la-bouche-dombre.html): el poema entero de donde viene la hidra Universo, en francés y en castellano.
 - [El Otro: un Cuento de Borges](html/cgbabf_el-otro.html): el primer cuento de El Libro de Arena, solo, para leerlo con calma.
-- [El Libro de Arena: trece cuentos](html/cgbabc_arena-puentes.html): una lectura breve de los cuentos de Jorge Luis Borges.
+- [El Libro de Arena](html/cgbabc_borges_arena.html): una lectura breve de los cuentos de Jorge Luis Borges.
 - [Macbeth](html/cgbaaj_macbeth.html): la obra de William Shakespeare, que se va poblando escena a escena.
 - [Bodega 103](bodega-103/README.md): Recuerdos de la primera Destilería.
