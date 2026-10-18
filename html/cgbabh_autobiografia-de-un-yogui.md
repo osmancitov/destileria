@@ -1855,6 +1855,75 @@ Yogananda
 
 *Todo swami pertenece a la antigua orden monástica organizada en su forma actual por Shankara: nadie puede darse a sí mismo el título, lo recibe de otro swami, y así todos los monjes trazan su linaje espiritual hasta un gurú común. Al nuevo nombre, que suele terminar en ananda, se añade un título que indica la subdivisión de la Orden: Giri (montaña), Sagar (mar), Bharati (tierra), Aranya (bosque), Puri, Tirtha, Saraswati y otras hasta diez. Un swami no es siempre un yogui: cualquiera que practique una técnica científica de contacto con Dios es un yogui, casado o no, y la Senda Óctuple de Patanjali (yama, niyama, asana, pranayama, pratyahara, dharana, dhyana y samadhi) conduce a la meta final de Kaivalya, la Absolutud. El yoga no puede conocer barreras de Oriente y Occidente, como tampoco las conoce la luz sanadora y equitativa del sol; el doctor C. G. Jung lo escribió con claridad: «el yoga ofrece la posibilidad de una experiencia controlable, y satisface así la necesidad científica de hechos». Se acerca el día occidental en que la ciencia interior del autodominio resultará tan necesaria como la conquista exterior de la naturaleza: las fuerzas más finas de la mente humana pueden y deben liberar energías mayores que las encerradas en piedras y metales, no sea que el gigante atómico recién desencadenado se vuelva contra el mundo en destrucción sin mente.*
 
+## Capítulo 25: El hermano Ananta y la hermana Nalini
+
+*«Ananta no puede vivir; las arenas de su karma para esta vida se han agotado»:*
+
+> These inexorable words reached my inner consciousness as I sat one morning in deep meditation.
+
+«Estas palabras inexorables llegaron a mi conciencia interior mientras meditaba profundamente una mañana».
+
+Yogananda
+
+*Poco después de entrar en la Orden de los Swamis, visitó su Gorakhpur natal como huésped de su hermano mayor Ananta, a quien una enfermedad repentina postró en cama; lo cuidó con amor, pero el solemne anuncio interior lo llenó de dolor: no podría soportar ver morir a su hermano ante su mirada impotente. Entre las críticas incomprensivas de los parientes, partió en el primer barco disponible, que costeó Birmania y el mar de la China hasta Japón. A la vuelta, el barco tocó Shanghái: allí, guiado por el doctor Misra, el médico de a bordo, compró regalos para su gurú y su familia, y para Ananta una gran pieza de bambú tallado. Apenas el vendedor chino se la entregó, la dejó caer al suelo gritando «¡he comprado esto para mi querido hermano muerto!»:*
+
+> A clear realization had swept over me that his soul was just being freed in the Infinite.
+
+«Una clara comprensión me había invadido: su alma acababa de liberarse en el Infinito».
+
+Yogananda
+
+*El recuerdo quedó aguda y simbólicamente rajado por la caída; entre sollozos escribió sobre el bambú: «para mi amado Ananta, ya partido». El doctor observaba con sonrisa sardónica: «ahorra tus lágrimas; ¿para qué derramarlas hasta estar seguro de que ha muerto?». Al atracar en Calcuta, su hermano menor Bishnu esperaba en el muelle:*
+
+> “I know Ananta has departed this life,” I said to Bishnu, before he had had time to speak.
+
+«"Sé que Ananta ha partido de esta vida", dije a Bishnu, antes de que tuviera tiempo de hablar».
+
+Yogananda
+
+*«Dinos, y al doctor que está aquí, cuándo murió Ananta». Bishnu dio la fecha: el mismo día en que compró los recuerdos en Shanghái. «¡Miren!, exclamó el doctor Misra. ¡Que no se corra la voz de esto! ¡Los profesores añadirán un año de telepatía mental a la carrera de medicina, que ya es bastante larga!». El padre lo abrazó con calidez al entrar en la casa de Gurpar Road; dos grandes lágrimas cayeron de sus ojos, señales de afecto que nunca antes le había mostrado aquel hombre habitualmente reservado:*
+
+> “You have come,” he said tenderly.
+
+«"Has venido", dijo con ternura».
+
+Yogananda
+
+*Poco después de la muerte de Ananta, su hermana menor Nalini fue traída de vuelta desde las puertas de la muerte por una curación divina. La relación infantil entre ambos no había sido de las más felices: él era muy delgado; ella, aún más, y él solía burlarse de su aspecto cadavérico con la franqueza insensible de la juventud. Los años pasaron; Nalini se casó con un joven médico de Calcuta, Panchanon Bose, que no la había visto hasta el día de la ceremonia nupcial. En la noche de bodas, el novio, recostado en un inmenso almohadón de brocado de oro, señaló disimuladamente a la novia, cuyo sari de seda púrpura no alcanzaba a ocultar su angularidad:*
+
+> Feeling my sympathy, Dr. Bose pointed unobtrusively to Nalini, and whispered in my ear, “Say, what’s this?”
+
+«Sintiendo mi simpatía, el doctor Bose señaló discretamente a Nalini y me susurró al oído: "Oye, ¿qué es esto?"».
+
+Yogananda
+
+*«Pues, doctor, respondí, ¡es un esqueleto para su observación!». Con los años, el doctor Bose se ganó el cariño de la familia, y él y Mukunda se hicieron íntimos, bromeando juntos, casi siempre con Nalini como blanco: «he probado de todo con tu flaca hermana: aceite de hígado de bacalao, mantequilla, malta, miel, pescado, carne, huevos, tónicos, y aun así no engorda ni la centésima parte de una pulgada». Un día Nalini lo llamó con voz cordial pero imperiosa: «enterramos el viejo hacha de guerra, querido hermano; veo que tus pies están firmes en el camino espiritual y quiero ser como tú en todo. Mi marido no se me acerca, y lo amo tanto; pero más aún quiero progresar en la realización de Dios, aunque deba seguir delgada y poco atractiva». Llegó a pedir ser su discípula: «entréname como quieras; pongo mi confianza en Dios en lugar de los tónicos», y arrojó un brazado de medicinas por el desagüe del tejado. Como prueba de fe, le pidió suprimir pescado, carne y huevos; meses después, al visitarla, le sonrió con picardía: «¿cuán rolliza quieres ser? ¿Tan gorda como nuestra tía, que no se ve los pies desde hace años?». «¡No!»:*
+
+> But I long to be as stout as you are.”
+> I replied solemnly.
+
+«"Pero yo anhelo estar tan robusta como tú". Respondí solemnemente:».
+
+Yogananda
+
+*«Por la gracia de Dios, como siempre he dicho la verdad, la digo ahora: por las bendiciones divinas, tu cuerpo cambiará de verdad desde hoy; en un mes pesará lo mismo que el mío». Aquellas palabras del corazón hallaron cumplimiento: en treinta días, el peso de Nalini igualó al suyo; la nueva redondez le dio belleza y su marido se enamoró profundamente de ella. A la vuelta de Japón, sin embargo, supo que Nalini había caído con fiebre tifoidea: corrió a su casa y la halló reducida a un esqueleto, en coma. «Los otros médicos y yo no vemos esperanza; tras la larga tifoidea se le ha declarado una disentería sanguinolenta», le dijo el cuñado desesperado. Removió cielo y tierra con sus oraciones y aplicó a su hermana varias técnicas yoguis de curación con la plena cooperación de una enfermera angloindia; la disentería desapareció, pero el doctor Bose sacudió la cabeza con pesar: «sencillamente no le queda más sangre que derramar». «Se recuperará, repliqué con firmeza. En siete días la fiebre habrá desaparecido». Y una semana después, Nalini abrió los ojos y lo miró con amoroso reconocimiento. Sanó con rapidez, pero sus piernas quedaron paralizadas; especialistas indios e ingleses la declararon inválida sin remedio. La guerra incesante por su vida, librada a base de oración, lo había agotado; fue a Serampore a pedir la ayuda de Sri Yukteswar:*
+
+> His eyes expressed deep sympathy as I told him of Nalini’s plight.
+
+«Sus ojos expresaron profunda simpatía mientras le contaba la difícil situación de Nalini».
+
+Yogananda
+
+*«Las piernas de tu hermana estarán normales al cabo de un mes; que lleve, junto a la piel, una banda con una perla de dos quilates sin perforar, sujeta con un broche». Cuando le preguntó si aquello era un análisis astrológico, el maestro sonrió: «hay una astrología más profunda, que no depende del testimonio de calendarios y relojes». Un mes después, las piernas paralizadas de Nalini estaban completamente curadas. Y al despedirse, el gurú añadió un comentario preñado de sentido: «muchos médicos han dicho a tu hermana que jamás podrá tener hijos; asegúrale que dentro de unos años dará a luz dos hijas». Así fue, para alegría de Nalini:*
+
+> “Your master has blessed our home, our entire family,” my sister said.
+
+«"Tu maestro ha bendecido nuestro hogar, a toda nuestra familia", dijo mi hermana».
+
+Yogananda
+
+*«La presencia de un hombre así es una santificación sobre toda la India; dile a Sri Yukteswarji, querido hermano, que, a través de ti, me cuento humildemente como una de sus discípulas de Kriya Yoga».*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
