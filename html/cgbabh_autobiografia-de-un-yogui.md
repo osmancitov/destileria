@@ -1068,6 +1068,70 @@ Ram Gopal
 
 Yogananda
 
+## Capítulo 14: Una experiencia de conciencia cósmica
+
+*Avergonzado tras la escapada frustrada a los Himalayas, regresó a la ermita de Serampore:*
+
+> “I AM HERE, Guruji.”
+
+«Aquí estoy, Guruji».
+
+Yogananda
+
+*El maestro lo recibió sin el menor reproche: vamos a la cocina a buscar algo de comer. «Debo haberte decepcionado con mi partida abrupta; pensé que estarías enojado». «Claro que no: la ira solo brota de deseos frustrados. Yo no espero nada de los demás, así que sus actos no pueden oponerse a mis deseos; no te usaría para mis propios fines: solo soy feliz con tu felicidad verdadera».*
+
+> Sri Yukteswar’s manner was as natural as if hours and not days had separated us.
+
+«El modo de Sri Yukteswar era tan natural como si horas, y no días, nos hubieran separado».
+
+Yogananda
+
+*Se miraron a los ojos, con lágrimas brillando en ambos. Una ola de dicha envolvió al discípulo: el Señor, en la forma de su gurú, expandía los pequeños ardores de su corazón hasta los alcances incompresibles del amor cósmico:*
+
+> “Sir, one hears of divine love in a vague way, but for the first time I am having a concrete example in your angelic self!
+
+«Señor, uno oye hablar del amor divino de manera vaga, pero por primera vez tengo un ejemplo concreto en tu angélica persona».
+
+Yogananda
+
+*Unas mañanas después se encerró en la sala vacía del maestro para meditar, pero sus pensamientos desobedientes se dispersaban como pájaros ante el cazador. «¡Mukunda!», lo llamó Sri Yukteswar desde un balcón interior; el muchacho, tan rebelde como sus pensamientos, guardó silencio obstinado dos veces. A la tercera gritó, protestando: «¡Señor, estoy meditando!».*
+
+> “I know how you are meditating,” my guru called out, “with your mind distributed like leaves in a storm! Come here to me.”
+
+«Ya sé cómo estás meditando: ¡con la mente repartida como hojas en una tormenta! Ven aquí conmigo».
+
+Sri Yukteswar
+
+*Avergonzado y descubierto, se acercó con tristeza. «Pobre muchacho: las montañas no podían darte lo que buscabas», le dijo el maestro con voz cariñosa. «El deseo de tu corazón será cumplido».*
+
+> Sri Yukteswar seldom indulged in riddles; I was bewildered.
+
+«Sri Yukteswar rara vez se daba a las adivinanzas; yo estaba desconcertado».
+
+Yogananda
+
+*Le dio un golpe suave en el pecho, sobre el corazón. El cuerpo quedó enraizado e inmóvil; el aliento salió de los pulmones como atraído por un imán inmenso, y el alma y la mente se derramaron por cada poro como una luz fluida y penetrante. La visión frontal se volvió una vista esférica y total: veía por la nuca a los hombres que paseaban muy abajo por Rai Ghat Road, y a una vaca blanca que seguía viendo con claridad incluso cuando pasó tras la pared de ladrillos. Los objetos temblaban como una película acelerada y luego se fundían en un mar luminiscente, como cristales de azúcar en un vaso de agua agitada; una gloria creciente envolvió pueblos, continentes, sistemas solares y estelares, y el cosmos entero brillaba dentro de la infinidad de su ser mientras la voz creadora de Dios resonaba como Aum. Cuando el aliento volvió de golpe a sus pulmones, la inmensidad infinita se había perdido y el cuerpo era otra vez una jaula humillante. Cayó a los santos pies del maestro, que lo sostuvo en pie y habló con calma: «no debes embriagarte de éxtasis; aún te queda mucho trabajo en el mundo. Ven: barreremos el balcón y luego pasearemos junto al Ganges». Esa era la lección de la vida equilibrada: el alma se extiende sobre los abismos cosmogónicos mientras el cuerpo cumple sus tareas diarias. De esa experiencia nacería años después su poema «Samadhi».*
+
+> One day, however, I took a problem to Master.
+
+«Un día, sin embargo, llevé un problema al maestro».
+
+Yogananda
+
+*«Quiero saber, señor: ¿cuándo encontraré a Dios?». «Ya lo has encontrado». «¡Oh, no, señor, no lo creo!». El gurú sonreía: «imagino que no esperas a un Personaje venerable adornando un trono en algún rincón aséptico del cosmos. Ves, sin embargo, que confundes los poderes milagrosos con el conocimiento de Dios: uno podría poseer el universo entero y seguir encontrando esquivo al Señor. El avance espiritual no se mide por los poderes externos, sino solo por la profundidad de la dicha en la meditación. El Gozo Siempre Nuevo es Dios».*
+
+> “I understand now, sir, why saints call the Lord unfathomable. Even everlasting life could not suffice to appraise Him.”
+
+«Ahora entiendo, señor, por qué los santos llaman insondable al Señor. Ni la vida eterna bastaría para aquilatarlo».
+
+Yogananda
+
+> “That is true; but He is also near and dear.
+
+«Es cierto; pero también está cerca y es querido».
+
+Sri Yukteswar
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
