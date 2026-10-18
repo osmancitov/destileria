@@ -522,6 +522,8 @@ El Swami Tigre
 
 ## Capítulo 7: El santo levitante
 
+![Óleo al estilo de Nicholas Roerich: un anciano yogui de barba abundante medita en postura de loto flotando en el aire sobre su piel de leopardo, mientras un muchacho lo contempla maravillado entre discípulos en penumbra.](img/cgbabh_autobiografia-de-un-yogui_i-7.jpg)
+
 *Un amigo le contó haber visto a un yogi flotar en el aire durante una reunión nocturna; el muchacho adivinó el nombre: Bhaduri Mahasaya, que vivía cerca de su casa y al que visitaba a menudo. El santo llevaba veinte años sin salir de su clausura, dominaba los pranayamas con tal fuerza que una vez pareció levantar una tormenta en la habitación, y luego quedaba en la calma vívida de la superconciencia. Bhaduri lo recibía con libertad («que Mukunda venga cuando quiera»), porque los mundanos no aprecian la franqueza que rompe sus ilusiones:*
 
 > His own face was always serious, yet touched with an ecstatic smile.
