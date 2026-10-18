@@ -842,6 +842,140 @@ Yogananda
 
 Yogananda
 
+## Capítulo 12: Años en la ermita de mi maestro
+
+*Sri Yukteswar lo recibió en su ermita de Serampore con frialdad deliberada: le reclamó la obediencia que le había negado en su primer encuentro, le ordenó volver con su familia y matricularse en la universidad de Calcuta, y le anunció que un día iría a Occidente, donde escucharían mejor a un maestro hindú con título. El muchacho aceptó su autoridad en cada detalle de su vida con una sola condición: «¡Prométame revelarme a Dios!». Tras una hora de forcejeo verbal, la palabra del maestro cayó con finalidad compasiva: «Que tu deseo sea mi deseo».*
+
+> I had found eternal shelter in a true guru.
+
+«Había encontrado refugio eterno en un verdadero gurú».
+
+Yogananda
+
+*Al mostrarle la ermita, una casona antigua de patios con columnas, palomas en el tejado y un jardín de mangos y plátanos, la mirada del muchacho se clavó en un retrato de la pared engalanado con jazmines: Lahiri Mahasaya. El tono de Sri Yukteswar vibró de reverencia:*
+
+> “Greater he was, as man and yogi, than any other teacher whose life came within the range of my investigations.”
+
+«Más grande fue, como hombre y como yogui, que cualquier otro maestro cuya vida llegó al alcance de mis investigaciones».
+
+Sri Yukteswar
+
+*A petición del muchacho, el maestro contó tres recuerdos de infancia, cada uno con su moraleja: el fantasma de la habitación oscura al que salió a buscar («mira el miedo a la cara y dejará de molestarte»), el perro feo del vecino que deseó con obstinación («el apego ciega y presta un halo imaginario al objeto del deseo») y la frase oída a su madre que lo alejó para siempre de todo empleo («las ideas tempranas quedan grabadas en la mente sensible del niño»). A la mañana siguiente le concedió la iniciación del kriya yoga, que ya había recibido de su padre y de su tutor, pero que en presencia del maestro fue otra cosa:*
+
+> At his touch, a great light broke upon my being, like glory of countless suns blazing together.
+
+«A su contacto, una gran luz irrumpió en mi ser, como la gloria de incontables soles ardiendo a la vez».
+
+Yogananda
+
+*Volvió a Calcuta con orden de regresar en treinta días. Ningún pariente hizo los comentarios punzantes que temía sobre el regreso del «ave en vuelo». Subió a su buhardilla y la saludó como a una presencia viva: «Has presenciado mis meditaciones y las lágrimas y tempestades de mi sadhana; ahora he llegado al puerto de mi maestro divino». Su padre, discípulo también de Lahiri Mahasaya, se alegró por los dos:*
+
+> Your master has proved no inaccessible Himalayan saint, but one near-by.
+
+«Tu maestro no ha resultado ser un santo himalayo inaccesible, sino uno cercano».
+
+> My prayers have been answered: you have not in your search for God been permanently removed from my sight.”
+
+«Mis plegarias han sido respondidas: no has sido apartado de mi vista para siempre en tu búsqueda de Dios».
+
+Su padre
+
+*Se matriculó al día siguiente en el Scottish Church College, aunque sus lectores ya imaginarán que se le vio poco por las aulas: la ermita de Serampore ejercía un imán irresistible. La vida allí tenía un ritmo sereno: samadhi antes del alba (se sabía que el maestro había despertado cuando cesaban sus estupendos ronquidos), paseo junto al Ganges, baño, comida de mediodía, visitas por la tarde y discursos al caer la noche:*
+
+> Those morning strolls with my guru—how real and vivid still!
+
+«Aquellos paseos matutinos con mi gurú, ¡cuán reales y vivos todavía!».
+
+Yogananda
+
+*En esas veladas, cada palabra suya parecía medida y cincelada por la sabiduría:*
+
+> I was conscious always that I was in the presence of a living manifestation of God.
+
+«Siempre fui consciente de estar en presencia de una manifestación viviente de Dios».
+
+Yogananda
+
+*Una noche de mosquitos especialmente virulenta, el maestro no dio la orden habitual de colocar las cortinas. Picado de pies a cabeza y medio loco con el zumbido, el discípulo se acercó cautelosamente a su gurú y lo encontró sin respiración, frío e inmóvil; le puso un espejo bajo la nariz y hasta le tapó la boca y las fosas nasales para cerciorarse:*
+
+> This was my first observation of him in the yogic trance; it filled me with fright.
+
+«Era la primera vez que lo observaba en trance yóguico; me llenó de espanto».
+
+Yogananda
+
+*«¡Conque un experimentador en ciernes! ¡Mi pobre nariz!», se rio el maestro al volver en sí. «¿Por qué no te acuestas? ¿Es que el mundo entero va a cambiar por ti? Cámbiate tú: líbrate de la conciencia de mosquito». El muchacho volvió sumiso a su cama y ni un insecto se atrevió a acercarse. Otra tarde, al alzar la mano vengadora contra un mosquito que le clavaba el aguijón, se detuvo recordando el aforismo de Patanjali sobre la ahimsa. «¿Por qué no terminaste la tarea?», le preguntó el maestro, que leía sus procesos mentales como un libro abierto: el golpe mortal ya se había dado en su mente. Y en Puri, un discípulo llamado Prafulla vio al maestro recibir con palmadas rítmicas y risa de bienvenida a una cobra de metro y veinte que se abalanzaba con la capucha desplegada:*
+
+> The serpent, very close to my guru, was now motionless, seemingly magnetized by his caressing attitude.
+
+«La serpiente, muy cerca de mi gurú, quedó entonces inmóvil, como magnetizada por su actitud acariciante».
+
+Prafulla
+
+*La capucha se contrajo poco a poco y la cobra se deslizó entre los pies del maestro hasta perderse en los matorrales. Cuando el joven Yogananda se consumía de dispepsia crónica, flaco y de ojos hundidos, el maestro le dijo: «Las medicinas tienen límites; la fuerza creadora de la vida, ninguno. Cree esto: estarás bien y fuerte». En dos semanas ganó el peso que lo había eludido toda la vida. El propio Sri Yukteswar había pasado por lo mismo: convaleciente en Benarés, Lahiri Mahasaya lo hizo oscilar entre fuerza y debilidad según sus propias expectativas, hasta demostrarle que el pensamiento es una fuerza como la electricidad o la gravitación. «Maestro, si pienso que estoy bien y he recuperado mi peso, ¿sucederá?»:*
+
+> ‘It is so, even at this moment.’
+
+«Así es, en este mismo momento».
+
+Lahiri Mahasaya
+
+*En un solo día ganó veintitrés kilos que lo acompañaron para siempre. Su gurú, despierto en Dios, sabía que este mundo no es sino el sueño objetivado del Creador. Los milagros, en todo caso, no se hacen por capricho:*
+
+> “A man of realization does not perform any miracle until he receives an inward sanction,” Master explained.
+
+«Un hombre de realización no realiza ningún milagro hasta recibir una sanción interior», explicó el maestro.
+
+Sri Yukteswar
+
+*La disciplina de la ermita era drástica: perfeccionista, el gurú no dejaba pasar ni un descuido de etiqueta ni un matiz de conducta, y reprendía con la misma llaneza delante de extraños que a solas. «Si no te gustan mis palabras, eres libre de irte en cualquier momento; no quiero nada de ti salvo tu propia mejora». Y a quienes desdeñaban los deberes mundanos:*
+
+> “Those who are too good for this world are adorning some other,” Sri Yukteswar remarked.
+
+«Quienes son demasiado buenos para este mundo están adornando algún otro», observó Sri Yukteswar.
+
+Sri Yukteswar
+
+*Solo una vez vio el discípulo manso al león divino: cuando su padre salió despavorido de una visita («¡por los comentarios de tu gurú creí encontrarte hecho un completo desastre!») y el hijo fue a reclamar, el maestro, con los ojos bajos, se limitó a decir: «No volveré a hacerlo». Con los años, la relación entre ambos se hizo silenciosa y exacta:*
+
+> My relationship with Sri Yukteswar, somewhat inarticulate, nonetheless possessed all eloquence.
+
+«Mi relación con Sri Yukteswar, algo inarticulada, poseía sin embargo toda la elocuencia».
+
+Yogananda
+
+*Kumar, un muchacho campesino de Bengala oriental de inteligencia brillante, llegó a ser el favorito del maestro, que un día lo puso a cargo de la ermita y degradó a Yogananda a escoba y cocina. La pequeña tiranía duró tres semanas: «Por eso te puse a ti en el salón y a él en la cocina: para que comprendieras que un líder digno desea servir y no dominar». Un año después, Kumar volvió de una visita a su aldea convertido en otro, cargado de malos hábitos, y el maestro, con lágrimas que dominó al instante, encargó a Yogananda comunicarle la expulsión:*
+
+> He has rejected my protection; the callous world must be his guru still.”
+
+«Ha rechazado mi protección; el mundo insensible tendrá que ser su gurú todavía».
+
+Sri Yukteswar
+
+*Alegre sin frivolidad, el maestro recordaba a menudo que la santidad no exige cara larga:*
+
+> “To seek the Lord, one need not disfigure his face,” he would remark.
+
+«Para buscar al Señor no hace falta desfigurarse la cara», solía decir.
+
+Sri Yukteswar
+
+*A los eruditos de pacotilla los despachaba con una sola pregunta. A un pundit que sacudía las vigas del ashram con citas del Mahabharata, las Upanishads y Shankara, le dijo: «Sigo esperando oírte a ti. ¿Qué comentario original puedes aportar desde tu propia vida? ¿Te contentas con ser una vitrola hueca que repite las palabras de otros hombres?». Su método de estudio era el del antiguo maestro Dabru Ballav: un solo pasaje del Bhagavad Gita, media hora de lectura y horas de meditación en silencio:*
+
+> “Wisdom is not assimilated with the eyes, but with the atoms,” he said.
+
+«La sabiduría no se asimila con los ojos, sino con los átomos», decía.
+
+Sri Yukteswar
+
+*Ni los poderosos lo impresionaban. Un magistrado local de fama despótica, con poder de sobra para expulsarlos del ashram de Puri, se jactó entre gritos de haber salido primero en los exámenes de maestría: «Señor magistrado, olvida que esto no es su tribunal. Un título universitario no guarda relación alguna con la realización védica; los santos no se producen en serie cada semestre como los contables». Tras un silencio atónito, el visitante rompió a reír de buena gana:*
+
+> “This is my first encounter with a heavenly magistrate,” he said.
+
+«Es mi primer encuentro con un magistrado celestial», dijo.
+
+El magistrado
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
