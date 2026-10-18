@@ -1926,6 +1926,72 @@ Yogananda
 
 *«La presencia de un hombre así es una santificación sobre toda la India; dile a Sri Yukteswarji, querido hermano, que, a través de ti, me cuento humildemente como una de sus discípulas de Kriya Yoga».*
 
+## Capítulo 26: La ciencia del Kriya Yoga
+
+*La ciencia de Kriya Yoga, mencionada tantas veces en estas páginas, se dio a conocer ampliamente en la India moderna por medio de Lahiri Mahasaya, el gurú de su gurú. La raíz sánscrita de Kriya es kri, hacer, actuar y reaccionar, la misma de la palabra karma: unión con el Infinito mediante cierta acción o rito. Por ciertas antiguas prescripciones yoguis, no puede dar en un libro para el público general una explicación completa: la técnica debe aprenderse de un Kriyaban; aquí basta una referencia amplia. Es un método sencillo, psicofisiológico, por el que la sangre se descarboniza y se recarga de oxígeno, cuyos átomos extra se transmutan en corriente vital que rejuvenece el cerebro y los centros espinales. Elías, Jesús, Kabir y otros profetas fueron maestros consumados en el uso de Kriya o de una técnica similar, con la que desmaterializaban sus cuerpos a voluntad. Kriya es una ciencia antigua: Lahiri Mahasaya la recibió de Babaji, que la redescubrió y aclaró tras perderse en las edades oscuras; «el Kriya Yoga que doy al mundo a través de ti en este siglo XIX, le dijo Babaji, es una reactivación de la misma ciencia que Krishna dio, milenios atrás, a Arjuna, y que conocieron después Patanjali y Cristo, san Juan, san Pablo y otros discípulos». La Bhagavad Gita la refiere en una estrofa: «ofreciendo el aliento inhalado en el exhalado, y el exhalado en el inhalado, el yogui neutraliza ambos alientos; libera así la fuerza vital del corazón y la pone bajo su control»:*
+
+> Thus neutralizing decay and growth, by quieting the heart, the yogi learns life control.”
+
+«Así, neutralizando la decadencia y el crecimiento, al aquietar el corazón, el yogui aprende el control de la vida».
+
+Yogananda
+
+*Patanjali, el máximo exponente del yoga, la menciona dos veces: «el Kriya Yoga consiste en disciplina del cuerpo, control mental y meditación en Aum»; y habla de Dios como el auténtico Sonido Cósmico de Aum que se oye en la meditación, la Palabra Creadora, el sonido del Motor Vibratorio:*
+
+> Even the yoga-beginner soon inwardly hears the wondrous sound of Aum. Receiving this blissful spiritual encouragement, the devotee becomes assured that he is in actual touch with divine realms.
+
+«Hasta el principiante de yoga oye pronto, hacia adentro, el maravilloso sonido de Aum. Al recibir este gozoso estímulo espiritual, el devoto se convence de que está en contacto real con los reinos divinos».
+
+Yogananda
+
+*San Pablo conocía Kriya Yoga, o una técnica muy similar, con la que podía conectar y desconectar a voluntad las corrientes vitales de los sentidos:*
+
+> He was therefore able to say: “Verily, I protest by our rejoicing which I have in Christ , I die daily. ” By daily withdrawing his bodily life force, he united it by yoga union with the rejoicing (eternal bliss) of the Christ consciousness. In that felicitous state, he was consciously aware of being dead to the delusive sensory world of maya.
+
+«Por eso pudo decir: "Os lo juro por el gozo que tengo en Cristo: muero cada día". Retirando a diario la fuerza vital de su cuerpo, la unía por la unión del yoga con el gozo (la dicha eterna) de la conciencia de Cristo. En ese estado feliz era plenamente consciente de estar muerto al engañoso mundo sensorial de maya».
+
+Yogananda
+
+*El cuerpo del hombre medio es como una lámpara de cincuenta vatios, incapaz de alojar los mil millones de vatios que despertaría una práctica excesiva: el principiante emplea su ejercicio solo de catorce a veintiocho veces, dos veces al día, y con el aumento gradual y regular el cuerpo se transforma astralmente día a día. Medio minuto de revolución de la energía alrededor de la sensible médula espinal equivale a un año de desenvolvimiento espiritual natural; mil Kriyas practicadas en ocho horas dan al yogui, en un solo día, el equivalente de mil años de evolución natural. Los efectos rejuvenecedores del sueño se deben a la inconsciencia temporal del cuerpo y la respiración: el durmiente se vuelve un yogui, y cada noche realiza inconscientemente el rito de liberarse de la identificación corporal y de fundir la fuerza vital con las corrientes sanadoras del cerebro y de los seis subdínamos de sus centros espinales:*
+
+> The sleeper thus dips unknowingly into the reservoir of cosmic energy which sustains all life.
+
+«El durmiente se sumerge así, sin saberlo, en el depósito de energía cósmica que sostiene toda vida».
+
+Yogananda
+
+*El yogui voluntario realiza consciente ese proceso simple y natural que el durmiente realiza sin saberlo: satura y alimenta todas sus células físicas con luz imperecedera y las mantiene en estado magnetizado; hace innecesaria la respiración sin producir los estados del sueño subconsciente o la inconsciencia. Desatando el cordón del aliento que liga el alma al cuerpo, Kriya sirve para prolongar la vida y ensanchar la conciencia hasta el infinito:*
+
+> He knows his real nature is bound neither by physical encasement nor by breath, symbol of the mortal enslavement to air, to nature’s elemental compulsions.
+
+«Sabe que su verdadera naturaleza no está ligada ni por el encasillamiento físico ni por el aliento, símbolo de la esclavitud mortal al aire, a las compulsiones elementales de la naturaleza».
+
+Yogananda
+
+*Frente a la introspección, esa manera no científica de forzar la separación entre mente y sentidos, Kriya, que controla la mente directamente a través de la fuerza vital, es la vía más fácil, efectiva y científica de acercamiento al Infinito: frente al lento e incierto «carromato de bueyes» del camino teológico hacia Dios, bien puede llamársela la ruta del «aeroplano». El yoga permite al devoto conectar o desconectar a voluntad la corriente vital de los cinco teléfonos de los sentidos (vista, oído, olfato, gusto y tacto):*
+
+> No longer is he unwillingly brought back by the life force to the mundane sphere of rowdy sensations and restless thoughts.
+
+«Ya no es traído de vuelta a la fuerza por la corriente vital a la esfera mundana de las sensaciones alborotadas y los pensamientos inquietos».
+
+Yogananda
+
+*Amo de su cuerpo y de su mente, el Kriya Yogui alcanza al fin la victoria sobre el «último enemigo», la muerte. «El ritual exterior no puede destruir la ignorancia, porque no se contradicen mutuamente», escribió Shankara en sus famosos Versos del Siglo:*
+
+> “Realized knowledge alone destroys ignorance....
+
+«Solo el conocimiento realizado destruye la ignorancia...».
+
+Yogananda
+
+*El intelecto no tiene respuesta a las preguntas (¿quién soy yo? ¿cómo nació este universo? ¿quién es su hacedor? ¿cuál es su causa material?) y por eso los rishis elaboraron el yoga como técnica de la indagación espiritual. Kriya Yoga es el verdadero «rito del fuego» exaltado en la Bhagavad Gita: el yogui avanzado, reteniendo toda su mente, voluntad y sentimiento de la falsa identificación con los deseos corporales, uniendo su mente a las fuerzas supraconscientes de los santuarios espinales, ofrece sus laberínticos anhelos humanos a una hoguera monoteísta dedicada al Dios sin par:*
+
+> The Ultimate Flame receives the sacrifice of all human madness, and man is pure of dross. His bones stripped of all desirous flesh, his karmic skeleton bleached in the antiseptic suns of wisdom, he is clean at last, inoffensive before man and Maker.
+
+«La Llama Última recibe el sacrificio de toda locura humana, y el hombre queda puro de escoria. Con sus huesos despojados de toda carne de deseo, su esqueleto kármico blanqueado en los soles antisépticos de la sabiduría, está limpio por fin, inofensivo ante el hombre y ante su Hacedor».
+
+Yogananda
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
