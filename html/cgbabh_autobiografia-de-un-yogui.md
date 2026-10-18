@@ -1857,6 +1857,8 @@ Yogananda
 
 ## Capítulo 25: El hermano Ananta y la hermana Nalini
 
+![En el muelle de Shanghái, Mukunda deja caer el bambú tallado comprado para Ananta, que se raja al caer; el doctor Misra observa y, a un lado, Nalini enferma](img/cgbabh_autobiografia-de-un-yogui_i-25.jpg)
+
 *«Ananta no puede vivir; las arenas de su karma para esta vida se han agotado»:*
 
 > These inexorable words reached my inner consciousness as I sat one morning in deep meditation.
