@@ -952,4 +952,248 @@ Recibid el ánimo que podáis: es larga la noche que nunca encuentra el día.
 
 Malcolm
 
+---
+
+## Acto V, escena 1
+
+![Grabado en línea: de noche, Lady Macbeth sonámbula avanza por un pasillo del castillo con una vela en la mano y los ojos vacíos, mientras la doctora y la dama la observan escondidas.](img/cgbaaj_macbeth_i-21.jpg)
+
+*«He velado con vos dos noches», dice el médico a la camarera en la primera frase, «pero no puedo percibir verdad alguna en vuestro informe». Ella lo ha visto: desde que el rey marchó al campo, Lady Macbeth se levanta, escribe, sella y vuelve a la cama, todo en sueño profundo. El médico:*
+
+> A great perturbation in nature, to receive at once the benefit of sleep, and do the effects of watching.
+
+
+
+Una gran perturbación de la naturaleza: recibir a la vez el beneficio del sueño y hacer los efectos de la vigilia.
+
+
+
+Médico
+
+*«Mirad, aquí viene»: con su vela —tiene luz junto a sí continuamente, es orden suya—, los ojos abiertos y los sentidos cerrados, restregándose las manos como lavándolas, un cuarto de hora seguido. «Todavía hay aquí una mancha». Empieza el soliloquio del sueño: «¡Fuera, mancha maldita! ¡Fuera, digo! Una; dos»:*
+
+> Why, then ’tis time to do’t.
+
+
+
+Pues entonces es hora de hacerlo.
+
+
+
+Lady Macbeth
+
+*«¡El infierno es tenebroso! ¡Vaya, mi señor! ¿Un soldado, y con miedo?». «Y sin embargo, ¿quién habría pensado que el viejo tenía tanta sangre en él?». «El thane de Fife tenía una esposa. ¿Dónde está ahora?»:*
+
+> —What, will these hands ne’er be clean?
+
+
+
+¿Cómo, estas manos nunca estarán limpias?
+
+
+
+Lady Macbeth
+
+*«Aquí sigue el olor de la sangre: todos los perfumes de Arabia no endulzarán esta manita». Suspiros. «Lávate las manos, ponte la bata; no te muestres tan pálido. Te lo digo otra vez: Banquo está enterrado; no puede salir de su tumba. A la cama, a la cama. Llaman a la puerta. Ven, ven, ven, ven, dame la mano. Lo hecho no puede deshacerse. A la cama, a la cama, a la cama». Sale. El médico, con la enfermedad ya fuera de su oficio —«necesita más al sacerdote que al médico»—, lo resume:*
+
+> Unnatural deeds Do breed unnatural troubles: infected minds To their deaf pillows will discharge their secrets.
+
+
+
+Los actos contra natura engendran perturbaciones contra natura: las mentes infectadas descargarán sus secretos en sus almohadas sordas.
+
+
+
+Médico
+
+*«Cuidadla; apartad de ella los medios de todo daño y no le quitéis los ojos de encima». «Pienso, pero no me atrevo a hablar». Cierra la camarera: «Buenas noches, buen doctor».*
+
+---
+
+## Acto V, escena 2
+
+![Grabado en línea: un ejército de soldados con lanzas y estandartes marcha por un valle montañoso hacia el castillo de Dunsinane, bajo nubes tormentosas.](img/cgbaaj_macbeth_i-22.jpg)
+
+*Los nobles escoceses marchan a unirse al ejército inglés. «El ejército inglés está cerca, guiado por Malcolm, su tío Siward y el buen Macduff», dice Menteith en la primera frase; en ellos arden las venganzas. ¿Está Donalbain con su hermano? No, seguro que no: la lista de la nobleza trae al hijo de Siward y a muchos jóvenes imberbes que protestan su primera hombría. ¿Qué hace el tirano? Fortifica Dunsinane. Caithness:*
+
+> Some say he’s mad; others, that lesser hate him, Do call it valiant fury: but, for certain, He cannot buckle his distemper’d cause Within the belt of rule.
+
+
+
+Unos dicen que está loco; otros, que lo odian menos, lo llaman furia valiente; pero, con seguridad, no puede abrochar su causa desquiciada dentro del cinturón de la norma.
+
+
+
+Caithness
+
+*Angus: ahora siente sus asesinatos secretos pegados a las manos; los que manda se mueven solo por orden, nada por amor; siente el título colgarle suelto «como la túnica de un gigante sobre un ladrón enano». Menteith: ¿quién culpará entonces a sus sentidos asediados de retroceder y sobresaltarse? Y Caithness cierra la marcha: «Bien, marchemos, para dar obediencia donde de verdad se debe; encontremos la medicina de la república enferma; y con él vertamos, en la purga de nuestro país, cada gota de nosotros». Última frase, de Lennox: «Hagamos nuestra marcha hacia Birnam».*
+
+---
+
+## Acto V, escena 3
+
+![Grabado en línea: en lo alto de las murallas de Dunsinane, Macbeth acorazado señala desafiante al valle donde avanza el ejército enemigo, mientras el médico se encoge a su lado.](img/cgbaaj_macbeth_i-23.jpg)
+
+*Dunsinane sitiado. «No me traigáis más informes; que huyan todos. Hasta que el bosque de Birnam se mude a Dunsinane no puedo mancharme de miedo» — la primera frase es la certeza de las apariciones. ¿Y el niño Malcolm? ¿No nació de mujer? Pues los espíritus lo pronunciaron: ningún nacido de mujer tendrá poder sobre él:*
+
+> ”—Then fly, false thanes, And mingle with the English epicures: The mind I sway by, and the heart I bear, Shall never sag with doubt nor shake with fear.
+
+
+
+Entonces huid, falsos thanes, y mezclaos con los epicúreos ingleses: la mente por la que me guío y el corazón que llevo nunca se hundirán en la duda ni temblarán de miedo.
+
+
+
+Macbeth
+
+*Un sirviente pálido trae noticia de diez mil soldados ingleses; Macbeth lo insulta («ve a pincharte la cara y cubre de rojo tu miedo, muchacho de hígado de lirio») y, ya a solas con Seyton, se le cae la máscara: «Siento náuseas en el corazón... He vivido bastante: mi camino de vida ha caído en la hoja seca y amarilla; y lo que debería acompañar a la vejez, como honor, amor, obediencia, tropas de amigos, no debo esperar tenerlo; en su lugar, maldiciones, no en voz alta sino hondas». «Todo lo que se informó está confirmado, mi señor». «Pelearé hasta que me hagan pedazos la carne de los huesos. Dadme mi armadura». ¿Cómo está su paciente, doctor? Turbada de fantasías que le quitan el sueño. Macbeth pide lo imposible: «¿No puedes asistir a una mente enferma, arrancar de la memoria una pena arraigada, borrar los problemas escritos en el cerebro y, con algún dulce antídoto de olvido, limpiar el pecho colmado de esa materia peligrosa que pesa sobre el corazón?». «En eso el paciente debe asistirse a sí mismo». «Echa la medicina a los perros, no quiero nada de ella». ¿Qué ruibarbo, qué purgante limpiaría de aquí a estos ingleses? Y sale a la muralla:*
+
+> — I will not be afraid of death and bane, Till Birnam forest come to Dunsinane.
+
+
+
+No tendré miedo de la muerte ni de la ruina hasta que el bosque de Birnam venga a Dunsinane.
+
+
+
+Macbeth
+
+*Queda el médico, y suya es la última frase: «Si yo estuviera lejos de Dunsinane y libre, el provecho difícilmente me volvería a traer aquí».*
+
+---
+
+## Acto V, escena 4
+
+![Grabado en línea: el bosque de Birnam avanza: una ladera entera de soldados ocultos tras grandes ramas marcha hacia el castillo de Dunsinane en la cima.](img/cgbaaj_macbeth_i-24.jpg)
+
+*Ante Birnam. «Primos, espero que estén cerca los días en que las alcobas serán seguras», dice Malcolm en la primera frase. ¿Qué bosque es ese? El bosque de Birnam. Orden: «Que cada soldado corte una rama y la lleve ante sí», para que el descubrimiento yerre la cuenta del ejército. Las noticias: «el tirano confiado se mantiene en Dunsinane y soportará que nos asentemos ante ella»; le sirven solo cosas forzadas, con el corazón ausente. Siward:*
+
+> The time approaches, That will with due decision make us know What we shall say we have, and what we owe.
+
+
+
+Se acerca el momento que, con debida decisión, nos hará saber lo que diremos que tenemos y lo que debemos.
+
+
+
+Siward
+
+*Y la última frase: «Los pensamientos especulativos cuentan sus esperanzas inseguras, pero los golpes ciertos han de arbitrar el desenlace; hacia ellos avance la guerra».*
+
+---
+
+## Acto V, escena 5
+
+![Grabado en línea: solo en el salón del trono en penumbra, Macbeth se hunde en el asiento de piedra con la cabeza entre las manos, abatido por la muerte de la reina; una sola antorcha alumbra la escena.](img/cgbaaj_macbeth_i-25.jpg)
+
+*En Dunsinane: «Colgad nuestras banderas en los muros exteriores; el grito sigue siendo: «¡Vienen!»; la fuerza del castillo se reirá del asedio». Un grito de mujeres. «Casi he olvidado el sabor del miedo», dice Macbeth: «Me he saciado de horrores; el espanto, familiar a mis pensamientos asesinos, ya no puede sobresaltarme». ¿Por qué ese grito? «La Reina, mi señor, ha muerto». Y entonces: «Debía haber muerto más adelante. Mañana, y mañana, y mañana, se arrastra a este paso mezquino de día en día, hasta la última sílaba del tiempo escrito; y todos nuestros ayeres han alumbrado a los necios el camino hacia la muerte polvorienta. ¡Apágate, apágate, breve vela! La vida no es más que una sombra que anda; un pobre actor que se pavonea y se agita su hora sobre el escenario y luego no se oye más: es un cuento contado por un idiota, lleno de ruido y de furia, que no significa nada». Llega un mensajero pálido: desde la colina miró hacia Birnam, «y de pronto me pareció que el bosque empezaba a moverse». «¡Mentiroso y esclavo!»:*
+
+> Let me endure your wrath, if’t be not so.
+
+
+
+Que soporte vuestra ira si no es así.
+
+
+
+Mensajero
+
+*«A menos de tres millas podéis verlo venir; digo, una arboleda en marcha». Si mientes, colgarás vivo del próximo árbol. Macbeth, solo:*
+
+> — I pull in resolution; and begin To doubt th’ equivocation of the fiend, That lies like truth.
+
+
+
+Aflojo mi resolución y empiezo a dudar de la equivocación del demonio, que miente como si dijera verdad.
+
+
+
+Macbeth
+
+*«No temas hasta que el bosque de Birnam venga a Dunsinane; y ahora un bosque viene hacia Dunsinane. ¡A las armas!». «Empiezo a cansarme del sol y desearía que el orden del mundo se deshiciera ya». La última frase: «Al menos moriremos con la armadura a la espalda».*
+
+---
+
+## Acto V, escena 6
+
+![Grabado en línea: batalla campal ante las murallas de Dunsinane; caballeros a caballo chocan en medio de la polvareda mientras la infantería lucha alrededor y el castillo humea en lo alto.](img/cgbaaj_macbeth_i-26.jpg)
+
+*Bajo las murallas. «Ahora estamos bastante cerca», abre Malcolm: «Tirad vuestras pantallas de hojas y mostraos tal como sois». El bosque se convierte en ejército. Siward y su hijo abrirán el primer ataque. Siward:*
+
+> — Do we but find the tyrant’s power tonight, Let us be beaten, if we cannot fight.
+
+
+
+Con tal que encontremos esta noche las fuerzas del tirano, que nos derroten si no sabemos pelear.
+
+
+
+Siward
+
+*Última frase, de Macduff: «Haced hablar todas nuestras trompetas; dadles todo el aliento, a esos clamorosos heraldos de sangre y muerte».*
+
+---
+
+## Acto V, escena 7
+
+![Grabado en línea: en medio de la batalla, Macbeth feroz se yergue sobre el joven Siward, que cae de rodillas con la espada alzada en vano.](img/cgbaaj_macbeth_i-27.jpg)
+
+*En plena batalla. «Me han atado a un poste. No puedo huir, sino que, como oso, debo pelear la carrera»: la primera frase es de Macbeth, acorralado pero todavía dentro del hechizo («¿quién hay que no haya nacido de mujer? A ese he de temerle, o a ninguno»). Se cruza el joven Siward. «¿Cuál es tu nombre?»:*
+
+> Thou’lt be afraid to hear it.
+
+
+
+Tendrás miedo de oírlo.
+
+
+
+Macbeth
+
+*«Mi nombre es Macbeth». «El diablo mismo no podría pronunciar un título más odioso a mi oído». Pelean: el joven Siward muere, y Macbeth sale con su certeza intacta («pero me sonrío de las espadas y me burlo de las armas esgrimidas por hombre nacido de mujer»). Macduff lo busca por el campo: «¡Tirano, muestra tu cara!»:*
+
+> If thou be’st slain and with no stroke of mine, My wife and children’s ghosts will haunt me still.
+
+
+
+Si caes muerto sin golpe mío, los fantasmas de mi esposa y de mis hijos me perseguirán siempre.
+
+
+
+Macduff
+
+*«¡Déjame encontrarlo, Fortuna! Y no pido más». Mientras, Siward guía a Malcolm: el castillo se rindió mansamente, los del tirano pelean en ambos bandos, el día casi se declara suyo. Última frase: «Entrad, señor, en el castillo».*
+
+---
+
+## Acto V, escena 8
+
+![Grabado en línea: el duelo final: Macbeth coronado y Macduff traban las espadas en lo alto sobre un campo de batalla sembrado de caídos, con el castillo humeando al fondo.](img/cgbaaj_macbeth_i-28.jpg)
+
+*Último campo. «¿Por qué haría yo el necio romano y moriría sobre mi propia espada?», se dice Macbeth en la primera frase: mientras vea vidas, las cuchilladas hacen mejor efecto sobre ellas. Entra Macduff: «¡Vuélvete, perro del infierno, vuélvete!». «De todos los hombres te he evitado; mi alma está ya demasiado cargada con tu sangre». «No tengo palabras; mi voz está en mi espada». Macbeth presume: «yo llevo una vida hechizada, que no debe ceder ante uno nacido de mujer». Macduff: «Desespera de tu hechizo; y que el ángel a quien siempre has servido te diga que Macduff fue arrancado antes de tiempo del vientre de su madre»:*
+
+> And be these juggling fiends no more believ’d, That palter with us in a double sense; That keep the word of promise to our ear, And break it to our hope!
+
+
+
+¡Y que no se crea más a esos demonios embusteros que juegan con nosotros en doble sentido, que cumplen la palabra de promesa para nuestro oído y la rompen para nuestra esperanza!
+
+
+
+Macbeth
+
+*«No pelearé contigo». «Entonces ríndete, cobarde, y vive para ser el espectáculo y la mirada del tiempo»: te pintaremos en un poste, como a los monstruos raros, con el rótulo «Aquí podéis ver al tirano». «No me rendiré para besar el suelo ante los pies del joven Malcolm y ser azuzado por la maldición de la plebe. Aunque el bosque de Birnam haya venido a Dunsinane, y tú estés frente a mí sin ser nacido de mujer, probaré hasta el final. Delante de mi cuerpo arrojo mi escudo de guerra. ¡Dale, Macduff! ¡Y condenado sea el primero que grite: «¡Alto, basta!»». Salen peleando. En el castillo, la cuenta: Ross trae a Siward la noticia de su hijo —«solo vivió hasta que fue hombre; y apenas su valor lo hubo confirmado en el puesto sin flaqueza donde peleaba, murió como un hombre»— y el viejo: «Pues entonces, ¡sea soldado de Dios!». Entra Macduff con la cabeza: «Mira dónde está la cabeza maldita del usurpador: el tiempo es libre»:*
+
+> I see thee compass’d with thy kingdom’s pearl, That speak my salutation in their minds; Whose voices I desire aloud with mine,— Hail, King of Scotland!
+
+
+
+Te veo rodeado de la perla de tu reino, que dicen mi saludo en sus mentes, y cuyas voces deseo en alto junto a la mía: ¡Salve, rey de Escocia!
+
+
+
+Macduff
+
+*Malcolm rey: sus thanes serán desde hoy condes, los primeros que Escocia nombra con tal honor; llamará de vuelta a los exiliados; sacará a la luz a los ministros crueles «de este carnicero muerto y de su reina de aspecto demoníaco, que, según se piensa, con su propia mano violenta se quitó la vida». Y cierra la obra: «Así, gracias a todos a la vez y a cada uno, a quienes invitamos a vernos coronados en Scone».*
+
 Osmancito, con la asistencia de Instinct
