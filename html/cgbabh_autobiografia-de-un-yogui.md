@@ -2836,6 +2836,72 @@ Yogananda
 
 *Estaba arrodillado ante un anacoreta de cabello enmarañado. «"¡Guruji!, me apresuré a su lado; señor, ¿qué estás haciendo aquí?". "Estoy lavando los pies de este renunciante, y después limpiaré sus utensilios de cocina": Babaji me sonrió como un niño pequeño, y supe que me indicaba que no criticara a nadie, sino que viera al Señor residiendo por igual en todos los templos-cuerpo, fueran de hombres superiores o inferiores. Y el gran gurú añadió: "sirviendo a sadhus sabios e ignorantes, estoy aprendiendo la mayor de las virtudes, la más agradable a Dios por encima de todas: la humildad"».*
 
+## Capítulo 35: La vida de Lahiri Mahasaya, semejante a la de Cristo
+
+*«Así nos conviene cumplir toda justicia»: con estas palabras a Juan el Bautista, al pedirle que lo bautizara, Jesús reconocía los derechos divinos de su gurú. De un estudio reverente de la Biblia desde un punto de vista oriental, y de la percepción intuitiva, estoy convencido de que Juan el Bautista fue, en vidas pasadas, el gurú de Cristo: numerosos pasajes infieren que Juan y Jesús fueron, en sus últimas encarnaciones, Elías y su discípulo Eliseo. El vínculo eterno de gurú y discípulo que existió entre Juan y Jesús estuvo presente también para Babaji y Lahiri Mahasaya: con tierna solicitud, el gurú inmortal nadó las aguas leteas que se arremolinaban entre las dos últimas vidas de su chela, y no fue hasta el año treinta y tres del discípulo cuando Babaji juzgó maduro el tiempo de restablecer abiertamente el vínculo jamás cortado. Tras su breve encuentro cerca de Ranikhet, el maestro desinteresado desterró a su amadísimo discípulo del grupito de la montaña, liberándolo para una misión en el mundo exterior: «hijo mío, vendré cuando me necesites»: ¿qué amante mortal puede otorgar esa promesa infinita? Desconocido para la sociedad en general, un gran renacimiento espiritual comenzó a fluir desde un rincón remoto de Benares: así como la fragancia de las flores no puede reprimirse, Lahiri Mahasaya, viviendo quedamente como hombre de familia ideal, no podía ocultar su gloria innata, y lentamente, de toda la India, las abejas devotas buscaron el néctar divino del maestro liberado:*
+
+> The English office superintendent was one of the first
+
+*«"Señor, parece usted triste; ¿qué le pasa?", le preguntó comprensivo una mañana a su empleador. "Mi esposa, en Inglaterra, está gravemente enferma; me desgarra la ansiedad". "Le traeré noticias de ella": Lahiri Mahasaya salió del cuarto y se sentó un rato en un lugar retirado; a su regreso, sonrió consoladoramente: "su esposa está mejorando; ahora mismo le está escribiendo una carta". El yogui omnisciente citó algunas partes de la misiva:*
+
+> The omniscient yogi quoted some parts of the missive.
+
+> “Ecstatic Babu, I already know that you are no ordinary man.
+
+*El superintendente escéptico no podía creer que su empleado desterrara a voluntad el tiempo y el espacio, pero la carta prometida llegó por fin, y contenía no solo la buena nueva de la recuperación de su esposa, sino las mismas frases que, semanas antes, Lahiri Mahasaya había repetido. La esposa vino a la India unos meses después y visitó la oficina, donde Lahiri Mahasaya estaba sentado quedamente en su escritorio; la mujer se le acercó reverentemente:*
+
+> “Sir,” she said, “it was your form, haloed in glorious light, that I beheld months ago by my sickbed in London. At that moment I was completely healed!
+
+*«"Poco después pude emprender el largo viaje por mar a la India", relató ella misma. Día tras día, uno o dos devotos suplicaban al sublime gurú la iniciación del Kriya; además de estos deberes espirituales y los de su vida de negocios y familia, el gran maestro tomó un entusiasta interés en la educación: organizó muchos grupos de estudio y participó activamente en el crecimiento de una gran escuela superior en el barrio de Bengalitola de Benares. Con estas múltiples actividades, Lahiri Mahasaya buscaba responder al reto común: «después de cumplir los deberes de los negocios y la sociedad, ¿dónde queda tiempo para la meditación devocional?». La vida armoniosamente equilibrada del gran gurú-hombre de familia se volvió la silenciosa inspiración de miles de corazones interrogantes. Aunque instalado en el asiento del Supremo, Lahiri Mahasaya mostraba reverencia a todos los hombres, fuera cual fuera su mérito: cuando sus devotos lo saludaban, él se inclinaba a su vez ante ellos. Un rasgo significativo de su vida fue su regalo de la iniciación del Kriya a personas de toda fe: no solo hindúes, sino musulmanes y cristianos estuvieron entre sus primeros discípulos; y aunque brahmán de alta casta, hizo cuanto pudo por disolver el rígido fanatismo de casta de su tiempo:*
+
+> Reflect that some day you will suddenly have to leave everything in this world—so make the acquaintanceship of God now,” the great guru told his disciples.
+
+*«"Prepárate para el venidero viaje astral de la muerte cabalgando a diario en el globo de la percepción de Dios; por ilusión te percibes como un bulto de carne y huesos, que a lo sumo es un nido de problemas: medita sin cesar, para que pronto te contemples como la Esencia Infinita, libre de toda forma de miseria; deja de ser un prisionero del cuerpo: usando la llave secreta del Kriya, aprende a escapar al Espíritu". El gran gurú alentaba a sus diversos estudiantes a adherirse a la buena disciplina tradicional de su propia fe, y con sabio discernimiento guiaba a sus seguidores a los caminos del Bhakti, el Karma, el Jnana o el Raja Yoga según las tendencias naturales de cada uno, enseñándoles a evitar la discusión teórica de las escrituras:*
+
+> “He only is wise who devotes himself to realizing, not reading only, the ancient revelations,” he said.
+
+*«"Resuelve todos tus problemas a través de la meditación; cambia las especulaciones religiosas infructuosas por el contacto real con Dios; limpia tu mente de escombros teológicos dogmáticos y deja entrar las aguas frescas y sanadoras de la percepción directa". La omnipresencia del maestro quedó demostrada un día ante un grupo de discípulos que escuchaban su exposición de la Bhagavad Gita: mientras explicaba el significado de Kutastha Chaitanya, la Conciencia Crística en toda la creación vibratoria, Lahiri Mahasaya jadeó de pronto y exclamó: «"¡me estoy ahogando en los cuerpos de muchas almas frente a las costas de Japón!"». A la mañana siguiente, los chelas leyeron en el periódico la muerte de muchas personas cuyo barco había naufragado el día anterior cerca de Japón. Los discípulos distantes de Lahiri Mahasaya eran a menudo conscientes de su presencia envolvente:*
+
+> “I am ever with those who practice Kriya,” he said consolingly to chelas who could not remain near him. “I will guide you to the Cosmic Home through your enlarging perceptions.”
+
+*Swami Satyananda supo de un devoto que, imposibilitado de ir a Benares, había recibido no obstante la precisa iniciación del Kriya en un sueño: Lahiri Mahasaya había aparecido a instruir al chela en respuesta a sus oraciones. Si un discípulo descuidaba alguna de sus obligaciones mundanas, el maestro lo corregía y disciplinaba con suavidad: «"las palabras de Lahiri Mahasaya eran suaves y sanadoras, incluso cuando se veía obligado a hablar abiertamente de las faltas de un chela", me dijo una vez Sri Yukteswar, y añadió con pesar:*
+
+> He added ruefully, “No disciple ever fled from our master’s barbs.” I could not help laughing, but I truthfully assured Sri Yukteswar that, sharp or not, his every word was music to my ears.
+
+*Lahiri Mahasaya graduaba cuidadosamente el Kriya en cuatro iniciaciones progresivas, y otorgaba las tres técnicas superiores solo después de que el devoto manifestara un progreso espiritual definido. Un día, cierto chela, convencido de que su valía no era debidamente evaluada, dio voz a su descontento:*
+
+> “Master,” he said, “surely I am ready now
+
+*En ese momento se abrió la puerta para admitir a un humilde discípulo, Brinda Bhagat, un cartero de Benares:*
+
+> The great guru smiled at him affectionately.
+
+*«"Brinda, siéntate aquí junto a mí", dijo el maestro, y preguntó: "¿estás listo para la segunda técnica del Kriya?"». El pequeño cartero juntó las manos en súplica:*
+
+> “Gurudeva,” he said in alarm
+
+*Alarmado ante la sola idea de recibir más, añadió:*
+
+> I have come today to ask your blessings
+
+*«"Ya Brinda nada en el mar del Espíritu", observó el gurú. Ante estas palabras de Lahiri Mahasaya:*
+
+> At these words from Lahiri Mahasaya, his other disciple
+
+*«"Maestro, dijo entonces el chela descontento, veo que he sido un pobre obrero, hallando faltas en mis herramientas"». El cartero, un hombre sin educación, desarrolló después, a través del Kriya, una percepción tal que los eruditos buscaban ocasionalmente su interpretación de puntos escriturales intrincados: inocente por igual del pecado y de la sintaxis, el pequeño Brinda ganó renombre en el dominio de los pandits doctos. Además de los numerosos discípulos de Benares, cientos llegaban de partes distantes de la India; él mismo viajó a Bengala en varias ocasiones, y por un tiempo fue tutor privado del hijo del maharajá de Benares: tanto el maharajá como su hijo buscaron la iniciación del Kriya. Algunos discípulos de influyente posición mundana deseaban expandir el círculo del Kriya por la publicidad, pero el gurú negó su permiso; un chela, médico real del Señor de Benares, inició un esfuerzo organizado para difundir el nombre del maestro como «Kashi Baba», y de nuevo el gurú lo prohibió:*
+
+> “Let the fragrance of the Kriya flower
+
+*«"Sus semillas echarán raíces en el suelo de los corazones espiritualmente fértiles", explicó. Aunque el gran maestro no adoptó el sistema de predicar por el medio moderno de una organización o de la imprenta, sabía que el poder de su mensaje se alzaría como una inundación irresistible, anegando por su propia fuerza las riberas de las mentes humanas: las vidas cambiadas y purificadas de los devotos eran las simples garantías de la vitalidad inmortal del Kriya. En 1886, veinticinco años después de su iniciación en Ranikhet, Lahiri Mahasaya se retiró pensionado: con su disponibilidad diurna, los discípulos lo buscaron en números siempre crecientes; el gran gurú se sentaba ahora en silencio la mayor parte del tiempo, cerrado en la tranquila postura de loto, y rara vez salía de su pequeña sala. Para asombro de todos los observadores, su estado fisiológico habitual exhibía los rasgos sobrehumanos de ausencia de respiración, de sueño, de pulso y latido, ojos calmados sin parpadear por horas y un aura profunda de paz:*
+
+> No visitors departed
+
+*El maestro permitió entonces a su discípulo Panchanon Bhattacharya abrir una «Institución Arya Mission» en Calcuta, y dio a la gente en general, conforme a la antigua costumbre, un aceite de neem para curar diversas enfermedades: cuando el gurú pedía a un discípulo que lo destilara, la tarea se cumplía con facilidad; si lo intentaba cualquier otro, el aceite medicinal casi se evaporaba en la destilación: evidentemente, la bendición del maestro era un ingrediente necesario. Como Jesús y otros grandes profetas, Lahiri Mahasaya no escribió libros, pero sus penetrantes interpretaciones fueron registradas por diversos discípulos: gracias a su celo, el mundo posee comentarios sin par de Lahiri Mahasaya sobre veintiséis escrituras antiguas. Sri Ananda Mohan Lahiri, nieto del maestro, escribió un interesante folleto sobre el Kriya: «"fueron los comentarios de Lahiri Mahasaya los que sacaron a la luz, libres de alegorías, la verdadera ciencia de la religión que había sido tan astutamente escondida en el acertijo de las letras y las imágenes escriturales"». Nuestro afán de actividad mundana mata en nosotros el sentido del asombro espiritual: nuestra relación con la naturaleza es de negocios prácticos, la usamos para servir nuestros propósitos; pero cuando el yo está en comunión con un poder superior, la naturaleza obedece automáticamente, sin estrés ni esfuerzo, la voluntad del hombre:*
+
+> This effortless command over nature
+
+*«La vida de Lahiri Mahasaya puso un ejemplo que cambió la noción errónea de que el yoga es una práctica misteriosa, escribe su nieto: la ley del Kriya Yoga es eterna; es verdadera como las matemáticas: quémense todos los libros de matemáticas, y las mentes lógicas redescubrirán siempre tales verdades; destrúyanse todos los libros sagrados del yoga, y sus leyes fundamentales saldrán a la luz cada vez que aparezca un yogui verdadero que encierre en sí mismo devoción pura y, por consiguiente, conocimiento puro"». Así como Babaji es un Mahavatar y Sri Yukteswar un Jnanavatar o Encarnación de la Sabiduría, Lahiri Mahasaya puede justamente ser llamado Yogavatar, Encarnación del Yoga: por su poder de elevar a sus discípulos cercanos a la estatura de Cristo y por su amplia difusión de la verdad entre las masas, figura entre los salvadores de la humanidad. Su unicidad como profeta reside en su énfasis práctico en un método definido, el Kriya, que abre por primera vez las puertas de la libertad yóguica a todos los hombres. En referencia a los milagros, Lahiri Mahasaya decía a menudo: «"la operación de leyes sutiles desconocidas para la gente en general no debe discutirse ni publicarse sin la debida discriminación"»; si en estas páginas he parecido burlar sus palabras de cautela, es porque el maestro me ha dado un consuelo interior: «"la unión divina, proclamó el Yogavatar, es posible mediante el esfuerzo propio, y no depende de creencias teológicas ni de la voluntad arbitraria de un Dictador Cósmico"». Nueva esperanza para hombres nuevos: por el uso de la llave del Kriya, las personas que no pueden resignarse a creer en la divinidad de hombre alguno contemplarán por fin la plena divinidad de su propio ser.*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
