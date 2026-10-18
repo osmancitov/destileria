@@ -2086,6 +2086,72 @@ Yogananda
 
 *«Quizá lo descubras por otro camino». Años después, en efecto, supo por Swami Keshabananda que Pranabananda, pocos años después de nacer en un nuevo cuerpo, se había ido a Badrinath, en el Himalaya.*
 
+## Capítulo 28: Kashi, renacido y reencontrado
+
+*«Por favor, no se metan al agua; bañémonos echando los cubos», les dijo a los jóvenes estudiantes de Ranchi que lo acompañaban en una caminata de ocho millas a una colina vecina; el estanque ante ellos era tentador, pero una repulsa había surgido en su mente, y no bien unos muchachos sucumbieron a la tentación de las aguas frescas, grandes serpientes de agua ondearon a su alrededor: salieron del estanque con cómica presteza. Tras el almuerzo campestre en el destino, se sentó bajo un árbol rodeado de estudiantes y, encontrándolo en un humor inspirado, lo acribillaron a preguntas:*
+
+> “Please tell me, sir,” one youth inquired
+
+«"Dígame, señor, preguntó un joven, si permaneceré siempre con usted en el camino de la renunciación"».
+
+Yogananda
+
+*«Ah, no, respondió: te llevarán por la fuerza a tu casa, y después te casarás». Incrédulo, el joven protestó con vehemencia: «solo si estoy muerto podrán llevarme a casa»; pero pocos meses después sus padres llegaron a llevárselo pese a su resistencia llorosa, y algunos años más tarde, en efecto, se casó. Luego lo abordó un muchacho llamado Kashi, de unos doce años, alumno brillante y querido por todos: «señor, dijo, ¿cuál será mi destino?». «Pronto morirás»: la respuesta salió de sus labios con una fuerza irresistible, y aquella revelación inesperada lo consternó y afligió tanto a él como a todos los presentes. De regreso a la escuela, Kashi fue a su cuarto sollozando: «si muero, ¿me encontrará cuando renazca y me traerá de nuevo al camino espiritual?». Se vio obligado a rehusar tan difícil responsabilidad oculta, pero durante semanas Kashi insistió con tenacidad; viéndolo deshecho hasta el límite, al fin lo consoló:*
+
+> “Yes,” I promised. “If the Heavenly Father lends His aid, I will try to find you.”
+
+«"Sí, prometí. Si el Padre Celestial presta su ayuda, trataré de encontrarte"».
+
+Yogananda
+
+*Durante las vacaciones de verano emprendió un viaje corto y, lamentando no poder llevar a Kashi, lo llamó a su cuarto antes de partir y le instruyó con cuidado que permaneciera, contra toda persuasión, en las vibraciones espirituales de la escuela: de algún modo sentía que si no volvía a casa podría evitar la calamidad inminente. No bien se fue, el padre de Kashi llegó a Ranchi y durante quince días intentó doblegar la voluntad de su hijo; por fin dijo que se lo llevaría con ayuda de la policía, y Kashi, que no quería causar publicidad desfavorable a la escuela, no vio más opción que ir. Al volver a Ranchi y saber cómo se habían llevado a Kashi, tomó el tren a Calcuta de inmediato; muy extrañamente, al pasar el coche de caballos más allá del puente de Howrah sobre el Ganges, vio al padre de Kashi y a otros parientes vestidos de luto. «¡Señor asesino, gritó algo irrazonablemente, usted ha matado a mi muchacho!». El padre ya había comprendido el mal que había hecho: en los pocos días en Calcuta, el niño comió alimentos contaminados, contrajo el cólera y falleció. Su amor por Kashi y la promesa de encontrarlo tras la muerte lo perseguían noche y día; fuera donde fuera, el rostro del muchacho se alzaba ante él, y emprendió una búsqueda memorable, como la que de niño hizo por su madre perdida. Puesto que Dios le había dado la facultad de razonar, debía emplearla al máximo para descubrir las leyes sutiles por las que conocer el paradero astral del muchacho: un alma vibrante de deseos incumplidos, una masa de luz flotando en algún lugar entre millones de almas luminosas en las regiones astrales:*
+
+> How was I to tune in with him
+
+«¿Cómo iba a sintonizar con él, entre tantas luces vibrantes de otras almas?».
+
+Yogananda
+
+*Con una técnica yoga secreta, emitía su amor al alma de Kashi por el micrófono del ojo espiritual, el punto interior entre las cejas; con la antena de las manos y los dedos en alto, se giraba una y otra vez intentando localizar la dirección en que Kashi había renacido como embrión, esperando respuesta en la radio de su corazón afinada por la concentración. Sentía intuitivamente que Kashi volvería pronto a la tierra, y sabía que el más leve impulso enviado por él se sentiría en sus dedos, manos, brazos, columna y nervios. Con celo inmermado practicó el método yoga con constancia durante unos seis meses tras la muerte de Kashi. Una mañana, caminando con unos amigos por el atestado barrio de Bowbazar en Calcuta, levantó las manos como de costumbre y por primera vez hubo respuesta: se estremeció al detectar impulsos eléctricos que corrían por sus dedos y palmas:*
+
+> These currents translated themselves
+
+«Esas corrientes se tradujeron en un solo pensamiento arrollador desde un recoveco profundo de mi conciencia: "Soy Kashi; soy Kashi; ¡ven a mí!"».
+
+Yogananda
+
+*El pensamiento se hizo casi audible al concentrarse en la radio de su corazón: en el susurro característico, levemente ronco de Kashi, oyó su llamado una y otra vez. Tomó del brazo a su compañero Prokash Das y le sonrió gozoso: «¡parece que he localizado a Kashi!». Y comenzó a girar sobre sí mismo, para diversión nada disimulada de sus amigos y del gentío: los impulsos eléctricos hormigueaban en sus dedos solo al mirar hacia un sendero cercano, acertadamente llamado «Serpentine Lane»; en otras direcciones, las corrientes astrales desaparecían. «¡Ah, exclamó, el alma de Kashi debe de vivir en el vientre de alguna madre cuya casa está en este callejón!». Al acercarse, las vibraciones de sus manos en alto se hicieron más fuertes, más pronunciadas; como por un imán, lo arrastraron hacia el lado derecho del camino, y al llegar a la entrada de cierta casa se quedó como clavado, asombrado. Llamó a la puerta conteniendo el aliento, en un estado de intensa excitación: sentía que el final feliz había llegado para su larga, ardua y ciertamente inusual búsqueda. El dueño de casa bajó la escalera y le sonrió inquisitivo; él apenas sabía cómo formular su pregunta, a la vez pertinente e impertinente: «dígame, señor, ¿llevan usted y su esposa unos seis meses esperando un hijo?». «Sí, así es»:*
+
+> Seeing that I was a swami, a renunciate attired
+
+«Al ver que yo era un swami, un renunciante ataviado con la tela naranja tradicional, añadió cortésmente: "Le ruego me informe cómo conoce mis asuntos"».
+
+Yogananda
+
+*Al oír lo de Kashi y la promesa dada, el hombre asombrado creyó su historia. «Les nacerá un niño de tez clara, le dijo; tendrá la cara ancha, con un remolino en lo alto de la frente»:*
+
+> His disposition will be notably spiritual.
+
+«Su disposición será notablemente espiritual».
+
+Yogananda
+
+*Más tarde visitó al niño, al que sus padres volvieron a llamar Kashi:*
+
+> Even in infancy he was strikingly similar
+
+«Ya de infante se parecía asombrosamente a mi querido estudiante de Ranchi».
+
+Yogananda
+
+*El niño le mostró un afecto instantáneo: la atracción del pasado despertó con redoblada intensidad. Años después, el muchacho adolescente le escribió durante su estancia en América:*
+
+> He explained his deep longing to follow the path of a renunciate. I directed him to a Himalayan master who, to this day, guides the reborn Kashi.
+
+«Explicó su honda ansia de seguir el camino del renunciante. Lo dirigí a un maestro del Himalaya que, hasta el día de hoy, guía al renacido Kashi».
+
+Yogananda
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
