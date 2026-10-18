@@ -134,9 +134,10 @@ Uma, su hermana
 
 ## Capítulo 2: La muerte de mi madre y el amuleto místico
 
+
 ![Óleo al estilo de Nicholas Roerich: un amuleto de plata con grabados astrológicos flota brillando sobre la palma de un niño hindú mientras la figura de su madre en sari se disuelve en luz dorada; al fondo, picos del Himalaya.](img/cgbabh_autobiografia-de-un-yogui_i-2.jpg)
 
-*El deseo más grande de la madre era ver casado a Ananta, el hijo mayor. Todo estaba listo en Calcuta para la boda cuando el niño, de unos once años, tuvo una visión a medianoche en Bareilly: su madre se le apareció junto a la cama y le pidió que despertara al padre y tomara el primer tren si querían verla con vida. El padre no creyó. Por la mañana llegó el telegrama: madre grave, boda pospuesta, vengan de inmediato. Llegaron tarde. Años pasaron antes de que el dolor cediera, y la sanación llegó como respuesta a sus gritos:*
+*El deseo más grande de la madre era ver casado a Ananta, el hijo mayor. Todo estaba listo en Calcuta para la boda cuando el niño, en Bareilly, tuvo una visión a medianoche: su madre se le apareció junto a la cama y le pidió despertar al padre:*
 
 > “It is I who have watched over thee, life after life, in the tenderness of many mothers! See in My gaze the two black eyes, the lost beautiful eyes, thou seekest!”
 
@@ -170,13 +171,13 @@ La madre
 
 *El maestro sentó al bebé en su regazo y profetizó que sería un yogui que llevaría muchas almas a Dios. Pero el suceso más singular de su vida fue otro: un sadhu, un asceta errante, apareció un día en Lahore pidiendo ver «a la madre de Mukunda»:*
 
-> ‘Mother,’ he said, ‘the great masters wish you to know that your stay on earth will not be long.’
+> ‘Mother,’ he said, ‘the great masters wish you to know that your stay on earth will not be long.
 
-«Madre —dijo—, los grandes maestros desean que sepas que tu estancia en la tierra no será larga».
+«Madre, dijo, los grandes maestros desean que sepas que tu estancia en la tierra no será larga».
 
 El sadhu
 
-*El sadhu anunció un amuleto de plata que se materializaría en las manos de ella al meditar; debía legarlo a Mukunda cuando estuviera listo para buscar a Dios, y, cumplido su propósito, desaparecería. A la tarde siguiente, el amuleto apareció entre sus palmas, frío y liso. Lo guardó más de dos años. Su despedida:*
+*El sadhu anunció un amuleto de plata que se materializaría en las manos de ella al meditar; debía legarlo a Mukunda y, cumplido su propósito, desaparecería. A la tarde siguiente apareció entre sus palmas:*
 
 > Do not grieve for me, as I shall have been ushered by my great guru into the arms of the Infinite.
 
@@ -184,13 +185,15 @@ El sadhu
 
 La madre
 
-*Con el amuleto en su poder, el niño sintió despertar memorias dormidas: venía de maestros de vidas pasadas que guiaban sus pasos. Mientras tanto, el muchacho que no lograba escaparse al Himalaya viajaba lejos cada día en las alas de su amuleto.*
+*Con el amuleto, el niño sintió despertar memorias de maestros de vidas pasadas; el que no lograba escaparse al Himalaya viajaba cada día en las alas de su amuleto.*
+
 
 ## Capítulo 3: El santo de los dos cuerpos
 
+
 ![Óleo al estilo de Nicholas Roerich: el doble luminoso de un yogui se aparece ante un niño asombrado mientras su cuerpo medita en otra parte; celda sencilla de Benarés, picos del Himalaya por la ventana.](img/cgbabh_autobiografia-de-un-yogui_i-3.jpg)
 
-*El padre le permitió un viaje a Benarés con dos cartas: una para un amigo suyo cuya dirección había perdido, y otra de presentación para el swami Pranabananda, discípulo de Lahiri Mahasaya, que sabría encontrarlo. El swami lo recibió como a un viejo amigo, adivinó quién era antes de leer la carta y bromeó: gozaba de dos pensiones, una del ferrocarril por recomendación del padre y otra «del Padre Celestial», una pensión de paz insondable. Luego cayó en un silencio de esfinge, del que salió solo para anunciar que el hombre buscado llegaría en media hora. El niño no entendía nada:*
+*El padre le permitió un viaje a Benarés con dos cartas, una de presentación para el swami Pranabananda, discípulo de Lahiri Mahasaya, que lo recibió como a un viejo amigo y le contó algo asombroso:*
 
 > The swami has spoken to no one but myself since my arrival!
 
@@ -254,7 +257,7 @@ Swami Pranabananda
 
 Swami Pranabananda
 
-*Pidió entonces al maestro que lo librara del empleo; este le mandó pedir la pensión y decir lo que sentía: que una sensación arrolladora le subía por la columna y lo inutilizaba para el trabajo. El médico se la concedió sin más preguntas:*
+*Pidió al maestro que lo librara del empleo; este le mandó pedir la pensión diciendo la verdad de lo que sentía, y el médico se la concedió sin más preguntas:*
 
 > Automatically they obeyed the great guru’s spiritual direction, and freed me for a life of unbroken communion with the Beloved.
 
@@ -433,9 +436,10 @@ Yogananda
 
 ## Capítulo 6: El Swami Tigre
 
+
 ![Óleo al estilo de Nicholas Roerich: un hombre titánico de melena y barba, solo con una piel de tigre en la cintura, pelea a puño limpio con un enorme tigre de Bengala dentro de una jaula de hierro, ante una multitud que contiene el aliento.](img/cgbabh_autobiografia-de-un-yogui_i-6.jpg)
 
-*Un amigo de la escuela, Chandi, consiguió la dirección del famoso Sohong Swami, que antes de ser monje peleaba tigres a puño limpio. Tras una larga espera (la ley no escrita de la India: el buscador de la verdad debe tener paciencia), entraron en su cuarto y se quedaron mudos ante su cuerpo titánico: bíceps como balones, ojos con algo de paloma y de tigre, y por toda ropa una piel de tigre en la cintura. ¿Cómo se somete a puñetazos a un bengalí real? «Ustedes ven tigres; yo veo gatitos», se rio él. El muchacho objetó que podría convencer a su subconsciente, pero no al tigre. La clave, explicó el swami, es que la mente empuña los músculos: el cuerpo lo fabrica y lo sostiene la mente. Y confesó su propio comienzo:*
+*Un amigo de la escuela, Chandi, consiguió la dirección del famoso Sohong Swami, que antes de ser monje peleaba tigres a puño limpio. Tras una larga espera, entraron en su cuarto y lo hallaron en posición de loto:*
 
 > My will was mighty, but my body was feeble.
 
@@ -495,7 +499,7 @@ El Swami Tigre
 
 El Swami Tigre
 
-*El día del combate, ante miles de espectadores aterrados, entró en la jaula semidesnudo. El tigre le destrozó la mano derecha de un zarpazo; él escondió los dedos sangrantes bajo la ropa y peleó con la izquierda hasta derrumbar a la bestia de un golpe final. «¡Como un gatito!», interpuso el muchacho, y el swami rio de gusto. Aún le abrió las fauces y metió la cabeza dentro, lo encadenó, y cuando el tigre traicionero rompió la cadena y se le echó encima, lo volvió a inmovilizar. La ciudad entró en fiesta, le llovieron monedas de oro y le regalaron a Raja Begum, pero:*
+*El día del combate, ante miles de espectadores aterrados, entró en la jaula semidesnudo. El tigre le destrozó la mano derecha de un zarpazo; escondió los dedos sangrantes bajo la ropa y peleó con la izquierda hasta derrumbar a la bestia de un golpe final:*
 
 > A spiritual change had entered my heart.
 
@@ -606,6 +610,7 @@ J. C. Bose
 
 ## Capítulo 9: El devoto dichoso y su romance cósmico
 
+
 ![Óleo al estilo de Nicholas Roerich: un santo de barba blanca ora en éxtasis ante un altar con flores de champak mientras la Madre Divina, radiante, se le aparece entre luz dorada; un muchacho contempla arrodillado.](img/cgbabh_autobiografia-de-un-yogui_i-9.jpg)
 
 *Entró en silencio en la habitación y el santo lo recibió sin volverse: «Siéntate, señorcito; estoy hablando con mi Madre Divina»:*
@@ -640,7 +645,7 @@ Master Mahasaya
 
 Master Mahasaya
 
-*Discípulo de Sri Ramakrishna, Master Mahasaya lo llevó en barca por el Ganges al templo de Dakshineswar, donde cantaba el nombre de la Madre hasta romperle el corazón en mil pedazos. Su romance con la Beloved era inagotable y práctico: una tarde, acorralados por un conocido vanidoso que no paraba de hablar, le susurró al muchacho que la Madre había prometido recordarle al pesado «asuntos más urgentes» al llegar a la casa roja de la esquina; y así ocurrió, a mitad de frase. Otra vez lo sorprendió criticando en silencio a unos devotos que cantaban mecánicamente: «¿No es verdad, señorcito, que el nombre de la Amada suena dulce en todos los labios, ignorantes o sabios?»:*
+*Discípulo de Sri Ramakrishna, lo llevó en barca por el Ganges al templo de Dakshineswar, donde cantaba el nombre de la Madre hasta romperle el corazón. Una tarde, acorralados por un tormentón, llegaron secos a casa por su intercesión:*
 
 > “He can serve as an earthly prototype for the very angels of heaven!”
 
@@ -648,7 +653,7 @@ Master Mahasaya
 
 Yogananda
 
-*Un día le ofreció ir a ver «bioscopos». El primero fue una conferencia universitaria mortalmente aburrida, de la que la Madre Divina los rescató apagando las luces de la sala hasta que salieron. El segundo fue mejor: un golpecito suave en el pecho, y la Calcuta entera pasó ante sus ojos en silencio absoluto y omnipresente, como una película muda bañada en una luz apacible, hasta que otro golpecito devolvió el estrépito del mundo. De ese hijo seráfico de la Madre Divina cierra el capítulo:*
+*Un día le ofreció ir a ver «bioscopos»: el primero, una conferencia mortalmente aburrida de la que la Madre Divina los rescató apagando las luces; el segundo, un golpecito suave en el pecho que le abrió la visión cósmica:*
 
 > But ever enshrined in memory is the seraphic son of Divine Mother-Master Mahasaya!
 
@@ -766,6 +771,7 @@ Yogananda
 
 ## Capítulo 11: Dos muchachos sin un céntimo en Brindaban
 
+
 ![Los dos muchachos agasajados con un banquete principesco en la ermita de Brindaban](img/cgbabh_autobiografia-de-un-yogui_i-11.jpg)
 
 *En Agra, su hermano Ananta lo sermoneó: el padre haría bien en desheredarlo por tirar la vida. «Dios primero; el dinero es su esclavo», respondió el muchacho. Y como seguía declarándose independiente de la fortuna paterna, Ananta le propuso poner su filosofía a prueba en el mundo tangible. Los términos: ir con Jitendra a Brindaban esa misma mañana sin una rupia, sin mendigar, sin revelar su apuro a nadie, sin faltar a ninguna comida y sin quedarse varados; si volvía antes de medianoche, sería el hombre más asombrado de Agra:*
@@ -798,7 +804,7 @@ Ananta
 
 Un desconocido del tren
 
-*La anfitriona, Gauri Ma, esperaba ese día a dos príncipes que habían cancelado a última hora: el banquete de treinta platos, digno de príncipes, fue para los dos muchachos. Jitendra rompió a llorar; Mukunda le devolvió el pellizco: «Tomás el incrédulo: el Señor trabaja, y con prisa». Después, bajo un árbol cadamba, Jitendra recayó en la duda («¿cómo vamos a ver la ciudad sin una pice?»), y un joven de agradable semblante se acercó a ofrecerse de guía. Ante el extraño honor, Mukunda preguntó por qué:*
+*La anfitriona, Gauri Ma, esperaba ese día a dos príncipes que habían cancelado a última hora: el banquete de treinta platos fue para los dos muchachos. Jitendra rompió a llorar; Mukunda le devolvió el pellizco: «Tomás el incrédulo: el Señor no abandona»:*
 
 > “You are my guru.”
 
@@ -828,7 +834,7 @@ Yogananda, a Pratap
 
 Ananta
 
-*Esa misma noche Ananta recibió la iniciación: el «gurú» Mukunda cargó con dos discípulos no buscados en un solo día. Tras una visita al Taj Mahal, Jitendra se quedó en Calcuta con su familia, y el muchacho llegó solo a Serampore: habían pasado veintiocho días desde Benarés. «Vendrás a mí en cuatro semanas»:*
+*Esa misma noche Ananta recibió la iniciación. Tras una visita al Taj Mahal, el muchacho llegó solo a Serampore: habían pasado veintiocho días.*
 
 > Here I was, heart pounding, standing within his courtyard on quiet Rai Ghat Lane.
 
@@ -841,6 +847,8 @@ Yogananda
 «Entré por primera vez en la ermita donde pasaría la mejor parte de los diez años siguientes con el Jyanavatar de la India, la “encarnación de la sabiduría”».
 
 Yogananda
+
+
 
 ## Capítulo 12: Años en la ermita de mi maestro
 
@@ -1071,6 +1079,7 @@ Yogananda
 
 ## Capítulo 14: Una experiencia de conciencia cósmica
 
+
 ![La conciencia cósmica: el yogui medita en el patio de la ermita mientras de su cuerpo irradia una luz que contiene galaxias y nebulosas](img/cgbabh_autobiografia-de-un-yogui_i-14.jpg)
 
 *Avergonzado tras la escapada frustrada a los Himalayas, regresó a la ermita de Serampore:*
@@ -1081,7 +1090,7 @@ Yogananda
 
 Yogananda
 
-*El maestro lo recibió sin el menor reproche: vamos a la cocina a buscar algo de comer. «Debo haberte decepcionado con mi partida abrupta; pensé que estarías enojado». «Claro que no: la ira solo brota de deseos frustrados. Yo no espero nada de los demás, así que sus actos no pueden oponerse a mis deseos; no te usaría para mis propios fines: solo soy feliz con tu felicidad verdadera».*
+*El maestro lo recibió sin reproche: «la ira solo brota de deseos frustrados. Yo no espero nada de los demás; no te usaría para mis propios fines: solo soy feliz con tu felicidad verdadera»:*
 
 > Sri Yukteswar’s manner was as natural as if hours and not days had separated us.
 
@@ -1089,7 +1098,7 @@ Yogananda
 
 Yogananda
 
-*Se miraron a los ojos, con lágrimas brillando en ambos. Una ola de dicha envolvió al discípulo: el Señor, en la forma de su gurú, expandía los pequeños ardores de su corazón hasta los alcances incompresibles del amor cósmico:*
+*Se miraron a los ojos, con lágrimas brillando en ambos. Una ola de dicha envolvió al discípulo: el Señor, en la forma de su gurú, expandía los pequeños ardores de su corazón hasta el amor cósmico:*
 
 > “Sir, one hears of divine love in a vague way, but for the first time I am having a concrete example in your angelic self!
 
@@ -1097,7 +1106,7 @@ Yogananda
 
 Yogananda
 
-*Unas mañanas después se encerró en la sala vacía del maestro para meditar, pero sus pensamientos desobedientes se dispersaban como pájaros ante el cazador. «¡Mukunda!», lo llamó Sri Yukteswar desde un balcón interior; el muchacho, tan rebelde como sus pensamientos, guardó silencio obstinado dos veces. A la tercera gritó, protestando: «¡Señor, estoy meditando!».*
+*Unas mañanas después se encerró en la sala vacía del maestro para meditar, pero sus pensamientos se dispersaban como pájaros ante el cazador. «¡Mukunda!», lo llamó Sri Yukteswar desde un balcón interior; el muchacho guardó silencio obstinado dos veces y a la tercera gritó: «¡Señor, estoy meditando!».*
 
 > “I know how you are meditating,” my guru called out, “with your mind distributed like leaves in a storm! Come here to me.”
 
@@ -1113,7 +1122,7 @@ Sri Yukteswar
 
 Yogananda
 
-*Le dio un golpe suave en el pecho, sobre el corazón. El cuerpo quedó enraizado e inmóvil; el aliento salió de los pulmones como atraído por un imán inmenso, y el alma y la mente se derramaron por cada poro como una luz fluida y penetrante. La visión frontal se volvió una vista esférica y total: veía por la nuca a los hombres que paseaban muy abajo por Rai Ghat Road, y a una vaca blanca que seguía viendo con claridad incluso cuando pasó tras la pared de ladrillos. Los objetos temblaban como una película acelerada y luego se fundían en un mar luminiscente, como cristales de azúcar en un vaso de agua agitada; una gloria creciente envolvió pueblos, continentes, sistemas solares y estelares, y el cosmos entero brillaba dentro de la infinidad de su ser mientras la voz creadora de Dios resonaba como Aum. Cuando el aliento volvió de golpe a sus pulmones, la inmensidad infinita se había perdido y el cuerpo era otra vez una jaula humillante. Cayó a los santos pies del maestro, que lo sostuvo en pie y habló con calma: «no debes embriagarte de éxtasis; aún te queda mucho trabajo en el mundo. Ven: barreremos el balcón y luego pasearemos junto al Ganges». Esa era la lección de la vida equilibrada: el alma se extiende sobre los abismos cosmogónicos mientras el cuerpo cumple sus tareas diarias. De esa experiencia nacería años después su poema «Samadhi».*
+*Le dio un golpe suave en el pecho. El cuerpo quedó inmóvil; el aliento salió de los pulmones como atraído por un imán, y el alma se derramó por cada poro como una luz fluida. La visión se volvió esférica: veía por la nuca a los hombres que paseaban por Rai Ghat Road. El cosmos, luminoso como una ciudad vista de noche, vibraba dentro de su omnipresencia: era la dicha inefable del samadhi cósmico. Cuando el maestro le habló, volvió a su constitución limitada con un estremecimiento:*
 
 > One day, however, I took a problem to Master.
 
@@ -1121,7 +1130,7 @@ Yogananda
 
 Yogananda
 
-*«Quiero saber, señor: ¿cuándo encontraré a Dios?». «Ya lo has encontrado». «¡Oh, no, señor, no lo creo!». El gurú sonreía: «imagino que no esperas a un Personaje venerable adornando un trono en algún rincón aséptico del cosmos. Ves, sin embargo, que confundes los poderes milagrosos con el conocimiento de Dios: uno podría poseer el universo entero y seguir encontrando esquivo al Señor. El avance espiritual no se mide por los poderes externos, sino solo por la profundidad de la dicha en la meditación. El Gozo Siempre Nuevo es Dios».*
+*«¿Cuándo encontraré a Dios?». «Ya lo has encontrado». «¡Oh, no, señor, no lo creo!». El gurú sonreía: «confundes los poderes milagrosos con el conocimiento de Dios: uno podría poseer el universo entero y seguir encontrándolo esquivo»:*
 
 > “I understand now, sir, why saints call the Lord unfathomable. Even everlasting life could not suffice to appraise Him.”
 
@@ -1137,9 +1146,10 @@ Sri Yukteswar
 
 ## Capítulo 15: El robo de la coliflor
 
+
 ![En la playa de Puri, un hombre se aleja cargando una enorme coliflor como un tesoro, bajo la mirada sonriente de Sri Yukteswar](img/cgbabh_autobiografia-de-un-yogui_i-15.jpg)
 
-*Para las vacaciones de verano se instaló con su gurú en la ermita de Puri, frente a la bahía de Bengala, y le llevó un regalo ceremonial: seis enormes coliflores plantadas con sus propias manos y cuidadas con la ternura de una madre que amamanta a su criatura. A la mañana siguiente, en la caminata por la playa, el maestro hizo marchar a los discípulos en dos filas al compás de una cancioncilla, y de pronto se detuvo: «¿te acordaste de cerrar con llave la puerta trasera de la ermita?». «Creo que sí, señor»:*
+*Para las vacaciones de verano se instaló con su gurú en la ermita de Puri y le llevó un regalo: seis enormes coliflores plantadas y cuidadas con sus propias manos. En la caminata por la playa, el maestro le dijo algo inquietante:*
 
 > Sri Yukteswar was silent for a few minutes, a half-suppressed smile on his lips.
 
@@ -1147,7 +1157,7 @@ Sri Yukteswar
 
 Yogananda
 
-*«No, lo olvidaste. La contemplación divina no debe ser excusa para el descuido material: has faltado a tu deber de custodiar el ashram y serás castigado. Tus seis coliflores pronto serán solo cinco». Ya de regreso, el maestro lo mandó observar el camino: un campesino apareció bailando grotescamente y agitando los brazos, y al llegar al punto donde se perdería de vista, Sri Yukteswar dijo «ahora volverá». El hombre giró en el acto hacia la parte trasera del ashram:*
+*«La contemplación divina no es excusa para el descuido: faltaste a tu deber de custodiar el ashram y serás castigado. Tus seis coliflores pronto serán solo cinco». El maestro lo mandó observar el camino: un campesino apareció bailando grotescamente:*
 
 > I had left it unlocked, even as my guru had said.
 
@@ -1155,7 +1165,7 @@ Yogananda
 
 Yogananda
 
-*El hombre salió al poco rato con una de las preciadas coliflores, caminando ya respetablemente, investido de la dignidad de la posesión. Yogananda salió en persecución indignada, pero el maestro lo llamó de vuelta, sacudido de risa de pies a cabeza: «ese pobre loco llevaba tiempo anhelando una coliflor; me pareció buena idea que consiguiera una de las tuyas, ¡tan mal guardadas!». El ladrón, de fijación vegetal, no había tocado los anillos de oro, el reloj ni el dinero que estaban a la vista sobre la manta. Esa noche le pidió una explicación:*
+*El hombre salió con una de las coliflores, ya respetable, investido de la dignidad de la posesión. Yogananda salió en persecución, pero el maestro lo llamó de vuelta, sacudido de risa: «ese pobre loco anhelaba una coliflor; me pareció buena idea que consiguiera una de las tuyas»:*
 
 > My guru shook his head slowly. “You will understand it someday.
 
@@ -1163,7 +1173,7 @@ Yogananda
 
 Yogananda
 
-*«La ciencia pronto descubrirá algunas de estas leyes ocultas». Años después, cuando la radio asombró al mundo, recordó la predicción: los pensamientos no son más que vibraciones suavísimas que viajan por el éter, y su gurú era una radio humana perfecta, capaz de captar entre millones de voluntades la de un hombrecillo que ansiaba una coliflor, y de emitir la orden de retroceder y buscarla. Pocos días después desapareció una lámpara de queroseno. Convencido de la omnisciencia recién presenciada, esperó que el maestro la localizara como un juego de niños. Con gravedad exagerada, Sri Yukteswar interrogó a todos los residentes, recibió la confesión de un discípulo que la había usado para ir al pozo, y sentenció solemne: «buscad la lámpara cerca del pozo». Corrió allá: ¡nada!*
+*«La ciencia pronto descubrirá algunas de estas leyes ocultas». Años después, cuando la radio asombró al mundo, recordó la predicción: los pensamientos son vibraciones suavísimas que viajan por el éter, y su gurú era una radio humana perfecta:*
 
 > I realized that Master would never display his powers when challenged, or for a triviality.
 
@@ -1171,7 +1181,7 @@ Yogananda
 
 Yogananda
 
-*¡Qué lástima no haberte guiado hasta la lámpara desaparecida: no soy un adivino!, se rio el maestro sin compunsión. ¡Ni siquiera un Sherlock Holmes satisfactorio! Semanas deliciosas siguieron. Para la procesión religiosa por el pueblo y la playa de Puri, en uno de los días más calurosos del verano, el discípulo protestó desesperado: «Guruji, ¿cómo llevar a los estudiantes descalzos sobre las arenas ardientes?».*
+*«No soy un adivino», se rio el maestro sin compunción. Para la procesión religiosa por la playa, en uno de los días más calurosos, el discípulo protestó: «¿cómo llevar a los estudiantes descalzos bajo este sol?»:*
 
 > “I will tell you a secret,” Master responded.
 
@@ -1179,7 +1189,7 @@ Yogananda
 
 Yogananda
 
-*«El Señor enviará un paraguas de nubes; caminarán cómodos». Apenas salieron de la ermita con el estandarte de Sat-Sanga, la parte del cielo sobre sus cabezas se llenó de nubes como por magia y cayó una llovizna leve que refrescó las calles y el arenal durante las dos horas del desfile; en el instante exacto del regreso al ashram, nubes y lluvia pasaron sin dejar rastro:*
+*«El Señor enviará un paraguas de nubes». Apenas salieron, el cielo sobre sus cabezas se llenó de nubes y cayó una llovizna leve durante las dos horas del desfile; al regresar al ashram, pasó sin dejar rastro:*
 
 > “You see how God feels for us,” Master replied after I had expressed my gratitude.
 
@@ -1187,7 +1197,7 @@ Yogananda
 
 Sri Yukteswar
 
-*El capítulo prosigue con el festival del solsticio de invierno en Serampore: procesión descalza con cien voces y flautas, calles sembradas de flores, calderos humeantes de khichuri bajo el patio, sankirtan con armonio en el piso alto y el maestro, de oído perfecto, dejando a los cocineros para corregir a los cantores: «¡están desafinados!». A medianoche, lavados ya los calderos, el gurú lo llamó a su lado: «estoy complacido con tus alegres labores; te quiero conmigo: esta noche dormirás en mi cama»:*
+*En el festival de invierno en Serampore hubo procesión, flores y khichuri humeante; el maestro, de oído perfecto, dejaba a los cocineros para corregir a los cantores: «¡están desafinados!». A medianoche compartió por primera vez su habitación con el discípulo:*
 
 > I felt a tinge of unreality in the unexpected joy of sleeping beside my guru.
 
@@ -1195,7 +1205,7 @@ Sri Yukteswar
 
 Yogananda
 
-*Apenas diez minutos después de acostarse, el maestro se levantó y empezó a vestirse: «cualquier estudiante que perdió su tren llegará pronto; tengamos comida lista». «¡Guruji, nadie vendría a la una de la mañana!». «Quédate en cama, que has trabajado muy duro. Pero yo voy a cocinar». Ante el tono resuelto, el discípulo saltó de la cama y lo siguió a la cocinita. El arroz y el dhal ya hervían cuando el maestro sonrió afectuoso: «esta noche has vencido la fatiga y el miedo al trabajo duro; nunca volverán a molestarte»:*
+*Diez minutos después se levantó y empezó a vestirse: «cualquier estudiante que perdió su tren llegará pronto; tengamos comida lista». Ante el tono resuelto, el discípulo lo siguió a la cocinita:*
 
 > As he uttered these words of lifelong blessing, footsteps sounded in the courtyard.
 
@@ -1211,7 +1221,7 @@ Yogananda
 
 Un estudiante
 
-*«Los ha estado esperando y en este momento les prepara la comida», resonó la voz acogedora de Sri Yukteswar. Y cuando los visitantes atónitos estuvieron en la cocina, el maestro se volvió hacia él con ojos chispeantes: «ahora que han terminado de cotejar notas, ¡sin duda quedaste satisfecho de que nuestros invitados sí perdieron su tren!».*
+*«Los ha estado esperando», resonó la voz de Sri Yukteswar. Y añadió con ojos chispeantes: «¡sin duda quedaste satisfecho de que nuestros invitados sí perdieron su tren!».*
 
 > I followed him to his bedroom a half hour later, realizing fully that I was about to sleep beside a godlike guru.
 
