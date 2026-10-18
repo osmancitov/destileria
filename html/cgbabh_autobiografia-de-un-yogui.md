@@ -1136,6 +1136,8 @@ Sri Yukteswar
 
 ## Capítulo 15: El robo de la coliflor
 
+![En la playa de Puri, un hombre se aleja cargando una enorme coliflor como un tesoro, bajo la mirada sonriente de Sri Yukteswar](img/cgbabh_autobiografia-de-un-yogui_i-15.jpg)
+
 *Para las vacaciones de verano se instaló con su gurú en la ermita de Puri, frente a la bahía de Bengala, y le llevó un regalo ceremonial: seis enormes coliflores plantadas con sus propias manos y cuidadas con la ternura de una madre que amamanta a su criatura. A la mañana siguiente, en la caminata por la playa, el maestro hizo marchar a los discípulos en dos filas al compás de una cancioncilla, y de pronto se detuvo: «¿te acordaste de cerrar con llave la puerta trasera de la ermita?». «Creo que sí, señor»:*
 
 > Sri Yukteswar was silent for a few minutes, a half-suppressed smile on his lips.
