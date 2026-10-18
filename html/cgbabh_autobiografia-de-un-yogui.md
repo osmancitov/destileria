@@ -1491,6 +1491,8 @@ Yogananda
 
 ## Capítulo 20: No visitamos Cachemira
 
+![Mukunda, enfermo, reposa con la cabeza sobre el regazo de Sri Yukteswar, que le acaricia la frente en la ermita de Serampore](img/cgbabh_autobiografia-de-un-yogui_i-20.jpg)
+
 *Tercer verano con el mismo plan: llevar al maestro y a cuatro amigos a las faldas del Himalaya durante las vacaciones. El padre soltó una carcajada: «es la tercera vez que me vienes con el mismo cuento; a última hora, Sri Yukteswarji se niega a ir». Aun así, al día siguiente, entre bromas de buen humor, le entregó seis pases de tren y un rollo de billetes de diez rupias: «apenas creo que tu viaje teórico necesite apoyos tan prácticos, pero aquí los tienes». Aquella tarde Mukunda exhibió su botín ante Sri Yukteswar, que sonrió ante su entusiasmo sin comprometerse: «me gustaría ir; ya veremos». La salida quedó fijada para el lunes siguiente, y el lunes temprano el muchacho llegó a Serampore con su equipaje:*
 
 > Rajendra met me at the hermitage door.
