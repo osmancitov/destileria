@@ -182,4 +182,80 @@ La madre
 
 *Con el amuleto en su poder, el niño sintió despertar memorias dormidas: venía de maestros de vidas pasadas que guiaban sus pasos. Mientras tanto, el muchacho que no lograba escaparse al Himalaya viajaba lejos cada día en las alas de su amuleto.*
 
+## Capítulo 3: El santo de los dos cuerpos
+
+*El padre le permitió un viaje a Benarés con dos cartas: una para un amigo suyo cuya dirección había perdido, y otra de presentación para el swami Pranabananda, discípulo de Lahiri Mahasaya, que sabría encontrarlo. El swami lo recibió como a un viejo amigo, adivinó quién era antes de leer la carta y bromeó: gozaba de dos pensiones, una del ferrocarril por recomendación del padre y otra «del Padre Celestial», una pensión de paz insondable. Luego cayó en un silencio de esfinge, del que salió solo para anunciar que el hombre buscado llegaría en media hora. El niño no entendía nada:*
+
+> The swami has spoken to no one but myself since my arrival!
+
+«¡El swami no ha hablado con nadie más que conmigo desde que llegué!».
+
+Yogananda
+
+*Bajó las escaleras y se topó con Kedar Nath Babu, que subía apurado: el swami lo había encontrado bañándose en el Ganges una hora antes y lo había invitado a su casa, donde, le dijo, lo esperaba el hijo de Bhagabati. El niño se quedó helado:*
+
+> “Why, that man, Swami Pranabananda, has not left my sight a moment since I first came about an hour ago.”
+
+«Pero si ese hombre, el swami Pranabananda, no se ha apartado de mi vista ni un momento desde que llegué, hace una hora».
+
+Yogananda
+
+*Subieron juntos. El visitante susurró, señalando las sandalias de madera del santo:*
+
+> “He was clad only in a loincloth, just as I see him now.”
+
+«Iba vestido solo con el taparrabo, tal como lo veo ahora».
+
+Kedar Nath Babu
+
+*El swami sonrió y explicó que para los yoguis verdaderos la unidad del mundo no es un misterio: pueden verse y conversar a distancia y atravesar a voluntad la materia. Luego habló de su maestro:*
+
+> He was Divinity Itself in the form of flesh.
+
+«Era la Divinidad misma en forma de carne».
+
+Swami Pranabananda
+
+*Y contó su propia historia: ocho años meditando media noche después del trabajo en el ferrocarril, con percepciones luminosas, pero:*
+
+> But a little veil always remained between me and the Infinite.
+
+«Pero siempre quedaba un velo sutil entre el Infinito y yo».
+
+Swami Pranabananda
+
+*Una noche entera suplicó a Lahiri Mahasaya que intercediera por él. La respuesta del maestro fue escueta:*
+
+> You must meditate more profoundly.
+
+«Debes meditar más profundamente».
+
+Lahiri Mahasaya
+
+*El discípulo insistió hasta el alba; al fin el maestro extendió la mano: «Ya intercedí por ti ante Brahma; ve a meditar».*
+
+> Immeasurably uplifted, I returned to my home. In meditation that night, the burning Goal of my life was achieved.
+
+«Inmensamente elevado, volví a mi casa. En la meditación de esa noche, la meta ardiente de mi vida se cumplió».
+
+Swami Pranabananda
+
+*Desde entonces:*
+
+> Never from that day has the Blissful Creator remained hidden from my eyes behind any screen of delusion.
+
+«Desde ese día, el Creador bienaventurado jamás ha vuelto a esconderse de mis ojos tras ninguna pantalla de ilusión».
+
+Swami Pranabananda
+
+*Pidió entonces al maestro que lo librara del empleo; este le mandó pedir la pensión y decir lo que sentía: que una sensación arrolladora le subía por la columna y lo inutilizaba para el trabajo. El médico se la concedió sin más preguntas:*
+
+> Automatically they obeyed the great guru’s spiritual direction, and freed me for a life of unbroken communion with the Beloved.
+
+«Obedecieron automáticamente la dirección espiritual del gran gurú, y me liberaron para una vida de comunión ininterrumpida con el Amado».
+
+Swami Pranabananda
+
+*Al despedirse, el swami bendijo al niño y le profetizó que su vida pertenecía al camino de la renunciación y el yoga, y que volverían a verse, con su padre, más adelante. Los años cumplieron ambas predicciones.*
+
 Osmancito, con la asistencia de Instinct
