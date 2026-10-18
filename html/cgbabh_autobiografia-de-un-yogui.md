@@ -980,6 +980,8 @@ El magistrado
 
 ## Capítulo 13: El santo que no dormía
 
+![El joven Yogananda encuentra a Ram Gopal, el santo que no duerme, esperándolo en el sendero de un campo dorado](img/cgbabh_autobiografia-de-un-yogui_i-13.jpg)
+
 *A los seis meses de vida en la ermita, una de esas ilusiones imprevisibles que asaltan al devoto le hizo sentir una impaciencia creciente por los deberes de la ermita y los estudios: pidió permiso a su maestro para irse a los Himalayas:*
 
 > I hope in unbroken solitude to achieve continuous divine communion.”
