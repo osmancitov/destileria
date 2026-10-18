@@ -2986,295 +2986,457 @@ Yogananda
 
 ## Capítulo 37: Parto hacia América
 
-*«¡América! ¡Seguramente esta gente es americana!»: este fue mi pensamiento cuando una visión panorámica de rostros occidentales pasó ante mi vista interior. Sumido en meditación, estaba sentado detrás de unas cajas polvorientas en el depósito de la escuela de Ranchi: ¡un lugar privado era difícil de hallar en aquellos años atareados con los muchachos! La visión continuó: una vasta multitud, mirándome fijamente, cruzó como actores por el escenario de la conciencia. La puerta del depósito se abrió; como de costumbre, uno de los jovencitos había descubierto mi escondite: «"ven aquí, Bimal, exclamé alegre: tengo noticias para ti: ¡el Señor me llama a América!". "¿A América?: el muchacho repitió mis palabras en un tono que daba a entender que yo había dicho "a la luna". "¡Sí! Voy a descubrir América, como Colón"*:
+*Año 1920. En el almacén de la escuela de Ranchi, meditando entre cajas polvorientas, Yogananda tiene una visión: una multitud de caras occidentales lo mira fijamente. Sale y le da la noticia al niño Bimal: el Señor lo llama a América. El niño lo escucha como si dijera «a la luna»:*
 
-> He thought he had found India; surely there is a karmic link between those two lands!”
+> “Yes! I am going forth to discover America, like Columbus. He thought he had found India; surely there is a karmic link between those two lands!”
 
-*Bimal salió disparado y pronto el periódico de dos piernas informó a toda la escuela; convoqué al desconcertado profesorado y le entregué la escuela a su cargo: «"sé que mantendréis siempre al frente los ideales yóguicos de educación de Lahiri Mahasaya, les dije: os escribiré con frecuencia; si Dios quiere, algún día volveré"». Las lágrimas me asomaron a los ojos al echar una última mirada a los pequeños y a las soleadas hectáreas de Ranchi: una época definida de mi vida se había cerrado, lo sabía; en adelante moraría en tierras lejanas. Tomé el tren a Calcuta pocas horas después de mi visión, y al día siguiente recibí una invitación para servir como delegado de la India ante un Congreso Internacional de Liberales Religiosos en América, que se reuniría ese año en Boston bajo los auspicios de la Asociación Unitaria Americana. Con la cabeza dando vueltas, busqué a Sri Yukteswar en Serampore: «"Guruji, acabo de ser invitado a dirigirme a un congreso religioso en América: ¿voy?". "Todas las puertas están abiertas para ti, respondió el maestro con sencillez: es ahora o nunca". "Pero, señor, dije consternado, ¿qué sé yo de oratoria? Rara vez he dado una conferencia, y nunca en inglés". "Inglés o no inglés, tus palabras sobre el yoga serán oídas en Occidente". Reí: "bueno, querido guruji, ¡no creo que los americanos aprendan bengalí!: bendíceme, por favor, con un empujón sobre las vallas del idioma inglés"». Cuando le di la noticia de mis planes a Padre, quedó absolutamente desconcertado: América le parecía increíblemente remota, y temía no volver a verme jamás: «"¿cómo puedes ir?, preguntó severo: ¿quién te financiará?"»: como había sufragado afectuosamente los gastos de mi educación y de toda mi vida, sin duda esperaba que su pregunta detuviera mi proyecto de un modo embarazoso. «"El Señor seguramente me financiará"*:
+«¡Sí! Salgo a descubrir América, como Colón. Él creía haber encontrado la India; seguro que hay un lazo kármico entre esas dos tierras.»
 
-> As I made this reply, I thought of the similar one I had given long ago to my brother Ananta in Agra.
+Yogananda
 
-*Sin mucha malicia, añadí: «"Padre, quizá Dios te ponga en la mente ayudarme". "¡No, nunca!": me miró con pesar. Me quedé atónito, por tanto, cuando al día siguiente Padre me entregó un cheque por una suma considerable»:*
+*Al día siguiente llega la confirmación: una invitación para ser delegado de la India en un Congreso Internacional de Liberales Religiosos, en Boston. Corre a Serampore a consultarlo con su maestro, que lo despacha sin dudar: todas las puertas están abiertas; es ahora o nunca. Falta, sin embargo, el dinero. Su padre, que ha pagado toda su vida, se niega al principio; pero al día siguiente le entrega un cheque por una gran suma:*
 
 > “I give you this money,” he said, “not in my capacity as a father, but as a faithful disciple of Lahiri Mahasaya.
 
-*«"Ve entonces a esa lejana tierra occidental; difunde allí las enseñanzas sin credo del Kriya Yoga". Me conmovió inmensamente el espíritu desinteresado con que Padre había podido dejar tan rápido de lado sus deseos personales: la justa comprensión le había llegado durante la noche anterior de que ningún deseo ordinario de viaje extranjero motivaba mi viaje»:*
+«Te doy este dinero, dijo, no como padre, sino como fiel discípulo de Lahiri Mahasaya.»
+
+El padre
+
+*La despedida es dura; el padre tiene sesenta y siete años:*
 
 > “Perhaps we shall not meet again in this life.”
 
-*Padre, que tenía entonces sesenta y siete años, habló con tristeza; una convicción intuitiva me impulsó a responder:*
+«Quizá no volvamos a vernos en esta vida.»
+
+El padre
+
+*Yogananda responde de una manera que ni él mismo esperaba:*
 
 > An intuitive conviction prompted me to reply, “Surely the Lord will bring us together once more.”
 
-*Mientras hacía mis preparativos para dejar al maestro y mi tierra natal por las costas desconocidas de América, sentí no poca aprensión: había oído muchas historias sobre la atmósfera materialista occidental, tan distinta del trasfondo espiritual de la India, impregnado del aura secular de los santos: «"un maestro oriental que se atreva con los aires occidentales, pensé, ¡debe ser más resistente que ante cualquier frío himalayo!"». Una mañana temprano comencé a orar, con la determinación inflexible de continuar, de morir orando incluso, hasta oír la voz de Dios: quería su bendición y la seguridad de que no me perdería en las nieblas del utilitarismo moderno; mi corazón estaba decidido a ir a América, pero con más fuerza aún estaba resuelto a oír el consuelo del permiso divino. Oré y oré, ahogando mis sollozos: no llegó respuesta alguna; mi silenciosa petición creció en un crescendo tortuoso hasta que, al mediodía, alcancé un cenit: mi cerebro ya no resistía la presión de mis agonías; sentí que, si lloraba una vez más con mayor profundidad de pasión interior, mi cerebro se partiría. En ese momento llamaron fuera del vestíbulo contiguo al cuarto de la calle Gurpar en que yo estaba sentado: al abrir la puerta, vi a un joven con las ropas escasas de un renunciante; entró, cerró la puerta tras sí y, rehusando mi invitación a sentarse, indicó con un gesto que deseaba hablarme de pie:*
+Una convicción intuitiva me impulsó a responder: «Seguro que el Señor nos juntará una vez más.»
+
+Yogananda
+
+*Antes de partir quiere también el permiso divino: ora toda una mañana, decidido a no moverse hasta oír la voz de Dios. Al mediodía, a punto de estallar, llaman a la puerta: un joven con el mísero atuendo de un renunciante, con los rasgos de un Lahiri Mahasaya joven:*
 
 > “He must be Babaji!” I thought, dazed, because the man before me had the features of a younger Lahiri Mahasaya.
+>
+> He answered my thought. “Yes, I am Babaji.”
 
-> He answered my thought.
+«¡Debe de ser Babaji!», pensé, aturdido, porque el hombre que tenía ante mí tenía los rasgos de un Lahiri Mahasaya joven. Él respondió a mi pensamiento. «Sí, soy Babaji.»
 
-*«"Sí, soy Babaji": habló melodiosamente en hindi: "nuestro Padre Celestial ha oído tu oración y me ordena decirte: sigue los mandatos de tu gurú y ve a América; no temas; serás protegido"*:
+Yogananda
 
-> After a vibrant pause, Babaji addressed me again.
+*El maestro inmortal le trae la respuesta del cielo: que siga las órdenes de su gurú y vaya a América, sin miedo, que será protegido. Y añade:*
 
-*«"Tú eres el que he elegido para difundir el mensaje del Kriya Yoga en Occidente: hace mucho conocí a tu gurú Yukteswar en una Kumbha Mela; le dije entonces que te enviaría a él para tu formación"*:
+> After a vibrant pause, Babaji addressed me again. “You are the one I have chosen to spread the message of Kriya Yoga in the West. Long ago I met your guru Yukteswar at a Kumbha Mela; I told him then I would send you to him for training.”
 
-> I was speechless, choked with devotional awe at his presence, and deeply touched to hear from his own lips that he had guided me to Sri Yukteswar. I lay prostrate before the deathless guru.
+Tras una pausa vibrante, Babaji se dirigió a mí de nuevo. «Tú eres el que he elegido para difundir el mensaje del kriya yoga en Occidente. Hace tiempo me encontré con tu gurú Yukteswar en un Kumbha Mela; le dije entonces que te enviaría a él para formarte.»
 
-*Él me levantó bondadosamente del suelo:*
+Babaji
 
-> Telling me many things about my life, he then gave me some personal instruction, and uttered a few secret prophecies.
+*Cuando se marcha, Yogananda intenta seguirlo y descubre que tiene los pies clavados al suelo:*
 
-*«"El Kriya Yoga, la técnica científica de la realización de Dios, dijo finalmente con solemnidad, se difundirá al fin por todas las tierras y ayudará a armonizar las naciones mediante la percepción personal y trascendental del hombre del Padre Infinito". Con una mirada de poder majestuoso, el maestro me electrizó con un destello de su conciencia cósmica, y al poco rato se encaminó hacia la puerta»:*
+> “Do not try to follow me,” he said. “You will not be able to do so.”
 
-> “Do not try to follow me,” he said.
+«No intentes seguirme, dijo. No podrás hacerlo.»
 
-*«"No podrás hacerlo". "¡Por favor, Babaji, no te vayas!, grité repetidamente: ¡llévame contigo!". Mirando atrás, respondió: "ahora no; alguna otra vez". Vencido por la emoción, desoí su advertencia: al intentar perseguirlo, descubrí que mis pies estaban firmemente enraizados en el suelo; desde la puerta, Babaji me dio una última mirada afectuosa, alzó la mano en señal de bendición y se alejó, con mis ojos fijos en él anhelantes. A los pocos minutos mis pies quedaron libres; me senté y entré en una meditación profunda, agradeciendo sin cesar a Dios no solo por responder mi oración, sino por bendecirme con un encuentro con Babaji:*
+Babaji
+
+*Desde la puerta, Babaji le regala una última mirada afectuosa y una bendición. Minutos después, sus pies quedan libres:*
 
 > My whole body seemed sanctified through the touch of the ancient, ever-youthful master.
 
-*Largo tiempo había sido mi deseo ardiente contemplarlo. Hasta ahora nunca he relatado a nadie esta historia de mi encuentro con Babaji: teniéndola por la más sagrada de mis experiencias humanas, la he escondido en mi corazón; pero me ocurrió pensar que los lectores de esta autobiografía estarían más inclinados a creer en la realidad del recluido Babaji y de sus intereses mundanos si relataba que lo vi con mis propios ojos: ayudé a un artista a trazar un retrato fiel del gran Yogui-Cristo de la India moderna, que aparece en este libro.*
+Todo mi cuerpo parecía santificado por el contacto del maestro antiguo y eternamente joven.
 
-> The eve of my departure for the United States found me in Sri Yukteswar’s holy presence.
+Yogananda
 
-*«"Olvida que naciste hindú, y no seas un americano: toma lo mejor de ambos, dijo el maestro en su calmada manera de sabiduría: sé tu verdadero yo, un hijo de Dios; busca e incorpora a tu ser las mejores cualidades de todos tus hermanos, esparcidos por la tierra en varias razas"»:*
+*La víspera de la partida, la bendición de Sri Yukteswar:*
 
-> Then he blessed me: “All those who come to you with faith, seeking God, will be helped.
+> Then he blessed me: “All those who come to you with faith, seeking God, will be helped. As you look at them, the spiritual current emanating from your eyes will enter into their brains and change their material habits, making them more God-conscious.”
 
-*«"Al mirarlos, la corriente espiritual que emana de tus ojos entrará en sus cerebros y cambiará sus hábitos materiales, haciéndolos más conscientes de Dios"*:
+Entonces me bendijo: «Todos los que vengan a ti con fe, buscando a Dios, serán ayudados. Al mirarlos, la corriente espiritual que emane de tus ojos entrará en sus cerebros y cambiará sus hábitos materiales, haciéndolos más conscientes de Dios.»
 
-> He went on, “Your lot to attract sincere souls is very good.
+Sri Yukteswar
 
-*«"Dondequiera que vayas, incluso en un desierto, encontrarás amigos". Ambas bendiciones se han demostrado ampliamente: llegué solo a América, a un desierto sin un solo amigo, y allí hallé miles dispuestos a recibir las enseñanzas del alma probadas por el tiempo. Dejé la India en agosto de 1920 en El City of Sparta, el primer barco de pasajeros que zarpó hacia América tras el cierre de la Primera Guerra Mundial; pude reservar pasaje solo tras la remoción, por medios casi milagrosos, de muchas dificultades burocráticas relacionadas con la concesión de mi pasaporte. Durante el viaje de dos meses, un compañero de pasaje descubrió que yo era el delegado indio al congreso de Boston y me pidió que favoreciera a los pasajeros con una conferencia el jueves por la noche: "la batalla de la vida y cómo pelearla". ¡Ay!: descubrí el miércoles que tenía que pelear la batalla de mi propia vida: intentando desesperadamente organizar mis ideas en una conferencia en inglés, abandoné por fin toda preparación: mis pensamientos, como un potro salvaje que mira una silla de montar, rehusaban toda cooperación con las leyes de la gramática inglesa; confiando plenamente, sin embargo, en las garantías pasadas del maestro, comparecí ante mi audiencia del jueves en el salón del vapor: ninguna elocuencia subió a mis labios; sin habla, me quedé de pie ante la asamblea, y tras un concurso de resistencia de diez minutos, la audiencia comprendió mi apuro y comenzó a reír»:*
+*Y una promesa más:*
+
+> He went on, “Your lot to attract sincere souls is very good. Everywhere you go, even in a wilderness, you will find friends.”
+
+Y siguió: «Tu suerte para atraer almas sinceras es muy buena. Dondequiera que vayas, incluso en un desierto, encontrarás amigos.»
+
+Sri Yukteswar
+
+*En agosto de 1920 zarpa en el City of Sparta, el primer barco de pasajeros que sale para América tras la guerra. Cuando le toca hablar en inglés ante los pasajeros, se bloquea:*
 
 > The situation was not funny to me at the moment; indignantly I sent a silent prayer to Master.
 
-*«"¡Puedes! ¡Habla!": su voz sonó al instante dentro de mi conciencia. Mis pensamientos cayeron de inmediato en una relación amistosa con el idioma inglés: cuarenta y cinco minutos después, la audiencia seguía atenta; la charla me ganó varias invitaciones a conferenciar luego ante diversos grupos de América»:*
+La situación no me hacía ninguna gracia en ese momento; indignado, envié una oración silenciosa al maestro.
+
+Yogananda
+
+*Entonces las palabras empezaron a fluir solas, en un inglés correcto, durante cuarenta y cinco minutos:*
 
 > I never could remember, afterward, a word that I had spoken.
 
-*Por discretas preguntas supe de varios pasajeros: «"diste una conferencia inspiradora en un inglés vibrante y correcto"»: ante esta deliciosa noticia agradecí humildemente a mi gurú su ayuda oportuna, comprendiendo de nuevo que él estaba siempre conmigo, anulando todas las barreras de tiempo y espacio. De vez en cuando, durante el resto del viaje oceánico, sentí algunas punzadas aprensivas ante la prueba venidera de la conferencia en inglés del congreso de Boston: «"Señor, oré, por favor, que mi inspiración seas Tú mismo, y no otra vez las bombas de risa de la audiencia"». El City of Sparta atracó cerca de Boston a fines de septiembre; el seis de octubre me dirigí al congreso con mi discurso inaugural en América: fue bien recibido, y suspiré aliviado; el magnánimo secretario de la Asociación Unitaria Americana escribió en la crónica publicada del congreso: «"el Swami Yogananda, delegado del Brahmacharya Ashram de Ranchi, India, trajo los saludos de su asociación al congreso: en un inglés fluido y una entrega enérgica dio un discurso de carácter filosófico sobre "la ciencia de la religión", impreso luego en folleto para una distribución más amplia; la religión, sostuvo, es universal y es una: no podemos universalizar costumbres y convicciones particulares, pero el elemento común de la religión puede universalizarse, y podemos pedir a todos por igual que lo sigan y lo obedezcan"». Gracias al generoso cheque de Padre, pude permanecer en América cuando el congreso terminó: cuatro años felices pasaron en circunstancias humildes en Boston; di conferencias públicas, enseñé clases y escribí un libro de poemas, Canciones del Alma, con prólogo del doctor Frederick B. Robinson. Comenzando una gira transcontinental en el verano de 1924, hablé ante miles en las principales ciudades, cerrando mi viaje al oeste con unas vacaciones en el hermoso norte de Alaska; con la ayuda de estudiantes de gran corazón, a fines de 1925 había establecido una sede americana en las Mount Washington Estates de Los Ángeles: el edificio es el que había visto años antes en mi visión de Cachemira. Me apresuré a enviar a Sri Yukteswar fotos de estas distantes actividades americanas; respondió con una postal en bengalí, que traduzco aquí, fechada el 11 de agosto de 1926:*
+Después no pude recordar ni una palabra de lo que había dicho.
+
+Yogananda
+
+*Los años pasan: conferencias por todo el país, miles de iniciados, la sede de Mt. Washington en Los Ángeles, la misma colina que había visto años atrás en una visión en Cachemira. Manda fotos a Serampore y el maestro le responde con una postal en bengalí:*
 
 > Child of my heart, O Yogananda!
+>
+> Seeing the photos of your school and students, what joy comes in my life I cannot express in words.
 
-*«"Viendo las fotos de tu escuela y tus estudiantes, la alegría que entra en mi vida no puedo expresarla con palabras; me derrito de gozo al ver a tus estudiantes de yoga de distintas ciudades; contemplando tus métodos de afirmaciones en canto, vibraciones sanadoras y oraciones divinas de sanación, no puedo dejar de agradecértelo de corazón; viendo la verja, el camino serpenteante colina arriba y el hermoso paisaje extendido bajo las Mount Washington Estates, anhelo contemplarlo todo con mis propios ojos. Aquí todo va bien: por la gracia de Dios, que estés siempre en la dicha. Sri Yukteswar Giri"». Los años pasaron veloces: conferencié en cada parte de mi nueva tierra y me dirigí a cientos de clubes, colegios, iglesias y grupos de toda denominación; decenas de miles de americanos recibieron la iniciación del yoga, y a todos ellos dediqué en 1929 un nuevo libro de pensamientos de oración, Susurros de la Eternidad, con prólogo de Amelita Galli-Curci. De él, un poema compuesto una noche sobre una tarima de conferencias: «"desde las profundidades del sueño, al ascender la escalera espiral de la vigilia, susurro: ¡Dios! ¡Dios! ¡Dios!: eres el alimento, y cuando rompo mi ayuno de separación nocturna de Ti, te saboreo y digo mentalmente: ¡Dios! ¡Dios! ¡Dios!: vaya donde vaya, el foco de mi mente sigue girando sobre Ti, y en el estruendo de la batalla de la actividad mi grito de guerra silencioso es siempre: ¡Dios! ¡Dios! ¡Dios!: cuando las tormentas ruidosas de las pruebas chillan y cuando las preocupaciones me aúllan, ahogo su clamor cantando en voz alta: ¡Dios! ¡Dios! ¡Dios!: cuando mi mente teje sueños con hilos de recuerdos, hallo repujado en esa tela mágica: ¡Dios! ¡Dios! ¡Dios!: cada noche, en el tiempo del sueño más hondo, mi paz sueña y llama: ¡gozo! ¡gozo! ¡gozo!, y mi gozo viene cantando por siempre: ¡Dios! ¡Dios! ¡Dios!: al despertar, comer, trabajar, soñar, dormir, servir, meditar, cantar, amar divinamente, mi alma tararea constantemente, sin que nadie la oiga: ¡Dios! ¡Dios! ¡Dios!"». A veces, usualmente el primero del mes, cuando llegaban las facturas del mantenimiento de Mount Washington y de los otros centros de la Self-Realization Fellowship, pensaba con añoranza en la paz sencilla de la India; pero a diario veía una comprensión creciente entre Occidente y Oriente, y mi alma se regocijaba: he hallado el gran corazón de América expresado en las líneas prodigiosas de Emma Lazarus, grabadas en la base de la Estatua de la Libertad, la "Madre de los Exiliados": «"desde su mano-faro irradia una bienvenida mundial; sus ojos apacibles mandan el puerto puenteado de aire que enmarcan ciudades gemelas: "guardaos, tierras antiguas, vuestra pompa legendaria", clama ella con labios silenciosos: dadme a vuestros cansados, a vuestros pobres, a vuestras masas apiñadas que anhelan respirar libres, el desecho miserable de vuestra orilla rebosante: enviadme a estos, los desamparados, zarandeados por la tempestad: yo alzo mi lámpara junto a la puerta dorada"»».*
+¡Hijo de mi corazón, oh Yogananda! Al ver las fotos de tu escuela y de tus alumnos, la alegría que entra en mi vida no puedo expresarla con palabras.
+
+Sri Yukteswar
 
 ## Capítulo 38: Luther Burbank, un santo entre las rosas
 
-*«El secreto del mejoramiento de la cría de plantas, aparte del conocimiento científico, es el amor»: Luther Burbank pronunció esta sabiduría mientras yo caminaba a su lado en su jardín de Santa Rosa. Nos detuvimos cerca de un lecho de cactus comestibles: «"mientras conducía experimentos para hacer cactus "sin espinas", prosiguió, a menudo hablaba a las plantas para crear una vibración de amor: "no tenéis nada que temer, les decía: no necesitáis vuestras espinas defensivas; yo os protegeré": gradualmente, la útil planta del desierto emergió en una variedad sin espinas"*:
+*Santa Rosa, California. Yogananda visita a Luther Burbank, el gran horticultor que ha creado cientos de variedades nuevas de plantas, y pasea con él por su jardín. El secreto de sus milagros, le dice, no es solo la ciencia, sino el amor: hablaba a los cactus para que soltaran las espinas:*
 
-> I was charmed at this miracle.
+> “While I was conducting experiments to make ‘spineless’ cacti,” he continued, “I often talked to the plants to create a vibration of love. ‘You have nothing to fear,’ I would tell them. ‘You don’t need your defensive thorns. I will protect you.’
 
-*«"Por favor, querido Luther, dame unas hojas de cactus para plantar en mi jardín de Mount Washington": un obrero cercano comenzó a cortar algunas hojas, pero Burbank se lo impidió»:
+«Mientras hacía experimentos para obtener cactus sin espinas, prosiguió, solía hablar a las plantas para crear una vibración de amor. No tienen nada que temer, les decía: no necesitan sus espinas defensivas; yo las protegeré.»
+
+Luther Burbank
+
+*Yogananda, encantado, le pide unas hojas de cactus para su jardín de Mt. Washington; un obrero se adelanta a cortarlas y Burbank lo detiene:*
 
 > “I myself will pluck them for the swami.”
 
-*Me entregó tres hojas, que planté luego, regocijándome al verlas crecer enormes. El gran horticultor me contó que su primer triunfo notable fue la patata grande que hoy lleva su nombre; con la infatigabilidad del genio, pasó a presentar al mundo cientos de mejoras cruzadas sobre la naturaleza: sus nuevas variedades Burbank de tomate, maíz, calabaza, cerezas, ciruelas, nectarinas, bayas, amapolas, lirios, rosas. Enfoqué mi cámara mientras Luther me llevaba ante el famoso nogal con el que había probado que la evolución natural puede apresurarse telescópicamente: «"en solo dieciséis años, dijo, este nogal alcanzó un estado de abundante producción de nueces al que una naturaleza sin ayuda habría llevado al árbol en el doble de tiempo"». Su pequeña hija adoptiva entró brincando con su perro en el jardín: «"es mi planta humana: Luther le saludó afectuosamente con la mano: veo ahora a la humanidad como una vasta planta, que necesita para sus realizaciones más altas solo amor, las bendiciones naturales del gran aire libre, y un cruce y una selección inteligentes; en el lapso de mi propia vida he observado un progreso tan prodigioso en la evolución de las plantas que espero con optimismo un mundo sano y feliz tan pronto como a sus niños se les enseñen los principios de una vida sencilla y racional: debemos volver a la naturaleza y al Dios de la naturaleza"». "Luther, mi escuela de Ranchi te encantaría, con sus clases al aire libre y su atmósfera de alegría y sencillez": mis palabras tocaron la cuerda más cercana al corazón de Burbank, la educación de los niños, y me acribilló a preguntas, con el interés brillando en sus ojos profundos y serenos»:
+«Yo mismo se las cortaré al swami.»
+
+Luther Burbank
+
+*Hablan de la escuela de Ranchi, con sus clases al aire libre y su ambiente alegre: es el tema que más le llega a Burbank, que se declara en rebeldía contra la educación de su tiempo, alejada de la naturaleza:*
 
 > “Swamiji,” he said finally, “schools like yours are the only hope of a future millennium.
 
-*«"Estoy en rebelión contra los sistemas educativos de nuestro tiempo, cortados de la naturaleza y sofocantes de toda individualidad: estoy contigo de corazón y alma en tus ideales prácticos de educación". Al despedirme del suave sabio, firmó un pequeño volumen y me lo regaló: "aquí está mi libro sobre La formación de la planta humana, dijo: se necesitan nuevos tipos de formación, experimentos audaces: a veces las pruebas más osadas han logrado sacar lo mejor de frutas y flores; las innovaciones educativas para los niños deberían volverse igualmente más numerosas y más valientes"». Leí su librito aquella noche con intenso interés: con su ojo visionando un futuro glorioso para la raza, escribió que la cosa viva más terca del mundo es una planta fijada en ciertos hábitos, dotada tras eones de repetición de una voluntad de tenacidad sin par: «"la voluntad humana es una cosa débil junto a la voluntad de una planta"»; pero toda esa terquedad de toda una vida se rompe simplemente mezclando con ella una vida nueva, por el cruce, y fijando luego el cambio por generaciones de paciente supervisión y selección: «"cuando se trata de algo tan sensible y maleable como la naturaleza de un niño, el problema se vuelve enormemente más fácil"». Magnéticamente atraído a este gran americano, lo visité una y otra vez: una mañana llegué a la vez que el cartero, que depositó en el estudio de Burbank unas mil cartas de horticultores de todo el mundo: «"Swamiji, tu presencia es justo la excusa que necesito para salir al jardín, dijo Luther alegre, abriendo un gran cajón de su escritorio con cientos de folletos de viaje"*:
+«Swamiji, dijo al fin, las escuelas como la suya son la única esperanza de un milenio futuro.»
+
+Luther Burbank
+
+*Atado a sus plantas y a las mil cartas que le llegan de todo el mundo, no puede viajar; abre un cajón lleno de folletos de viajes:*
 
 > “See,” he said, “this is how I do my traveling.
 
-*«"Atado por mis plantas y mi correspondencia, satisfago mi deseo de tierras extranjeras con una mirada de vez en cuando a estas fotos". Mi coche estaba ante su verja; Luther y yo paseamos por las calles del pueblecito, con sus jardines brillantes de sus propias variedades de rosas Santa Rosa, Peachblow y Burbank: "mi amigo Henry Ford y yo creemos ambos en la antigua teoría de la reencarnación, me contó Luther: arroja luz sobre aspectos de la vida de otro modo inexplicables; la memoria no es una prueba de verdad: que el hombre no recuerde sus vidas pasadas no prueba que nunca las tuviera*:
+«Mire, dijo, así es como yo viajo.»
 
-> Memory is blank concerning his womb-life and infancy, too; but he probably passed through them!”
+Luther Burbank
 
-*Y rió entre dientes. El gran científico había recibido la iniciación del Kriya durante una de mis visitas anteriores:*
+*Como su amigo Henry Ford, cree en la reencarnación; de que no recordemos las vidas pasadas no se sigue que no existieran:*
 
-> “I practice the technique devoutly, Swamiji,” he said.
+> Memory is blank concerning his womb-life and infancy, too; but he probably passed through them!
 
-*Tras muchas preguntas pensativas sobre varios aspectos del yoga, Luther observó despacio: «"Oriente posee en verdad inmensos tesoros de conocimiento que Occidente apenas ha comenzado a explorar"». La comunión íntima con la naturaleza, que le abrió muchos de sus secretos celosamente guardados, había dado a Burbank una reverencia espiritual sin límites:*
+Tampoco recordamos la vida en el vientre ni la primera infancia, ¡y sin embargo seguramente pasamos por ellas!
+
+Luther Burbank
+
+*Iniciado en el kriya yoga en una visita anterior, Burbank le hace muchas preguntas y al final le confía tímidamente:*
 
 > “Sometimes I feel very close to the Infinite Power,” he confided shyly.
 
-*Su rostro sensible y bellamente modelado se iluminó con sus recuerdos: «"entonces he podido sanar a personas enfermas a mi alrededor, así como a muchas plantas dolientes". Me habló de su madre, una cristiana sincera: "muchas veces después de su muerte, dijo Luther, he sido bendecido por su aparición en visiones; me ha hablado"». Regresamos de mala gana hacia su casa y aquellas mil cartas en espera: "Luther, observé, el mes próximo inicio una revista para presentar las ofrendas de verdad de Oriente y Occidente: ayúdame, por favor, a decidir un buen nombre para la publicación": discutimos títulos un rato y finalmente acordamos East-West; de vuelta en su estudio, Burbank me dio un artículo que había escrito sobre "ciencia y civilización": "esto irá en el primer número de East-West, dije agradecido"». Al ahondarse nuestra amistad, llamé a Burbank mi «santo americano»:*
+«A veces me siento muy cerca del Poder Infinito», me confió tímidamente.
 
-> “Behold a man,” I quoted, “in whom there is no guile!”
+Luther Burbank
 
-> His heart was fathomlessly deep, long acquainted with humility, patience, sacrifice.
+*Yogananda lo llama su «santo americano» y le aplica una frase del Evangelio:*
 
-*Su casita entre las rosas era austeramente simple: conocía la inutilidad del lujo y la alegría de las pocas posesiones; la modestia con que llevaba su fama científica me recordaba repetidamente a los árboles que se doblan bajo el peso de los frutos maduros: es el árbol estéril el que alza alto la cabeza en una vana jactancia. Estaba en Nueva York cuando, en 1926, mi querido amigo falleció: «"¡oh, caminaría gustoso todo el camino desde aquí hasta Santa Rosa por un vistazo más de él!", pensé entre lágrimas»; encerrándome lejos de secretarios y visitantes, pasé las siguientes veinticuatro horas en reclusión. Al día siguiente conduje un rito conmemorativo védico alrededor de un gran retrato de Luther: un grupo de mis estudiantes americanos, vestidos con ropas ceremoniales hindúes, cantaron los himnos antiguos mientras se hacía una ofrenda de flores, agua y fuego, símbolos de los elementos corporales y de su liberación en la Fuente Infinita. Aunque la forma de Burbank yace en Santa Rosa bajo un cedro del Líbano que él plantó años atrás en su jardín, su alma está custodiada para mí en cada flor de ojos abiertos que florece junto al camino: retirado por un tiempo en el espacioso espíritu de la naturaleza, ¿no es Luther quien susurra en sus vientos y camina sus auroras? Su nombre ha pasado ahora al patrimonio del habla común: listando «burbank» como verbo transitivo, el Webster's New International Dictionary lo define: «"cruzar o injertar una planta; de ahí, figuradamente, mejorar cualquier cosa, un proceso o una institución, seleccionando los buenos rasgos y rechazando los malos, o añadiendo rasgos buenos"»: "amado Burbank, exclamé tras leer la definición: ¡tu nombre mismo es ya un sinónimo de bondad!"».*
+> “Behold a man,” I quoted, “in whom there is no guile!” His heart was fathomlessly deep, long acquainted with humility, patience, sacrifice.
+
+«He aquí un hombre, cité, en quien no hay engaño.» Su corazón era insondablemente profundo, curtido en la humildad, la paciencia, el sacrificio.
+
+Yogananda
+
+*En 1926, estando en Nueva York, le llega la muerte del amigo. Se encierra veinticuatro horas, lejos de secretarios y visitas, y al día siguiente celebra un rito védico en su memoria, junto a su retrato. Los cactus sin espinas siguen creciendo en Mt. Washington.*
 
 ## Capítulo 39: Therese Neumann, la estigmatizada católica
 
-*«Vuelve a la India: te he esperado pacientemente durante quince años»:*
+*1935. Quince años después de llegar a América, meditando en Mt. Washington, Yogananda oye en el oído interior la voz de su maestro, que lo llama de vuelta a la India:*
 
-> Soon I shall swim out of the body and on to the Shining Abode. Yogananda, come!”
+> I have waited for you patiently for fifteen years. Soon I shall swim out of the body and on to the Shining Abode. Yogananda, come!
 
-*«Pronto nadaré fuera del cuerpo hacia la Morada Resplandeciente. ¡Yogananda, ven!»:*
+Te he esperado pacientemente durante quince años. Pronto saldré nadando de este cuerpo hacia la Morada Luminosa. ¡Yogananda, ven!
 
-> Sri Yukteswar’s voice sounded startlingly in my inner ear as I sat in meditation at my Mt.
+Sri Yukteswar
 
-*«La voz de Sri Yukteswar sonó sobresaltante en mi oído interior mientras estaba sentado en meditación en mi sede de Mount Washington»: atravesando diez mil millas en un abrir y cerrar de ojos, su mensaje penetró mi ser como un relámpago. ¡Quince años!: sí, me di cuenta, ahora es 1935: he pasado quince años difundiendo las enseñanzas de mi gurú en América:*
+*Quince años: es 1935. Resuelto el dinero gracias a la generosidad de los discípulos, zarpa en junio vía Europa con su secretario, el señor Wright, y la señorita Bletch. En Baviera quiere conocer a la gran mística católica Therese Neumann: ciega y paralítica a los veinte años, curada por milagro, lleva doce años sin comer ni beber más que una oblea consagrada cada mañana, y cada viernes revive la Pasión de Cristo en su propio cuerpo. En Konnersreuth la encuentran ausente; dos horas bajo la lluvia después, una pista los lleva a Eichstatt, donde ella, pese a la orden del obispo de no recibir a nadie, acepta ver «al hombre de Dios venido de la India»:*
 
-> Now he recalls me.
+> Therese greeted me with a very gentle handshaking. We both beamed in silent communion, each knowing the other to be a lover of God.
 
-> That afternoon I recounted my experience to a visiting disciple.
+Therese me saludó con un apretón de manos muy suave. Ambos radiamos en comunión silenciosa, sabiendo cada uno que el otro era un amante de Dios.
 
-*«Ahora me llama de vuelta. Aquella tarde relaté mi experiencia a un discípulo visitante»: su desarrollo espiritual bajo el Kriya Yoga era tan notable que a menudo lo llamaba «santo», recordando la profecía de Babaji de que América también produciría hombres y mujeres de realización divina por el antiguo sendero yóguico. Este discípulo y varios otros insistieron generosamente en hacer una donación para mis viajes; resuelto así el problema financiero, hice arreglos para zarpar hacia la India vía Europa: ¡semanas atareadas de preparativos en Mount Washington! En marzo de 1935 hice constituir la Self-Realization Fellowship bajo las leyes del Estado de California como corporación sin fines de lucro: a esta institución educativa van todas las donaciones públicas y los ingresos de la venta de mis libros, la revista, los cursos escritos y las clases. «"Volveré, les dije a mis estudiantes: jamás olvidaré América"». En el banquete de despedida que me dieron en Los Ángeles amigos amorosos, miré largamente sus rostros y pensé agradecido: "Señor, quien te recuerda como el Dador Único jamás carecerá de la dulzura de la amistad entre los mortales". Zarpé de Nueva York el 9 de junio de 1935 en el Europa con dos acompañantes: mi secretario, el señor C. Richard Wright, y una señora mayor de Cincinnati, la señorita Ettie Bletch; disfrutamos los días de paz oceánica, un contraste bienvenido con las semanas apresuradas pasadas. Como cualquier grupo de turistas curiosos, recorrimos la enorme y antigua ciudad de Londres; al día siguiente fui invitado a dirigirme a una gran reunión en Caxton Hall, presentado a la audiencia londinense por Sir Francis Younghusband, y nuestro grupo pasó un día placentero como huésped de Sir Harry Lauder en su finca de Escocia. Cruzamos pronto el Canal de la Mancha al continente, porque yo quería hacer una peregrinación especial a Baviera: sentía que sería mi única oportunidad de visitar a la gran mística católica, Therese Neumann de Konnersreuth. Años antes había leído un relato asombroso de Therese: nacida en 1898, herida en un accidente a los veinte años, quedó ciega y paralizada; recobró milagrosamente la vista en 1923 por oraciones a Santa Teresa, la «Floresita», y luego sus miembros fueron sanados instantáneamente; desde 1923, Therese se ha abstenido por completo de comida y bebida, salvo la deglución diaria de una pequeña hostia consagrada; los estigmas, las sagradas heridas de Cristo, aparecieron en 1926 en su cabeza, pecho, manos y pies, y cada viernes desde entonces atraviesa la Pasión de Cristo, sufriendo en su propio cuerpo todas sus agonías históricas; conociendo ordinariamente solo el alemán sencillo de su aldea, en sus trances de viernes pronuncia frases que los eruditos han identificado como arameo antiguo, y a veces hebreo o griego; por permiso eclesiástico, ha estado varias veces bajo estrecha observación científica, y el doctor Fritz Gerlick, editor de un periódico protestante alemán, fue a Konnersreuth a «exponer el fraude católico» y terminó escribiendo reverentemente su biografía. Como siempre, en Oriente o en Occidente, yo ansiaba conocer a un santo: me regocijé cuando nuestra pequeña comitiva entró, el 16 de julio, en el pintoresco pueblo de Konnersreuth. La casita de Therese, limpia y ordenada, con geranios floreciendo junto a un pozo primitivo, estaba, ¡ay!, silenciosamente cerrada; los vecinos, e incluso el cartero del pueblo que pasó, no pudieron darnos información; la lluvia comenzó a caer y mis compañeros sugirieron que nos fuéramos: «"no, dije terco: me quedaré aquí hasta hallar alguna pista que lleve a Therese"». Dos horas después seguíamos sentados en nuestro coche en medio de la lluvia lóbrega: "Señor, suspiré quejoso, ¿por qué me trajiste aquí si ella ha desaparecido?". Un hombre que hablaba inglés se detuvo junto a nosotros, ofreciendo cortésmente su ayuda: "no sé con certeza dónde está Therese, dijo, pero a menudo visita la casa del profesor Wurz, un maestro de seminario de Eichstatt, a ochenta millas de aquí". A la mañana siguiente viajamos al quieto pueblo de Eichstatt; el doctor Wurz nos saludó cordialmente: sí, Therese estaba allí; le envió aviso de los visitantes, y un mensajero pronto apareció con su respuesta: «"aunque el obispo me ha pedido que no vea a nadie sin su permiso, recibiré al hombre de Dios venido de la India"». Profundamente conmovido por estas palabras, seguí al doctor Wurz escaleras arriba hasta la sala: Therese entró de inmediato, irradiando un aura de paz y alegría; vestía un traje negro y un tocado blanco inmaculado; aunque tenía treinta y siete años entonces, parecía mucho más joven, poseedora en verdad de una frescura y un encanto infantiles: sana, bien formada, de mejillas rosadas y alegre: ¡esta es la santa que no come! Therese me saludó con un apretón de manos muy suave:*
+Yogananda
 
-> We both beamed in silent communion, each knowing the other to be a lover of God.
-
-*«Ambos radiamos en comunión silenciosa, sabiendo cada uno que el otro era un amante de Dios»: el doctor Wurz se ofreció amablemente como intérprete; al sentarnos, noté que Therese me miraba con curiosidad ingenua: evidentemente, los hindúes habían sido raros en Baviera. «"¿No comes nada?": quería oír la respuesta de sus propios labios. "No, salvo una hostia de harina de arroz consagrada, cada mañana a las seis". "¿Qué tamaño tiene la hostia?". "Es fina como el papel, del tamaño de una moneda pequeña, añadió: la tomo por razones sacramentales; si no está consagrada, no puedo tragarla". "¿Con certeza no habrás podido vivir de eso, por doce años enteros?"»:*
+*Él quiere oír de sus propios labios cómo ha vivido doce años sin comer:*
 
 > “I live by God’s light.”
 
-*«"Vivo de la luz de Dios": ¡qué simple su respuesta, qué einsteiniana!»:*
+«Vivo de la luz de Dios.»
+
+Therese Neumann
+
+*Yogananda asiente:*
 
 > “I see you realize that energy flows to your body from the ether, sun, and air.”
 
-*«"Veo que comprendes que la energía fluye a tu cuerpo desde el éter, el sol y el aire": una sonrisa veloz cruzó su rostro: "soy tan feliz de saber que entiendes cómo vivo". "Tu vida sagrada es una demostración diaria de la verdad pronunciada por Cristo: el hombre no vivirá solo de pan, sino de toda palabra que sale de la boca de Dios"*:
+«Veo que comprende que la energía fluye a su cuerpo desde el éter, el sol y el aire.»
 
-> Again she showed joy at my explanation.
+Yogananda
 
-*«De nuevo mostró alegría ante mi explicación: "es en verdad así"*:
+*Ella se alegra de que la entienda:*
 
-> One of the reasons I am here on earth today is to prove that man can live by God’s invisible light, and not by food only.”
+> “It is indeed so. One of the reasons I am here on earth today is to prove that man can live by God’s invisible light, and not by food only.”
 
-*«"Una de las razones por las que estoy hoy en la tierra es probar que el hombre puede vivir de la luz invisible de Dios, y no solo del alimento". "¿Puedes enseñar a otros cómo vivir sin comida?": pareció un poco escandalizada»:*
+«Así es, en verdad. Una de las razones por las que estoy hoy en la tierra es para demostrar que el hombre puede vivir de la luz invisible de Dios, y no solo de alimento.»
+
+Therese Neumann
+
+*¿Puede enseñar a otros a vivir sin comer?*
 
 > “I cannot do that; God does not wish it.”
 
-*«"No puedo hacerlo; Dios no lo desea"». Al caer mi mirada sobre sus manos fuertes y graciosas, Therese me mostró una pequeña herida cuadrada, recién curada, en cada una de sus palmas; en el dorso de cada mano señaló una herida más pequeña en forma de media luna, recién curada: cada herida atravesaba la mano de parte a parte; la vista trajo a mi mente el recuerdo nítido de los grandes clavos cuadrados de hierro con puntas de media luna, aún usados en Oriente, pero que no recuerdo haber visto en Occidente. La santa me contó algo de sus trances semanales: «"como espectadora desvalida, observo toda la Pasión de Cristo"»: cada semana, desde la medianoche del jueves hasta la una de la tarde del viernes, sus heridas se abren y sangran, y pierde diez libras de su peso ordinario de ciento veintiuna; sufriendo intensamente en su amor compasivo, Therese espera no obstante con gozo estas visiones semanales de su Señor. Comprendí de inmediato que su vida extraña está destinada por Dios a asegurar a todos los cristianos la autenticidad histórica de la vida y la crucifixión de Jesús registradas en el Nuevo Testamento, y a exhibir dramáticamente el vínculo siempre vivo entre el Maestro Galileo y sus devotos. El profesor Wurz relató algunas de sus experiencias con la santa: «"varios de nosotros, incluida Therese, viajamos a menudo por días en excursiones por Alemania, me contó: es un contraste llamativo: mientras nosotros hacemos tres comidas al día, Therese no come nada; permanece fresca como una rosa, intacta ante la fatiga que los viajes nos causan; cuando nos da hambre y buscamos posadas junto al camino, ella ríe alegremente"», y añadió algunos detalles fisiológicos interesantes: "como Therese no toma alimento, su estómago se ha encogido; no tiene excreciones, pero sus glándulas de sudor funcionan; su piel está siempre suave y firme"»:
+«No puedo hacerlo; Dios no lo quiere.»
+
+Therese Neumann
+
+*Le muestra las palmas: en cada mano, una herida cuadrada recién curada que la atraviesa de parte a parte, como de clavo; cada viernes las heridas se abren y sangran, de la medianoche del jueves a la una de la tarde, y ella espera esas horas con alegría. Antes de despedirse:*
 
 > At the time of parting, I expressed to Therese my desire to be present at her trance.
 
-*«Al despedirnos, le expresé a Therese mi deseo de estar presente en su trance: "sí, por favor ven a Konnersreuth el próximo viernes, dijo gentil: el obispo te dará un permiso; estoy muy contenta de que me buscaras en Eichstatt": Therese estrechó manos suavemente, muchas veces, y caminó con nuestro grupo hasta la verja; el señor Wright encendió la radio del automóvil y la santa la examinó con risitas entusiasmadas; una multitud tan grande de muchachos se reunió que Therese se retiró a la casa, y la vimos en una ventana, donde nos miró, infantil, agitando la mano». Por una conversación al día siguiente con dos de los hermanos de Therese, muy amables y afables, supimos que la santa duerme solo una o dos horas por noche: a pesar de las muchas heridas de su cuerpo, está activa y llena de energía; ama a los pájaros, cuida una pecera y trabaja a menudo en su jardín; su correspondencia es grande: devotos católicos le escriben pidiendo oraciones y bendiciones sanadoras, y muchos buscadores han sido curados por ella de enfermedades serias. Su hermano Ferdinand, de unos veintitrés años, explicó que Therese tiene el poder, por la oración, de elaborar en su propio cuerpo los males de otros: la abstinencia de alimento de la santa data de cuando oró para que la enfermedad de garganta de un joven de su parroquia, que se preparaba entonces para entrar en las órdenes sagradas, fuera transferida a su propia garganta. El jueves por la tarde nuestro grupo condujo hasta la casa del obispo, que miró mis mechones sueltos con cierta sorpresa y extendió sin más el permiso necesario, sin tarifa alguna: la regla hecha por la Iglesia es simplemente proteger a Therese de la avalancha de turistas ocasionales, que en años previos habían acudido en tropel los viernes por miles. Llegamos el viernes por la mañana, hacia las nueve y media, a Konnersreuth: noté que la casita de Therese posee una sección especial con techo de vidrio para darle abundante luz, y nos alegró ver las puertas ya no cerradas, sino abiertas de par en par con alegría hospitalaria; había una fila de unos veinte visitantes, armados con sus permisos, muchos venidos de grandes distancias para ver el trance místico. Therese había pasado mi primera prueba en casa del profesor por su conocimiento intuitivo de que yo quería verla por razones espirituales, y no solo para satisfacer una curiosidad pasajera. Mi segunda prueba se conectó con el hecho de que, justo antes de subir a su cuarto, me puse en estado de trance yóguico para ser uno con ella en relación telepática y televísica: entré en su cámara, llena de visitantes; yacía con una túnica blanca sobre la cama; con el señor Wright siguiéndome de cerca, me detuve justo dentro del umbral, sobrecogido ante un espectáculo extraño y espantoso: la sangre fluía fina y continuamente en un hilo de una pulgada de ancho desde los párpados inferiores de Therese; su mirada estaba enfocada hacia arriba, en el ojo espiritual dentro del centro de la frente; la tela envuelta alrededor de su cabeza estaba empapada de la sangre de las heridas de estigma de la corona de espinas; la prenda blanca estaba salpicada de rojo sobre su corazón por la herida de su costado, en el punto donde el cuerpo de Cristo, hace largas edades, había sufrido la indignidad final del lanzazo del soldado. Las manos de Therese estaban extendidas en un gesto maternal, suplicante; su rostro llevaba una expresión a la vez torturada y divina; parecía más delgada, cambiada en muchas formas sutiles además de las externas; murmurando palabras en una lengua extranjera, hablaba con labios levemente trémulos a personas visibles ante su vista interior:*
+Al despedirnos, le expresé a Therese mi deseo de estar presente en su trance.
 
-> As I was in attunement with her, I began to see the scenes of her vision.
+Yogananda
 
-*«Al estar en sintonía con ella, comencé a ver las escenas de su visión: ella miraba a Jesús cargando la cruz en medio de la multitud burlona; de pronto alzó la cabeza consternada: el Señor había caído bajo el peso cruel*:
+*El viernes siguiente, a las nueve de la mañana, la encuentra postrada: la mirada clavada en el ojo espiritual del entrecejo, la tela de la cabeza empapada por las heridas de la corona de espinas, murmurando palabras en una lengua extraña. Y entonces:*
 
-> The vision disappeared.
+> As I was in attunement with her, I began to see the scenes of her vision. She was watching Jesus as he carried the cross amidst the jeering multitude.
 
-*«La visión desapareció: en el agotamiento de la piedad ferviente, Therese se hundió pesadamente contra su almohada. En ese momento oí un golpe sordo fuerte detrás de mí: volviendo la cabeza un segundo, vi a dos hombres llevando fuera un cuerpo postrado*:
+Como estaba en sintonía con ella, empecé a ver las escenas de su visión. Estaba viendo a Jesús cargando la cruz entre la multitud burlona.
 
-> But because I was coming out of the deep superconscious state, I did not immediately recognize the fallen person.
+Yogananda
 
-*«Pero como yo salía del profundo estado supraconsciente, no reconocí de inmediato a la persona caída: fijé de nuevo mis ojos en el rostro de Therese, mortalmente pálido bajo los riachuelos de sangre, pero ahora calmado, radiando pureza y santidad; miré detrás de mí más tarde y vi al señor Wright de pie, con la mano contra su mejilla, de la que corría un hilo de sangre: "Dick, pregunté ansioso, ¿fuiste tú el que cayó?". "Sí, me desmayé ante el espectáculo aterrador"*:
+*De pronto, Therese levanta la cabeza consternada: el Señor ha caído bajo el peso; la visión se apaga y ella se desploma sobre la almohada. Detrás de Yogananda suena un golpe seco: el señor Wright se ha desmayado ante el espectáculo. Cuando vuelve, pálido y con la mejilla sangrando:*
 
 > “Well,” I said consolingly, “you are brave to return and look upon the sight again.”
 
-*«"Bueno, dije consoladoramente, eres valiente al volver y mirar la escena otra vez". Recordando la fila de peregrinos que esperaba pacientemente, el señor Wright y yo nos despedimos en silencio de Therese y dejamos su sagrada presencia. Al día siguiente nuestro pequeño grupo viajó al sur, agradecidos de no depender de trenes y de poder detener el Ford donde quisiéramos por el campo: disfrutamos cada minuto de una gira por Alemania, Holanda, Francia y los Alpes suizos; en Italia hicimos un viaje especial a Asís para honrar al apóstol de la humildad, San Francisco; la gira europea terminó en Grecia, donde contemplamos los templos atenienses y vimos la prisión en que el suave Sócrates había bebido su poción de muerte: uno se llena de admiración por el arte con que los griegos labraron por doquier sus fantasías mismas en alabastro. Tomamos barco por el Mediterráneo soleado, desembarcando en Palestina: vagando día tras día por la Tierra Santa, estuve más que nunca convencido del valor de la peregrinación; el espíritu de Cristo lo impregna todo en Palestina: caminé reverentemente a su lado en Belén, Getsemaní, el Calvario, el santo Monte de los Olivos, y junto al río Jordán y el mar de Galilea; nuestro pequeño grupo visitó el Pesebre del Nacimiento, el taller de carpintero de José, la tumba de Lázaro, la casa de Marta y María, la sala de la Última Cena: la antigüedad se desplegó, y escena por escena vi el drama divino que Cristo representó una vez para las edades. Y adelante, a Egipto, con su Cairo moderno y sus pirámides antiguas; luego un barco por el angosto mar Rojo y sobre el vasto mar Arábigo: ¡he aquí, la India!.*
+«Bueno, le dije consolándolo, eres valiente al volver para mirar la escena otra vez.»
+
+Yogananda
+
+*Se despiden de la santa en silencio. La gira sigue por Alemania, Holanda, Francia y los Alpes suizos; en Asís honran a san Francisco, el apóstol de la humildad; en Palestina, Yogananda recorre Belén, Getsemaní, el Calvario y el monte de los Olivos. Y por fin, por el mar Rojo y el mar Arábigo: la India.*
 
 ## Capítulo 40: Regreso a la India
 
-*Agradecido, yo inhalaba el aire bendito de la India: nuestro barco Rajputana atracó el 22 de agosto de 1935 en el enorme puerto de Bombay; incluso ese, mi primer día fuera del barco, fue un anticipo del año por delante: doce meses de actividad incesante. Amigos se habían reunido en el muelle con guirnaldas y saludos; pronto, en nuestra suite del hotel Taj Mahal, hubo un desfile de reporteros y fotógrafos. Bombay era una ciudad nueva para mí: la encontré energéticamente moderna, con muchas innovaciones de Occidente; palmeras bordean los bulevares espaciosos; magníficas estructuras estatales compiten en interés con templos antiguos. Muy poco tiempo se dio, sin embargo, al turismo: yo estaba impaciente, ansioso por ver a mi amado gurú y a otros seres queridos; consignando el Ford a un vagón de equipaje, nuestra comitiva pronto viajaba veloz hacia el este, en tren a Calcuta. Nuestra llegada a la estación de Howrah encontró una multitud tan inmensa reunida para saludarnos que por un rato no pudimos bajar del tren: el joven maharajá de Kasimbazar y mi hermano Bishnu encabezaban el comité de recepción; yo no estaba preparado para el calor y la magnitud de nuestra bienvenida. Precedidos por una fila de automóviles y motocicletas, y en medio del sonido gozoso de tambores y caracolas, la señorita Bletch, el señor Wright y yo, enguirnaldados de flores de pies a cabeza, condujimos lentamente hasta la casa de mi padre. Mi anciano progenitor me abrazó como a quien vuelve de entre los muertos; largo tiempo nos miramos, sin habla de gozo; hermanos y hermanas, tíos y tías y primos, estudiantes y amigos de años lejanos se agrupaban a mi alrededor, sin un ojo seco entre nosotros: pasada ya a los archivos de la memoria, la escena de amorosa reunión perdura vívida, inolvidable en mi corazón:*
+*22 de agosto de 1935: el Rajputana atraca en Bombay. Guirnaldas en el muelle, reporteros, y luego Calcuta, donde una multitud inmensa los espera en la estación de Howrah, encabezada por el joven maharajá de Kasimbazar y su hermano Bishnu. Su anciano padre lo abraza como a un resucitado. Y luego viene el reencuentro que de verdad importa:*
 
 > As for my meeting with Sri Yukteswar, words fail me; let the following description from my secretary suffice.
 
-*«En cuanto a mi encuentro con Sri Yukteswar, las palabras me faltan; que baste la siguiente descripción de mi secretario»: "hoy, lleno de las más altas anticipaciones, conduje a Yoganandaji de Calcuta a Serampore, registró el señor Wright en su diario de viaje: pasamos por tiendas pintorescas, una de ellas el lugar de comidas favorito de Yoganandaji en sus días de colegio, y finalmente entramos en un callejón angosto y amurallado; un giro repentino a la izquierda, y allí ante nosotros se alzaba el ashram sencillo pero inspirador de dos pisos, con su balcón de estilo hispánico sobresaliendo del piso superior»:
+En cuanto a mi encuentro con Sri Yukteswar, las palabras me fallan; baste la siguiente descripción de mi secretario.
 
-> The pervasive impression was that of peaceful solitude.
+Yogananda
 
-> “In grave humility I walked behind Yoganandaji into the courtyard within the hermitage walls.
+*El señor Wright lo anota en su diario de viaje: el carril estrecho y amurallado, la ermita de dos pisos, y la aparición silenciosa del maestro al pie de la escalera. Yogananda cae de rodillas y toca sus pies:*
 
-*«La impresión dominante era la de una soledad pacífica. "Con grave humildad caminé detrás de Yoganandaji hacia el patio dentro de los muros de la ermita: con los corazones latiendo rápido, subimos unos viejos escalones de cemento, hollados sin duda por miríadas de buscadores de la verdad; la tensión se hacía más y más aguda al avanzar: ante nosotros, cerca de la cabecera de las escaleras, apareció quedamente el Grande, Swami Sri Yukteswarji, de pie en la pose noble de un sabio. Mi corazón se alzó y se hinchó al sentirme bendecido por el privilegio de estar en su sublime presencia; las lágrimas nublaron mi vista ansiosa cuando Yoganandaji cayó de rodillas y, con la cabeza inclinada, ofreció la gratitud y el saludo de su alma, tocando con su mano los pies de su gurú y luego, en humilde reverencia, su propia cabeza"*:
+> No words passed at the beginning, but the most intense feeling was expressed in the mute phrases of the soul.
 
-> He rose then and was embraced on both sides of the bosom by Sri Yukteswarji.
+Al principio no pasaron palabras, pero el sentimiento más intenso se expresó en las frases mudas del alma.
 
-> “No words passed at the beginning, but the most intense feeling was expressed in the mute phrases of the soul.
+Sr. Wright
 
-*«Se levantó entonces y fue abrazado a ambos lados del pecho por Sri Yukteswarji. "Al principio no pasaron palabras, pero el sentimiento más intenso fue expresado en las frases mudas del alma: ¡cómo chispearon sus ojos, encendidos del calor de la unión renovada de las almas! Una vibración tierna recorrió el patio quieto, y hasta el sol eludió las nubes para añadir un resplandor súbito de gloria"*:
+*Después le toca a él:*
 
-> “On bended knee before the master I gave my own unexpressed love and thanks, touching his feet, calloused by time and service, and receiving his blessing.
+> On bended knee before the master I gave my own unexpressed love and thanks, touching his feet, calloused by time and service, and receiving his blessing.
 
-*«"De rodillas ante el maestro, di mi propio amor y gratitud inexpresados, tocando sus pies, callosos por el tiempo y el servicio, y recibiendo su bendición": me puse luego de pie y encaré dos hermosos ojos profundos, humeantes de introspección y sin embargo radiantes de gozo; entramos en su sala, cuyo lado entero se abría al balcón exterior visto primero desde la calle; el maestro se recostó contra un desvencijado sofá, sentado sobre un colchón cubierto en el piso de cemento; Yoganandaji y yo nos sentamos cerca de los pies del gurú, con almohadas color naranja para apoyarnos y aliviar nuestras posiciones sobre la estera de paja. Intenté e intenté penetrar la conversación bengalí entre los dos Swamijis, pues el inglés, descubrí, es nulo y sin efecto cuando están juntos, aunque el Swamiji Maharaj, como llaman otros al gran gurú, puede hablarlo y a menudo lo hace*:
+De rodillas ante el maestro di mi propio amor y mi gratitud no expresados, tocando sus pies, callosos por el tiempo y el servicio, y recibiendo su bendición.
 
-> But I perceived the saintliness of the Great One through his heart-warming smile and twinkling eyes.
+Sr. Wright
 
-*«Pero percibí la santidad del Grande a través de su sonrisa enternecedora y sus ojos chispeantes: una cualidad fácilmente discernible en su conversación alegre y seria es una decidida positividad en la afirmación: la marca de un sabio, que sabe que sabe, porque conoce a Dios; su gran sabiduría, fuerza de propósito y determinación son aparentes en todo»:*
+*El americano no entiende el bengalí de la conversación, pero no le hace falta; se dedica a estudiar al maestro:*
 
-> “Studying him reverently from time to time, I noted that he is of large, athletic stature, hardened by the trials and sacrifices of renunciation.
+> Studying him reverently from time to time, I noted that he is of large, athletic stature, hardened by the trials and sacrifices of renunciation.
 
-*«"Estudiándolo reverentemente de cuando en cuando, noté que es de estatura grande y atlética, endurecida por las pruebas y los sacrificios de la renunciación: su compostura es majestuosa; una frente decididamente inclinada, como buscando los cielos, domina su semblante divino; tiene una nariz más bien grande y sin gracia, con la que se divierte en momentos ociosos, meneándola y agitándola con los dedos como un niño; sus poderosos ojos oscuros están aureolados por un anillo azul etéreo; su cabello, partido al medio, comienza plateado y cambia a vetas de plata dorada y plata negra, terminando en rizos sobre sus hombros; su barba y bigote son escasos o raleados, y sin embargo parecen realzar sus facciones y, como su carácter, son profundos y ligeros a la vez. Tiene una risa jovial y estruendosa que viene de lo hondo de su pecho, haciéndolo sacudirse y estremecerse por todo el cuerpo: muy alegre y sincera; su rostro y su estatura son impresionantes en su poder, como lo son sus dedos musculosos; se mueve con paso digno y postura erguida; vestía simplemente el común dhoti y camisa, ambos teñidos una vez de un fuerte color ocre, ahora un naranja desteñido. Mirando alrededor, observé que aquella habitación más bien deteriorada sugería el desapego de su dueño a las comodidades materiales: las paredes blancas manchadas por la intemperie de la larga cámara estaban veteadas de yeso azul descolorido; en un extremo colgaba un retrato de Lahiri Mahasaya, enguirnaldado en devoción sencilla; había también una foto vieja que mostraba a Yoganandaji tal como había llegado por primera vez a Boston, de pie con los otros delegados al Congreso de Religiones. Noté una curiosa concurrencia de modernidad y antiguación: una enorme araña de vidrio tallado para velas estaba cubierta de telarañas por desuso, y en la pared había un calendario brillante y al día; toda la habitación emanaba una fragancia de paz y calma; más allá del balcón podía ver cocoteros en torre sobre la ermita en silenciosa protección»:*
+Estudiándolo con reverencia de cuando en cuando, noté que es de talla grande y atlética, endurecida por las pruebas y los sacrificios de la renuncia.
 
-> “It is interesting to observe that the master has merely to clap his hands together and, before finishing, he is served or attended by some small disciple.
+Sr. Wright
 
-*«"Es interesante observar que al maestro le basta juntar las palmas y, antes de terminar, es servido o atendido por algún pequeño discípulo: incidentalmente, me atrae mucho uno de ellos, un muchacho delgado llamado Prafulla, de largo cabello negro a los hombros, un par de ojos negros chispeantes de lo más penetrantes y una sonrisa celestial; sus ojos titilan al alzarse las comisuras de su boca, como las estrellas y la luna creciente apareciendo al crepúsculo"*:
+*Todo en la ermita lo maravilla:*
 
-> “Swami Sri Yukteswarji’s joy is obviously intense at the return of his ‘product’ (and he seems to be somewhat inquisitive about the ‘product’s product’).
+> It is interesting to observe that the master has merely to clap his hands together and, before finishing, he is served or attended by some small disciple.
 
-*«"La alegría del Swami Sri Yukteswarji es obviamente intensa por el regreso de su "producto", y parece algo inquisitivo sobre el "producto del producto"": sin embargo, el predominio del aspecto de sabiduría en la naturaleza del Grande dificulta su expresión exterior de sentimiento. Yoganandaji le presentó algunos regalos, como es la costumbre cuando el discípulo vuelve a su gurú; nos sentamos luego a una comida simple pero bien cocinada, todos los platos combinaciones de vegetales y arroz; a Sri Yukteswarji le agradó mi uso de varias costumbres indias, el "comer con los dedos", por ejemplo. Tras varias horas de frases bengalíes voladoras y del intercambio de cálidas sonrisas y miradas gozosas, rendimos reverencia a sus pies, nos despedimos con un pronam y partimos hacia Calcuta con una memoria imperecedera de un sagrado encuentro y saludo; aunque escribo principalmente de mis impresiones externas de él, fui siempre consciente de la base verdadera del santo: su gloria espiritual*:
+Es curioso observar que al maestro le basta juntar las manos en una palmada y, antes de terminar, ya algún pequeño discípulo lo está sirviendo o atendiendo.
 
-> I felt his power, and shall carry that feeling as my divine blessing.”
+Sr. Wright
 
-*«"Sentí su poder, y llevaré ese sentimiento como mi bendición divina"». De América, Europa y Palestina había traído muchos regalos para Sri Yukteswar: los recibió sonriente, pero sin comentario; para mi propio uso había comprado en Alemania un bastón-paraguas combinado, y en la India decidí regalar el bastón al maestro: "¡este regalo sí lo aprecio!"*:
+*Y nota lo que el maestro no dice:*
 
-> My guru’s eyes were turned on me with affectionate understanding as he made the unwonted comment.
+> Swami Sri Yukteswarji’s joy is obviously intense at the return of his ‘product’ (and he seems to be somewhat inquisitive about the ‘product’s product’).
 
-*«Los ojos de mi gurú se volvieron hacia mí con afectuosa comprensión al hacer el comentario insólito: de todos los regalos, fue el bastón el que eligió mostrar a los visitantes. "Maestro, por favor permíteme conseguir una alfombra nueva para la sala": había notado que la piel de tigre de Sri Yukteswar estaba puesta sobre una alfombra rota. "Hazlo si te place: la voz de mi gurú no fue entusiasta: mira, mi estera de tigre está bonita y limpia; soy monarca en mi propio pequeño reino; más allá está el vasto mundo, interesado solo en lo externo"*:
+La alegría de Swami Sri Yukteswarji es evidentemente intensa ante el regreso de su «producto» (y parece algo curioso por conocer «el producto del producto»).
+
+Sr. Wright
+
+*Se despiden con el pronam, la reverencia ritual, y Wright cierra su página:*
+
+> I felt his power, and shall carry that feeling as my divine blessing.
+
+Sentí su poder, y llevaré esa sensación como mi bendición divina.
+
+Sr. Wright
+
+*De todos los regalos traídos de América, Europa y Palestina, el maestro sonríe sin comentarios; solo uno arranca una frase: un bastón-paraguas comprado en Alemania, que desde entonces exhibe a las visitas:*
+
+> “This gift I appreciate indeed!” My guru’s eyes were turned on me with affectionate understanding as he made the unwonted comment.
+
+«Este regalo sí lo aprecio de veras.» Los ojos de mi gurú se posaron en mí con afectuosa comprensión al hacer el insólito comentario.
+
+Sri Yukteswar
+
+*Cuando Yogananda se ofrece a comprarle una alfombra nueva para el salón, la respuesta es otra lección:*
+
+> “Do so if it pleases you.” My guru’s voice was not enthusiastic. “Behold, my tiger mat is nice and clean; I am monarch in my own little kingdom. Beyond it is the vast world, interested only in externals.”
+
+«Hazlo si te place.» La voz de mi gurú no era entusiasta. «Mira: mi estera de tigre está bonita y limpia; soy monarca en mi propio pequeño reino. Más allá está el vasto mundo, interesado solo en lo externo.»
+
+Sri Yukteswar
+
+*Ante esas palabras, el tiempo se borra:*
 
 > As he uttered these words I felt the years roll back; once again I am a young disciple, purified in the daily fires of chastisement!
 
-*«Al pronunciar estas palabras sentí retroceder los años: una vez más soy un joven discípulo, purificado en los fuegos diarios de la corrección». Tan pronto como pude arrancarme de Serampore y Calcuta, partí con el señor Wright hacia Ranchi: ¡qué bienvenida allí, una ovación verdadera! Las lágrimas me asomaron a los ojos al abrazar a los maestros abnegados que habían mantenido en alto la bandera de la escuela durante mis quince años de ausencia; los rostros brillantes y las sonrisas felices de los estudiantes internos y externos eran amplio testimonio del valor de su formación escolar y yóguica multilateral. Mas, ¡ay!, la institución de Ranchi estaba en graves dificultades financieras: Sir Manindra Chandra Nundy, el viejo maharajá cuyo palacio de Kasimbazar había sido convertido en el edificio central de la escuela, y que había hecho muchas donaciones principescas, había muerto; muchas características gratuitas y benevolentes de la escuela estaban ahora seriamente en peligro por falta de suficiente apoyo público. No había pasado años en América sin aprender algo de su sabiduría práctica, su espíritu impávido ante los obstáculos: por una semana permanecí en Ranchi, forcejeando con problemas críticos; luego vinieron entrevistas en Calcuta con líderes y educadores prominentes, una larga charla con el joven maharajá de Kasimbazar, un llamado financiero a mi padre, y ¡he aquí!, los cimientos tambaleantes de Ranchi comenzaron a enderezarse: muchas donaciones, incluido un cheque enorme, llegaron justo a tiempo de mis estudiantes americanos. A los pocos meses de mi llegada a la India tuve la dicha de ver la escuela de Ranchi legalmente incorporada: mi sueño de toda la vida de un centro educativo de yoga permanentemente dotado quedó cumplido: aquella visión me había guiado en los humildes comienzos de 1917, con un grupo de siete muchachos. En la década desde 1935, Ranchi ha ampliado su alcance mucho más allá de la escuela de muchachos: amplias actividades humanitarias se llevan a cabo allí ahora en la Shyama Charan Lahiri Mahasaya Mission. La escuela, o Yogoda Sat-Sanga Brahmacharya Vidyalaya, da clases al aire libre de materias de gramática y bachillerato; los internos y los externos reciben además formación vocacional de algún tipo; los muchachos mismos regulan la mayoría de sus actividades por comités autónomos: muy temprano en mi carrera de educador descubrí que los muchachos que se deleitan pícaramente en burlar a un maestro aceptan alegremente reglas disciplinarias fijadas por sus compañeros; nunca alumno modelo yo mismo, tenía una simpatía pronta por todas las travesuras y problemas juveniles. Se fomentan los deportes y juegos: los campos resuenan con prácticas de hockey y fútbol, y los estudiantes de Ranchi ganan a menudo la copa en eventos competitivos; el gimnasio al aire libre es conocido a lo largo y ancho; la recarga muscular por el poder de la voluntad es el rasgo Yogoda: dirección mental de la energía vital a cualquier parte del cuerpo; también se enseña a los muchachos asanas (posturas), juego de espada y lathi (bastón) y jujitsu; las exhibiciones de salud Yogoda en el Vidyalaya de Ranchi han sido atendidas por miles. La instrucción en materias primarias se da en hindi a los Kols, Santals y Mundas, tribus aborígenes de la provincia, y se han organizado clases solo para niñas en aldeas cercanas. El rasgo único de Ranchi es la iniciación en el Kriya Yoga: los muchachos practican a diario sus ejercicios espirituales, cantan la Gita y se les enseña por precepto y ejemplo las virtudes de la sencillez, el autosacrificio, el honor y la verdad: se les señala el mal como aquello que produce miseria, y el bien como las acciones que resultan en felicidad verdadera; el mal puede compararse a miel envenenada, tentadora pero cargada de muerte. Superar la inquietud del cuerpo y la mente por técnicas de concentración ha logrado resultados asombrosos: no es novedad en Ranchi ver una figurita encantadora, de nueve o diez años, sentada por una hora o más en compostura ininterrumpida, con la mirada sin parpadeo dirigida al ojo espiritual; a menudo la imagen de estos estudiantes de Ranchi ha vuelto a mi mente al observar a universitarios por el mundo apenas capaces de estarse quietos durante un período de clase. Ranchi yace a dos mil pies sobre el nivel del mar; el clima es suave y ecuánime; el sitio de veinticinco acres, junto a un gran estanque de baño, incluye uno de los mejores huertos de la India: quinientos árboles frutales, mango, guayaba, litchi, yaca, dátil; los muchachos cultivan sus propias verduras e hilan en sus charkas. Una casa de huéspedes está hospitalariamente abierta a los visitantes occidentales; la biblioteca de Ranchi contiene numerosas revistas y cerca de mil volúmenes en inglés y bengalí, donaciones de Occidente y Oriente, y una colección de las escrituras del mundo; un museo bien clasificado exhibe piezas arqueológicas, geológicas y antropológicas: trofeos, en gran medida, de mis vagabundeos por la variada tierra del Señor. El hospital caritativo y el dispensario de la Misión Lahiri Mahasaya, con muchas ramas exteriores en aldeas distantes, ya han atendido a ciento cincuenta mil de los pobres de la India; los estudiantes de Ranchi están entrenados en primeros auxilios y han dado servicio loable a su provincia en tiempos trágicos de inundación o hambruna. En el huerto se alza un templo de Shiva, con una estatua del bendito maestro, Lahiri Mahasaya; oraciones diarias y clases de escritura se dan en el jardín bajo las enramadas de mango. Escuelas superiores filiales, con los rasgos residenciales y yóguicos de Ranchi, han sido abiertas y florecen ahora: la Yogoda Sat-Sanga Vidyapith para muchachos, en Lakshmanpur, Bihar, y la Yogoda Sat-Sanga High School y ermita en Ejmalichak, Midnapore. Un señorial Yogoda Math fue dedicado en 1939 en Dakshineswar, directamente sobre el Ganges: a solo unas millas al norte de Calcuta, la nueva ermita ofrece un refugio de paz para los habitantes de la ciudad; hay alojamiento adecuado para huéspedes occidentales, y particularmente para aquellos buscadores que dedican intensamente sus vidas a la realización espiritual; las actividades del Yogoda Math incluyen un envío quincenal de enseñanzas de la Self-Realization Fellowship a estudiantes en varias partes de la India. Sobra decir que todas estas actividades educativas y humanitarias han requerido el servicio abnegado y la devoción de muchos maestros y trabajadores: no enumero sus nombres aquí porque son muy numerosos, pero en mi corazón cada uno tiene un nicho lustroso; inspirados por los ideales de Lahiri Mahasaya, estos maestros han abandonado prometedoras metas mundanas para servir humildemente, para dar grandemente. El señor Wright formó muchas amistades firmes con muchachos de Ranchi; vestido con un simple dhoti, vivió un tiempo entre ellos; en Ranchi, Calcuta, Serampore, doquiera que iba, mi secretario, que tiene un don vívido de descripción, sacaba su diario de viaje para registrar sus aventuras. Una tarde le hice una pregunta: "Dick, ¿cuál es tu impresión de la India?"»:
+Al pronunciar esas palabras sentí retroceder los años: una vez más soy un joven discípulo, ¡purificado en los fuegos cotidianos del regaño!
 
-> “Peace,” he said thoughtfully.
+Yogananda
 
-*«"Paz, dijo pensativo: el aura racial es paz"».*
+*Después, Ranchi: la escuela florece con sus huertos, su hospital, su templo de Shiva entre los mangos y sus niños capaces de meditar una hora sin moverse; y el señor Wright, vestido con un sencillo dhoti, hace amistad con todos los muchachos. Una tarde, Yogananda le hace una pregunta:*
+
+> One evening I asked him a question.
+>
+> “Dick, what is your impression of India?”
+>
+> “Peace,” he said thoughtfully. “The racial aura is peace.”
+
+«Dick, ¿qué impresión te causa la India?»
+
+«Paz, dijo pensativo. El aura de la raza es paz.»
+
+Yogananda y el señor Wright
 
 ## Capítulo 41: Un idilio en el sur de la India
 
-*«Tú eres el primer occidental, Dick, que entra jamás en ese santuario; muchos otros lo han intentado en vano»:*
-
-> “Y OU ARE THE FIRST Westerner, Dick, ever to enter that shrine.
+*Noviembre de 1935. Yogananda y su secretario, el señor Wright, pasan un mes como invitados del Estado de Mysore, en el sur de la India: tierra de palacios, templos y bosques con elefantes. En el templo de Chamundi, sobre la colina, Yogananda le da una noticia a su compañero: es el primer occidental que entra en ese santuario; muchos lo han intentado en vano:*
 
 > At my words Mr. Wright looked startled, then pleased.
 
-*Acabábamos de dejar el hermoso templo de Chamundi en las colinas que dominan Mysore, en el sur de la India, donde nos habíamos inclinado ante los altares de oro y plata de la diosa Chamundi, deidad patrona de la familia del maharajá reinante: «"como recuerdo del honor único, dijo el señor Wright guardando con cuidado unos pétalos de rosa benditos, preservaré siempre esta flor, rociada por el sacerdote con agua de rosas"». Mi compañero y yo pasábamos el mes de noviembre de 1935 como huéspedes del Estado de Mysore: el maharajá, Su Alteza Sri Krishnaraja Wadiyar IV, es un príncipe modelo de devoción inteligente a su pueblo; hindú piadoso, ha investido a un mahometano, el capaz Mirza Ismail, como su Dewan o primer ministro, y la representación popular se da a los siete millones de habitantes de Mysore tanto en una Asamblea como en un Consejo Legislativo. El heredero del maharajá, el Yuvaraja, nos había invitado a mi secretario y a mí a visitar su reino ilustrado y progresista: durante la quincena pasada me había dirigido a miles de ciudadanos y estudiantes de Mysore, en el Town Hall, el Maharajah's College y la escuela de medicina de la universidad, y en tres reuniones masivas en Bangalore; no sé si los oyentes ansiosos podían dar crédito al cuadro radiante que pinté de América, pero los aplausos siempre fueron más fuertes cuando hablé de los beneficios mutuos que podrían fluir del intercambio de los mejores rasgos de Oriente y Occidente. El señor Wright y yo nos relajábamos ahora en la paz tropical; su diario de viaje da cuenta de sus impresiones de Mysore: «"campos de arroz brillantemente verdes, variados por parcelas de caña de azúcar con borlas, se anidan al pie protector de colinas rocosas, y el juego de colores se realza con la súbita y dramática desaparición del sol cuando busca reposo tras las colinas solemnes»:
+Ante mis palabras, el señor Wright se mostró primero sorprendido y luego complacido.
 
-> “Many rapturous moments have been spent in gazing, almost absent-mindedly, at the ever-changing canvas of God stretched across the firmament, for His touch alone is able to produce colors that vibrate with the freshness of life.
+Yogananda
 
-*«Muchos momentos de arrobo se han pasado contemplando, casi distraídamente, el lienzo siempre cambiante de Dios tendido por el firmamento, pues solo su toque es capaz de producir colores que vibran con la frescura de la vida: esa juventud de colores se pierde cuando el hombre intenta imitar con meros pigmentos, porque el Señor recurre a un medio más simple y efectivo: óleos que no son óleos ni pigmentos, sino meros rayos de luz; arroja un salpicón de luz aquí, y refleja rojo; agita el pincel otra vez y se funde gradualmente en naranja y oro; luego, con un pinchazo penetrante, apuñala las nubes con una veta de púrpura que deja un rizo o fleco de rojo rezumando de la herida en las nubes: y así, una y otra vez, juega, noche y mañana por igual, siempre cambiante, siempre nuevo, siempre fresco; sin patrones, sin duplicados, sin colores exactamente iguales: la belleza del cambio indio del día a la noche no tiene par en otra parte; a menudo el cielo parece como si Dios hubiera tomado todos los colores de su estuche y les hubiera dado un poderoso sacudón caleidoscópico por los cielos". Debo relatar el esplendor de una visita crepuscular a la enorme presa Krishnaraja Sagar, construida a doce millas de Mysore: Yoganandaji y yo abordamos un pequeño autobús y, con un niño pequeño como arrancador oficial o sustituto de la batería, partimos por un camino liso de tierra justo cuando el sol se ponía en el horizonte, aplastándose como un tomate demasiado maduro: nuestro viaje pasó junto a los omnipresentes campos cuadrados de arroz, a través de una hilera de banianos reconfortantes, entre una arboleda de cocoteros en torre, con vegetación casi tan espesa como en una jungla, y finalmente, acercándonos a la cresta de una colina, nos encontramos cara a cara con un inmenso lago artificial que reflejaba las estrellas y un fleco de palmas, rodeado de preciosos jardines en terrazas y una fila de luces eléctricas al borde de la presa; y debajo, nuestros ojos encontraron un espectáculo deslumbrante de haces de colores jugando sobre fuentes como géiseres, como tantos chorros de tinta brillante vertiéndose: cascadas de un azul espléndido, cataratas rojas arrestadoras, rocíos verdes y amarillos, elefantes lanzando agua, una miniatura de la Feria Mundial de Chicago, y sin embargo modernamente sobresaliente en esta tierra antigua de campos de arroz y gente sencilla, que nos ha dado una bienvenida tan amorosa que temo que costará más que mis fuerzas traer a Yoganandaji de vuelta a América"*:
+*Wright guarda como recuerdo unos pétalos bendecidos por el sacerdote y sigue anotando sus impresiones en el diario; del cielo de la India escribe:*
 
-> “Another rare privilege—my first elephant ride.
+> Many rapturous moments have been spent in gazing, almost absent-mindedly, at the ever-changing canvas of God stretched across the firmament, for His touch alone is able to produce colors that vibrate with the freshness of life.
 
-*«"Otro raro privilegio: mi primer paseo en elefante: ayer el Yuvaraja nos invitó a su palacio de verano a disfrutar un paseo en uno de sus elefantes, una bestia enorme; subí una escalera provista para encaramarme al howdah o silla, acolchada de seda y en forma de caja; y luego, una rodante, sacudida, oscilante y cabeceante bajada a una quebrada: ¡demasiado emocionado para preocuparme o exclamar, pero aferrándome a la vida querida!"». El sur de la India, rica en restos históricos y arqueológicos, es una tierra de encanto definido y sin embargo indefinible: al norte de Mysore está el mayor estado nativo de la India, Hyderabad, una meseta pintoresca cortada por el poderoso río Godavari. La exhibición más sobrecogedora de arquitectura, escultura y pintura de toda la India se halla en Hyderabad, en las antiguas cuevas esculpidas en roca de Ellora y Ajanta: el Kailasa de Ellora, un enorme templo monolítico, posee figuras talladas de dioses, hombres y bestias en las proporciones estupendas de un Miguel Ángel; Ajanta es el sitio de cinco catedrales y veinticinco monasterios, todos excavaciones en la roca sostenidas por tremendas columnas afrescadas. La ciudad de Hyderabad está adornada por la Universidad Osmania y por la imponente mezquita Mecca Masjid, donde diez mil mahometanos pueden reunirse en oración. El Estado de Mysore también es una maravilla escénica, a tres mil pies sobre el nivel del mar, abundante en densos bosques tropicales, hogar de elefantes salvajes, bisontes, osos, panteras y tigres; sus dos ciudades principales, Bangalore y Mysore, son limpias y atractivas, con muchos parques y jardines públicos. La arquitectura y la escultura hindúes alcanzaron su más alta perfección en Mysore bajo el patrocinio de los reyes hindúes de los siglos once al quince: el templo de Belur, una obra maestra del siglo once completada bajo el reinado del rey Vishnuvardhana, no tiene par en el mundo por su delicadeza de detalle y su exuberante imaginería. Los pilares de roca hallados en el norte de Mysore datan del tercer siglo antes de Cristo, iluminando la memoria del rey Asoka, cuyo imperio incluía casi toda la India moderna, Afganistán y Baluchistán: este ilustre emperador, considerado incluso por historiadores occidentales un gobernante incomparable, dejó la siguiente sabiduría en un memorial de roca: «"esta inscripción religiosa ha sido grabada para que nuestros hijos y nietos no piensen que una nueva conquista es necesaria; que no piensen que la conquista por la espada merece el nombre de conquista; que no vean en ella sino destrucción y violencia; que no consideren como verdadera conquista nada salvo la conquista de la religión: tales conquistas valen en este mundo y en el siguiente"». Asoka era nieto del formidable Chandragupta Maurya, conocido por los griegos como Sandrocottus, que en su juventud había conocido a Alejandro Magno; luego Chandragupta destruyó las guarniciones macedonias dejadas en la India, derrotó al ejército griego invasor de Seleuco en el Punjab y recibió en su corte de Patna al embajador helénico Megasthenes. Historias intensamente interesantes han sido registradas minuciosamente por historiadores griegos que acompañaron o siguieron a Alejandro en su expedición a la India: las narraciones de Arriano, Diodoro, Plutarco y Estrabón arrojan un haz de luz sobre la India antigua. El rasgo más admirable de la invasión fallida de Alejandro fue el profundo interés que mostró por la filosofía hindú y por los yoguis y hombres santos que encontraba de cuando en cuando y cuya sociedad buscaba ansiosamente: poco después de llegar el guerrero griego a Taxila, en el norte de la India, envió un mensajero, Onesikritos, discípulo de la escuela helénica de Diógenes, a buscar a un maestro indio, Dandamis, un gran sannyasi de Taxila:*
+Muchos momentos de arrobo he pasado contemplando, casi distraído, el lienzo siempre cambiante de Dios extendido por el firmamento, pues solo su toque puede producir colores que vibran con la frescura de la vida.
+
+Sr. Wright
+
+*Y de otra novedad de aquellos días, cortesía del Yuvaraja, el heredero del maharajá:*
+
+> Another rare privilege—my first elephant ride.
+
+Otro raro privilegio: mi primer paseo en elefante.
+
+Sr. Wright
+
+*La India del sur es también un libro de historia: las cuevas excavadas de Ellora y Ajanta, el templo de Belur, las columnas del rey Asoka. Y una historia vieja: cuando Alejandro Magno llegó a la India, quiso conocer a un yogui desnudo que yacía sobre un lecho de hojas, y lo saludó con honores:*
 
 > “Hail to thee, O teacher of Brahmins!”
 
-*«"¡Salve a ti, oh maestro de los brahmanes!, dijo Onesikritos tras buscar a Dandamis en su retiro del bosque: el hijo del poderoso dios Zeus, siendo Alejandro, que es el Señor Soberano de todos los hombres, te pide que vayas a él, y si accedes te recompensará con grandes regalos, ¡pero si rehúsas, te cortará la cabeza!"»:*
+«¡Salve a ti, maestro de brahmanes!»
+
+Alejandro
+
+*El yogui recibió con calma aquella invitación casi compulsiva:*
 
 > The yogi received this fairly compulsive invitation calmly, and “did not so much as lift up his head from his couch of leaves.”
 
-*«El yogui recibió esta invitación bastante compulsiva con calma, y "ni siquiera alzó la cabeza de su lecho de hojas": "yo también soy hijo de Zeus, si Alejandro lo es, comentó: nada quiero de lo que es de Alejandro, pues estoy contento con lo que tengo, mientras veo que él vaga con sus hombres por mar y tierra sin ventaja alguna, sin llegar jamás al final de sus vagabundeos. Ve y dile a Alejandro que Dios, el Rey Supremo, nunca es autor de injuria insolente, sino Creador de la luz, de la paz, de la vida, del agua, del cuerpo del hombre y de las almas; que recibe a todos los hombres cuando la muerte los libera, sin estar sujeto en manera alguna a la enfermedad del mal: solo él es el Dios de mi homenaje, que aborrece la matanza y no instiga guerras"*:
+El yogui recibió esta invitación bastante compulsiva con calma, y «ni siquiera levantó la cabeza de su lecho de hojas».
 
-> “Alexander is no god, since he must taste of death,” continued the sage in quiet scorn. “How can such as he be the world’s master, when he has not yet seated himself on a throne of inner universal dominion?
+Yogananda
 
-*«"Alejandro no es un dios, pues ha de gustar la muerte, prosiguió el sabio en quieta sorna: ¿cómo puede un tal ser el amo del mundo, cuando aún no se ha sentado en un trono de dominio universal interior? ¡Tampoco ha entrado vivo aún en el Hades, ni conoce el curso del sol por las regiones centrales de la tierra, mientras las naciones en sus fronteras ni siquiera han oído su nombre!". Tras este correctivo, seguramente el más cáustico jamás enviado a asaltar los oídos del "Señor del Mundo", el sabio añadió irónicamente: "si los dominios actuales de Alejandro no son lo bastante capaces para sus deseos, que cruce el río Ganges: allí hallará una región capaz de sostener a todos sus hombres, si el país de este lado es demasiado angosto para contenerlo. Sabe esto, sin embargo: lo que Alejandro ofrece y los regalos que promete son cosas para mí del todo inútiles; las cosas que aprecio y hallo de real uso y valor son estas hojas que son mi casa, estas plantas florecientes que me proveen el alimento diario y el agua que es mi bebida; mientras que todas las otras posesiones que se amontonan con cuidado ansioso suelen probar ruinosas para quienes las reúnen, y causan solo pena y vejación. En cuanto a mí, yezco sobre las hojas del bosque y, no teniendo nada que requiera guardia, cierro los ojos en tranquilo sueño; mientras que, si tuviera algo que guardar, eso desterraría el sueño: la tierra me provee de todo, como una madre a su niño de leche; voy donde me place, y no hay preocupaciones con las que me vea forzado a cargar. Si Alejandro me corta la cabeza, no puede destruir también mi alma: mi cabeza sola, entonces silente, quedará, dejando el cuerpo como una prenda rota sobre la tierra, de donde también fue tomada; yo entonces, volviéndome Espíritu, ascenderé a mi Dios, que nos encerró a todos en carne y nos dejó sobre la tierra para probar si, estando aquí abajo, viviremos obedientes a sus ordenanzas, y que también pedirá a todos nosotros, al partir de aquí a su presencia, una cuenta de nuestra vida, pues es Juez de toda altiva maldad: porque los gemidos de los oprimidos se vuelven el castigo del opresor. Que Alejandro aterrorice entonces con estas amenazas a los que desean riqueza y temen la muerte, pues contra nosotros estas armas son ambas igualmente impotentes: los brahmanes ni aman el oro ni temen la muerte. Ve entonces y dile a Alejandro esto: Dandamis no necesita nada de lo tuyo, y por tanto no irá a ti; y si quieres algo de Dandamis, ven tú a él". Con atenta atención recibió Alejandro, por boca de Onesikritos, el mensaje del yogui, y "sintió un deseo más fuerte que nunca de ver a Dandamis que, aunque viejo y desnudo, era el único antagonista en quien él, el conquistador de muchas naciones, había hallado más que su pareja"». Alejandro invitó a Taxila a varios ascetas brahmanes notables por su habilidad en responder preguntas filosóficas con sabiduría concisa; Plutarco da cuenta de la escaramuza verbal, con preguntas formuladas por el propio Alejandro: «"¿cuáles son más numerosos, los vivos o los muertos?". "Los vivos, porque los muertos no son". "¿Cuál cría los animales mayores, el mar o la tierra?". "La tierra, porque el mar es solo una parte de la tierra". "¿Cuál es la más astuta de las bestias?"»:*
+*Y habló sin moverse:*
 
-> “That one with which man is not yet acquainted.”
+> “Alexander is no god, since he must taste of death,” continued the sage in quiet scorn.
 
-*«"Aquella con la que el hombre aún no se ha encontrado": el hombre teme lo desconocido. "¿Qué existió primero, el día o la noche?". "El día fue primero, por un día"*:
+«Alejandro no es ningún dios, pues ha de gustar la muerte», prosiguió el sabio con tranquilo desprecio.
+
+El yogui
+
+*Y aún siguió:*
+
+> “How can such as he be the world’s master, when he has not yet seated himself on a throne of inner universal dominion? Neither as yet has he entered living into Hades, nor does he know the course of the sun through the central regions of the earth, while the nations on its boundaries have not so much as heard his name!”
+
+«¿Cómo puede uno así ser el amo del mundo, cuando aún no se ha sentado en un trono de dominio interior y universal? Todavía no ha entrado vivo en el Hades, ni conoce el curso del sol por las regiones centrales de la tierra, ¡mientras las naciones de sus confines ni siquiera han oído su nombre!»
+
+El yogui
+
+*El diálogo siguió; a una de las respuestas del brahmán:*
 
 > This reply caused Alexander to betray surprise; the Brahmin added: “Impossible questions require impossible answers.”
 
-*«Esta respuesta hizo que Alejandro traicionara su sorpresa; el brahmán añadió: "las preguntas imposibles requieren respuestas imposibles". "¿Cómo puede un hombre hacerse amar mejor?". "Un hombre será amado si, poseído de gran poder, no se hace temer". "¿Cómo puede un hombre volverse un dios?". "Haciendo aquello que es imposible para un hombre hacer". "¿Qué es más fuerte, la vida o la muerte?". "La vida, porque soporta tantos males"*:
+La respuesta hizo traicionar la sorpresa de Alejandro; el brahmán añadió: «Las preguntas imposibles requieren respuestas imposibles.»
+
+Yogananda
+
+*Alejandro no se fue de la India con las manos vacías:*
 
 > Alexander succeeded in taking out of India, as his teacher, a true yogi.
 
-*«Alejandro logró sacar de la India, como su maestro, a un yogui verdadero: este hombre fue Swami Sphines, llamado "Kalanos" por los griegos porque el santo, devoto de Dios en la forma de Kali, saludaba a todos pronunciando su nombre auspicioso. Kalanos acompañó a Alejandro a Persia: en un día señalado, en Susa de Persia, Kalanos entregó su cuerpo envejecido entrando en una pira funeraria a la vista de todo el ejército macedonio; los historiadores registran el asombro de los soldados, que observaron que el yogui no tenía miedo del dolor ni de la muerte, y que ni una sola vez se movió de su posición mientras era consumido en las llamas. Antes de partir hacia su cremación, Kalanos había abrazado a todos sus compañeros cercanos, pero se abstuvo de despedirse de Alejandro, a quien el sabio hindú apenas le había comentado»:
+Alejandro consiguió sacar de la India, como maestro suyo, a un yogui verdadero.
+
+Yogananda
+
+*Aquel maestro, Kalanos, lo acompañó años; ya anciano y enfermo en Persia, pidió ser quemado en la pira y se consumió en las llamas sin moverse. A Alejandro no le dijo adiós; solo:*
 
 > “I shall see you shortly in Babylon.”
+>
+> Alexander left Persia, and died a year later in Babylon. His Indian guru’s words had been his way of saying he would be present with Alexander in life and death.
 
-*«"Te veré en breve en Babilonia": Alejandro dejó Persia y murió un año después en Babilonia»:
+«Te veré pronto en Babilonia.»
 
-> His Indian guru’s words had been his way of saying he would be present with Alexander in life and death.
+Alejandro salió de Persia y murió un año después en Babilonia. Las palabras de su gurú indio habían sido su manera de decir que estaría con Alejandro en la vida y en la muerte.
 
-*«Las palabras de su gurú indio habían sido su manera de decir que estaría presente con Alejandro en la vida y en la muerte». Los historiadores griegos nos han dejado muchos cuadros vívidos e inspiradores de la sociedad india: la ley hindú, nos cuenta Arriano, protege al pueblo y «"ordena que nadie entre ellos será, bajo circunstancia alguna, esclavo, sino que, disfrutando ellos mismos la libertad, respetarán el derecho igual a ella que todos poseen"»; otro texto corre: "los indios ni prestan dinero a usura ni saben cómo pedir prestado; es contrario al uso establecido que un indio haga o sufra un agravio, y por tanto ni hacen contratos ni requieren garantías"; la sanación era por medios simples y naturales: "las curas se efectúan más bien regulando la dieta que por el uso de medicinas; los remedios más estimados son ungüentos y emplastos"; la ocupación de la guerra estaba restringida a los Kshatriyas o casta guerrera: "tampoco un enemigo que se abalanzara sobre un labrador en su trabajo en su tierra le haría daño alguno, pues los hombres de esta clase, tenidos por benefactores públicos, están protegidos de toda injuria; la tierra, permaneciendo así indemne y produciendo cosechas pesadas, abastece a los habitantes de lo necesario para hacer la vida disfrutable"». El emperador Chandragupta, que en 305 antes de Cristo había derrotado al general de Alejandro, Seleuco, decidió siete años después entregar las riendas del gobierno de la India a su hijo: viajando al sur de la India, Chandragupta pasó los últimos doce años de su vida como asceta sin un centavo, buscando la realización del ser en una cueva rocosa en Sravanabelagola, hoy honrada como santuario de Mysore; cerca se alza la estatua más grande del mundo, tallada de un inmenso peñasco por los jainas en el año 983 para honrar al santo Comateswara. Los ubicuos santuarios religiosos de Mysore son un recordatorio constante de los muchos grandes santos del sur de la India: uno de estos maestros, Thayumanavar, nos ha dejado este poema retador: «"puedes controlar un elefante enloquecido; puedes cerrar la boca del oso y del tigre; puedes montar un león; puedes jugar con la cobra; por alquimia puedes arrancar tu sustento; puedes vagar por el universo de incógnito; puedes hacer vasallos de los dioses; puedes ser siempre joven; puedes caminar sobre el agua y vivir en el fuego; pero el control de la mente es mejor y más difícil"». En el hermoso y fértil Estado de Travancore, en el extremo sur de la India, donde el tránsito se conduce por ríos y canales, el maharajá asume cada año una obligación hereditaria de expiar el pecado incurrido por las guerras y la anexión en el pasado distante de varios pequeños estados a Travancore: durante cincuenta y seis días anuales el maharajá visita el templo tres veces al día para oír himnos y recitaciones védicas; la ceremonia de expiación termina con el lakshadipam o iluminación del templo por cien mil luces. El gran legislador hindú Manu ha delineado los deberes de un rey: «"debe llover amenidades como Indra, el señor de los dioses; cobrar impuestos suave e imperceptiblemente, como el sol obtiene vapor del agua; entrar en la vida de sus súbditos como el viento va a todas partes; medir justicia pareja a todos como Yama, el dios de la muerte; atar a los transgresores en un lazo como Varuna; agradar a todos como la luna; quemar a los enemigos viciosos como el dios del fuego; y sostener a todos como la diosa tierra. En la guerra, un rey no debe pelear con armas venenosas o ígneas, ni matar a enemigos débiles, desprevenidos o sin armas, ni a hombres que temen o que piden protección o que huyen: la guerra debe recurrirse solo como último recurso; los resultados son siempre dudosos en la guerra"». La presidencia de Madrás, en la costa sudeste de la India, contiene la llana y espaciosa ciudad ceñida de mar de Madrás y Conjeeveram, la Ciudad Dorada, capital de la dinastía Pallava; en la moderna presidencia de Madrás los ideales no violentos del Mahatma Gandhi han hecho gran avance: las blancas e inconfundibles "gorras Gandhi" se ven por doquier, y en el sur en general el Mahatma ha efectuado muchas reformas importantes de templos para los "intocables", así como reformas del sistema de castas. El origen del sistema de castas, formulado por el gran legislador Manu, fue admirable: vio claramente que los hombres se distinguen por evolución natural en cuatro grandes clases: los capaces de ofrecer servicio a la sociedad por su labor corporal (sudras); los que sirven por la mentalidad, la habilidad, la agricultura, el comercio y la vida de negocios en general (vaisyas); los de talentos administrativos, ejecutivos y protectores, gobernantes y guerreros (kshatriyas); y los de naturaleza contemplativa, espiritualmente inspirados e inspiradores (brahmanes): "ni el nacimiento ni los sacramentos ni el estudio ni la ascendencia pueden decidir si una persona es dos veces nacida, declara el Mahabharata: solo el carácter y la conducta pueden decidir"; Manu instruyó a la sociedad a mostrar respeto a sus miembros en la medida en que poseyeran sabiduría, virtud, edad, parentesco o, por último, riqueza: las riquezas en la India védica eran siempre despreciadas si se atesoraban o no estaban disponibles para fines caritativos, y a los hombres poco generosos de gran riqueza se les asignaba un rango bajo en la sociedad. Serios males surgieron cuando el sistema de castas se endureció a través de los siglos en una traba hereditaria: reformadores sociales como Gandhi y los miembros de numerosísimas sociedades en la India de hoy hacen un progreso lento pero seguro en restaurar los valores antiguos de la casta, basados únicamente en la cualificación natural y no en el nacimiento: cada nación de la tierra tiene su propio karma distintivo productor de miseria que tratar y remover; la India también, con su espíritu versátil e invulnerable, se probará igual a la tarea de la reforma de las castas. Tan encantador es el sur de la India que el señor Wright y yo anhelábamos prolongar nuestro idilio; pero el tiempo, en su rudeza inmemorial, no nos concedió extensiones corteses: yo estaba programado para dirigirme pronto a la sesión de clausura del Congreso Filosófico Indio en la Universidad de Calcuta. Al final de la visita a Mysore disfruté una charla con Sir C. V. Raman, presidente de la Academia India de Ciencias: este brillante físico hindú fue galardonado con el Premio Nobel en 1930 por su importante descubrimiento en la difusión de la luz, el "efecto Raman" hoy conocido por todo escolar. Agitando una despedida renuente a una multitud de estudiantes y amigos de Madrás, el señor Wright y yo partimos hacia el norte; en el camino nos detuvimos ante un pequeño santuario sagrado a la memoria de Sadasiva Brahman, en cuya historia de vida del siglo dieciocho los milagros se agrupan densamente; un santuario mayor de Sadasiva en Nerur, erigido por el Raja de Pudukkottai, es un lugar de peregrinaje que ha presenciado numerosas sanaciones divinas. Muchas historias pintorescas de Sadasiva, un maestro adorable y plenamente iluminado, circulan aún entre los aldeanos del sur de la India: sumido un día en samadhi en la orilla del río Kaveri, Sadasiva fue visto ser arrastrado por una inundación súbita; semanas después fue hallado enterrado profundamente bajo un montón de tierra, y cuando las palas de los aldeanos golpearon su cuerpo, el santo se levantó y se alejó caminando enérgicamente. Sadasiva nunca hablaba una palabra ni vestía una tela: una mañana, el yogui desnudo entró sin ceremonia en la tienda de un jefe mahometano; sus damas gritaron alarmadas; el guerrero asestó una salvaje estocada de espada a Sadasiva, cuyo brazo fue cercenado:*
+Kalanos
+
+*De vuelta hacia el norte, la pareja se detiene ante el santuario de Sadasiva Brahman, un maestro del siglo XVIII que nunca hablaba ni se vestía. Un día entró desnudo en la tienda de un jefe mahometano; el guerrero, furioso, le cercenó un brazo de un tajo:*
 
 > The master departed unconcernedly.
 
-*«El maestro partió despreocupadamente: vencido por el remordimiento, el mahometano recogió el brazo del suelo y siguió a Sadasiva; el yogui insertó quedamente su brazo en el muñón sangrante, y cuando el guerrero pidió humildemente alguna instrucción espiritual, Sadasiva escribió con su dedo sobre las arenas: "no hagas lo que quieres, y entonces podrás hacer lo que te gusta": el mahometano fue elevado a un estado exaltado de mente, y comprendió el consejo paradójico del santo como una guía a la libertad del alma por el dominio del ego. Los niños del pueblo expresaron una vez el deseo, en presencia de Sadasiva, de ver el festival religioso de Madura, a ciento cincuenta millas de distancia: el yogui indicó a los pequeños que tocaran su cuerpo, y ¡he aquí!: al instante el grupo entero fue transportado a Madura; los niños vagaron felices entre los miles de peregrinos, y en pocas horas el yogui trajo a casa a sus pequeñas cargas por su simple modo de transporte: los padres asombrados oyeron los relatos vívidos de la procesión de imágenes y notaron que varios niños llevaban bolsas de dulces de Madura. Un joven incrédulo se burló del santo y de la historia»:
+El maestro se marchó como si nada.
 
-> The following morning he approached Sadasiva.
+Yogananda
 
-*«A la mañana siguiente se acercó a Sadasiva: "Maestro, dijo burlón, ¿por qué no me llevas al festival, como hiciste ayer por los otros niños?"»:
+*El guerrero, arrepentido, recogió el brazo y lo siguió; el yogui se lo reinsertó en el muñón y le escribió con el dedo en la arena una enseñanza que el hombre entendió como guía hacia la libertad del alma. También los niños del pueblo conocían sus prodigios: un día los llevó, con solo tocarlos, a la fiesta religiosa de Madura, a ciento cincuenta millas. Un joven incrédulo se burló de la historia y a la mañana siguiente le pidió lo mismo:*
 
-> Sadasiva complied; the boy immediately found himself among the distant city throng. But alas! where was the saint when the youth wanted to leave?
+> Sadasiva complied; the boy immediately found himself among the distant city throng.
 
-*«Sadasiva accedió; el muchacho se encontró de inmediato entre la multitud de la ciudad distante. ¡Mas, ay!: ¿dónde estaba el santo cuando el joven quiso irse? El muchacho cansado llegó a su casa por el antiguo y prosaico método de la locomoción a pie».*
+Sadasiva accedió; el muchacho se encontró al instante en medio de la multitud de la ciudad lejana.
+
+Yogananda
+
+*El regreso fue otra cosa:*
+
+> But alas! where was the saint when the youth wanted to leave?
+
+¡Pero, ay!, ¿dónde estaba el santo cuando el joven quiso marcharse?
+
+Yogananda
+
+*El cansado muchacho llegó a su casa por el método antiguo y prosaico de caminar a pie. Wright y Yogananda siguen hacia Calcuta, donde lo espera el Congreso Filosófico de la India.*
 
 ## Capítulo 42: Los últimos días con mi gurú
 
