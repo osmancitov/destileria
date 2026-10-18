@@ -2462,6 +2462,115 @@ Yogananda
 
 *El reverso del dolor no se debió a volición alguna del maestro, sino a la aplicación infalible de la ley de justicia que sostiene el orbe más lejano de la creación: los hombres de realización en Dios, como Trailanga, permiten que la ley divina opere instantáneamente, pues han desterrado para siempre toda contracorriente frustrante del ego. Los ajustes automáticos de la rectitud, pagados a menudo en moneda inesperada, sosiegan nuestra indignación apresurada ante la injusticia humana: «mía es la venganza; yo pagaré, dice el Señor». La omnipotencia de la ley espiritual fue señalada por Cristo con ocasión de su entrada triunfal en Jerusalén: cuando los discípulos y la multitud gritaban de gozo y ciertos fariseos se quejaron del espectáculo indigno, «Maestro, protestaron, reprende a tus discípulos», Jesús respondió: «os digo que, si estos callaran, las piedras clamarían en el acto». La gracia del yogui semejante a Cristo, Trailanga, fue concedida una vez al sajo mama de Yogananda, su tío materno: una mañana, el tío vio al maestro rodeado de una multitud de devotos en un ghat de Benares, logró abrirse paso hasta Trailanga y le tocó humildemente los pies, y se asombró de hallarse libre al instante de una dolorosa enfermedad crónica. La única discípula viva conocida del gran yogui es una mujer, Shankari Mai Jiew: vivió cuarenta años en una serie de cuevas solitarias del Himalaya cerca de Badrinath, Kedarnath, Amarnath y Pasupatinath, y aunque nació en 1826 conserva su cabello negro, sus dientes brillantes y su asombrosa energía. Ella contó que un día, sentada junto a Lahiri Mahasaya en el barrio de Barackpur, cerca de Calcuta, el gran gurú Babaji entró quedamente en la habitación y conversó con ambos. En una ocasión, Trailanga, abandonando su silencio habitual, honró muy señaladamente a Lahiri Mahasaya en público, y un discípulo de Benares objetó: «señor, ¿por qué tú, un swami y un renunciante, muestras tal respeto a un hombre de familia?». «Hijo mío, respondió Trailanga, Lahiri Mahasaya es como un gatito divino, que permanece donde la Madre Cósmica lo ha colocado: mientras representa con esmero su papel de hombre mundano, ha recibido esa perfecta autorrealización por la que yo he renunciado incluso a mi taparrabos».*
 
+## Capítulo 32: Rama es resucitado de entre los muertos
+
+*«Había un hombre enfermo llamado Lázaro... Cuando Jesús lo oyó, dijo: esta enfermedad no es para muerte, sino para la gloria de Dios, para que el Hijo de Dios sea glorificado por ella». Sri Yukteswar exponía las escrituras cristianas una mañana soleada en el balcón de su ermita de Serampore, ante algunos de sus discípulos y un grupito de estudiantes de Ranchi que acompañaban a Yogananda. «En este pasaje, Jesús se llama a sí mismo Hijo de Dios»:*
+
+> Though he was truly united with God, his reference here has a deep impersonal significance,” my guru explained.
+
+«Aunque estaba verdaderamente unido a Dios, su referencia aquí tiene una honda significación impersonal, explicó mi gurú».
+
+Yogananda
+
+*«El Hijo de Dios es el Cristo o Conciencia Divina en el hombre; ningún mortal puede glorificar a Dios: el único honor que el hombre puede rendir a su Creador es buscarlo, pues no puede glorificar una Abstracción que no conoce; la "gloria" o nimbo alrededor de la cabeza de los santos es un testigo simbólico de su capacidad de rendir homenaje divino». Sri Yukteswar siguió leyendo la maravillosa historia de la resurrección de Lázaro y, al concluir, guardó un largo silencio con el libro sagrado abierto sobre la rodilla:*
+
+> “I too was privileged to behold a similar miracle.” My guru finally spoke with solemn unction.
+
+«"Yo también tuve el privilegio de contemplar un milagro semejante". Mi gurú habló al fin con solemne unción».
+
+Yogananda
+
+*«Lahiri Mahasaya resucitó a uno de mis amigos de entre los muertos». Los jóvenes estudiantes sonrieron con vivo interés; también en Yogananda quedaba suficiente muchacho para disfrutar, sobre todo, cualquier historia que Sri Yukteswar relatara sobre sus maravillosas experiencias con su gurú. «Mi amigo Rama y yo éramos inseparables, comenzó el Maestro: porque era tímido y recluso, elegía visitar a nuestro gurú Lahiri Mahasaya solo en las horas de la medianoche y el alba, cuando faltaba la multitud de discípulos diurnos; como su amigo más cercano, yo servía de conducto espiritual por el que él dejaba salir la riqueza de sus percepciones espirituales»:*
+
+> I found inspiration in his ideal companionship.” My guru’s face softened with memories.
+
+«Hallé inspiración en su ideal compañía". El rostro de mi gurú se suavizó de recuerdos».
+
+Yogananda
+
+*«Rama fue puesto de pronto a una severa prueba, continuó Sri Yukteswar: contrajo la enfermedad del cólera asiático. Como nuestro maestro nunca objetaba los servicios de los médicos en tiempos de enfermedad grave, llamaron a dos especialistas; en medio del frenético ir y venir para atender al enfermo, yo oraba profundamente a Lahiri Mahasaya pidiendo ayuda, y corrí a su casa a sollozarle la historia. "Los médicos están viendo a Rama: estará bien": mi gurú sonrió jovialmente. Volví con el corazón ligero al lecho de mi amigo, solo para hallarlo en estado agonizante: "no durará más de una o dos horas", me dijo uno de los médicos con un gesto de desesperación»:*
+
+> Once more I hastened to Lahiri Mahasaya.
+
+«Una vez más me apresuré a donde Lahiri Mahasaya».
+
+Yogananda
+
+*«"Los médicos son hombres concienzudos; estoy seguro de que Rama estará bien": el maestro lo despidió alegremente. En casa de Rama halló que ambos doctores se habían ido y que uno le había dejado una nota: "hemos hecho lo posible, pero su caso es desesperado". Su amigo era en verdad la imagen misma de un moribundo: no entendía cómo las palabras de Lahiri Mahasaya podían faltar a su cumplimiento, y sin embargo la vista de la vida de Rama, que menguaba rápidamente, le sugería a la mente: "todo ha terminado ahora". Meciéndose así sobre mares de fe y de aprensiva duda, atendió a su amigo lo mejor que pudo, hasta que este se rehizo para gritar»:*
+
+> “‘Yukteswar., run to Master and tell him I am gone.
+
+«"Yukteswar, corre a donde el Maestro y dile que me he ido».
+
+Yogananda
+
+*«"Pídele que bendiga mi cuerpo antes de sus últimos ritos": con estas palabras, Rama suspiró pesadamente y entregó el espíritu»:*
+
+> “I wept for an hour
+
+«"Lloré una hora junto a su forma amada».
+
+Yogananda
+
+*Él, que siempre fue amante de la quietud, había alcanzado ahora el silencio absoluto de la muerte. Entró otro discípulo y Yukteswar le pidió que permaneciera en la casa hasta su regreso; medio aturdido, caminó penosamente de vuelta a donde su gurú: «"¿cómo está Rama ahora?"»:*
+
+> Lahiri Mahasaya’s face was wreathed in smiles.
+> “‘Sir, you will soon see how he is,’ I blurted out emotionally.
+
+«El rostro de Lahiri Mahasaya era una guirnalda de sonrisas. "Señor, pronto verá usted cómo está, solté emocionado».
+
+Yogananda
+
+*«"En unas horas verá usted su cuerpo, antes de que lo lleven al crematorio": se quebró y gimió abiertamente»:*
+
+> “‘Yukteswar, control yourself.
+
+«"Yukteswar, contrólate».
+
+Yogananda
+
+*«"Siéntate tranquilo y medita": el gurú se recogió en samadhi; la tarde y la noche pasaron en silencio ininterrumpido, mientras él luchaba sin éxito por recobrar la compostura interior»:*
+
+> “At dawn Lahiri Mahasaya glanced
+
+«"Al alba, Lahiri Mahasaya me miró consoladoramente».
+
+Yogananda
+
+*«"Veo que sigues perturbado; ¿por qué no me explicaste ayer que esperabas que yo diera a Rama ayuda tangible en forma de alguna medicina?": el maestro señaló una lámpara en forma de copa que contenía aceite crudo de ricino: "llena una botellita de la lámpara y pon siete gotas en la boca de Rama". "Señor, protesté, lleva muerto desde ayer al mediodía; ¿de qué sirve ahora el aceite?". "No importa; haz simplemente lo que te pido". El ánimo alegre de Lahiri Mahasaya era incomprensible; vertiendo una pequeña cantidad de aceite, partió hacia la casa de Rama y halló el cuerpo de su amigo rígido en el abrazo de la muerte. Sin hacer caso de su espantosa condición, le abrió los labios con el dedo índice y logró, con la mano izquierda y la ayuda del corcho, gotear el aceite gota a gota sobre sus dientes apretados. Al tocar la séptima gota sus fríos labios, Rama se estremeció violentamente: sus músculos vibraron de la cabeza a los pies mientras se incorporaba asombrado»:*
+
+> “‘I saw Lahiri Mahasaya in a blaze of light
+
+«"Vi a Lahiri Mahasaya en una llamarada de luz, gritó».
+
+Yogananda
+
+*«"Brillaba como el sol: "Levántate; abandona tu sueño", me ordenó; "ven con Yukteswar a verme"». Apenas podía creer sus ojos cuando Rama se vistió y, con fuerzas tras aquella enfermedad fatal, caminó hasta la casa del gurú y se postró ante Lahiri Mahasaya con lágrimas de gratitud. El maestro estaba fuera de sí de regocijo, los ojos chispeantes de picardía: «"Yukteswar, dijo, ¡de ahora en adelante seguro que no dejarás de llevar contigo una botella de aceite de ricino! ¡Cuando veas un cadáver, adminístrale el aceite! ¡Vaya si siete gotas de aceite de lámpara frustrarán el poder de Yama!"»:*
+
+> “‘Guruji, you are ridiculing me.
+
+«"Guruji, te estás burlando de mí».
+
+Yogananda
+
+*«"No entiendo; por favor, señálame la naturaleza de mi error". "Te dije dos veces que Rama estaría bien, y sin embargo no pudiste creerme del todo, explicó Lahiri Mahasaya; no quise decir que los médicos pudieran curarlo: observé únicamente que estaban presentes; no había conexión causal entre mis dos afirmaciones; no quise interferir con los médicos: también ellos tienen que vivir". Y en una voz resonante de gozo, mi gurú añadió: "sabe siempre que el inagotable Paramatman puede sanar a cualquiera, con médicos o sin ellos". "Veo mi error", reconocí compungido»:*
+
+> ‘I know now that your simple word
+
+«"Ahora sé que tu simple palabra es vinculante para el cosmos entero'"».
+
+Yogananda
+
+*Al terminar Sri Yukteswar la tremenda historia, uno de los oyentes embelesados se atrevió con una pregunta: «señor, dijo, ¿por qué usó tu gurú aceite de ricino?». «Hijo, dar el aceite no tenía significado excepto que yo esperaba algo material, y Lahiri Mahasaya eligió el aceite cercano como símbolo objetivo para despertar mi mayor fe; el maestro permitió que Rama muriera porque yo había dudado parcialmente; pero el gurú divino sabía que, habiendo dicho que el discípulo estaría bien, la curación debía ocurrir, ¡aunque tuviera que curar a Rama de la muerte, una enfermedad usualmente final!». Sri Yukteswar despidió al grupito y lo hizo sentar en una manta a sus pies:*
+
+> “Yogananda,” he said with unusual gravity
+
+«"Yogananda, dijo con inusual gravedad, has estado rodeado desde el nacimiento por discípulos directos de Lahiri Mahasaya».
+
+Yogananda
+
+*El gran maestro vivió su vida sublime en parcial reclusión y se negó con firmeza a permitir que sus seguidores construyeran organización alguna en torno a sus enseñanzas; hizo, no obstante, una predicción significativa: «"unos cincuenta años después de mi partida, dijo, mi vida será escrita a causa del profundo interés en el yoga que manifestará Occidente; el mensaje yóguico ceñirá el globo y ayudará a establecer esa hermandad del hombre que resulta de la percepción directa del Padre Único"». «Hijo mío Yogananda, prosiguió Sri Yukteswar, debes hacer tu parte en difundir ese mensaje y en escribir esa vida sagrada». Los cincuenta años tras la partida de Lahiri Mahasaya en 1895 culminaron en 1945, el año en que se completó este libro, el mismo que inauguró la era de las energías atómicas revolucionarias. Aunque la raza humana y sus obras desaparezcan sin rastro por el tiempo o por la bomba, el sol no vacila en su curso y las estrellas mantienen su invariable vigilia: la ley cósmica no puede detenerse ni cambiarse, y no la crueldad sino la buena voluntad arma los tendones universales. La efectiva Liga de las Naciones será una liga natural y sin nombre de corazones humanos, pues las simpatías amplias y la perspicacia necesarias para sanar los males terrenales no pueden fluir de una mera consideración intelectual de las diversidades del hombre, sino del conocimiento de su única unidad: su parentesco con Dios. La civilización de la India, antigua sobre cualquier otra, ha dado la respuesta más digna de pueblo alguno al desafío del tiempo: como en la plegaria bíblica de Abraham por Sodoma, «no la destruiré, por amor a diez», ninguna nación que pueda producir diez hombres grandes a los ojos del Juez Insobornable conocerá la extinción. Yogananda cierra el capítulo con el esbozo de la vida de Lahiri Mahasaya: nacido Shyama Charan el 30 de septiembre de 1828 en la aldea de Ghurni, distrito de Nadia, hijo menor de Muktakashi, segunda esposa del estimado Gaur Mohan Lahiri; a los tres o cuatro años se lo observaba a menudo sentado bajo las arenas en postura de yogui, con el cuerpo completamente oculto salvo la cabeza. La hacienda de los Lahiri fue destruida en el invierno de 1833, cuando el cercano río Jalangi cambió de curso y se hundió en las profundidades del Ganges, y la familia se estableció en Benares; el muchacho estudió hindi y urdu, sánscrito, bengalí, francés e inglés, y se aplicó al estudio cercano de los Vedas. En 1846 se casó con Srimati Kashi Moni, ama de casa ejemplar, y dos hijos santos, Tincouri y Ducouri, bendijeron la unión. A los veintitrés años tomó el puesto de contador en el Departamento de Ingeniería Militar del gobierno inglés, donde recibió muchos ascensos: no solo fue maestro ante los ojos de Dios, sino un éxito en el pequeño drama humano en que representaba su papel de oficinista del mundo. Fue a los treinta y tres años cuando vio cumplido el propósito para el que se había reencarnado en la tierra: cerca de Ranikhet conoció a su gran gurú, Babaji, y fue iniciado por él en el Kriya Yoga. Aquel evento auspicioso no le ocurrió a él solo, sino a toda la raza humana: el arte supremo del yoga, perdido o largamente desvanecido, volvía a ser traído a la luz, y como en la leyenda hindú en que la Madre Ganges ofrece su divino brebaje al devoto sediento Bhagirath, la inundación celestial del Kriya rodó desde las secretas fortalezas del Himalaya hasta las polvorientas moradas de los hombres.*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
