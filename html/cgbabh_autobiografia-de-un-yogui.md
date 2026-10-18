@@ -1554,6 +1554,8 @@ Yogananda
 
 ## Capítulo 21: Visitamos Cachemira
 
+![El landó de los seis viajeros camino de Srinagar, sobre una colina de flores amarillas, con los Himalayas nevados fila tras fila y la ermita de un pico lejano](img/cgbabh_autobiografia-de-un-yogui_i-21.jpg)
+
 *Dos días después de la curación milagrosa, el maestro lo sorprendió: «ya estás fuerte para viajar; te acompañaré a Cachemira». Esa noche el grupo de seis tomó el tren hacia el norte. Primera parada pausada en Simla, ciudad reina reposando sobre el trono de las colinas del Himalaya. En un pintoresco mercado al aire libre, una vieja gritaba «fresas inglesas»; el maestro, curioso ante aquellas frutillas rojas, compró una cesta y la ofreció a Kanai y a Mukunda, que probó una y la escupió con prisa: «¡qué fruta tan agria; jamás me gustarán las fresas!». El maestro rió: «te gustarán en América. En una cena allá, tu anfitriona te las servirá con azúcar y crema; después de machacarlas con un tenedor, las probarás y dirás: ¡qué fresas tan deliciosas! Entonces recordarás este día en Simla». Muchos años después, recién llegado a América, cenaba en casa de la señora Alice T. Hasey en West Somerville, Massachusetts, cuando sirvieron un postre de fresas: la anfitriona tomó su tenedor, machacó las bayas y añadió crema y azúcar. «La fruta es algo ácida; creo que te gustará así». Mukunda probó un bocado y exclamó ¡qué fresas tan deliciosas!:*
 
 > At once my guru’s prediction in Simla emerged from the fathomless cave of memory.
