@@ -1375,6 +1375,74 @@ Yogananda
 
 *«Veré que cursen aquí mismo en Serampore tus dos últimos años de universidad». «Pero señor, en esta ciudad no hay carrera de grado». Dos meses después, el presidente del Serampore College anunció públicamente que había reunido los fondos para ofrecer el curso completo de cuatro años. ¡El profesor Howells ni sueña cuánto debe a tu ayuda silenciosa! «Así no perderás tantas horas en trenes; quizá te vuelvas menos empollón de última hora y más estudioso, respondió el maestro con falsa severidad. Aunque, por algún motivo, su tono carecía de convicción».*
 
+## Capítulo 18: Un hacedor de milagros mahometano
+
+*Apenas instalado en Panthi, la pensión de ladrillo frente al Ganges donde viviría sus años en el Serampore College, recibió la primera visita del maestro, que soltó una frase sorprendente: «años atrás, en esta misma habitación que ahora ocupas, un hacedor de milagros mahometano realizó cuatro prodigios ante mí». Se llamaba Afzal Khan, y había adquirido sus poderes extraordinarios por un encuentro casual con un yogui hindú: un día de su infancia, en una aldea de Bengala oriental, un sannyasi cubierto de polvo le pidió agua:*
+
+> ‘Master, I am a Mohammedan. How could you, a Hindu, accept a drink from my hands?’
+
+«Maestro, soy mahometano. ¿Cómo podrías tú, un hindú, aceptar un trago de mis manos?».
+
+Afzal
+
+> ‘Your truthfulness pleases me, my child. I do not observe the ostracizing rules of ungodly sectarianism.
+
+«Tu veracidad me complace, hijo mío. Yo no observo las reglas excluyentes del sectarismo sin dios».
+
+El sannyasi
+
+*La obediencia reverente del muchacho fue recompensada con una mirada amorosa, con la enseñanza de un método de yoga y con una advertencia solemne:*
+
+> ‘You possess good karma from former lives,’ he observed solemnly.
+
+«Posees un buen karma de vidas anteriores», observó solemne.
+
+El sannyasi
+
+*«Voy a enseñarte un método que te dará dominio sobre uno de los reinos invisibles; nunca emplees esos poderes con egoísmo: percibo, ay, que traes del pasado semillas de tendencias destructivas. No las dejes brotar regándolas con nuevas malas acciones». Tras instruir al muchacho asombrado, el maestro se desvaneció. Afzal siguió fielmente el ejercicio durante veinte años, y sus hazañas milagrosas llamaron la atención de todos: lo acompañaba siempre un espíritu desencarnado al que llamaba Hazrat, capaz de cumplir su menor deseo. Ignorando la advertencia, empezó a abusar: cualquier objeto que tocaba y devolvía desaparecía después sin rastro, fuera una joya de las grandes tiendas de Calcuta o un rollo de billetes de tren. La policía no podía arrestarlo: bastaba que dijera «Hazrat, llévate esto» para que la prueba incriminatoria se esfumara.*
+
+*El dueño de la casa Panthi, amigo de Sri Yukteswar, invitó un día al notorio fakir y con él a una veintena de vecinos. El joven Yukteswar tomó la precaución de no llevar nada de valor. Afzal lo miró con curiosidad: «tienes manos poderosas: baja al jardín, toma una piedra lisa, escribe tu nombre con tiza y arrójala lo más lejos posible al Ganges». Obedeció. «Llena ahora una vasija con agua del río, junto a la casa». Y cuando volvió: «¡Hazrat, pon la piedra en la vasija!». La piedra apareció al instante, con la firma tan legible como cuando la escribió. Segundo prodigio: el reloj de oro antiguo del amigo Babu, que el fakir examinó con ominosa admiración y que pronto faltaba de su cadena; costó quinientas rupias de rescate y una invocación a Hazrat en el puente cercano para que cayera del aire en su mano derecha. Tercero: las bebidas pedidas por cada invitado (leche, jugos de fruta y un whisky para el desencajado Babu) llegaron en envases sellados, surcando el aire hasta golpear el suelo. Cuarto: un almuerzo instantáneo servido en platos de oro que aterrizaron de la nada a sus pies, con curries elaborados, luchis calientes y frutas fuera de temporada; al retirarse, un estruendo de vajilla apilada los hizo volverse: ni rastro de los platos relucientes ni de los restos del banquete. «Guruji, si Afzal conseguía platos de oro con tanta facilidad, ¿por qué codiciaba lo ajeno?». El fakir no estaba espiritualmente desarrollado, explicó el maestro: su técnica le daba acceso a un plano astral donde todo deseo se materializa al instante, pero los objetos producidos astralmente son evanescentes; Afzal seguía anhelando la riqueza mundana, de duración más confiable.*
+
+*Años después, Babu le mostró al maestro un recorte de periódico con la confesión pública del mahometano, escrita como acto de penitencia y advertencia. Afzal contaba que un día, en un camino a las afueras de Calcuta, abordó con codicia a un viejo que cojeaba penosamente llevando una bola brillante que parecía de oro; la tocó y siguió de largo sin responder, sordo al llanto del anciano que le reclamaba su única riqueza. De pronto, una voz estentórea surgió de aquel cuerpo frágil: «¿es que no me reconoces?»:*
+
+> I stood speechless, aghast at the belated discovery that this unimpressive old cripple was none other than the great saint who, long, long ago, had initiated me into yoga.
+
+«Me quedé sin habla, espantado ante el descubrimiento tardío de que aquel viejo lisiado y desgarbado no era otro que el gran santo que, mucho, mucho tiempo atrás, me había iniciado en el yoga».
+
+Afzal
+
+*El anciano se irguió y su cuerpo se volvió al instante fuerte y juvenil: «veo con mis propios ojos que usas tus poderes no para ayudar a la humanidad sufriente, sino para depredarla como un ladrón vulgar. Retiro tus dones ocultos; Hazrat queda ahora libre de ti»:*
+
+> I called on Hazrat in anguished tones; for the first time, he did not appear to my inner sight. But some dark veil suddenly lifted within me; I saw clearly the blasphemy of my life.
+
+«Llamé a Hazrat con tonos angustiados; por primera vez, no apareció a mi vista interior. Pero un velo oscuro se levantó de pronto dentro de mí; vi con claridad la blasfemia de mi vida».
+
+Afzal
+
+> ‘My guru, I thank you for coming to banish my long delusion.’
+
+«Mi gurú, te agradezco haber venido a disipar mi largo engaño».
+
+Afzal
+
+*Sollozando a sus pies, prometió renunciar a sus ambiciones mundanas y retirarse a las montañas a meditar en soledad sobre Dios, para expiar su mal pasado:*
+
+> My master regarded me with silent compassion. ‘I feel your sincerity,’ he said finally.
+
+«Mi maestro me miró con compasión silenciosa. "Siento tu sinceridad", dijo finalmente».
+
+Afzal
+
+*«Por tus primeros años de obediencia estricta y por tu arrepentimiento presente, te concederé una gracia: tus demás poderes se han ido, pero cuando necesites comida y ropa, aún podrás llamar con éxito a Hazrat. Dedícate de lleno al entendimiento divino en las soledades de la montaña»:*
+
+> My guru then vanished; I was left to my tears and reflections.
+
+«Mi gurú se desvaneció entonces; yo quedé a solas con mis lágrimas y mis reflexiones».
+
+Afzal
+
+*«Adiós, mundo: voy en busca del perdón del Amado Cósmico».*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
