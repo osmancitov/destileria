@@ -1002,6 +1002,198 @@ A veces es hermoso y nos enamoramos de toda esa historia, más de lo que ninguna
 
 Estamos hablando de herramientas y carpintería, de palabras y estilo… pero a medida que avancemos, harás bien en recordar que también estamos hablando de magia.
 
+## ON WRITING
+
+### La musa del sótano
+
+*No hay perros malos, dice el título de un manual de adiestramiento muy popular, pero no se lo digas a los padres de un niño atacado por un pit bull, que te romperán la nariz. Y con los escritores pasa igual:*
+
+> And no matter how much I want to encourage the man or woman trying for the first time to write seriously, I can’t lie and say there are no bad writers.
+
+Y por mucho que quiera animar al hombre o la mujer que intenta por primera vez escribir en serio, no puedo mentir y decir que no hay malos escritores.
+
+*Lo siento, pero hay muchísimos: algunos redactan en tu periódico local; otros han garrapateado camino hasta casas en el Caribe dejando un rastro de adverbios palpitantes, personajes de madera y viles construcciones pasivas:*
+
+> Others hold forth at open-mike poetry slams, wearing black turtlenecks and wrinkled khaki pants; they spout doggerel about “my angry lesbian breasts” and “the tilted alley where I cried my mother’s name.”
+
+Otros peroran en las noches de micrófono abierto, con jerseys negros de cuello alto y pantalones caqui arrugados; escupen ripios sobre «mis airados pechos de lesbiana» y «el callejón inclinado donde lloré el nombre de mi madre».
+
+*Los escritores forman la pirámide de todas las áreas del talento humano: abajo, los malos; encima, un grupo más pequeño pero aún grande y acogedor, los competentes (gente que entiende que, aunque una lesbiana esté airada, sus pechos seguirán siendo pechos); luego, muchos menos, los escritores realmente buenos; y por encima de casi todos, los Shakespeare, los Faulkner, los Yeats, los Shaw, las Eudora Welty: genios, accidentes divinos, freaks afortunados, la versión intelectual de las modelos de pasarela que nacieron con los pómulos exactos. King llega al corazón de este libro con dos tesis: la primera, que escribir bien consiste en dominar los fundamentos y llenar el tercer nivel de la caja de herramientas; la segunda, que es imposible hacer un escritor competente de uno malo, e igual de imposible hacer uno grande de uno bueno, pero que sí es posible, con mucho trabajo, dedicación y ayuda oportuna, hacer un buen escritor de uno meramente competente. Muchos críticos y profesores rechazan esto: liberales en política pero crustáceos en su campo, los mismos que protestarían contra la exclusión de afroamericanos del club de campo les dicen a sus clases que la capacidad de escribir es fija e inmutable; una vez un mediocre, siempre un mediocre. Raymond Chandler será hoy una figura importante de la literatura americana del siglo XX, pero habrá siempre críticos que rechacen ese juicio: «¡Un advenedizo! ¡Un advenedizo con pretensiones! ¡El peor tipo! ¡El que cree que puede pasar por uno de nosotros!». Y si sus colegas lo aceptan en la mesa de los grandes, lo sientan a los pies:*
+
+> And there are always those whispers: *Came out of the pulp tradition, you know … carries himself well for one of those, doesn’t he? … did you know he wrote for* Black Mask *in the thirties … yes, regrettable …*
+
+Y siempre están esos susurros: «Salió de la tradición pulp, ¿saben?… se comporta bien para ser uno de esos, ¿verdad?… ¿sabían que escribía para Black Mask en los treinta?… sí, lamentable…».
+
+*Ni siquiera Dickens, el Shakespeare de la novela, se libró del ataque constante por su materia sensacionalista y su éxito con la chusma lectora de su tiempo y del nuestro: los críticos siempre han sospechado del éxito popular, y a veces esa sospecha es solo una excusa para no pensar —nadie puede ser tan intelectualmente perezoso como una persona realmente lista; dales media oportunidad y recogerán los remos y se dejarán ir, dormitando hacia Bizancio—. King espera que lo acusen de predicar una filosofía descerebrada y feliz a lo Horatio Alger, y puede vivir con ello. Pero repite la premisa: si eres malo, nadie puede hacer de ti un escritor bueno ni siquiera competente; si eres bueno y quieres ser grande, olvídalo. Lo que sigue es todo lo que él sabe sobre cómo escribir buena ficción:*
+
+> I’ll be as brief as possible, because your time is valuable and so is mine, and we both understand that the hours we spend talking about writing is time we don’t spend actually *doing* it.
+
+Seré tan breve como pueda, porque tu tiempo es valioso y el mío también, y los dos entendemos que las horas que pasamos hablando de escribir son horas que no pasamos escribiendo de verdad.
+
+*Será también todo lo alentador que pueda, porque es su naturaleza y porque ama este oficio, y quiere que tú también lo ames:*
+
+> But if you don’t want to work your ass off, you have no business trying to write well—settle back into competency and be grateful you have even that much to fall back on.
+
+Pero si no quieres trabajar como un condenado, no tienes nada que hacer intentando escribir bien: acomódate en la competencia y agradece tener siquiera eso a lo que volverte.
+
+*La musa existe, pero no va a bajar revoloteando a tu cuarto a esparcir polvo de hadas sobre tu máquina: vive bajo tierra, es un tipo de sótano, y tienes que descender a su nivel y amueblarle un apartamento. ¿Te parece justo? A él sí:*
+
+> You have to do all the grunt labor, in other words, while the muse sits and smokes cigars and admires his bowling trophies and pretends to ignore you.
+
+Tienes que hacer todo el trabajo pesado, en otras palabras, mientras la musa se sienta a fumar puros, admira sus trofeos de bolos y finge ignorarte.
+
+*Puede que ese tipo de la musa no sea gran cosa a la vista ni de conversación (lo que él recibe de la suya son sobre todo gruñidos hoscos, salvo cuando está de servicio), pero tiene la inspiración; es justo que tú hagas todo el trabajo y quemes el aceite de medianoche, porque el tipo del puro y las alitas tiene una bolsa de magia. Dentro hay cosas que pueden cambiarte la vida. Créanme: lo sabe.*
+
+### Leer mucho, escribir mucho
+
+*Si quieres ser escritor, debes hacer dos cosas por encima de todas: leer mucho y escribir mucho. No hay atajo que él conozca. King es un lector lento, pero despacha setenta u ochenta libros al año, sobre todo ficción; no lee para estudiar el oficio sino porque le gusta: es lo que hace por las noches, recostado en su sillón azul. Y sin embargo hay un aprendizaje en marcha: cada libro tiene su lección, y a menudo los malos enseñan más que los buenos. En octavo grado cayó en sus manos una novela de bolsillo de Murray Leinster sobre minería de asteroides: personajes de papel fumado, giros de trama extravagantes, terrible de verdad. Y lo peor:*
+
+> Worst of all (or so it seemed to me at the time), Leinster had fallen in love with the word *zestful.*
+
+Lo peor de todo (o eso me pareció entonces) era que Leinster se había enamorado de la palabra zestful.
+
+*Los personajes veían acercarse los asteroides con sonrisas zestful, se sentaban a cenar con expectación zestful, y hacia el final el héroe envolvía a la heroína rubia y pechugona en un abrazo zestful:*
+
+> For me, it was the literary equivalent of a smallpox vaccination: I have never, so far as I know, used the word *zestful* in a novel or a story.
+
+Para mí fue el equivalente literario de una vacuna contra la viruela: que yo sepa, nunca he usado la palabra zestful en una novela ni en un cuento.
+
+*Dios mediante, no la usará nunca. Aquel libro fue importante en su vida de lector: casi todo el mundo recuerda haber perdido la virginidad, y la mayoría de los escritores recuerdan el primer libro que cerraron pensando «yo puedo hacerlo mejor; diablos, ya lo estoy haciendo mejor». ¿Hay algo más alentador para un escritor en ciernes que descubrir que su trabajo es incuestionablemente mejor que el de alguien a quien pagaron por el suyo? Se aprende con más claridad qué no hacer leyendo prosa mala: una novela como Asteroid Miners (o El valle de las muñecas o Los puentes de Madison) vale un semestre en una buena escuela de escritura, incluso con conferenciantes estrella incluidos. La buena escritura, por su parte, enseña estilo, narración elegante, desarrollo de trama, creación de personajes creíbles y decir la verdad; y aunque Las uvas de la ira pueda llenar de desesperación a un escritor nuevo —«jamás escribiré algo así ni viviendo mil años»—, esa sensación también espuela. Ser arrasado por la combinación de gran historia y gran escritura es parte de la formación necesaria de todo escritor: no puedes aspirar a arrastrar a nadie con tu escritura hasta que no te lo han hecho a ti:*
+
+> So we read to experience the mediocre and the outright rotten; such experience helps us to recognize those things when they begin to creep into our own work, and to steer clear of them.
+
+Así que leemos para experimentar lo mediocre y lo directamente podrido; esa experiencia nos ayuda a reconocer esas cosas cuando empiezan a insinuarse en nuestro propio trabajo, y a mantenernos alejados de ellas.
+
+*También leemos para medirnos con lo bueno y lo grande, y para experimentar estilos distintos: puede que adoptes uno que te entusiasme, y no tiene nada de malo:*
+
+> When I read Ray Bradbury as a kid, I wrote like Ray Bradbury—everything green and wondrous and seen through a lens smeared with the grease of nostalgia.
+
+Cuando de niño leía a Ray Bradbury, escribía como Ray Bradbury: todo verde y maravilloso y visto a través de una lente untada con la grasa de la nostalgia.
+
+> When I read James M. Cain, everything I wrote came out clipped and stripped and hardboiled.
+
+Cuando leía a James M. Cain, todo lo que escribía salía cortante, desnudo y hardboiled.
+
+*Cuando leía a Lovecraft, su prosa se volvía lujosa y bizantina; escribió cuentos adolescentes donde todos esos estilos se fundían en un guiso hilarante. Esa mezcla es parte necesaria del desarrollo de un estilo propio, pero no ocurre en el vacío: hay que leer amplia y constantemente. Le cuesta creer que gente que lee poco o nada pretenda escribir y gustar, pero existe: si tuviera un níquel por cada persona que le ha dicho que quiere ser escritor pero «no tiene tiempo de leer», se pagaría una buena cena de solomillo. ¿Puede ser franco? Si no tienes tiempo de leer, no tienes tiempo (ni herramientas) para escribir. Así de simple. La lectura es el centro creativo de la vida de un escritor. Él lleva un libro a todas partes: el truco es aprender a leer a sorbos y también a tragos largos —las salas de espera se hicieron para los libros, y también los vestíbulos de teatro, las colas del supermercado y el trono de cada casa—; y hasta se puede leer conduciendo, gracias a los audiolibros (¿cuántas veces se puede oír a Deep Purple cantar «Highway Star»?). Leer en las comidas se considera de mala educación, pero si esperas triunfar como escritor, la mala educación debería ser la penúltima de tus preocupaciones; la última, la sociedad educada: si piensas escribir con toda la verdad que puedas, tus días como miembro de ella están contados de todos modos. Luego está la televisión, la teta de cristal, que se traga demasiado tiempo: si necesitas a los fanfarrones de la CNN mientras haces ejercicio, pregúntate qué tan en serio vas. Hay que voltearse hacia dentro, hacia la vida de la imaginación, y eso significa que Geraldo y Jay Leno tienen que irse. ¿Y cuánto sacrificio es? ¿Cuántas reposiciones de Frasier hacen completa una vida americana? Cuando su hijo Owen tenía unos siete años, se enamoró de la E Street Band de Springsteen, sobre todo de Clarence Clemons, el saxofonista; pidió un saxo tenor por Navidad y le pusieron profesor. Siete meses después, King sugirió dejar las clases:*
+
+> Owen mastered the scales and the notes—nothing wrong with his memory, his lungs, or his eye-hand coordination—but we never heard him taking off, surprising himself with something new, blissing himself out.
+
+Owen dominaba las escalas y las notas —nada malo con su memoria, sus pulmones o su coordinación ojo-mano—, pero nunca lo oímos despegar, sorprenderse a sí mismo con algo nuevo, extasiarse.
+
+*Aceptó con alivio palpable. King lo supo porque Owen practicaba solo en los horarios fijados, y en cuanto terminaba, el saxo volvía al estuche hasta la próxima clase:*
+
+> What this suggested to me was that when it came to the sax and my son, there was never going to be any real play-time; it was all going to be rehearsal.
+
+Lo que esto me sugirió fue que, entre el saxofón y mi hijo, nunca iba a haber un verdadero tiempo de juego; todo iba a ser ensayo.
+
+*Y eso no sirve: si no hay alegría, no sirve; mejor pasar a otra área donde los yacimientos de talento sean más ricos y la diversión mayor. El talento vuelve absurda la idea del ensayo: cuando encuentras algo para lo que tienes talento, lo haces hasta que te sangran los dedos o se te caen los ojos de las órbitas; cada salida es una actuación bravura, aunque nadie escuche. El programa que propone —leer y escribir de cuatro a seis horas diarias— no parecerá extenuante si de verdad disfrutas y tienes aptitud; y si necesitas permiso, por la presente queda concedido. La verdadera importancia de leer es que crea soltura e intimidad con el proceso de escribir: uno llega al país del escritor con los papeles y la identificación prácticamente en regla:*
+
+> It also offers you a constantly growing knowledge of what has been done and what hasn’t, what is trite and what is fresh, what works and what just lies there dying (or dead) on the page.
+
+También te ofrece un conocimiento siempre creciente de qué se ha hecho y qué no, qué es trillado y qué es fresco, qué funciona y qué simplemente yace ahí muriendo (o muerto) en la página.
+
+*Cuanto más lees, menos probable es que hagas el ridículo con tu pluma o tu procesador de textos.*
+
+### La rutina
+
+*Si «leer mucho, escribir mucho» es el Gran Mandamiento —y lo es—, ¿cuánto es mucho? Varía de escritor a escritor:*
+
+> One of my favorite stories on the subject—probably more myth than truth—concerns James Joyce.[^2] According to the story, a friend came to visit him one day and found the great man sprawled across his writing desk in a posture of utter despair.
+
+Una de mis historias favoritas sobre el tema —probablemente más mito que verdad— tiene por protagonista a James Joyce. Según la historia, un amigo fue a visitarlo un día y encontró al gran hombre desplomado sobre su escritorio en una postura de absoluta desesperación.
+
+*«James, ¿qué pasa? ¿Es el trabajo?». Joyce asintió sin levantar la cabeza: claro que era el trabajo; ¿no lo es siempre? «¿Cuántas palabras has sacado hoy?». Joyce, aún desplomado: «Siete». «¿Siete? ¡Pero James… eso está bien, al menos para ti!». «Sí —dijo Joyce, alzando por fin la vista—, supongo que sí… ¡pero no sé en qué orden van!». En el otro extremo del espectro está Anthony Trollope, que escribía novelones (Can You Forgive Her? podría retitularse para el público moderno Can You Possibly Finish It?) con una regularidad asombrosa: empleado de Correos —los buzones rojos de toda Gran Bretaña son invención suya—, escribía dos horas y media cada mañana antes de salir al trabajo. El horario era de hierro: si estaba a media frase al cumplirse el plazo, la frase quedaba sin terminar hasta la mañana siguiente:*
+
+> And if he happened to finish one of his six-hundred-page heavyweights with fifteen minutes of the session remaining, he wrote **The End,** set the manuscript aside, and began work on the next book.
+
+Y si daba la casualidad de que terminaba uno de sus pesos pesados de seiscientas páginas con quince minutos de sesión por delante, escribía Fin, apartaba el manuscrito y empezaba a trabajar en el libro siguiente.
+
+*John Creasey escribió quinientas novelas —ha leído bien— bajo diez nombres; King, con unas treinta y cinco, se considera prolífico, pero parece bloqueado al lado de Creasey. En la mano James Joyce está Harper Lee, que escribió un solo libro (el brillante Matar a un ruiseñor), y otros como James Agee, Malcolm Lowry o Thomas Harris no llegaron a cinco:*
+
+> Which is okay, but I always wonder two things about these folks: how long did it take them to write the books they *did* write, and what did they do the rest of their time?
+
+Lo cual está bien, pero siempre me pregunto dos cosas sobre esa gente: cuánto tardaron en escribir los libros que sí escribieron, y qué hicieron con el resto de su tiempo.
+
+*¿Tejer mantas? ¿Organizar bazares parroquiales? ¿Deificar ciruelas? Quizá es impertinente, pero también, créanlo, honesta curiosidad: si Dios te da algo que sabes hacer, ¿por qué demonios no lo haces? Su propio horario es claro: las mañanas para lo nuevo, la composición en curso; las tardes para siestas y cartas; las noches para leer, la familia, los Red Sox en la tele y las revisiones que no pueden esperar. En cuanto empieza un proyecto no para ni afloja salvo fuerza mayor:*
+
+> If I don’t write every day, the characters begin to stale off in my mind—they begin to *seem* like characters instead of real people.
+
+Si no escribo todos los días, los personajes empiezan a enranciarse en mi mente: empiezan a parecer personajes en lugar de personas reales.
+
+*El filo narrativo empieza a oxidarse, pierde la trama y el paso, y lo peor: se apaga la excitación de hilar algo nuevo; el trabajo empieza a sentirse como trabajo, y para la mayoría de los escritores ese es el beso de la muerte. Escribir está en su mejor momento —siempre, siempre, siempre— cuando es una forma de juego inspirado; puede escribir a sangre fría si hace falta, pero le gusta más cuando está fresco y casi demasiado caliente para manejarlo. Antes contaba a los entrevistadores que escribía todos los días menos Navidad, el Cuatro de Julio y su cumpleaños. Mentira: sonaba bien y no quería parecer un pringado adicto al trabajo. La verdad es que cuando escribe, escribe todos los días, incluidos Navidad, el Cuatro y el cumpleaños; y cuando no trabaja, no trabaja en absoluto, aunque en esos parones se siente perdido y duerme mal. Para él, no trabajar es el verdadero trabajo:*
+
+> When I’m writing, it’s all the playground, and the worst three hours I ever spent there were still pretty damned good.
+
+Cuando escribo, todo es el patio de recreo, y las peores tres horas que pasé allí fueron aun así condenadamente buenas.
+
+*Antes era más rápido: The Running Man salió en una semana (aunque se dice que Creasey escribió varios de sus misterios en dos días). Cree que dejar de fumar lo frenó: la nicotina es un gran potenciador de sinapsis; el problema es que te mata mientras te ayuda a componer. Cree que el primer borrador de un libro, incluso largo, no debería llevar más de tres meses, lo que dura una estación del año; más, y la historia empieza a sonar extraña, como un comunicado del Departamento Rumano de Asuntos Públicos. Su marca son diez páginas diarias, unas dos mil palabras; en tres meses, ciento ochenta mil, una buena longitud para que el lector se pierda feliz si el cuento está bien hecho y fresco:*
+
+> On some days those ten pages come easily; I’m up and out and doing errands by eleven-thirty in the morning, perky as a rat in liverwurst.
+
+Algunos días esas diez páginas llegan solas; a las once y media de la mañana ya estoy fuera haciendo recados, contento como una rata en el paté de hígado.
+
+*Más a menudo, con la edad, come en el escritorio y termina sobre la una y media; cuando las palabras vienen duras, aún está trasteando a la hora del té. Como quiera, bien, pero solo en circunstancias críticas se permite parar antes de sus dos mil palabras. La mayor ayuda para una producción regular es trabajar en una atmósfera serena; y cuando le piden «el secreto de su éxito», a veces contesta que hay dos: se mantuvo sano (al menos hasta que una furgoneta lo derribó al borde de la carretera en el verano de 1999) y siguió casado. Es buena respuesta porque despacha la pregunta y porque tiene algo de verdad: la combinación de un cuerpo sano y una relación estable con una mujer autosuficiente que no acepta mierda de nadie ha hecho posible la continuidad de su vida de trabajo; y a la inversa, escribir y el placer que le da han contribuido a la estabilidad de su salud y de su casa.*
+
+### La puerta cerrada
+
+> You can read anywhere, almost, but when it comes to writing, library carrels, park benches, and rented flats should be courts of last resort—Truman Capote said he did his best work in motel rooms, but he is an exception; most of us do our best in a place of our own.
+
+Se puede leer en casi cualquier parte, pero a la hora de escribir, las mesas de biblioteca, los bancos de parque y los pisos de alquiler deberían ser el último recurso; Truman Capote decía que trabajaba mejor en habitaciones de motel, pero es una excepción: la mayoría damos lo mejor en un lugar propio.
+
+*El cuarto no necesita decoración de mansión Playboy ni un escritorio de tapa enrollable:*
+
+> I wrote my first two published novels, *Carrie* and *’Salem’s Lot,* in the laundry room of a doublewide trailer, pounding away on my wife’s portable Olivetti typewriter and balancing a child’s desk on my thighs; John Cheever reputedly wrote in the basement of his Park Avenue apartment building, near the furnace.
+
+Escribí mis dos primeras novelas publicadas, Carrie y 'Salem's Lot, en el lavadero de un tráiler doble, aporreando la Olivetti portátil de mi mujer y equilibrando un escritorio de niño sobre mis muslos; de John Cheever se dice que escribía en el sótano de su edificio de Park Avenue, junto a la caldera.
+
+*El espacio puede ser humilde —probablemente deba serlo— y solo necesita una cosa: una puerta que estés dispuesto a cerrar. La puerta cerrada es tu modo de decirle al mundo y a ti mismo que vas en serio. Antes de entrar debes haber fijado una meta diaria: como con el ejercicio físico, conviene ponerla baja al principio para no desanimarse; él sugiere mil palabras al día y, sintiéndose magnánimo, un día libre a la semana, solo al comienzo. Ni uno más, o perderás la urgencia y la inmediatez de tu historia. Y con la meta puesta, la puerta no se abre hasta cumplirla. En una entrevista de radio de los tiempos de Carrie, el locutor le preguntó cómo escribía:*
+
+> In an early interview (this was to promote *Carrie,* I think), a radio talk-show host asked me how I wrote.
+
+En una entrevista temprana (creo que para promocionar Carrie), un locutor de radio me preguntó cómo escribía.
+
+*Su respuesta —«una palabra cada vez»— pareció dejarlo sin réplica; cree que el hombre intentaba decidir si bromeaba:*
+
+> I wasn’t. In the end, it’s always that simple.
+
+No bromeaba. Al final, siempre es así de simple.
+
+*Sea una viñeta de una página o una trilogía épica como El señor de los anillos, la obra siempre se cumple una palabra cada vez. La puerta cierra fuera al resto del mundo y también te encierra a ti con la tarea. Nada de teléfono en el cuarto, y desde luego nada de tele ni videojuegos; si hay ventana, corre las cortinas salvo que dé a un muro. Al principio conviene eliminar toda distracción posible; con el tiempo aprenderás a filtrarlas. Él trabaja con música alta —AC/DC, Guns N' Roses, Metallica—, pero para él la música es solo otra manera de cerrar la puerta: lo rodea y mantiene fuera el mundo mundano. Cuando escribes quieres librarte del mundo, ¿no? Claro que sí: estás creando los tuyos propios. Cree que hablamos en realidad de sueño creativo: tu cuarto de escribir, como tu dormitorio, debe ser privado, un lugar al que vas a soñar. El horario —entrar cada día a la misma hora, salir cuando las mil palabras estén en el papel— existe para habituarte, igual que te dispones a dormir acostándote a la misma hora y siguiendo el mismo ritual: en ambos casos aprendemos a quedarnos físicamente quietos mientras animamos a la mente a soltarse del pensamiento racional y rutinario del día. Pero necesitas el cuarto, la puerta y la determinación de cerrarla, y una meta concreta. No esperes a la musa: es un tipo cabezota, insensible al aleteo creativo; esto no es la ouija ni el mundo de los espíritus, sino un trabajo como tender tuberías o conducir camiones de larga distancia. Tu trabajo es asegurarte de que la musa sepa dónde vas a estar cada día de nueve a doce o de siete a tres: si lo sabe, tarde o temprano empezará a aparecer, masticando su puro y haciendo su magia.*
+
+### Fontaneros en el espacio
+
+> So okay—there you are in your room with the shade down and the door shut and the plug pulled out of the base of the telephone.
+
+Muy bien: ahí estás en tu cuarto, con la persiana bajada, la puerta cerrada y el enchufe arrancado de la base del teléfono.
+
+*Has volado tu televisor y te has comprometido a mil palabras diarias, llueva o truene. Ahora viene la gran pregunta: ¿sobre qué vas a escribir? Y la respuesta igualmente grande: sobre lo que te dé la gana. Sobre cualquier cosa… con tal de que digas la verdad. El dictum de los talleres solía ser «escribe lo que conoces», que suena bien, pero ¿y si quieres escribir sobre naves estelares que exploran otros planetas, o sobre un hombre que asesina a su mujer e intenta deshacerse del cuerpo con una astilladora? Hay que interpretar «lo que conoces» de la manera más amplia e inclusiva posible: si eres fontanero conoces la fontanería, pero tu conocimiento no acaba ahí; el corazón también sabe cosas, y la imaginación también. Gracias a Dios: sin ellos, el mundo de la ficción sería un lugar bastante cutre; quizá ni existiría. En cuanto al género, es razonable suponer que empezarás escribiendo lo que amas leer; él ya ha contado hasta la saciedad su temprano idilio con los cómics de terror de EC:*
+
+> But I *did* love them, ditto horror movies like *I Married a Monster from Outer Space,* and the result was stories like “I Was a Teenage Graverobber.”
+
+Pero es que yo los amaba, igual que películas de terror como I Married a Monster from Outer Space, y el resultado fueron cuentos como «I Was a Teenage Graverobber».
+
+> Even today I’m not above writing slightly more sophisticated versions of that tale; I was built with a love of the night and the unquiet coffin, that’s all.
+
+Incluso hoy no estoy por encima de escribir versiones ligeramente más sofisticadas de aquel cuento; estoy hecho con amor por la noche y el ataúd inquieto, eso es todo.
+
+*Si no lo apruebas, solo puede encogerse de hombros: es lo que tiene. Si eres aficionado a la ciencia ficción querrás escribir ciencia ficción, si te gustan los misterios, misterios; nada de malo en ello:*
+
+> What would be very wrong, I think, is to turn away from what you know and like (or love, the way I loved those old ECs and black-and-white horror flicks) in favor of things you believe will impress your friends, relatives, and writing-circle colleagues.
+
+Lo que sí estaría muy mal, creo, es apartarte de lo que conoces y te gusta (o amas, como yo amaba aquellos viejos EC y las películas de terror en blanco y negro) en favor de cosas que crees que impresionarán a tus amigos, tus parientes y tus colegas del taller de escritura.
+
+*Igual de malo es orientarse deliberadamente hacia un género para ganar dinero: es moralmente defectuoso —el trabajo de la ficción es encontrar la verdad dentro de la telaraña de mentiras de la historia, no cometer deshonestidad intelectual en la caza del dólar— y además, hermanos y hermanas, no funciona:*
+
+> When I’m asked why I decided to write the sort of thing I do write, I always think the question is more revealing than any answer I could possibly give.
+
+Cuando me preguntan por qué decidí escribir la clase de cosas que escribo, siempre pienso que la pregunta revela más que cualquier respuesta que yo pueda dar.
+
+> Wrapped within it, like the chewy stuff in the center of a Tootsie Pop, is the assumption that the writer controls the material instead of the other way around.[^3] The writer who is serious and committed is incapable of sizing up story material the way an investor might size up various stock offerings, picking out the ones which seem likely to provide a good return.
+
+Envuelta en ella, como el chicle del centro de un Tootsie Pop, está la suposición de que el escritor controla el material y no al revés. El escritor serio y comprometido es incapaz de evaluar el material narrativo como un inversor evalúa acciones, eligiendo las que parecen dar mejor rendimiento.
+
+*Si se pudiera, todas las novelas publicadas serían bestsellers. A Grisham, Clancy, Crichton y a él mismo les pagan esas sumas porque venden cantidades poco comunes de libros a públicos poco comunes; la idea de que tienen acceso a algún vulgarismo místico es dudosa, y la pretensión contraria de ciertas autoras populares —piensa en la difunta Jacqueline Susann— de que su éxito se basa en méritos literarios que el establishment celoso no sabe ver es ridícula, producto de la vanidad y la inseguridad. Los compradores de libros quieren una buena historia para el avión, algo que primero los fascine y luego los atrape pasando páginas; y eso ocurre cuando reconocen a la gente del libro, sus conductas, sus ambientes y su habla. Esa conexión es imposible de fabricar a propósito: no puedes apuntar un libro como un misil de crucero. Los que deciden hacer fortuna escribiendo como Grisham producen pálidas imitaciones, porque el vocabulario no es lo mismo que el sentimiento y la trama está a años luz de la verdad tal como la entienden la mente y el corazón; cuando veas en una portada «En la tradición de» (Grisham, Cornwell, Clark, Koontz), estás ante una de esas imitaciones sobrecalculadas y probablemente aburridas. Escribe lo que te gusta, y luego infúndele vida mezclando tu conocimiento personal de la vida, la amistad, las relaciones, el sexo y el trabajo. Sobre todo el trabajo: a la gente le encanta leer sobre trabajo, Dios sabe por qué. Si eres un fontanero aficionado a la ciencia ficción, quizá debas considerar una novela sobre un fontanero a bordo de una nave estelar; ¿ridículo? El difunto Clifford D. Simak escribió Cosmic Engineers, que es casi eso, y es una lectura estupenda. Lo que hay que recordar es la diferencia entre dar una conferencia sobre lo que sabes y usarlo para enriquecer la historia: lo segundo, bien; lo primero, no. Piensa en The Firm de Grisham: un joven abogado descubre que su primer empleo, que parecía demasiado bueno para ser verdad, lo es —trabaja para la Mafia—; vendió como nueve trillones de ejemplares, y lo que fascinaba era el dilema moral (trabajar para la mafia es malo, ¡pero el jodido sueldo es estupendo!) y los esfuerzos ingeniosos del abogado por salir del lío. ¿Que el deus ex machina traquetea en las últimas cincuenta páginas? Sí, pero es como a la mayoría nos gustaría comportarnos, ¿y no nos gustaría tener un deus ex machina en nuestras vidas? King apostaría a que Grisham nunca trabajó para la mafia —todo eso es fabricación total, y la fabricación total es el deleite más puro del escritor de ficción—, pero fue un joven abogado y no ha olvidado nada de la lucha: con humor sencillo como contrapunto y sin sustituir nunca la historia por la jerga, dibuja un mundo de lucha darwiniana donde todos los salvajes visten traje de tres piezas. Y aquí viene lo bueno: es un mundo imposible de no creer. Grisham estuvo ahí, exploró el terreno y las posiciones del enemigo, y volvió con un informe completo: contó la verdad de lo que conocía, y solo por eso merece cada dólar que ganó The Firm. Tú, escritor principiante, harías bien en no imitar el género de abogados-en-problemas sino en emular su franqueza. Grisham conoce a los abogados; lo que tú conoces te hace único de alguna otra manera. Sé valiente: mapea las posiciones del enemigo, vuelve y cuéntanos todo lo que sabes. Y recuerda que fontaneros en el espacio no es una mala premisa para una historia.*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
