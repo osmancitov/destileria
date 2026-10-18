@@ -1793,6 +1793,66 @@ Yogananda
 
 *Y el maestro añadió, benévolo: «al Señor le resultó más conveniente hacer de ti un graduado que reordenar el sol y la luna».*
 
+## Capítulo 24: Me hago monje de la Orden de los Swamis
+
+*«Maestro, mi padre ha estado ansioso por que acepte un puesto ejecutivo en el ferrocarril Bengal-Nagpur, pero lo he rechazado definitivamente»:*
+
+> I added hopefully, “Sir, will you not make me a monk of the Swami Order?” I looked pleadingly at my guru.
+
+«Y añadí esperanzado: "Señor, ¿no me hará monje de la Orden de los Swamis?". Miré suplicante a mi gurú».
+
+Yogananda
+
+*Durante los años anteriores, para probar la profundidad de su determinación, el maestro había rechazado esa misma petición. Hoy, sin embargo, sonrió con agrado: «muy bien; mañana te iniciaré en el swamiship»:*
+
+> He went on quietly, “I am happy that you have persisted in your desire to be a monk.
+
+«Y prosiguió tranquilo: "Me alegra que hayas persistido en tu deseo de ser monje"».
+
+Yogananda
+
+*«Lahiri Mahasaya solía decir: si no invitas a Dios a ser tu Huésped de verano, no vendrá en el invierno de tu vida»:*
+
+> “Dear master, I could never falter in my goal to belong to the Swami Order like your revered self.” I smiled at him with measureless affection.
+
+«"Querido maestro, jamás podría flaquear en mi meta de pertenecer a la Orden de los Swamis, como su reverencia". Le sonreí con un afecto inmenso».
+
+Yogananda
+
+*Había analizado la vida de muchos amigos que, tras cierta disciplina espiritual, se habían casado: lanzados al mar de las responsabilidades mundanas, olvidaron sus resoluciones de meditar profundamente. Aunque Dios es el único Dueño del cosmos, colmándonos en silencio de dones vida tras vida, queda una cosa que no posee y que cada corazón humano puede negarle u otorgarle: el amor del hombre. El día siguiente fue uno de los más memorables de su vida: un jueves soleado de julio de 1914, pocas semanas después de su graduación. En el balcón interior de la ermita de Serampore, el maestro sumergió una pieza nueva de seda blanca en un tinte ocre, el color tradicional de la Orden:*
+
+> After the cloth had dried, my guru draped it around me as a renunciate’s robe.
+
+«Cuando la tela se secó, mi gurú la ciñó a mi alrededor como túnica de renunciante».
+
+Yogananda
+
+*«Algún día irás a Occidente, donde se prefiere la seda; como símbolo, he elegido para ti esta seda en lugar del algodón acostumbrado»:*
+
+> “I am averse to ceremonies,” Sri Yukteswar remarked.
+
+«"Soy contrario a las ceremonias", observó Sri Yukteswar».
+
+Yogananda
+
+*«Te haré swami a la manera bidwat, sin ceremonias»: nada de ritos funerarios simbólicos en el fuego; solo le pidió elegir un nombre nuevo. «Yogananda», respondió tras un instante de reflexión: dicha (ananda) mediante la unión divina (yoga). «Así sea: abandonando tu nombre familiar de Mukunda Lal Ghosh, en adelante serás llamado Yogananda, de la rama Giri de la Orden de los Swamis»:*
+
+> As I knelt before Sri Yukteswar, and for the first time heard him pronounce my new name, my heart overflowed with gratitude. How lovingly and tirelessly had he labored, that the boy Mukunda be someday transformed into the monk Yogananda!
+
+«Mientras me arrodillaba ante Sri Yukteswar y por primera vez lo oía pronunciar mi nuevo nombre, el corazón se me desbordó de gratitud. ¡Con cuánto amor y tesón había trabajado para que el muchacho Mukunda se transformara un día en el monje Yogananda!».
+
+Yogananda
+
+*Cantó gozoso unos versos del largo canto sánscrito del señor Shankara: «ni mente, ni intelecto, ni ego, ni sentimiento; ni cielo, ni tierra, ni metales soy. Sin nacimiento, sin muerte, sin casta; padre y madre, no tengo ninguno»:*
+
+> I am He, I am He, Blessed Spirit, I am He!
+
+«Yo soy Él, yo soy Él, ¡Espíritu Bendito, yo soy Él!».
+
+Yogananda
+
+*Todo swami pertenece a la antigua orden monástica organizada en su forma actual por Shankara: nadie puede darse a sí mismo el título, lo recibe de otro swami, y así todos los monjes trazan su linaje espiritual hasta un gurú común. Al nuevo nombre, que suele terminar en ananda, se añade un título que indica la subdivisión de la Orden: Giri (montaña), Sagar (mar), Bharati (tierra), Aranya (bosque), Puri, Tirtha, Saraswati y otras hasta diez. Un swami no es siempre un yogui: cualquiera que practique una técnica científica de contacto con Dios es un yogui, casado o no, y la Senda Óctuple de Patanjali (yama, niyama, asana, pranayama, pratyahara, dharana, dhyana y samadhi) conduce a la meta final de Kaivalya, la Absolutud. El yoga no puede conocer barreras de Oriente y Occidente, como tampoco las conoce la luz sanadora y equitativa del sol; el doctor C. G. Jung lo escribió con claridad: «el yoga ofrece la posibilidad de una experiencia controlable, y satisface así la necesidad científica de hechos». Se acerca el día occidental en que la ciencia interior del autodominio resultará tan necesaria como la conquista exterior de la naturaleza: las fuerzas más finas de la mente humana pueden y deben liberar energías mayores que las encerradas en piedras y metales, no sea que el gigante atómico recién desencadenado se vuelva contra el mundo en destrucción sin mente.*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
