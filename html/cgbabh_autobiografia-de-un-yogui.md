@@ -258,6 +258,119 @@ Swami Pranabananda
 
 *Al despedirse, el swami bendijo al niño y le profetizó que su vida pertenecía al camino de la renunciación y el yoga, y que volverían a verse, con su padre, más adelante. Los años cumplieron ambas predicciones.*
 
+
+## Capítulo 4: Mi fuga frustrada hacia el Himalaya
+
+*La fuga se planeó como una operación de guerra: un amigo de la escuela, Amar, recogería en un carruaje el bulto lanzado desde la ventana (una manta, sandalias, la foto de Lahiri Mahasaya, el Bhagavad Gita y dos taparrabos) y ambos partirían al Himalaya vestidos de europeos para despistar a Ananta, el hermano detective. En el camino se sumó el primo Jatinda, que desertó en la primera estación (confesó después que lo espantó la promesa de Mukunda de que los tigres se sentarían a recibir caricias: él ya se veía entrando en el estómago de uno «por entregas»). En un andén, un inspector con un telegrama de Ananta interrogó a los muchachos; Amar le advirtió antes a Mukunda:*
+
+> All I ask of you, Mukunda, is to keep still.
+
+«Lo único que te pido, Mukunda, es que te quedes quieto».
+
+Amar
+
+*Amar se inventó que eran «Thomas» y «Thompson», dos muchachos medio ingleses, y el inspector, desarmado, los acomodó en el vagón de europeos. Llegaron a Hardwar al amanecer, pero allí los esperaba un policía: Ananta había telegrafiado a toda la línea. Mientras los custodiaba, el oficial les contó que él sí había conocido a un santo de verdad, días antes, junto al Ganges. Creyendo que era un asesino prófugo, le había hundido el hacha en el brazo; el santo siguió caminando sin quejarse, se recompuso el brazo colgante ante sus ojos y le dijo:*
+
+> The Beloved Mother is taking care of me.
+
+«La Madre Amada me está cuidando».
+
+El sadhu, según el oficial
+
+*Tres días después no tenía ni cicatriz. Los muchachos lamentaron su suerte: el policía había encontrado a un santo sin buscarlo, y ellos, que lo buscaban con ahínco, terminaron en una estación de policía. Ananta llegó a recogerlos y propuso un trato: visitar a un sabio en Benarés, ver al padre afligido en Calcuta, y luego Mukunda podría volver a buscar a su maestro. Amar desertó, ablandado por el calor de familia:*
+
+> But I knew I would never abandon the quest for my guru.
+
+«Pero yo sabía que jamás abandonaría la búsqueda de mi gurú».
+
+Yogananda
+
+*En Benarés, el sabio y su hijo, contratados en secreto por Ananta, le pronosticaron desgracias si abandonaba sus deberes mundanos. Sacudido, el muchacho oró pidiendo una señal inmediata, y un sadhu de noble porte que escuchaba desde fuera lo llamó aparte:*
+
+> In response to your prayer, the Lord tells me to assure you that your sole path in this life is that of the renunciate.
+
+«En respuesta a tu oración, el Señor me dice que te asegure que tu único camino en esta vida es el del renunciante».
+
+El sadhu
+
+*El sabio oficial de la casa no quedó muy contento con la intromisión:*
+
+> “That sadhu is just as crazy as you are.”
+
+«Ese sadhu está tan loco como tú».
+
+El pundit
+
+*De vuelta en Calcuta, el padre le pidió que al menos terminara la escuela y le puso un tutor de sánscrito, el swami Kebalananda, esperando calmar su inquietud con filosofía:*
+
+> But the tables were subtly turned: my new teacher, far from offering intellectual aridities, fanned the embers of my God-aspiration.
+
+«Pero la situación se invirtió sutilmente: mi nuevo maestro, lejos de ofrecer áridas disquisiciones intelectuales, avivó las brasas de mi anhelo de Dios».
+
+Yogananda
+
+*El padre no sabía que Kebalananda era un discípulo exaltado de Lahiri Mahasaya. Entre lección y lección, el tutor le contaba cómo era estar cerca del maestro:*
+
+> An indescribable peace blossomed within me at the master’s glance. I was permeated with his fragrance, as though from a lotus of infinity.
+
+«Una paz indescriptible florecía en mí ante la mirada del maestro. Me impregnaba de su fragancia, como la de un loto del infinito».
+
+Swami Kebalananda
+
+> The master was a living temple of God whose secret doors were open to all disciples through devotion.
+
+«El maestro era un templo vivo de Dios, cuyas puertas secretas se abrían a todos los discípulos por la devoción».
+
+Swami Kebalananda
+
+*No era un intérprete libresco: sumergía sin esfuerzo la mente en la «biblioteca divina» y de allí salían espuma de palabras y rocío de pensamientos:*
+
+> Lahiri Mahasaya was no bookish interpreter of the scriptures. Effortlessly he dipped into the ‘divine library.’
+
+«Lahiri Mahasaya no era un intérprete libresco de las escrituras. Se sumergía sin esfuerzo en la “biblioteca divina”».
+
+Swami Kebalananda
+
+*Cuando le pedían explicar los estados de conciencia de los textos antiguos, sonreía y decía que primero los atravesaría él mismo, y mandaba a un discípulo cercano exponer las estrofas mientras él guiaba sus pensamientos:*
+
+> ‘Please expound the holy stanzas as the meaning occurs to you.’
+
+«Expongan por favor las santas estrofas según les vaya ocurriendo el significado».
+
+Lahiri Mahasaya
+
+*Nunca aconsejaba la fe servil:*
+
+> ‘Words are only shells,’ he said.
+
+«Las palabras son solo cáscaras, decía; la convicción de la presencia de Dios se gana en el contacto gozoso de la meditación».
+
+Kebalananda, citando a Lahiri Mahasaya
+
+*Y a cada problema de cada discípulo, la misma receta: la práctica del kriya yoga:*
+
+> The yogic key will not lose its efficiency when I am no longer present in the body to guide you.
+
+«La llave yóguica no perderá su eficacia cuando yo ya no esté presente en el cuerpo para guiarlos».
+
+Lahiri Mahasaya
+
+*Kebalananda presenció también el milagro de Ramu, un discípulo ciego de nacimiento que abanicaba al maestro por horas. Animado por el tutor, Ramu pidió luz para sus ojos; el maestro protestó que él no tenía poder de curar, y Ramu respondió con lógica de devoto:*
+
+> ‘Sir, the Infinite One within you can certainly heal.’
+
+«Señor, el Infinito que está en ti ciertamente puede curar».
+
+Ramu
+
+*«Eso sí es distinto», concedió el maestro: le tocó el punto entre las cejas y le mandó cantar el nombre de Rama siete días; a la semana, Ramu vio por primera vez el rostro de la naturaleza. Los cuerpos que el maestro curó espectacularmente acabaron un día en las llamas de la cremación, cierra Kebalananda:*
+
+> But the silent spiritual awakenings he effected, the Christlike disciples he fashioned, are his imperishable miracles.
+
+«Pero los silenciosos despertares espirituales que obró, los discípulos semejantes a Cristo que formó, son sus milagros imperecederos».
+
+Swami Kebalananda
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
