@@ -1716,6 +1716,81 @@ Yogananda
 
 *Estaba en América cuando su hermana murió, como un año después de su predicción. Su hermano menor Bishnu le contó los detalles: aquella mañana Roma se vistió con su atavío nupcial («este es mi último día de servicio a ti en la tierra») y, poco después, presa de un ataque al corazón, detuvo a su hijo, que corría en busca de ayuda: «hijo, no me dejes; es inútil: me habré ido antes de que llegue un médico». Diez minutos después, sosteniendo los pies de su esposo en reverencia, Roma abandonó conscientemente su cuerpo, feliz y sin sufrimiento. Satish se volvió muy recluido tras la muerte de su esposa; un día, mirando con Bishnu una gran fotografía sonriente de Roma, exclamó como si ella estuviera presente: «¿de qué te ríes? ¿Crees que fuiste astuta al arreglar irte antes que yo? Probaré que no puedes permanecer lejos de mí por mucho tiempo; pronto me reuniré contigo». Aunque por entonces gozaba de excelente salud, murió sin causa aparente poco después de aquella extraña frase. Así, proféticamente, pasaron la querida hermana Roma y su esposo Satish, el que cambió en Dakshineswar de hombre mundano ordinario a santo silencioso.*
 
+## Capítulo 23: Recibo mi título universitario
+
+*El profesor D. C. Ghoshal de Serampore College se lo dijo con severidad: ignoraba las tareas de los libros de filosofía y confiaba sin duda en una «intuición» nada laboriosa para salir airoso de los exámenes; si no se aplicaba de modo más académico, se encargaría de que no aprobara el curso. Suspender aquella prueba final escrita lo dejaría fuera de los exámenes conclusivos que fijaba la Universidad de Calcuta, y un suspenso en una sola materia obligaba a examinarse de nuevo de todas al año siguiente. Los profesores solían tratarlo con una amabilidad no exenta de tolerancia divertida y se ahorraban con tacto hacerle preguntas en clase, confiando en que las pruebas escritas lo eliminaran de la lista de candidatos:*
+
+> “Mukunda is a bit over-drunk with religion.”
+
+«Mukunda está un poco demasiado borracho de religión».
+
+Yogananda
+
+*El apodo entre sus compañeros era «el Monje Loco». Para anular la amenaza del profesor Ghoshal tomó una medida ingeniosa: cuando los resultados estaban a punto de anunciarse, pidió a un compañero que lo acompañara como testigo al despacho del profesor y preguntó qué nota había recibido su examen:*
+
+> “You are not among those who have passed,” he said in triumph.
+
+«"Usted no está entre los aprobados", dijo triunfante».
+
+Yogananda
+
+*«Su examen ni siquiera está aquí; en todo caso, ha suspendido por no presentarse». Mukunda se rió: «señor, yo estuve allí; ¿puedo revisar la pila?». Encontró en seguida su trabajo, donde había omitido con cuidado toda marca de identificación salvo su número de lista: sin la «bandera roja» de su nombre, el profesor había puesto una nota alta a unas respuestas sin adornos de citas de los libros. Al descubrir el truco, tronó «¡pura suerte descarada!», y añadió con esperanza: «seguro que suspende en los exámenes finales». Con algo de preparación de su querido amigo y primo Prabhas Chandra Ghose, pasó dolorosamente, con las notas mínimas posibles, todas las pruebas finales del college. Su rutina de aquellos años era salir en bicicleta a eso de las nueve y media con unas flores del jardín de la pensión para su gurú, aceptar con presteza el almuerzo en la ermita y volver hacia medianoche, a veces quedándose toda la noche, tan felizmente absorto en la conversación que apenas notaba cuando la oscuridad se trocaba en aurora. Una noche, a eso de las once, mientras se ponía los zapatos para volver a la pensión, el maestro le preguntó gravemente cuándo empezaban los exámenes. «Dentro de cinco días, señor». «Usted debe presentarse», ordenó con tono fríamente perentorio: no convenía dar motivos al padre para criticar su preferencia por la vida del ashram. Con lágrimas incontenibles, prometió presentarse, murmurando entre dientes: «¡llenaré las hojas con tus enseñanzas!». Al día siguiente entró en la ermita con su ramo y cierta solemne solemnidad de afligido:*
+
+> “Not laziness but burning zeal for God has prevented you from seeking college honors,” my guru said kindly. After a silence, he quoted, “‘Seek ye first the kingdom of God, and His righteousness; and all these things shall be added unto you.’”
+> For the thousandth time, I felt my burdens lifted in Master’s presence.
+
+«"No es la pereza sino el ardiente celo por Dios lo que te ha impedido buscar honores universitarios", dijo mi gurú con amabilidad. Tras un silencio, citó: "Buscad primero el reino de Dios y su justicia, y todas estas cosas os serán añadidas". Por milésima vez sentí que mis cargas se aligeraban en presencia del maestro».
+
+Yogananda
+
+*El maestro le preguntó si su amigo Romesh Chandra Dutt seguía viviendo en la pensión: «ponte en contacto con él; el Señor lo inspirará para ayudarte». Romesh, el alumno de honor de la clase, dedicó horas de aquella tarde y de los días siguientes a prepararlo, marcando en un atlas la ruta del Childe Harold de Byron. Al examinarse de literatura inglesa, el primer vistazo a las preguntas le arrancó lágrimas de gratitud que mojaron el papel:*
+
+> “My guru foretold that Romesh would help me,” I explained.
+
+«"Mi gurú predijo que Romesh me ayudaría", expliqué».
+
+Yogananda
+
+*«Mira: ¡las mismísimas preguntas que me dictó Romesh están aquí, en la hoja del examen!». La pensión era un alboroto a su regreso; los que se habían burlado del método de Romesh lo miraban con asombro. Día tras día, las preguntas de Romesh aparecían casi en la misma forma en los exámenes, y por el college corrió la noticia de que algo parecido a un milagro ocurría con el distraído Monje Loco. Pero al repasar el examen de literatura inglesa comprendió una mañana que había cometido un grave error: había respondido las dos preguntas del grupo I y ninguna del grupo II, y la mejor nota posible era 33, tres puntos bajo el mínimo de 36. Corrió a la ermita a desahogar sus penas: «señor, he cometido un error imperdonable»:*
+
+> I don’t deserve the divine blessings through Romesh; I am quite unworthy.”
+
+«No merezco las bendiciones divinas a través de Romesh; soy del todo indigno».
+
+Yogananda
+
+> “Cheer up, Mukunda.” Sri Yukteswar’s tones were light and unconcerned.
+
+«"Anímate, Mukunda". Los tonos de Sri Yukteswar eran ligeros y despreocupados».
+
+Yogananda
+
+*Señalando la bóveda azul del cielo, sentenció: «¡es más posible que el sol y la luna intercambien sus posiciones en el espacio que tú quedarte sin tu título!». Dejó la ermita más tranquilo, aunque miró una o dos veces el cielo con aprensión: el Señor del Día parecía firmemente anclado en su órbita habitual. Al llegar a la pensión oyó a un compañero: ese año, por primera vez, la nota mínima exigida en literatura inglesa acababa de bajarse a 33 puntos. De unos cuantos saltos gozosos llegó a su cuarto, se hincó de rodillas y alabó las perfecciones matemáticas de su Padre Divino:*
+
+> Every day I thrilled with the consciousness of a spiritual presence that I clearly felt to be guiding me through Romesh.
+
+«Cada día vibraba con la conciencia de una presencia espiritual que claramente sentía guiándome a través de Romesh».
+
+Yogananda
+
+*En el examen de bengalí, Romesh lo llamó a gritos a último momento, cuando ya salía hacia el aula: acababa de tener la corazonada de que ese año los profesores planeaban masacrar a los alumnos con preguntas de la literatura antigua, y le resumió dos historias de la vida de Vidyasagar, el célebre filántropo. La primera instrucción de la hoja decía: «escriba dos ejemplos de las caridades de Vidyasagar». La segunda pedía un ensayo sobre la vida del hombre que más lo hubiera inspirado: no hace falta decir qué hombre eligió, y al cubrir página tras página de elogios a su gurú sonrió al ver cumplida su predicción murmurada. La nota más alta de todos sus trabajos fue la de filosofía; en las demás materias quedó apenas dentro del mínimo. Su desinteresado amigo Romesh recibió su propio título cum laude. El padre estaba radiante en la graduación:*
+
+> “I hardly thought you would pass, Mukunda,” he confessed. “You spend so much time with your guru.”
+
+«"Apenas creí que aprobaras, Mukunda", confesó. "Pasas demasiado tiempo con tu gurú"».
+
+Yogananda
+
+*El día en que recibió su título de la Universidad de Calcuta, se arrodilló a los pies de su gurú y le agradeció todas las bendiciones que fluían de la vida de este a la suya:*
+
+> “Get up, Mukunda,” he said indulgently.
+
+«"Levántate, Mukunda", dijo con indulgencia».
+
+Yogananda
+
+*Y el maestro añadió, benévolo: «al Señor le resultó más conveniente hacer de ti un graduado que reordenar el sol y la luna».*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
