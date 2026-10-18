@@ -1790,6 +1790,302 @@ Y quizá sí sepa mucho, pero parte resultó ser aburrido y la mayor parte del r
 
 *Articular esas verdades instintivas le resultó dolorosamente difícil. Además, algo ocurrió a mitad de la escritura de On Writing —un cambia-vidas, como dicen—; ya te lo contará. Por ahora, basta saber que hizo lo mejor que pudo. Queda un asunto por discutir, un asunto que atañe directamente a ese cambia-vidas y que ya ha rozado, pero solo indirectamente; ahora quiere mirarlo de frente. Es una pregunta que la gente hace de distintas maneras —a veces sale educada y a veces sale brusca, pero siempre viene a ser la misma—: «¿Lo haces por el dinero, cariño?». La respuesta es no. Ahora no y nunca. Sí, ha ganado una masa enorme con su ficción, pero nunca puso una sola palabra en el papel pensando en que se la pagarían. Ha hecho algunos trabajos como favores a amigos —elogios cruzados, se dice en la jerga— pero en el peor de los casos habría que llamarlo una forma cruda de trueque. Ha escrito porque lo colmaba: puede que pagara la hipoteca de la casa y la universidad de los niños, pero esas cosas iban aparte —lo hizo por el subidón. Lo hizo por la pura alegría de la cosa. Y si puedes hacerlo por alegría, puedes hacerlo para siempre. Ha habido épocas en que para él el acto de escribir ha sido un pequeño acto de fe, un escupitajo en el ojo de la desesperación; la segunda mitad de este libro se escribió con ese espíritu: la sacó adelante a puro aguante, como decían de niños. La escritura no es la vida, pero cree que a veces puede ser un camino de vuelta a la vida. Eso fue algo que descubrió en el verano de 1999, cuando un hombre que conducía una furgoneta azul estuvo a punto de matarlo.*
 
+## ON LIVING: A POSTSCRIPT
+
+### El diecinueve de junio
+
+> When we’re at our summer house in western Maine—a house very much like the one Mike Noonan comes back to in *Bag of Bones*—I walk four miles every day, unless it’s pouring down rain.
+
+Cuando estamos en nuestra casa de verano en el oeste de Maine —una casa muy parecida a la que Mike Noonan recupera en Bag of Bones— camino cuatro millas cada día, a menos que esté diluviando.
+
+*Tres millas de ese paseo son por caminos de tierra que serpentean por el bosque; una milla es por la Ruta 5, una carretera asfaltada de dos carriles que une Bethel y Fryeburg. La tercera semana de junio de 1999 fue extraordinariamente feliz para él y su mujer: los chicos, ya adultos y desperdigados por el país, estaban todos en casa, la primera vez en casi seis meses que dormían todos bajo el mismo techo. Como extra, estaba en casa su primer nieto, de tres meses, tironeando alegremente de un globo de helio atado a su pie. El diecinueve de junio llevó en coche a su hijo menor al aeropuerto de Portland, donde tomó un vuelo de vuelta a Nueva York. Volvió a casa, echó una siesta breve y salió a su paseo habitual: pensaban ir toda la familia a ver The General's Daughter a North Conway, New Hampshire, aquella noche, y calculó que le daba tiempo de caminar antes de empaquetar a todos:*
+
+> I set out on that walk around four o’clock in the afternoon, as well as I can remember.
+
+Salí a caminar alrededor de las cuatro de la tarde, según puedo recordar.
+
+*Justo antes de llegar a la carretera principal (en el oeste de Maine, cualquier carretera con una línea blanca en el medio es una carretera principal), se metió en el bosque y orinó. Pasarían dos meses antes de que pudiera volver a hacerlo de pie. Al llegar a la carretera giró hacia el norte, caminando por el arcén de grava, contra el tráfico. Un coche lo rebasó, también hacia el norte. Unas tres cuartas de milla más adelante, la mujer que conducía ese coche vio venir hacia el sur una furgoneta Dodge azul claro que zigzagueaba de un lado al otro de la carretera, apenas bajo el control de su conductor:*
+
+> The woman in the car turned to her passenger when they were safely past the wandering van and said, “That was Stephen King walking back there.
+
+La mujer del coche se volvió hacia su acompañante cuando ya habían pasado sanos y salvos junto a la furgoneta errante y dijo: «Ese que caminaba ahí atrás era Stephen King. Espero de veras que el tipo de la furgoneta no lo atropelle».
+
+*La mayoría de las visuales a lo largo de esa milla de la Ruta 5 son buenas, pero hay un tramo, una cuesta corta y empinada, donde un peatón que camina hacia el norte apenas puede ver lo que pueda venir hacia él. Iba por las tres cuartas partes de la cuesta cuando Bryan Smith, dueño y conductor de la furgoneta Dodge, coronó la cima. No iba en la carretera; iba en el arcén. Su arcén. Tuvo quizá tres cuartas partes de segundo para registrarlo: justo el tiempo de pensar Dios mío, voy a ser atropellado por un autobús escolar. Empezó a girar a la izquierda. Hay un corte en su memoria ahí. Al otro lado está en el suelo, mirando la parte trasera de la furgoneta, ahora salida de la carretera y ladeada. El recuerdo es muy claro y nítido, más una instantánea que una memoria: hay polvo alrededor de las luces traseras; la matrícula y las ventanillas de atrás están sucias. Registra esas cosas sin pensar que ha tenido un accidente, ni nada en absoluto: es una foto, eso es todo; no piensa; le han barrido la cabeza:*
+
+> There’s another little break in my memory here, and then I am very carefully wiping palmfuls of blood out of my eyes with my left hand.
+
+Hay otro pequeño corte en mi memoria aquí, y luego estoy limpiándome con mucho cuidado, con la mano izquierda, los puñados de sangre que me cubren los ojos.
+
+> When my eyes are reasonably clear, I look around and see a man sitting on a nearby rock.
+
+Cuando puedo ver razonablemente claro, miro alrededor y veo a un hombre sentado en una roca cercana.
+
+*Tiene un bastón cruzado sobre el regazo. Es Bryan Smith, cuarenta y dos años, el hombre que lo atropelló con su furgoneta. Smith tiene un historial de conducción notable: acumula casi una docena de infracciones relacionadas con vehículos. No miraba la carretera aquella tarde en que sus vidas se juntaron porque su rottweiler había saltado desde el fondo de la furgoneta al asiento trasero, donde había una nevera portátil Igloo con carne dentro —el rottweiler se llama Bullet; Smith tiene otro en casa, llamado Pistol—. Bullet empezó a husmear la tapa de la nevera; Smith se volvió y trató de apartarlo; seguía mirando a Bullet y empujando su cabeza lejos de la nevera cuando coronó la loma; seguía mirando y empujando cuando lo atropelló. Smith contó después a unos amigos que creyó haber golpeado «un ciervo pequeño» hasta que notó las gafas ensangrentadas de King sobre el asiento delantero de su furgoneta. Se le habían saltado de la cara al intentar apartarse. Las monturas quedaron dobladas y retorcidas, pero los cristales no se rompieron. Son los cristales que lleva puestos ahora, mientras escribe esto.*
+
+### Shloop-shloop-shloop
+
+*Smith ve que está despierto y le dice que la ayuda está en camino. Habla con calma, incluso alegremente:*
+
+> His look, as he sits on his rock with his cane drawn across his lap, is one of pleasant commiseration: *Ain’t the two of us just had the shittiest luck?* it says.
+
+Su expresión, sentado en su roca con el bastón cruzado sobre el regazo, es de agradable compasión: ¿no acabamos de tener los dos la peor de las suertes?, dice.
+
+*Él y Bullet habían salido del camping donde se alojaban, le contaría después a un investigador, porque se le antojaron «esas Marzes-bars que tienen ahí en la tienda»:*
+
+> When I hear this little detail some weeks later, it occurs to me that I have nearly been killed by a character right out of one of my own novels.
+
+Cuando escucho este pequeño detalle unas semanas después, se me ocurre que estuve a punto de morir a manos de un personaje salido de una de mis propias novelas.
+
+*Es casi gracioso. La ayuda está en camino, piensa, y probablemente eso es bueno, porque ha tenido un accidente de mil demonios. Está tirado en la zanja, hay sangre por toda su cara y le duele la pierna derecha. Mira hacia abajo y ve algo que no le gusta: su regazo parece ahora estar de lado, como si toda la mitad inferior de su cuerpo hubiera sido retorcida media vuelta a la derecha. Vuelve a mirar al hombre del bastón y dice: «Por favor, dígame que solo está dislocada». «Nah —dice él—. Está rota en cinco, diría que quizá en seis sitios». Como su cara, su voz es alegre, solo levemente interesada; podría estar viendo todo esto en la tele mientras picotea una de esas Marzes-bars:*
+
+> “I’m sorry,” I tell him—God knows why—and then I’m gone again for a little while.
+
+«Lo siento», le digo —Dios sabe por qué— y luego me voy otra vez por un rato.
+
+*No es como desmayarse; es más como si la película de la memoria hubiera sido empalmada aquí y allá. Cuando vuelve esta vez, hay una furgoneta naranja y blanca al ralentí al borde de la carretera con las luces de emergencia encendidas. Un técnico de emergencias médicas —se llama Paul Fillebrown— está arrodillado a su lado, haciendo algo; cortándole los vaqueros, cree, aunque quizá eso vino después. Le pregunta si puede fumar un cigarrillo; Fillebrown se ríe y dice que ni hablar. Le pregunta si se va a morir; le dice que no, pero que tiene que ir al hospital, y rápido. ¿Cuál prefiere, el de Norway-South Paris o el de Bridgton? Dice que quiere ir al Northern Cumberland Hospital de Bridgton, porque su hijo menor —el que acaba de llevar al aeropuerto— nació allí hace veintidós años. Vuelve a preguntar si va a morir, y Fillebrown vuelve a decirle que no. Luego le pregunta si puede mover los dedos del pie derecho:*
+
+> I wiggle them, thinking of an old rhyme my mother used to recite sometimes: *This little piggy went to market, this little piggy stayed home.*
+
+Los muevo, pensando en una vieja rima que mi madre recitaba a veces: Este cerdito fue al mercado, este cerdito se quedó en casa.
+
+*Debería haberme quedado en casa, piensa; salir a caminar hoy fue una idea realmente mala. Luego recuerda que a veces la gente paralizada cree que se está moviendo cuando en realidad no lo está: «¿Se movieron mis dedos?». Fillebrown dice que sí, un movimiento bueno y sano. «¿Lo juras por Dios?», le pregunta, y cree que lo jura. Empieza a irse de nuevo. Fillebrown le pregunta, muy despacio y muy alto, agachándose hasta su cara, si su mujer está en la casa grande del lago. No lo recuerda. No recuerda dónde está nadie de su familia, pero es capaz de darle los números de teléfono tanto de la casa grande como de la cabaña al otro lado del lago donde a veces se queda su hija. Diablos, podría darle su número de la seguridad social si se lo pidiera: tiene todos sus números; es todo lo demás lo que se ha ido. Llega más gente; en alguna parte una radio cruje llamadas de policía. Lo ponen en una camilla: duele, y grita. Lo suben a la ambulancia y las llamadas suenan más cerca; las puertas se cierran y alguien adelante dice: «Mejor que pises a fondo». Y arrancan. Paul Fillebrown se sienta a su lado:*
+
+> He has a pair of clippers and tells me he’s going to have to cut the ring off the third finger of my right hand—it’s a wedding ring Tabby gave me in 1983, twelve years after we were actually married.
+
+Tiene unos alicates y me dice que va a tener que cortar el anillo del tercer dedo de mi mano derecha —es un anillo de boda que Tabby me regaló en 1983, doce años después de que nos casáramos de verdad—.
+
+> I try to tell Fillebrown that I wear it on my right hand because the real wedding ring is still on the third finger of my left—the original two-ring set cost me $15.95 at Day’s Jewelers in Bangor.
+
+Intento decirle a Fillebrown que lo llevo en la mano derecha porque la alianza verdadera sigue en el tercer dedo de la izquierda —el juego original de dos anillos me costó 15,95 dólares en Day's Jewelers de Bangor—.
+
+*Ese primer anillo costó solo ocho dólares, en otras palabras, pero parece que funcionó:*
+
+> Some garbled version of this comes out, probably nothing Paul Fillebrown can actually understand, but he keeps nodding and smiling as he cuts that second, more expensive, wedding ring off my swollen right hand.
+
+Alguna versión ininteligible de esto sale de mí, probablemente nada que Paul Fillebrown pueda entender de verdad, pero él sigue asintiendo y sonriendo mientras corta ese segundo anillo de boda, el más caro, en mi mano derecha hinchada.
+
+*Unos dos meses después llama a Fillebrown para agradecérselo; para entonces entiende que probablemente le salvó la vida administrándole la asistencia correcta en el lugar y llevándolo después al hospital a unas ciento diez millas por hora por carreteras secundarias bacheadas. Fillebrown le asegura que no hay de qué y sugiere que quizá alguien velaba por él: «Llevo veinte años haciendo esto —le dice por teléfono—, y cuando vi cómo estaba usted tirado en la zanja, más la extensión de las lesiones del impacto, no pensé que llegara al hospital. Es un campista con suerte de seguir en el programa». La extensión de las lesiones es tal que los médicos del Northern Cumberland deciden que no pueden tratarlo allí; alguien llama a un helicóptero LifeFlight para llevarlo al Central Maine Medical Center de Lewiston. Llegan entonces su mujer, su hijo mayor y su hija; a los chicos les permiten una visita breve; a su mujer la dejan quedarse más tiempo. Los médicos le han asegurado que está magullado pero saldrá adelante. Le han cubierto la mitad inferior del cuerpo:*
+
+> She isn’t allowed to look at the interesting way my lap has shifted around to the right, but she is allowed to wash the blood off my face and pick some of the glass out of my hair.
+
+No se le permite mirar la interesante manera en que mi regazo se ha desplazado a la derecha, pero sí se le permite lavar la sangre de mi cara y sacar algunos cristales de mi pelo.
+
+*Hay una larga herida en su cuero cabelludo, resultado de su colisión con el parabrisas de Bryan Smith: el impacto se produjo a menos de dos pulgadas del poste de acero del lado del conductor; de haber golpeado ahí, probablemente habría muerto o quedado en coma permanente, un vegetal con piernas. De haber golpeado las rocas que sobresalen del suelo más allá del arcén, también habría muerto o quedado paralizado para siempre. No las tocó: salió lanzado por encima de la furgoneta y catorce pies por el aire, pero aterrizó justo al borde de las rocas. «Debe de haber pivotado a la izquierda solo un poco en el último segundo —le dice después el doctor David Brown—. Si no, no estaríamos teniendo esta conversación». El helicóptero aterriza en el aparcamiento del hospital y lo sacan en camilla. El cielo está muy brillante, muy azul; el batir de los rotores, muy fuerte. Alguien le grita al oído: «¿Había estado alguna vez en un helicóptero, Stephen?». Suena jovial, emocionado por él. Intenta responder que sí, dos veces de hecho, pero no puede: de pronto es muy difícil respirar. Lo cargan dentro. Al despegar ve una cuña brillante de cielo azul, sin una nube. Hermoso. Hay más voces de radio: esta es su tarde de oír voces, al parecer. Mientras tanto, cada vez es más difícil respirar. Hace un gesto hacia alguien, o lo intenta, y una cara se inclina boca abajo en su campo visual. «Siento que me ahogo», susurra. Alguien revisa algo y otro alguien dice: «Se le ha colapsado un pulmón». Hay un crujido de papel al desenvolverse algo, y ese otro alguien le habla al oído, en voz alta para hacerse oír sobre los rotores: «Vamos a ponerle un tubo torácico, Stephen. Sentirá algo de dolor, un pequeño pinchazo. Aguante». Su experiencia (aprendida de chiquitito con las orejas infectadas) es que si un médico te dice que vas a sentir un pequeño pinchazo, te van a hacer daño de verdad. Esta vez no es tan malo como esperaba, quizá porque va lleno de analgésicos, quizá porque está al borde de irse otra vez: es como si alguien con un objeto corto y afilado le diera un golpe seco muy arriba en el lado derecho del pecho. Luego hay un silbido alarmante en el pecho, como si le hubiera salido una fuga. De hecho, supone que le ha salido:*
+
+> A moment later the soft in-out of normal respiration, which I’ve listened to my whole life (mostly without being aware of it, thank God), has been replaced by an unpleasant *shloop-shloop-shloop* sound.
+
+Un momento después, el suave entra y sale de la respiración normal, que he escuchado toda mi vida (casi siempre sin ser consciente de ello, gracias a Dios), ha sido reemplazado por un desagradable shloop-shloop-shloop.
+
+*El aire que traga está muy frío, pero es aire, al menos, aire, y sigue respirándolo. No quiere morir. Ama a su mujer, a sus hijos, sus paseos de tarde junto al lago:*
+
+> I also love to write; I have a book on writing that’s sitting back home on my desk, half-finished.
+
+También amo escribir; tengo un libro sobre escritura esperándome en casa sobre mi escritorio, a medio terminar.
+
+*No quiere morir, y mientras yace en el helicóptero mirando el brillante cielo azul de verano, comprende que está en realidad tumbado en el umbral de la muerte: alguien va a tirar de él hacia un lado o hacia el otro muy pronto; está casi todo fuera de sus manos. Todo lo que puede hacer es quedarse ahí, mirar el cielo y escuchar su respiración fina y con fugas: shloop-shloop-shloop. Diez minutos después se posan en la plataforma de hormigón del CMMC, que a él le parece estar al fondo de un pozo de hormigón: el cielo azul queda borrado y el whap-whap-whap de los rotores se magnifica y resuena, como el aplauso de unas manos gigantes. Aún respirando a grandes sorbos con fuga, lo bajan del helicóptero. Alguien golpea la camilla y grita. «Perdón, perdón, está bien, Stephen», dice alguien —cuando estás malherido, todo el mundo te llama por tu nombre de pila, todo el mundo es tu amigo—:*
+
+> “Tell Tabby I love her very much,” I say as I am first lifted and then wheeled, very fast, down some sort of descending concrete walkway.
+
+«Díganle a Tabby que la quiero mucho», digo mientras primero me levantan y luego me llevan en camilla, muy rápido, por una especie de pasillo de hormigón en bajada.
+
+*De pronto siente ganas de llorar. «Podrá decírselo usted mismo», dice el alguien. Cruzan una puerta; hay aire acondicionado y luces que desfilan sobre su cabeza; unos altavoces emiten llamadas. Se le ocurre, confusamente, que una hora antes estaba dando un paseo y pensando recoger bayas en un campo con vista al lago Kezar. No habría recogido mucho rato, eso sí; tenía que estar en casa a las cinco y media porque todos iban al cine: The General's Daughter, con John Travolta. Travolta salía en la película de Carrie, su primera novela; hacía del malo. Hacía mucho de eso. «¿Cuándo?», pregunta. «¿Cuándo podré decírselo?». «Pronto», dice la voz, y entonces se va otra vez:*
+
+> This time it’s no splice but a great big whack taken out of the memory-film; there are a few flashes, confused glimpses of faces and operating rooms and looming X-ray machinery; there are delusions and hallucinations fed by the morphine and Dilaudid being dripped into me; there are echoing voices and hands that reach down to paint my dry lips with swabs that taste of peppermint.
+
+Esta vez no es un empalme sino un gran mordisco arrancado a la película de la memoria; hay unos cuantos destellos, vislumbres confusos de caras y quirófanos y amenazante maquinaria de rayos X; hay delirios y alucinaciones alimentados por la morfina y el Dilaudid que me gotean dentro; hay voces que hacen eco y manos que bajan a pintarme los labios secos con hisopos que saben a menta.
+
+*Pero sobre todo hay oscuridad.*
+
+### El parte de daños
+
+*La estimación de Bryan Smith sobre sus heridas resultó ser conservadora:*
+
+> My lower leg was broken in at least nine places— the orthopedic surgeon who put me together again, the formidable David Brown, said that the region below my right knee had been reduced to “so many marbles in a sock.”
+
+Mi espinilla estaba rota en al menos nueve sitios —el cirujano ortopédico que me recompuso, el formidable David Brown, dijo que la zona bajo mi rodilla derecha había quedado reducida a «tantas canicas en un calcetín»—.
+
+*La extensión de esas heridas en la espinilla exigió dos incisiones profundas —se llaman fasciotomías medial y lateral— para liberar la presión causada por la tibia estallada y permitir que la sangre volviera a fluir a la parte baja de la pierna; sin las fasciotomías (o de haberse retrasado), probablemente habría sido necesario amputar la pierna. La rodilla derecha misma se partió casi exactamente por la mitad —el término técnico es «fractura tibial intraarticular conminuta»—. Sufrió además una fractura acetabular de la cadera derecha —un descarrilamiento serio, en otras palabras— y una fractura intertrocantérica abierta del fémur en la misma zona. La columna quedó astillada en ocho sitios. Cuatro costillas rotas. La clavícula derecha aguantó, pero la carne sobre ella quedó despellejada viva. La laceración del cuero cabelludo necesitó veinte o treinta puntos. Sí, en conjunto diría que Bryan Smith fue un pelín conservador.*
+
+### La condena
+
+*El comportamiento del señor Smith al volante en este caso fue examinado finalmente por un gran jurado, que lo acusó de dos cargos: conducción peligrosa (bastante serio) y agresión agravada (muy serio, de esa clase de cosas que significan cárcel):*
+
+> After due consideration, the District Attorney responsible for prosecuting such cases in my little corner of the world allowed Smith to plead out to the lesser charge of driving to endanger.
+
+Tras la debida consideración, el fiscal de distrito responsable de procesar tales casos en mi pequeño rincón del mundo permitió a Smith declararse culpable del cargo menor de conducción peligrosa.
+
+*Recibió seis meses de cárcel de condado (pena suspendida) y un año de suspensión de su privilegio de conducir. También quedó un año en libertad condicional, con restricciones sobre otros vehículos de motor, como motos de nieve y quads. Es concebible que Bryan Smith pudiera estar legalmente de vuelta en la carretera en el otoño o el invierno de 2001.*
+
+### Volver a caminar
+
+*David Brown le recompuso la pierna en cinco maratonianas intervenciones quirúrgicas que lo dejaron delgado, débil y casi al final de su resistencia. También le dejaron al menos una posibilidad real de volver a caminar. Le sujetaron a la pierna un gran aparato de acero y fibra de carbono llamado fijador externo: ocho grandes clavijas de acero llamadas clavos de Schanz atraviesan el fijador y entran en los huesos por encima y por debajo de la rodilla; cinco varillas de acero más pequeñas irradian desde la rodilla y parecen un dibujo infantil de los rayos del sol. La rodilla misma quedó bloqueada. Tres veces al día, las enfermeras desenvolvían las clavijas pequeñas y los enormes clavos de Schanz y limpiaban los agujeros con agua oxigenada: nunca le han sumergido la pierna en queroseno y le han prendido fuego, pero si algún día pasa, está seguro de que se sentirá bastante parecido al cuidado diario de los clavos. Entró en el hospital el diecinueve de junio:*
+
+> Around the twenty-fifth I got up for the first time, staggering three steps to a commode, where I sat with my hospital johnny in my lap and my head down, trying not to weep and failing.
+
+Alrededor del veinticinco me levanté por primera vez, tambaleándome tres pasos hasta una silla con orinal, donde me senté con la bata de hospital en el regazo y la cabeza gacha, intentando no llorar y fracasando.
+
+*Intentas decirte que has tenido suerte, una suerte increíble, y normalmente funciona porque es verdad. A veces no funciona, eso es todo. Entonces lloras. Un día o dos después de aquellos primeros pasos empezó la fisioterapia: en su primera sesión logró diez pasos por un pasillo de la planta baja, dando traspiés con la ayuda de un andador. Otro paciente aprendía a caminar de nuevo al mismo tiempo: una anciana menuda de ochenta años llamada Alice, recuperándose de un derrame. Se animaban el uno al otro cuando tenían aliento suficiente. El tercer día en el pasillo, le dijo a Alice que se le veía la combinación. «Lo que se te ve es el culo, niño», siseó ella, y siguió andando. Para el Cuatro de Julio ya podía estar sentado en la silla de ruedas el tiempo suficiente para salir al muelle de carga detrás del hospital y ver algunos de los fuegos artificiales: una noche ferozmente calurosa, las calles llenas de gente comiendo, bebiendo cerveza y refrescos, mirando el cielo. Tabby estaba a su lado, tomándole de la mano, mientras el cielo se encendía en rojo y verde, azul y amarillo. Se alojaba en un apartamento enfrente del hospital, y cada mañana le llevaba huevos escalfados y té. Al parecer le hacía falta el alimento: en 1997, tras volver de un viaje en moto por el desierto australiano, pesaba doscientas dieciséis libras; el día que salió del Central Maine Medical Center, pesaba ciento sesenta y cinco. Volvió a casa en Bangor el nueve de julio, tras tres semanas de hospital, y empezó un programa diario de rehabilitación con estiramientos, flexiones y caminatas con muletas. Intentó mantener el ánimo. El cuatro de agosto volvió al CMMC para otra operación. Insertándole la vía intravenosa en el brazo, el anestesiólogo dijo: «Vale, Stephen: se va a sentir un poco como si se acabara de tomar un par de cócteles»:*
+
+> I opened my mouth to tell him that would be interesting, since I hadn’t had a cocktail in eleven years, but before I could get anything out, I was gone again.
+
+Abrí la boca para decirle que eso sería interesante, ya que no me tomaba un cóctel desde hacía once años, pero antes de que pudiera soltar nada, me había ido otra vez.
+
+*Cuando despertó esta vez, los clavos de Schanz de la parte alta del muslo habían desaparecido. Podía volver a doblar la rodilla:*
+
+> Dr. Brown pronounced my recovery “on course” and sent me home for more rehab and physical therapy (those of us undergoing P.T. know that the letters actually stand for Pain and Torture).
+
+El doctor Brown declaró mi recuperación «en curso» y me mandó a casa a más rehabilitación y fisioterapia (quienes pasamos por la P.T. sabemos que las siglas significan en realidad Pain and Torture: dolor y tortura).
+
+*Y en medio de todo esto, ocurrió otra cosa:*
+
+> On July twenty-fourth, five weeks after Bryan Smith hit me with his Dodge van, I began to write again.
+
+El veinticuatro de julio, cinco semanas después de que Bryan Smith me atropellara con su furgoneta Dodge, empecé a escribir de nuevo.
+
+### El voto decisivo
+
+*En realidad había empezado On Writing en noviembre o diciembre de 1997, y aunque normalmente le basta con tres meses para el primer borrador de un libro, este seguía a medias dieciocho meses después: lo había apartado en febrero o marzo de 1998, sin saber cómo continuar, ni si debía continuar en absoluto. Escribir ficción era casi tan divertido como siempre, pero cada palabra del libro de no ficción era una clase de tortura. Era el primer libro que apartaba sin terminar desde The Stand, y On Writing pasó mucho más tiempo en el cajón del escritorio:*
+
+> In June of 1999, I decided to spend the summer finishing the damn writing book—let Susan Moldow and Nan Graham at Scribner decide if it was good or bad, I thought.
+
+En junio de 1999 decidí pasar el verano terminando el condenado libro de escritura —que decidieran Susan Moldow y Nan Graham, de Scribner, si era bueno o malo, pensé—.
+
+> I read the manuscript over, prepared for the worst, and discovered I actually sort of liked what I had.
+
+Releí el manuscrito, preparado para lo peor, y descubrí que en realidad me gustaba un poco lo que tenía.
+
+*El camino para terminarlo también parecía despejado:*
+
+> I had finished the memoir (“C.V.”), which attempted to show some of the incidents and life-situations which made me into the sort of writer I turned out to be, and I had covered the mechanics—those that seemed most important to me, at least.
+
+Ya había terminado las memorias («C.V.»), que intentaban mostrar algunos de los incidentes y situaciones vitales que me convirtieron en la clase de escritor que resulté ser, y había cubierto la mecánica —la que me parecía más importante, al menos—.
+
+*Lo que quedaba por hacer era la sección clave, «On Writing», donde intentaría responder algunas de las preguntas que le habían hecho en seminarios y charlas, más todas las que le habría gustado que le hicieran… esas preguntas sobre el lenguaje. La noche del diecisiete de junio, felizmente ignorante de que estaba ya a menos de cuarenta y ocho horas de su pequeña cita con Bryan Smith (por no mencionar a Bullet el rottweiler), se sentó a la mesa del comedor y enumeró todas las preguntas que quería responder, todos los puntos que quería abordar. El dieciocho escribió las primeras cuatro páginas de la sección «On Writing». Ahí seguía el trabajo a finales de julio, cuando decidió que más valía volver al trabajo… o al menos intentarlo. No quería volver al trabajo. Estaba muy dolorido, incapaz de doblar la rodilla derecha, confinado a un andador. No se imaginaba sentado tras un escritorio mucho rato, ni siquiera en la silla de ruedas: con la cadera destrozada cataclísmicamente, estar sentado era tortura a los cuarenta minutos, imposible a la hora y cuarto. A esto se sumaba el libro mismo, más desalentador que nunca: ¿cómo se suponía que iba a escribir sobre diálogo, personaje y cómo conseguir agente cuando lo más urgente de su mundo era cuánto faltaba para la siguiente dosis de Percocet? Y sin embargo, al mismo tiempo, sentía que había llegado a uno de esos momentos de encrucijada en los que se te han acabado las opciones:*
+
+> And I had been in terrible situations before which the writing had helped me get over—had helped me forget myself for at least a little while.
+
+Y yo ya había estado antes en situaciones terribles que la escritura me había ayudado a superar —me había ayudado a olvidarme de mí mismo al menos por un rato—.
+
+*Quizá volviera a ayudarlo. Parecía ridículo pensarlo, dado su nivel de dolor e incapacidad física, pero ahí estaba esa voz al fondo de su mente, paciente e implacable a la vez, diciéndole que, en palabras de los Chambers Brothers, Time Has Come Today. Le es posible desobedecer esa voz, pero muy difícil no creerla. Al final fue Tabby quien emitió el voto decisivo, como tantas veces en los momentos cruciales de su vida. Le gusta pensar que él ha hecho lo mismo por ella alguna vez, porque le parece que una de las cosas de las que va el matrimonio es de emitir el voto de desempate cuando simplemente no sabes qué hacer a continuación. Su mujer es la persona de su vida con más probabilidades de decirle que trabaja demasiado, que es hora de bajar el ritmo, aléjate de ese condenado PowerBook un rato, Steve, dale un descanso. Cuando aquella mañana de julio le dijo que creía que más le valía volver al trabajo, esperaba un sermón. En cambio, ella le preguntó dónde quería instalarse. Dijo que no lo sabía, que ni siquiera lo había pensado. Ella sí lo pensó, y luego dijo: «Puedo improvisarte una mesa en el pasillo de atrás, junto a la despensa. Hay un montón de enchufes: puedes tener tu Mac, la impresora pequeña y un ventilador». El ventilador era desde luego imprescindible: había sido un verano terriblemente caluroso, y el día que volvió al trabajo la temperatura exterior era de treinta y cinco grados. En el pasillo no hacía mucho más fresco. Tabby pasó un par de horas montándolo todo, y aquella tarde a las cuatro lo rodó a través de la cocina y por la rampa de silla de ruedas recién instalada hasta el pasillo de atrás. Le había hecho un nido pequeño y maravilloso: portátil e impresora conectados lado a lado, lámpara de mesa, el manuscrito (con sus notas del mes anterior colocadas pulcramente encima), bolígrafos, materiales de referencia. En la esquina del escritorio, una foto enmarcada de su hijo menor que ella había hecho ese mismo verano. «¿Está bien?», preguntó ella. «Es precioso», dijo él, y la abrazó. Era precioso. Ella también. La antigua Tabitha Spruce de Oldtown, Maine, sabe cuándo trabaja demasiado, pero también sabe que a veces es el trabajo lo que lo saca a flote. Lo acomodó en la mesa, lo besó en la sien y lo dejó allí para que averiguara si aún le quedaba algo que decir:*
+
+> It turned out I did, a little, but without her intuitive understanding that yes, it *was* time, I’m not sure either of us would ever have found that out for sure.
+
+Resultó que sí me quedaba, un poco, pero sin su comprensión intuitiva de que sí, que ya era la hora, no estoy seguro de que ninguno de los dos lo hubiéramos averiguado jamás con certeza.
+
+*Aquella primera sesión duró una hora y cuarenta minutos, de lejos el período más largo que había pasado sentado erguido desde que la furgoneta de Smith lo atropellara. Cuando terminó, chorreaba sudor y estaba casi demasiado agotado para mantenerse derecho en la silla. El dolor de cadera estaba justo al borde de lo apocalíptico. Y las primeras quinientas palabras fueron singularmente aterradoras: era como si nunca hubiera escrito nada antes en su vida. Todos sus viejos trucos parecían haberlo abandonado; pasaba de una palabra a la siguiente como un anciano cruzando un arroyo sobre una línea en zigzag de piedras mojadas. No hubo inspiración aquella primera tarde, solo una especie de determinación terca y la esperanza de que las cosas mejorarían si seguía en ello. Tabby le trajo una Pepsi —fría y dulce y buena— y mientras la bebía miró alrededor y tuvo que reír a pesar del dolor: había escrito Carrie y 'Salem's Lot en el lavadero de un tráiler alquilado, y el pasillo de atrás de su casa de Bangor se le parecía lo bastante como para hacerle sentir que casi había cerrado el círculo. No hubo ningún avance milagroso aquella tarde, a menos que fuera el milagro ordinario que acompaña a cualquier intento de crear algo:*
+
+> All I know is that the words started coming a little faster after awhile, then a little faster still.
+
+Todo lo que sé es que las palabras empezaron a venir un poco más rápido al cabo de un rato, y luego un poco más rápido aún.
+
+*La cadera seguía doliendo, la espalda seguía doliendo, la pierna también, pero esos dolores empezaron a parecer un poco más lejanos. Empezó a ponerse por encima de ellos. No hubo sensación de euforia, ningún subidón —aquél día no—, pero hubo una sensación de logro que era casi igual de buena. Se había puesto en marcha, eso era. El momento más aterrador es siempre justo antes de empezar. Después de eso, las cosas solo pueden mejorar.*
+
+### El agua es gratis
+
+*Para él, las cosas han seguido mejorando. Ha tenido dos operaciones más en la pierna desde aquella primera tarde sofocante en el pasillo de atrás, ha pasado una infección bastante seria y sigue tomándose aproximadamente cien pastillas al día, pero el fijador externo ya es historia y él sigue escribiendo. Algunos días esa escritura es una caminata bastante sombría:*
+
+> On others— more and more of them as my leg begins to heal and my mind reaccustoms itself to its old routine—I feel that buzz of happiness, that sense of having found the right words and put them in a line.
+
+Otros días —cada vez más, a medida que la pierna empieza a curarse y mi mente se reacostumbra a su vieja rutina— siento ese zumbido de felicidad, esa sensación de haber encontrado las palabras correctas y haberlas puesto en fila.
+
+*Es como despegar en un avión: estás en el suelo, en el suelo, en el suelo… y de pronto estás arriba, montado en un cojín mágico de aire y príncipe de todo lo que contemplas. Eso lo hace feliz, porque es para lo que fue hecho. Aún no tiene muchas fuerzas —puede hacer poco menos de la mitad de lo que antes hacía en un día—, pero ha tenido las suficientes para llegar al final de este libro, y por eso está agradecido. La escritura no le salvó la vida —eso lo hicieron la pericia del doctor David Brown y el cuidado amoroso de su mujer—, pero ha seguido haciendo lo que siempre ha hecho: convierte su vida en un lugar más luminoso y agradable. Escribir no va de hacer dinero, de hacerse famoso, de conseguir citas, de acostarse con alguien o de hacer amigos. Al final, va de enriquecer las vidas de quienes leerán tu obra, y de enriquecer también tu propia vida. Va de levantarse, de curarse y de superarlo. De ser feliz, ¿vale? De ser feliz:*
+
+> Some of this book—perhaps too much—has been about how I learned to do it.
+
+Parte de este libro —quizá demasiada— ha ido de cómo aprendí a hacerlo.
+
+*Buena parte ha ido de cómo puedes hacerlo mejor. El resto —y quizá lo mejor— es un permiso firmado: puedes, debes, y si eres lo bastante valiente para empezar, lo harás. Escribir es magia, tan agua de la vida como cualquier otro arte creativo. El agua es gratis. Así que bebe. Bebe y llénate.*
+
+## And Furthermore, Part I: Door Shut, Door Open
+
+*Antes en este libro, al escribir sobre su breve carrera como cronista deportivo del Lisbon Weekly Enterprise (era, de hecho, todo el departamento de deportes; un Howard Cosell de pueblo), ofreció un ejemplo de cómo funciona el proceso de edición. Aquel ejemplo era forzosamente breve y trataba de no ficción. El pasaje que sigue es ficción:*
+
+> It is completely raw, the sort of thing I feel free to do with the door shut—it’s the story undressed, standing up in nothing but its socks and undershorts.
+
+Está completamente crudo, la clase de cosa que me siento libre de hacer con la puerta cerrada —es la historia desnuda, de pie con nada más que los calcetines y los calzoncillos—.
+
+*Sugiere que la mires con atención antes de pasar a la versión editada. Es la apertura de «1408»: Mike Enslin aún está en la puerta giratoria del Hotel Dolphin cuando ve a Ostermeyer, el gerente, sentado en uno de los mullidos sillones del vestíbulo; el corazón le da un vuelco —quizá debería haber traído otra vez al condenado abogado—. Bueno, ya es tarde:*
+
+> And evenif Ostermeyer had decided to throw up another roadblock or two between Mike and room 1408, that wasn’t all bad; it would simply add to the story when he finally told it.**
+
+Y aun si Ostermeyer hubiera decidido levantar otro obstáculo o dos entre Mike y la habitación 1408, eso no sería del todo malo; simplemente añadiría más historia cuando por fin la contara.
+
+*Ostermeyer lo ve, se levanta y cruza el vestíbulo con una mano regordeta extendida. El Dolphin está en la calle Sesenta y uno, a la vuelta de la Quinta Avenida; pequeño pero elegante. Una pareja en traje de noche pasa junto a Mike; la mujer es rubia, vestida de negro, por supuesto, y el ligero olor floral de su perfume parece resumir Nueva York; en el entresuelo, alguien toca «Night and Day» en el bar, como para subrayar el resumen. «¿Podría hablar con usted un momento en mi oficina?». Ajá, piensa Mike: quiere intentarlo una vez más. En otras circunstancias podría haberse impacientado. Ahora no:*
+
+> It would help the section on room 1408, offer the proper ominous tone the readers of his books seemed to crave—it was to be One Final Warning—but that wasn’t all.
+
+Ayudaría a la sección sobre la habitación 1408, ofrecería el tono ominoso adecuado que los lectores de sus libros parecían ansiar —sería la Última Advertencia Final—, pero no era solo eso.
+
+*Mike Enslin no había estado seguro hasta ahora, a pesar de todos los rodeos; ahora lo está: Ostermeyer no está interpretando un papel; Ostermeyer tiene miedo de verdad de la habitación 1408, y de lo que pueda pasarle a Mike allí esta noche. En la oficina, Mike se quita el cigarrillo de detrás de la oreja, se mira y se ríe: no fuma desde hace nueve años —su hermano mayor murió de cáncer de pulmón y dejó de fumar poco después—. El cigarrillo detrás de la oreja… se encoge de hombros:*
+
+> “Part affectation, part superstition, I guess.
+
+«Parte afectación, parte superstición, supongo. Como esas que a veces se ven en los escritorios o las paredes de la gente, montadas en una cajita con un letrero que dice ROMPA EL CRISTAL EN CASO DE EMERGENCIA. A veces le digo a la gente que encenderé uno en caso de guerra nuclear. ¿Es la 1408 una habitación de fumadores, señor Ostermeyer? ¿Por si estalla la guerra nuclear?».
+
+*Sigue la copia revisada del mismo pasaje de apertura:*
+
+> What follows is revised copy of this same opening passage—it’s the story putting on its clothes, combing its hair, maybe adding just a small dash of cologne.
+
+Lo que sigue es la copia revisada de este mismo pasaje de apertura —es la historia poniéndose la ropa, peinándose, quizá añadiendo solo un pequeño toque de colonia—.
+
+*Una vez incorporados esos cambios al documento, está listo para abrir la puerta y enfrentarse al mundo:*
+
+> The reasons for the majority of the changes are self-evident; if you flip back and forth between the two versions, I’m confident that you’ll understand almost all of them, and I’m hopeful that you’ll see how raw the first-draft work of even a so-called “professional writer” is once you really examine it.
+
+Las razones de la mayoría de los cambios son evidentes por sí mismas; si vas y vuelves entre las dos versiones, confío en que entenderás casi todos, y abrigo la esperanza de que veas lo crudo que es el trabajo de primer borrador incluso de un «escritor profesional», una vez que lo examinas de verdad.
+
+*La mayoría de los cambios son cortes, pensados para dar velocidad a la historia: cortó con Strunk en mente —«Omite las palabras innecesarias»— y también para satisfacer la fórmula ya enunciada: 2.º borrador = 1.er borrador − 10 %. Señaló unos pocos cambios con una breve explicación. Primero: obviamente, «The Hotel Story» nunca va a reemplazar a «Killdozer!» o a Norma Jean, the Termite Queen como título; simplemente lo encajó en el primer borrador, sabiendo que uno mejor se le ocurriría sobre la marcha:*
+
+> (If a better title doesn’t occur, an editor will usually supply his or her idea of a better one, and the results are usually ugly.)
+
+(Si no se te ocurre un título mejor, un editor suele suministrar su propia idea de uno mejor, y los resultados suelen ser feos.)
+
+*A él le gusta «1408» porque es una historia de «decimotercer piso» y los números suman trece. Segundo: Ostermeyer es un nombre largo y zanquilargo; cambiándolo por Olin mediante reemplazo global, pudo acortar el cuento unas quince líneas de un solo golpe. Además, para cuando terminó «1408» ya sospechaba que formaría parte de una colección de audio:*
+
+> I would read the stories myself, and didn’t want to sit there in the little recording booth, saying Ostermeyer, Ostermeyer, Ostermeyer all day long.
+
+Leería yo mismo los cuentos, y no quería pasarme el día en la cabinilla de grabación diciendo Ostermeyer, Ostermeyer, Ostermeyer.
+
+*Tercero: está pensando demasiado por el lector; como la mayoría de los lectores pueden pensar por sí mismos, se sintió libre de cortar eso de cinco líneas a solo dos. Cuarto: demasiada dirección escénica, demasiado subrayado de lo obvio y demasiado trasfondo torpe: fuera. Quinto: ah, aquí está la afortunada camisa hawaiana. Aparece en el primer borrador, pero no hasta más o menos la página treinta: demasiado tarde para un accesorio importante, así que la subió al principio. Hay una vieja regla teatral que dice: «Si hay un fusil sobre la chimenea en el acto primero, tiene que dispararse en el tercero»; lo inverso también es cierto: si la camisa hawaiana de la suerte del protagonista juega un papel al final, hay que presentarla pronto, o parece un deus ex machina (que por supuesto es lo que es). Sexto: el primer borrador dice «Mike se sentó en una de las sillas frente al escritorio». Bueno, pues claro: ¿dónde si no va a sentarse? ¿En el suelo? No lo creo, y fuera va. También fuera el asunto de los puros cubanos: no solo es rancio, es la clase de cosa que los malos dicen siempre en las películas malas: «¡Fúmate un puro! ¡Son cubanos!». Olvídalo. Séptimo: las ideas y la información básica son las mismas en ambos borradores, pero en el segundo todo está cortado hasta el hueso. ¡Y mira! ¿Ves ese adverbio miserable, ese «shortly»? Lo aplastó, ¿verdad? ¡Sin piedad! Octavo:*
+
+> 8. And here’s one I didn’t cut … not just an adverb but a Swiftie: **“Well,” Mike said heartily …** But I stand behind my choice not to cut in this case, would argue that it’s the exception which proves the rule.
+
+Y aquí hay uno que no corté… no solo un adverbio sino un swiftie: «Bien», dijo Mike cordialmente… Pero respaldo mi decisión de no cortar en este caso; argumentaría que es la excepción que confirma la regla.
+
+*«Cordialmente» pudo quedarse porque quiere que el lector entienda que Mike se está burlando del pobre señor Olin. Solo un poco, pero sí, se está burlando. Noveno: ese pasaje no solo subraya lo obvio sino que lo repite; fuera va —aunque el concepto de que una persona se sienta cómoda en su propio lugar especial le pareció aclarar el carácter de Olin, y por eso lo añadió—:*
+
+> I toyed with the idea of including the entire finished text of “1408” in this book, but the idea ran counter to my determination to be brief, for once in my life.
+
+Jugué con la idea de incluir el texto completo ya terminado de «1408» en este libro, pero la idea iba contra mi determinación de ser breve, por una vez en la vida.
+
+*Si quieres escucharlo entero, está disponible como parte de una colección de audio de tres historias, Blood and Smoke:*
+
+> And remember, for our purposes here, you don’t need to finish the story.
+
+Y recuerda: para nuestros propósitos aquí, no necesitas terminar el cuento.
+
+*Esto va de mantenimiento de motores, no de salir a dar una vuelta de placer.*
+
+## And Furthermore, Part II: A Booklist
+
+> When I talk about writing, I usually offer my audiences an abbreviated version of the “On Writing” section which forms the second half of this book.
+
+Cuando hablo de escritura, suelo ofrecer a mi público una versión abreviada de la sección «On Writing» que forma la segunda mitad de este libro.
+
+*Eso incluye la Regla Primera, por supuesto: escribe mucho y lee mucho. En la ronda de preguntas que sigue, alguien invariablemente pregunta: «¿Y usted qué lee?»:*
+
+> I’ve never given a very satisfactory answer to that question, because it causes a kind of circuit overload in my brain.
+
+Nunca he dado una respuesta muy satisfactoria a esa pregunta, porque me causa una especie de sobrecarga en el circuito del cerebro.
+
+*La respuesta fácil —«Todo lo que cae en mis manos»— es bastante cierta, pero no ayuda. La lista que sigue da una respuesta más específica:*
+
+> These are the best books I’ve read over the last three or four years, the period during which I wrote *The Girl Who Loved Tom Gordon, Hearts in Atlantis, On Writing,* and the as-yet-unpublished *From a Buick Eight.*
+
+Estos son los mejores libros que he leído en los últimos tres o cuatro años, el período durante el que escribí The Girl Who Loved Tom Gordon, Hearts in Atlantis, On Writing y el aún inédito From a Buick 8.
+
+*De un modo u otro, sospecha que cada libro de la lista influyó en los libros que escribió. Mientras la recorres, recuerda que él no es Oprah y esto no es su club de lectura: son los que a él le funcionaron, eso es todo; pero podrías hacer algo peor, y muchos de ellos podrían mostrarte nuevas maneras de hacer tu trabajo. Y aunque no lo hagan, es probable que te entretengan; a él desde luego lo entretuvieron. La lista va de Peter Abrahams a Donald E. Westlake y tiene de todo: el Raymond Carver de Where I'm Calling From; el Michael Chabon de Werewolves in Their Youth; Conrad y Dickens y Faulkner; Cormac McCarthy dos veces; el Norman Maclean de A River Runs Through It; las tres primeras de Harry Potter; Mary Karr y su The Liars' Club; Annie Proulx dos veces; Michael Ondaatje, Ian McEwan dos veces, Donna Tartt, Anne Tyler, Kurt Vonnegut y su Hocus Pocus; y dos de Tabitha King, Survivor y The Sky in the Water, esta última aún inédita. Noventa y seis entradas para llenar la mochila de años de lectura: el agua es gratis; bebe.*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
