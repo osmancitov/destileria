@@ -1070,6 +1070,8 @@ Yogananda
 
 ## Capítulo 14: Una experiencia de conciencia cósmica
 
+![La conciencia cósmica: el yogui medita en el patio de la ermita mientras de su cuerpo irradia una luz que contiene galaxias y nebulosas](img/cgbabh_autobiografia-de-un-yogui_i-14.jpg)
+
 *Avergonzado tras la escapada frustrada a los Himalayas, regresó a la ermita de Serampore:*
 
 > “I AM HERE, Guruji.”
