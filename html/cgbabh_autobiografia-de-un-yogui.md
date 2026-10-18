@@ -659,6 +659,8 @@ Yogananda
 
 ## Capítulo 10: Encuentro a mi maestro, Sri Yukteswar
 
+![Óleo al estilo de Nicholas Roerich: en un callejón del viejo Benarés, un joven hindú se arrodilla a los pies de un swami alto de túnica ocre y cabeza leonina que lo recibe con las manos abiertas; al fondo, el Ganges al atardecer.](img/cgbabh_autobiografia-de-un-yogui_i-10.jpg)
+
 *Aprobó el bachillerato por la vía de la Ingenuidad Infinita: su amigo Nantu le adelantó las preguntas trampa de los exámenes, y unas hojas sueltas de versos sánscritos encontradas en un solar le resolvieron la prueba de sánscrito al día siguiente. Libre de su promesa al padre, decidió partir a un ermitaño en Benarés con su amigo Jitendra. La despedida:*
 
 > Let me go, that I someday return with a more divine understanding.
