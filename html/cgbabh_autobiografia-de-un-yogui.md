@@ -844,6 +844,8 @@ Yogananda
 
 ## Capítulo 12: Años en la ermita de mi maestro
 
+![Sri Yukteswar recibe con palmadas serenas a una cobra de capucha desplegada en la ermita de Puri](img/cgbabh_autobiografia-de-un-yogui_i-12.jpg)
+
 *Sri Yukteswar lo recibió en su ermita de Serampore con frialdad deliberada: le reclamó la obediencia que le había negado en su primer encuentro, le ordenó volver con su familia y matricularse en la universidad de Calcuta, y le anunció que un día iría a Occidente, donde escucharían mejor a un maestro hindú con título. El muchacho aceptó su autoridad en cada detalle de su vida con una sola condición: «¡Prométame revelarme a Dios!». Tras una hora de forcejeo verbal, la palabra del maestro cayó con finalidad compasiva: «Que tu deseo sea mi deseo».*
 
 > I had found eternal shelter in a true guru.
