@@ -2875,6 +2875,8 @@ Therese me saludó con un apretón de manos muy suave. Ambos radiamos en comuni�
 
 Yogananda
 
+*Él quiere oír de sus propios labios cómo ha vivido doce años sin comer:*
+
 > “I live by God’s light.”
 
 «Vivo de la luz de Dios.»
@@ -3707,13 +3709,15 @@ Ananda Moyi Ma
 
 Ananda Moyi Ma
 
-*Hablan un rato más; luego ella entra en éxtasis y pasa una hora con los ojos fijos y vidriosos, ausente del cuerpo. Al volver, con una risita alegre, él la invita al jardín para que el señor Wright le haga unas fotos:*
+*Hablan un rato; luego ella entra en éxtasis y pasa una hora ausente del cuerpo. Al volver, él la invita al jardín para una foto:*
 
 > “Of course, Father. Your will is my will.”
 
 «Por supuesto, padre. Tu voluntad es mi voluntad.»
 
 Ananda Moyi Ma
+
+*Antes de partir le cuenta adónde va:*
 
 > “Father, I am going to the Himalayas,” she told me. “Generous disciples have built me a hermitage in Dehra Dun.”
 
@@ -3832,7 +3836,7 @@ Giri Bala
 ## Capítulo 47: Regreso a Occidente
 
 
-*Septiembre de 1936. De vuelta en Occidente, Yogananda da clases en Londres, cumpliendo una promesa hecha dieciséis meses atrás, y después regresa a Los Ángeles para la fiesta de Navidad del centro de Mt. Washington. A la discípula que había dirigido el centro en su ausencia le regala un sari de seda dorada de Benarés:*
+*Septiembre de 1936: da clases en Londres y regresa a Los Ángeles para la fiesta de Navidad del centro, con regalos de la India para los discípulos:*
 
 > “Thank you, sir; it brings the pageant of India before my eyes.”
 
@@ -3840,19 +3844,23 @@ Giri Bala
 
 La discípula
 
+*Al señor Dickinson, su querido discípulo, presente en cada Navidad desde 1925, le toca un paquete comprado en un bazar de Calcuta: una copa de plata. Días después, Dickinson le pide palabra:*
+
 > “Sir,” he said, “please let me thank you now for the silver cup. I could not find any words on Christmas night.”
 
 «Señor, dijo, permítame agradecerle ahora la copa de plata. La noche de Navidad no encontré palabras.»
 
 Sr. Dickinson
 
-*Y le cuenta una historia guardada cuarenta y tres años: de joven, en Chicago, había conocido al gran swami Vivekananda y había deseado, sin atreverse a decirlo, que fuera su maestro. Él le leyó el pensamiento:*
+*Y le cuenta una historia guardada cuarenta y tres años: de joven conoció al gran swami Vivekananda y deseó, sin atreverse a decirlo, que fuera su maestro:*
 
 > ‘neo, my son, I am not your guru.’ Vivekananda gazed with his beautiful, piercing eyes deep into my own. ‘Your teacher will come later. He will give you a silver cup.’
 
 «No, hijo mío, yo no soy tu gurú. Vivekananda clavó en los míos sus ojos hermosos y penetrantes. Tu maestro vendrá más tarde. Te dará una copa de plata.»
 
 Vivekananda
+
+*Dickinson no volvió a verlo; pasaron los años sin que apareciera maestro alguno, hasta que una noche de 1925 oró pidiendo un gurú y un coro de seres celestiales lo despertó con una música suave:*
 
 > “The next evening I attended, for the first time, one of your lectures here in Los Angeles, and knew then that my prayer had been granted.”
 
