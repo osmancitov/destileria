@@ -134,6 +134,8 @@ Uma, su hermana
 
 ## Capítulo 2: La muerte de mi madre y el amuleto místico
 
+![Óleo al estilo de Nicholas Roerich: un amuleto de plata con grabados astrológicos flota brillando sobre la palma de un niño hindú mientras la figura de su madre en sari se disuelve en luz dorada; al fondo, picos del Himalaya.](img/cgbabh_autobiografia-de-un-yogui_i-2.jpg)
+
 *El deseo más grande de la madre era ver casado a Ananta, el hijo mayor. Todo estaba listo en Calcuta para la boda cuando el niño, de unos once años, tuvo una visión a medianoche en Bareilly: su madre se le apareció junto a la cama y le pidió que despertara al padre y tomara el primer tren si querían verla con vida. El padre no creyó. Por la mañana llegó el telegrama: madre grave, boda pospuesta, vengan de inmediato. Llegaron tarde. Años pasaron antes de que el dolor cediera, y la sanación llegó como respuesta a sus gritos:*
 
 > “It is I who have watched over thee, life after life, in the tenderness of many mothers! See in My gaze the two black eyes, the lost beautiful eyes, thou seekest!”
