@@ -558,6 +558,49 @@ Bhaduri Mahasaya
 
 *¿Qué sacrificio hay en eso? Los verdaderos renunciantes, cerró, son los mundanos: cambian una posesión divina sin par por un puñado de juguetes terrenales. Años después, antes de embarcar a América, el joven se arrodilló ante él por la bendición de despedida: «Hijo, ve a América; toma por escudo la dignidad de la antiquísima India; la victoria está escrita en tu frente».*
 
+
+## Capítulo 8: El gran científico de la India, J. C. Bose
+
+*En una acera oyó a unos profesores decir que las invenciones inalámbricas de Jagadis Chandra Bose eran anteriores a las de Marconi, y al día siguiente visitó al sabio en su casa de Gurpar Road. Bose, formado en Cambridge, unía la verificación experimental occidental con la introspección oriental; su crescógrafo alcanzaba diez millones de aumentos y demostraba que las plantas tienen un sistema nervioso sensible y una vida emocional variada:*
+
+> “You have done much, sir, to hasten the embrace of East and West in the impersonal arms of science.”
+
+«Usted ha hecho mucho, señor, por apresurar el abrazo de Oriente y Occidente en los brazos impersonales de la ciencia».
+
+Yogananda
+
+> The unique throb of life in all creation could seem only poetic imagery before your advent, Professor!
+
+«¡El latido único de la vida en toda la creación solo podía parecer imaginería poética antes de su llegada, profesor!».
+
+Yogananda
+
+*Le contó que un santo que conoció jamás cortaba flores («¿voy a robarle al rosal su orgullo de belleza?»), y remató:*
+
+> His sympathetic words are verified literally through your discoveries!
+
+«¡Sus palabras compasivas se verifican literalmente en sus descubrimientos!».
+
+Yogananda
+
+*En la inauguración del Instituto Bose, entre una puerta centenaria rescatada de un santuario y un templo dedicado al Noúmeno sin imagen alguna, el discurso del científico sonó a rishi antiguo: dedicaba el instituto no como laboratorio sino como templo; narró cómo los fisiólogos de la Royal Society le aconsejaron no invadir sus predios («había caído sin saberlo en el dominio de un sistema de castas desconocido»); prometió que jamás se tomarían patentes y que las puertas estarían abiertas a investigadores de todos los países, como en Nalanda y Taxila veinticinco siglos atrás:*
+
+> Tears stood in my eyes at the scientist’s concluding words.
+
+«Las palabras finales del científico me llenaron los ojos de lágrimas».
+
+Yogananda
+
+*En el laboratorio, el crescógrafo mostró al muchacho un helecho creciendo ante sus ojos, deteniéndose al roce de una varilla, reanimándose con el antídoto tras el cloroformo y agitándose en espasmos de dolor ante la navaja, hasta la inmovilidad final de la muerte. Un trozo de estaño registró fatiga y recuperación como un ser vivo. Y la predicción mayor de Bose:*
+
+> Everything in man has been foreshadowed in the plant.
+
+«Todo lo que hay en el hombre ha sido prefigurado en la planta».
+
+J. C. Bose
+
+*Años después, en 1938, investigadores de la Universidad de Columbia confirmaron que las fibras de la planta nitella propagan ondas eléctricas idénticas a las de las fibras nerviosas de animales y hombres: la «piedra Rosetta» entre la mente y la materia que Bose ya había anunciado.*
+
 Osmancito, con la asistencia de Instinct
 
 [volver](../destileria.html)
