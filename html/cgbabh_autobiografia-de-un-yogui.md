@@ -130,4 +130,56 @@ Yogananda
 
 Uma, su hermana
 
+## Capítulo 2: La muerte de mi madre y el amuleto místico
+
+*El deseo más grande de la madre era ver casado a Ananta, el hijo mayor. Todo estaba listo en Calcuta para la boda cuando el niño, de unos once años, tuvo una visión a medianoche en Bareilly: su madre se le apareció junto a la cama y le pidió que despertara al padre y tomara el primer tren si querían verla con vida. El padre no creyó. Por la mañana llegó el telegrama: madre grave, boda pospuesta, vengan de inmediato. Llegaron tarde. Años pasaron antes de que el dolor cediera, y la sanación llegó como respuesta a sus gritos:*
+
+> “It is I who have watched over thee, life after life, in the tenderness of many mothers! See in My gaze the two black eyes, the lost beautiful eyes, thou seekest!”
+
+«Soy yo quien te ha cuidado, vida tras vida, en la ternura de muchas madres. ¡Mira en mi mirada los dos ojos negros, los hermosos ojos perdidos que buscas!».
+
+La Madre Divina
+
+*El padre no volvió a casarse en casi cuarenta años: «el servicio hacia mí terminó con tu madre», dijo cuando le ofrecieron una enfermera. Catorce meses después de la muerte, Ananta llamó al niño a su lado. Había acompañado a la madre en su lecho de muerte y guardaba un mensaje suyo:*
+
+> “Mukunda, I have been reluctant to give you strange tidings.”
+
+«Mukunda, me he resistido a darte noticias extrañas».
+
+Ananta, su hermano mayor
+
+*La madre había pedido que el mensaje se entregara al cumplirse un año. Así empezaba:*
+
+> “Let these words be my final blessing, my beloved son Mukunda!”
+
+«Que estas palabras sean mi bendición final, mi amado hijo Mukunda».
+
+La madre, en su lecho de muerte
+
+*Contaba que, siendo él un bebé, lo había llevado a Benarés, a casa de su gurú Lahiri Mahasaya. Casi escondida entre los discípulos, oraba para que el maestro se fijara en el niño:*
+
+> While I patted you, I was praying that the great guru take notice and bestow a blessing. As my silent devotional demand grew in intensity, he opened his eyes and beckoned me to approach.
+
+«Mientras te acariciaba, oraba para que el gran gurú se fijara en ti y te diera su bendición. A medida que crecía mi silenciosa demanda de devoción, él abrió los ojos y me hizo señas de acercarme».
+
+La madre
+
+*El maestro sentó al bebé en su regazo y profetizó que sería un yogui que llevaría muchas almas a Dios. Pero el suceso más singular de su vida fue otro: un sadhu, un asceta errante, apareció un día en Lahore pidiendo ver «a la madre de Mukunda»:*
+
+> ‘Mother,’ he said, ‘the great masters wish you to know that your stay on earth will not be long.’
+
+«Madre —dijo—, los grandes maestros desean que sepas que tu estancia en la tierra no será larga».
+
+El sadhu
+
+*El sadhu anunció un amuleto de plata que se materializaría en las manos de ella al meditar; debía legarlo a Mukunda cuando estuviera listo para buscar a Dios, y, cumplido su propósito, desaparecería. A la tarde siguiente, el amuleto apareció entre sus palmas, frío y liso. Lo guardó más de dos años. Su despedida:*
+
+> Do not grieve for me, as I shall have been ushered by my great guru into the arms of the Infinite.
+
+«No te aflijas por mí, pues mi gran gurú me habrá llevado ya a los brazos del Infinito».
+
+La madre
+
+*Con el amuleto en su poder, el niño sintió despertar memorias dormidas: venía de maestros de vidas pasadas que guiaban sus pasos. Mientras tanto, el muchacho que no lograba escaparse al Himalaya viajaba lejos cada día en las alas de su amuleto.*
+
 Osmancito, con la asistencia de Instinct
