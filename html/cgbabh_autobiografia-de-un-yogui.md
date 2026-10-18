@@ -606,6 +606,8 @@ J. C. Bose
 
 ## Capítulo 9: El devoto dichoso y su romance cósmico
 
+![Óleo al estilo de Nicholas Roerich: un santo de barba blanca ora en éxtasis ante un altar con flores de champak mientras la Madre Divina, radiante, se le aparece entre luz dorada; un muchacho contempla arrodillado.](img/cgbabh_autobiografia-de-un-yogui_i-9.jpg)
+
 *Entró en silencio en la habitación y el santo lo recibió sin volverse: «Siéntate, señorcito; estoy hablando con mi Madre Divina»:*
 
 > The angelic appearance of Master Mahasaya fairly dazzled me.
