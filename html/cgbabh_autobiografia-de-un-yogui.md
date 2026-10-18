@@ -1377,9 +1377,10 @@ Yogananda
 
 ## Capítulo 18: Un hacedor de milagros mahometano
 
+
 ![El fakir Afzal Khan convoca platos de oro que caen del aire cargados de manjares ante los invitados asombrados](img/cgbabh_autobiografia-de-un-yogui_i-18.jpg)
 
-*Apenas instalado en Panthi, la pensión de ladrillo frente al Ganges donde viviría sus años en el Serampore College, recibió la primera visita del maestro, que soltó una frase sorprendente: «años atrás, en esta misma habitación que ahora ocupas, un hacedor de milagros mahometano realizó cuatro prodigios ante mí». Se llamaba Afzal Khan, y había adquirido sus poderes extraordinarios por un encuentro casual con un yogui hindú: un día de su infancia, en una aldea de Bengala oriental, un sannyasi cubierto de polvo le pidió agua:*
+*El maestro le contó que, en esa misma habitación de la pensión Panthi, un hacedor de milagros mahometano llamado Afzal Khan había realizado cuatro prodigios ante él. Sus poderes venían de un yogui hindú que un día de su infancia le pidió agua:*
 
 > ‘Master, I am a Mohammedan. How could you, a Hindu, accept a drink from my hands?’
 
@@ -1393,7 +1394,7 @@ Afzal
 
 El sannyasi
 
-*La obediencia reverente del muchacho fue recompensada con una mirada amorosa, con la enseñanza de un método de yoga y con una advertencia solemne:*
+*La obediencia del muchacho fue recompensada con un método de yoga y una advertencia solemne:*
 
 > ‘You possess good karma from former lives,’ he observed solemnly.
 
@@ -1401,11 +1402,11 @@ El sannyasi
 
 El sannyasi
 
-*«Voy a enseñarte un método que te dará dominio sobre uno de los reinos invisibles; nunca emplees esos poderes con egoísmo: percibo, ay, que traes del pasado semillas de tendencias destructivas. No las dejes brotar regándolas con nuevas malas acciones». Tras instruir al muchacho asombrado, el maestro se desvaneció. Afzal siguió fielmente el ejercicio durante veinte años, y sus hazañas milagrosas llamaron la atención de todos: lo acompañaba siempre un espíritu desencarnado al que llamaba Hazrat, capaz de cumplir su menor deseo. Ignorando la advertencia, empezó a abusar: cualquier objeto que tocaba y devolvía desaparecía después sin rastro, fuera una joya de las grandes tiendas de Calcuta o un rollo de billetes de tren. La policía no podía arrestarlo: bastaba que dijera «Hazrat, llévate esto» para que la prueba incriminatoria se esfumara.*
+*«Nunca emplees esos poderes con egoísmo: percibo en ti semillas de tendencias destructivas». Afzal abusó: lo acompañaba un espíritu llamado Hazrat que cumplía su menor deseo:*
 
-*El dueño de la casa Panthi, amigo de Sri Yukteswar, invitó un día al notorio fakir y con él a una veintena de vecinos. El joven Yukteswar tomó la precaución de no llevar nada de valor. Afzal lo miró con curiosidad: «tienes manos poderosas: baja al jardín, toma una piedra lisa, escribe tu nombre con tiza y arrójala lo más lejos posible al Ganges». Obedeció. «Llena ahora una vasija con agua del río, junto a la casa». Y cuando volvió: «¡Hazrat, pon la piedra en la vasija!». La piedra apareció al instante, con la firma tan legible como cuando la escribió. Segundo prodigio: el reloj de oro antiguo del amigo Babu, que el fakir examinó con ominosa admiración y que pronto faltaba de su cadena; costó quinientas rupias de rescate y una invocación a Hazrat en el puente cercano para que cayera del aire en su mano derecha. Tercero: las bebidas pedidas por cada invitado (leche, jugos de fruta y un whisky para el desencajado Babu) llegaron en envases sellados, surcando el aire hasta golpear el suelo. Cuarto: un almuerzo instantáneo servido en platos de oro que aterrizaron de la nada a sus pies, con curries elaborados, luchis calientes y frutas fuera de temporada; al retirarse, un estruendo de vajilla apilada los hizo volverse: ni rastro de los platos relucientes ni de los restos del banquete. «Guruji, si Afzal conseguía platos de oro con tanta facilidad, ¿por qué codiciaba lo ajeno?». El fakir no estaba espiritualmente desarrollado, explicó el maestro: su técnica le daba acceso a un plano astral donde todo deseo se materializa al instante, pero los objetos producidos astralmente son evanescentes; Afzal seguía anhelando la riqueza mundana, de duración más confiable.*
+*El dueño de Panthi invitó al notorio fakir con una veintena de vecinos. Afzal le ordenó al joven Yukteswar escribir su nombre en una piedra y arrojarla al Ganges; «¡Hazrat, pon la piedra en la vasija!», y apareció al instante. Siguieron tres prodigios más, incluido el reloj de oro del anfitrión:*
 
-*Años después, Babu le mostró al maestro un recorte de periódico con la confesión pública del mahometano, escrita como acto de penitencia y advertencia. Afzal contaba que un día, en un camino a las afueras de Calcuta, abordó con codicia a un viejo que cojeaba penosamente llevando una bola brillante que parecía de oro; la tocó y siguió de largo sin responder, sordo al llanto del anciano que le reclamaba su única riqueza. De pronto, una voz estentórea surgió de aquel cuerpo frágil: «¿es que no me reconoces?»:*
+*Años después, Babu le mostró al maestro la confesión pública de Afzal: un día abordó con codicia a un viejo que cojeaba llevando una bola que parecía de oro, y la tocó. De pronto, una voz estentórea surgió de aquel cuerpo frágil: «¿es que no me reconoces?»:*
 
 > I stood speechless, aghast at the belated discovery that this unimpressive old cripple was none other than the great saint who, long, long ago, had initiated me into yoga.
 
@@ -1413,7 +1414,7 @@ El sannyasi
 
 Afzal
 
-*El anciano se irguió y su cuerpo se volvió al instante fuerte y juvenil: «veo con mis propios ojos que usas tus poderes no para ayudar a la humanidad sufriente, sino para depredarla como un ladrón vulgar. Retiro tus dones ocultos; Hazrat queda ahora libre de ti»:*
+*El anciano, su gurú, se irguió fuerte y juvenil: «retiro tus dones ocultos; Hazrat queda ahora libre de ti»:*
 
 > I called on Hazrat in anguished tones; for the first time, he did not appear to my inner sight. But some dark veil suddenly lifted within me; I saw clearly the blasphemy of my life.
 
@@ -1427,7 +1428,7 @@ Afzal
 
 Afzal
 
-*Sollozando a sus pies, prometió renunciar a sus ambiciones mundanas y retirarse a las montañas a meditar en soledad sobre Dios, para expiar su mal pasado:*
+*Sollozando a sus pies, prometió retirarse a las montañas a meditar sobre Dios:*
 
 > My master regarded me with silent compassion. ‘I feel your sincerity,’ he said finally.
 
@@ -1435,7 +1436,7 @@ Afzal
 
 Afzal
 
-*«Por tus primeros años de obediencia estricta y por tu arrepentimiento presente, te concederé una gracia: tus demás poderes se han ido, pero cuando necesites comida y ropa, aún podrás llamar con éxito a Hazrat. Dedícate de lleno al entendimiento divino en las soledades de la montaña»:*
+*«Por tu arrepentimiento te concederé una gracia: cuando necesites comida y ropa, aún podrás llamar a Hazrat. Dedícate al entendimiento divino»:*
 
 > My guru then vanished; I was left to my tears and reflections.
 
@@ -1447,9 +1448,10 @@ Afzal
 
 ## Capítulo 19: Mi maestro, estando en Calcuta, aparece en Serampore
 
+
 ![El joven Yogananda, arrodillado en el cuarto de la pensión, toca los zapatos de Sri Yukteswar, que se materializa envuelto en una luz dorada deslumbrante](img/cgbabh_autobiografia-de-un-yogui_i-19.jpg)
 
-*Dijen Babu, su compañero de cuarto en la pensión Panthi, se confesaba asediado por dudas ateísticas, aunque lo atormentaba una sospecha: ¿no existirán posibilidades inexploradas del alma? ¿No pierde el hombre su destino verdadero si no las explora? Una tarde Yogananda lo llevó a la ermita, y en presencia del maestro recibió tal paz espiritual que pronto fue visitante constante. Ambos cursaban juntos la carrera en el Serampore College y caminaban al ashram al terminar las clases. Una tarde, Kanai les salió al paso con malas noticias: el maestro había sido llamado a Calcuta por una nota urgente. Al día siguiente llegó una postal: «saldré de Calcuta el miércoles por la mañana; recíbanme con Dijen en el tren de las nueve». El miércoles, a eso de las ocho y media, un mensaje telepático de Sri Yukteswar destelló insistente en la mente de Yogananda: «me he retrasado; no reciban el tren de las nueve». «¡Tú y tu intuición!, se burló Dijen, ya vestido para salir. Yo prefiero fiarme de la palabra escrita del maestro». Y se fue dando un portazo. El cuarto estaba algo oscuro; Yogananda se acercó a la ventana enrejada que daba a la calle. La escasa luz del sol creció de pronto hasta una brillantez intensa en la que la ventana se desvaneció por completo:*
+*Dijen, su compañero de cuarto, se burló del mensaje telepático («me he retrasado; no reciban el tren de las nueve») y se fue dando un portazo; entonces la luz creció en la ventana enrejada:*
 
 > Against this dazzling background appeared the clearly materialized figure of Sri Yukteswar!
 
@@ -1457,7 +1459,7 @@ Afzal
 
 Yogananda
 
-*Atónito hasta el choque, se levantó de la silla y se arrodilló ante él; con su gesto acostumbrado le tocó los zapatos: un par familiar, de lona teñida de naranja con suela de cuerda. Sintió con claridad no solo la textura de la tela ocre, sino la superficie áspera del calzado y la presión de los dedos dentro. «Me alegro de que recibieras mi mensaje telepático: ya terminé mis asuntos en Calcuta y llegaré a Serampore en el tren de las diez»:*
+*Atónito, se arrodilló y le tocó los zapatos: lona teñida de naranja, suela de cuerda; sintió la presión de los dedos dentro. «Ya terminé mis asuntos en Calcuta y llegaré en el tren de las diez»:*
 
 > Master’s voice was calm, entirely normal.
 
@@ -1471,7 +1473,7 @@ Yogananda
 
 Yogananda
 
-*«Espérame en la estación: tú y Dijen me verán venir hacia ustedes, vestido como ahora. Iré precedido de un compañero de viaje: un niño que lleva una jarra de plata»:*
+*«Espérame en la estación: tú y Dijen me verán venir, vestido como ahora, tras un niño con una jarra de plata»:*
 
 > My guru placed both hands on my head, with a murmured blessing.
 
@@ -1479,7 +1481,7 @@ Yogananda
 
 Yogananda
 
-*Al concluir con las palabras «taba asi», se oyó un peculiar retumbar y su cuerpo empezó a fundirse gradualmente dentro de la luz punzante: primero los pies y las piernas, luego el torso y la cabeza, como un pergamino que se enrolla; hasta el último instante pudo sentir sus dedos reposando leves sobre el cabello. La efulgencia se apagó y solo quedó la ventana enrejada con un pálido hilo de sol. Cuando Dijen volvió cabizbajo («el maestro no venía en el tren de las nueve, ni siquiera en el de las nueve y media»), lo tomó de la mano y lo arrastró a la estación sin oír protestas. El tren ya resoplaba detenido: ¡todo el tren está lleno de la luz del aura del maestro!:*
+*Su cuerpo se fundió en la luz como un pergamino que se enrolla. Cuando Dijen volvió («el maestro no venía en los trenes de las nueve ni de las nueve y media»), lo arrastró a la estación; el tren resoplaba detenido:*
 
 > He is there!”
 
@@ -1487,13 +1489,14 @@ Yogananda
 
 Yogananda
 
-*«¿Lo sueñas?», se rió Dijen con sorna. Pero al terminar Yogananda su descripción, Sri Yukteswar apareció a la vista, con la misma ropa vista esa mañana, caminando despacio a la zaga de un niño que llevaba una jarra de plata. Una ola de frío temor recorrió al muchacho: ¿había vuelto a los días antiguos en que Jesús se apareció a Pedro sobre el mar? El maestro sonrió a Dijen: «yo también te envié un mensaje, pero no pudiste captarlo». Más tarde, ya en la calle, Dijen se detuvo con la indignación manando de cada poro: «¡el maestro me envió un mensaje y tú me lo ocultaste! ¡Exijo una explicación!». «¿Puedo yo evitar que tu espejo mental oscile con tanta inquietud que no registra las instrucciones de nuestro gurú?». La ira se desvaneció del rostro de Dijen: «el relato que acabo de oír de los poderes de nuestro gurú, dijo al llegar al college, me hace sentir que cualquier universidad del mundo es apenas un jardín de infancia».*
+*«¿Lo sueñas?», se rió Dijen; pero el maestro apareció como en la visión, tras el niño de la jarra de plata: «yo también te envié un mensaje, pero no pudiste captarlo». Dijen concluyó que, junto a esto, cualquier universidad es apenas un jardín de infancia.*
 
 ## Capítulo 20: No visitamos Cachemira
 
+
 ![Mukunda, enfermo, reposa con la cabeza sobre el regazo de Sri Yukteswar, que le acaricia la frente en la ermita de Serampore](img/cgbabh_autobiografia-de-un-yogui_i-20.jpg)
 
-*Tercer verano con el mismo plan: llevar al maestro y a cuatro amigos a las faldas del Himalaya durante las vacaciones. El padre soltó una carcajada: «es la tercera vez que me vienes con el mismo cuento; a última hora, Sri Yukteswarji se niega a ir». Aun así, al día siguiente, entre bromas de buen humor, le entregó seis pases de tren y un rollo de billetes de diez rupias: «apenas creo que tu viaje teórico necesite apoyos tan prácticos, pero aquí los tienes». Aquella tarde Mukunda exhibió su botín ante Sri Yukteswar, que sonrió ante su entusiasmo sin comprometerse: «me gustaría ir; ya veremos». La salida quedó fijada para el lunes siguiente, y el lunes temprano el muchacho llegó a Serampore con su equipaje:*
+*Tercer verano con el mismo plan: llevar al maestro al Himalaya. El padre se rió («es la tercera vez con el mismo cuento»), pero le entregó seis pases y un rollo de billetes. El maestro solo dijo «me gustaría ir; ya veremos»:*
 
 > Rajendra met me at the hermitage door.
 
@@ -1501,7 +1504,7 @@ Yogananda
 
 Yogananda
 
-*«El maestro salió a caminar; se ha negado a ir». Igual de afligido que obstinado, Mukunda decidió no dar a su padre una tercera ocasión de ridiculizar sus planes quiméricos: los demás irían de todos modos. Kanai no viajaría sin el maestro, así que salió a buscar a Behari, antiguo sirviente de la familia, para que cuidara el equipaje. En el camino se cruzó con su gurú frente a la iglesia cristiana, junto al juzgado de Serampore: «no creo que Behari esté dispuesto a ir», le dijo con el rostro serio. Y en efecto: la cordialidad de Behari se evaporó al oír la palabra Cachemira; murmuró una disculpa, entró en la casa de su patrón y, tras media hora de espera nerviosa, un hombre informó en la puerta: «Behari se fue por la escalera de atrás hace unos treinta minutos». De vuelta, junto a la misma iglesia, el maestro seguía allí: «¡así que Behari no quiso ir! ¿Y ahora, cuáles son tus planes?». «Pediré a mi tío que me preste a su sirviente, Lal Dhari»:*
+*«El maestro se ha negado a ir». Kanai no viajaría sin él; salió a buscar a Behari, antiguo sirviente de la familia, pero el gurú lo avisó: «no creo que Behari esté dispuesto». Y en efecto, Behari murmuró una disculpa y desapareció:*
 
 > “See your uncle if you want to,” Sri Yukteswar replied with a chuckle.
 
@@ -1509,7 +1512,7 @@ Yogananda
 
 Yogananda
 
-*El tío Sarada Ghosh, abogado del gobierno, lo recibió con cariño y se alegró del viaje; pero la sencilla petición del sirviente tuvo el efecto de un terremoto: el tío saltó con tal violencia que la silla volcó, los papeles del escritorio volaron en todas direcciones y su pipa de coco cayó al suelo con gran estrépito. «Joven egoísta, gritó temblando de ira, ¿quién me cuidará a mí si te llevas a mi sirviente a una de tus excursiones de placer?». La retirada del juzgado fue más veloz que digna. De vuelta en la ermita, donde los amigos esperaban expectantes, crecía en él la convicción de que había algún motivo suficiente, aunque sumamente recóndito, tras la actitud del maestro:*
+*El tío saltó con tal violencia que la silla volcó: «¿quién me cuidará a mí si te llevas a mi sirviente?». La retirada fue más veloz que digna. De vuelta en la ermita, entendió que había un motivo tras la actitud del maestro:*
 
 > Remorse seized me that I had been trying to thwart my guru’s will.
 
@@ -1517,7 +1520,7 @@ Yogananda
 
 Yogananda
 
-*«Mukunda, ¿no te gustaría quedarte un rato más conmigo? Rajendra y los demás pueden ir por delante y esperarte en Calcuta; habrá tiempo de sobra para tomar el último tren de la noche». «Señor, no me interesa ir sin usted», respondió con tristeza. Los amigos no le prestaron la menor atención: llamaron un coche de alquiler y partieron con todo el equipaje. Kanai y él se sentaron en silencio a los pies del gurú. Media hora después, al levantarse de su asiento, lo derribaron de pronto unas náuseas atroces y un dolor punzante tan intenso que se sintió arrojado a un infierno violento: todos los síntomas del temido cólera asiático. «Maestro, le entrego mi vida», gritó retorcido de dolor, convencido de que esta se le escapaba del cuerpo:*
+*«Mukunda, quédate un rato más; los demás pueden esperarte en Calcuta». Los amigos partieron con el equipaje. Media hora después lo derribaron unas náuseas atroces: todos los síntomas del cólera. «Maestro, le entrego mi vida», gritó:*
 
 > “Master,” I protested, “only you can heal me.
 
@@ -1525,7 +1528,7 @@ Yogananda
 
 Yogananda
 
-*Sri Yukteswar le puso la cabeza sobre el regazo y le acarició la frente con ternura angélica: «ya ves lo que habría pasado si estuvieras en la estación con tus amigos; tenía que cuidarte de este modo extraño, porque elegiste dudar de mi juicio sobre hacer el viaje en este momento». «Hijo, te protege la Misericordia Divina; no te preocupes por el médico, no te encontrará en este estado»:*
+*El maestro le acarició la frente: «ya ves lo que habría pasado en la estación; tenía que cuidarte de este modo, porque dudaste de mi juicio»:*
 
 > You are already healed.”
 > With my guru’s words, the excruciating suffering left me.
@@ -1534,7 +1537,7 @@ Yogananda
 
 Yogananda
 
-*Se sentó débilmente. El médico llegó pronto y lo examinó con cuidado:*
+*Se sentó débilmente. El médico lo examinó:*
 
 > “You appear to have passed through the worst,” he said.
 
@@ -1542,7 +1545,7 @@ Yogananda
 
 Yogananda
 
-*A la mañana siguiente el facultativo llegó apresurado y lo encontró sentado, sonriendo y charlando como si no hubiera estado al borde de la muerte: «apenas esperaba encontrarte vivo después de descubrir en las muestras que tu enfermedad era el cólera asiático. Eres afortunado, joven, de tener un gurú con poderes divinos de curación»:*
+*A la mañana siguiente lo encontró charlando: «eres afortunado, joven, de tener un gurú con poderes divinos de curación»:*
 
 > I am convinced of it!”
 
@@ -1550,7 +1553,7 @@ Yogananda
 
 Yogananda
 
-*Rajendra y Auddy aparecieron en la puerta, y el resentimiento de sus caras se trocó en simpatía al ver al médico y el semblante algo demacrado del enfermo. Mukunda no pudo evitar reírse cuando colocaron el equipaje en el mismo rincón que había ocupado la víspera, y citó el viejo refrán: «había un barco que fue a España; cuando llegó, ¡regresó de nuevo!». Cuando el maestro entró en la habitación, se permitió la libertad de un convaleciente y le tomó la mano con cariño: «Guruji, desde mis doce años he hecho muchos intentos fallidos de llegar al Himalaya; por fin estoy convencido de que sin tus bendiciones la diosa Parvati no me recibirá».*
+*Los amigos volvieron con el equipaje al rincón de la víspera; él citó el refrán del barco que fue y regresó, y le tomó la mano al maestro: «sin tus bendiciones, la diosa Parvati no me recibirá en el Himalaya».*
 
 ## Capítulo 21: Visitamos Cachemira
 
@@ -1632,9 +1635,10 @@ Yogananda
 
 ## Capítulo 22: El corazón de una imagen de piedra
 
+
 ![Mukunda medita en el pórtico del templo de Dakshineswar mientras la puerta del templo de Kali se abre y la diosa cobra vida envuelta en luz](img/cgbabh_autobiografia-de-un-yogui_i-22.jpg)
 
-*Su hermana mayor Roma lo miraba suplicante en su casa de Calcuta: «como leal esposa hindú no quiero quejarme de mi marido, pero anhelo verlo apartarse de sus puntos de vista materialistas; se deleita ridiculizando las imágenes de los santos en mi cuarto de meditación. Querido hermano, tengo la profunda fe de que puedes ayudarlo. ¿Lo harás?». La súplica lo conmovió: Roma había ejercido una profunda influencia espiritual sobre su vida temprana y había intentado llenar con amor el vacío que dejó la muerte de la madre. Tras un rato de oración silenciosa, una inspiración lo tomó: «mañana voy al templo de Dakshineswar; ven conmigo y persuade a tu marido de acompañarnos, pero no le reveles nuestro propósito». Muy temprano a la mañana siguiente, mientras el coche de alquiler traqueteaba hacia Dakshineswar, su cuñado Satish Chandra Bose se divertía ridiculizando a los gurús espirituales del pasado, del presente y del futuro; Roma lloraba en silencio. «Hermana, ¡anímate!, le susurró. No le des a tu marido la satisfacción de creer que tomamos en serio sus burlas». Ya en el recinto, Satish le exigió con tono amenazante ocuparse del almuerzo: «voy a meditar ahora; no te preocupes por tu comida, respondió él tajante. La Madre Divina se ocupará de ella». Solo, en el pórtico de columnas frente al gran templo de Kali, dispuso su cuerpo en postura de loto y concentró su mente en la diosa cuya imagen de Dakshineswar había sido el objeto especial de adoración del gran maestro Sri Ramakrishna Paramhansa:*
+*Su hermana Roma le pidió ayuda: «quiero ver a mi marido apartarse de sus puntos de vista materialistas». Él oró y tuvo una inspiración: llevaría al cuñado Satish al templo de Kali en Dakshineswar, donde Ramakrishna había conversado con la imagen viva:*
 
 > In answer to his anguished demands, the stone image of this very temple had often taken a living form and conversed with him.
 
@@ -1642,7 +1646,7 @@ Yogananda
 
 Yogananda
 
-*«Madre silenciosa de corazón pétreo, oró, tú te llenaste de vida ante la petición de tu amado devoto Ramakrishna; ¿por qué no atiendes también los lamentos de este hijo tuyo que anhela?». Pasaron cinco horas sin respuesta y se sintió algo descorazonado: a veces Dios demora el cumplimiento de las plegarias como prueba, pero al final aparece al devoto persistente en la forma que este aprecia. Cuando por fin abrió los ojos, un sacerdote cerraba las puertas del templo según la costumbre del mediodía, y el suelo de piedra del patio abrasaba sus pies descalzos bajo el sol:*
+*«Madre silenciosa, tú te llenaste de vida ante tu devoto Ramakrishna; ¿por qué no atiendes los lamentos de este hijo tuyo?». Cinco horas sin respuesta; un sacerdote cerraba el templo y el suelo le abrasaba los pies descalzos:*
 
 > “Divine Mother,” I silently remonstrated, “Thou didst not come to me in vision, and now Thou art hidden in the temple behind closed doors.
 
@@ -1650,7 +1654,7 @@ Yogananda
 
 Yogananda
 
-*Su petición interior fue reconocida al instante: primero una deliciosa ola fría le descendió por la espalda y bajo los pies, desterrando toda incomodidad; luego, para su asombro, el templo se magnificó enormemente y su gran puerta se abrió despacio, revelando la figura de piedra de la diosa Kali, que se trocó gradualmente en una forma viviente que asentía sonriente en saludo, colmándolo de un gozo indescriptible. Como por una jeringa mística, el aliento le fue retirado de los pulmones; podía ver con claridad varias millas sobre el Ganges y, a través de las paredes de todos los edificios, que brillaban transparentes, a la gente caminando por acres distantes:*
+*Al instante una ola fría le descendió por la espalda; el templo se magnificó y la figura de Kali se trocó en una forma viviente que asentía sonriente:*
 
 > An ecstatic enlargement of consciousness followed.
 
@@ -1658,7 +1662,7 @@ Yogananda
 
 Yogananda
 
-*Tras los muros del templo divisó de pronto a su cuñado, sentado bajo las ramas espinosas de un árbol bel sagrado, y pudo discernir sin esfuerzo el curso de sus pensamientos. Se volvió directamente hacia la forma bondadosa de la diosa: «Madre Divina, ¿no cambiarás espiritualmente al esposo de mi hermana?»:*
+*Divisó a Satish bajo un árbol bel y pudo leer sus pensamientos. «Madre Divina, ¿no cambiarás espiritualmente al esposo de mi hermana?»:*
 
 > The beautiful figure, hitherto silent, spoke at last: “Thy wish is granted!”
 
@@ -1666,7 +1670,7 @@ Yogananda
 
 Yogananda
 
-*Miró feliz a Satish, que, como si intuyera instintivamente que algún poder espiritual actuaba, se levantó resentido de su asiento en el suelo y vino corriendo por detrás del templo agitando el puño. La visión abarcadora desapareció; el cuerpo volvió a sofocarse bajo los rayos feroces del sol:*
+*Satish se levantó resentido y vino corriendo agitando el puño; la visión desapareció y el cuerpo volvió a sofocarse:*
 
 > It was one o’clock; the divine vision had lasted an hour.
 
@@ -1674,7 +1678,7 @@ Yogananda
 
 Yogananda
 
-*«Pequeño tonto, le soltó el cuñado, llevas seis horas ahí sentado, con las piernas cruzadas y los ojos bizcos; he ido y venido observándote. ¿Dónde está mi comida? El templo está cerrado y nos hemos quedado sin almuerzo». La exaltación por la presencia de la diosa aún vibraba en su corazón:*
+*«Pequeño tonto, llevas seis horas ahí sentado; ¿dónde está mi comida?», le soltó el cuñado:*
 
 > I was emboldened to exclaim, “Divine Mother will feed us!”
 
@@ -1682,7 +1686,7 @@ Yogananda
 
 Yogananda
 
-*Satish, fuera de sí de rabia, gritó: «¡de una vez por todas, quiero ver a tu Madre Divina darnos de comer aquí sin arreglos previos!». Apenas pronunciadas esas palabras, un sacerdote del templo cruzó el patio y se les unió:*
+*«¡Quiero ver a tu Madre Divina darnos de comer aquí sin arreglos previos!». Apenas dichas esas palabras, un sacerdote se les unió:*
 
 > “Son,” he addressed me, “I have been observing your face serenely glowing during hours of meditation.
 
@@ -1690,7 +1694,7 @@ Yogananda
 
 Yogananda
 
-*«Vi la llegada de tu grupo esta mañana y sentí el deseo de reservar comida abundante para su almuerzo; va contra las reglas del templo alimentar a quien no lo pide de antemano, pero he hecho una excepción por ti». Satish enrojeció de emoción y bajó la mirada en silencioso arrepentimiento; ante el opulento banquete, con mangos fuera de temporada, su apetito fue escaso. En el regreso a Calcuta no pronunció una sola palabra. A la tarde siguiente, Roma recibió a su hermano con un milagro que contar: la noche anterior su marido había llorado abiertamente ante ella, feliz de que aquel «plan reformador» hubiera obrado una transformación; desde esa noche usarían el dormitorio grande solo como lugar de culto, y él se castigaría no hablándole a Mukunda hasta haber progresado en el camino espiritual:*
+*El sacerdote había reservado comida para ellos, contra las reglas del templo. Satish enrojeció de arrepentimiento; a la tarde siguiente lloró ante Roma y abrazó la fe:*
 
 > Deeply I will seek the Divine Mother from now on; someday I must surely find Her!”’
 
@@ -1706,7 +1710,7 @@ Yogananda
 
 Yogananda
 
-*Satish pasaba en secreto la mayor parte de cada noche en meditación divina, aunque sufría una afección seria y trabajaba de día en su oficina. Un día Roma leyó el pensamiento de su hermano: «yo estoy bien y mi marido está enfermo; sin embargo, quiero que sepas que, como devota esposa hindú, yo seré la primera en morir»:*
+*Satish pasaba en secreto las noches en meditación. Roma le leyó el pensamiento: «como devota esposa hindú, yo seré la primera en morir»:*
 
 > It won’t be long now before I pass on.”
 
@@ -1714,13 +1718,14 @@ Yogananda
 
 Yogananda
 
-*Estaba en América cuando su hermana murió, como un año después de su predicción. Su hermano menor Bishnu le contó los detalles: aquella mañana Roma se vistió con su atavío nupcial («este es mi último día de servicio a ti en la tierra») y, poco después, presa de un ataque al corazón, detuvo a su hijo, que corría en busca de ayuda: «hijo, no me dejes; es inútil: me habré ido antes de que llegue un médico». Diez minutos después, sosteniendo los pies de su esposo en reverencia, Roma abandonó conscientemente su cuerpo, feliz y sin sufrimiento. Satish se volvió muy recluido tras la muerte de su esposa; un día, mirando con Bishnu una gran fotografía sonriente de Roma, exclamó como si ella estuviera presente: «¿de qué te ríes? ¿Crees que fuiste astuta al arreglar irte antes que yo? Probaré que no puedes permanecer lejos de mí por mucho tiempo; pronto me reuniré contigo». Aunque por entonces gozaba de excelente salud, murió sin causa aparente poco después de aquella extraña frase. Así, proféticamente, pasaron la querida hermana Roma y su esposo Satish, el que cambió en Dakshineswar de hombre mundano ordinario a santo silencioso.*
+*Roma murió un año después, tal como predijo: se vistió con su atavío nupcial («este es mi último día de servicio a ti en la tierra») y abandonó conscientemente su cuerpo, feliz y sin sufrimiento. Satish, muy recluso desde entonces, meditaba con ella en un altar común.*
 
 ## Capítulo 23: Recibo mi título universitario
 
+
 ![Mukunda llega en bicicleta con flores a la ermita de Serampore, donde Sri Yukteswar lo espera en la puerta; en primer plano, el atlas de Romesh y las hojas de examen](img/cgbabh_autobiografia-de-un-yogui_i-23.jpg)
 
-*El profesor D. C. Ghoshal de Serampore College se lo dijo con severidad: ignoraba las tareas de los libros de filosofía y confiaba sin duda en una «intuición» nada laboriosa para salir airoso de los exámenes; si no se aplicaba de modo más académico, se encargaría de que no aprobara el curso. Suspender aquella prueba final escrita lo dejaría fuera de los exámenes conclusivos que fijaba la Universidad de Calcuta, y un suspenso en una sola materia obligaba a examinarse de nuevo de todas al año siguiente. Los profesores solían tratarlo con una amabilidad no exenta de tolerancia divertida y se ahorraban con tacto hacerle preguntas en clase, confiando en que las pruebas escritas lo eliminaran de la lista de candidatos:*
+*El profesor Ghoshal lo amenazó: si no se aplicaba de modo más académico, no aprobaría. Suspender significaba repetir todos los exámenes al año siguiente. Los profesores solían tratarlo con amable tolerancia:*
 
 > “Mukunda is a bit over-drunk with religion.”
 
@@ -1728,7 +1733,7 @@ Yogananda
 
 Yogananda
 
-*El apodo entre sus compañeros era «el Monje Loco». Para anular la amenaza del profesor Ghoshal tomó una medida ingeniosa: cuando los resultados estaban a punto de anunciarse, pidió a un compañero que lo acompañara como testigo al despacho del profesor y preguntó qué nota había recibido su examen:*
+*Para anular la amenaza, pidió a un compañero que lo acompañara como testigo al despacho del profesor y preguntó por su nota:*
 
 > “You are not among those who have passed,” he said in triumph.
 
@@ -1736,7 +1741,7 @@ Yogananda
 
 Yogananda
 
-*«Su examen ni siquiera está aquí; en todo caso, ha suspendido por no presentarse». Mukunda se rió: «señor, yo estuve allí; ¿puedo revisar la pila?». Encontró en seguida su trabajo, donde había omitido con cuidado toda marca de identificación salvo su número de lista: sin la «bandera roja» de su nombre, el profesor había puesto una nota alta a unas respuestas sin adornos de citas de los libros. Al descubrir el truco, tronó «¡pura suerte descarada!», y añadió con esperanza: «seguro que suspende en los exámenes finales». Con algo de preparación de su querido amigo y primo Prabhas Chandra Ghose, pasó dolorosamente, con las notas mínimas posibles, todas las pruebas finales del college. Su rutina de aquellos años era salir en bicicleta a eso de las nueve y media con unas flores del jardín de la pensión para su gurú, aceptar con presteza el almuerzo en la ermita y volver hacia medianoche, a veces quedándose toda la noche, tan felizmente absorto en la conversación que apenas notaba cuando la oscuridad se trocaba en aurora. Una noche, a eso de las once, mientras se ponía los zapatos para volver a la pensión, el maestro le preguntó gravemente cuándo empezaban los exámenes. «Dentro de cinco días, señor». «Usted debe presentarse», ordenó con tono fríamente perentorio: no convenía dar motivos al padre para criticar su preferencia por la vida del ashram. Con lágrimas incontenibles, prometió presentarse, murmurando entre dientes: «¡llenaré las hojas con tus enseñanzas!». Al día siguiente entró en la ermita con su ramo y cierta solemne solemnidad de afligido:*
+*«Su examen ni siquiera está aquí». Él revisó la pila y encontró su trabajo, identificado solo por su número: sin la «bandera roja» de su nombre, el profesor le había puesto nota alta. Tronó «¡pura suerte!». En los finales, el maestro le dijo la verdad de su caso:*
 
 > “Not laziness but burning zeal for God has prevented you from seeking college honors,” my guru said kindly. After a silence, he quoted, “‘Seek ye first the kingdom of God, and His righteousness; and all these things shall be added unto you.’”
 > For the thousandth time, I felt my burdens lifted in Master’s presence.
@@ -1745,7 +1750,7 @@ Yogananda
 
 Yogananda
 
-*El maestro le preguntó si su amigo Romesh Chandra Dutt seguía viviendo en la pensión: «ponte en contacto con él; el Señor lo inspirará para ayudarte». Romesh, el alumno de honor de la clase, dedicó horas de aquella tarde y de los días siguientes a prepararlo, marcando en un atlas la ruta del Childe Harold de Byron. Al examinarse de literatura inglesa, el primer vistazo a las preguntas le arrancó lágrimas de gratitud que mojaron el papel:*
+*«Ponte en contacto con Romesh; el Señor lo inspirará para ayudarte», le dijo el maestro. Romesh, el alumno de honor, lo preparó marcando la ruta del Childe Harold; al ver las preguntas del examen, lloró de gratitud:*
 
 > “My guru foretold that Romesh would help me,” I explained.
 
@@ -1753,7 +1758,7 @@ Yogananda
 
 Yogananda
 
-*«Mira: ¡las mismísimas preguntas que me dictó Romesh están aquí, en la hoja del examen!». La pensión era un alboroto a su regreso; los que se habían burlado del método de Romesh lo miraban con asombro. Día tras día, las preguntas de Romesh aparecían casi en la misma forma en los exámenes, y por el college corrió la noticia de que algo parecido a un milagro ocurría con el distraído Monje Loco. Pero al repasar el examen de literatura inglesa comprendió una mañana que había cometido un grave error: había respondido las dos preguntas del grupo I y ninguna del grupo II, y la mejor nota posible era 33, tres puntos bajo el mínimo de 36. Corrió a la ermita a desahogar sus penas: «señor, he cometido un error imperdonable»:*
+*«¡Las mismísimas preguntas que me dictó Romesh están aquí!». Día tras día se repitió el milagro; pero una mañana comprendió que había cometido un grave error en la distribución de las preguntas:*
 
 > I don’t deserve the divine blessings through Romesh; I am quite unworthy.”
 
@@ -1767,7 +1772,7 @@ Yogananda
 
 Yogananda
 
-*Señalando la bóveda azul del cielo, sentenció: «¡es más posible que el sol y la luna intercambien sus posiciones en el espacio que tú quedarte sin tu título!». Dejó la ermita más tranquilo, aunque miró una o dos veces el cielo con aprensión: el Señor del Día parecía firmemente anclado en su órbita habitual. Al llegar a la pensión oyó a un compañero: ese año, por primera vez, la nota mínima exigida en literatura inglesa acababa de bajarse a 33 puntos. De unos cuantos saltos gozosos llegó a su cuarto, se hincó de rodillas y alabó las perfecciones matemáticas de su Padre Divino:*
+*Señalando el cielo, sentenció: «es más posible que el sol y la luna intercambien sus posiciones que tú quedarte sin tu título». Ese año, la nota mínima en literatura inglesa acababa de bajarse a 33 puntos:*
 
 > Every day I thrilled with the consciousness of a spiritual presence that I clearly felt to be guiding me through Romesh.
 
@@ -1775,7 +1780,7 @@ Yogananda
 
 Yogananda
 
-*En el examen de bengalí, Romesh lo llamó a gritos a último momento, cuando ya salía hacia el aula: acababa de tener la corazonada de que ese año los profesores planeaban masacrar a los alumnos con preguntas de la literatura antigua, y le resumió dos historias de la vida de Vidyasagar, el célebre filántropo. La primera instrucción de la hoja decía: «escriba dos ejemplos de las caridades de Vidyasagar». La segunda pedía un ensayo sobre la vida del hombre que más lo hubiera inspirado: no hace falta decir qué hombre eligió, y al cubrir página tras página de elogios a su gurú sonrió al ver cumplida su predicción murmurada. La nota más alta de todos sus trabajos fue la de filosofía; en las demás materias quedó apenas dentro del mínimo. Su desinteresado amigo Romesh recibió su propio título cum laude. El padre estaba radiante en la graduación:*
+*En el examen de bengalí, Romesh tuvo la corazonada de que preguntarían por Vidyasagar, el filántropo, y le resumió dos historias de su vida. La primera instrucción de la hoja: «escriba dos ejemplos de las caridades de Vidyasagar»:*
 
 > “I hardly thought you would pass, Mukunda,” he confessed. “You spend so much time with your guru.”
 
@@ -1783,7 +1788,7 @@ Yogananda
 
 Yogananda
 
-*El día en que recibió su título de la Universidad de Calcuta, se arrodilló a los pies de su gurú y le agradeció todas las bendiciones que fluían de la vida de este a la suya:*
+*Al recibir su título, se arrodilló a los pies de su gurú y le agradeció todas sus bendiciones:*
 
 > “Get up, Mukunda,” he said indulgently.
 
@@ -1859,6 +1864,11 @@ Yogananda
 
 ![En el muelle de Shanghái, Mukunda deja caer el bambú tallado comprado para Ananta, que se raja al caer; el doctor Misra observa y, a un lado, Nalini enferma](img/cgbabh_autobiografia-de-un-yogui_i-25.jpg)
 
+
+
+
+![En el muelle de Shanghái, Mukunda deja caer el bambú tallado comprado para Ananta, que se raja al caer; el doctor Misra observa y, a un lado, Nalini enferma](img/cgbabh_autobiografia-de-un-yogui_i-25.jpg)
+
 *«Ananta no puede vivir; las arenas de su karma para esta vida se han agotado»:*
 
 > These inexorable words reached my inner consciousness as I sat one morning in deep meditation.
@@ -1867,7 +1877,7 @@ Yogananda
 
 Yogananda
 
-*Poco después de entrar en la Orden de los Swamis, visitó su Gorakhpur natal como huésped de su hermano mayor Ananta, a quien una enfermedad repentina postró en cama; lo cuidó con amor, pero el solemne anuncio interior lo llenó de dolor: no podría soportar ver morir a su hermano ante su mirada impotente. Entre las críticas incomprensivas de los parientes, partió en el primer barco disponible, que costeó Birmania y el mar de la China hasta Japón. A la vuelta, el barco tocó Shanghái: allí, guiado por el doctor Misra, el médico de a bordo, compró regalos para su gurú y su familia, y para Ananta una gran pieza de bambú tallado. Apenas el vendedor chino se la entregó, la dejó caer al suelo gritando «¡he comprado esto para mi querido hermano muerto!»:*
+*Huésped de Ananta en Gorakhpur, lo cuidaba de una enfermedad; incapaz de verlo morir, partió en el primer barco. A la vuelta, en Shanghái, compró para él un bambú tallado y, apenas en la mano, lo dejó caer: «¡lo compré para mi hermano muerto!»:*
 
 > A clear realization had swept over me that his soul was just being freed in the Infinite.
 
@@ -1875,7 +1885,7 @@ Yogananda
 
 Yogananda
 
-*El recuerdo quedó aguda y simbólicamente rajado por la caída; entre sollozos escribió sobre el bambú: «para mi amado Ananta, ya partido». El doctor observaba con sonrisa sardónica: «ahorra tus lágrimas; ¿para qué derramarlas hasta estar seguro de que ha muerto?». Al atracar en Calcuta, su hermano menor Bishnu esperaba en el muelle:*
+*El bambú quedó rajado, como el recuerdo; el doctor Misra sonreía escéptico. Al atracar en Calcuta, Bishnu esperaba en el muelle:*
 
 > “I know Ananta has departed this life,” I said to Bishnu, before he had had time to speak.
 
@@ -1883,7 +1893,7 @@ Yogananda
 
 Yogananda
 
-*«Dinos, y al doctor que está aquí, cuándo murió Ananta». Bishnu dio la fecha: el mismo día en que compró los recuerdos en Shanghái. «¡Miren!, exclamó el doctor Misra. ¡Que no se corra la voz de esto! ¡Los profesores añadirán un año de telepatía mental a la carrera de medicina, que ya es bastante larga!». El padre lo abrazó con calidez al entrar en la casa de Gurpar Road; dos grandes lágrimas cayeron de sus ojos, señales de afecto que nunca antes le había mostrado aquel hombre habitualmente reservado:*
+*Bishnu dio la fecha: el mismo día. En casa, su padre, hombre reservado, lo abrazó con dos grandes lágrimas:*
 
 > “You have come,” he said tenderly.
 
@@ -1891,7 +1901,7 @@ Yogananda
 
 Yogananda
 
-*Poco después de la muerte de Ananta, su hermana menor Nalini fue traída de vuelta desde las puertas de la muerte por una curación divina. La relación infantil entre ambos no había sido de las más felices: él era muy delgado; ella, aún más, y él solía burlarse de su aspecto cadavérico con la franqueza insensible de la juventud. Los años pasaron; Nalini se casó con un joven médico de Calcuta, Panchanon Bose, que no la había visto hasta el día de la ceremonia nupcial. En la noche de bodas, el novio, recostado en un inmenso almohadón de brocado de oro, señaló disimuladamente a la novia, cuyo sari de seda púrpura no alcanzaba a ocultar su angularidad:*
+*Su hermana Nalini, esquelética de niña, se casó con el doctor Bose, que no la había visto hasta la boda; esa noche señaló su angularidad:*
 
 > Feeling my sympathy, Dr. Bose pointed unobtrusively to Nalini, and whispered in my ear, “Say, what’s this?”
 
@@ -1899,7 +1909,7 @@ Yogananda
 
 Yogananda
 
-*«Pues, doctor, respondí, ¡es un esqueleto para su observación!». Con los años, el doctor Bose se ganó el cariño de la familia, y él y Mukunda se hicieron íntimos, bromeando juntos, casi siempre con Nalini como blanco: «he probado de todo con tu flaca hermana: aceite de hígado de bacalao, mantequilla, malta, miel, pescado, carne, huevos, tónicos, y aun así no engorda ni la centésima parte de una pulgada». Un día Nalini lo llamó con voz cordial pero imperiosa: «enterramos el viejo hacha de guerra, querido hermano; veo que tus pies están firmes en el camino espiritual y quiero ser como tú en todo. Mi marido no se me acerca, y lo amo tanto; pero más aún quiero progresar en la realización de Dios, aunque deba seguir delgada y poco atractiva». Llegó a pedir ser su discípula: «entréname como quieras; pongo mi confianza en Dios en lugar de los tónicos», y arrojó un brazado de medicinas por el desagüe del tejado. Como prueba de fe, le pidió suprimir pescado, carne y huevos; meses después, al visitarla, le sonrió con picardía: «¿cuán rolliza quieres ser? ¿Tan gorda como nuestra tía, que no se ve los pies desde hace años?». «¡No!»:*
+*«Es un esqueleto para su observación», respondió él. Años después Nalini quiso ser su discípula: arrojó las medicinas y puso su confianza en Dios; él le pidió suprimir pescado, carne y huevos:*
 
 > But I long to be as stout as you are.”
 > I replied solemnly.
@@ -1908,7 +1918,7 @@ Yogananda
 
 Yogananda
 
-*«Por la gracia de Dios, como siempre he dicho la verdad, la digo ahora: por las bendiciones divinas, tu cuerpo cambiará de verdad desde hoy; en un mes pesará lo mismo que el mío». Aquellas palabras del corazón hallaron cumplimiento: en treinta días, el peso de Nalini igualó al suyo; la nueva redondez le dio belleza y su marido se enamoró profundamente de ella. A la vuelta de Japón, sin embargo, supo que Nalini había caído con fiebre tifoidea: corrió a su casa y la halló reducida a un esqueleto, en coma. «Los otros médicos y yo no vemos esperanza; tras la larga tifoidea se le ha declarado una disentería sanguinolenta», le dijo el cuñado desesperado. Removió cielo y tierra con sus oraciones y aplicó a su hermana varias técnicas yoguis de curación con la plena cooperación de una enfermera angloindia; la disentería desapareció, pero el doctor Bose sacudió la cabeza con pesar: «sencillamente no le queda más sangre que derramar». «Se recuperará, repliqué con firmeza. En siete días la fiebre habrá desaparecido». Y una semana después, Nalini abrió los ojos y lo miró con amoroso reconocimiento. Sanó con rapidez, pero sus piernas quedaron paralizadas; especialistas indios e ingleses la declararon inválida sin remedio. La guerra incesante por su vida, librada a base de oración, lo había agotado; fue a Serampore a pedir la ayuda de Sri Yukteswar:*
+*Le profetizó que en un mes pesaría lo que él, y así fue. A la vuelta de Japón la halló en coma por la tifoidea: «se recuperará; en siete días la fiebre habrá desaparecido», y se cumplió. Las piernas quedaron paralizadas; agotado, fue a Serampore:*
 
 > His eyes expressed deep sympathy as I told him of Nalini’s plight.
 
@@ -1916,7 +1926,7 @@ Yogananda
 
 Yogananda
 
-*«Las piernas de tu hermana estarán normales al cabo de un mes; que lleve, junto a la piel, una banda con una perla de dos quilates sin perforar, sujeta con un broche». Cuando le preguntó si aquello era un análisis astrológico, el maestro sonrió: «hay una astrología más profunda, que no depende del testimonio de calendarios y relojes». Un mes después, las piernas paralizadas de Nalini estaban completamente curadas. Y al despedirse, el gurú añadió un comentario preñado de sentido: «muchos médicos han dicho a tu hermana que jamás podrá tener hijos; asegúrale que dentro de unos años dará a luz dos hijas». Así fue, para alegría de Nalini:*
+*El maestro prescribió una banda con una perla de dos quilates sin perforar junto a la piel: «las piernas de tu hermana estarán normales al cabo de un mes»; y añadió que daría a luz dos hijas. Así fue:*
 
 > “Your master has blessed our home, our entire family,” my sister said.
 
@@ -1924,7 +1934,7 @@ Yogananda
 
 Yogananda
 
-*«La presencia de un hombre así es una santificación sobre toda la India; dile a Sri Yukteswarji, querido hermano, que, a través de ti, me cuento humildemente como una de sus discípulas de Kriya Yoga».*
+*«La presencia de un hombre así es una santificación sobre toda la India; dile que me cuento humildemente entre sus discípulas de Kriya Yoga».*
 
 ## Capítulo 26: La ciencia del Kriya Yoga
 
@@ -1996,12 +2006,12 @@ Yogananda
 
 ## Capítulo 27: Fundación de una escuela de yoga en Ranchi
 
+
 ![La escuela de Ranchi: un joven maestro de túnica ocre enseña a sus muchachos en los jardines del palacio, otros meditan en loto bajo los frutales y una cervatilla duerme en una esterilla](img/cgbabh_autobiografia-de-un-yogui_i-27.jpg)
 
+*«¿Por qué te repugna el trabajo de organización?», le preguntó el maestro. «Es una tarea ingrata, señor». «Dios es la Miel; las organizaciones son las colmenas; ambas son necesarias». Y él oró: «que tu Amor brille por siempre en el santuario de mi devoción».*
 
-*«¿Por qué te repugna el trabajo de organización?». La pregunta del maestro lo sobresaltó: su convicción privada de entonces era que las organizaciones eran «nidos de avispas». «Es una tarea ingrata, señor; haga lo que haga el líder, es criticado». «¿Quieres todo el channa divino solo para ti?, replicó su gurú con una mirada severa. ¿Podrías tú o cualquier otro alcanzar el contacto con Dios por el yoga si una línea de maestros de corazón generoso no hubiera querido transmitir su conocimiento a otros? Dios es la Miel; las organizaciones son las colmenas; ambas son necesarias». El consejo lo conmovió profundamente: no respondió en voz alta, pero una resolución de acero surgió en su pecho: compartiría con sus semejantes, en la medida de su poder, las verdades liberadoras aprendidas a los pies de su gurú. «Señor, oró, que tu Amor brille por siempre en el santuario de mi devoción, y que yo pueda despertar ese Amor en otros corazones».*
-
-*El ideal de una educación completa para la juventud le había sido siempre cercano: veía con claridad los resultados áridos de la instrucción ordinaria, dirigida solo al desarrollo del cuerpo y el intelecto, mientras los valores morales y espirituales faltaban en el currículo formal. Decidió fundar una escuela donde los muchachos pudieran desarrollarse hasta la plena estatura de la hombría. El primer paso fueron siete niños en Dihika, un pequeño paraje rural de Bengala; un año después, en 1918, gracias a la generosidad de Sir Manindra Chandra Nundy, maharajá de Kasimbazar, trasladó su grupo en rápido crecimiento a Ranchi, un pueblo de Bihar bendecido con uno de los climas más saludables de la India. El palacio de Kasimbazar se transformó en el Brahmacharya Vidyalaya: materias agrícolas, industriales, comerciales y académicas, concentración y meditación yoga, y un sistema único de desarrollo físico, «Yogoda», cuyos principios había descubierto en 1916: si el cuerpo es como una batería eléctrica, puede recargarse de energía por la agencia directa de la voluntad humana. Al final del primer año, las solicitudes de admisión llegaron a dos mil. Un día su padre llegó a Ranchi para darle la bendición paternal largamente retenida desde que rechazó el puesto en el ferrocarril Bengal-Nagpur:*
+*Fundó la escuela de Ranchi en 1918, en el palacio cedido por el maharajá de Kasimbazar: materias agrícolas y académicas, meditación yoga y su sistema físico «Yogoda». Un día su padre llegó a darle la bendición largamente retenida:*
 
 > “Son,” he said, “I am now reconciled to your choice in life.
 
@@ -2009,7 +2019,7 @@ Yogananda
 
 Yogananda
 
-*«Me da alegría verte entre estos muchachitos felices y ansiosos; perteneces aquí más que entre las cifras sin vida de los horarios de ferrocarril». Y señalando a la docena de pequeños que iban pegados a sus talones, observó con los ojos chispeantes: «yo solo tuve ocho hijos, ¡pero puedo compadecerte!». Con un gran huerto de frutales y veinticinco acres fértiles, disfrutaban felices horas de labor al aire libre. Tenían muchas mascotas, entre ellas una cervatilla a la que los niños idolatraban; él mismo la quería tanto que le permitía dormir en su cuarto. Un día la alimentó más temprano de lo usual por un asunto en el pueblo, y advirtió a los muchachos que no le dieran de comer hasta su regreso; uno desobedeció y le dio al cervatillo una gran cantidad de leche. Al volver, la triste noticia: el animalito estaba casi muerto de sobrealimentación. En lágrimas, lo puso sobre su regazo y oró lastimeramente a Dios por su vida; horas después, la criatura abrió los ojos, se puso de pie y caminó débilmente, y toda la escuela gritó de alegría. Pero aquella noche le llegó una lección profunda que jamás podría olvidar. Se quedó con la cervatilla hasta las dos; se durmió, y el ciervo le apareció en sueños y le habló: «me estás reteniendo. Por favor, déjame ir; ¡déjame ir!». «Está bien», respondió en el sueño. Despertó al instante gritando «¡muchachos, el ciervo se muere!»; corrió al rincón: el animal hizo un último esfuerzo por levantarse, tambaleó hacia él y cayó muerto a sus pies. Según el karma colectivo que guía los destinos de los animales, su vida había terminado y estaba listo para progresar a una forma superior:*
+*«Perteneces aquí más que entre las cifras sin vida de los horarios de ferrocarril», añadió el padre. La cervatilla mascota, sobrealimentada por un muchacho, se moría; él oró horas por su vida y se salvó, pero esa noche soñó que el ciervo le pedía «déjame ir», y despertó para hallarlo muerto a sus pies:*
 
 > But by my deep attachment, which I later realized was selfish, and by my fervent prayers, I had been able to hold it in the limitations of the animal form from which the soul was struggling for release.
 
@@ -2017,9 +2027,9 @@ Yogananda
 
 Yogananda
 
-*El alma del ciervo presentó su súplica en sueños porque, sin su permiso amoroso, no quería o no podía irse; en cuanto él accedió, partió. Toda pena lo dejó: Dios quiere que sus hijos lo amen todo como parte de Él, sin sentir engañosamente que la muerte lo termina todo. La escuela de Ranchi creció de comienzos pequeños y sencillos hasta ser una institución conocida en toda la India, con escuelas filiales en Midnapore, Lakshmanpur y Puri, y un departamento médico que atiende gratis a más de 18.000 pobres al año. Una de las primeras grandes figuras en visitar el Vidyalaya fue Swami Pranabananda, el «santo de los dos cuerpos» de Benares: al contemplar las pintorescas clases al aire libre bajo los árboles, y ver por la tarde a los muchachos sentados inmóviles durante horas en meditación yoga, se conmovió profundamente: «llega alegría a mi corazón al ver que los ideales de Lahiri Mahasaya para la debida formación de la juventud se llevan adelante en esta institución». Un muchachito sentado a su lado se atrevió a preguntar al gran yogui: «señor, ¿llegaré a ser monje? ¿Es mi vida solo para Dios?». El swami sonrió con dulzura, pero sus ojos horadaban el futuro: «hijo, cuando crezcas, te espera una hermosa novia». (El muchacho, en efecto, acabó casándose, tras años de planear entrar en la Orden.)*
+*El alma del animal solo pedía permiso para partir. La escuela creció con filiales y un dispensario gratuito; Swami Pranabananda, el «santo de los dos cuerpos», la visitó y se conmovió: «llega alegría a mi corazón al ver los ideales de Lahiri Mahasaya llevados adelante aquí».*
 
-*Algún tiempo después de la visita de Swami Pranabananda a Ranchi, acompañó a su padre a la casa de Calcuta donde el yogui se hospedaba temporalmente:*
+*Tiempo después acompañó a su padre a la casa de Calcuta donde el yogui se hospedaba:*
 
 > Pranabananda’s prediction, made to me so many years before, came rushing to my mind: “I shall see you, with your father, later on.”
 
@@ -2027,7 +2037,7 @@ Yogananda
 
 Yogananda
 
-*Al entrar el padre, el gran yogui se levantó de su asiento y lo abrazó con amoroso respeto: «Bhagabati, ¿qué haces contigo mismo?»:*
+*Al entrar, el yogui abrazó a su padre: «Bhagabati, ¿qué haces contigo mismo?»:*
 
 > Don’t you see your son racing to the Infinite?”
 
@@ -2035,7 +2045,7 @@ Yogananda
 
 Yogananda
 
-*Enrojeció al oír su elogio ante su padre. «Recuerdas cuántas veces nuestro bendito gurú solía decir: banat, banat, ban jai; sigue así el Kriya Yoga sin cesar y llega pronto a los portales divinos». El cuerpo de Pranabananda, tan lozano en su primera y asombrosa visita a Benares, mostraba ahora un envejecimiento definido, aunque su postura seguía admirablemente erguida. «Swamiji, inquirió mirándolo recto a los ojos, dígame la verdad: ¿no siente el avance de la edad? Al debilitarse el cuerpo, ¿sufren sus percepciones de Dios alguna disminución?». Él sonrió angélicamente:*
+*«¿No siente el avance de la edad? ¿Sufren sus percepciones de Dios alguna disminución?», inquirió. El santo sonrió angélicamente:*
 
 > “The Beloved is more than ever with me now.”
 
@@ -2043,7 +2053,7 @@ Yogananda
 
 Yogananda
 
-*«Sigo disfrutando de dos pensiones: una de Bhagabati, aquí presente, y otra de arriba». Y señalando con el dedo al cielo, el santo cayó en éxtasis, el rostro encendido de fulgor divino. Su habitación estaba llena de plantas y paquetes de semillas: «he dejado Benares para siempre y voy camino del Himalaya; allí abriré un ashram para mis discípulos; estas semillas darán espinacas y algunas otras verduras; mis queridos vivirán con sencillez, pasando el tiempo en gozosa unión con Dios. Nada más es necesario». Cuando el padre preguntó cuándo volvería a Calcuta, el santo respondió: «nunca más: este es el año en que Lahiri Mahasaya me dijo que dejaría para siempre mi amado Benares y me iría al Himalaya, a despojarme allí de mi forma mortal». A Mukunda se le llenaron los ojos de lágrimas, pero el swami sonrió tranquilo, como un pequeño niño celestial sentado seguro en el regazo de la Madre Divina. Meses después se encontró con un viejo amigo, Sanandan, discípulo cercano de Pranabananda:*
+*«Sigo disfrutando de dos pensiones: una de tu padre y otra de arriba». Iba al Himalaya a despojarse de su forma mortal, como Lahiri Mahasaya le había predicho. Meses después, su discípulo Sanandan le contó:*
 
 > “My adorable guru is gone,” he told me, amidst sobs.
 
@@ -2051,7 +2061,7 @@ Yogananda
 
 Yogananda
 
-*«Estableció una ermita cerca de Rishikesh y nos dio su amorosa formación; cuando estábamos bien asentados, propuso un día dar de comer a una multitud enorme. Le pregunté por qué quería un número tan grande: "esta es mi última ceremonia de festival", respondió. Pranabanandaji ayudó a cocinar para unos dos mil invitados; tras el banquete, sentado en una tarima alta, dio un sermón inspirado sobre el Infinito. Al final, ante la mirada de miles, se volvió hacia mí, sentado a su lado en el estrado, y habló con una fuerza inusual: "Sanandan, prepárate; voy a patear el armazón". Tras un silencio atónito, grité con fuerza: "¡maestro, no lo haga! ¡Por favor, no lo haga!":*
+*Pranabananda cocinó para dos mil invitados («esta es mi última ceremonia de festival»), dio un sermón sobre el Infinito y le dijo: «Sanandan, prepárate; voy a patear el armazón». «¡Maestro, no lo haga!»:*
 
 > My guru smiled at me, but his solemn gaze was already fixed on Eternity.
 > “‘Be not selfish,’ he said, ‘nor grieve for me.
@@ -2060,7 +2070,7 @@ Yogananda
 
 Yogananda
 
-*«Llevo mucho tiempo sirviéndoles alegremente a todos; ahora alégrense y deséenme un buen viaje a Dios. Voy al encuentro de mi Amado Cósmico»:*
+*«Llevo mucho tiempo sirviéndoles a todos; ahora deséenme un buen viaje a Dios. Voy al encuentro de mi Amado Cósmico»:*
 
 > In a whisper, Pranabanandaji added, ‘I shall be reborn shortly.
 
@@ -2068,7 +2078,7 @@ Yogananda
 
 Yogananda
 
-*«Tras disfrutar un breve período de la Dicha Infinita, volveré a la tierra y me uniré a Babaji; pronto sabrás cuándo y dónde mi alma se ha encerrado en un nuevo cuerpo». Y gritó de nuevo: «Sanandan, aquí pateo el armazón por el segundo Kriya Yoga»:*
+*«Renaceré en breve y me uniré a Babaji. Sanandan, aquí pateo el armazón por el segundo Kriya Yoga»:*
 
 > “He looked at the sea of faces before us, and gave a blessing.
 
@@ -2076,7 +2086,7 @@ Yogananda
 
 Yogananda
 
-*Dirigiendo su mirada hacia adentro, al ojo espiritual, quedó inmóvil: mientras la multitud desconcertada creía que meditaba en éxtasis, ya había dejado el tabernáculo de carne y zambullido su alma en la inmensidad cósmica. Los discípulos tocaron su cuerpo, sentado en postura de loto, pero ya no era carne cálida: solo quedaba un armazón rígido; el inquilino había huido a la orilla inmortal. Cuando le pregunté a Sanandan dónde renacería Pranabananda:*
+*Dirigiendo la mirada al ojo espiritual, quedó inmóvil: la multitud creía que meditaba, pero el inquilino ya había huido a la orilla inmortal. Cuando le preguntó a Sanandan dónde renacería:*
 
 > “That’s a sacred trust I cannot divulge to anyone,” Sanandan replied.
 
@@ -2084,7 +2094,7 @@ Yogananda
 
 Yogananda
 
-*«Quizá lo descubras por otro camino». Años después, en efecto, supo por Swami Keshabananda que Pranabananda, pocos años después de nacer en un nuevo cuerpo, se había ido a Badrinath, en el Himalaya.*
+*«Quizá lo descubras por otro camino». Años después supo que Pranabananda, renacido, se había ido a Badrinath, en el Himalaya.*
 
 ## Capítulo 28: Kashi, renacido y reencontrado
 
