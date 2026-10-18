@@ -474,4 +474,280 @@ Que la bendición de Dios vaya con vos, y con los que quieran hacer bien del mal
 
 Viejo
 
+---
+
+## Acto III, escena 1
+
+![Grabado en línea: en el palacio de Forres, Banquo, guerrero de capa pesada con el yelmo en la mano, medita sombrío junto a una columna en penumbra; al fondo, en el salón iluminado por antorchas, Macbeth ya coronado preside bajo un dosel.](img/cgbaaj_macbeth_i-12.jpg)
+
+*Banquo abre el acto a solas, haciendo cuentas: «Ya lo tienes todo, Rey, Cawdor, Glamis, como prometieron las Hermanas Fatídicas; y temo que jugaste muy sucio para lograrlo». Y si sus palabras relucieron en Macbeth, ¿por qué no serían también sus oráculos, si a él lo saludaron padre de reyes? «Pero silencio; no más». Entran los nuevos reyes. Cortesía de anfitriones: esta noche hay cena solemne y su presencia se requiere; Banquo promete no faltar. Macbeth le saca la tarde con preguntas amables (¿cabalgas hoy?, ¿lejos?, ¿vuelve Fleance contigo?):*
+
+> Tonight we hold a solemn supper, sir, And I’ll request your presence.
+
+
+
+Esta noche damos una cena solemne, señor, y os pediré vuestra presencia.
+
+
+
+Macbeth
+
+*«Que vuestras monturas sean veloces y seguras». Se va Banquo, se va la corte («que cada uno sea dueño de su tiempo hasta las siete»), y se queda Macbeth con la verdad: «Ser así no es nada si no se es así con seguridad». Sus miedos a Banquo se clavan hondo: en su realeza natural reina lo que hay que temer. Las hermanas pusieron sobre su cabeza «una corona infecunda» y en su puño «un cetro estéril»: por la descendencia de Banquo manchó su mente, por ellos asesinó al benigno Duncan, y su joya eterna se la dio al enemigo común del hombre, ¡para hacer reyes a la semilla de Banquo! Antes que eso:*
+
+> Rather than so, come, fate, into the list, And champion me to th’ utterance!—Who’s there?—
+
+
+
+Antes que eso, ven, destino, a la liza y sé mi campeón hasta el extremo. ¿Quién va?
+
+
+
+Macbeth
+
+*Entran los dos hombres que esperaban a la puerta: asesinos pobres a quienes Macbeth convenció ayer de que su desgracia la causó Banquo. ¿Van a tragar eso? ¿Tan evangelizados están que rezarán por el hombre bueno cuya mano pesada los hundió? «Somos hombres, mi señor». Macbeth los provoca: sí, en el catálogo van por hombres, como los perros van todos por perros; pero la lista distingue al veloz, al sutil, al cazador:*
+
+> Are you so gospell’d, To pray for this good man and for his issue, Whose heavy hand hath bow’d you to the grave, And beggar’d yours forever?
+
+
+
+¿Estáis tan evangelizados que rezáis por este buen hombre y su descendencia, cuya mano pesada os ha doblado hacia la tumba y ha empobrecido a los vuestros para siempre?
+
+
+
+Macbeth
+
+*La oferta viene enseguida: quien tenga un lugar en la lista que no sea el último, que lo diga, y recibirá un encargo que quita de en medio a su enemigo y lo une al corazón del rey, cuya salud enferma sería perfecta con la muerte de aquel:*
+
+> Now, if you have a station in the file, Not i’ th’ worst rank of manhood, say’t; And I will put that business in your bosoms, Whose execution takes your enemy off, Grapples you to the heart and love of us, Who wear our health but sickly in his life, Which in his death were perfect.
+
+
+
+Ahora, si tenéis un puesto en la lista, no en la peor fila de la hombría, decidlo; y pondré en vuestros pechos ese negocio cuya ejecución elimina a vuestro enemigo y os ata al corazón y al afecto de nosotros, que llevamos nuestra salud enfermiza mientras él vive, y sería perfecta con su muerte.
+
+
+
+Macbeth
+
+*Basta: uno responde que los golpes del mundo lo han irritado tanto que no le importa lo que haga por despecho; el otro, que pondría su vida a cualquier suerte por remediarla o salir de ella. Macbeth les señala la obra: Banquo, y con él Fleance, su hijo, cuya ausencia le importa tanto como la del padre; esta noche, lejos del palacio. «Estamos decididos, mi señor». Y cierra la escena, a solas: «Banquo, el vuelo de tu alma, si halla el cielo, ha de hallarlo esta noche».*
+
+---
+
+## Acto III, escena 2
+
+![Grabado en línea: en un aposento del castillo al anochecer, Macbeth, atormentado, habla en voz baja con Lady Macbeth junto a una ventana por la que cruzan murciélagos; un guardia vela al fondo entre cortinajes.](img/cgbaaj_macbeth_i-13.jpg)
+
+*«¿Se ha ido Banquo de la corte?», pregunta Lady Macbeth en la primera frase de la escena, y se queda sola con el balance: «Nada se tiene, todo se gasta, donde se logra el deseo sin contento. Es más seguro ser lo que destruimos que habitar, por la destrucción, una dicha dudosa». Llega Macbeth, solo con sus fantasías más miserables; ella le dice que lo hecho, hecho está, que lo que no tiene remedio no debe tener recuerdo. Él responde que no: «Hemos chamuscado a la serpiente, no la hemos matado»; sanará y su antiguo colmillo seguirá amenazando. Mejor estar con los muertos, a quienes enviaron a la paz para ganar la suya, que yacer sobre el tormento de la mente:*
+
+> Duncan is in his grave; After life’s fitful fever he sleeps well; Treason has done his worst: nor steel, nor poison, Malice domestic, foreign levy, nothing Can touch him further.
+
+
+
+Duncan está en su tumba; tras la fiebre intermitente de la vida duerme bien. La traición ha hecho lo peor: ni acero, ni veneno, ni malicia doméstica, ni leva extranjera, nada puede tocarlo más.
+
+
+
+Macbeth
+
+*Ella le pide que alise su rostro arrugado y esté brillante con los invitados. Él le pide lo mismo: honren a Banquo con ojos y lengua, porque mientras no estén seguros hay que lavar los honores en esos arroyos de adulación y hacer de la cara una máscara del corazón. Y entonces se le sale: «¡Oh, llena de escorpiones está mi mente, querida esposa! Tú sabes que Banquo, y su Fleance, viven». Ella: «Pero en ellos la copia de la naturaleza no es eterna».*
+
+> There’s comfort yet; they are assailable.
+
+
+
+Aún hay consuelo: son vulnerables.
+
+
+
+Macbeth
+
+*Antes de que el murciélago vuele y el escarabajo toque el bostezante toque de la noche, se hará «una acción de terrible fama». «¿Qué se hará?», pregunta ella. «Sé inocente del conocimiento, queridísima pichona, hasta que aplaudas el acto». (Ya no lo consulta: lo manda.) Y la noche viene: «Ven, noche que cierras los ojos, venda el ojo tierno del día compasivo»; «la luz se espesa; y el cuervo se echa a volar hacia el bosque de grajos». Las cosas buenas del día dormitan, los agentes negros se desperezan hacia sus presas. Ella se maravilla de sus palabras; él la cierra, y la escena, con esto:*
+
+> Thou marvell’st at my words: but hold thee still; Things bad begun make strong themselves by ill.
+
+
+
+Te asombras de mis palabras; pero quédate quieta: las cosas malas empezadas se afirman con mal.
+
+
+
+Macbeth
+
+*«Así que, te lo ruego, ven conmigo».*
+
+---
+
+## Acto III, escena 3
+
+![Grabado en línea: de noche, en un camino entre árboles retorcidos ante el castillo, tres asesinos embozados atacan a Banquo mientras su hijo Fleance huye y la antorcha cae al suelo.](img/cgbaaj_macbeth_i-14.jpg)
+
+*En un parque junto al palacio esperan dos asesinos; llega un tercero, y la primera frase de la escena es la sospecha del primero:*
+
+> But who did bid thee join with us?
+
+
+
+¿Pero quién te mandó unirte a nosotros?
+
+
+
+Primer asesino
+
+*«Macbeth», responde el tercero, y basta: viene con las órdenes justas. Anochece («el oeste aún reluce con algunas vetas de día»; «ahora el viajero rezagado espolea a prisa para ganar la posada a tiempo»). Se oyen caballos, una voz pide luz: es Banquo, que como todos se baja a una milla y hace a pie el trecho hasta la puerta del palacio. «Esta noche lloverá», dice Banquo. «Que caiga», dice el asesino, y cae el golpe. «¡Oh, traición! ¡Huye, buen Fleance, huye, huye, huye! ¡Podrás vengarme...!». Alguien apagó la luz. En la oscuridad:*
+
+> There’s but one down: the son is fled.
+
+
+
+Solo uno ha caído; el hijo ha huido.
+
+
+
+Tercer asesino
+
+*«Hemos perdido la mejor mitad de nuestro asunto». Última frase, del primer asesino: «Bueno, vámonos y digamos cuánto está hecho».*
+
+---
+
+## Acto III, escena 4
+
+![Grabado en línea: en el gran salón del banquete iluminado por antorchas, Macbeth, coronado, retrocede horrorizado ante el fantasma demacrado de Banquo sentado en su propio asiento a la mesa.](img/cgbaaj_macbeth_i-15.jpg)
+
+*El banquete. «Conocéis vuestros propios rangos; sentaos», abre Macbeth, anfitrión humilde que se mezclará con la concurrencia. Pero en la puerta lo espera uno de los asesinos: «Hay sangre en tu cara». ¿Es de Banquo? Sí: degollado, «a salvo en una zanja», con veinte heridas en la cabeza. ¿Y Fleance? «Real señor, Fleance se ha escapado». El ajuste de cuentas de Macbeth:*
+
+> Then comes my fit again: I had else been perfect; Whole as the marble, founded as the rock, As broad and general as the casing air: But now I am cabin’d, cribb’d, confin’d, bound in To saucy doubts and fears.
+
+
+
+Entonces vuelve mi acceso: si no, habría estado perfecto, entero como el mármol, firme como la roca, tan amplio y general como el aire que nos envuelve. Pero ahora estoy encerrado, apretado, confinado, atado a dudas y miedos insolentes.
+
+
+
+Macbeth
+
+*Consuelo frío: «Allí yace la serpiente adulta; el gusano que ha huido tiene una naturaleza que con el tiempo criará veneno, pero por ahora no tiene dientes». Lady Macbeth lo llama al banquete (la fiesta sin bienvenida es fiesta vendida, no dada). Macbeth brinda y lamenta en público la ausencia de Banquo, «a quien prefiero reprochar por descortesía que lamentar por desgracia». Lennox le ofrece el sitio reservado. Y el sitio está ocupado. «¿Quién de vosotros ha hecho esto?»:*
+
+> Thou canst not say I did it.
+
+
+
+No puedes decir que yo lo hice.
+
+
+
+Macbeth
+
+*Ross quiere levantarse; Lady Macbeth cubre: «Mi señor suele estar así, y lo ha estado desde su juventud... el acceso es momentáneo». Y en privado, el látigo de siempre: «¿Eres un hombre?», «esto es la pintura misma de tu miedo: es la daga dibujada en el aire que dijiste que te llevó hasta Duncan», «miras solo un taburete». Pero él lo ve: «¡Mira ahí! ¡Observa! ¡Mira! ¡Ves! ¿Qué dices? ¿Qué me importa?»:*
+
+> If thou canst nod, speak too.
+
+
+
+Si puedes asentir, habla también.
+
+
+
+Macbeth
+
+*«Si los osarios y las tumbas devuelven a los que enterramos, nuestros monumentos serán los buches de los milanos». Se recompone, disculpa ante los nobles:*
+
+> — Do not muse at me, my most worthy friends.
+
+
+
+No os asombréis de mí, mis dignísimos amigos.
+
+
+
+Macbeth
+
+*Pide vino, llena la copa: «Bebo por la alegría general de toda la mesa y por nuestro querido amigo Banquo, a quien echamos de menos: ojalá estuviera aquí». Y vuelve. «¡Apartaos! ¡Quitaos de mi vista! ¡Que la tierra te esconda! ¡Tus huesos no tienen tuétano, tu sangre está fría; no hay mirada en esos ojos con que me fulminas!». Oso ruso, rinoceronte armado, tigre de Hircania: cualquier forma menos esa. Se va la sombra: «Pues bien: ido él, vuelvo a ser un hombre». Lady Macbeth despide a los invitados sin ceremonias: «Buenas noches a la vez; no os detengáis en el orden de vuestra salida, id todos a la vez». A solas, el veredicto: «Querrá sangre, dicen; la sangre querrá sangre». Macduff faltó a la cita; Macbeth tiene un criado pagado en cada casa. Mañana, a las Hermanas Fatídicas: saber lo peor por los peores medios. «Me he metido en la sangre tan adentro que, si no vadeara más, volver sería tan penoso como seguir». Y las dos últimas frases antes de la coda:*
+
+> I will tomorrow (And betimes I will) to the Weird Sisters: More shall they speak; for now I am bent to know, By the worst means, the worst.
+
+
+
+Mañana, y muy temprano, iré a las Hermanas Fatídicas: más deben decir; pues ahora estoy resuelto a saber, por los peores medios, lo peor.
+
+
+
+Macbeth
+
+*Y con lo que ya trama, ni siquiera se da tiempo de mirarlo:*
+
+> Strange things I have in head, that will to hand, Which must be acted ere they may be scann’d.
+
+
+
+Tengo en la cabeza cosas extrañas que pasarán a la mano, y que han de hacerse antes de poder examinarse.
+
+
+
+Macbeth
+
+*«Te falta el aderezo de todas las naturalezas: el sueño», dice ella. «Vamos, a dormir», dice él, y cierra la escena: «Todavía somos jóvenes en el obrar».*
+
+---
+
+## Acto III, escena 5
+
+![Grabado en línea: en un páramo nocturno bajo una luna enorme, Hécate, imponente entre túnicas y niebla, regaña con el brazo alzado a las tres brujas encogidas junto a los restos de una hoguera.](img/cgbaaj_macbeth_i-16.jpg)
+
+*«¿Pues qué pasa, Hécate?»: la diosa de la brujería llega furiosa con sus hermanas. ¿Cómo se atrevieron a traficar con Macbeth en acertijos y asuntos de muerte sin llamarla a ella, la maestra de sus encantos? Y peor:*
+
+> And, which is worse, all you have done Hath been but for a wayward son, Spiteful and wrathful; who, as others do, Loves for his own ends, not for you.
+
+
+
+Y lo que es peor, todo lo que habéis hecho ha sido por un hijo díscolo, rencoroso e iracundo, que, como otros, ama por sus propios fines, no por vosotras.
+
+
+
+Hécate
+
+*Enmienda: mañana, en el pozo del Aqueronte, él vendrá a conocer su destino. Hécate pasará la noche hacia un fin funesto:*
+
+> Great business must be wrought ere noon.
+
+
+
+Antes del mediodía debe hacerse un gran negocio.
+
+
+
+Hécate
+
+*Del cuerno de la luna cuelga una gota vaporosa que ella cogerá antes de que toque suelo; destilada con artes mágicas, alzará espíritus tan artificiales que, por la fuerza de su ilusión, lo arrastrarán a su perdición: «Despreciará el destino, burlará la muerte, y pondrá sus esperanzas por encima de la sabiduría, la gracia y el miedo. Y todas sabéis que la seguridad es el principal enemigo de los mortales». La llaman; su espiritillo la espera en una nube de niebla. Cierra la primera bruja: «Vamos, démonos prisa; pronto estará de vuelta».*
+
+---
+
+## Acto III, escena 6
+
+![Grabado en línea: en un pasillo del castillo iluminado por una antorcha, Lennox y un lord conversan en voz baja junto a una ventana, inclinados el uno hacia el otro con gestos de sospecha.](img/cgbaaj_macbeth_i-17.jpg)
+
+*Lennox y un Lord conversan, y Lennox abre con sarcasmo fino — la primera frase es también la primera cita:*
+
+> My former speeches have but hit your thoughts, Which can interpret farther: only, I say, Thing’s have been strangely borne.
+
+
+
+Mis palabras anteriores solo han dado en vuestros pensamientos, que pueden interpretar más lejos. Solo digo que las cosas se han llevado de modo extraño.
+
+
+
+Lennox
+
+*El bondadoso Duncan fue compadecido por Macbeth; claro: estaba muerto. El valerosísimo Banquo caminó demasiado tarde; a quien, si os place, mató Fleance, pues Fleance huyó. Los hombres no deben caminar tan tarde. ¡Y cómo le dolió a Macbeth! ¿No desgarró en piadosa furia a los dos delincuentes? ¿No fue noblemente hecho? Si tuviera a los hijos de Duncan bajo su llave —que el cielo no lo quiera— aprenderían lo que es matar a un padre. Y Macduff, por faltar a la fiesta del tirano, vive en desgracia. ¿Dónde se refugia? En la corte inglesa, donde vive el hijo de Duncan, recibido por el piadoso Eduardo. Allá fue Macduff a rogar ayuda: Northumberland, el belicoso Siward, y Aquel de arriba para ratificar la obra, «para que podamos dar de nuevo carne a nuestras mesas y sueño a nuestras noches». Macbeth se prepara para la guerra. ¿Llamó a Macduff? Sí:*
+
+> He did: and with an absolute “Sir, not I,” The cloudy messenger turns me his back, And hums, as who should say, “You’ll rue the time That clogs me with this answer.
+
+
+
+Sí; y con un rotundo: «Señor, yo no», el mensajero sombrío me vuelve la espalda y murmura, como diciendo: «Os arrepentiréis del tiempo que me carga con esta respuesta».
+
+
+
+Un lord
+
+*Que algún ángel santo vuele a Inglaterra con el mensaje, para que una bendición veloz regrese a este sufrido país bajo una mano maldita. Última frase, del Lord: «Enviaré mis oraciones con él».*
+
 Osmancito, con la asistencia de Instinct
