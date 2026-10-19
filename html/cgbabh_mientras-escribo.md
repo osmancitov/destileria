@@ -1,6 +1,6 @@
 # Mientras escribo
 
-![Ilustración editorial: recuerdos de infancia, lectura y escritura en un paisaje de invierno.](img/cgbabh_mientras-escribo_cv_og.jpg)
+![Ilustración editorial: recuerdos de infancia, lectura y escritura en un paisaje de invierno.](img/1-cgbabh_mientras-escribo_cv_og.jpg)
 
 Stephen King
 
