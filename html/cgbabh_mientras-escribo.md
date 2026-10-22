@@ -4,9 +4,9 @@
 
 *Mientras escribo* es el título castellano de *On Writing*, el libro en que Stephen King cuenta cómo llegó al oficio y cómo se hace. Salió en el año 2000. Antes de entrar en materia trae tres prólogos cortos; después viene el cuerpo del libro: La memoria, y luego qué es escribir, la caja de herramientas y más. Aquí lo destilamos en ese orden, empezando por lo primero que King pone en manos del lector: los prólogos.
 
-## Los prólogos
-
 ---
+
+## Los prólogos
 
 ### La pregunta de Amy
 
