@@ -302,6 +302,28 @@ Ella pareció decepcionada, y eso le vació buena parte del gusto. Al final le d
 
 «Esos tebeos de Combat Casey son pura porquería —siguió—: siempre está sacándole los dientes a alguien. Apuesto a que tú puedes hacerlo mejor. Escribe uno tuyo».
 
+### A cuarto el cuento
+
+[![Óleo: en una sala modesta de los años cincuenta, una madre joven sentada en un sillón lee absorta y sonriente cuatro hojas impresas a lápiz, su cartera en el suelo junto al sillón, mientras un niño de siete años de pie la observa esperanzado.](img/cgbacb_mientras-escribo_a-cuarto-el-cuento.jpg)](img/cgbacb_mientras-escribo_a-cuarto-el-cuento.jpg)
+
+King obedeció. Le vino una inmensa sensación de posibilidad ante la idea, como si lo hubieran llevado a un vasto edificio lleno de puertas cerradas y le hubieran dado permiso de abrir las que quisiera: más puertas de las que una persona puede abrir en una vida, pensó, y todavía piensa. Escribió un cuento sobre cuatro animales mágicos que andaban por ahí en un carro viejo, ayudando a niños pequeños. Su líder era un gran conejo blanco llamado Mr. Rabbit Trick —algo así como «el señor Conejo Truco»—, y él era quien manejaba el carro. El cuento tenía cuatro páginas, impresas laboriosamente a lápiz. Nadie saltaba en él del tejado del Graymore Hotel —el hotel de Portland, Maine, del que se tiró el marinero que su madre vio caer—.
+
+> When I finished, I gave it to my mother, who sat down in the living room, put her pocketbook on the floor beside her, and read it all at once.
+>
+> <small>Frase 290</small>
+
+Cuando lo terminé, se lo di a mi madre, que se sentó en la sala, puso su cartera en el suelo a su lado y lo leyó todo de una vez.
+
+Se notaba que le gustaba —rió en todos los lugares correctos—, pero él no podía saber si era porque ella lo quería a él y quería hacerlo sentir bien o porque el cuento de veras era bueno. «¿Este no lo copiaste?», preguntó cuando terminó. No: no lo había copiado. Ella dijo que era lo bastante bueno para estar en un libro. «Nothing anyone has said to me since has made me feel any happier» —nada de lo que me han dicho desde entonces me ha hecho sentir más feliz—. Escribió cuatro cuentos más sobre Mr. Rabbit Trick y sus amigos:
+
+> She gave me a quarter apiece for them and sent them around to her four sisters, who pitied her a little, I think.
+>
+> <small>Frase 296</small>
+
+Me dio un cuarto de dólar por cada uno y los hizo circular entre sus cuatro hermanas, que sentían un poco de lástima por ella, creo.
+
+Esas cuatro hermanas —las tías de King— estaban todas casadas; sus maridos se habían quedado. Es cierto que el tío Fred no tenía mucho sentido del humor y se empeñaba en llevar siempre puesta la capota de su convertible, y también es cierto que el tío Oren bebía bastante y tenía oscuras teorías sobre cómo los judíos manejaban el mundo, pero estaban ahí. Ruth —la madre se llamaba Nellie Ruth—, en cambio, se había quedado con el bebé en brazos cuando Don —el padre— se largó. Quería que ellas vieran que era un niño talentoso, al menos. Cuatro cuentos. Un cuarto por cuento. «That was the first buck I made in this business»: ese fue el primer dólar que gané en este oficio. «Buck» es el nombre callejero del dólar.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
