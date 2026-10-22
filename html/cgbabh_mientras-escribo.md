@@ -180,6 +180,62 @@ Mamá dijo que tenía catorce años, luego me leyó un comic y me despachó a la
 
 Otro día le contó la que vio: un marinero que se tiró del tejado del Graymore Hotel, en Portland, Maine, y cayó en la calle. «He splattered» —se desparramó—, dijo su madre en su tono más de todos los días. Hizo una pausa y añadió: «Lo que salió de él era verde. Nunca lo he olvidado». «That makes two of us, Mom», contesta King: ya somos dos, mamá; él tampoco lo ha olvidado.
 
+### No va a doler
+
+[![Óleo tenebrista: en un consultorio oscuro, un niño de seis años yace de lado en una camilla con un paño blanco bajo la mejilla; un médico canoso se inclina sobre él con una aguja larguísima que atrapa un destello de luz, y una enfermera espera detrás con un frasco.](img/cgbacb_mientras-escribo_no-va-a-doler.jpg)](img/cgbacb_mientras-escribo_no-va-a-doler.jpg)
+
+La mayor parte de los nueve meses que King debió pasar en primer grado los pasó en cama. Empezó con el sarampión, un caso normalísimo, y fue empeorando: acceso tras acceso de lo que él creía que se llamaba «stripe throat», la garganta a rayas —en realidad era «strep throat», la faringitis por estreptococo—, enfermo en la cama, bebiendo agua fría e imaginando su garganta a rayas rojas y blancas. Y entonces llegaron los oídos:
+
+> At some point my ears became involved, and one day my mother called a taxi (she did not drive) and took me to a doctor too important to make house calls—an ear specialist.
+>
+> <small>Frase 184</small>
+
+En cierto momento mis oídos se vieron afectados, y un día mi madre llamó un taxi (ella no manejaba) y me llevó a un médico demasiado importante para hacer visitas a domicilio: un especialista del oído.
+
+Las «house calls» son las visitas del médico a la casa del enfermo. King se hizo la idea de que ese tipo de doctor se llamaba «otiologist», oídologo; la palabra de verdad es «otologist», otólogo, y dice que no le importaba si se especializaba en oídos o en «assholes», en cretinos.
+
+Tenía ciento cuatro grados de fiebre (unos cuarenta de los nuestros) y cada vez que tragaba, el dolor le encendía los lados de la cara como una rocola. El doctor le miró los oídos, sobre todo el izquierdo, y lo acostó en la camilla. «Levántate un momento, Stevie», dijo la enfermera, y le puso un paño absorbente —pudo haber sido un pañal— bajo la cabeza. Debió sospechar que «something was rotten in Denmark», que algo podrido había en Dinamarca, como dice Hamlet. Quién sabe; quizá sí. Hubo un olor fuerte a alcohol, un clang metálico al abrir el doctor su esterilizador, y él vio la aguja en la mano del doctor —parecía tan larga como la regla de su cartuchera— y se puso tenso:
+
+> The ear doctor smiled reassuringly and spoke the lie for which doctors should be immediately jailed (time of incarceration to be doubled when the lie is told to a child): “Relax, Stevie, this won’t hurt.”
+>
+> <small>Frase 196</small>
+
+El médico del oído sonrió con aire tranquilizador y dijo la mentira por la que los médicos deberían ir directos a la cárcel (con el tiempo de encierro duplicado cuando la mentira se le dice a un niño): «Relájate, Stevie, esto no va a doler».
+
+Esa es la mentira profesional por excelencia, y King dicta su ley: cárcel inmediata para el médico que la dice, y el doble si la víctima es un niño.
+
+Él se la creyó:
+
+> He slid the needle into my ear and punctured my eardrum with it.
+>
+> <small>Frase 198</small>
+
+Deslizó la aguja dentro de mi oído y me perforó el tímpano con ella.
+
+El tímpano es la membrana entre el oído externo y el oído medio; punzarlo era la manera de drenar el pus de una infección de oído como la suya, venida de la garganta.
+
+El dolor fue más allá de todo lo que ha sentido desde entonces; lo único cercano fue el primer mes de recuperación después de que una camioneta lo atropellara en el verano de 1999, y aquel dolor fue más largo pero no tan intenso. Gritó. Hubo un sonido dentro de su cabeza, un fuerte sonido de beso. Un fluido caliente le corrió del oído, como si llorara por el agujero equivocado, aunque por los correctos ya lloraba bastante. Alzó la cara chorreante y miró, sin creerlo, al doctor y a su enfermera. El paño tenía un gran parche mojado y finos hilos de pus amarillo. «Ya está», dijo el doctor, dándole palmaditas en el hombro: «Fuiste muy valiente, Stevie, ya pasó todo». A la semana siguiente su madre llamó otro taxi:
+
+> The ear doctor once again produced the smell of alcohol—a smell I still associate, as I suppose many people do, with pain and sickness and terror—and with it, the long needle.
+>
+> <small>Frase 213</small>
+
+El médico del oído produjo una vez más el olor a alcohol —un olor que todavía asocio, como supongo que hace mucha gente, con el dolor, la enfermedad y el terror— y, con él, la aguja larga.
+
+La marca de aquellas visitas le duró toda la vida: el olor a alcohol quedó atado al dolor.
+
+El doctor le aseguró otra vez que no dolería, y él otra vez le creyó: no del todo, pero lo bastante para quedarse quieto mientras la aguja entraba. Sí dolió, casi tanto como la primera vez, y el sonido de besos fue más fuerte; esta vez eran gigantes besándose. «Solo duele un poco», dijo la enfermera, «y no querrás quedarte sordo, ¿verdad? Además, ya pasó todo». Se lo creyó por unos cinco días, y entonces llegó otro taxi; de camino, el taxista amenazó a su madre con orillarse y dejarlos si no callaba a ese niño. Tercera vez en la camilla, con el paño bajo la cabeza y su madre en la sala de espera con una revista. De aquellas punciones repetidas, a los seis años, le quedó uno de los principios más firmes de su vida: «Fool me once, shame on you; fool me twice, shame on me; fool me three times, shame on both of us» —si me engañas una vez, vergüenza tuya; si me engañas dos, vergüenza mía; si me engañas tres, vergüenza de los dos—. La tercera vez forcejeó, gritó, pataleó y peleó; cada vez que la aguja se acercaba a su cara, la apartaba de un manotazo:
+
+> Finally the nurse called my mother in from the waiting room, and the two of them managed to hold me long enough for the doctor to get his needle in.
+>
+> <small>Frase 232</small>
+
+Al final la enfermera llamó a mi madre desde la sala de espera, y entre las dos lograron sujetarme el tiempo suficiente para que el médico introdujera su aguja.
+
+El proverbio americano tiene dos versos; King le añadió el tercero, el de la vergüenza compartida.
+
+Gritó tan largo y tan fuerte que todavía puede oírlo. Cree, de hecho, que en algún valle profundo de su cabeza aquel último grito todavía está haciendo eco.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
