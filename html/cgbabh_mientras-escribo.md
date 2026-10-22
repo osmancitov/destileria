@@ -100,6 +100,53 @@ No recuerdo si me llevaron al médico, y mi tía Ethelyn tampoco (el tío Oren, 
 
 La tía Ethelyn cierra la anécdota en broma, hablando con él: «¡Cómo aullaste, Stephen!». Y sentencia que aquel día estaba «ciertamente en plena voz» — «in fine voice», como se dice de un cantante en su mejor noche.
 
+### Siete huevos
+
+[![Óleo de una cocina sencilla por la mañana: un niño pequeño de gesto serio y decidido, con el tenedor en la mano, ante una torre de platos con siete huevos fritos, mientras una niñera enorme y risueña se inclina sobre él con una sartén y una ceja levantada.](img/cgbacb_mientras-escribo_siete-huevos.jpg)](img/cgbacb_mientras-escribo_siete-huevos.jpg)
+
+Un año o poco más después de la escena del bloque de cemento, King, su madre y su hermano David, dos años mayor que él, están en West De Pere, Wisconsin. No sabe por qué. Quizá su madre se mudó para estar cerca de Cal, otra de sus hermanas, que vivía allí con un marido amigo de la cerveza; pero de los Weimer, que parecen ser la familia de Cal (el libro no lo dice con esas palabras), no recuerda haber visto mucho. Su madre trabajaba, y tampoco recuerda en qué. Lo que sí recuerda es una fila de niñeras: no sabe si se iban porque David y él daban guerra o porque encontraban mejor sueldo, pero eran muchas. La única que recuerda con claridad es Eula, o quizá Beulah, así que la llama Eula-Beulah: adolescente, enorme y de risa fácil. Tenía un humor magnífico y peligroso: en cada estallido de risa, entre palmaditas y balanceos de trasero, parecía esconderse un trueno. Lo abrazaba, le hacía cosquillas y, riendo, le soltaba un golpe en la cabeza capaz de tirarlo. Y cuando se le escapaba uno de sus pedos, fuertes y malolientes, lo lanzaba al sofá, le sentaba encima de la cara su trasero de falda de lana y lo soltaba. «¡Pow!», gritaba ella, feliz. King recuerda la oscuridad, la asfixia y que se reía, porque lo que pasaba era horrible, pero también gracioso. De ahí su conclusión: en cierto modo, Eula-Beulah lo preparó para la crítica literaria:
+
+> After having a two-hundred-pound babysitter fart on your face and yell Pow!, The Village Voice holds few terrors.
+>
+> <small>Frase 134</small>
+
+Después de que una niñera de doscientas libras te suelte un pedo en la cara y grite «¡Pow!», The Village Voice ya no inspira muchos terrores.
+
+The Village Voice fue un semanario de Nueva York, el primero que se llamó «alternativo», conocido por su cultura y su crítica; es dato de fuera del libro (fuente: [Wikipedia, The Village Voice](https://en.wikipedia.org/wiki/The_Village_Voice)).
+
+De las otras niñeras no sabe qué fue, pero a Eula-Beulah la despidieron, y fue por los huevos:
+
+> One morning Eula-Beulah fried me an egg for breakfast.
+>
+> <small>Frase 137</small>
+
+Una mañana Eula-Beulah me frió un huevo para el desayuno.
+
+Se lo comió y pidió otro.
+
+> Eula-Beulah fried me a second egg, then asked if I wanted another one.
+>
+> <small>Frase 139</small>
+
+Eula-Beulah me frió un segundo huevo y luego me preguntó si quería otro.
+
+Ella tenía una mirada:
+
+> She had a look in her eye that said, “You don’t dare eat another one, Stevie.”
+>
+> <small>Frase 140</small>
+
+Tenía en los ojos una mirada que decía: «No te atreves a comerte otro, Stevie».
+
+Pidió otro. Y otro, y así. Se detuvo en siete, cree; siete es el número que se le quedó clavado. Quizá se acabaron los huevos, quizá se rindió él, quizá ella se asustó; no lo sabe, pero fue bueno que el juego terminara en siete, que son muchos para un niño de cuatro años. Se sintió bien un rato y luego vomitó por todo el suelo. Eula-Beulah se rió, le pegó en la cabeza y lo encerró en el armario con llave. Él no lo vivió mal: estaba oscuro, pero olía al perfume Coty de su madre y había una raya de luz bajo la puerta. Se arrastró al fondo, entre los abrigos y vestidos de su madre, empezó a eructar, largos eructos que ardían como fuego, y al abrir la boca para otro volvió a vomitar, esta vez sobre los zapatos de su madre. Ese fue el final de Eula-Beulah. Y esta es la escena que encontró su madre al volver:
+
+> When my mother came home from work that day, the babysitter was fast asleep on the couch and little Stevie was locked in the closet, fast asleep with half-digested fried eggs drying in his hair.
+>
+> <small>Frase 160</small>
+
+Cuando mi madre volvió del trabajo ese día, la niñera dormía profundamente en el sofá y el pequeño Stevie estaba encerrado en el armario, profundamente dormido, con huevos fritos a medio digerir secándose en su pelo.
+
+«Stevie» es el diminutivo de Stephen con que lo llama Eula-Beulah; «yarked», la palabra que King usa para vomitar, es coloquial en inglés americano.
 
 © 2026 Osmancito
 
