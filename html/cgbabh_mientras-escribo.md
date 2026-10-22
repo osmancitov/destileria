@@ -6,6 +6,8 @@
 
 ## Los prólogos
 
+---
+
 ### La pregunta de Amy
 
 [![Pintura: una mesa redonda de restaurante chino de noche, con comensales que brindan y comparten platos bajo una lámpara de papel cálida; en primer plano, un hombre de pelo largo, barba y gafas se inclina hacia una mujer que lo escucha pensativa, con los palillos en la mano, al estilo de Toulouse-Lautrec.](img/cgbabh_cena-miami-beach.jpg)](img/cgbabh_cena-miami-beach.jpg)
@@ -46,6 +48,8 @@ Este libro está dedicado a Amy Tan, que me dijo de una manera muy simple y dire
 
 Los otros dos prólogos son más cortos. El segundo dice que este es un libro corto porque casi todos los libros sobre escribir están llenos de *bullshit*, la palabra que usa para la paja. Hace una excepción: *The Elements of Style*, de William Strunk Jr. y E. B. White, que tiene ochenta y cinco páginas y casi nada de paja. Su regla 17 es «Omit needless words»: omite las palabras que sobran. King promete: «I will try to do that here», intentaré hacerlo aquí. El tercero es una nota breve para su editor: hay una regla del camino que el libro no dice en otro sitio, «el editor siempre tiene la razón», y ningún escritor sigue todos los consejos del suyo, pero escribir es humano y editar es divino. Chuck Verrill editó este libro, como tantas novelas de King, y el prólogo cierra con un agradecimiento: «Y como siempre, Chuck, estuviste divino». Lo firma «Steve». Después de los prólogos empieza el libro, con La memoria
 
+---
+
 ## La memoria
 
 ### El paisaje con niebla
@@ -72,6 +76,8 @@ El curriculum vitae es el papel donde uno cuenta sus estudios y sus oficios; Kin
 
 Pide no buscar una línea que una los puntos: no hay líneas, solo instantáneas, la mayoría desenfocadas.
 
+---
+
 ### El niño forzudo
 
 Su primer recuerdo es imaginarse otro: el Forzudo del circo Ringling Brothers, en casa de la tía Ethelyn y el tío Oren, en Durham, Maine. Tiene dos años y medio, quizá tres. Levantó un bloque de cemento del garaje y lo cargó despacio, pero en su mente vestía piel de leopardo y cruzaba la pista central: la multitud en silencio, un foco marcando su paso. «¡Y solo tiene dos años!». Lo que no sabía: unas avispas anidaban en el bloque, y una le picó la oreja. Fue el peor dolor de su corta vida, por unos segundos:
@@ -95,6 +101,8 @@ No recuerdo si me llevaron al médico, y mi tía Ethelyn tampoco (el tío Oren, 
 «The Evil Cinderblock», con mayúsculas de villano de cuento, es broma de familia: el bloque era del tío Oren, y en su haber quedaron la picadura y los dedos machacados.
 
 La tía Ethelyn cierra la anécdota en broma, hablando con él: «¡Cómo aullaste, Stephen!». Y sentencia que aquel día estaba «ciertamente en plena voz» — «in fine voice», como se dice de un cantante en su mejor noche.
+
+---
 
 ### Siete huevos
 
@@ -142,6 +150,8 @@ Cuando mi madre volvió del trabajo ese día, la niñera dormía profundamente e
 
 «Stevie» es el diminutivo de Stephen con que lo llama Eula-Beulah; «yarked», la palabra que King usa para vomitar, es coloquial en inglés americano.
 
+---
+
 ### El tejado
 
 La temporada en West De Pere no fue ni larga ni buena: los echaron del apartamento del tercer piso, porque un vecino vio a David, el hermano de King, gateando por el tejado con sus seis años, y llamó a la policía. King no sabe dónde estaba su madre cuando pasó, ni dónde estaba la niñera de la semana. Solo sabe dónde estaba él:
@@ -156,6 +166,8 @@ El «heater» es el radiador de la calefacción, esa plancha de hierro con tubos
 
 David no se cayó: volvió al baño por su propio pie. Hoy tiene cincuenta y cinco años y vive en New Hampshire, el estado vecino de Maine, al noreste de Estados Unidos.
 
+---
+
 ### Ver morir
 
 King tenía cinco o seis años cuando le preguntó a su madre si alguna vez había visto morir a alguien. Sí, dijo ella: había visto morir a una persona y había oído morir a otra. ¿Cómo se puede oír morir a una persona? Era una muchacha que se ahogó frente a Prout's Neck en los años veinte: nadó mar adentro, pasó la resaca y no pudo volver; empezó a gritar pidiendo ayuda. Varios hombres intentaron alcanzarla, pero la resaca de ese día traía una corriente de fondo brava que los obligó a retroceder a todos. Al final solo pudieron quedarse ahí parados, turistas y gente del pueblo, y entre ellos la adolescente que sería la madre de King, esperando una lancha de rescate que nunca llegó y oyendo gritar a la muchacha hasta que se quedó sin fuerzas y se hundió. El cuerpo apareció en New Hampshire, dijo su madre. King preguntó qué edad tenía la muchacha:
@@ -169,6 +181,8 @@ Mamá dijo que tenía catorce años, luego me leyó un comic y me despachó a la
 «Prout's Neck» es un cabo de la costa de Maine (dato de fuera del libro), y «the rip» es la corriente de retorno que se forma en ciertas playas y arrastra mar adentro: quien nada contra ella se cansa hasta hundirse. «Townies» es el americano para los del pueblo, frente a los turistas de paso, y «packed me off to bed» es lo que suena: lo despachó a la cama. La respuesta de la madre tiene ese orden tremendo: primero el dato, catorce años, y luego el comic y la cama, como quien cierra un cuento cualquiera.
 
 Otro día le contó la que vio: un marinero que se tiró del tejado del Graymore Hotel, en Portland, Maine, y cayó en la calle. «He splattered» —se desparramó—, dijo su madre en su tono más de todos los días. Hizo una pausa y añadió: «Lo que salió de él era verde. Nunca lo he olvidado». «That makes two of us, Mom», contesta King: ya somos dos, mamá; él tampoco lo ha olvidado.
+
+---
 
 ### No va a doler
 
@@ -224,6 +238,8 @@ El proverbio americano tiene dos versos; King le añadió el tercero, el de la v
 
 Gritó tan largo y tan fuerte que todavía puede oírlo. Cree, de hecho, que en algún valle profundo de su cabeza aquel último grito todavía está haciendo eco.
 
+---
+
 ### Las amígdalas
 
 Poco tiempo después —sería enero o febrero de 1954, si la cuenta le sale bien— volvió el taxi. Esta vez el especialista no era el del oído, sino uno de garganta. Otra vez su madre en la sala de espera, otra vez él en la camilla con una enfermera revoloteando cerca, otra vez ese olor fuerte a alcohol, un aroma que todavía tiene el poder de duplicarle los latidos en cinco segundos. Pero lo único que apareció fue una especie de hisopo de garganta: picaba y sabía horrible, aunque después de la aguja larga del médico del oído era un paseo por el parque. El doctor de la garganta se puso un aparato interesante, sujeto a la cabeza con una correa: tenía un espejo en el medio y una luz brillante y feroz que salía de él como un tercer ojo. Le miró la garganta un buen rato, pidiéndole que abriera más hasta que le crujieron las quijadas, pero no le metió agujas, y por eso King lo quiso. Luego lo dejó cerrar la boca y llamó a su madre: «El problema son las amígdalas —dijo—. Parece que las hubiera arañado un gato. Habrá que sacarlas». Tiempo después, King recuerda ser llevado en la camilla bajo luces brillantes, con un hombre de máscara blanca inclinado sobre él:
@@ -256,6 +272,8 @@ El hombre de la máscara es el anestesista: el médico que duerme al paciente an
 
 «Cuando despiertes —añadió—, puedes comer todo el helado que quieras». Bajó un aparato sobre la cara de King; en el ojo de su memoria, ese aparato parece un motor fuera de borda, el que va colgado en la popa de las lanchas. Respiró hondo y todo se puso negro. Al despertar sí le permitieron todo el helado que quisiera, lo cual fue una buena broma a su costa, porque no quería nada: sentía la garganta hinchada y gorda. Pero mejor que el viejo truco de la aguja en el oído, eso sí; cualquier cosa habría sido mejor. Y cierra el recuerdo con una plegaria: «Take my tonsils if you have to, put a steel birdcage on my leg if you must, but God save me from the otiologist» —sáquenme las amígdalas si es preciso, pónganme una jaula de acero en la pierna si hace falta, pero Dios me guarde del oídologo.
 
+---
+
 ### Escribe uno tuyo
 
 Aquel año su hermano David saltó de una vez a cuarto grado y a King lo sacaron del colegio por completo: había perdido demasiado de primero, acordaron su madre y la escuela, y podría empezarlo de nuevo en otoño si la salud lo permitía. Casi todo ese año lo pasó en cama o sin salir de casa. Leyó unas seis toneladas de tebeos, pasó a Tom Swift y a Dave Dawson —un heroico piloto de la Segunda Guerra Mundial cuyos aviones siempre estaban «prop-clawing for altitude», arañando altura con la hélice— y de ahí a los cuentos de animales, de puro espeluznantes, de Jack London. En algún momento empezó a escribir sus propios cuentos. La imitación fue antes que la creación: copiaba los tebeos de Combat Casey palabra por palabra en su libreta Blue Horse —una marca americana de cuadernos de escuela—, añadiendo a veces sus propias descripciones donde parecían cuadrar. «They were camped in a big dratty farmhouse room», podía escribir; tardaría uno o dos años en descubrir que «drat» y «draft» eran palabras distintas. Por ese tiempo creía que «details» eran «dentals», que una «bitch» era una mujer extremadamente alta y que un «son of a bitch» era, muy probablemente, un jugador de baloncesto. Cuando uno tiene seis años, la mayoría de sus bolas de bingo todavía flotan en el bombo. Un día le enseñó a su madre uno de esos híbridos de copia:
@@ -286,6 +304,8 @@ Ella pareció decepcionada, y eso le vació buena parte del gusto. Al final le d
 
 «Esos tebeos de Combat Casey son pura porquería —siguió—: siempre está sacándole los dientes a alguien. Apuesto a que tú puedes hacerlo mejor. Escribe uno tuyo».
 
+---
+
 ### A cuarto el cuento
 
 King obedeció. Le vino una inmensa sensación de posibilidad ante la idea, como si lo hubieran llevado a un vasto edificio lleno de puertas cerradas y le hubieran dado permiso de abrir las que quisiera: más puertas de las que una persona puede abrir en una vida, pensó, y todavía piensa. Escribió un cuento sobre cuatro animales mágicos que andaban por ahí en un carro viejo, ayudando a niños pequeños. Su líder era un gran conejo blanco llamado Mr. Rabbit Trick —algo así como «el señor Conejo Truco»—, y él era quien manejaba el carro. El cuento tenía cuatro páginas, impresas laboriosamente a lápiz. Nadie saltaba en él del tejado del Graymore Hotel —el hotel de Portland, Maine, del que se tiró el marinero que su madre vio caer—.
@@ -305,6 +325,8 @@ Se notaba que le gustaba —rió en todos los lugares correctos—, pero él no 
 Me dio un cuarto de dólar por cada uno y los hizo circular entre sus cuatro hermanas, que sentían un poco de lástima por ella, creo.
 
 Esas cuatro hermanas —las tías de King— estaban todas casadas; sus maridos se habían quedado. Es cierto que el tío Fred no tenía mucho sentido del humor y se empeñaba en llevar siempre puesta la capota de su convertible, y también es cierto que el tío Oren bebía bastante y tenía oscuras teorías sobre cómo los judíos manejaban el mundo, pero estaban ahí. Ruth —la madre se llamaba Nellie Ruth—, en cambio, se había quedado con el bebé en brazos cuando Don —el padre— se largó. Quería que ellas vieran que era un niño talentoso, al menos. Cuatro cuentos. Un cuarto por cuento. «That was the first buck I made in this business»: ese fue el primer dólar que gané en este oficio. «Buck» es el nombre callejero del dólar.
+
+---
 
 ### La jungla
 
@@ -342,6 +364,8 @@ Hice lo mío, y me encargué de la limpieza como había sugerido mi hermano mayo
 
 Las hojas resultaron ser hiedra venenosa —una planta americana cuyo roce produce un sarpullido fiero—. Dos días después estaba rojo vivo desde la parte de atrás de las rodillas hasta los omóplatos. El pene se salvó, pero los testículos se le pusieron como semáforos. El trasero le picaba, le parecía, hasta la caja torácica. Pero lo peor de todo fue la mano con que se había limpiado: se hinchó al tamaño de la de Mickey Mouse después de que el Pato Donald le ha pegado un martillazo, y le salieron ampollas gigantescas donde los dedos se frotaban entre sí; al reventar, dejaban hondos cráteres de carne viva y rosada. Durante seis semanas se sentó en baños tibios de almidón, sintiéndose miserable, humillado y estúpido, oyendo por la puerta abierta cómo su madre y su hermano se reían, escuchaban el conteo de Peter Tripp en la radio y jugaban Crazy Eights —un juego de cartas—.
 
+---
+
 ### El Súper Duper Electromán
 
 Dave era un gran hermano, pero demasiado listo para un niño de diez años. Su inteligencia siempre lo metía en problemas, y en algún momento aprendió que casi siempre era posible lograr que el hermanito Stevie se pusiera con él en primera línea cuando había problemas en el aire. Nunca le pidió cargar con toda la culpa de sus a menudo brillantes metidas de pata —no era ni un alcahuete ni un cobarde—, pero en varias ocasiones le pidió compartirla. Por eso los dos se metieron en problemas cuando Dave represó el arroyo que cruzaba la jungla e inundó buena parte del bajo West Broad Street.
@@ -378,6 +402,8 @@ Ese día solo podíamos preguntarnos si nuestra madre vendría a vernos al refor
 
 Al final las luces volvieron y el camión de la electricidad se fue. No los atraparon, y vivieron para pelear otro día. Dave decidió que quizá construyera un Súper Duper Glider —un planeador— en lugar de un Súper Duper Electromán para su proyecto de ciencias. King, le informó, se daría el primer paseo. ¿No sería estupendo?
 
+---
+
 ### Video bullshit
 
 King nació en 1947 y en su casa no tuvieron el primer televisor hasta 1958. Lo primero que recuerda haber visto en él fue «Robot Monster», una película en la que un tipo vestido con un traje de mono y una pecera en la cabeza —Ro-Man, lo llamaban— corría por ahí tratando de matar a los últimos supervivientes de una guerra nuclear. Sintió que aquello era arte de muy alta categoría. También vio «Highway Patrol», con Broderick Crawford como el intrépido Dan Matthews, y «One Step Beyond», presentado por John Newland, el hombre de los ojos más espeluznantes del mundo. Estaban «Cheyenne» y «Sea Hunt», «Your Hit Parade» y «Annie Oakley»; estaba Tommy Rettig como el primero de los muchos amigos de Lassie, Jock Mahoney como The Range Rider y Andy Devine aullando «¡Eh, Wild Bill, espérame!» con su extraña voz aguda. Era todo un mundo de aventuras vicarias —vividas a través de otros— que venía empaquetado en blanco y negro, catorce pulgadas de ancho y patrocinado por marcas que todavía le suenan a poesía. Le encantaba todo aquello. Pero la tele llegó relativamente tarde a la casa de los King, y se alegra de ello.
@@ -389,6 +415,8 @@ King nació en 1947 y en su casa no tuvieron el primer televisor hasta 1958. Lo 
 Soy, si uno se detiene a pensarlo, miembro de un grupo bastante selecto: el último puñado de novelistas americanos que aprendieron a leer y escribir antes de aprender a comerse una ración diaria de basura audiovisual.
 
 «Video bullshit» es literal: porquería en video. Puede que esto no sea importante. Por otro lado, si estás empezando como escritor, hay peores ideas que pelar el cable del enchufe de tu televisor, enrollarle un clavo alrededor y volver a meterlo en la pared: mira qué salta, y hasta dónde. Solo una idea.
+
+---
 
 ### El Ackermonster
 
@@ -402,6 +430,8 @@ Unos veinte años después, mientras firmaba autógrafos en una librería de Los
 
 Forry quería que se lo firmara a él, y King supone que lo hizo, aunque todo el encuentro fue tan surrealista que no puede estar del todo seguro. «Talk about your ghosts» —hablamos de fantasmas—. Vaya por Dios.
 
+---
+
 ### Yo fui un ladrón de tumbas adolescente
 
 El primer cuento que King publicó de verdad salió en un fanzine de horror —una revista hecha por y para aficionados— editado por Mike Garrett, de Birmingham, Alabama —Mike sigue por ahí, y sigue en el negocio—.
@@ -413,6 +443,8 @@ El primer cuento que King publicó de verdad salió en un fanzine de horror —u
 Publicó esta novela corta bajo el título «In a Half-World of Terror» —«En un semimundo de terror»—, pero a mí me sigue gustando mucho más mi título.
 
 El suyo era «I Was a Teen-Age Grave-robber»: «Yo fui un ladrón de tumbas adolescente». ¡Súper duper! ¡Pum!
+
+---
 
 ### El Problema de Ruth
 
@@ -433,6 +465,8 @@ Ruth ya no andaría a la deriva, tratando de cuidar de dos niños mientras flota
 Odiaba su nuevo trabajo, creo: en su empeño por cuidar de ella, sus hermanas convirtieron a nuestra madre —autosuficiente, graciosa, un poco chiflada— en una aparcera que vivía una existencia casi sin dinero en efectivo.
 
 El dinero que las hermanas le enviaban cada mes cubría la comida y poco más. Les enviaban cajas de ropa. Hacia el final de cada verano, el tío Clayt y la tía Ella —que no eran, cree, parientes de verdad— traían cartones de vegetales enlatados y conservas. La casa en que vivían pertenecía a la tía Ethelyn y al tío Oren —sí, el tío Oren de las teorías sobre los judíos—. Y una vez que estuvo ahí, su madre quedó atrapada. Consiguió otro trabajo de verdad después de que los viejos murieran, pero vivió en esa casa hasta que el cáncer se la llevó. Cuando dejó Durham por última vez —David y su esposa Linda la cuidaron durante las últimas semanas de su última enfermedad—, tiene la idea de que probablemente estaba más que lista para irse.
+
+---
 
 ### Happy Stamps
 
@@ -472,6 +506,8 @@ Solo once millones quinientas noventa mil libretas por delante, piensa cuando te
 
 Tenía sus fallas, ese cuento —el agujero más grande era probablemente que a Roger no se le ocurriera, sencillamente, empezar de nuevo con otra goma—, pero era simpático, bastante original, y King sabía que había hecho un trabajo bastante bueno. Después de pasarse un buen rato estudiando los mercados en su ajada Writer's Digest, envió «Happy Stamps» a Alfred Hitchcock's Mystery Magazine. Volvió tres semanas después con una esquela de rechazo adjunta: llevaba el inconfundible perfil de Alfred Hitchcock en tinta roja y le deseaba buena suerte con su cuento. Al pie había un mensaje garabateado sin firma, la única respuesta personal que recibió de esa revista en ocho años de envíos periódicos. «Don't staple manuscripts —decía el posdata—. Loose pages plus paperclip equal correct way to submit copy»: no engrape los manuscritos; páginas sueltas más clip es la manera correcta de entregar el texto. Le pareció un consejo bastante frío, pero útil a su manera. Desde entonces nunca ha engrapado un manuscrito.
 
+---
+
 ### La noche del tigre
 
 Su cuarto de la casa de Durham estaba arriba, bajo los aleros. De noche podía echarse en la cama bajo uno de esos aleros —si se incorporaba de golpe, era capaz de darse un buen golpe en la cabeza— y leer a la luz de una lámpara de cuello de ganso que ponía en el techo una divertida boa constrictor de sombra. A veces la casa quedaba en silencio, salvo por el soplido de la caldera y el correteo de las ratas en el desván; a veces su abuela se pasaba una hora, cerca de la medianoche, gritando que alguien fuera a ver a Dick —le preocupaba que no le hubieran dado de comer—. Dick, un caballo que había tenido en sus días de maestra de escuela, llevaba muerto al menos cuarenta años. King tenía un escritorio bajo el otro alero, su vieja máquina de escribir Royal y un centenar de libros de bolsillo, en su mayoría de ciencia ficción, que alineaba a lo largo del zócalo. Sobre la cómoda había una Biblia —ganada por memorizar versículos en la Methodist Youth Fellowship, la agrupación juvenil metodista— y un tocadiscos Webcor con cambiador automático y un plato forrado de terciopelo verde suave. En él ponía sus discos, casi todos sencillos de 45 de Elvis, Chuck Berry, Freddy Cannon y Fats Domino. Le gustaba Fats: sabía rockear, y se notaba que se estaba divirtiendo.
@@ -493,6 +529,8 @@ La primera de aquellas notas esperanzadoras fue de Algis Budrys, entonces editor
 Lo reescribí y, por capricho, lo volví a enviar a F&SF.
 
 Esta vez lo compraron. Hay una cosa que ha notado: cuando has tenido un poco de éxito, las revistas son mucho menos propensas a usar esa frase, «No para nosotros».
+
+---
 
 ### Dave's Rag
 
@@ -525,6 +563,8 @@ Lo que el lunes parecía bastante corriente, para el fin de semana a veces parec
 Éramos capaces de armar en dos noches lo que antes tomaba una semana con el hectógrafo, y aunque la rotativa de tambor era sucia, no parecía infectada con una enfermedad potencialmente mortal.
 
 Dave's Rag entró en su breve edad de oro.
+
+---
 
 ### El pozo y el péndulo
 
@@ -600,6 +640,8 @@ Su actitud no lo sorprendió mucho. La señorita Hisler había sido su maestra e
 
 La señorita Hisler le dijo que tendría que devolverle el dinero a todo el mundo. Lo hizo sin discutir, incluso a los chicos —y hubo bastantes, dice con gusto— que insistieron en quedarse con sus ejemplares de V.I.B. #1. Al final salió perdiendo dinero en el negocio; pero cuando llegaron las vacaciones de verano, imprimió cuatro docenas de ejemplares de un cuento nuevo, uno original llamado «The Invasion of the Star-Creatures», y vendió todos menos cuatro o cinco. Supone que eso significa que al final ganó, al menos en el sentido financiero. Pero en su corazón siguió avergonzado. Seguía oyendo a la señorita Hisler preguntar por qué quería desperdiciar su talento, por qué quería desperdiciar su tiempo, por qué quería escribir basura.
 
+---
+
 ### The Village Vomit
 
 Hacer un serial para el Dave's Rag era divertido, pero el resto del periodismo lo aburría. Aun así, se corrió la voz de que había trabajado en un periódico, y en su segundo año de Lisbon High —«sophomore year», el segundo de los cuatro cursos de la high school americana— lo nombraron editor del periódico escolar, The Drum, «el Tambor»: no recuerda que le dieran opción. Su segundo de a bordo, Danny Emond, tenía aún menos interés en el periódico que él; a Danny lo que le gustaba era que el Salón 4, donde trabajaban, quedara cerca del baño de las muchachas. The Drum no prosperó bajo su dirección: en el año escolar 1963-1964 publicó un solo número, aunque ese único número era un monstruo más grueso que la guía telefónica de Lisbon Falls. Una noche —harto de los Reportes de Clase, las Novedades de las Porristas y los esfuerzos de algún descerebrado por escribir un poema escolar—, cuando debía estar poniéndole leyendas a las fotos, creó su propio periódico satírico: un pliego de cuatro páginas llamado The Village Vomit, «el Vómito del Pueblo». Su lema enmarcado en la esquina superior izquierda no era «All the News That's Fit to Print» —«todas las noticias que merecen imprimirse», el lema del New York Times, dato de fuera del libro— sino «All the Shit That Will Stick»: toda la mierda que se pegue. Ese chiste de idiota le trajo el único problema serio de su época escolar, y también la lección de escritura más útil que recibió jamás.
@@ -660,6 +702,8 @@ A Miss Margitan lo que yo escribí sí la había dolido de verdad, y eso sí pod
 
 No cree que ella lo odiara —probablemente estaba demasiado ocupada—, pero era la asesora de la National Honor Society —una sociedad escolar de honor para los mejores estudiantes, dato de fuera del libro—, y cuando su nombre apareció en la lista de candidatos dos años después, ella lo vetó: la Honor Society no necesitaba chicos «de su tipo». Él ha llegado a creer que tenía razón: un chico que una vez se limpió el trasero con hiedra venenosa probablemente no pertenece a un club de gente lista. Desde entonces no se ha dado mucho con la sátira.
 
+---
+
 ### Con la puerta cerrada
 
 Apenas una semana después de salir del salón de detención, King volvió a ser invitado a bajar a la oficina del director. Fue con el corazón encogido, preguntándose en qué nueva mierda habría pisado. Pero no era el señor Higgins quien quería verlo: era el orientador escolar. Había habido discusiones sobre él, dijo, sobre cómo encauzar su «restless pen», su pluma inquieta; el orientador había preguntado a John Gould, el editor del semanario de Lisbon, y resultó que Gould tenía una vacante para un cronista deportivo. La escuela no podía obligarlo, pero toda la administración pensaba que sería una buena idea. Hazlo o muere, sugerían los ojos del orientador. King gruñó por dentro: apenas se había sacudido de encima el Dave's Rag y casi The Drum, y ahora venía el Lisbon Weekly Enterprise. De adolescente no estaba perseguido por las aguas, como el Norman Maclean de «A River Runs Through It» —la novela del río y de la pesca con mosca, dato de fuera del libro—, sino por los periódicos. ¿Qué podía hacer? Dijo que estaría encantado de presentarse a la entrevista. Gould —no el famoso humorista de Nueva Inglaterra ni el novelista de «The Greenleaf Fires», sino pariente de ambos, cree King— lo recibió con cautela pero con cierto interés: se probarían el uno al otro, si a él le parecía bien. Ya lejos de las oficinas de Lisbon High, King se permitió un poco de honestidad y le dijo al señor Gould que no sabía mucho de deportes. «Son juegos que la gente entiende cuando los mira borracha en los bares —dijo Gould—. Aprenderás si lo intentas».
@@ -709,6 +753,8 @@ Es decir: tu texto empieza siendo solo para ti, pero luego sale al mundo. Una ve
 > <small>Frase 736</small>
 
 Si tienes mucha suerte —esto es idea mía, no de John Gould, aunque creo que él la habría suscrito—, serán más los que quieran hacer lo primero que lo segundo.
+
+---
 
 ### Ratas grandes como perros
 
