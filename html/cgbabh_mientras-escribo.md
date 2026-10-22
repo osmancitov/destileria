@@ -400,6 +400,20 @@ Ese día solo podíamos preguntarnos si nuestra madre vendría a vernos al refor
 
 Al final las luces volvieron y el camión de la electricidad se fue. No los atraparon, y vivieron para pelear otro día. Dave decidió que quizá construyera un Súper Duper Glider —un planeador— en lugar de un Súper Duper Electromán para su proyecto de ciencias. King, le informó, se daría el primer paseo. ¿No sería estupendo?
 
+### Video bullshit
+
+[![Óleo: un niño de unos once años sentado en el suelo de una sala oscura, cara a cara con un televisor pequeño de catorce pulgadas en cuya pantalla de blanco y negro se ve un monstruo con traje de mono y una pecera en la cabeza; el resplandor de la pantalla ilumina al niño.](img/cgbacb_mientras-escribo_video-bullshit.jpg)](img/cgbacb_mientras-escribo_video-bullshit.jpg)
+
+King nació en 1947 y en su casa no tuvieron el primer televisor hasta 1958. Lo primero que recuerda haber visto en él fue «Robot Monster», una película en la que un tipo vestido con un traje de mono y una pecera en la cabeza —Ro-Man, lo llamaban— corría por ahí tratando de matar a los últimos supervivientes de una guerra nuclear. Sintió que aquello era arte de muy alta categoría. También vio «Highway Patrol», con Broderick Crawford como el intrépido Dan Matthews, y «One Step Beyond», presentado por John Newland, el hombre de los ojos más espeluznantes del mundo. Estaban «Cheyenne» y «Sea Hunt», «Your Hit Parade» y «Annie Oakley»; estaba Tommy Rettig como el primero de los muchos amigos de Lassie, Jock Mahoney como The Range Rider y Andy Devine aullando «¡Eh, Wild Bill, espérame!» con su extraña voz aguda. Era todo un mundo de aventuras vicarias —vividas a través de otros— que venía empaquetado en blanco y negro, catorce pulgadas de ancho y patrocinado por marcas que todavía le suenan a poesía. Le encantaba todo aquello. Pero la tele llegó relativamente tarde a la casa de los King, y se alegra de ello.
+
+> I am, when you stop to think of it, a member of a fairly select group: the final handful of American novelists who learned to read and write before they learned to eat a daily helping of video bullshit.
+>
+> <small>Frase 393</small>
+
+Soy, si uno se detiene a pensarlo, miembro de un grupo bastante selecto: el último puñado de novelistas americanos que aprendieron a leer y escribir antes de aprender a comerse una ración diaria de basura audiovisual.
+
+«Video bullshit» es literal: porquería en video. Puede que esto no sea importante. Por otro lado, si estás empezando como escritor, hay peores ideas que pelar el cable del enchufe de tu televisor, enrollarle un clavo alrededor y volver a meterlo en la pared: mira qué salta, y hasta dónde. Solo una idea.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
