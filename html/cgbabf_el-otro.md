@@ -87,4 +87,4 @@ El verso de la hidra viene de «Ce que dit la bouche d’ombre» («Lo que dice 
 
 ---
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito

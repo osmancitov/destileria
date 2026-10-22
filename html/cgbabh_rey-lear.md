@@ -892,4 +892,4 @@ Edgar
 
 *«El más viejo ha cargado más; nosotros, los jóvenes, no veremos tanto ni viviremos tanto».*
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito

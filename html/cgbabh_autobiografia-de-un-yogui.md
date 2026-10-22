@@ -4018,6 +4018,6 @@ Yogananda
 
 Yogananda
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 [volver](../destileria.html)

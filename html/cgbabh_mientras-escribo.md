@@ -26,6 +26,6 @@ El curriculum vitae es el papel donde uno cuenta sus estudios y sus oficios; Kin
 
 Pide no buscar una línea que una los puntos: no hay líneas, solo instantáneas, la mayoría desenfocadas.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 [volver](../destileria.html)

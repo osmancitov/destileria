@@ -1196,4 +1196,4 @@ Macduff
 
 *Malcolm rey: sus thanes serán desde hoy condes, los primeros que Escocia nombra con tal honor; llamará de vuelta a los exiliados; sacará a la luz a los ministros crueles «de este carnicero muerto y de su reina de aspecto demoníaco, que, según se piensa, con su propia mano violenta se quitó la vida». Y cierra la obra: «Así, gracias a todos a la vez y a cada uno, a quienes invitamos a vernos coronados en Scone».*
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito

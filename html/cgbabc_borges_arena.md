@@ -542,4 +542,4 @@ El libro es monstruoso: un objeto de pesadilla, una cosa obscena que infama y co
 
 ---
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
