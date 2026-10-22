@@ -270,6 +270,38 @@ El hombre de la máscara es el anestesista: el médico que duerme al paciente an
 
 «Cuando despiertes —añadió—, puedes comer todo el helado que quieras». Bajó un aparato sobre la cara de King; en el ojo de su memoria, ese aparato parece un motor fuera de borda, el que va colgado en la popa de las lanchas. Respiró hondo y todo se puso negro. Al despertar sí le permitieron todo el helado que quisiera, lo cual fue una buena broma a su costa, porque no quería nada: sentía la garganta hinchada y gorda. Pero mejor que el viejo truco de la aguja en el oído, eso sí; cualquier cosa habría sido mejor. Y cierra el recuerdo con una plegaria: «Take my tonsils if you have to, put a steel birdcage on my leg if you must, but God save me from the otiologist» —sáquenme las amígdalas si es preciso, pónganme una jaula de acero en la pierna si hace falta, pero Dios me guarde del oídologo.
 
+### Escribe uno tuyo
+
+[![Óleo: en la mesa de una cocina humilde, un niño de seis años copia con lápiz un tebeo abierto en un cuaderno escolar, y su madre joven se inclina a mirarlo con una sonrisa asombrada.](img/cgbacb_mientras-escribo_escribe-uno-tuyo.jpg)](img/cgbacb_mientras-escribo_escribe-uno-tuyo.jpg)
+
+Aquel año su hermano David saltó de una vez a cuarto grado y a King lo sacaron del colegio por completo: había perdido demasiado de primero, acordaron su madre y la escuela, y podría empezarlo de nuevo en otoño si la salud lo permitía. Casi todo ese año lo pasó en cama o sin salir de casa. Leyó unas seis toneladas de tebeos, pasó a Tom Swift y a Dave Dawson —un heroico piloto de la Segunda Guerra Mundial cuyos aviones siempre estaban «prop-clawing for altitude», arañando altura con la hélice— y de ahí a los cuentos de animales, de puro espeluznantes, de Jack London. En algún momento empezó a escribir sus propios cuentos. La imitación fue antes que la creación: copiaba los tebeos de Combat Casey palabra por palabra en su libreta Blue Horse —una marca americana de cuadernos de escuela—, añadiendo a veces sus propias descripciones donde parecían cuadrar. «They were camped in a big dratty farmhouse room», podía escribir; tardaría uno o dos años en descubrir que «drat» y «draft» eran palabras distintas. Por ese tiempo creía que «details» eran «dentals», que una «bitch» era una mujer extremadamente alta y que un «son of a bitch» era, muy probablemente, un jugador de baloncesto. Cuando uno tiene seis años, la mayoría de sus bolas de bingo todavía flotan en el bombo. Un día le enseñó a su madre uno de esos híbridos de copia:
+
+> Eventually I showed one of these copycat hybrids to my mother, and she was charmed—I remember her slightly amazed smile, as if she was unable to believe a kid of hers could be so smart—practically a damned prodigy, for God’s sake.
+>
+> <small>Frase 274</small>
+
+Con el tiempo le enseñé uno de esos híbridos imitados a mi madre, y quedó encantada: recuerdo su sonrisa un poco asombrada, como si no pudiera creer que un hijo suyo pudiera ser tan listo, un maldito prodigio, prácticamente, por el amor de Dios.
+
+El «copycat hybrid» es eso: un cuento mitad copiado, mitad remendado por él. Y nunca había visto esa mirada en la cara de su madre, no por él, al menos; le encantó.
+
+> She asked me if I had made the story up myself, and I was forced to admit that I had copied most of it out of a funny-book.
+>
+> <small>Frase 276</small>
+
+Me preguntó si había inventado el cuento yo solo, y me vi obligado a admitir que la mayor parte la había copiado de un tebeo.
+
+«Funny-book» es otro nombre del tebeo, el cuadernillo de historietas; «make up» es inventar.
+
+Ella pareció decepcionada, y eso le vació buena parte del gusto. Al final le devolvió la libreta:
+
+> “Write one of your own, Stevie,” she said.
+>
+> <small>Frase 279</small>
+
+—Escribe uno tuyo, Stevie —dijo.
+
+«Esos tebeos de Combat Casey son pura porquería —siguió—: siempre está sacándole los dientes a alguien. Apuesto a que tú puedes hacerlo mejor. Escribe uno tuyo».
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
