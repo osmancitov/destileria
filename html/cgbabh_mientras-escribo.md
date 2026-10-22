@@ -638,6 +638,68 @@ Su actitud no lo sorprendió mucho. La señorita Hisler había sido su maestra e
 
 La señorita Hisler le dijo que tendría que devolverle el dinero a todo el mundo. Lo hizo sin discutir, incluso a los chicos —y hubo bastantes, dice con gusto— que insistieron en quedarse con sus ejemplares de V.I.B. #1. Al final salió perdiendo dinero en el negocio; pero cuando llegaron las vacaciones de verano, imprimió cuatro docenas de ejemplares de un cuento nuevo, uno original llamado «The Invasion of the Star-Creatures», y vendió todos menos cuatro o cinco. Supone que eso significa que al final ganó, al menos en el sentido financiero. Pero en su corazón siguió avergonzado. Seguía oyendo a la señorita Hisler preguntar por qué quería desperdiciar su talento, por qué quería desperdiciar su tiempo, por qué quería escribir basura.
 
+### The Village Vomit
+
+[![Óleo: en la oficina del director de una escuela americana de los sesenta, un adolescente alto y flaco está de pie con la cabeza baja frente a una maestra anciana y severa, sentada muy erguida con las manos artríticas cruzadas en el regazo y los ojos grises fijos en él; detrás del escritorio, el director calvo los observa.](img/cgbacb_mientras-escribo_the-village-vomit.jpg)](img/cgbacb_mientras-escribo_the-village-vomit.jpg)
+
+Hacer un serial para el Dave's Rag era divertido, pero el resto del periodismo lo aburría. Aun así, se corrió la voz de que había trabajado en un periódico, y en su segundo año de Lisbon High —«sophomore year», el segundo de los cuatro cursos de la high school americana— lo nombraron editor del periódico escolar, The Drum, «el Tambor»: no recuerda que le dieran opción. Su segundo de a bordo, Danny Emond, tenía aún menos interés en el periódico que él; a Danny lo que le gustaba era que el Salón 4, donde trabajaban, quedara cerca del baño de las muchachas. The Drum no prosperó bajo su dirección: en el año escolar 1963-1964 publicó un solo número, aunque ese único número era un monstruo más grueso que la guía telefónica de Lisbon Falls. Una noche —harto de los Reportes de Clase, las Novedades de las Porristas y los esfuerzos de algún descerebrado por escribir un poema escolar—, cuando debía estar poniéndole leyendas a las fotos, creó su propio periódico satírico: un pliego de cuatro páginas llamado The Village Vomit, «el Vómito del Pueblo». Su lema enmarcado en la esquina superior izquierda no era «All the News That's Fit to Print» —«todas las noticias que merecen imprimirse», el lema del New York Times, dato de fuera del libro— sino «All the Shit That Will Stick»: toda la mierda que se pegue. Ese chiste de idiota le trajo el único problema serio de su época escolar, y también la lección de escritura más útil que recibió jamás.
+
+Al estilo típico de la revista Mad, llenó el Vomit de chismes ficticios sobre el profesorado usando apodos que todo el alumnado reconocería al instante: la señorita Raypach, la celadora del salón de estudio, pasó a ser Miss Rat Pack; el señor Ricker, profesor de inglés y el docente más urbano de la escuela, Cow Man, «el Hombre Vaca», porque su familia era dueña de la lechería Ricker; el señor Diehl, el de ciencias de la tierra, Old Raw Diehl. Él mismo firmaba como Editor en Jefe y Gran Sumo Poobah. Estaba encantado con su propio ingenio: un Mencken de pueblo molinero —H. L. Mencken, periodista y sátiro americano famoso por su mordacidad, dato de fuera del libro—. A sus amigos les encantó: en un artículo, la vaca Jersey premiada de Cow Man ganaba un concurso de flatulencias de ganado en la feria de Topsham; en otro, despedían a Old Raw Diehl por meterse en las fosas nasales los ojos de los cerditos fetales de los especímenes de laboratorio. Pero en la cuarta hora, tres de sus amigos se reían tan fuerte al fondo del salón de estudio que Miss Raypach se les acercó sigilosamente a ver qué era tan gracioso. Confiscó el Vomit, y al cierre de clases King fue llamado por segunda vez en su vida de estudiante a la oficina del director por culpa de algo que había escrito.
+
+Casi todos los profesores estuvieron dispuestos a tomarse a bien la broma —hasta Old Raw Diehl dejó pasar lo de los ojos de cerdo—, pero una no. Miss Margitan enseñaba taquigrafía y mecanografía a las chicas de los cursos comerciales; inspiraba respeto y miedo, de la vieja escuela: no quería ser tu amiga, tu psicóloga ni tu inspiración. A veces hacía arrodillarse a las muchachas en clase, y si el ruedo de la falda no tocaba el linóleo las mandaba a casa a cambiarse. Sus listas de detenidas eran las más largas de la escuela, y sin embargo sus chicas salían elegidas rutinariamente como las mejores del curso y conseguían buenos trabajos; muchas llegaron a quererla. Otras la odiaron y la odian todavía. Esas la llamaban «Maggot» Margitan —maggot es gusano—, como sin duda las habían llamado sus madres antes que ellas. Y en el Vomit, King publicó una nota que empezaba: «Miss Margitan, conocida afectuosamente por lisbonianos de todas partes como Maggot...».
+
+> Mr. Higgins, our bald principal (breezily referred to in the Vomit as Old Cue-Ball), told me that Miss Margitan had been very hurt and very upset by what I had written.
+>
+> <small>Frase 657</small>
+
+El señor Higgins, nuestro director calvo —al que el Vomit se refería con toda confianza como Old Cue-Ball, «la Vieja Bola de Billar»—, me dijo que Miss Margitan estaba muy dolida y muy alterada por lo que yo había escrito.
+
+> She was apparently not too hurt to remember that old scriptural admonition which goes “Vengeance is mine, saith the shorthand teacher,” however; Mr. Higgins said she wanted me suspended from school.
+>
+> <small>Frase 658</small>
+
+Sin embargo, al parecer no estaba demasiado dolida para recordar aquella vieja amonestación de las Escrituras que dice «Mía es la venganza, dice la maestra de taquigrafía»; el señor Higgins dijo que ella quería que me expulsaran de la escuela.
+
+La broma tuerce el versículo bíblico «Vengeance is mine, saith the Lord», «mía es la venganza, dice el Señor». En el carácter de King se enrollan como los pelos de una trenza una veta salvaje y un conservadurismo profundo: la parte loca escribió el Vomit y lo llevó a la escuela, pero ese problemático señor Hyde se escabulló por la puerta trasera —la referencia es a «El extraño caso del Dr. Jekyll y Mr. Hyde», la novela de Stevenson sobre un doctor bondadoso y su doble malvado, dato de fuera del libro—, y al doctor Jekyll le tocó quedarse a imaginar los ojos dolidos de su madre si se enteraba de la expulsión. Tenía que sacarla de su mente, y rápido: medía seis pies dos pulgadas —uno ochenta y ocho— y no quería llorar en la oficina del señor Higgins, no con los chicos pasando por los pasillos y mirando curiosos por la ventana.
+
+> In the end, Miss Margitan settled for a formal apology and two weeks of detention for the bad boy who had dared call her Maggot in print.
+>
+> <small>Frase 665</small>
+
+Al final, Miss Margitan se conformó con una disculpa formal y dos semanas de detención para el chico malo que se había atrevido a llamarla Maggot en letra impresa.
+
+Malo, sí; pero ¿qué cosa de la high school no lo es? Mientras uno está atrapado ahí dentro, la escuela parece el asunto más serio del mundo; solo en la segunda o tercera reunión de exalumnos uno empieza a notar lo absurdo que era todo. Un día o dos después, King fue llevado a la oficina del director y puesto de pie frente a ella.
+
+> Miss Margitan sat ramrod-straight with her arthritic hands folded in her lap and her gray eyes fixed unflinchingly on my face, and I realized that something about her was different from any other adult I had ever met.
+>
+> <small>Frase 670</small>
+
+Miss Margitan estaba sentada erguida como un palo de escoba, con las manos artríticas cruzadas en el regazo y los ojos grises fijos en mi cara sin pestañear, y comprendí que había en ella algo distinto de cualquier otro adulto que yo hubiera conocido.
+
+No supo nombrar la diferencia de inmediato, pero entendió que a esa señora no había forma de encantarla ni de ganársela.
+
+> Later, while I was flying paper planes with the other bad boys and bad girls in detention hall (detention turned out to be not so bad), I decided that it was pretty simple: Miss Margitan didn’t like boys.
+>
+> <small>Frase 672</small>
+
+Más tarde, mientras lanzaba aviones de papel con los otros chicos y chicas malos del salón de detención —la detención resultó no ser tan mala—, decidí que era bastante simple: a Miss Margitan no le gustaban los chicos.
+
+> She was the first woman I ever met in my life who didn’t like boys, not even one little bit.
+>
+> <small>Frase 673</small>
+
+Era la primera mujer que yo conocía en la vida a la que no le gustaban los chicos, ni un poquito siquiera.
+
+Si sirve de algo, dice King, su disculpa fue sincera.
+
+> Miss Margitan really had been hurt by what I wrote, and that much I could understand.
+>
+> <small>Frase 675</small>
+
+A Miss Margitan lo que yo escribí sí la había dolido de verdad, y eso sí podía entenderlo.
+
+No cree que ella lo odiara —probablemente estaba demasiado ocupada—, pero era la asesora de la National Honor Society —una sociedad escolar de honor para los mejores estudiantes, dato de fuera del libro—, y cuando su nombre apareció en la lista de candidatos dos años después, ella lo vetó: la Honor Society no necesitaba chicos «de su tipo». Él ha llegado a creer que tenía razón: un chico que una vez se limpió el trasero con hiedra venenosa probablemente no pertenece a un club de gente lista. Desde entonces no se ha dado mucho con la sátira.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
