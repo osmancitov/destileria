@@ -8,6 +8,8 @@
 
 ### La pregunta de Amy
 
+[![Pintura: una mesa redonda de restaurante chino de noche, con comensales que brindan y comparten platos bajo una lámpara de papel cálida; en primer plano, un hombre de pelo largo, barba y gafas se inclina hacia una mujer que lo escucha pensativa, con los palillos en la mano, al estilo de Toulouse-Lautrec.](img/cgbabh_cena-miami-beach.jpg)](img/cgbabh_cena-miami-beach.jpg)
+
 El primer prólogo no empieza con el libro, sino con una banda. King cuenta cómo, hace años, se metió en un grupo de rock hecho casi todo de escritores:
 
 > In the early nineties (it might have been 1992, but it’s hard to remember when you’re having a good time) I joined a rock-and-roll band composed mostly of writers.
