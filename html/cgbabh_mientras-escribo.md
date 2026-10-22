@@ -1,7 +1,5 @@
 # Mientras escribo
 
-[![Ilustración editorial: recuerdos de infancia, lectura y escritura en un paisaje de invierno.](img/1-cgbabh_mientras-escribo_cv_og.jpg)](img/1-cgbabh_mientras-escribo_cv_og.jpg)
-
 *Mientras escribo* es el título castellano de *On Writing*, el libro en que Stephen King cuenta cómo llegó al oficio y cómo se hace. Salió en el año 2000. Antes de entrar en materia trae tres prólogos cortos; después viene el cuerpo del libro: una memoria, el C.V., y luego qué es escribir, la caja de herramientas y más. Aquí lo destilamos en ese orden, empezando por lo primero que King pone en manos del lector: los prólogos.
 
 ## Los prólogos
