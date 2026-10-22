@@ -428,6 +428,20 @@ Unos veinte años después, mientras firmaba autógrafos en una librería de Los
 
 Forry quería que se lo firmara a él, y King supone que lo hizo, aunque todo el encuentro fue tan surrealista que no puede estar del todo seguro. «Talk about your ghosts» —hablamos de fantasmas—. Vaya por Dios.
 
+### Yo fui un ladrón de tumbas adolescente
+
+[![Grabado: un adolescente con una pala al hombro camina de noche entre lápidas torcidas bajo una luna llena enorme, con un saco al hombro, mirando de reojo como quien no quiere ser visto; estilo de revista de horror de los años sesenta.](img/cgbacb_mientras-escribo_ladron-de-tumbas.jpg)](img/cgbacb_mientras-escribo_ladron-de-tumbas.jpg)
+
+El primer cuento que King publicó de verdad salió en un fanzine de horror —una revista hecha por y para aficionados— editado por Mike Garrett, de Birmingham, Alabama —Mike sigue por ahí, y sigue en el negocio—.
+
+> He published this novella under the title “In a Half-World of Terror,” but I still like my title much better.
+>
+> <small>Frase 411</small>
+
+Publicó esta novela corta bajo el título «In a Half-World of Terror» —«En un semimundo de terror»—, pero a mí me sigue gustando mucho más mi título.
+
+El suyo era «I Was a Teen-Age Grave-robber»: «Yo fui un ladrón de tumbas adolescente». ¡Súper duper! ¡Pum!
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
