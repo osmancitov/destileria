@@ -2,7 +2,7 @@
 
 [![Óleo: una vieja caja de herramientas de carpintero abierta sobre el escritorio de un escritor, con un manuscrito mecanografiado y una pluma entre las herramientas, una máquina de escribir y una pila de cuartillas al lado, en luz cálida de taller al final de la tarde.](img/cgbabh_mientras-escribo.jpg)](img/cgbabh_mientras-escribo.jpg)
 
-*Mientras escribo* es el título castellano de *On Writing*, el libro en que Stephen King cuenta cómo llegó al oficio y cómo se hace. Salió en el año 2000. Antes de entrar en materia trae tres prólogos cortos; después viene el cuerpo del libro: una memoria, el C.V., y luego qué es escribir, la caja de herramientas y más. Aquí lo destilamos en ese orden, empezando por lo primero que King pone en manos del lector: los prólogos.
+*Mientras escribo* es el título castellano de *On Writing*, el libro en que Stephen King cuenta cómo llegó al oficio y cómo se hace. Salió en el año 2000. Antes de entrar en materia trae tres prólogos cortos; después viene el cuerpo del libro: una memoria, La memoria, y luego qué es escribir, la caja de herramientas y más. Aquí lo destilamos en ese orden, empezando por lo primero que King pone en manos del lector: los prólogos.
 
 ## Los prólogos
 
@@ -42,9 +42,9 @@ Amy lo pensó con calma y contestó: «No one ever asks about the language», na
 
 Este libro está dedicado a Amy Tan, que me dijo de una manera muy simple y directa que estaba bien escribirlo.
 
-Los otros dos prólogos son más cortos. El segundo dice que este es un libro corto porque casi todos los libros sobre escribir están llenos de *bullshit*, la palabra que usa para la paja. Hace una excepción: *The Elements of Style*, de William Strunk Jr. y E. B. White, que tiene ochenta y cinco páginas y casi nada de paja. Su regla 17 es «Omit needless words»: omite las palabras que sobran. King promete: «I will try to do that here», intentaré hacerlo aquí. El tercero es una nota breve para su editor: hay una regla del camino que el libro no dice en otro sitio, «el editor siempre tiene la razón», y ningún escritor sigue todos los consejos del suyo, pero escribir es humano y editar es divino. Chuck Verrill editó este libro, como tantas novelas de King, y el prólogo cierra con un agradecimiento: «Y como siempre, Chuck, estuviste divino». Lo firma «Steve». Después de los prólogos empieza el libro, con el C.V.
+Los otros dos prólogos son más cortos. El segundo dice que este es un libro corto porque casi todos los libros sobre escribir están llenos de *bullshit*, la palabra que usa para la paja. Hace una excepción: *The Elements of Style*, de William Strunk Jr. y E. B. White, que tiene ochenta y cinco páginas y casi nada de paja. Su regla 17 es «Omit needless words»: omite las palabras que sobran. King promete: «I will try to do that here», intentaré hacerlo aquí. El tercero es una nota breve para su editor: hay una regla del camino que el libro no dice en otro sitio, «el editor siempre tiene la razón», y ningún escritor sigue todos los consejos del suyo, pero escribir es humano y editar es divino. Chuck Verrill editó este libro, como tantas novelas de King, y el prólogo cierra con un agradecimiento: «Y como siempre, Chuck, estuviste divino». Lo firma «Steve». Después de los prólogos empieza el libro, con La memoria
 
-## C.V.
+## La memoria
 
 ### El paisaje con niebla
 
@@ -66,7 +66,7 @@ Nunca lo encontró. La madre, Nellie Ruth Pillsbury King, fue de las primeras mu
 
 Así fue para mí, eso es todo: un proceso de crecimiento desordenado en el que la ambición, el deseo, la suerte y un poco de talento jugaron su papel.
 
-El curriculum vitae es el papel donde uno cuenta sus estudios y sus oficios; King juega con eso: esto es el C.V. de un escritor, no la historia de su vida.
+El curriculum vitae es el papel donde uno cuenta sus estudios y sus oficios; King juega con eso: esto es La memoria de un escritor, no la historia de su vida.
 
 Pide no buscar una línea que una los puntos: no hay líneas, solo instantáneas, la mayoría desenfocadas.
 
