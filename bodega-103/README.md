@@ -1,4 +1,4 @@
-![Destilería Osmancito](../img/destileria.jpg)
+[![Destilería Osmancito](../img/destileria.jpg)](../img/destileria.jpg)
 
 [Lobby](https://github.com/osmancitov/osmancitov.github.io/blob/main/README.md) · [Destilería](https://github.com/osmancitov/destileria/blob/main/README.md) · [Taller](https://github.com/osmancitov/taller/blob/main/README.md) · [Journal](https://github.com/osmancitov/journal/blob/main/README.md)
 

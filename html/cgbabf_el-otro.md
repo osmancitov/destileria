@@ -72,7 +72,7 @@ El dólar con fecha es la flor de Coleridge del cuento: la prueba que sobrevive 
 
 El verso de la hidra viene de «Ce que dit la bouche d’ombre» («Lo que dice la boca de sombra»), el poema de Victor Hugo que cierra el libro VI de *Les Contemplations* (1856, poema 26). La boca de sombra es la voz del espectro que le habla al poeta durante todo el poema. Este es el pasaje, en castellano (traducción de Instinct).
 
-![Óleo oscuro: una figura se deshace en polvo al caer por un pozo sin fondo hacia un sol negro cuyos rayos son franjas de tiniebla.](img/cgbabe_ce-que-dit-la-bouche-dombre_og.jpg)
+[![Óleo oscuro: una figura se deshace en polvo al caer por un pozo sin fondo hacia un sol negro cuyos rayos son franjas de tiniebla.](img/cgbabe_ce-que-dit-la-bouche-dombre_og.jpg)](img/cgbabe_ce-que-dit-la-bouche-dombre_og.jpg)
 
 > Allí zozobra y se hunde en oleadas de desastres  
 > la hidra Universo, torciendo su cuerpo escamado de astros;  

@@ -2,7 +2,7 @@
 
 # Ce que dit la bouche d’ombre
 
-![Óleo oscuro: una figura se deshace en polvo al caer por un pozo sin fondo hacia un sol negro cuyos rayos son franjas de tiniebla.](img/cgbabe_ce-que-dit-la-bouche-dombre_og.jpg)
+[![Óleo oscuro: una figura se deshace en polvo al caer por un pozo sin fondo hacia un sol negro cuyos rayos son franjas de tiniebla.](img/cgbabe_ce-que-dit-la-bouche-dombre_og.jpg)](img/cgbabe_ce-que-dit-la-bouche-dombre_og.jpg)
 
 Victor Hugo
 

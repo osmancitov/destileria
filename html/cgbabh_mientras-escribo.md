@@ -1,12 +1,12 @@
 # Mientras escribo
 
-![Ilustración editorial: recuerdos de infancia, lectura y escritura en un paisaje de invierno.](img/1-cgbabh_mientras-escribo_cv_og.jpg)
+[![Ilustración editorial: recuerdos de infancia, lectura y escritura en un paisaje de invierno.](img/1-cgbabh_mientras-escribo_cv_og.jpg)](img/1-cgbabh_mientras-escribo_cv_og.jpg)
 
 ## C.V.
 
 ### El paisaje con niebla
 
-![Óleo: un paisaje envuelto en niebla espesa, con árboles aislados de formas inquietantes y fotografías instantáneas desperdigadas por el suelo, la mayoría desenfocadas.](img/cgbacb_mientras-escribo_paisaje-niebla.jpg)
+[![Óleo: un paisaje envuelto en niebla espesa, con árboles aislados de formas inquietantes y fotografías instantáneas desperdigadas por el suelo, la mayoría desenfocadas.](img/cgbacb_mientras-escribo_paisaje-niebla.jpg)](img/cgbacb_mientras-escribo_paisaje-niebla.jpg)
 
 King se quedó pasmado con The Liars' Club, las memorias de la poeta americana Mary Karr: ella lo recuerda todo de su infancia. Él no. La suya fue a tirones, con una madre sola y quizá una temporada en casa de una tía:
 

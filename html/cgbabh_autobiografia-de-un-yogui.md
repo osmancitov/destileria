@@ -2,7 +2,7 @@
 
 # Autobiografía de un yogui
 
-![Óleo: un yogui de túnica ocre medita en la cornisa de un risco del Himalaya al amanecer, con picos nevados y un cielo inmenso, al estilo de Nicholas Roerich.](img/cgbabh_autobiografia-de-un-yogui_og.jpg)
+[![Óleo: un yogui de túnica ocre medita en la cornisa de un risco del Himalaya al amanecer, con picos nevados y un cielo inmenso, al estilo de Nicholas Roerich.](img/cgbabh_autobiografia-de-un-yogui_og.jpg)](img/cgbabh_autobiografia-de-un-yogui_og.jpg)
 
 Paramhansa Yogananda
 
@@ -10,7 +10,7 @@ Yogananda nació en la India de finales del siglo diecinueve y llegó a ser el g
 
 ## Capítulo 1: Mis padres y mi primera infancia
 
-![Óleo al estilo de Nicholas Roerich: un niño hindú ora ante el retrato luminoso de un sabio que parece cobrar vida, en una habitación humilde con los picos azules del Himalaya por la ventana.](img/cgbabh_autobiografia-de-un-yogui_i-1.jpg)
+[![Óleo al estilo de Nicholas Roerich: un niño hindú ora ante el retrato luminoso de un sabio que parece cobrar vida, en una habitación humilde con los picos azules del Himalaya por la ventana.](img/cgbabh_autobiografia-de-un-yogui_i-1.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-1.jpg)
 
 *El libro empieza con una confesión asombrosa: el autor dice que recuerda su vida anterior. De niño ya sabía que había sido un yogui del Himalaya.*
 
@@ -135,7 +135,7 @@ Uma, su hermana
 ## Capítulo 2: La muerte de mi madre y el amuleto místico
 
 
-![Óleo al estilo de Nicholas Roerich: un amuleto de plata con grabados astrológicos flota brillando sobre la palma de un niño hindú mientras la figura de su madre en sari se disuelve en luz dorada; al fondo, picos del Himalaya.](img/cgbabh_autobiografia-de-un-yogui_i-2.jpg)
+[![Óleo al estilo de Nicholas Roerich: un amuleto de plata con grabados astrológicos flota brillando sobre la palma de un niño hindú mientras la figura de su madre en sari se disuelve en luz dorada; al fondo, picos del Himalaya.](img/cgbabh_autobiografia-de-un-yogui_i-2.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-2.jpg)
 
 *El deseo más grande de la madre era ver casado a Ananta, el hijo mayor. Todo estaba listo en Calcuta para la boda cuando el niño, en Bareilly, tuvo una visión a medianoche: su madre se le apareció junto a la cama y le pidió despertar al padre:*
 
@@ -191,7 +191,7 @@ La madre
 ## Capítulo 3: El santo de los dos cuerpos
 
 
-![Óleo al estilo de Nicholas Roerich: el doble luminoso de un yogui se aparece ante un niño asombrado mientras su cuerpo medita en otra parte; celda sencilla de Benarés, picos del Himalaya por la ventana.](img/cgbabh_autobiografia-de-un-yogui_i-3.jpg)
+[![Óleo al estilo de Nicholas Roerich: el doble luminoso de un yogui se aparece ante un niño asombrado mientras su cuerpo medita en otra parte; celda sencilla de Benarés, picos del Himalaya por la ventana.](img/cgbabh_autobiografia-de-un-yogui_i-3.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-3.jpg)
 
 *El padre le permitió un viaje a Benarés con dos cartas, una de presentación para el swami Pranabananda, discípulo de Lahiri Mahasaya, que lo recibió como a un viejo amigo y le contó algo asombroso:*
 
@@ -270,7 +270,7 @@ Swami Pranabananda
 
 ## Capítulo 4: Mi fuga frustrada hacia el Himalaya
 
-![Óleo al estilo de Nicholas Roerich: tres muchachos hindúes huyen de madrugada en un tren colonial hacia el Himalaya y uno señala con decisión los picos azules que se acercan.](img/cgbabh_autobiografia-de-un-yogui_i-4.jpg)
+[![Óleo al estilo de Nicholas Roerich: tres muchachos hindúes huyen de madrugada en un tren colonial hacia el Himalaya y uno señala con decisión los picos azules que se acercan.](img/cgbabh_autobiografia-de-un-yogui_i-4.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-4.jpg)
 
 *La fuga se planeó como una operación de guerra: un amigo de la escuela, Amar, recogería en un carruaje el bulto lanzado desde la ventana (una manta, sandalias, la foto de Lahiri Mahasaya, el Bhagavad Gita y dos taparrabos) y ambos partirían al Himalaya vestidos de europeos para despistar a Ananta, el hermano detective. En el camino se sumó el primo Jatinda, que desertó en la primera estación (confesó después que lo espantó la promesa de Mukunda de que los tigres se sentarían a recibir caricias: él ya se veía entrando en el estómago de uno «por entregas»). En un andén, un inspector con un telegrama de Ananta interrogó a los muchachos; Amar le advirtió antes a Mukunda:*
 
@@ -385,7 +385,7 @@ Swami Kebalananda
 
 ## Capítulo 5: Un «santo de los perfumes» exhibe sus maravillas
 
-![Óleo al estilo de Nicholas Roerich: un yogui regordete y barbudo, sentado sobre una piel de leopardo, hace brotar con un gesto de bendición una lluvia luminosa de pétalos de rosa y jazmín sobre la palma de un muchacho; devotos en penumbra azul.](img/cgbabh_autobiografia-de-un-yogui_i-5.jpg)
+[![Óleo al estilo de Nicholas Roerich: un yogui regordete y barbudo, sentado sobre una piel de leopardo, hace brotar con un gesto de bendición una lluvia luminosa de pétalos de rosa y jazmín sobre la palma de un muchacho; devotos en penumbra azul.](img/cgbabh_autobiografia-de-un-yogui_i-5.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-5.jpg)
 
 *El encuentro con el Santo de los Perfumes tuvo dos prólogos. El primero, en el templo de Kalighat, ante la imagen de Kali: un sadhu errante leyó en voz alta la confusión de sus pensamientos sobre los aspectos benignos y terribles de la naturaleza:*
 
@@ -437,7 +437,7 @@ Yogananda
 ## Capítulo 6: El Swami Tigre
 
 
-![Óleo al estilo de Nicholas Roerich: un hombre titánico de melena y barba, solo con una piel de tigre en la cintura, pelea a puño limpio con un enorme tigre de Bengala dentro de una jaula de hierro, ante una multitud que contiene el aliento.](img/cgbabh_autobiografia-de-un-yogui_i-6.jpg)
+[![Óleo al estilo de Nicholas Roerich: un hombre titánico de melena y barba, solo con una piel de tigre en la cintura, pelea a puño limpio con un enorme tigre de Bengala dentro de una jaula de hierro, ante una multitud que contiene el aliento.](img/cgbabh_autobiografia-de-un-yogui_i-6.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-6.jpg)
 
 *Un amigo de la escuela, Chandi, consiguió la dirección del famoso Sohong Swami, que antes de ser monje peleaba tigres a puño limpio. Tras una larga espera, entraron en su cuarto y lo hallaron en posición de loto:*
 
@@ -526,7 +526,7 @@ El Swami Tigre
 
 ## Capítulo 7: El santo levitante
 
-![Óleo al estilo de Nicholas Roerich: un anciano yogui de barba abundante medita en postura de loto flotando en el aire sobre su piel de leopardo, mientras un muchacho lo contempla maravillado entre discípulos en penumbra.](img/cgbabh_autobiografia-de-un-yogui_i-7.jpg)
+[![Óleo al estilo de Nicholas Roerich: un anciano yogui de barba abundante medita en postura de loto flotando en el aire sobre su piel de leopardo, mientras un muchacho lo contempla maravillado entre discípulos en penumbra.](img/cgbabh_autobiografia-de-un-yogui_i-7.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-7.jpg)
 
 *Un amigo le contó haber visto a un yogi flotar en el aire durante una reunión nocturna; el muchacho adivinó el nombre: Bhaduri Mahasaya, que vivía cerca de su casa y al que visitaba a menudo. El santo llevaba veinte años sin salir de su clausura, dominaba los pranayamas con tal fuerza que una vez pareció levantar una tormenta en la habitación, y luego quedaba en la calma vívida de la superconciencia. Bhaduri lo recibía con libertad («que Mukunda venga cuando quiera»), porque los mundanos no aprecian la franqueza que rompe sus ilusiones:*
 
@@ -565,7 +565,7 @@ Bhaduri Mahasaya
 
 ## Capítulo 8: El gran científico de la India, J. C. Bose
 
-![Óleo al estilo de Nicholas Roerich: un científico hindú de la era colonial contempla en su laboratorio la sombra magnificada de un helecho en una pantalla luminosa, rodeado de instrumentos de latón, con un jardín de fuente de loto al fondo.](img/cgbabh_autobiografia-de-un-yogui_i-8.jpg)
+[![Óleo al estilo de Nicholas Roerich: un científico hindú de la era colonial contempla en su laboratorio la sombra magnificada de un helecho en una pantalla luminosa, rodeado de instrumentos de latón, con un jardín de fuente de loto al fondo.](img/cgbabh_autobiografia-de-un-yogui_i-8.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-8.jpg)
 
 *En una acera oyó a unos profesores decir que las invenciones inalámbricas de Jagadis Chandra Bose eran anteriores a las de Marconi, y al día siguiente visitó al sabio en su casa de Gurpar Road. Bose, formado en Cambridge, unía la verificación experimental occidental con la introspección oriental; su crescógrafo alcanzaba diez millones de aumentos y demostraba que las plantas tienen un sistema nervioso sensible y una vida emocional variada:*
 
@@ -611,7 +611,7 @@ J. C. Bose
 ## Capítulo 9: El devoto dichoso y su romance cósmico
 
 
-![Óleo al estilo de Nicholas Roerich: un santo de barba blanca ora en éxtasis ante un altar con flores de champak mientras la Madre Divina, radiante, se le aparece entre luz dorada; un muchacho contempla arrodillado.](img/cgbabh_autobiografia-de-un-yogui_i-9.jpg)
+[![Óleo al estilo de Nicholas Roerich: un santo de barba blanca ora en éxtasis ante un altar con flores de champak mientras la Madre Divina, radiante, se le aparece entre luz dorada; un muchacho contempla arrodillado.](img/cgbabh_autobiografia-de-un-yogui_i-9.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-9.jpg)
 
 *Entró en silencio en la habitación y el santo lo recibió sin volverse: «Siéntate, señorcito; estoy hablando con mi Madre Divina»:*
 
@@ -664,7 +664,7 @@ Yogananda
 
 ## Capítulo 10: Encuentro a mi maestro, Sri Yukteswar
 
-![Óleo al estilo de Nicholas Roerich: en un callejón del viejo Benarés, un joven hindú se arrodilla a los pies de un swami alto de túnica ocre y cabeza leonina que lo recibe con las manos abiertas; al fondo, el Ganges al atardecer.](img/cgbabh_autobiografia-de-un-yogui_i-10.jpg)
+[![Óleo al estilo de Nicholas Roerich: en un callejón del viejo Benarés, un joven hindú se arrodilla a los pies de un swami alto de túnica ocre y cabeza leonina que lo recibe con las manos abiertas; al fondo, el Ganges al atardecer.](img/cgbabh_autobiografia-de-un-yogui_i-10.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-10.jpg)
 
 *Aprobó el bachillerato por la vía de la Ingenuidad Infinita: su amigo Nantu le adelantó las preguntas trampa de los exámenes, y unas hojas sueltas de versos sánscritos encontradas en un solar le resolvieron la prueba de sánscrito al día siguiente. Libre de su promesa al padre, decidió partir a un ermitaño en Benarés con su amigo Jitendra. La despedida:*
 
@@ -772,7 +772,7 @@ Yogananda
 ## Capítulo 11: Dos muchachos sin un céntimo en Brindaban
 
 
-![Los dos muchachos agasajados con un banquete principesco en la ermita de Brindaban](img/cgbabh_autobiografia-de-un-yogui_i-11.jpg)
+[![Los dos muchachos agasajados con un banquete principesco en la ermita de Brindaban](img/cgbabh_autobiografia-de-un-yogui_i-11.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-11.jpg)
 
 *En Agra, su hermano Ananta lo sermoneó: el padre haría bien en desheredarlo por tirar la vida. «Dios primero; el dinero es su esclavo», respondió el muchacho. Y como seguía declarándose independiente de la fortuna paterna, Ananta le propuso poner su filosofía a prueba en el mundo tangible. Los términos: ir con Jitendra a Brindaban esa misma mañana sin una rupia, sin mendigar, sin revelar su apuro a nadie, sin faltar a ninguna comida y sin quedarse varados; si volvía antes de medianoche, sería el hombre más asombrado de Agra:*
 
@@ -852,7 +852,7 @@ Yogananda
 
 ## Capítulo 12: Años en la ermita de mi maestro
 
-![Sri Yukteswar recibe con palmadas serenas a una cobra de capucha desplegada en la ermita de Puri](img/cgbabh_autobiografia-de-un-yogui_i-12.jpg)
+[![Sri Yukteswar recibe con palmadas serenas a una cobra de capucha desplegada en la ermita de Puri](img/cgbabh_autobiografia-de-un-yogui_i-12.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-12.jpg)
 
 *Sri Yukteswar lo recibió en su ermita de Serampore con frialdad deliberada: le reclamó la obediencia que le había negado en su primer encuentro, le ordenó volver con su familia y matricularse en la universidad de Calcuta, y le anunció que un día iría a Occidente, donde escucharían mejor a un maestro hindú con título. El muchacho aceptó su autoridad en cada detalle de su vida con una sola condición: «¡Prométame revelarme a Dios!». Tras una hora de forcejeo verbal, la palabra del maestro cayó con finalidad compasiva: «Que tu deseo sea mi deseo».*
 
@@ -989,7 +989,7 @@ El magistrado
 ## Capítulo 13: El santo que no dormía
 
 
-![El joven Yogananda encuentra a Ram Gopal, el santo que no duerme, esperándolo en el sendero de un campo dorado](img/cgbabh_autobiografia-de-un-yogui_i-13.jpg)
+[![El joven Yogananda encuentra a Ram Gopal, el santo que no duerme, esperándolo en el sendero de un campo dorado](img/cgbabh_autobiografia-de-un-yogui_i-13.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-13.jpg)
 
 *A los seis meses de ermita, la impaciencia lo asaltó: pidió permiso al maestro para irse a los Himalayas:*
 
@@ -1080,7 +1080,7 @@ Yogananda
 ## Capítulo 14: Una experiencia de conciencia cósmica
 
 
-![La conciencia cósmica: el yogui medita en el patio de la ermita mientras de su cuerpo irradia una luz que contiene galaxias y nebulosas](img/cgbabh_autobiografia-de-un-yogui_i-14.jpg)
+[![La conciencia cósmica: el yogui medita en el patio de la ermita mientras de su cuerpo irradia una luz que contiene galaxias y nebulosas](img/cgbabh_autobiografia-de-un-yogui_i-14.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-14.jpg)
 
 *Avergonzado tras la escapada frustrada a los Himalayas, regresó a la ermita de Serampore:*
 
@@ -1147,7 +1147,7 @@ Sri Yukteswar
 ## Capítulo 15: El robo de la coliflor
 
 
-![En la playa de Puri, un hombre se aleja cargando una enorme coliflor como un tesoro, bajo la mirada sonriente de Sri Yukteswar](img/cgbabh_autobiografia-de-un-yogui_i-15.jpg)
+[![En la playa de Puri, un hombre se aleja cargando una enorme coliflor como un tesoro, bajo la mirada sonriente de Sri Yukteswar](img/cgbabh_autobiografia-de-un-yogui_i-15.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-15.jpg)
 
 *Para las vacaciones de verano se instaló con su gurú en la ermita de Puri y le llevó un regalo: seis enormes coliflores plantadas y cuidadas con sus propias manos. En la caminata por la playa, el maestro le dijo algo inquietante:*
 
@@ -1232,7 +1232,7 @@ Yogananda
 ## Capítulo 16: Cómo burlar a los astros
 
 
-![En el balcón de Benarés, bajo la luna sobre el Ganges, Sri Yukteswar sana al joven discípulo que lleva el brazalete de plata y plomo](img/cgbabh_autobiografia-de-un-yogui_i-16.jpg)
+[![En el balcón de Benarés, bajo la luna sobre el Ganges, Sri Yukteswar sana al joven discípulo que lleva el brazalete de plata y plomo](img/cgbabh_autobiografia-de-un-yogui_i-16.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-16.jpg)
 
 *«Mukunda, ¿por qué no te consigues un brazalete astrológico?». «¿Debería, maestro? No creo en la astrología». La respuesta fue una lección: la actitud científica ante cualquier tema es preguntarse si es verdadero; la gravitación funcionaba igual antes de Newton que después:*
 
@@ -1319,7 +1319,7 @@ Yogananda
 ## Capítulo 17: Sasi y los tres zafiros
 
 
-![Sasi, demacrado y lloroso, se arroja a los pies de Sri Yukteswar y deposita los tres zafiros](img/cgbabh_autobiografia-de-un-yogui_i-17.jpg)
+[![Sasi, demacrado y lloroso, se arroja a los pies de Sri Yukteswar y deposita los tres zafiros](img/cgbabh_autobiografia-de-un-yogui_i-17.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-17.jpg)
 
 *El doctor Roy, agnóstico empedernido, acompañó a su hijo a la ermita y se marchó bruscamente. «¿Por qué traes un muerto al ashram?», preguntó el maestro. «¡El doctor está bien vivo!». «Pero en poco tiempo estará muerto». Ante el ruego del discípulo, accedió a curarlo, con una advertencia:*
 
@@ -1391,7 +1391,7 @@ Yogananda
 ## Capítulo 18: Un hacedor de milagros mahometano
 
 
-![El fakir Afzal Khan convoca platos de oro que caen del aire cargados de manjares ante los invitados asombrados](img/cgbabh_autobiografia-de-un-yogui_i-18.jpg)
+[![El fakir Afzal Khan convoca platos de oro que caen del aire cargados de manjares ante los invitados asombrados](img/cgbabh_autobiografia-de-un-yogui_i-18.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-18.jpg)
 
 *El maestro le contó que, en esa misma habitación de la pensión Panthi, un hacedor de milagros mahometano llamado Afzal Khan había realizado cuatro prodigios ante él. Sus poderes venían de un yogui hindú que un día de su infancia le pidió agua:*
 
@@ -1462,7 +1462,7 @@ Afzal
 ## Capítulo 19: Mi maestro, estando en Calcuta, aparece en Serampore
 
 
-![El joven Yogananda, arrodillado en el cuarto de la pensión, toca los zapatos de Sri Yukteswar, que se materializa envuelto en una luz dorada deslumbrante](img/cgbabh_autobiografia-de-un-yogui_i-19.jpg)
+[![El joven Yogananda, arrodillado en el cuarto de la pensión, toca los zapatos de Sri Yukteswar, que se materializa envuelto en una luz dorada deslumbrante](img/cgbabh_autobiografia-de-un-yogui_i-19.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-19.jpg)
 
 *Dijen, su compañero de cuarto, se burló del mensaje telepático («me he retrasado; no reciban el tren de las nueve») y se fue dando un portazo; entonces la luz creció en la ventana enrejada:*
 
@@ -1507,7 +1507,7 @@ Yogananda
 ## Capítulo 20: No visitamos Cachemira
 
 
-![Mukunda, enfermo, reposa con la cabeza sobre el regazo de Sri Yukteswar, que le acaricia la frente en la ermita de Serampore](img/cgbabh_autobiografia-de-un-yogui_i-20.jpg)
+[![Mukunda, enfermo, reposa con la cabeza sobre el regazo de Sri Yukteswar, que le acaricia la frente en la ermita de Serampore](img/cgbabh_autobiografia-de-un-yogui_i-20.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-20.jpg)
 
 *Tercer verano con el mismo plan: llevar al maestro al Himalaya. El padre se rió («es la tercera vez con el mismo cuento»), pero le entregó seis pases y un rollo de billetes. El maestro solo dijo «me gustaría ir; ya veremos»:*
 
@@ -1571,7 +1571,7 @@ Yogananda
 ## Capítulo 21: Visitamos Cachemira
 
 
-![El landó de los seis viajeros camino de Srinagar, sobre una colina de flores amarillas, con los Himalayas nevados fila tras fila y la ermita de un pico lejano](img/cgbabh_autobiografia-de-un-yogui_i-21.jpg)
+[![El landó de los seis viajeros camino de Srinagar, sobre una colina de flores amarillas, con los Himalayas nevados fila tras fila y la ermita de un pico lejano](img/cgbabh_autobiografia-de-un-yogui_i-21.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-21.jpg)
 
 *Dos días después de curarse, el maestro lo sorprendió: «te acompañaré a Cachemira». En el mercado de Simla compró una cesta de fresas y le hizo una predicción que solo años después saldría de la cueva insondable de la memoria:*
 
@@ -1650,7 +1650,7 @@ Yogananda
 ## Capítulo 22: El corazón de una imagen de piedra
 
 
-![Mukunda medita en el pórtico del templo de Dakshineswar mientras la puerta del templo de Kali se abre y la diosa cobra vida envuelta en luz](img/cgbabh_autobiografia-de-un-yogui_i-22.jpg)
+[![Mukunda medita en el pórtico del templo de Dakshineswar mientras la puerta del templo de Kali se abre y la diosa cobra vida envuelta en luz](img/cgbabh_autobiografia-de-un-yogui_i-22.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-22.jpg)
 
 *Su hermana Roma le pidió ayuda: «quiero ver a mi marido apartarse de sus puntos de vista materialistas». Él oró y tuvo una inspiración: llevaría al cuñado Satish al templo de Kali en Dakshineswar, donde Ramakrishna había conversado con la imagen viva:*
 
@@ -1737,7 +1737,7 @@ Yogananda
 ## Capítulo 23: Recibo mi título universitario
 
 
-![Mukunda llega en bicicleta con flores a la ermita de Serampore, donde Sri Yukteswar lo espera en la puerta; en primer plano, el atlas de Romesh y las hojas de examen](img/cgbabh_autobiografia-de-un-yogui_i-23.jpg)
+[![Mukunda llega en bicicleta con flores a la ermita de Serampore, donde Sri Yukteswar lo espera en la puerta; en primer plano, el atlas de Romesh y las hojas de examen](img/cgbabh_autobiografia-de-un-yogui_i-23.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-23.jpg)
 
 *El profesor Ghoshal lo amenazó: si no se aplicaba de modo más académico, no aprobaría. Suspender significaba repetir todos los exámenes al año siguiente. Los profesores solían tratarlo con amable tolerancia:*
 
@@ -1815,7 +1815,7 @@ Yogananda
 ## Capítulo 24: Me hago monje de la Orden de los Swamis
 
 
-![Sri Yukteswar ciñe la seda teñida de ocre alrededor de Mukunda, arrodillado con las manos juntas en el balcón de la ermita de Serampore](img/cgbabh_autobiografia-de-un-yogui_i-24.jpg)
+[![Sri Yukteswar ciñe la seda teñida de ocre alrededor de Mukunda, arrodillado con las manos juntas en el balcón de la ermita de Serampore](img/cgbabh_autobiografia-de-un-yogui_i-24.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-24.jpg)
 
 *«Maestro, mi padre ha estado ansioso por que acepte un puesto ejecutivo en el ferrocarril Bengal-Nagpur, pero lo he rechazado definitivamente»:*
 
@@ -1877,7 +1877,7 @@ Yogananda
 
 ## Capítulo 25: El hermano Ananta y la hermana Nalini
 
-![En el muelle de Shanghái, Mukunda deja caer el bambú tallado comprado para Ananta, que se raja al caer; el doctor Misra observa y, a un lado, Nalini enferma](img/cgbabh_autobiografia-de-un-yogui_i-25.jpg)
+[![En el muelle de Shanghái, Mukunda deja caer el bambú tallado comprado para Ananta, que se raja al caer; el doctor Misra observa y, a un lado, Nalini enferma](img/cgbabh_autobiografia-de-un-yogui_i-25.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-25.jpg)
 
 *«Ananta no puede vivir; las arenas de su karma para esta vida se han agotado»:*
 
@@ -1949,7 +1949,7 @@ Yogananda
 ## Capítulo 26: La ciencia del Kriya Yoga
 
 
-![Un yogui medita en loto mientras una espiral dorada de energía asciende por los seis centros de su columna, bajo un cielo cósmico de sol, estrellas y galaxias](img/cgbabh_autobiografia-de-un-yogui_i-26.jpg)
+[![Un yogui medita en loto mientras una espiral dorada de energía asciende por los seis centros de su columna, bajo un cielo cósmico de sol, estrellas y galaxias](img/cgbabh_autobiografia-de-un-yogui_i-26.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-26.jpg)
 
 *La ciencia de Kriya Yoga se dio a conocer por Lahiri Mahasaya, el gurú de su gurú. Kriya viene de la raíz sánscrita kri, hacer: unión con el Infinito mediante cierta acción; por antiguas prescripciones yoguis, no puede explicarla aquí por completo:*
 
@@ -2018,7 +2018,7 @@ Yogananda
 ## Capítulo 27: Fundación de una escuela de yoga en Ranchi
 
 
-![La escuela de Ranchi: un joven maestro de túnica ocre enseña a sus muchachos en los jardines del palacio, otros meditan en loto bajo los frutales y una cervatilla duerme en una esterilla](img/cgbabh_autobiografia-de-un-yogui_i-27.jpg)
+[![La escuela de Ranchi: un joven maestro de túnica ocre enseña a sus muchachos en los jardines del palacio, otros meditan en loto bajo los frutales y una cervatilla duerme en una esterilla](img/cgbabh_autobiografia-de-un-yogui_i-27.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-27.jpg)
 
 *«¿Por qué te repugna el trabajo de organización?», le preguntó el maestro. «Es una tarea ingrata, señor». «Dios es la Miel; las organizaciones son las colmenas; ambas son necesarias». Y él oró: «que tu Amor brille por siempre en el santuario de mi devoción».*
 
@@ -2110,7 +2110,7 @@ Yogananda
 ## Capítulo 28: Kashi, renacido y reencontrado
 
 
-![Kashi, renacido y reencontrado: un niño hindú arrodillado ante un yogui anciano que le señala el horizonte en la terraza de un ashram del Himalaya](img/cgbabh_autobiografia-de-un-yogui_i-28.jpg)
+[![Kashi, renacido y reencontrado: un niño hindú arrodillado ante un yogui anciano que le señala el horizonte en la terraza de un ashram del Himalaya](img/cgbabh_autobiografia-de-un-yogui_i-28.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-28.jpg)
 
 *Un alumno le pregunta si seguirá siempre el camino de la renuncia; Kashi, un niño brillante de doce años, pregunta por su destino y oye: «Pronto estarás muerto». El niño le pide que lo busque cuando renazca:*
 
@@ -2147,7 +2147,7 @@ Yogananda
 ## Capítulo 29: Rabindranath Tagore y yo comparamos escuelas
 
 
-![Rabindranath Tagore, un poeta anciano de barba blanca, enseña a cantar a sus alumnos bajo los grandes árboles de Santiniketan](img/cgbabh_autobiografia-de-un-yogui_i-29.jpg)
+[![Rabindranath Tagore, un poeta anciano de barba blanca, enseña a cantar a sus alumnos bajo los grandes árboles de Santiniketan](img/cgbabh_autobiografia-de-un-yogui_i-29.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-29.jpg)
 
 *Bhola Nath, alumno de Ranchi que estudió antes en Santiniketan, la escuela de Tagore, canta a todas horas: el poeta les enseñaba a cantar como a los pájaros. Yogananda le responde:*
 
@@ -2186,7 +2186,7 @@ Rabindranath Tagore
 ## Capítulo 30: La ley de los milagros
 
 
-![Los tres ermitaños de Tolstoi: tres ancianos de barbas blancas caminan sobre las aguas hacia el barco del obispo](img/cgbabh_autobiografia-de-un-yogui_i-30.jpg)
+[![Los tres ermitaños de Tolstoi: tres ancianos de barbas blancas caminan sobre las aguas hacia el barco del obispo](img/cgbabh_autobiografia-de-un-yogui_i-30.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-30.jpg)
 
 *Un cuento de Tolstoi, Los tres ermitaños: tres viejos tan simples que su única oración es «Somos tres; Tú eres Tres; ten misericordia de nosotros», y con ella ocurren grandes milagros. El obispo les enseña las oraciones canónicas y se va en barco; entonces ve una luz que sigue la nave: son los tres, corriendo sobre las olas porque han olvidado lo aprendido:*
 
@@ -2281,7 +2281,7 @@ Yogananda
 ## Capítulo 31: Una entrevista con la Madre Sagrada
 
 
-![La Madre Sagrada en el cuartito de Benarés donde vivió con Lahiri Mahasaya, iluminado por una lámpara de aceite](img/cgbabh_autobiografia-de-un-yogui_i-31.jpg)
+[![La Madre Sagrada en el cuartito de Benarés donde vivió con Lahiri Mahasaya, iluminado por una lámpara de aceite](img/cgbabh_autobiografia-de-un-yogui_i-31.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-31.jpg)
 
 *Kashi Moni, la compañera de Lahiri Mahasaya, lo recibe en la vieja casa de Benarés y lo lleva al cuartito donde vivió con su marido:*
 
@@ -2383,7 +2383,7 @@ Trailanga Swami
 ## Capítulo 32: Rama es resucitado de entre los muertos
 
 
-![Rama resucitado: el yogui en el balcón de la ermita de Serampore junto al joven que despierta a la vida](img/cgbabh_autobiografia-de-un-yogui_i-32.jpg)
+[![Rama resucitado: el yogui en el balcón de la ermita de Serampore junto al joven que despierta a la vida](img/cgbabh_autobiografia-de-un-yogui_i-32.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-32.jpg)
 
 *En el balcón de la ermita de Serampore, Sri Yukteswar expone el pasaje de Lázaro («esta enfermedad no es para muerte, sino para la gloria de Dios»):*
 
@@ -2457,7 +2457,7 @@ Sri Yukteswar
 ## Capítulo 33: Babaji, el yogui-Cristo de la India moderna
 
 
-![Babaji, el yogui-Cristo de la India moderna, joven y luminoso, medita en su cueva del Himalaya](img/cgbabh_autobiografia-de-un-yogui_i-33.jpg)
+[![Babaji, el yogui-Cristo de la India moderna, joven y luminoso, medita en su cueva del Himalaya](img/cgbabh_autobiografia-de-un-yogui_i-33.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-33.jpg)
 
 *Cerca de Badrinarayan, en el Himalaya, aún bendice el mundo la presencia viva de Babaji, el guru de Lahiri Mahasaya, que conserva su forma física desde hace siglos: es un avatara, «descenso» de la Divinidad a la carne:*
 
@@ -2513,7 +2513,7 @@ Babaji
 ## Capítulo 34: Materialización de un palacio en el Himalaya
 
 
-![El palacio materializado por Babaji entre los picos azules del Himalaya, junto a la cueva de Drongiri](img/cgbabh_autobiografia-de-un-yogui_i-34.jpg)
+[![El palacio materializado por Babaji entre los picos azules del Himalaya, junto a la cueva de Drongiri](img/cgbabh_autobiografia-de-un-yogui_i-34.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-34.jpg)
 
 *El encuentro, oído de sus propios labios: en 1861 un telegrama lleva al contable Lahiri a Ranikhet, en el Himalaya; en el monte Drongiri una voz lo llama y llega a una cueva donde un joven idéntico a él lo esperaba: «La oficina fue traída para ti, no tú para la oficina»; fue Babaji quien sugirió su traslado a la mente de su superior. Un toque magnético en la frente le devuelve las memorias de su vida pasada:*
 
@@ -2576,7 +2576,7 @@ Lahiri Mahasaya
 ## Capítulo 35: La vida de Lahiri Mahasaya, semejante a la de Cristo
 
 
-![Lahiri Mahasaya meditando en la azotea de su casa de Benarés, sobre los tejados y el Ganges al anochecer](img/cgbabh_autobiografia-de-un-yogui_i-35.jpg)
+[![Lahiri Mahasaya meditando en la azotea de su casa de Benarés, sobre los tejados y el Ganges al anochecer](img/cgbabh_autobiografia-de-un-yogui_i-35.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-35.jpg)
 
 *El capítulo empieza lejos de Benarés, en el Jordán: Yogananda sostiene que Juan el Bautista fue, en vidas pasadas, el gurú de Jesús; Elías, y Jesús su discípulo Eliseo. Al pedir el bautismo a Juan, Jesús reconoce los derechos divinos de su maestro. El mismo lazo eterno unió a Babaji con Lahiri Mahasaya, a quien guió vida tras vida hasta reencontrarlo en Ranikhet. Y luego, desconocido para el mundo, desde un rincón de Benarés empezó a fluir una gran renovación espiritual. El jefe inglés de la oficina donde trabajaba el maestro fue de los primeros en notar algo:*
 
@@ -2685,7 +2685,7 @@ Yogananda
 ## Capítulo 36: El interés de Babaji por Occidente
 
 
-![Sri Yukteswar y Yogananda conversan bajo las estrellas en el jardín de la ermita de Serampore](img/cgbabh_autobiografia-de-un-yogui_i-36.jpg)
+[![Sri Yukteswar y Yogananda conversan bajo las estrellas en el jardín de la ermita de Serampore](img/cgbabh_autobiografia-de-un-yogui_i-36.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-36.jpg)
 
 *Noche de verano en Serampore: Yogananda le pregunta a su maestro si conoció alguna vez a Babaji:*
 
@@ -2764,7 +2764,7 @@ Lahiri Mahasaya
 ## Capítulo 37: Parto hacia América
 
 
-![La visión en el almacén de Ranchi: una multitud luminosa de rostros occidentales anuncia el viaje a América](img/cgbabh_autobiografia-de-un-yogui_i-37.jpg)
+[![La visión en el almacén de Ranchi: una multitud luminosa de rostros occidentales anuncia el viaje a América](img/cgbabh_autobiografia-de-un-yogui_i-37.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-37.jpg)
 
 *Año 1920. En el almacén de la escuela de Ranchi tiene una visión: una multitud de caras occidentales. «Voy a descubrir América, como Colón», le dice al niño Bimal. Al día siguiente llega la confirmación: una invitación a un Congreso de Liberales Religiosos en Boston. Corre a Serampore y el maestro lo despacha: todas las puertas están abiertas; es ahora o nunca:*
 
@@ -2840,7 +2840,7 @@ Sri Yukteswar
 ## Capítulo 38: Luther Burbank, un santo entre las rosas
 
 
-![Luther Burbank, un santo entre las rosas: el anciano horticultor en su huerto de Santa Rosa, California](img/cgbabh_autobiografia-de-un-yogui_i-38.jpg)
+[![Luther Burbank, un santo entre las rosas: el anciano horticultor en su huerto de Santa Rosa, California](img/cgbabh_autobiografia-de-un-yogui_i-38.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-38.jpg)
 
 *Santa Rosa, California: visita a Luther Burbank, el gran horticultor. Su secreto no es solo la ciencia, sino el amor: hablaba a los cactus para que soltaran las espinas:*
 
@@ -2888,7 +2888,7 @@ Yogananda
 ## Capítulo 39: Therese Neumann, la estigmatizada católica
 
 
-![Therese Neumann, la estigmatizada de Konnersreuth, en éxtasis de oración entre las velas de su iglesia](img/cgbabh_autobiografia-de-un-yogui_i-39.jpg)
+[![Therese Neumann, la estigmatizada de Konnersreuth, en éxtasis de oración entre las velas de su iglesia](img/cgbabh_autobiografia-de-un-yogui_i-39.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-39.jpg)
 
 *1935. Quince años después de llegar a América, meditando en Mt. Washington, oye en el oído interior la voz de su maestro, que lo llama de vuelta a la India:*
 
@@ -2968,7 +2968,7 @@ Yogananda
 ## Capítulo 40: Regreso a la India
 
 
-![El Rajputana atraca en Bombay: guirnaldas, reporteros y una multitud esperan en el muelle](img/cgbabh_autobiografia-de-un-yogui_i-40.jpg)
+[![El Rajputana atraca en Bombay: guirnaldas, reporteros y una multitud esperan en el muelle](img/cgbabh_autobiografia-de-un-yogui_i-40.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-40.jpg)
 
 *22 de agosto de 1935: el Rajputana atraca en Bombay. Guirnaldas en el muelle, reporteros, y luego Calcuta, donde una multitud inmensa los espera en la estación de Howrah, encabezada por el joven maharajá de Kasimbazar y su hermano Bishnu. Su anciano padre lo abraza como a un resucitado. Y luego viene el reencuentro que de verdad importa:*
 
@@ -3067,7 +3067,7 @@ Yogananda y el señor Wright
 ## Capítulo 41: Un idilio en el sur de la India
 
 
-![Un idilio en el sur de la India: palacios y templos de Mysore entre colinas, bosques y elefantes](img/cgbabh_autobiografia-de-un-yogui_i-41.jpg)
+[![Un idilio en el sur de la India: palacios y templos de Mysore entre colinas, bosques y elefantes](img/cgbabh_autobiografia-de-un-yogui_i-41.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-41.jpg)
 
 *Noviembre de 1935. Yogananda y su secretario, el señor Wright, pasan un mes como invitados del Estado de Mysore, en el sur de la India: tierra de palacios, templos y bosques con elefantes. En el templo de Chamundi, sobre la colina, Yogananda le da una noticia a su compañero: es el primer occidental que entra en ese santuario; muchos lo han intentado en vano:*
 
@@ -3182,7 +3182,7 @@ Yogananda
 ## Capítulo 42: Los últimos días con mi gurú
 
 
-![Los últimos días con mi gurú: el discípulo ofrece frutas y rosas a su anciano maestro en el jardín](img/cgbabh_autobiografia-de-un-yogui_i-42.jpg)
+[![Los últimos días con mi gurú: el discípulo ofrece frutas y rosas a su anciano maestro en el jardín](img/cgbabh_autobiografia-de-un-yogui_i-42.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-42.jpg)
 
 *Año 1936. Llega a Serampore con frutas y rosas y le reclama al maestro que nunca le ha dicho «te amo»:*
 
@@ -3373,7 +3373,7 @@ Yogananda
 ## Capítulo 43: La resurrección de Sri Yukteswar
 
 
-![La resurrección de Sri Yukteswar: el maestro aparece luminoso en la habitación del hotel Regent de Bombay](img/cgbabh_autobiografia-de-un-yogui_i-43.jpg)
+[![La resurrección de Sri Yukteswar: el maestro aparece luminoso en la habitación del hotel Regent de Bombay](img/cgbabh_autobiografia-de-un-yogui_i-43.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-43.jpg)
 
 *Bombay, junio de 1936. Yogananda viaja con su secretario, el señor Wright, recorriendo las maravillas de la India antes de volver a América. Una tarde, solo en su cuarto del hotel Regent, entregado a la meditación, la habitación se transforma en un mundo extraño y ante él aparece, de carne y hueso, el maestro muerto tres meses atrás:*
 
@@ -3556,7 +3556,7 @@ Ma
 ## Capítulo 44: Con Mahatma Gandhi en Wardha
 
 
-![Mahatma Gandhi hilando algodón en su rueca en el ashram de Wardha](img/cgbabh_autobiografia-de-un-yogui_i-44.jpg)
+[![Mahatma Gandhi hilando algodón en su rueca en el ashram de Wardha](img/cgbabh_autobiografia-de-un-yogui_i-44.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-44.jpg)
 
 *Wardha, agosto de 1935. Yogananda pasa unos días en el ashram de Mahatma Gandhi (los indios lo llaman así: «gran alma»), el hombre cuya resistencia sin armas tiene en jaque al imperio británico. En la comunidad conoce a Madeleine Slade, hija de un almirante inglés, que vive allí como una monja hindú y hace los trabajos más humildes:*
 
@@ -3691,7 +3691,7 @@ Yogananda
 ## Capítulo 45: La bengalí «Madre Impregnada de Gozo»
 
 
-![Ananda Moyi Ma, la Madre Impregnada de Gozo, radiante entre sus devotos en un jardín de Calcuta](img/cgbabh_autobiografia-de-un-yogui_i-45.jpg)
+[![Ananda Moyi Ma, la Madre Impregnada de Gozo, radiante entre sus devotos en un jardín de Calcuta](img/cgbabh_autobiografia-de-un-yogui_i-45.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-45.jpg)
 
 
 *Calcuta, 1935. La sobrina de Yogananda, Amiyo Bose, le habla de una mujer santa venerada en toda la India: Ananda Moyi Ma, la «Madre Impregnada de Alegría». Él ya sabía de ella:*
@@ -3787,7 +3787,7 @@ Ananda Moyi Ma
 ## Capítulo 46: La yoguina que nunca come
 
 
-![Giri Bala, la yoguina que nunca come, medita frente a su choza junto al río en Bengala](img/cgbabh_autobiografia-de-un-yogui_i-46.jpg)
+[![Giri Bala, la yoguina que nunca come, medita frente a su choza junto al río en Bengala](img/cgbabh_autobiografia-de-un-yogui_i-46.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-46.jpg)
 
 *Con el señor Wright y dos estudiantes bengalíes, Yogananda viaja a Burighat, en el Bengala, para conocer a Giri Bala, una mujer yogui de la que se dice que no ha comido nada en cincuenta y seis años; dos veces ha pasado semanas observada a puerta cerrada por escépticos, sin probar bocado. Los recibe un vecino anciano, Lambadar Babu:*
 
@@ -3888,7 +3888,7 @@ Giri Bala
 ## Capítulo 47: Regreso a Occidente
 
 
-![Regreso a Occidente: el yogui reparte regalos de la India en la fiesta de Navidad de Los Ángeles](img/cgbabh_autobiografia-de-un-yogui_i-47.jpg)
+[![Regreso a Occidente: el yogui reparte regalos de la India en la fiesta de Navidad de Los Ángeles](img/cgbabh_autobiografia-de-un-yogui_i-47.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-47.jpg)
 
 
 *Septiembre de 1936: da clases en Londres y regresa a Los Ángeles para la fiesta de Navidad del centro, con regalos de la India para los discípulos:*
@@ -3944,7 +3944,7 @@ Sr. Dickinson
 ## Capítulo 48: En Encinitas, California
 
 
-![Encinitas, California: ermitas y jardines de la colonia junto al Pacífico al atardecer](img/cgbabh_autobiografia-de-un-yogui_i-48.jpg)
+[![Encinitas, California: ermitas y jardines de la colonia junto al Pacífico al atardecer](img/cgbabh_autobiografia-de-un-yogui_i-48.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-48.jpg)
 
 *El último capítulo vuelve a California, a Encinitas, la colonia junto al mar que la Self-Realization Fellowship ha levantado en pocos años. Antes, un recuerdo de los comienzos: en 1920, en Filadelfia, un amigo le advierte que no cante himnos orientales, no vaya el público a responder con tomates maduros:*
 
