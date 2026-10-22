@@ -132,6 +132,8 @@ Yogananda
 
 Uma, su hermana
 
+---
+
 ## Capítulo 2: La muerte de mi madre y el amuleto místico
 
 
@@ -187,6 +189,8 @@ La madre
 
 *Con el amuleto, el niño sintió despertar memorias de maestros de vidas pasadas; el que no lograba escaparse al Himalaya viajaba cada día en las alas de su amuleto.*
 
+
+---
 
 ## Capítulo 3: El santo de los dos cuerpos
 
@@ -267,6 +271,8 @@ Swami Pranabananda
 
 *Al despedirse, el swami bendijo al niño y le profetizó que su vida pertenecía al camino de la renunciación y el yoga, y que volverían a verse, con su padre, más adelante. Los años cumplieron ambas predicciones.*
 
+
+---
 
 ## Capítulo 4: Mi fuga frustrada hacia el Himalaya
 
@@ -383,6 +389,8 @@ Ramu
 Swami Kebalananda
 
 
+---
+
 ## Capítulo 5: Un «santo de los perfumes» exhibe sus maravillas
 
 [![Óleo al estilo de Nicholas Roerich: un yogui regordete y barbudo, sentado sobre una piel de leopardo, hace brotar con un gesto de bendición una lluvia luminosa de pétalos de rosa y jazmín sobre la palma de un muchacho; devotos en penumbra azul.](img/cgbabh_autobiografia-de-un-yogui_i-5.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-5.jpg)
@@ -433,6 +441,8 @@ Gandha Baba
 
 Yogananda
 
+
+---
 
 ## Capítulo 6: El Swami Tigre
 
@@ -524,6 +534,8 @@ El Swami Tigre
 El Swami Tigre
 
 
+---
+
 ## Capítulo 7: El santo levitante
 
 [![Óleo al estilo de Nicholas Roerich: un anciano yogui de barba abundante medita en postura de loto flotando en el aire sobre su piel de leopardo, mientras un muchacho lo contempla maravillado entre discípulos en penumbra.](img/cgbabh_autobiografia-de-un-yogui_i-7.jpg)](img/cgbabh_autobiografia-de-un-yogui_i-7.jpg)
@@ -562,6 +574,8 @@ Bhaduri Mahasaya
 
 *¿Qué sacrificio hay en eso? Los verdaderos renunciantes, cerró, son los mundanos: cambian una posesión divina sin par por un puñado de juguetes terrenales. Años después, antes de embarcar a América, el joven se arrodilló ante él por la bendición de despedida: «Hijo, ve a América; toma por escudo la dignidad de la antiquísima India; la victoria está escrita en tu frente».*
 
+
+---
 
 ## Capítulo 8: El gran científico de la India, J. C. Bose
 
@@ -607,6 +621,8 @@ J. C. Bose
 
 *Años después, en 1938, investigadores de la Universidad de Columbia confirmaron que las fibras de la planta nitella propagan ondas eléctricas idénticas a las de las fibras nerviosas de animales y hombres: la «piedra Rosetta» entre la mente y la materia que Bose ya había anunciado.*
 
+
+---
 
 ## Capítulo 9: El devoto dichoso y su romance cósmico
 
@@ -661,6 +677,8 @@ Yogananda
 
 Yogananda
 
+
+---
 
 ## Capítulo 10: Encuentro a mi maestro, Sri Yukteswar
 
@@ -769,6 +787,8 @@ Yogananda
 *Le dio nombre y dirección (Swami Sri Yukteswar Giri, ermita de Serampore, a solo doce millas de Calcuta) y una orden que aguó el milagro: «Vendrás a mí en cuatro semanas», es decir, volver a casa, justo lo que el muchacho había jurado no hacer. Se despidió en tensión. En la ermita la hostilidad creció hasta que, tres semanas después, él y Jitendra partieron juntos a Serampore: el «pájaro joven» se disponía a «abatirse» peligrosamente cerca de Calcuta.*
 
 
+---
+
 ## Capítulo 11: Dos muchachos sin un céntimo en Brindaban
 
 
@@ -849,6 +869,8 @@ Yogananda
 Yogananda
 
 
+
+---
 
 ## Capítulo 12: Años en la ermita de mi maestro
 
@@ -986,6 +1008,8 @@ Sri Yukteswar
 
 El magistrado
 
+---
+
 ## Capítulo 13: El santo que no dormía
 
 
@@ -1077,6 +1101,8 @@ Ram Gopal
 
 Yogananda
 
+---
+
 ## Capítulo 14: Una experiencia de conciencia cósmica
 
 
@@ -1143,6 +1169,8 @@ Yogananda
 «Es cierto; pero también está cerca y es querido».
 
 Sri Yukteswar
+
+---
 
 ## Capítulo 15: El robo de la coliflor
 
@@ -1228,6 +1256,8 @@ Un estudiante
 «Lo seguí a su dormitorio media hora después, comprendiendo plenamente que estaba a punto de dormir junto a un gurú semejante a un dios».
 
 Yogananda
+
+---
 
 ## Capítulo 16: Cómo burlar a los astros
 
@@ -1316,6 +1346,8 @@ Yogananda
 
 *«Querido maestro, le dije: ¡por primera vez siento una debida obligación filial hacia Adán y Eva!».*
 
+---
+
 ## Capítulo 17: Sasi y los tres zafiros
 
 
@@ -1388,6 +1420,8 @@ Yogananda
 
 *«Cursarás aquí en Serampore tus dos últimos años». «Pero señor, en esta ciudad no hay carrera de grado». Dos meses después, el Serampore College anunció el curso completo de cuatro años: «así no perderás tantas horas en trenes», sonrió el maestro.*
 
+---
+
 ## Capítulo 18: Un hacedor de milagros mahometano
 
 
@@ -1459,6 +1493,8 @@ Afzal
 
 *«Adiós, mundo: voy en busca del perdón del Amado Cósmico».*
 
+---
+
 ## Capítulo 19: Mi maestro, estando en Calcuta, aparece en Serampore
 
 
@@ -1503,6 +1539,8 @@ Yogananda
 Yogananda
 
 *«¿Lo sueñas?», se rió Dijen; pero el maestro apareció como en la visión, tras el niño de la jarra de plata: «yo también te envié un mensaje, pero no pudiste captarlo». Dijen concluyó que, junto a esto, cualquier universidad es apenas un jardín de infancia.*
+
+---
 
 ## Capítulo 20: No visitamos Cachemira
 
@@ -1567,6 +1605,8 @@ Yogananda
 Yogananda
 
 *Los amigos volvieron con el equipaje al rincón de la víspera; él citó el refrán del barco que fue y regresó, y le tomó la mano al maestro: «sin tus bendiciones, la diosa Parvati no me recibirá en el Himalaya».*
+
+---
 
 ## Capítulo 21: Visitamos Cachemira
 
@@ -1646,6 +1686,8 @@ Yogananda
 «Al escuchar la risa jovial del maestro, recordé las palabras de san Francisco de Sales: "¡un santo triste es un triste santo!"».
 
 Yogananda
+
+---
 
 ## Capítulo 22: El corazón de una imagen de piedra
 
@@ -1734,6 +1776,8 @@ Yogananda
 
 *Roma murió un año después, tal como predijo: se vistió con su atavío nupcial («este es mi último día de servicio a ti en la tierra») y abandonó conscientemente su cuerpo, feliz y sin sufrimiento. Satish, muy recluso desde entonces, meditaba con ella en un altar común.*
 
+---
+
 ## Capítulo 23: Recibo mi título universitario
 
 
@@ -1812,6 +1856,8 @@ Yogananda
 
 *Y el maestro añadió, benévolo: «al Señor le resultó más conveniente hacer de ti un graduado que reordenar el sol y la luna».*
 
+---
+
 ## Capítulo 24: Me hago monje de la Orden de los Swamis
 
 
@@ -1874,6 +1920,8 @@ Yogananda
 Yogananda
 
 *Todo swami recibe su título de otro swami, en un linaje que sube hasta Shankara: al nombre, que suele terminar en ananda, se añade el título de la subdivisión: Giri (montaña), Sagar (mar), Bharati (tierra), Puri (ciudad), y otras.*
+
+---
 
 ## Capítulo 25: El hermano Ananta y la hermana Nalini
 
@@ -1946,6 +1994,8 @@ Yogananda
 
 *«La presencia de un hombre así es una santificación sobre toda la India; dile que me cuento humildemente entre sus discípulas de Kriya Yoga».*
 
+---
+
 ## Capítulo 26: La ciencia del Kriya Yoga
 
 
@@ -2014,6 +2064,8 @@ Yogananda
 «La Llama Última recibe el sacrificio de toda locura humana, y el hombre queda puro de escoria. Con sus huesos despojados de toda carne de deseo, su esqueleto kármico blanqueado en los soles antisépticos de la sabiduría, está limpio por fin, inofensivo ante el hombre y ante su Hacedor».
 
 Yogananda
+
+---
 
 ## Capítulo 27: Fundación de una escuela de yoga en Ranchi
 
@@ -2107,6 +2159,8 @@ Yogananda
 
 *«Quizá lo descubras por otro camino». Años después supo que Pranabananda, renacido, se había ido a Badrinath, en el Himalaya.*
 
+---
+
 ## Capítulo 28: Kashi, renacido y reencontrado
 
 
@@ -2143,6 +2197,8 @@ Yogananda
 Lo dirigí a un maestro del Himalaya que, hasta el día de hoy, guía al Kashi renacido.
 
 Yogananda
+
+---
 
 ## Capítulo 29: Rabindranath Tagore y yo comparamos escuelas
 
@@ -2182,6 +2238,8 @@ Tagore
 Rabindranath Tagore
 
 *Al día siguiente se despidieron; la escuelita creció hasta ser la universidad Viswa-Bharati, y cierra con su poema del país que despierta «a ese cielo de libertad».*
+
+---
 
 ## Capítulo 30: La ley de los milagros
 
@@ -2277,6 +2335,8 @@ La oración fue evidentemente sorprendente; el haz desapareció. Mi cuerpo recup
 Yogananda
 
 *«Además, pensó filosóficamente, bien podría el profeta Elías estar disgustado por mi presunción».*
+
+---
 
 ## Capítulo 31: Una entrevista con la Madre Sagrada
 
@@ -2380,6 +2440,8 @@ Trailanga Swami
 
 *No fue venganza sino la ley de justicia: «Mía es la venganza, dice el Señor». Cuando le objetaron que honrara a un casado, Trailanga respondió que Lahiri era un gatito divino que, cumpliendo su papel de hombre de mundo, había logrado esa realización para la que él había renunciado hasta a su taparrabos.*
 
+---
+
 ## Capítulo 32: Rama es resucitado de entre los muertos
 
 
@@ -2454,6 +2516,8 @@ Sri Yukteswar
 
 *La predicción se cumplió: cincuenta años después de su muerte, en 1945, año de este libro, su vida se escribió por el interés de Occidente en el yoga. Cierra su breve biografía: nacido en 1828 en Ghurni, casado con Kashi Moni, contable; a los treinta y tres, Babaji lo inició en el Kriya Yoga cerca de Ranikhet, y el arte perdido del yoga volvió a la luz.*
 
+---
+
 ## Capítulo 33: Babaji, el yogui-Cristo de la India moderna
 
 
@@ -2509,6 +2573,8 @@ Babaji
 
 
 *El autorrealizado puede estar en dos lugares a la vez. Conclusión: Babaji fue elegido por Dios para permanecer en su cuerpo durante este ciclo del mundo; las edades pasarán y el maestro inmortal seguirá presente.*
+
+---
 
 ## Capítulo 34: Materialización de un palacio en el Himalaya
 
@@ -2572,6 +2638,8 @@ Babaji
 Lahiri Mahasaya
 
 *El cuarto oscuro se llenó de una luz como de luna y Babaji emergió: «¿Lahiri, me llamas por una bagatela? La verdad es para buscadores serios; de ahora en adelante vendré cuando me necesites, no siempre que me llames». Se quedó un rato por no desacreditar la palabra de su discípulo: hizo que cada uno tocara su carne cálida y sólida, pidió halua, charló afable, los bendijo y se desvaneció. Los Tomases dudantes quedaron convertidos en Paulos devotos.*
+
+---
 
 ## Capítulo 35: La vida de Lahiri Mahasaya, semejante a la de Cristo
 
@@ -2682,6 +2750,8 @@ Este dominio sin esfuerzo sobre la naturaleza es llamado «milagroso» por el ma
 
 Yogananda
 
+---
+
 ## Capítulo 36: El interés de Babaji por Occidente
 
 
@@ -2761,6 +2831,8 @@ Lahiri Mahasaya
 
 *De tres grandes discípulos, en tres ciudades, a la misma hora, salió la misma historia: el maestro resucitado. Cierra san Pablo: «¿Dónde está, oh muerte, tu aguijón?»*
 
+---
+
 ## Capítulo 37: Parto hacia América
 
 
@@ -2837,6 +2909,8 @@ Sri Yukteswar
 *Los años pasan: conferencias, miles de iniciados, la sede de Mt. Washington, la colina vista años atrás en una visión. Manda fotos a Serampore y el maestro responde con una postal:*
 
 
+---
+
 ## Capítulo 38: Luther Burbank, un santo entre las rosas
 
 
@@ -2884,6 +2958,8 @@ Yogananda
 
 *En 1926 le llega la muerte del amigo: se encierra veinticuatro horas y celebra un rito védico en su memoria. Los cactus sin espinas siguen creciendo en Mt. Washington.*
 
+
+---
 
 ## Capítulo 39: Therese Neumann, la estigmatizada católica
 
@@ -2964,6 +3040,8 @@ Yogananda
 
 *Se despiden en silencio. La gira sigue por Alemania, Francia y los Alpes; en Asís honran a san Francisco; en Palestina recorre Belén, Getsemaní y el Calvario. Y por fin, por el mar Rojo: la India.*
 
+
+---
 
 ## Capítulo 40: Regreso a la India
 
@@ -3063,6 +3141,8 @@ Yogananda
 «Paz, dijo pensativo. El aura de la raza es paz.»
 
 Yogananda y el señor Wright
+
+---
 
 ## Capítulo 41: Un idilio en el sur de la India
 
@@ -3178,6 +3258,8 @@ Yogananda
 Yogananda
 
 *El cansado muchacho llegó a su casa por el método antiguo y prosaico de caminar a pie. Wright y Yogananda siguen hacia Calcuta, donde lo espera el Congreso Filosófico de la India.*
+
+---
 
 ## Capítulo 42: Los últimos días con mi gurú
 
@@ -3370,6 +3452,8 @@ Añadía en silencio: «Que mis lágrimas rieguen una vez más la tumba de mi gu
 
 Yogananda
 
+---
+
 ## Capítulo 43: La resurrección de Sri Yukteswar
 
 
@@ -3553,6 +3637,8 @@ Ma
 
 Ma
 
+---
+
 ## Capítulo 44: Con Mahatma Gandhi en Wardha
 
 
@@ -3688,6 +3774,8 @@ Este profeta apacible sí es honrado en su propia tierra.
 
 Yogananda
 
+---
+
 ## Capítulo 45: La bengalí «Madre Impregnada de Gozo»
 
 
@@ -3783,6 +3871,8 @@ Ananda Moyi Ma
 Ananda Moyi Ma
 
 
+
+---
 
 ## Capítulo 46: La yoguina que nunca come
 
@@ -3885,6 +3975,8 @@ Su rostro se iluminó de sabiduría. «Para demostrar que, mediante el avance di
 
 Giri Bala
 
+---
+
 ## Capítulo 47: Regreso a Occidente
 
 
@@ -3940,6 +4032,8 @@ Un minuto después contemplaba el regalo de mi gurú que Vivekananda había prev
 Sr. Dickinson
 
 
+
+---
 
 ## Capítulo 48: En Encinitas, California
 
