@@ -164,6 +164,22 @@ El «heater» es el radiador de la calefacción, esa plancha de hierro con tubos
 
 David no se cayó: volvió al baño por su propio pie. Hoy tiene cincuenta y cinco años y vive en New Hampshire, el estado vecino de Maine, al noreste de Estados Unidos.
 
+### Ver morir
+
+[![Óleo: una muchacha se ahoga entre olas grises junto a un cabo rocoso, con un brazo en alto; en las rocas, una fila de mirones, turistas y gente del pueblo con una adolescente entre ellos, y unos hombres que retroceden vencidos por la corriente.](img/cgbacb_mientras-escribo_ver-morir.jpg)](img/cgbacb_mientras-escribo_ver-morir.jpg)
+
+King tenía cinco o seis años cuando le preguntó a su madre si alguna vez había visto morir a alguien. Sí, dijo ella: había visto morir a una persona y había oído morir a otra. ¿Cómo se puede oír morir a una persona? Era una muchacha que se ahogó frente a Prout's Neck en los años veinte: nadó mar adentro, pasó la resaca y no pudo volver; empezó a gritar pidiendo ayuda. Varios hombres intentaron alcanzarla, pero la resaca de ese día traía una corriente de fondo brava que los obligó a retroceder a todos. Al final solo pudieron quedarse ahí parados, turistas y gente del pueblo, y entre ellos la adolescente que sería la madre de King, esperando una lancha de rescate que nunca llegó y oyendo gritar a la muchacha hasta que se quedó sin fuerzas y se hundió. El cuerpo apareció en New Hampshire, dijo su madre. King preguntó qué edad tenía la muchacha:
+
+> Mom said she was fourteen, then read me a comic book and packed me off to bed.
+>
+> <small>Frase 175</small>
+
+Mamá dijo que tenía catorce años, luego me leyó un comic y me despachó a la cama.
+
+«Prout's Neck» es un cabo de la costa de Maine (dato de fuera del libro), y «the rip» es la corriente de retorno que se forma en ciertas playas y arrastra mar adentro: quien nada contra ella se cansa hasta hundirse. «Townies» es el americano para los del pueblo, frente a los turistas de paso, y «packed me off to bed» es lo que suena: lo despachó a la cama. La respuesta de la madre tiene ese orden tremendo: primero el dato, catorce años, y luego el comic y la cama, como quien cierra un cuento cualquiera.
+
+Otro día le contó la que vio: un marinero que se tiró del tejado del Graymore Hotel, en Portland, Maine, y cayó en la calle. «He splattered» —se desparramó—, dijo su madre en su tono más de todos los días. Hizo una pausa y añadió: «Lo que salió de él era verde. Nunca lo he olvidado». «That makes two of us, Mom», contesta King: ya somos dos, mamá; él tampoco lo ha olvidado.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
