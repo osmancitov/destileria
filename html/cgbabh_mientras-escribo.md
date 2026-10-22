@@ -414,6 +414,20 @@ Soy, si uno se detiene a pensarlo, miembro de un grupo bastante selecto: el últ
 
 «Video bullshit» es literal: porquería en video. Puede que esto no sea importante. Por otro lado, si estás empezando como escritor, hay peores ideas que pelar el cable del enchufe de tu televisor, enrollarle un clavo alrededor y volver a meterlo en la pared: mira qué salta, y hasta dónde. Solo una idea.
 
+### El Ackermonster
+
+[![Óleo: en una librería, un hombre mayor de gafas y sonrisa amplia hace cola entre lectores y le extiende a un escritor joven que firma libros un manuscrito viejo de cuatro páginas mecanografiadas, visiblemente ajado por las décadas.](img/cgbacb_mientras-escribo_el-ackermonster.jpg)](img/cgbacb_mientras-escribo_el-ackermonster.jpg)
+
+A finales de los años cincuenta, un agente literario y coleccionista compulsivo de recuerdos de ciencia ficción llamado Forrest J. Ackerman cambió la vida de miles de chicos —King fue uno de ellos— cuando empezó a editar una revista llamada Famous Monsters of Filmland —«Monstruos famosos del cine»—. Pregúntale a cualquiera que se haya asociado con los géneros de fantasía, horror y ciencia ficción en los últimos treinta años por esa revista, y obtendrás una risa, un destello en los ojos y una corriente de recuerdos luminosos: prácticamente lo garantiza. Hacia 1960, Forry —que a veces se refería a sí mismo como «the Ackermonster», el Ackermonstruo— derivó la breve pero interesante Spacemen, una revista dedicada a las películas de ciencia ficción. En 1960, King mandó un cuento a Spacemen. Fue, según recuerda, el primer cuento que envió jamás para su publicación. No recuerda el título, pero todavía estaba en su fase Ro-Man —el de «Robot Monster»—, y aquel cuento en particular sin duda le debía muchísimo al mono asesino con una pecera en la cabeza. Su cuento fue rechazado, pero Forry lo guardó. Y Forry lo guarda todo, como te dirá cualquiera que haya recorrido alguna vez su casa —la Ackermansion, la mansión de Ackerman—.
+
+> About twenty years later, while I was signing autographs at a Los Angeles bookstore, Forry turned up in line … with my story, single-spaced and typed with the long-vanished Royal typewriter my mom gave me for Christmas the year I was eleven.
+>
+> <small>Frase 406</small>
+
+Unos veinte años después, mientras firmaba autógrafos en una librería de Los Ángeles, Forry apareció en la cola... con mi cuento, a un solo espacio y mecanografiado con la máquina de escribir Royal, desaparecida hacía mucho, que mi mamá me regaló la Navidad del año en que cumplí once años.
+
+Forry quería que se lo firmara a él, y King supone que lo hizo, aunque todo el encuentro fue tan surrealista que no puede estar del todo seguro. «Talk about your ghosts» —hablamos de fantasmas—. Vaya por Dios.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
