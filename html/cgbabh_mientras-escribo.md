@@ -148,6 +148,22 @@ Cuando mi madre volvió del trabajo ese día, la niñera dormía profundamente e
 
 «Stevie» es el diminutivo de Stephen con que lo llama Eula-Beulah; «yarked», la palabra que King usa para vomitar, es coloquial en inglés americano.
 
+### El tejado
+
+[![Óleo: un niño pequeño descalzo, de pie sobre el radiador de hierro de un baño sencillo, se asoma a la ventana; fuera, su hermano mayor gatea por el tejado de tejas bajo un cielo gris de tarde.](img/cgbacb_mientras-escribo_el-tejado.jpg)](img/cgbacb_mientras-escribo_el-tejado.jpg)
+
+La temporada en West De Pere no fue ni larga ni buena: los echaron del apartamento del tercer piso, porque un vecino vio a David, el hermano de King, gateando por el tejado con sus seis años, y llamó a la policía. King no sabe dónde estaba su madre cuando pasó, ni dónde estaba la niñera de la semana. Solo sabe dónde estaba él:
+
+> I only know that I was in the bathroom, standing with my bare feet on the heater, watching to see if my brother would fall off the roof or make it back into the bathroom okay.
+>
+> <small>Frase 165</small>
+
+Solo sé que yo estaba en el baño, de pie con los pies descalzos sobre el radiador, mirando para ver si mi hermano se caía del tejado o lograba volver al baño sano y salvo.
+
+El «heater» es el radiador de la calefacción, esa plancha de hierro con tubos que calienta el cuarto; un niño descalzo se para encima para calentarse los pies. «Make it back» es el americano para lograr volver: el «it» no es nada, va pegado al verbo.
+
+David no se cayó: volvió al baño por su propio pie. Hoy tiene cincuenta y cinco años y vive en New Hampshire, el estado vecino de Maine, al noreste de Estados Unidos.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
