@@ -4,7 +4,7 @@
 
 [![Óleo: el escritorio de un escritor en un rincón bajo el alero, al atardecer, con una máquina de escribir y una hoja a medio escribir, una pila de cuartillas, una taza, una lámpara encendida y una caja de herramientas de carpintero cerrada junto a la ventana.](../img/261023_mientras-escribo-ii.jpg)](../img/261023_mientras-escribo-ii.jpg)
 
-*Mientras Escribo II* sigue el destilado de *On Writing*, el libro de Stephen King sobre el oficio de escribir, donde lo deja *Mientras Escribo I*: los prólogos y la memoria. Aquí empieza el cuerpo del libro con «What Writing Is» («Qué es escribir»); continúa con «Toolbox» («Caja de herramientas»), en cinco unidades, y con «On Writing» («Mientras escribo»), en diecisiete; el resto vendrá después.
+*Mientras Escribo II* sigue el destilado de *On Writing*, el libro de Stephen King sobre el oficio de escribir, donde lo deja *Mientras Escribo I*: los prólogos y la memoria. Aquí empieza el cuerpo del libro con «What Writing Is» («Qué es escribir»); continúa con «Toolbox» («Caja de herramientas»), en cinco unidades, y con «On Writing» («Mientras escribo»), en diecisiete; lo cierran «On Living» («Sobre vivir»), una posdata en siete tramos, y «And Furthermore» («Y además»), en dos partes: el taller de edición y la lista de libros. Aquí está el libro completo.
 
 ---
 
@@ -1479,6 +1479,542 @@ Por ahora: hizo lo mejor que pudo. Falta un asunto:
 Queda un asunto por discutir, uno que guarda relación directa con ese cambio de vida y que ya he tocado, aunque indirectamente.
 
 ¿Lo haces por el dinero, cariño? No: escribió por pura alegría; quien escribe por alegría lo hace siempre. Escribir no es la vida, pero a veces es camino de vuelta a ella. Lo descubrió en 1999: una furgoneta azul casi lo mata.
+---
+
+## Sobre vivir: una posdata
+
+### L1 · La cuesta de la Ruta 5
+
+[![Una cuesta corta y empinada en una carretera rural de Maine entre bosques, con un caminante de espaldas en el arcén de grava y una furgoneta azul claro asomando por la cima, luz de tarde de junio.](../img/261023_mientras-escribo-ii_ruta-5.jpg)](../img/261023_mientras-escribo-ii_ruta-5.jpg)
+
+La sección final se titula «On Living: A Postscript» («Sobre vivir: una posdata»). El 19 de junio de 1999, King sale a caminar. Una mujer que conduce por la Ruta 5 lo reconoce y ve una furgoneta dando bandazos:
+
+> I sure hope that guy in the van doesn't hit him.
+> 
+>
+> <small>Frase 3726</small>
+
+Espero de verdad que ese tipo de la furgoneta no lo atropelle.
+
+King llega a una cuesta de mala visibilidad:
+
+> I was three-quarters of the way up this hill when Bryan Smith, the owner and operator of the Dodge van, came over the crest.
+> 
+>
+> <small>Frase 3728</small>
+
+Iba a tres cuartas partes de la subida de esa cuesta cuando Bryan Smith, el dueño y conductor de la furgoneta Dodge, apareció por la cima.
+
+Smith iba por el arcén: el arcén de King. Hay un corte en la memoria de King; al otro lado está en el suelo, limpiándose los ojos. Cuando ve:
+
+> When my eyes are reasonably clear, I look around and see a man sitting on a nearby rock.
+> 
+>
+> <small>Frase 3743</small>
+
+Cuando mis ojos están razonablemente despejados, miro alrededor y veo a un hombre sentado en una roca cercana.
+
+El hombre tiene un bastón en el regazo:
+
+> This is Bryan Smith, forty-two years of age, the man who hit me with his van.
+> 
+>
+> <small>Frase 3745</small>
+
+Ese es Bryan Smith, cuarenta y dos años, el hombre que me atropelló con su furgoneta.
+
+Smith no miraba la carretera: apartaba a su rottweiler, Bullet, de una nevera con carne:
+
+> He was still looking at Bullet and pushing his head away from the cooler when he came over the top of the knoll; still looking and pushing when he struck me.
+> 
+>
+> <small>Frase 3751</small>
+
+Todavía miraba a Bullet y le apartaba la cabeza de la nevera cuando coronó el alto de la loma; todavía miraba y empujaba cuando me atropelló.
+
+Smith creyó atropellar «a small deer» («un ciervo pequeño») hasta notar las gafas ensangrentadas de King. Los cristales no se rompieron: los lleva mientras escribe esto.
+
+### L2 · ¿Voy a morir?
+
+[![En el arcén de una carretera rural, un técnico de emergencias arrodillado junto a un herido en el suelo mientras corta un anillo de su mano con unas tijeras, una ambulancia naranja y blanca con las luces de emergencia encendidas detrás.](../img/261023_mientras-escribo-ii_voy-a-morir.jpg)](../img/261023_mientras-escribo-ii_voy-a-morir.jpg)
+
+Smith, sentado en su roca, le dice que la ayuda está en camino. King está en la zanja, la cadera girada. «Please tell me it's just dislocated» («Dime que solo está dislocada»), pide; «Nah»: rota en cinco o seis sitios. Llega el técnico de emergencias Paul Fillebrown. King pregunta si va a morir; necesita hospital, y rápido: ¿cuál prefiere?
+
+> I tell him I want to go to Northern Cumberland Hospital in Bridgton, because my youngest child—the one I just took to the airport—was born there twenty-two years before.
+> 
+>
+> <small>Frase 3781</small>
+
+Le digo que quiero ir al Northern Cumberland Hospital de Bridgton, porque mi hijo menor —el que acabo de llevar al aeropuerto— nació allí veintidós años antes.
+
+Vuelve a preguntarlo, y entonces Fillebrown le hace una prueba:
+
+> Then he asks me if I can wiggle the toes on my right foot.
+> 
+>
+> <small>Frase 3783</small>
+
+Entonces me pregunta si puedo mover los dedos del pie derecho.
+
+Los mueve pensando en la rima de su madre, «This little piggy went to market» («Este cerdito fue al mercado»), pero recuerda que los paralizados a veces creen moverse: «¿se movieron?». Fillebrown jura que sí. King vuelve a apagarse; al regresar, Fillebrown se inclina sobre su cara:
+
+> Fillebrown asks me, very slowly and loudly, bending down into my face, if my wife is at the big house on the lake.
+> 
+>
+> <small>Frase 3793</small>
+
+Fillebrown me pregunta, muy despacio y muy alto, inclinándose hacia mi cara, si mi esposa está en la casa grande del lago.
+
+No lo recuerda; no sabe dónde está nadie de su familia, pero los números los tiene todos:
+
+> I can't remember where any of my family is, but I'm able to give him the telephone numbers of both our big house and the cottage on the far side of the lake where my daughter sometimes stays.
+> 
+>
+> <small>Frase 3795</small>
+
+No recuerdo dónde está nadie de mi familia, pero puedo darle los números de teléfono de nuestra casa grande y de la cabaña al otro lado del lago, donde a veces se queda mi hija.
+
+Llegan más socorristas; lo suben a la camilla. Fillebrown saca unas tijeras:
+
+> He has a pair of clippers and tells me he's going to have to cut the ring off the third finger of my right hand—it's a wedding ring Tabby gave me in 1983, twelve years after we were actually married.
+> 
+>
+> <small>Frase 3807</small>
+
+Tiene unas tijeras y me dice que va a tener que cortar el anillo del tercer dedo de mi mano derecha —es un anillo de boda que me dio Tabby en 1983, doce años después de casados de verdad.
+
+Tabby es Tabitha Spruce, esposa de King.
+
+King intenta explicarle por qué ese anillo va en la mano derecha:
+
+> I try to tell Fillebrown that I wear it on my right hand because the real wedding ring is still on the third finger of my left—the original two-ring set cost me $15.95 at Day's Jewelers in Bangor.
+> 
+>
+> <small>Frase 3808</small>
+
+Intento explicarle a Fillebrown que lo llevo en la mano derecha porque el verdadero anillo de boda sigue en el tercer dedo de la izquierda —el juego original de dos anillos me costó 15,95 dólares en Day's Jewelers de Bangor.
+
+Le sale una versión incomprensible; Fillebrown asiente mientras corta. Dos meses después King lo llama para agradecérselo: probablemente le salvó la vida llevándolo a ciento diez millas por hora por carreteras bacheadas. Fillebrown responde:
+
+> Fillebrown assures me that I'm more than welcome, then suggests that perhaps someone was watching out for me.
+> 
+>
+> <small>Frase 3812</small>
+
+Fillebrown me asegura que no hay de qué, con creces, y luego sugiere que tal vez alguien velaba por mí.
+
+Veinte años de oficio, y al verlo en la zanja no creyó que llegara: «You're a lucky camper» («Tienes suerte de seguir en el programa»). Un helicóptero lo traslada a Lewiston. En el vuelo se le colapsa un pulmón; King, mirando el cielo azul, piensa que no quiere morir: ama a su esposa, a sus hijos, sus paseos junto al lago, y tiene un libro a medias en su escritorio. «Tell Tabby I love her very much» («Dile a Tabby que la quiero mucho»), dice antes de apagarse. Esta vez no hay empalme: oscuridad.
+
+### L3 · Canicas en un calcetín
+
+[![Un calcetín blanco lleno de canicas de vidrio sobre una mesa de madera de quirófano, con instrumental quirúrgico desenfocado al fondo, luz clara y fría.](../img/261023_mientras-escribo-ii_canicas-en-un-calcetin.jpg)](../img/261023_mientras-escribo-ii_canicas-en-un-calcetin.jpg)
+
+Smith calculó cinco o seis roturas; se quedó corto:
+
+> My lower leg was broken in at least nine places— the orthopedic surgeon who put me together again, the formidable David Brown, said that the region below my right knee had been reduced to “so many marbles in a sock.”
+> 
+>
+> <small>Frase 3884</small>
+
+La parte inferior de mi pierna se rompió en al menos nueve sitios —el cirujano ortopédico que me recompuso, el formidable David Brown, dijo que la zona bajo mi rodilla derecha había quedado reducida a «canicas en un calcetín».
+
+Dos fasciotomías —cortes para aliviar la presión y que la sangre volviera a la pierna— le salvaron la pierna de la amputación.
+
+Rodilla partida, fracturas de cadera y fémur, columna astillada en ocho sitios, cuatro costillas rotas, cuero cabelludo cosido.
+
+### L4 · Dos cargos
+
+[![Una sala de tribunal de madera vista desde un rincón, con un jurado en sombra y un acusado solitario de espaldas en primer plano, luz dura de ventana lateral.](../img/261023_mientras-escribo-ii_dos-cargos.jpg)](../img/261023_mientras-escribo-ii_dos-cargos.jpg)
+
+Sigue la cuenta judicial:
+
+> Mr. Smith’s driving behavior in this case was eventually examined by a grand jury, who indicted him on two counts: driving to endanger (pretty serious) and aggravated assault (very serious, the kind of thing that means jail time).
+> 
+>
+> <small>Frase 3894</small>
+
+La conducta al volante del Sr. Smith en este caso acabó siendo examinada por un gran jurado, que lo acusó de dos cargos: conducción temeraria (bastante grave) y asalto agravado (muy grave, de los que significan cárcel).
+
+Un gran jurado es el cuerpo de ciudadanos que decide si hay pruebas para llevar a alguien a juicio.
+
+Culpable del cargo menor: seis meses condicionales, un año sin licencia, libertad vigilada.
+
+### L5 · Aprender a caminar de nuevo
+
+[![Un hombre da sus primeros pasos apoyado en un andador por el pasillo de una casa, con una escalera de madera al fondo.](../img/261023_mientras-escribo-ii_aprender-a-caminar.jpg)](../img/261023_mientras-escribo-ii_aprender-a-caminar.jpg)
+
+Así quedó:
+
+> David Brown put my leg back together in five marathon surgical procedures that left me thin, weak, and nearly at the end of my endurance.
+> 
+>
+> <small>Frase 3899</small>
+
+David Brown recompuso mi pierna en cinco maratonianas intervenciones quirúrgicas que me dejaron delgado, débil y casi al final de mi resistencia.
+
+Un fijador externo de acero sujetaba la pierna; las enfermeras limpiaban sus clavos tres veces al día. Los primeros pasos: diez, en un pasillo. Otra paciente reaprendía a la vez: Alice, ochenta años.
+
+Los clavos Schanz son grandes pernos de acero que atraviesan el fijador externo hasta el hueso; el fijador es una armazón que sostiene la pierna desde fuera.
+
+> We cheered each other on when we had enough breath to do so.
+> 
+>
+> <small>Frase 3916</small>
+
+Nos animábamos el uno al otro cuando teníamos aliento para hacerlo.
+
+> On our third day in the downstairs hall, I told Alice that her slip was showing.
+> 
+>
+> <small>Frase 3917</small>
+
+El tercer día en el pasillo de abajo, le dije a Alice que se le veía la enagua.
+
+Ella contestó que el que enseñaba el trasero era él, y siguió. El 4 de julio salió en la silla a ver los fuegos; el 4 de agosto, de vuelta al quirófano. Al despertar:
+
+> When I woke up this time, the Schanz pins in my upper thigh were gone.
+> 
+>
+> <small>Frase 3932</small>
+
+Cuando desperté esta vez, los clavos Schanz de la parte superior de mi muslo habían desaparecido.
+
+La rodilla volvía a doblarse:
+
+> Dr. Brown pronounced my recovery “on course” and sent me home for more rehab and physical therapy (those of us undergoing P.T. know that the letters actually stand for Pain and Torture).
+> 
+>
+> <small>Frase 3934</small>
+
+El Dr. Brown declaró mi recuperación «en curso» y me mandó a casa a más rehabilitación y fisioterapia (quienes pasamos por la P.T. sabemos que las siglas significan en realidad Pain and Torture: dolor y tortura).
+
+Y en medio de todo: el 24 de julio, cinco semanas después del atropello, volvió a escribir.
+
+### L6 · El voto decisivo
+
+[![Una mesita improvisada en el pasillo de atrás de una casa junto a la despensa, con una laptop, una impresora pequeña, una lámpara y un ventilador encendido; una silla de ruedas vacía frente a la mesa, luz de tarde calurosa.](../img/261023_mientras-escribo-ii_el-nido-del-pasillo.jpg)](../img/261023_mientras-escribo-ii_el-nido-del-pasillo.jpg)
+
+On Writing había empezado a fines de 1997, quedó apartado —el primer inconcluso desde The Stand— y en junio de 1999 decidió terminarlo: el 18 escribió las primeras cuatro páginas. En su matrimonio, Tabby había emitido a veces el voto de desempate por él; le gusta pensar que él hizo lo mismo por ella:
+
+> I’d like to think I’ve done the same for her from time to time, because it seems to me that one of the things marriage is about is casting the tiebreaking vote when you just can’t decide what you should do next.
+> 
+>
+> <small>Frase 3960</small>
+
+Me gusta pensar que yo he hecho lo mismo por ella de vez en cuando, porque me parece que una de las cosas de las que va el matrimonio es emitir el voto de desempate cuando simplemente no puedes decidir qué hacer después.
+
+Cinco semanas después del accidente, una mañana de julio, le dijo que creía que debía volver al trabajo:
+
+> When I told her on that July morning that I thought I’d better go back to work, I expected a lecture.
+> 
+>
+> <small>Frase 3962</small>
+
+Cuando le dije aquella mañana de julio que me parecía que debía volver al trabajo, esperaba un sermón.
+
+No hubo sermón. «¿Dónde vas a trabajar?», preguntó, y ofreció armarle una mesa en el pasillo de atrás, junto a la despensa: enchufes, la Mac, la impresora pequeña, un ventilador para el calor. Dos horas después, a las cuatro, lo llevó en la silla de ruedas:
+
+> She had made me a wonderful little nest there: laptop and printer connected side by side, table lamp, manuscript (with my notes from the month before placed neatly on top), pens, reference materials.
+> 
+>
+> <small>Frase 3970</small>
+
+Me había hecho un nido pequeño y maravilloso: la laptop y la impresora conectadas lado a lado, una lámpara de mesa, el manuscrito (con mis notas del mes anterior ordenadas encima), bolígrafos, materiales de consulta.
+
+En la esquina, una foto enmarcada del hijo menor. «¿Está bien?», preguntó ella:
+
+> “It’s gorgeous,” I said, and hugged her.
+> 
+>
+> <small>Frase 3973</small>
+
+—Es precioso —dije, y la abracé.
+
+Era precioso. Ella también.
+
+> The former Tabitha Spruce of Oldtown, Maine, knows when I’m working too hard, but she also knows that sometimes it’s the work that bails me out.
+> 
+>
+> <small>Frase 3976</small>
+
+La que fuera Tabitha Spruce de Oldtown, Maine, sabe cuándo trabajo demasiado, pero también sabe que a veces es el trabajo lo que me saca a flote.
+
+Lo besó en la sien y lo dejó solo. La primera sesión duró una hora y cuarenta minutos, el mayor tiempo sentado desde el atropello: sudor y un dolor de cadera casi apocalíptico. Pero quedaba algo: sin el olfato de ella, no sabe cuándo se habría atrevido.
+
+### L7 · El agua de la vida
+
+[![Un vaso de agua sobre la mesita de un cuarto de convalecencia junto a una ventana con luz de verano, con una pierna escayolada apenas visible.](../img/261023_mientras-escribo-ii_agua-de-vida.jpg)](../img/261023_mientras-escribo-ii_agua-de-vida.jpg)
+
+Mejoró. Hay días de barro y días de despegue:
+
+> That makes me happy, because it’s what I was made to do.
+> 
+>
+> <small>Frase 4002</small>
+
+Eso me hace feliz, porque es para lo que fui hecho.
+
+Escribir no le salvó la vida: la ciencia de Brown y el cuidado de su esposa, sí. Es enriquecer vidas; levantarse, sanar, ser feliz. Del libro:
+
+> Some of this book—perhaps too much—has been about how I learned to do it.
+> 
+>
+> <small>Frase 4010</small>
+
+Parte de este libro —quizá demasiada— ha sido sobre cómo aprendí a hacerlo.
+
+> Much of it has been about how you can do it better.
+> 
+>
+> <small>Frase 4011</small>
+
+Mucho ha sido sobre cómo puedes hacerlo mejor.
+
+El resto es un permiso: tú puedes. La escritura es agua de vida, y es gratis: bebe.
+
+---
+
+## Y además I: puerta cerrada, puerta abierta
+
+### F1a · La historia desnuda
+
+[![Un manuscrito a máquina sobre un escritorio, en calcetines y ropa interior una página personificada junto a una puerta cerrada, luz cálida de lámpara.](../img/261023_mientras-escribo-ii_la-historia-desnuda.jpg)](../img/261023_mientras-escribo-ii_la-historia-desnuda.jpg)
+
+Antes editó no ficción; esto es ficción en bruto, a puerta cerrada:
+
+> I suggest that you look at it closely before going on to the edited version.
+> 
+>
+> <small>Frase 4022</small>
+
+Sugiero que la mires con atención antes de pasar a la versión editada.
+
+Puerta cerrada: escribir el primer borrador para uno mismo, sin mostrarlo.
+
+### F1b · La historia del hotel
+
+[![La oficina de un gerente de hotel con paneles de roble y fotos antiguas del hotel en las paredes, dos hombres conversan junto a un escritorio con un humidor, uno de ellos con un cigarrillo detrás de la oreja, alfombra persa.](../img/261023_mientras-escribo-ii_la-historia-del-hotel.jpg)](../img/261023_mientras-escribo-ii_la-historia-del-hotel.jpg)
+
+El pasaje en bruto: Mike Enslin, autor de libros sobre lugares embrujados, llega al Hotel Dolphin a pasar la noche en la habitación 1408. Ve al gerente, Ostermeyer, y se le hunde el corazón: quizá debió traer al abogado. Pero tampoco está mal:
+
+> And even if Ostermeyer had decided to throw up another roadblock or two between Mike and room 1408, that wasn’t all bad; it would simply add to the story when he finally told it.
+> 
+>
+> <small>Frase 4028</small>
+
+E incluso si Ostermeyer hubiera decidido levantar otro obstáculo o dos entre Mike y la habitación 1408, no era del todo malo; simplemente se sumaría a la historia cuando por fin la contara.
+
+En el vestíbulo, el gerente intenta disuadirlo una vez más, y Mike por fin lo entiende: el hombre no está fingiendo:
+
+> Ostermeyer was really afraid of room 1408, and what might happen to Mike there tonight.
+> 
+>
+> <small>Frase 4056</small>
+
+Ostermeyer tenía miedo de verdad de la habitación 1408, y de lo que pudiera pasarle a Mike allí esta noche.
+
+Mike pregunta si deja su bolso en recepción:
+
+> “Oh, we’ll bring it along, shall we?”
+> 
+>
+> <small>Frase 4059</small>
+
+—Oh, lo llevaremos con nosotros, ¿no?
+
+Ostermeyer, el buen anfitrión, alarga la mano hacia el bolso: todavía guarda la esperanza de persuadirlo:
+
+> Otherwise, he would have directed Mike to the desk … or taken it there himself.
+> 
+>
+> <small>Frase 4062</small>
+
+De lo contrario, habría dirigido a Mike a la recepción… o lo habría llevado él mismo.
+
+«Permítame». En el vestíbulo parecía vacilante, abatido, casi vencido; en su territorio es otro:
+
+> In his oak-paneled office, with the pictures of the hotel on the walls (the Dolphin had opened in October of 1910—Mike might publish without the benefit of reviews in the journals or the big-city papers, but he did his research), Ostermeyer seemed to gain assurance again.
+> 
+>
+> <small>Frase 4074</small>
+
+En su oficina con paneles de roble, con las fotos del hotel en las paredes (el Dolphin había abierto en octubre de 1910 —Mike publicaba sin el beneficio de las reseñas de las revistas o los periódicos de las grandes ciudades, pero investigaba), Ostermeyer pareció recobrar la seguridad.
+
+Alfombra persa, lámparas de pie, un humidor. Ostermeyer ofrece un puro; Mike no fuma. Entonces los ojos del gerente caen en el cigarrillo detrás de su oreja derecha:
+
+> The cigarette had become so much a part of him that for a moment Mike honestly didn’t know what Ostermeyer was looking at.
+> 
+>
+> <small>Frase 4090</small>
+
+El cigarrillo se había vuelto tan parte de él que por un momento Mike no supo honestamente a qué miraba Ostermeyer.
+
+> Then he remembered, laughed, took it down, looked at it himself, then looked back at Ostermeyer.
+> 
+>
+> <small>Frase 4091</small>
+
+Entonces lo recordó, se rio, lo bajó, lo miró y volvió a mirar a Ostermeyer.
+
+Nueve años sin fumar; es un adorno con aire canalla —su hermano murió de cáncer de pulmón—. Ostermeyer suspira sin gracia, pero aquí dentro está menos alterado. Es la sala:
+
+> Even this afternoon, when Mike had come accompanied by Robertson, the lawyer, Ostermeyer had seemed less flustered once they were in here.
+> 
+>
+> <small>Frase 4107</small>
+
+Incluso esta tarde, cuando Mike había venido acompañado de Robertson, el abogado, Ostermeyer había parecido menos alterado una vez que estuvieron aquí dentro.
+
+Mike creyó que era la privacidad; ahora sabe que es la sala en sí: buenas fotos, buena alfombra, buenos puros, el sitio propio de un gerente desde 1910. Un último intento:
+
+> “You still don’t think I can talk you out of this idea of yours, do you?”
+> 
+>
+> <small>Frase 4115</small>
+
+—Todavía no crees que pueda disuadirte de esta idea tuya, ¿verdad?
+
+> “I know you can’t,” Mike said, replacing the cigarette behind his ear.
+> 
+>
+> <small>Frase 4117</small>
+
+—Sé que no puedes —dijo Mike, volviendo a colocarse el cigarrillo detrás de la oreja.
+
+Luego viene la misma apertura revisada, «la historia vistiéndose», lista para abrir la puerta. Los cambios son sobre todo cortes, con Strunk en mente: «omit needless words» («omite las palabras innecesarias»). King anota nueve: fuera un adverbio —«shortly», pisoteado, «sin piedad»—, se queda otro —«heartily», porque Mike se burla apenas un poco— y fuera un pasaje que subraya lo obvio y lo repite. Pensó incluir el cuento completo —se llamó «1408»—, pero no hace falta: «This is about engine maintenance, not joyriding» («Esto es mantenimiento del motor, no un paseo por gusto»).
+
+William Strunk Jr. escribió The Elements of Style, el manual de estilo que la sección de herramientas de este libro manda leer y releer.
+
+---
+
+## Y además II: una lista de libros
+
+### F2a · ¿Qué lees?
+
+[![Un escritor en un atril durante una charla en una librería, entre el público una mano alzada haciendo una pregunta, estantes de libros al fondo, luz cálida.](../img/261023_mientras-escribo-ii_que-lees.jpg)](../img/261023_mientras-escribo-ii_que-lees.jpg)
+
+Su regla de oro: escribe mucho y lee mucho. Alguien pregunta: «¿qué lees?». Esta lista es la respuesta concreta:
+
+> These are the best books I’ve read over the last three or four years, the period during which I wrote The Girl Who Loved Tom Gordon, Hearts in Atlantis, On Writing, and the as-yet-unpublished From a Buick Eight.
+> 
+>
+> <small>Frase 4175</small>
+
+Estos son los mejores libros que he leído en los últimos tres o cuatro años, el período en que escribí The Girl Who Loved Tom Gordon, Hearts in Atlantis, On Writing y la aún inédita From a Buick Eight.
+
+No es club de lectura: son los que le funcionaron, y entretienen.
+
+### F2b · Noventa y seis libros
+
+[![Una pila de libros de bolsillo muy leídos, con lomos gastados de colores variados, sobre una mesa junto a una lámpara de lectura.](../img/261023_mientras-escribo-ii_noventa-y-seis-libros.jpg)](../img/261023_mientras-escribo-ii_noventa-y-seis-libros.jpg)
+
+La lista completa, tal como la deja King:
+
+> Abrahams, Peter: A Perfect Crime  
+> Abrahams, Peter: Lights Out  
+> Abrahams, Peter: Pressure Drop  
+> Abrahams, Peter: Revolution #9  
+> Agee, James: A Death in the Family  
+> Bakis, Kirsten: Lives of the Monster Dogs  
+> Barker, Pat: Regeneration  
+> Barker, Pat: The Eye in the Door  
+> Barker, Pat: The Ghost Road  
+> Bausch, Richard: In the Night Season  
+> Blauner, Peter: The Intruder  
+> Bowles, Paul: The Sheltering Sky  
+> Boyle, T. Coraghessan: The Tortilla Curtain  
+> Bryson, Bill: A Walk in the Woods  
+> Buckley, Christopher: Thank You for Smoking  
+> Carver, Raymond: Where I’m Calling From  
+> Chabon, Michael: Werewolves in Their Youth  
+> Chorlton, Windsor: Latitude Zero  
+> Connelly, Michael: The Poet  
+> Conrad, Joseph: Heart of Darkness  
+> Constantine, K. C.: Family Values  
+> DeLillo, Don: Underworld  
+> DeMille, Nelson: Cathedral  
+> DeMille, Nelson: The Gold Coast  
+> Dickens, Charles: Oliver Twist  
+> Dobyns, Stephen: Common Carnage  
+> Dobyns, Stephen: The Church of Dead Girls  
+> Doyle, Roddy: The Woman Who Walked into Doors  
+> Elkin, Stanley: The Dick Gibson Show  
+> Faulkner, William: As I Lay Dying  
+> Garland, Alex: The Beach  
+> George, Elizabeth: Deception on His Mind  
+> Gerritsen, Tess: Gravity  
+> Golding, William: Lord of the Flies  
+> Gray, Muriel: Furnace  
+> Greene, Graham: A Gun for Sale (aka This Gun for Hire)  
+> Greene, Graham: Our Man in Havana  
+> Halberstam, David: The Fifties  
+> Hamill, Pete: Why Sinatra Matters  
+> Harris, Thomas: Hannibal  
+> Haruf, Kent: Plainsong  
+> Hoeg, Peter: Smilla’s Sense of Snow  
+> Hunter, Stephen: Dirty White Boys  
+> Ignatius, David: A Firing Offense  
+> Irving, John: A Widow for One Year  
+> Joyce, Graham: The Tooth Fairy  
+> Judd, Alan: The Devil’s Own Work  
+> Kahn, Roger: Good Enough to Dream  
+> Karr, Mary: The Liars’ Club  
+> Ketchum, Jack: Right to Life  
+> King, Tabitha: Survivor  
+> King, Tabitha: The Sky in the Water (unpublished)  
+> Kingsolver, Barbara: The Poisonwood Bible  
+> Krakauer, Jon: Into Thin Air  
+> Lee, Harper: To Kill a Mockingbird  
+> Lefkowitz, Bernard: Our Guys  
+> Little, Bentley: The Ignored  
+> Maclean, Norman: A River Runs Through It and Other Stories  
+> Maugham, W. Somerset: The Moon and Sixpence  
+> McCarthy, Cormac: Cities of the Plain  
+> McCarthy, Cormac: The Crossing  
+> McCourt, Frank: Angela’s Ashes  
+> McDermott, Alice: Charming Billy  
+> McDevitt, Jack: Ancient Shores  
+> McEwan, Ian: Enduring Love  
+> McEwan, Ian: The Cement Garden  
+> McMurtry, Larry: Dead Man’s Walk  
+> McMurtry, Larry, and Diana Ossana: Zeke and Ned  
+> Miller, Walter M.: A Canticle for Leibowitz  
+> Oates, Joyce Carol: Zombie  
+> O’Brien, Tim: In the Lake of the Woods  
+> O’Nan, Stewart: The Speed Queen  
+> Ondaatje, Michael: The English Patient  
+> Patterson, Richard North: No Safe Place  
+> Price, Richard: Freedomland  
+> Proulx, Annie: Close Range: Wyoming Stories  
+> Proulx, Annie: The Shipping News  
+> Quindlen, Anna: One True Thing  
+> Rendell, Ruth: A Sight for Sore Eyes  
+> Robinson, Frank M.: Waiting  
+> Rowling, J. K.: Harry Potter and the Chamber of Secrets  
+> Rowling, J. K.: Harry Potter and the Prisoner of Azakaban  
+> Rowling, J. K.: Harry Potter and the Sorcerer’s Stone  
+> Russo, Richard: Mohawk  
+> Schwartz, John Burnham: Reservation Road  
+> Seth, Vikram: A Suitable Boy  
+> Shaw, Irwin: The Young Lions  
+> Slotkin, Richard: The Crater  
+> Smith, Dinitia: The Illusionist  
+> Spencer, Scott: Men in Black  
+> Stegner, Wallace: Joe Hill  
+> Tartt, Donna: The Secret History  
+> Tyler, Anne: A Patchwork Planet  
+> Vonnegut, Kurt: Hocus Pocus  
+> Waugh, Evelyn: Brideshead Revisited  
+> Westlake, Donald E.: The Ax  
+>
+>   
+
+>   
+>
+> <small>Frases 4182–4277</small>
+
+Los títulos van en su idioma original; es una lista de lectura, no una selección de este trabajo: están los noventa y seis.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
