@@ -794,6 +794,32 @@ Un día, ya avanzado mi último semestre de la universidad, con los exámenes fi
 
 Solo estaba matando el tiempo una tarde de finales de primavera, pero dos meses después la revista Cavalier —una de aquellas revistas masculinas de quiosco que publicaban ficción, dato de fuera del libro— compró el cuento por doscientos dólares. Antes había vendido otros dos cuentos que juntos le habían reportado solo sesenta y cinco dólares; esto era tres veces más, y de un solo golpe. Le quitó el aliento. Era rico. («Graveyard Shift» —«El turno de noche»— acabaría reimpreso en su primera colección de cuentos, «Night Shift», dato de fuera del libro.)
 
+---
+
+### M23 · La risa sin miedo
+
+[![Impresionismo: un almuerzo sobre la hierba detrás de una librería universitaria en el verano de 1969; entre varios jóvenes, una muchacha menuda de pelo cobrizo y falda amarilla corta se ríe con desparpajo, un libro en la mano.](../img/261017_mientras-escribo_la-risa-sin-miedo.jpg)](../img/261017_mientras-escribo_la-risa-sin-miedo.jpg)
+
+En el verano de 1969, King consiguió un trabajo «work-study» —empleo a media jornada para estudiantes con beca, dato de fuera del libro— en la biblioteca de la Universidad de Maine. Fue una temporada a la vez hermosa y tormentosa. En Vietnam, Nixon ejecutaba su plan para terminar la guerra, que parecía consistir en bombardear la mayor parte del Sudeste Asiático hasta convertirla en Kibbles 'n Bits —una marca de comida para perros, dato de fuera del libro—. «Conozcan al nuevo jefe —cantaban The Who, la banda de rock británica—: igual que el jefe de antes». Eugene McCarthy —el senador que había disputado la candidatura presidencial demócrata en 1968, dato de fuera del libro— se dedicaba a su poesía, y los hippies felices llevaban pantalones de campana y camisetas con lemas como «MATAR POR LA PAZ ES COMO FOLLAR POR LA CASTIDAD». King tenía unas magníficas patillas de chuleta —«muttonchops», glosa—. Creedence Clearwater Revival cantaba «Green River» —chicas descalzas bailando a la luz de la luna— y Kenny Rogers aún estaba con The First Edition. Martin Luther King y Robert Kennedy estaban muertos, pero Janis Joplin, Jim Morrison, Bob «The Bear» Hite, Jimi Hendrix, Cass Elliot, John Lennon y Elvis Presley seguían vivos y haciendo música. King vivía justo al lado del campus, en Ed Price's Rooms —una pensión—, a siete dólares la semana con un cambio de sábanas incluido. Los hombres habían alunizado —el Apolo 11, julio de 1969, dato de fuera del libro— y él había entrado en la lista del decano —el cuadro de honor de las mejores notas, dato de fuera del libro—. Los milagros y las maravillas abundaban.
+
+Un día de finales de junio de aquel verano, un grupo de los chicos de la biblioteca almorzó sobre la hierba detrás de la librería de la universidad. Sentada entre Paolo Silva y Eddie Marsh había una muchacha menuda, de risa escandalosa, pelo teñido de rojo y las piernas más bonitas que King había visto jamás, bien a la vista bajo una falda amarilla corta. Llevaba un ejemplar de «Soul on Ice», de Eldridge Cleaver —las memorias del activista de los Panteras Negras, lectura seria y militante, dato de fuera del libro—.
+
+> I hadn’t run across her in the library, and I didn’t believe a college student could utter such a wonderful, unafraid laugh.
+>
+> <small>Frase 787</small>
+
+No me la había cruzado por la biblioteca, y no me creía que una estudiante universitaria pudiera soltar una risa tan maravillosa y tan sin miedo.
+
+Además, lectura seria o no, la muchacha juraba como una obrera de fábrica y no como una «coed» —una estudiante de universidad mixta, glosa—. Y King, que había sido obrero de fábrica, estaba cualificado para juzgarlo. Se llamaba Tabitha Spruce. Se casaron un año y medio después.
+
+> We’re still married, and she has never let me forget that the first time I met her I thought she was Eddie Marsh’s townie girlfriend.
+>
+> <small>Frase 792</small>
+
+Seguimos casados, y ella nunca me ha dejado olvidar que la primera vez que la vi pensé que era la novia del pueblo de Eddie Marsh.
+
+Quizá, pensó King, una camarera lectora de la pizzería local en su tarde libre. (Tabitha Spruce sería después Tabitha King, novelista ella misma y primera lectora de casi todo lo que él escribiría —dato de fuera del libro—.)
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
