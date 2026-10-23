@@ -460,6 +460,8 @@ Forry quería que se lo firmara a él, y King supone que lo hizo, aunque todo el
 
 ### M14 · Yo fui un ladrón de tumbas adolescente
 
+[![Grabado: un adolescente con pala y linterna desentierra algo de noche en un cementerio viejo entre lápidas torcidas y niebla baja, con la luna grande entre nubes y un cuervo sobre una lápida, al estilo de Gustave Doré.](../img/261017_mientras-escribo_yo-fui-un-ladron-de-tumbas-adolescente.jpg)](../img/261017_mientras-escribo_yo-fui-un-ladron-de-tumbas-adolescente.jpg)]
+
 El primer cuento que King publicó de verdad salió en un fanzine de horror —una revista hecha por y para aficionados— editado por Mike Garrett, de Birmingham, Alabama —Mike sigue por ahí, y sigue en el negocio—.
 
 > He published this novella under the title “In a Half-World of Terror,” but I still like my title much better.
