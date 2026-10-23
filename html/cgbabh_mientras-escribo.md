@@ -800,6 +800,8 @@ Si tienes mucha suerte —esto es idea mía, no de John Gould, aunque creo que �
 
 ### M22 · Ratas grandes como perros
 
+[![Grabado: una enorme fábrica textil de ladrillo se asoma sobre un río contaminado al anochecer mientras un adolescente con una fiambrera entra por una puerta iluminada a su turno de noche, y en la oscuridad de un ventanal del sótano se adivina una rata grande como un perro, al estilo de Käthe Kollwitz.](../img/261017_mientras-escribo_ratas-grandes-como-perros.jpg)](../img/261017_mientras-escribo_ratas-grandes-como-perros.jpg)]
+
 Nada más volver del viaje de fin de curso a Washington, D.C., King consiguió trabajo en Worumbo Mills and Weaving, la fábrica textil de Lisbon Falls.
 
 > I didn’t want it—the work was hard and boring, the mill itself a dingy fuckhole overhanging the polluted Androscoggin River like a workhouse in a Charles Dickens novel—but I needed the paycheck.
