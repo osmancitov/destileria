@@ -1,6 +1,6 @@
 # Mientras escribo
 
-[![Óleo: una vieja caja de herramientas de carpintero abierta sobre el escritorio de un escritor, con un manuscrito mecanografiado y una pluma entre las herramientas, una máquina de escribir y una pila de cuartillas al lado, en luz cálida de taller al final de la tarde.](img/cgbabh_mientras-escribo.jpg)](img/cgbabh_mientras-escribo.jpg)
+[![Óleo: una vieja caja de herramientas de carpintero abierta sobre el escritorio de un escritor, con un manuscrito mecanografiado y una pluma entre las herramientas, una máquina de escribir y una pila de cuartillas al lado, en luz cálida de taller al final de la tarde.](../img/261017_mientras-escribo.jpg)](../img/261017_mientras-escribo.jpg)
 
 *Mientras escribo* es el título castellano de *On Writing*, el libro en que Stephen King cuenta cómo llegó al oficio y cómo se hace. Salió en el año 2000. Antes de entrar en materia trae tres prólogos cortos; después viene el cuerpo del libro: La memoria, y luego qué es escribir, la caja de herramientas y más. Aquí lo destilamos en ese orden, empezando por lo primero que King pone en manos del lector: los prólogos.
 
@@ -10,7 +10,7 @@
 
 ### La pregunta de Amy
 
-[![Pintura: una mesa redonda de restaurante chino de noche, con comensales que brindan y comparten platos bajo una lámpara de papel cálida; en primer plano, un hombre de pelo largo, barba y gafas se inclina hacia una mujer que lo escucha pensativa, con los palillos en la mano, al estilo de Toulouse-Lautrec.](img/cgbabh_cena-miami-beach.jpg)](img/cgbabh_cena-miami-beach.jpg)
+[![Pintura: una mesa redonda de restaurante chino de noche, con comensales que brindan y comparten platos bajo una lámpara de papel cálida; en primer plano, un hombre de pelo largo, barba y gafas se inclina hacia una mujer que lo escucha pensativa, con los palillos en la mano, al estilo de Toulouse-Lautrec.](../img/261017_mientras-escribo_cena-miami-beach.jpg)](../img/261017_mientras-escribo_cena-miami-beach.jpg)
 
 El primer prólogo no empieza con el libro, sino con una banda. King cuenta cómo, hace años, se metió en un grupo de rock hecho casi todo de escritores:
 
