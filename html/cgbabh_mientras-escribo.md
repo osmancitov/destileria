@@ -1033,6 +1033,36 @@ Yo llevaba a Naomi y una bolsa de viaje llena de equipo de supervivencia para be
 
 Ella arrastraba detrás un saco de pañales sucios. Los dos sabían que Naomi necesitaba THE PINK STUFF —«LA COSA ROSA», como llamaban a la amoxicilina líquida, glosa—, y LA COSA ROSA era cara y estaban pelados. Pelados en serio. King consiguió abrir la puerta de abajo sin soltar a su hija —ardía tanto que le brillaba contra el pecho como una brasa— y entonces vio un sobre asomando del buzón: una entrega de sábado, cosa rara. Los matrimonios jóvenes no reciben mucho correo; todo el mundo, salvo las compañías del gas y de la luz, parece olvidar que están vivos. Lo cogió rezando para que no fuera otra factura. No lo era: sus amigos de la Dugent Publishing Corporation —los editores de Cavalier y otras publicaciones para adultos, glosa— le enviaban un cheque por «Sometimes They Come Back» —«A veces vuelven», un cuento largo que él no creía que fuera a vender en ninguna parte—. El cheque era de quinientos dólares, de lejos la mayor suma que había recibido nunca. De repente podían permitirse no solo la visita al médico y un frasco de LA COSA ROSA, sino también una buena cena de domingo por la noche. Y él imagina que, una vez dormidos los niños, Tabby y él se pusieron cariñosos. Cree que fueron muy felices en aquellos días, aunque también pasaban mucho miedo: no eran mucho más que un par de críos, y ponerse cariñosos ayudaba a mantener a raya los bajones. Se cuidaban a sí mismos, a los niños y el uno al otro lo mejor que podían. Tabby se gastaba su uniforme rosa camino de Dunkin' Donuts y llamaba a la policía cuando los borrachos que entraban a por café se ponían gallitos; él lavaba sábanas de motel y seguía escribiendo películas de terror de un solo carrete —sus cuentos cortos, glosa—.
 
+---
+
+### M28 · Nunca una sola duda
+
+[![Impresionismo: el lavadero de un tráiler alquilado en Maine, de noche; un hombre joven escribe en una mesita estrujada entre la lavadora y la secadora mientras su mujer, menuda y de pelo cobrizo, lo mira desde la puerta con una fe tranquila, al estilo de Edgar Degas.](../img/261017_mientras-escribo_nunca-una-sola-duda.jpg)](../img/261017_mientras-escribo_nunca-una-sola-duda.jpg)
+
+Para cuando empezó «Carrie», King había conseguido por fin un trabajo de profesor de inglés en Hampden, el pueblo vecino. Cobraría seis mil cuatrocientos dólares al año, una suma impensable después del dólar sesenta la hora de la lavandería; de haber hecho las cuentas, añadiendo todas las tardes de reuniones escolares y las noches corrigiendo redacciones en casa, habría visto que era una suma muy pensable, y que su situación era peor que nunca. A finales del invierno de 1973 vivían en un tráiler doble en Hermon, un pueblecito al oeste de Bangor —«el culo del mundo», lo llamó años después en la entrevista de Playboy; los hermonitas se enfurecieron y él pide disculpas por escrito: en realidad no es más que la axila del mundo—.
+
+> I was driving a Buick with transmission problems we couldn’t afford to fix, Tabby was still working at Dunkin’ Donuts, and we had no telephone.
+>
+> <small>Frase 984</small>
+
+Yo conducía un Buick con problemas de transmisión que no podíamos permitirnos arreglar, Tabby seguía trabajando en Dunkin' Donuts y no teníamos teléfono.
+
+Simplemente, no podían pagar la cuota mensual. Tabby probó suerte con los cuentos de revistas de confesiones —«Too Pretty to Be a Virgin», «Demasiado guapa para ser virgen», cosas así— y recibió enseguida respuestas personales del tipo «no es del todo lo que buscamos, pero inténtelo de nuevo»; habría abierto brecha de tener una o dos horas más al día, pero estaba atada a las veinticuatro de siempre. Además, el valor de diversión que la fórmula de aquellas revistas —las tres R: Rebelión, Ruina y Redención, glosa— pudiera tener al principio se gastó enseguida. A King tampoco le iba mucho mejor con lo suyo: los cuentos de terror, ciencia ficción y crimen de las revistas masculinas estaban siendo reemplazados por relatos de sexo cada vez más gráficos. Eso era parte del problema, pero no todo. Lo más grave era que, por primera vez en su vida, escribir le costaba. El problema era la enseñanza: le gustaban sus compañeros y quería a los chavales —incluso los tipos Beavis y Butt-Head de los cursos de recuperación podían ser interesantes—, pero la mayoría de los viernes por la tarde sentía como si hubiera pasado la semana con las pinzas de unos cables de arranque sujetas al cerebro. Si alguna vez estuvo cerca de desesperar por su futuro de escritor, fue entonces: se veía treinta años después con los mismos abrigos de tweed gastados con coderas, la barriga cervecera desbordando los khakis, tos de fumador de Pall Mall —la marca de cigarrillos, glosa—, gafas más gruesas, más caspa, y en el cajón del escritorio seis o siete manuscritos inacabados que sacaría para retocarlos de vez en cuando, normalmente borracho. Si le preguntaban qué hacía en su tiempo libre, diría que estaba escribiendo un libro —¿qué otra cosa hace un profesor de escritura creativa que se respete?—. Y por supuesto se mentiría: aún hay tiempo, no es tarde, hay novelistas que no empezaron hasta los cincuenta, diablos, hasta los sesenta. Probablemente un montón de ellos.
+
+> My wife made a crucial difference during those two years I spent teaching at Hampden (and washing sheets at New Franklin Laundry during the summer vacation).
+>
+> <small>Frase 1001</small>
+
+Mi mujer marcó una diferencia crucial durante los dos años que pasé enseñando en Hampden (y lavando sábanas en New Franklin Laundry durante las vacaciones de verano).
+
+> If she had suggested that the time I spent writing stories on the front porch of our rented house on Pond Street or in the laundry room of our rented trailer on Klatt Road in Hermon was wasted time, I think a lot of the heart would have gone out of me.
+>
+> <small>Frase 1002</small>
+
+Si ella hubiera insinuado que el tiempo que pasaba escribiendo cuentos en el porche de nuestra casa alquilada de Pond Street o en el lavadero de nuestro tráiler alquilado de Klatt Road, en Hermon, era tiempo perdido, creo que se me habría salido gran parte del ánimo.
+
+Tabby, sin embargo, nunca expresó una sola duda. Su apoyo era una constante, una de las pocas cosas buenas que él podía dar por sentadas. Y cuando ve una primera novela dedicada a una esposa —o a un esposo—, sonríe y piensa: ahí hay alguien que sabe. Escribir es un oficio solitario; tener a alguien que cree en ti marca una gran diferencia. No hace falta que haga discursos. Con que crea suele bastar.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
