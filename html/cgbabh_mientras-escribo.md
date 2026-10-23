@@ -1201,6 +1201,46 @@ Nunca me gustó Carrie, esa versión femenina de Eric Harris y Dylan Klebold —
 
 La compadeció, y compadeció también a sus compañeras, porque él había sido una vez uno de ellos.
 
+---
+
+### M31 · Una noche para soñar
+
+[![Intimismo: un matrimonio joven y pobre tumbado en la cama de un dormitorio modesto a altas horas de la noche, comiendo tostadas y hablando en voz baja bajo una lámpara cálida, al estilo de Édouard Manet.](../img/261017_mientras-escribo_una-noche-para-sonar.jpg)](../img/261017_mientras-escribo_una-noche-para-sonar.jpg)
+
+El manuscrito de «Carrie» salió hacia Doubleday, donde King tenía un amigo, William Thompson, y él prácticamente lo olvidó y siguió con su vida: la enseñanza, los niños, su mujer, la bebida de los viernes por la tarde y los cuentos. Una tarde, el interfono de la sala de profesores: que bajara a la oficina, tenía una llamada, era Tabby. Echó a andar deprisa, casi corriendo, con el corazón desbocado: para usar el teléfono de los vecinos Tabby habría tenido que vestir a los niños con botas y chaquetas, y solo se le ocurrían dos razones para hacerlo.
+
+> Either Joe or Naomi had fallen off the stoop and broken a leg, or I had sold Carrie.
+>
+> <small>Frase 1168</small>
+
+O Joe o Naomi se habían caído de los escalones de la entrada y se habían roto una pierna, o yo había vendido «Carrie».
+
+Era lo segundo: Bill Thompson —que años después descubriría a un escribiente de Misisipi llamado John Grisham, glosa— había mandado un telegrama al descubrir que los King ya no tenían teléfono: «FELICIDADES. CARRIE ES OFICIALMENTE UN LIBRO DOUBLEDAY. ¿TE VALEN 2500 DÓLARES DE ANTICIPO? EL FUTURO QUEDA POR DELANTE. CON CARIÑO, BILL». Dos mil quinientos dólares era un anticipo muy pequeño incluso para principios de los setenta —lo sabe hoy; entonces no lo sabía y no tenía agente literario que lo supiera por él: antes de que se le ocurriera que quizá necesitaba uno, ya había generado más de tres millones de dólares de ingresos, buena parte para la editorial—. El contrato estándar de Doubleday de aquellos días era mejor que la servidumbre por deudas, pero no mucho. Y la novelita de terror avanzó hacia la publicación con una lentitud exasperante: aceptada a finales de marzo o principios de abril de 1973, no saldría hasta la primavera de 1974; Doubleday era entonces una enorme factoría de ficción que producía cincuenta o más libros al mes, y él era solo un pez pequeño en un río muy transitado.
+
+> I told her no, not based on a twenty-five-hundred-dollar advance and only nebulous possibilities beyond that.
+>
+> <small>Frase 1186</small>
+
+Le dije que no, no sobre la base de un anticipo de dos mil quinientos dólares y solo posibilidades nebulosas más allá.
+
+Era la respuesta de King a la pregunta de Tabby: ¿podía dejar la enseñanza? Si hubiera estado solo, quizá (diablos, probablemente), pero ¿con mujer y dos niños? Ni hablar. Aquella noche, sin embargo, se quedaron en la cama comiendo tostadas y hablando hasta la madrugada.
+
+> Tabby asked me how much we’d make if Doubleday was able to sell paperback reprint rights to Carrie, and I said I didn’t know.
+>
+> <small>Frase 1191</small>
+
+Tabby me preguntó cuánto ganaríamos si Doubleday conseguía vender los derechos de reimpresión en bolsillo de «Carrie», y le dije que no lo sabía.
+
+Había leído que Mario Puzo acababa de conseguir un anticipo enorme por los derechos de bolsillo de «El Padrino» —cuatrocientos mil dólares, según el periódico—, pero no creía que «Carrie» alcanzara nada parecido, suponiendo que se vendiera en bolsillo. Las probabilidades de que encontrara editorial de bolsillo eran buenas, siete u ocho de cada diez; y la cifra, entre diez y sesenta mil dólares. «¿Sesenta mil dólares?», casi se escandaliza Tabby, ¿era posible siquiera? No probable, pero posible.
+
+> I also reminded her that my contract specified a fifty-fifty paperback split, which meant that if Ballantine or Dell did pay sixty grand, we’d only get thirty.
+>
+> <small>Frase 1201</small>
+
+También le recordé que mi contrato fijaba un reparto al cincuenta por ciento en la edición de bolsillo, lo que significaba que si Ballantine o Dell pagaban sesenta mil, a nosotros solo nos llegarían treinta.
+
+Tabby no se dignó a contestar, y no le hacía falta: treinta mil dólares era lo que King esperaba ganar en cuatro años de enseñanza, incluso contando los aumentos anuales. Era mucho dinero. Probablemente un sueño imposible, pero era una noche para soñar.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
