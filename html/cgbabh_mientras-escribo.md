@@ -1063,6 +1063,70 @@ Si ella hubiera insinuado que el tiempo que pasaba escribiendo cuentos en el por
 
 Tabby, sin embargo, nunca expresó una sola duda. Su apoyo era una constante, una de las pocas cosas buenas que él podía dar por sentadas. Y cuando ve una primera novela dedicada a una esposa —o a un esposo—, sonríe y piensa: ahí hay alguien que sabe. Escribir es un oficio solitario; tener a alguien que cree en ti marca una gran diferencia. No hace falta que haga discursos. Con que crea suele bastar.
 
+---
+
+### M29 · Aquí tienes algo
+
+[![Impresionismo americano: en una cocina modesta de Maine, de noche, una mujer menuda de pelo cobrizo alisa unas páginas mecanografiadas arrugadas y manchadas de ceniza que ha rescatado de la papelera y las lee con una sonrisa sabia, la barbilla inclinada, al estilo de Childe Hassam.](../img/261017_mientras-escribo_aqui-tienes-algo.jpg)](../img/261017_mientras-escribo_aqui-tienes-algo.jpg)
+
+«Carrie» nació de dos empleos y dos ideas. El primer empleo: mientras iba a la universidad, su hermano Dave trabajaba los veranos de conserje en Brunswick High, su antigua escuela, y durante parte de un verano King trabajó allí también.
+
+> I can’t remember which year, only that it was before I met Tabby but after I started to smoke.
+>
+> <small>Frase 1012</small>
+
+No recuerdo qué año fue, solo que fue antes de conocer a Tabby pero después de empezar a fumar.
+
+Tendría diecinueve o veinte años, supone. Le emparejaron con un tipo llamado Harry —con manos en lugar de ganchos, aclara, no como el otro Harry—, que vestía pantalones militares verdes, llevaba un llavero enorme y cojeaba.
+
+> One lunch hour Harry told me what it had been like to face a Japanese banzai charge on the island of Tarawa, all the Japanese officers waving swords made out of Maxwell House coffee cans, all the screaming enlisted men behind them stoned out of their gourds and smelling of burned poppies.
+>
+> <small>Frase 1016</small>
+
+Una hora de almuerzo, Harry me contó lo que había sido enfrentarse a una carga banzai japonesa en la isla de Tarawa —una batalla del Pacífico en la Segunda Guerra Mundial, dato de fuera del libro—: todos los oficiales japoneses blandían espadas hechas con latas de café Maxwell House, y todos los soldados rasos que venían detrás gritando iban hasta las cejas y olían a adormidera quemada.
+
+Todo un narrador, su colega Harry. Un día les tocó restregar las manchas de óxido de las paredes de la ducha de las chicas.
+
+> One day he and I were supposed to scrub the rust-stains off the walls in the girls’ shower.
+>
+> <small>Frase 1018</small>
+
+Un día se suponía que él y yo teníamos que restregar las manchas de óxido de las paredes de la ducha de las chicas.
+
+King miró el vestuario con el interés de un joven musulmán que por alguna razón se encuentra en el harén —la comparación es suya—: era igual que el de los chicos y sin embargo completamente distinto. No había urinarios, y había dos cajas metálicas de más en las paredes de azulejo, sin letrero y de un tamaño equivocado para las toallas de papel. Preguntó qué contenían. «Pussyplugs —dijo Harry—. Pa' esos días del mes». También notó que las duchas, a diferencia de las del vestuario de chicos, tenían anillas cromadas en U con cortinas de plástico rosa: una chica podía ducharse de verdad a puerta cerrada. «Supongo que las chicas jóvenes son un poco más tímidas para desnudarse», se encogió de hombros Harry. Aquel recuerdo le volvió un día, años después, mientras trabajaba en la lavandería, y empezó a ver la escena inicial de un cuento: chicas duchándose en un vestuario sin anillas, sin cortinas rosas y sin privacidad. Y una de ellas tiene su primera regla. Solo que no sabe lo que es, y las otras —asqueadas, horrorizadas, divertidas— empiezan a lanzarle compresas. La chica grita; cree que se está muriendo, que se burlan de ella mientras se desangra… reacciona… se defiende… ¿pero cómo? Años antes había leído un artículo en la revista Life que sugería que al menos parte de la actividad poltergeist —los espíritus bromistas que mueven objetos, glosa— podía ser en realidad telequinesis, la capacidad de mover cosas con la mente, y que esos poderes aflorarían sobre todo en chicas en la primera adolescencia, justo en la época de su primera… ¡Pum! Dos ideas sin relación, la crueldad adolescente y la telequinesis, chocaron entre sí, y tuvo una idea. No abandonó su puesto en la Washex número dos gritando «¡Eureka!» —había tenido otras ideas tan buenas y algunas mejores—, pero podía ser la base de un buen cuento para Cavalier, con Playboy al acecho al fondo de su cabeza: Playboy pagaba hasta dos mil dólares por ficción corta, y dos mil dólares compraban una transmisión nueva para el Buick con sobra para la compra. El cuento se quedó al fuego lento, y no se sentó a intentarlo hasta después de empezar a dar clase. Escribió tres páginas a un solo espacio de un primer borrador, las arrugó con disgusto y las tiró. Tenía cuatro problemas con lo escrito: el cuento no le emocionaba; la protagonista, Carrie White, le parecía torpe y pasiva, una víctima de serie; no se sentía en casa ni con el entorno ni con su reparto de chicas —había aterrizado en el Planeta Femenino, y una sola incursión en el vestuario de chicas de Brunswick High años antes no era mucha ayuda para navegarlo—; y sobre todo, el cuento no rendiría si no era largo, demasiado largo para las revistas de hombres, donde había que guardar sitio para las fotos de animadoras que de algún modo habían olvidado ponerse la ropa interior —que era por lo que los tipos compraban de verdad las revistas—. No pensaba perder dos semanas, quizá un mes, creando una novela corta que no le gustaba y no podría vender. Así que la tiró.
+
+> The next night, when I came home from school, Tabby had the pages.
+>
+> <small>Frase 1062</small>
+
+La noche siguiente, cuando volví de la escuela, Tabby tenía las páginas.
+
+Las había visto al vaciar la papelera, les había sacudido la ceniza de cigarrillo a las bolas de papel arrugadas, las había alisado y se había sentado a leerlas.
+
+> She wanted me to go on with it, she said.
+>
+> <small>Frase 1064</small>
+
+Quería que yo siguiera con él, dijo.
+
+Quería saber el resto de la historia.
+
+> I told her I didn’t know jackshit about high school girls.
+>
+> <small>Frase 1066</small>
+
+Le dije que yo no sabía un pimiento de las chicas de instituto.
+
+Ella dijo que me ayudaría con esa parte. Tenía la barbilla inclinada hacia abajo y sonreía de esa manera suya, sabia y terriblemente mona.
+
+> “You’ve got something here,” she said.
+>
+> <small>Frase 1069</small>
+
+«Aquí tienes algo», dijo.
+
+«De verdad que lo creo».
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
