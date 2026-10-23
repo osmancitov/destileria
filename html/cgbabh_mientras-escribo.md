@@ -476,6 +476,8 @@ El suyo era «I Was a Teen-Age Grave-robber»: «Yo fui un ladrón de tumbas ado
 
 ### M15 · El Problema de Ruth
 
+[![Pintura: en la cocina de una casa de Maine, un niño sentado a la mesa mira a su madre pegar estampillas verdes de canje en una libretita, con la luz suave de la tarde entrando por la ventana, al estilo de Childe Hassam.](../img/261017_mientras-escribo_el-problema-de-ruth.jpg)](../img/261017_mientras-escribo_el-problema-de-ruth.jpg)]
+
 Su primera idea de cuento realmente original —la primera siempre se reconoce, cree— llegó cerca del final del reinado de ocho años de benignidad de Ike —el presidente Eisenhower, que gobernó de 1953 a 1961, dato de fuera del libro—. Estaba sentado a la mesa de la cocina de su casa de Durham, Maine, mirando a su madre pegar hojas de S&H Green Stamps en una libreta —estampillas que las tiendas regalaban con cada compra y que luego se canjeaban por premios, dato de fuera del libro—. (Para historias más coloridas sobre las Green Stamps, King remite a «The Liars' Club» —«El club de los mentirosos», las memorias de Mary Karr, dato de fuera del libro—.) Su pequeña troika familiar —el trío de madre e hijos— se había mudado de vuelta a Maine para que su madre pudiera cuidar de sus padres en sus años de decadencia. Mama tenía unos ochenta años entonces: obesa, hipertensa y casi ciega. Daddy Guy tenía ochenta y dos: escuálido, hosco y propenso a ocasionales arrebatos a lo Pato Donald que solo su madre podía entender. Su madre llamaba a Daddy Guy «Fazza».
 
 > My mother’s sisters had gotten my mom this job, perhaps thinking they could kill two birds with one stone—the aged Ps would be taken care of in a homey environment by a loving daughter, and The Nagging Problem of Ruth would be solved.
