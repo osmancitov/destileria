@@ -1463,6 +1463,22 @@ Oíamos cómo la pausa después de cada bocanada áspera que tomaba se hacía m�
 
 Finalmente no hubo más bocanadas, y todo fue pausa.
 
+---
+
+### M35 · El elogio
+
+[![Renacimiento temprano: un joven de traje pronuncia un elogio fúnebre desde el púlpito de una iglesia congregacional de pueblo, ante un ataúd cerrado y pocos feligreses enlutados, con luz fría y serena de ventanas altas, al estilo de Fra Angelico.](../img/261017_mientras-escribo_el-elogio.jpg)](../img/261017_mientras-escribo_el-elogio.jpg)
+
+Vino el funeral de la madre de King.
+
+> My mother was buried out of the Congregational Church at Southwest Bend; the church she’d attended in Methodist Corners, where my brother and I grew up, was closed because of the cold.
+>
+> <small>Frase 1415</small>
+
+A mi madre la enterraron desde la iglesia congregacional de Southwest Bend; la iglesia a la que ella había ido en Methodist Corners, donde crecimos mi hermano y yo, estaba cerrada por el frío.
+
+Las dos son iglesias de pueblos de Maine de los primeros tramos; la congregacional es una denominación protestante, dato de fuera del libro. King pronunció el elogio. Cree que hizo un trabajo bastante bueno, teniendo en cuenta lo borracho que estaba.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
