@@ -348,6 +348,8 @@ Esas cuatro hermanas —las tías de King— estaban todas casadas; sus maridos 
 
 ### M10 · La jungla
 
+[![Pintura: dos niños pequeños, vistos de espaldas, se adentran por primera vez en una enorme zona salvaje y enmarañada de vegetación densa, con autos chatarra cubiertos de maleza y una vía de tren cruzando al fondo, al estilo de Arnold Böcklin.](../img/261017_mientras-escribo_la-jungla.jpg)](../img/261017_mientras-escribo_la-jungla.jpg)]
+
 Se mudaron a Stratford, Connecticut. King iba ya en segundo grado y estaba perdidamente enamorado de la muchacha adolescente de la casa de al lado: ella no lo miraba dos veces de día, pero de noche, mientras él se dormía, los dos huían juntos del cruel mundo de la realidad una y otra vez. Su nueva maestra era la señora Taylor, una señora amable con canoso cabello a lo Elsa Lanchester —la novia de Frankenstein; la película «The Bride of Frankenstein» es de 1935, dato de fuera del libro— y ojos saltones. «Cuando estamos hablando siempre quiero poner mis manos en cuenco debajo de los ojos de la señora Taylor por si se le caen», dijo su mamá. El nuevo apartamento, en un tercer piso, quedaba en West Broad Street. Una cuadra cuesta abajo, no lejos de la tienda de Teddy y frente a Burrets Building Materials —un almacén de materiales de construcción—, se extendía una enorme y enmarañada zona salvaje, con un depósito de chatarra al otro lado y una vía de tren cruzándola por el medio. Es uno de los lugares a los que King vuelve en su imaginación: aparece en sus libros y cuentos una y otra vez, bajo nombres distintos. Los chicos de su novela «It» lo llamaban los Páramos; ellos lo llamaban la jungla.
 
 > Dave and I explored it for the first time not long after we had moved into our new place.
