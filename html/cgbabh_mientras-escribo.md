@@ -962,6 +962,38 @@ Al llegar a casa, Tabby estaba tranquila y con la maleta hecha. Menos de tres ho
 
 Incluso cuando Naomi arrancaba el papel pintado de encima de su cuna (quizá creía que estaba haciendo limpieza) y Joe se cagaba en el asiento de mimbre de la mecedora que teníamos en el porche de nuestro apartamento de Sanford Street, eran una delicia.
 
+---
+
+### M26 · Un pato muerto en las fauces
+
+[![Naturalismo elegante: un golden retriever sale de un estanque con un pato muerto en las fauces, gotas de agua cayendo de su pelaje dorado, junto al embarcadero de madera de una facultad universitaria de Maine, al estilo de George Stubbs.](../img/261017_mientras-escribo_un-pato-muerto-en-las-fauces.jpg)](../img/261017_mientras-escribo_un-pato-muerto-en-las-fauces.jpg)
+
+La madre de King sabía que su hijo quería ser escritor —con todos aquellos resguardos de rechazo clavados en la alcayata de la pared de su cuarto, cómo no iba a saberlo—, pero le animó a sacarse el título de profesor, «para que tengas algo de lo que echar mano».
+
+> “You may want to get married, Stephen, and a garret by the Seine is only romantic if you’re a bachelor,” she’d said once.
+>
+> <small>Frase 907</small>
+
+«Puede que quieras casarte, Stephen, y una buhardilla junto al Sena solo es romántica si eres soltero», le dijo una vez.
+
+«No es lugar para criar una familia». Y King hizo lo que ella sugirió.
+
+> I did as she suggested, entering the College of Education at UMO and emerging four years later with a teacher’s certificate … sort of like a golden retriever emerging from a pond with a dead duck in its jaws.
+>
+> <small>Frase 910</small>
+
+Hice lo que ella sugirió, entré en la Facultad de Educación de la UMO —la Universidad de Maine en Orono, glosa— y salí cuatro años después con el certificado de profesor… más o menos como un golden retriever que sale de un estanque con un pato muerto en las fauces.
+
+Muerto estaba, desde luego. King no encontró trabajo de profesor y se fue a trabajar a New Franklin Laundry —una lavandería industrial de Bangor, glosa— por un sueldo no mucho mayor que el de la fábrica textil de cuatro años antes, mientras mantenía a su familia en una serie de buhardillas que no daban al Sena sino a algunas de las calles menos apetitosas de Bangor, esas donde los coches de policía siempre parecían aparecer a las dos de la madrugada del sábado.
+
+> The greater part of what I loaded and pulled were motel sheets from Maine’s coastal towns and table linen from Maine’s coastal restaurants.
+>
+> <small>Frase 915</small>
+
+La mayor parte de lo que yo cargaba y sacaba eran sábanas de motel de los pueblos costeros de Maine y manteles de los restaurantes costeros de Maine.
+
+La mantelería era desesperadamente asquerosa: cuando los turistas salen a cenar en Maine, quieren almejas y langosta —sobre todo langosta—, y para cuando los manteles llegaban a sus manos apestaban al cielo y a menudo hervían de gusanos que intentaban treparle por los brazos al cargar las lavadoras, como si los muy condenados supieran que pensaba cocerlos. Nunca llegó a acostumbrarse. Malos eran los gusanos; peor, el olor de las almejas y la langosta descompuestas. Las sábanas de hospital eran aún peores: también se movían de gusanos en verano, pero se alimentaban de sangre en lugar de carne de langosta. La ropa, las sábanas y las fundas consideradas infectadas se metían en «plague-bags» —«bolsas de peste», unas bolsas que se disolvían al contacto con el agua caliente, glosa—, aunque la sangre, en aquellos tiempos, no se consideraba especialmente peligrosa. Las cargas de hospital traían extras: eran como cajas de Cracker Jacks —un dulce americano con premio dentro, dato de fuera del libro— con premios raros. King encontró una cuña de acero en una y unas tijeras quirúrgicas en otra; su compañero Ernest «Rocky» Rockwell encontró veinte dólares en una carga del Eastern Maine Medical Center —el hospital de la zona, glosa— y fichó la salida al mediodía para empezar a beber. Un día, un clic extraño dentro de una de las Washex —las lavadoras industriales de tres compartimentos, glosa— le hizo darle al botón de parada de emergencia: al abrir las puertas sacó un fajo enorme de túnicas quirúrgicas empapadas, y debajo, desperdigados por la pared interior de la lavadora, lo que parecía una dentadura humana completa. Se le cruzó por la cabeza que harían un collar interesante; luego los recogió y los tiró a la basura. Su mujer ha aguantado mucho de él con los años, pero su sentido del humor tiene un límite.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
