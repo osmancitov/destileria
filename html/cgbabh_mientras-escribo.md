@@ -1583,6 +1583,30 @@ Volví a mi familia con gratitud, y a mi trabajo con alivio: volví a él como l
 
 Nada lo había sido. Seguía todo allí, seguía todo entero. Una vez descongeladas las tuberías y conectada de nuevo la electricidad, todo funcionaba bien.
 
+---
+
+### M39 · El escritorio en el rincón
+
+[![Expresionismo: un despacho luminoso y ordenado con un pequeño escritorio artesanal en un rincón bajo el alero, y al fondo un sofá, una alfombra turca y restos de pizza en una caja, al estilo de August Macke.](../img/261017_mientras-escribo_el-escritorio-en-el-rincon.jpg)](../img/261017_mientras-escribo_el-escritorio-en-el-rincon.jpg)
+
+Lo último que King quiere contar en esta parte es lo de su escritorio. Durante años soñó con una mesa maciza de roble que dominara una habitación: se acabó el escritorio de niño en el lavadero del tráiler, se acabó el hueco estrecho para las rodillas de las casas de alquiler —los escritorios de los tramos de la infancia y del matrimonio, glosa—. En 1981 consiguió la que quería y la puso en medio de un estudio amplio y con tragaluz, en el desván reconvertido del establo. Durante seis años se sentó detrás de aquel escritorio borracho o fuera de sí, como un capitán de barco al mando de un viaje a ninguna parte. Un año o dos después de desintoxicarse se deshizo de aquella monstruosidad y puso en su lugar un conjunto de salón, eligiendo las piezas y una bonita alfombra turca con ayuda de su mujer. A principios de los noventa, antes de pasar a sus propias vidas, sus hijos subían a veces por las tardes a ver un partido de baloncesto o una película y comer pizza.
+
+> They usually left a boxful of crusts behind when they moved on, but I didn’t care.
+>
+> <small>Frase 1525</small>
+
+Normalmente dejaban atrás una caja llena de bordes de pizza cuando se iban, pero no me importaba.
+
+Venían, parecían disfrutar estando con él, y él sabe que disfrutaba estando con ellos. Se compró otro escritorio: artesanal, precioso y la mitad de grande que el escritorio T. rex.
+
+> I put it at the far west end of the office, in a corner under the eave.
+>
+> <small>Frase 1528</small>
+
+Lo puse en el extremo oeste del despacho, en un rincón bajo el alero.
+
+Ese alero se parece mucho a aquel bajo el que dormía en Durham, pero no hay ratas en las paredes ni una abuela senil abajo gritando que alguien le dé de comer a Dick, el caballo —la casa de los tramos de la infancia, glosa—. Ahora está sentado bajo él: un hombre de cincuenta y tres años con la vista mala, una pierna coja y ninguna resaca. Hace lo que sabe hacer, y lo mejor que sabe hacerlo. Pasó por todo lo que ha contado —y por mucho más que no ha contado— y ahora va a contar todo lo que pueda sobre el oficio. Como prometió, no llevará mucho. Empieza con esto: pon tu escritorio en el rincón, y cada vez que te sientes a escribir recuérdate por qué no está en medio de la habitación. La vida no es un sistema de apoyo para el arte. Es al revés.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
