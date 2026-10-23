@@ -1479,6 +1479,44 @@ A mi madre la enterraron desde la iglesia congregacional de Southwest Bend; la i
 
 Las dos son iglesias de pueblos de Maine de los primeros tramos; la congregacional es una denominación protestante, dato de fuera del libro. King pronunció el elogio. Cree que hizo un trabajo bastante bueno, teniendo en cuenta lo borracho que estaba.
 
+---
+
+### M36 · Soy alcohólico
+
+[![Expresionismo: un hombre solo en un garaje de noche, bajo una luz dura, contempla un contenedor de plástico rebosante de latas de cerveza vacías, al estilo de Egon Schiele.](../img/261017_mientras-escribo_soy-alcoholico.jpg)](../img/261017_mientras-escribo_soy-alcoholico.jpg)
+
+Los alcohólicos levantan defensas como los holandeses levantan diques —contra el mar que los rodea, dato de fuera del libro—. King pasó los primeros doce años de su vida de casado asegurándose que «solo le gustaba beber». También usó la mundialmente famosa Defensa Hemingway —la pose del escritor macho asociada a Ernest Hemingway, glosa—, que nunca se articula, porque articularla no sería varonil, y que viene a decir: como escritor soy un tipo muy sensible, pero también soy un hombre, y los hombres de verdad no ceden a sus sensibilidades; eso solo lo hacen los mariquitas. Por lo tanto, bebo. ¿De qué otro modo voy a encarar el horror existencial de todo y seguir trabajando? Además, vamos, puedo con ello. Un hombre de verdad siempre puede.
+
+Entonces, a principios de los ochenta, la legislatura de Maine aprobó una ley de envases retornables —de depósito y devolución de botellas y latas, glosa—: sus latas de Miller Lite —su cerveza ligera, glosa— dejaron de ir a la basura y empezaron a ir a un contenedor de plástico en el garaje.
+
+> One Thursday night I went out there to toss in a few dead soldiers and saw that this container, which had been empty on Monday night, was now almost full.
+>
+> <small>Frase 1429</small>
+
+Un jueves por la noche salí a echar unos cuantos soldados muertos —las latas vacías, glosa— y vi que aquel contenedor, que el lunes por la noche estaba vacío, ahora estaba casi lleno.
+
+> And since I was the only one in the house who drank Miller Lite—
+>
+> <small>Frase 1430</small>
+
+Y como yo era el único de la casa que bebía Miller Lite—
+
+Joder, soy un alcohólico, pensó, y no hubo opinión discrepante dentro de su cabeza: era, después de todo, el tipo que había escrito «The Shining» sin darse cuenta —al menos hasta aquella noche— de que estaba escribiendo sobre sí mismo. Su reacción no fue negación ni desacuerdo, sino lo que llamaría una determinación asustada. Tienes que tener cuidado, recuerda haber pensado: si la cagas —vuelcas el coche una noche en una carretera secundaria o la lías en una entrevista en directo—, alguien te dirá que deberías controlar tu bebida, y decirle a un alcohólico que controle su bebida es como decirle a un tipo con el caso más cataclísmico de diarrea del mundo que controle sus cagadas. Un amigo que pasó por esto cuenta que en su primer intento fue a un consejero y dijo que a su mujer le preocupaba que bebiera demasiado. «¿Cuánto bebes?», preguntó el consejero. Su amigo lo miró incrédulo: «Todo», dijo, como si fuera evidente. King sabe cómo se sentía: llevaba casi doce años sin probar un trago y todavía le pega la incredulidad cuando ve a alguien en un restaurante con una copa de vino a medias al alcance de la mano; quiere levantarse, acercarse y gritarle a la cara «¡Acábatela! ¿Por qué no te la acabas?». La idea de beber socialmente le parecía ridícula: si no querías emborracharte, ¿por qué no pedir simplemente una Coca-Cola?
+
+> My nights during the last five years of my drinking always ended with the same ritual: I’d pour any beers left in the refrigerator down the sink.
+>
+> <small>Frase 1446</small>
+
+Mis noches de los últimos cinco años de bebida terminaban siempre con el mismo ritual: echaba por el fregadero las cervezas que quedaran en la nevera.
+
+> If I didn’t, they’d talk to me as I lay in bed until I got up and had another.
+>
+> <small>Frase 1447</small>
+
+Si no lo hacía, me hablaban mientras yo estaba en la cama, hasta que me levantaba y me tomaba otra.
+
+Y otra. Y una más.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
