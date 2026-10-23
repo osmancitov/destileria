@@ -52,7 +52,7 @@ Los otros dos prólogos son más cortos. El segundo dice que este es un libro co
 
 ## La memoria
 
-### El paisaje con niebla
+### M1 · El paisaje con niebla
 
 King se quedó pasmado con The Liars' Club, las memorias de la poeta americana Mary Karr: ella lo recuerda todo de su infancia. Él no. La suya fue a tirones, con una madre sola y quizá una temporada en casa de una tía:
 
@@ -78,7 +78,7 @@ Pide no buscar una línea que una los puntos: no hay líneas, solo instantáneas
 
 ---
 
-### El niño forzudo
+### M2 · El niño forzudo
 
 Su primer recuerdo es imaginarse otro: el Forzudo del circo Ringling Brothers, en casa de la tía Ethelyn y el tío Oren, en Durham, Maine. Tiene dos años y medio, quizá tres. Levantó un bloque de cemento del garaje y lo cargó despacio, pero en su mente vestía piel de leopardo y cruzaba la pista central: la multitud en silencio, un foco marcando su paso. «¡Y solo tiene dos años!». Lo que no sabía: unas avispas anidaban en el bloque, y una le picó la oreja. Fue el peor dolor de su corta vida, por unos segundos:
 
@@ -104,7 +104,7 @@ La tía Ethelyn cierra la anécdota en broma, hablando con él: «¡Cómo aullas
 
 ---
 
-### Siete huevos
+### M3 · Siete huevos
 
 Un año o poco más después de la escena del bloque de cemento, King, su madre y su hermano David, dos años mayor que él, están en West De Pere, Wisconsin. No sabe por qué. Quizá su madre se mudó para estar cerca de Cal, otra de sus hermanas, que vivía allí con un marido amigo de la cerveza; pero de los Weimer, que parecen ser la familia de Cal (el libro no lo dice con esas palabras), no recuerda haber visto mucho. Su madre trabajaba, y tampoco recuerda en qué. Lo que sí recuerda es una fila de niñeras: no sabe si se iban porque David y él daban guerra o porque encontraban mejor sueldo, pero eran muchas. La única que recuerda con claridad es Eula, o quizá Beulah, así que la llama Eula-Beulah: adolescente, enorme y de risa fácil. Tenía un humor magnífico y peligroso: en cada estallido de risa, entre palmaditas y balanceos de trasero, parecía esconderse un trueno. Lo abrazaba, le hacía cosquillas y, riendo, le soltaba un golpe en la cabeza capaz de tirarlo. Y cuando se le escapaba uno de sus pedos, fuertes y malolientes, lo lanzaba al sofá, le sentaba encima de la cara su trasero de falda de lana y lo soltaba. «¡Pow!», gritaba ella, feliz. King recuerda la oscuridad, la asfixia y que se reía, porque lo que pasaba era horrible, pero también gracioso. De ahí su conclusión: en cierto modo, Eula-Beulah lo preparó para la crítica literaria:
 
@@ -152,7 +152,7 @@ Cuando mi madre volvió del trabajo ese día, la niñera dormía profundamente e
 
 ---
 
-### El tejado
+### M4 · El tejado
 
 La temporada en West De Pere no fue ni larga ni buena: los echaron del apartamento del tercer piso, porque un vecino vio a David, el hermano de King, gateando por el tejado con sus seis años, y llamó a la policía. King no sabe dónde estaba su madre cuando pasó, ni dónde estaba la niñera de la semana. Solo sabe dónde estaba él:
 
@@ -168,7 +168,7 @@ David no se cayó: volvió al baño por su propio pie. Hoy tiene cincuenta y cin
 
 ---
 
-### Ver morir
+### M5 · Ver morir
 
 King tenía cinco o seis años cuando le preguntó a su madre si alguna vez había visto morir a alguien. Sí, dijo ella: había visto morir a una persona y había oído morir a otra. ¿Cómo se puede oír morir a una persona? Era una muchacha que se ahogó frente a Prout's Neck en los años veinte: nadó mar adentro, pasó la resaca y no pudo volver; empezó a gritar pidiendo ayuda. Varios hombres intentaron alcanzarla, pero la resaca de ese día traía una corriente de fondo brava que los obligó a retroceder a todos. Al final solo pudieron quedarse ahí parados, turistas y gente del pueblo, y entre ellos la adolescente que sería la madre de King, esperando una lancha de rescate que nunca llegó y oyendo gritar a la muchacha hasta que se quedó sin fuerzas y se hundió. El cuerpo apareció en New Hampshire, dijo su madre. King preguntó qué edad tenía la muchacha:
 
@@ -184,7 +184,7 @@ Otro día le contó la que vio: un marinero que se tiró del tejado del Graymore
 
 ---
 
-### No va a doler
+### M6 · No va a doler
 
 La mayor parte de los nueve meses que King debió pasar en primer grado los pasó en cama. Empezó con el sarampión, un caso normalísimo, y fue empeorando: acceso tras acceso de lo que él creía que se llamaba «stripe throat», la garganta a rayas —en realidad era «strep throat», la faringitis por estreptococo—, enfermo en la cama, bebiendo agua fría e imaginando su garganta a rayas rojas y blancas. Y entonces llegaron los oídos:
 
@@ -240,7 +240,7 @@ Gritó tan largo y tan fuerte que todavía puede oírlo. Cree, de hecho, que en 
 
 ---
 
-### Las amígdalas
+### M7 · Las amígdalas
 
 Poco tiempo después —sería enero o febrero de 1954, si la cuenta le sale bien— volvió el taxi. Esta vez el especialista no era el del oído, sino uno de garganta. Otra vez su madre en la sala de espera, otra vez él en la camilla con una enfermera revoloteando cerca, otra vez ese olor fuerte a alcohol, un aroma que todavía tiene el poder de duplicarle los latidos en cinco segundos. Pero lo único que apareció fue una especie de hisopo de garganta: picaba y sabía horrible, aunque después de la aguja larga del médico del oído era un paseo por el parque. El doctor de la garganta se puso un aparato interesante, sujeto a la cabeza con una correa: tenía un espejo en el medio y una luz brillante y feroz que salía de él como un tercer ojo. Le miró la garganta un buen rato, pidiéndole que abriera más hasta que le crujieron las quijadas, pero no le metió agujas, y por eso King lo quiso. Luego lo dejó cerrar la boca y llamó a su madre: «El problema son las amígdalas —dijo—. Parece que las hubiera arañado un gato. Habrá que sacarlas». Tiempo después, King recuerda ser llevado en la camilla bajo luces brillantes, con un hombre de máscara blanca inclinado sobre él:
 
@@ -274,7 +274,7 @@ El hombre de la máscara es el anestesista: el médico que duerme al paciente an
 
 ---
 
-### Escribe uno tuyo
+### M8 · Escribe uno tuyo
 
 Aquel año su hermano David saltó de una vez a cuarto grado y a King lo sacaron del colegio por completo: había perdido demasiado de primero, acordaron su madre y la escuela, y podría empezarlo de nuevo en otoño si la salud lo permitía. Casi todo ese año lo pasó en cama o sin salir de casa. Leyó unas seis toneladas de tebeos, pasó a Tom Swift y a Dave Dawson —un heroico piloto de la Segunda Guerra Mundial cuyos aviones siempre estaban «prop-clawing for altitude», arañando altura con la hélice— y de ahí a los cuentos de animales, de puro espeluznantes, de Jack London. En algún momento empezó a escribir sus propios cuentos. La imitación fue antes que la creación: copiaba los tebeos de Combat Casey palabra por palabra en su libreta Blue Horse —una marca americana de cuadernos de escuela—, añadiendo a veces sus propias descripciones donde parecían cuadrar. «They were camped in a big dratty farmhouse room», podía escribir; tardaría uno o dos años en descubrir que «drat» y «draft» eran palabras distintas. Por ese tiempo creía que «details» eran «dentals», que una «bitch» era una mujer extremadamente alta y que un «son of a bitch» era, muy probablemente, un jugador de baloncesto. Cuando uno tiene seis años, la mayoría de sus bolas de bingo todavía flotan en el bombo. Un día le enseñó a su madre uno de esos híbridos de copia:
 
@@ -306,7 +306,7 @@ Ella pareció decepcionada, y eso le vació buena parte del gusto. Al final le d
 
 ---
 
-### A cuarto el cuento
+### M9 · A cuarto el cuento
 
 King obedeció. Le vino una inmensa sensación de posibilidad ante la idea, como si lo hubieran llevado a un vasto edificio lleno de puertas cerradas y le hubieran dado permiso de abrir las que quisiera: más puertas de las que una persona puede abrir en una vida, pensó, y todavía piensa. Escribió un cuento sobre cuatro animales mágicos que andaban por ahí en un carro viejo, ayudando a niños pequeños. Su líder era un gran conejo blanco llamado Mr. Rabbit Trick —algo así como «el señor Conejo Truco»—, y él era quien manejaba el carro. El cuento tenía cuatro páginas, impresas laboriosamente a lápiz. Nadie saltaba en él del tejado del Graymore Hotel —el hotel de Portland, Maine, del que se tiró el marinero que su madre vio caer—.
 
@@ -328,7 +328,7 @@ Esas cuatro hermanas —las tías de King— estaban todas casadas; sus maridos 
 
 ---
 
-### La jungla
+### M10 · La jungla
 
 Se mudaron a Stratford, Connecticut. King iba ya en segundo grado y estaba perdidamente enamorado de la muchacha adolescente de la casa de al lado: ella no lo miraba dos veces de día, pero de noche, mientras él se dormía, los dos huían juntos del cruel mundo de la realidad una y otra vez. Su nueva maestra era la señora Taylor, una señora amable con canoso cabello a lo Elsa Lanchester —la novia de Frankenstein; la película «The Bride of Frankenstein» es de 1935, dato de fuera del libro— y ojos saltones. «Cuando estamos hablando siempre quiero poner mis manos en cuenco debajo de los ojos de la señora Taylor por si se le caen», dijo su mamá. El nuevo apartamento, en un tercer piso, quedaba en West Broad Street. Una cuadra cuesta abajo, no lejos de la tienda de Teddy y frente a Burrets Building Materials —un almacén de materiales de construcción—, se extendía una enorme y enmarañada zona salvaje, con un depósito de chatarra al otro lado y una vía de tren cruzándola por el medio. Es uno de los lugares a los que King vuelve en su imaginación: aparece en sus libros y cuentos una y otra vez, bajo nombres distintos. Los chicos de su novela «It» lo llamaban los Páramos; ellos lo llamaban la jungla.
 
@@ -366,7 +366,7 @@ Las hojas resultaron ser hiedra venenosa —una planta americana cuyo roce produ
 
 ---
 
-### El Súper Duper Electromán
+### M11 · El Súper Duper Electromán
 
 Dave era un gran hermano, pero demasiado listo para un niño de diez años. Su inteligencia siempre lo metía en problemas, y en algún momento aprendió que casi siempre era posible lograr que el hermanito Stevie se pusiera con él en primera línea cuando había problemas en el aire. Nunca le pidió cargar con toda la culpa de sus a menudo brillantes metidas de pata —no era ni un alcahuete ni un cobarde—, pero en varias ocasiones le pidió compartirla. Por eso los dos se metieron en problemas cuando Dave represó el arroyo que cruzaba la jungla e inundó buena parte del bajo West Broad Street.
 
@@ -404,7 +404,7 @@ Al final las luces volvieron y el camión de la electricidad se fue. No los atra
 
 ---
 
-### Video bullshit
+### M12 · Video bullshit
 
 King nació en 1947 y en su casa no tuvieron el primer televisor hasta 1958. Lo primero que recuerda haber visto en él fue «Robot Monster», una película en la que un tipo vestido con un traje de mono y una pecera en la cabeza —Ro-Man, lo llamaban— corría por ahí tratando de matar a los últimos supervivientes de una guerra nuclear. Sintió que aquello era arte de muy alta categoría. También vio «Highway Patrol», con Broderick Crawford como el intrépido Dan Matthews, y «One Step Beyond», presentado por John Newland, el hombre de los ojos más espeluznantes del mundo. Estaban «Cheyenne» y «Sea Hunt», «Your Hit Parade» y «Annie Oakley»; estaba Tommy Rettig como el primero de los muchos amigos de Lassie, Jock Mahoney como The Range Rider y Andy Devine aullando «¡Eh, Wild Bill, espérame!» con su extraña voz aguda. Era todo un mundo de aventuras vicarias —vividas a través de otros— que venía empaquetado en blanco y negro, catorce pulgadas de ancho y patrocinado por marcas que todavía le suenan a poesía. Le encantaba todo aquello. Pero la tele llegó relativamente tarde a la casa de los King, y se alegra de ello.
 
@@ -418,7 +418,7 @@ Soy, si uno se detiene a pensarlo, miembro de un grupo bastante selecto: el últ
 
 ---
 
-### El Ackermonster
+### M13 · El Ackermonster
 
 A finales de los años cincuenta, un agente literario y coleccionista compulsivo de recuerdos de ciencia ficción llamado Forrest J. Ackerman cambió la vida de miles de chicos —King fue uno de ellos— cuando empezó a editar una revista llamada Famous Monsters of Filmland —«Monstruos famosos del cine»—. Pregúntale a cualquiera que se haya asociado con los géneros de fantasía, horror y ciencia ficción en los últimos treinta años por esa revista, y obtendrás una risa, un destello en los ojos y una corriente de recuerdos luminosos: prácticamente lo garantiza. Hacia 1960, Forry —que a veces se refería a sí mismo como «the Ackermonster», el Ackermonstruo— derivó la breve pero interesante Spacemen, una revista dedicada a las películas de ciencia ficción. En 1960, King mandó un cuento a Spacemen. Fue, según recuerda, el primer cuento que envió jamás para su publicación. No recuerda el título, pero todavía estaba en su fase Ro-Man —el de «Robot Monster»—, y aquel cuento en particular sin duda le debía muchísimo al mono asesino con una pecera en la cabeza. Su cuento fue rechazado, pero Forry lo guardó. Y Forry lo guarda todo, como te dirá cualquiera que haya recorrido alguna vez su casa —la Ackermansion, la mansión de Ackerman—.
 
@@ -432,7 +432,7 @@ Forry quería que se lo firmara a él, y King supone que lo hizo, aunque todo el
 
 ---
 
-### Yo fui un ladrón de tumbas adolescente
+### M14 · Yo fui un ladrón de tumbas adolescente
 
 El primer cuento que King publicó de verdad salió en un fanzine de horror —una revista hecha por y para aficionados— editado por Mike Garrett, de Birmingham, Alabama —Mike sigue por ahí, y sigue en el negocio—.
 
@@ -446,7 +446,7 @@ El suyo era «I Was a Teen-Age Grave-robber»: «Yo fui un ladrón de tumbas ado
 
 ---
 
-### El Problema de Ruth
+### M15 · El Problema de Ruth
 
 Su primera idea de cuento realmente original —la primera siempre se reconoce, cree— llegó cerca del final del reinado de ocho años de benignidad de Ike —el presidente Eisenhower, que gobernó de 1953 a 1961, dato de fuera del libro—. Estaba sentado a la mesa de la cocina de su casa de Durham, Maine, mirando a su madre pegar hojas de S&H Green Stamps en una libreta —estampillas que las tiendas regalaban con cada compra y que luego se canjeaban por premios, dato de fuera del libro—. (Para historias más coloridas sobre las Green Stamps, King remite a «The Liars' Club» —«El club de los mentirosos», las memorias de Mary Karr, dato de fuera del libro—.) Su pequeña troika familiar —el trío de madre e hijos— se había mudado de vuelta a Maine para que su madre pudiera cuidar de sus padres en sus años de decadencia. Mama tenía unos ochenta años entonces: obesa, hipertensa y casi ciega. Daddy Guy tenía ochenta y dos: escuálido, hosco y propenso a ocasionales arrebatos a lo Pato Donald que solo su madre podía entender. Su madre llamaba a Daddy Guy «Fazza».
 
@@ -468,7 +468,7 @@ El dinero que las hermanas le enviaban cada mes cubría la comida y poco más. L
 
 ---
 
-### Happy Stamps
+### M16 · Happy Stamps
 
 Aclaremos una cosa desde ya: no hay Depósito de Ideas, ni Central de Cuentos, ni Isla de los Bestsellers Enterrados. Las buenas ideas para un cuento parecen venir literalmente de la nada, navegando hacia ti desde el cielo vacío: dos ideas antes inconexas se juntan y hacen algo nuevo bajo el sol. El trabajo del escritor no es encontrarlas sino reconocerlas cuando aparecen. El día en que esta idea en particular —la primera realmente buena— llegó navegando hacia él, su madre comentó que necesitaba seis libretas más de estampillas para conseguir una lámpara que quería regalarle a su hermana Molly por Navidad, y que no creía llegar a tiempo. «Supongo que tendrá que ser para su cumpleaños, entonces —dijo—. Estas malditas cosas siempre parecen un montón hasta que las pegas en la libreta». Entonces bizqueó y le sacó la lengua. Cuando lo hizo, King vio que tenía la lengua verde S&H. Pensó en lo bonito que sería poder fabricar esas condenadas estampillas en el propio sótano, y en ese instante nació un cuento llamado «Happy Stamps»: el concepto de falsificar Green Stamps y la vista de la lengua verde de su madre lo crearon de golpe.
 
@@ -508,7 +508,7 @@ Tenía sus fallas, ese cuento —el agujero más grande era probablemente que a 
 
 ---
 
-### La noche del tigre
+### M17 · La noche del tigre
 
 Su cuarto de la casa de Durham estaba arriba, bajo los aleros. De noche podía echarse en la cama bajo uno de esos aleros —si se incorporaba de golpe, era capaz de darse un buen golpe en la cabeza— y leer a la luz de una lámpara de cuello de ganso que ponía en el techo una divertida boa constrictor de sombra. A veces la casa quedaba en silencio, salvo por el soplido de la caldera y el correteo de las ratas en el desván; a veces su abuela se pasaba una hora, cerca de la medianoche, gritando que alguien fuera a ver a Dick —le preocupaba que no le hubieran dado de comer—. Dick, un caballo que había tenido en sus días de maestra de escuela, llevaba muerto al menos cuarenta años. King tenía un escritorio bajo el otro alero, su vieja máquina de escribir Royal y un centenar de libros de bolsillo, en su mayoría de ciencia ficción, que alineaba a lo largo del zócalo. Sobre la cómoda había una Biblia —ganada por memorizar versículos en la Methodist Youth Fellowship, la agrupación juvenil metodista— y un tocadiscos Webcor con cambiador automático y un plato forrado de terciopelo verde suave. En él ponía sus discos, casi todos sencillos de 45 de Elvis, Chuck Berry, Freddy Cannon y Fats Domino. Le gustaba Fats: sabía rockear, y se notaba que se estaba divirtiendo.
 
@@ -532,7 +532,7 @@ Esta vez lo compraron. Hay una cosa que ha notado: cuando has tenido un poco de 
 
 ---
 
-### Dave's Rag
+### M18 · Dave's Rag
 
 Aunque era un año menor que sus compañeros de clase, su hermano mayor se aburría en la secundaria. Algo de eso tenía que ver con su intelecto —el CI de Dave medía entre 150 y 160—, pero King cree que era sobre todo su naturaleza inquieta. Para Dave, la secundaria simplemente no era lo bastante súper duper: no tenía pum, no tenía zas, no tenía diversión. Resolvió el problema, al menos temporalmente, creando un periódico que llamó Dave's Rag —«el Trapo de Dave»—. La oficina del Rag era una mesa en los confines —piso de tierra, paredes de piedra, infestado de arañas— de su sótano, en algún punto al norte de la caldera y al este del cuarto de las raíces, donde se guardaban los interminables cartones de conservas y vegetales enlatados de Clayt y Ella. El Rag era una rara combinación de hoja familiar y semanario de pueblo pequeño. A veces era un mensuario, si Dave se desviaba tras otros intereses —hacer azúcar de arce, hacer sidra, construir cohetes, tunear carros, solo por nombrar unos pocos—, y entonces corrían por la casa chistes que King no entendía: que el Rag iba un poco tarde este mes, o que no había que molestar a Dave, porque estaba abajo en el sótano, en el Rag.
 
@@ -566,7 +566,7 @@ Dave's Rag entró en su breve edad de oro.
 
 ---
 
-### El pozo y el péndulo
+### M19 · El pozo y el péndulo
 
 A King no le interesaba mucho la impresión, ni le interesaban en absoluto las arcanas artes de revelar y reproducir fotografías. No le importaban los cambios Hearst en los carros, ni hacer sidra, ni ver si cierta fórmula mandaría un cohete de plástico a la estratosfera —por lo general ni siquiera pasaban del techo de la casa—. Lo que más le importaba entre 1958 y 1966 era el cine. En la zona solo había dos cines, ambos en Lewiston. El Empire era el de estrenos: películas de Disney, epopeyas bíblicas y musicales en los que conjuntos de gente bien lavada bailaba y cantaba en pantalla ancha. Iba si tenía aventón —una película es una película, al fin—, pero no le gustaban mucho: eran aburridamente sanas, eran previsibles. Durante «The Parent Trap» no dejaba de desear que Hayley Mills se cruzara con Vic Morrow, el de «The Blackboard Jungle» —aquello habría animado un poco las cosas, por Dios—: una mirada a la navaja automática de Vic y a su mirada de taladro habría puesto los insignificantes problemas domésticos de Hayley en una perspectiva más razonable. Y cuando de noche se echaba en la cama bajo su alero, oyendo el viento en los árboles o las ratas en el desván, no soñaba con Debbie Reynolds como Tammy ni con Sandra Dee como Gidget, sino con Yvette Vickers, la de «Attack of the Giant Leeches», o con Luana Anders, la de «Dementia 13». Nada de dulce, nada de edificante, nada de Blancanieves y los siete malditos enanitos: a los trece quería monstruos que se comieran ciudades enteras, cadáveres radiactivos que salieran del océano a comerse a los surfistas y chicas en sostenes negros con pinta de gente de traila. Películas de horror, de ciencia ficción, de pandillas adolescentes al acecho, de perdedores en motocicleta: eso era lo que le subía los diales a diez.
 
@@ -642,7 +642,7 @@ La señorita Hisler le dijo que tendría que devolverle el dinero a todo el mund
 
 ---
 
-### The Village Vomit
+### M20 · The Village Vomit
 
 Hacer un serial para el Dave's Rag era divertido, pero el resto del periodismo lo aburría. Aun así, se corrió la voz de que había trabajado en un periódico, y en su segundo año de Lisbon High —«sophomore year», el segundo de los cuatro cursos de la high school americana— lo nombraron editor del periódico escolar, The Drum, «el Tambor»: no recuerda que le dieran opción. Su segundo de a bordo, Danny Emond, tenía aún menos interés en el periódico que él; a Danny lo que le gustaba era que el Salón 4, donde trabajaban, quedara cerca del baño de las muchachas. The Drum no prosperó bajo su dirección: en el año escolar 1963-1964 publicó un solo número, aunque ese único número era un monstruo más grueso que la guía telefónica de Lisbon Falls. Una noche —harto de los Reportes de Clase, las Novedades de las Porristas y los esfuerzos de algún descerebrado por escribir un poema escolar—, cuando debía estar poniéndole leyendas a las fotos, creó su propio periódico satírico: un pliego de cuatro páginas llamado The Village Vomit, «el Vómito del Pueblo». Su lema enmarcado en la esquina superior izquierda no era «All the News That's Fit to Print» —«todas las noticias que merecen imprimirse», el lema del New York Times, dato de fuera del libro— sino «All the Shit That Will Stick»: toda la mierda que se pegue. Ese chiste de idiota le trajo el único problema serio de su época escolar, y también la lección de escritura más útil que recibió jamás.
 
@@ -704,7 +704,7 @@ No cree que ella lo odiara —probablemente estaba demasiado ocupada—, pero er
 
 ---
 
-### Con la puerta cerrada
+### M21 · Con la puerta cerrada
 
 Apenas una semana después de salir del salón de detención, King volvió a ser invitado a bajar a la oficina del director. Fue con el corazón encogido, preguntándose en qué nueva mierda habría pisado. Pero no era el señor Higgins quien quería verlo: era el orientador escolar. Había habido discusiones sobre él, dijo, sobre cómo encauzar su «restless pen», su pluma inquieta; el orientador había preguntado a John Gould, el editor del semanario de Lisbon, y resultó que Gould tenía una vacante para un cronista deportivo. La escuela no podía obligarlo, pero toda la administración pensaba que sería una buena idea. Hazlo o muere, sugerían los ojos del orientador. King gruñó por dentro: apenas se había sacudido de encima el Dave's Rag y casi The Drum, y ahora venía el Lisbon Weekly Enterprise. De adolescente no estaba perseguido por las aguas, como el Norman Maclean de «A River Runs Through It» —la novela del río y de la pesca con mosca, dato de fuera del libro—, sino por los periódicos. ¿Qué podía hacer? Dijo que estaría encantado de presentarse a la entrevista. Gould —no el famoso humorista de Nueva Inglaterra ni el novelista de «The Greenleaf Fires», sino pariente de ambos, cree King— lo recibió con cautela pero con cierto interés: se probarían el uno al otro, si a él le parecía bien. Ya lejos de las oficinas de Lisbon High, King se permitió un poco de honestidad y le dijo al señor Gould que no sabía mucho de deportes. «Son juegos que la gente entiende cuando los mira borracha en los bares —dijo Gould—. Aprenderás si lo intentas».
 
@@ -756,7 +756,7 @@ Si tienes mucha suerte —esto es idea mía, no de John Gould, aunque creo que �
 
 ---
 
-### Ratas grandes como perros
+### M22 · Ratas grandes como perros
 
 Nada más volver del viaje de fin de curso a Washington, D.C., King consiguió trabajo en Worumbo Mills and Weaving, la fábrica textil de Lisbon Falls.
 
