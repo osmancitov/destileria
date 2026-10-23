@@ -1415,6 +1415,54 @@ Estoy sonriendo, pero él no me devuelve la sonrisa.
 
 «Chicos de universidad —responde—. Como tú».
 
+---
+
+### M34 · Mis niños
+
+[![Simbolismo: dos hijos adultos velan a su madre moribunda, anciana y consumida, en la cama de un dormitorio sencillo, con un libro encuadernado en la mesilla y luz fría de mañana, al estilo de Ferdinand Hodler.](../img/261017_mientras-escribo_mis-ninos.jpg)](../img/261017_mientras-escribo_mis-ninos.jpg)
+
+En 1971 o 1972 murió de cáncer de mama Carolyn Weimer, la hermana de la madre de King. Su madre y su tía Ethelyn —la gemela de Carolyn, glosa— volaron al funeral en Minnesota; era la primera vez que su madre volaba en veinte años. En el vuelo de vuelta empezó a sangrar abundantemente por lo que ella habría llamado «sus partes». Aunque la menopausia le había pasado hacía mucho, se dijo que era simplemente una última regla, y encerrada en el baño minúsculo de un avión de TWA que bamboleaba contuvo la hemorragia con tampones —«tápalo, tápalo», como habrían gritado Sue Snell y sus amigas en la escena de las duchas de «Carrie», glosa—.
+
+> She said nothing to Ethelyn and nothing to David and me.
+>
+> <small>Frase 1380</small>
+
+No dijo nada a Ethelyn y nada a David y a mí.
+
+Tampoco fue a ver a Joe Mendes, su médico de siempre en Lisbon Falls. En lugar de nada de eso hizo lo que siempre hacía en tiempos de problemas: se tuvo en reserva. Durante un tiempo, las cosas parecieron ir bien: disfrutaba de su trabajo, de sus amigas y de sus cuatro nietos, dos de la familia de Dave y dos de la de King. Después dejaron de ir bien: en agosto de 1973, en una revisión tras una operación para «vaciar» unas venas varicosas monstruosas, le diagnosticaron cáncer de útero.
+
+> I think Nellie Ruth Pillsbury King, who once dumped a bowl of Jell-O on the floor and then danced in it while her two boys lay collapsed in the corner, screaming with laughter, actually died of embarrassment.
+>
+> <small>Frase 1387</small>
+
+Creo que Nellie Ruth Pillsbury King, que una vez volcó un bol de gelatina en el suelo y luego bailó dentro mientras sus dos niños yacían desplomados en la esquina, muertos de risa, murió en realidad de vergüenza —de un cáncer de «sus partes», de lo que no se nombraba, glosa—.
+
+El final llegó en febrero de 1974. Para entonces ya empezaba a fluir un poco del dinero de «Carrie», y King pudo ayudar con algunos gastos médicos —había al menos eso que agradecer—. Y estuvo allí para lo último, quedándose en el cuarto de atrás de la casa de Dave y Linda —la mujer de su hermano, glosa—. La noche anterior se había emborrachado, pero solo estaba moderadamente resacoso, lo cual era una suerte: uno no quiere estar demasiado resacoso junto al lecho de muerte de su madre.
+
+> Dave woke me at 6:15 in the morning, calling softly through the door that he thought she was going.
+>
+> <small>Frase 1393</small>
+
+Dave me despertó a las 6:15 de la mañana, llamando en voz baja a través de la puerta: creía que ella se iba.
+
+Cuando entró en el dormitorio principal, Dave estaba sentado junto a ella en la cama, sosteniéndole un Kool —una marca de cigarrillos mentolados, dato de fuera del libro— para que fumara. Ella lo hacía entre ásperas bocanadas de aire, solo semiconsciente, los ojos yendo de Dave a King y de vuelta a Dave. King se sentó al otro lado, tomó el cigarrillo y se lo acercó a la boca; los labios de ella se estiraron para prenderse del filtro. Junto a la cama, reflejada una y otra vez en un juego de vasos, había una galerada encuadernada temprana de «Carrie»: la tía Ethelyn se la había leído en voz alta un mes antes de que muriera. Había pasado de ciento sesenta libras a unas noventa —de setenta y dos kilos a cuarenta, glosa—, la piel amarilla y tan tirante que parecía una de esas momias que pasean por las calles de México el Día de los Muertos. Se turnaron sosteniéndole el cigarrillo, y cuando llegó al filtro, King lo apagó. «Mis niños», dijo ella, y se hundió en lo que pudo ser sueño o inconsciencia.
+
+> Dave held one of her hands and I held the other.
+>
+> <small>Frase 1408</small>
+
+Dave le sujetaba una mano y yo le sujetaba la otra.
+
+Bajo la sábana no estaba el cuerpo de su madre, sino el de un niño famélico y deforme. Dave y King fumaron y hablaron un poco; él no recuerda qué se dijeron. Había llovido la noche anterior, luego había bajado la temperatura y las calles de la mañana estaban llenas de hielo.
+
+> We could hear the pause after each rasping breath she drew growing longer and longer.
+>
+> <small>Frase 1413</small>
+
+Oíamos cómo la pausa después de cada bocanada áspera que tomaba se hacía más y más larga.
+
+Finalmente no hubo más bocanadas, y todo fue pausa.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
