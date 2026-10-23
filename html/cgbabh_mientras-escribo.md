@@ -196,6 +196,8 @@ Otro día le contó la que vio: un marinero que se tiró del tejado del Graymore
 
 ### M6 · No va a doler
 
+[![Pintura: en un consultorio médico de los años cincuenta, un niño de seis años yace tenso en una camilla con un paño bajo la cabeza mientras el médico del oído, sonriente, sostiene en la mano una aguja larguísima y la enfermera observa de pie junto al esterilizador y los frascos de alcohol, al estilo de Caravaggio.](../img/261017_mientras-escribo_no-va-a-doler.jpg)](../img/261017_mientras-escribo_no-va-a-doler.jpg)
+
 La mayor parte de los nueve meses que King debió pasar en primer grado los pasó en cama. Empezó con el sarampión, un caso normalísimo, y fue empeorando: acceso tras acceso de lo que él creía que se llamaba «stripe throat», la garganta a rayas —en realidad era «strep throat», la faringitis por estreptococo—, enfermo en la cama, bebiendo agua fría e imaginando su garganta a rayas rojas y blancas. Y entonces llegaron los oídos:
 
 > At some point my ears became involved, and one day my mother called a taxi (she did not drive) and took me to a doctor too important to make house calls—an ear specialist.
