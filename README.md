@@ -7,7 +7,7 @@ Una destilería es un lugar donde se destila: se separa una sustancia mediante e
 Aquí se ensaya algo parecido con los libros: quitar lo que sobra hasta encontrar una forma breve que conserve su fuerza y se pueda contar a otro. Es una hipótesis de trabajo, no una promesa cumplida.
 
 - [Autobiografía de un yogui](html/cgbabh_autobiografia-de-un-yogui.html): la vida de Paramhansa Yogananda contada por él mismo, destilada capítulo a capítulo.
-- [Mientras Escribo II](html/cgbacd_mientras-escribo-ii.html): la segunda parte del libro de Stephen King sobre el oficio de escribir, destilado sección a sección; incluye «Qué es escribir» y «Caja de herramientas», esta última en cinco unidades.
+- [Mientras Escribo II](html/cgbacd_mientras-escribo-ii.html): la segunda parte del libro de Stephen King sobre el oficio de escribir, destilado sección a sección; incluye «Qué es escribir», «Caja de herramientas», en cinco unidades, y «Mientras escribo», en diecisiete.
 - [Mientras Escribo I](html/cgbabh_mientras-escribo.html): el libro de Stephen King sobre el oficio de escribir, destilado sección a sección; esta primera parte llega hasta el final del C.V.
 - [La Tragedia del Rey Lear](html/cgbabh_rey-lear.html): la obra de William Shakespeare, destilada escena a escena.
 - [Todo es una voz: una glosa de Victor Hugo](html/cgbabf_todo-es-una-voz.html): «todo es una voz y todo es un perfume», leído con calma.
