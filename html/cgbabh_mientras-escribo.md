@@ -1241,6 +1241,84 @@ También le recordé que mi contrato fijaba un reparto al cincuenta por ciento e
 
 Tabby no se dignó a contestar, y no le hacía falta: treinta mil dólares era lo que King esperaba ganar en cuatro años de enseñanza, incluso contando los aumentos anuales. Era mucho dinero. Probablemente un sueño imposible, pero era una noche para soñar.
 
+---
+
+### M32 · Un cuatro y cinco ceros
+
+[![Realismo americano: un joven profesor se desploma sentado en el vano de la puerta de la cocina de un apartamento miserable, con el teléfono de pared colgando a su lado, al estilo de George Wesley Bellows.](../img/261017_mientras-escribo_un-cuatro-y-cinco-ceros.jpg)](../img/261017_mientras-escribo_un-cuatro-y-cinco-ceros.jpg)
+
+«Carrie» avanzaba hacia la publicación poco a poco. El anticipo se fue en un coche nuevo —de cambio manual, que Tabby odiaba— y King firmó contrato de enseñanza para el curso 1973-1974. Se habían mudado a un piso bajo en Bangor, un agujero, pero con teléfono; los niños daban guerra, y King había empezado a preocuparse por su madre: tenía sesenta y un años, seguía trabajando en Pineland Training Center, pero su hermano Dave decía que se sentía mal a menudo, y su mesilla de noche estaba cubierta de analgésicos con receta. «Siempre ha fumado como una chimenea, ya sabes», dijo Dave.
+
+> He was a great one to talk, since he smoked like a chimney himself (so did I, and how my wife hated the expense and the constant ashy dirt of it), but I knew what he meant.
+>
+> <small>Frase 1215</small>
+
+Él era muy indicado para hablar, porque él también fumaba como una chimenea (y yo también, y cómo odiaba mi mujer el gasto y la constante suciedad cenicienta de aquello), pero sabía lo que quería decir.
+
+«¿Qué podemos hacer?». Detrás de la pregunta estaba todo lo que sabían de su madre, que «se tenía mucho en reserva»: un vasto espacio gris donde otras familias tienen historias; ni siquiera sabían casi nada de su padre ni del pasado de ella, que incluía ocho hermanos muertos y su frustrada ambición de concertista de piano. «No podemos hacer nada —respondió Dave— hasta que ella pida».
+
+Un domingo no mucho después llamó Bill Thompson, el amigo de King en Doubleday —la editorial neoyorquina que había aceptado «Carrie», glosa—. King estaba solo en el apartamento; Tabby se había llevado a los niños a casa de su madre. «¿Estás sentado?», preguntó Bill. «No». El teléfono colgaba de la pared de la cocina y King estaba de pie en el vano de la puerta, entre la cocina y la sala. «¿Me hace falta?».
+
+> “You might,” he said.
+>
+> <small>Frase 1229</small>
+
+«Puede que sí», dijo él.
+
+Los derechos de bolsillo de «Carrie» se habían vendido a Signet Books por cuatrocientos mil dólares. De niño, el padre de King —al que llamaban Daddy Guy, glosa— le había dicho una vez a su madre: «¿Por qué no callas a ese niño, Ruth? Cuando Stephen abre la boca se le caen todas las tripas». Era verdad entonces y lo había sido toda su vida, pero aquel Día de la Madre de mayo de 1973 King se quedó sin habla: de pie en el vano de la puerta, proyectando la misma sombra de siempre, incapaz de hablar.
+
+> Bill asked if I was still there, kind of laughing as he said it.
+>
+> <small>Frase 1235</small>
+
+Bill me preguntó si seguía ahí, medio riéndose mientras lo decía.
+
+> He knew I was.
+>
+> <small>Frase 1236</small>
+
+Sabía que sí.
+
+> I hadn’t heard him right.
+>
+> <small>Frase 1237</small>
+
+No lo había oído bien.
+
+Imposible. Al menos la idea le permitió recuperar la voz: «¿Has dicho que se ha vendido por cuarenta mil dólares?». «Cuatrocientos mil dólares —dijo él—. Según las reglas del juego —el contrato que había firmado— doscientos mil son tuyos. Enhorabuena, Steve».
+
+> Our place on Sanford Street rented for ninety dollars a month and this man I’d only met once face-to-face was telling me I’d just won the lottery.
+>
+> <small>Frase 1245</small>
+
+Nuestro piso de Sanford Street se alquilaba por noventa dólares al mes, y aquel hombre al que solo había visto una vez en persona me estaba diciendo que acababa de ganar la lotería.
+
+Se le fueron las fuerzas de las piernas; no se cayó, exactamente, pero se deslizó hasta quedar sentado en el vano de la puerta. «¿Estás seguro?».
+
+> I asked Bill.
+>
+> <small>Frase 1249</small>
+
+Se lo pregunté a Bill.
+
+Lo estaba.
+
+> I asked him to say the number again, very slowly and very clearly, so I could be sure I hadn’t misunderstood.
+>
+> <small>Frase 1251</small>
+
+Le pedí que dijera el número otra vez, muy despacio y muy claro, para estar seguro de no haberlo entendido mal.
+
+Dijo que el número era un cuatro seguido de cinco ceros. «Y después un punto decimal y dos ceros más», añadió.
+
+> We talked for another half an hour, but I don’t remember a single word of what we said.
+>
+> <small>Frase 1254</small>
+
+Hablamos media hora más, pero no recuerdo ni una sola palabra de lo que dijimos.
+
+Al colgar intentó llamar a Tabby a casa de su madre —ya había salido— y recorrió el apartamento de un lado a otro en calcetines, reventando de buenas noticias y sin un oído que las oyera. Temblaba entero. Al final se calzó y bajó al centro: lo único abierto en la Main Street de Bangor era la farmacia LaVerdiere's, y sintió de pronto que tenía que comprarle a Tabby un regalo del Día de la Madre, algo salvaje y extravagante. Lo intentó, pero he aquí uno de los hechos ciertos de la vida: no hay nada realmente salvaje y extravagante a la venta en LaVerdiere's. Hizo lo que pudo: le compró un secador de pelo. Cuando volvió, ella estaba en la cocina desempaquetando las bolsas del bebé y cantando con la radio. Se lo dio; lo miró como si nunca hubiera visto uno. La tomó por los hombros y le contó la venta en bolsillo. No pareció entenderlo. Se lo contó otra vez. Tabby miró por encima de su hombro el mísero apartamentito de cuatro habitaciones, igual que había hecho él, y se echó a llorar.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
