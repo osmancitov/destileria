@@ -1142,6 +1142,7 @@ King nunca llegó a querer a Carrie White ni a fiarse de los motivos de Sue Snel
 Ella y su madre vivían en un tráiler no muy lejos de mí, con su perro, Cheddar Cheese.
 
 A la primera la llamará Sondra. Tenía una voz burbujeante y desigual, como si hablara siempre a través de una garganta llena de flema; no era gorda, pero su carne tenía un aspecto flojo y pálido, como el envés de ciertas setas; el pelo se le pegaba a las mejillas granulosas en tirabuzones apretados, y no tenía amigos, salvo el perro. Un día su madre contrató a King para mover unos muebles, y así vio lo que dominaba la sala del tráiler: un Jesús crucificado casi de tamaño natural, los ojos vueltos hacia arriba, la boca caída, la sangre goteando bajo la corona de espinas, desnudo salvo por un trapo retorcido en las caderas, con el vientre hundido y las costillas salientes de un interno de campo de concentración.
+
 > It occurred to me that Sondra had grown up beneath the agonal gaze of this dying god, and doing so had undoubtedly played a part in making her what she was when I knew her: a timid and homely outcast who went scuttling through the halls of Lisbon High like a frightened mouse.
 >
 > <small>Frase 1095</small>
@@ -1157,6 +1158,7 @@ Se me ocurrió que Sondra había crecido bajo la mirada agónica de ese dios mor
 La otra chica la llamaré Dodie Franklin, solo que las otras chicas la llamaban Dodo o Doodoo —«Caca», glosa—.
 
 A los padres de Dodie solo les interesaba una cosa: presentarse a concursos. Y eran buenos: habían ganado toda clase de cosas raras, incluido un año de atún enlatado y el automóvil Maxwell de Jack Benny —el cómico de la radio y la tele americanas, dato de fuera del libro—, que se pudría hundido en la hierba junto a su casa. Lo que el botín no incluía era ropa para adolescentes en crecimiento: Dodie y su hermano Bill vistieron lo mismo cada día durante el primer año y medio de instituto, él pantalón negro y camisa de cuadros de manga corta, ella falda negra larga, medias grises hasta la rodilla y blusa blanca sin mangas. Quien creció en pueblos de los cincuenta y los sesenta, dice King, sabe que lo dice literalmente: no era la Arcadia; era un pueblo sin gracia donde la vida no se maquillaba. Miraron con diversión y horror cómo la camisa de Bill se desteñía y deshilachaba, cómo sustituía un botón con un clip, cómo la blusa de Dodie amarilleaba y dejaba ver las tirantas del sujetador. Las chicas se burlaron de ella primero a sus espaldas y luego a la cara; las burlas se volvieron pullas. Los chicos no participaban —tenían a Bill para eso, y sí, confiesa King, él ayudó; no mucho, pero estuvo ahí—.
+
 > Dodie had it worse, I think.
 >
 > <small>Frase 1123</small>
@@ -1172,6 +1174,7 @@ Las chicas no solo se reían de Dodie: la odiaban. Dodie era todo aquello que el
 No tengo idea de si ahorró para esa ropa nueva, de si sus padres se la regalaron por Navidad o de si pasó por un infierno de súplicas que por fin dio frutos.
 
 No importa, porque la ropa sola no cambió nada: las burlas de aquel día fueron peores que nunca. Sus compañeras no pensaban dejarla salir de la caja en que la habían metido; fue castigada por intentar escapar.
+
 > I had several classes with her, and was able to observe Dodie’s ruination at first hand.
 >
 > <small>Frase 1136</small>
@@ -1193,6 +1196,7 @@ Al final del día era otra vez la chica de antes de las vacaciones: un espectro 
 Tanto Sondra como Dodie estaban muertas cuando empecé a escribir «Carrie».
 
 Sondra salió del tráiler, de debajo de la mirada agónica del salvador moribundo, y se mudó a un apartamento en Lisbon Falls; era epiléptica y murió durante un ataque, sola, sin nadie que la ayudara. Dodie se casó con un meteorólogo de la tele; tras el nacimiento de un niño —cree que el segundo— bajó al sótano y se metió una bala del calibre 22 en el abdomen; en el pueblo dijeron depresión posparto, qué triste. Él sospecha que la resaca del instituto pudo tener algo que ver.
+
 > I never liked Carrie, that female version of Eric Harris and Dylan Klebold, but through Sondra and Dodie I came at last to understand her a little.
 >
 > <small>Frase 1156</small>
