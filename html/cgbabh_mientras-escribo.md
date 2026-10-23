@@ -324,6 +324,8 @@ Ella pareció decepcionada, y eso le vació buena parte del gusto. Al final le d
 
 ### M9 · A cuarto el cuento
 
+[![Pintura: un gran conejo blanco con chaqueta maneja un carro viejo y destartalado por un camino de campo, con un zorro, un búho y un gato de pasajeros, mientras dos niños pequeños los miran pasar con asombro desde el borde del camino, al estilo de Henri Rousseau.](../img/261017_mientras-escribo_a-cuarto-el-cuento.jpg)](../img/261017_mientras-escribo_a-cuarto-el-cuento.jpg)]
+
 King obedeció. Le vino una inmensa sensación de posibilidad ante la idea, como si lo hubieran llevado a un vasto edificio lleno de puertas cerradas y le hubieran dado permiso de abrir las que quisiera: más puertas de las que una persona puede abrir en una vida, pensó, y todavía piensa. Escribió un cuento sobre cuatro animales mágicos que andaban por ahí en un carro viejo, ayudando a niños pequeños. Su líder era un gran conejo blanco llamado Mr. Rabbit Trick —algo así como «el señor Conejo Truco»—, y él era quien manejaba el carro. El cuento tenía cuatro páginas, impresas laboriosamente a lápiz. Nadie saltaba en él del tejado del Graymore Hotel —el hotel de Portland, Maine, del que se tiró el marinero que su madre vio caer—.
 
 > When I finished, I gave it to my mother, who sat down in the living room, put her pocketbook on the floor beside her, and read it all at once.
