@@ -54,6 +54,8 @@ Los otros dos prólogos son más cortos. El segundo dice que este es un libro co
 
 ### M1 · El paisaje con niebla
 
+[![Romanticismo: un hombre de espaldas con sombrero se adentra en un bosque de niebla espesa, entre árboles altos que se insinúan en la bruma, al estilo de Caspar David Friedrich.](../img/261017_mientras-escribo_el-paisaje-con-niebla.jpg)](../img/261017_mientras-escribo_el-paisaje-con-niebla.jpg)
+
 King se quedó pasmado con The Liars' Club, las memorias de la poeta americana Mary Karr: ella lo recuerda todo de su infancia. Él no. La suya fue a tirones, con una madre sola y quizá una temporada en casa de una tía:
 
 > Perhaps she was only chasing our father, who piled up all sorts of bills and then did a runout when I was two and my brother David was four.
@@ -80,6 +82,8 @@ Pide no buscar una línea que una los puntos: no hay líneas, solo instantáneas
 
 ### M2 · El niño forzudo
 
+[![Pintura: un niño de unos tres años, descalzo, carga despacio un enorme bloque hueco de cemento en el garaje de una casa de campo, con herramientas viejas alrededor y avispas en una cavidad del bloque, luz de tarde entrando por la puerta, al estilo de Albert Edelfelt.](../img/261017_mientras-escribo_el-nino-forzudo.jpg)](../img/261017_mientras-escribo_el-nino-forzudo.jpg)
+
 Su primer recuerdo es imaginarse otro: el Forzudo del circo Ringling Brothers, en casa de la tía Ethelyn y el tío Oren, en Durham, Maine. Tiene dos años y medio, quizá tres. Levantó un bloque de cemento del garaje y lo cargó despacio, pero en su mente vestía piel de leopardo y cruzaba la pista central: la multitud en silencio, un foco marcando su paso. «¡Y solo tiene dos años!». Lo que no sabía: unas avispas anidaban en el bloque, y una le picó la oreja. Fue el peor dolor de su corta vida, por unos segundos:
 
 > When I dropped the cinderblock on one bare foot, mashing all five toes, I forgot all about the wasp.
@@ -105,6 +109,8 @@ La tía Ethelyn cierra la anécdota en broma, hablando con él: «¡Cómo aullas
 ---
 
 ### M3 · Siete huevos
+
+[![Pintura: un niño de unos cuatro años come un huevo frito en la mesa de una cocina americana de los años cincuenta, una pila de platos vacíos a su lado, mientras una niñera adolescente enorme y riente fríe el siguiente en los fogones, al estilo de David Teniers el Joven.](../img/261017_mientras-escribo_siete-huevos.jpg)](../img/261017_mientras-escribo_siete-huevos.jpg)
 
 Un año o poco más después de la escena del bloque de cemento, King, su madre y su hermano David, dos años mayor que él, están en West De Pere, Wisconsin. No sabe por qué. Quizá su madre se mudó para estar cerca de Cal, otra de sus hermanas, que vivía allí con un marido amigo de la cerveza; pero de los Weimer, que parecen ser la familia de Cal (el libro no lo dice con esas palabras), no recuerda haber visto mucho. Su madre trabajaba, y tampoco recuerda en qué. Lo que sí recuerda es una fila de niñeras: no sabe si se iban porque David y él daban guerra o porque encontraban mejor sueldo, pero eran muchas. La única que recuerda con claridad es Eula, o quizá Beulah, así que la llama Eula-Beulah: adolescente, enorme y de risa fácil. Tenía un humor magnífico y peligroso: en cada estallido de risa, entre palmaditas y balanceos de trasero, parecía esconderse un trueno. Lo abrazaba, le hacía cosquillas y, riendo, le soltaba un golpe en la cabeza capaz de tirarlo. Y cuando se le escapaba uno de sus pedos, fuertes y malolientes, lo lanzaba al sofá, le sentaba encima de la cara su trasero de falda de lana y lo soltaba. «¡Pow!», gritaba ella, feliz. King recuerda la oscuridad, la asfixia y que se reía, porque lo que pasaba era horrible, pero también gracioso. De ahí su conclusión: en cierto modo, Eula-Beulah lo preparó para la crítica literaria:
 
@@ -154,6 +160,8 @@ Cuando mi madre volvió del trabajo ese día, la niñera dormía profundamente e
 
 ### M4 · El tejado
 
+[![Pintura: un niño descalzo, de pie sobre el radiador de hierro de un baño y con la cara pegada al cristal, mira a su hermano de seis años gatear por el tejado inclinado del tercer piso, al estilo de Gustave Caillebotte.](../img/261017_mientras-escribo_el-tejado.jpg)](../img/261017_mientras-escribo_el-tejado.jpg)
+
 La temporada en West De Pere no fue ni larga ni buena: los echaron del apartamento del tercer piso, porque un vecino vio a David, el hermano de King, gateando por el tejado con sus seis años, y llamó a la policía. King no sabe dónde estaba su madre cuando pasó, ni dónde estaba la niñera de la semana. Solo sabe dónde estaba él:
 
 > I only know that I was in the bathroom, standing with my bare feet on the heater, watching to see if my brother would fall off the roof or make it back into the bathroom okay.
@@ -169,6 +177,8 @@ David no se cayó: volvió al baño por su propio pie. Hoy tiene cincuenta y cin
 ---
 
 ### M5 · Ver morir
+
+[![Pintura: en una playa de Maine en los años veinte, un grupo de personas mira impotente desde la orilla a una muchacha con el brazo alzado mar adentro, entre las olas de la tormenta, mientras los hombres que intentaban alcanzarla retroceden vencidos por la corriente, al estilo de Ivan Aivazovsky.](../img/261017_mientras-escribo_ver-morir.jpg)](../img/261017_mientras-escribo_ver-morir.jpg)
 
 King tenía cinco o seis años cuando le preguntó a su madre si alguna vez había visto morir a alguien. Sí, dijo ella: había visto morir a una persona y había oído morir a otra. ¿Cómo se puede oír morir a una persona? Era una muchacha que se ahogó frente a Prout's Neck en los años veinte: nadó mar adentro, pasó la resaca y no pudo volver; empezó a gritar pidiendo ayuda. Varios hombres intentaron alcanzarla, pero la resaca de ese día traía una corriente de fondo brava que los obligó a retroceder a todos. Al final solo pudieron quedarse ahí parados, turistas y gente del pueblo, y entre ellos la adolescente que sería la madre de King, esperando una lancha de rescate que nunca llegó y oyendo gritar a la muchacha hasta que se quedó sin fuerzas y se hundió. El cuerpo apareció en New Hampshire, dijo su madre. King preguntó qué edad tenía la muchacha:
 
