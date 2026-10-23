@@ -388,6 +388,8 @@ Las hojas resultaron ser hiedra venenosa —una planta americana cuyo roce produ
 
 ### M11 · El Súper Duper Electromán
 
+[![Pintura: en la cocina de un apartamento americano de los años cincuenta, un niño de unos trece años, sentado en el suelo, le ofrece a su hermanito un electroimán casero —un clavo enrollado en alambre de cobre desnudo que termina en un enchufe— mientras el pequeño, arrodillado junto al tomacorriente, está a punto de enchufarlo, al estilo de George Wesley Bellows.](../img/261017_mientras-escribo_el-super-duper-electroman.jpg)](../img/261017_mientras-escribo_el-super-duper-electroman.jpg)]
+
 Dave era un gran hermano, pero demasiado listo para un niño de diez años. Su inteligencia siempre lo metía en problemas, y en algún momento aprendió que casi siempre era posible lograr que el hermanito Stevie se pusiera con él en primera línea cuando había problemas en el aire. Nunca le pidió cargar con toda la culpa de sus a menudo brillantes metidas de pata —no era ni un alcahuete ni un cobarde—, pero en varias ocasiones le pidió compartirla. Por eso los dos se metieron en problemas cuando Dave represó el arroyo que cruzaba la jungla e inundó buena parte del bajo West Broad Street.
 
 > Sharing the blame was also the reason we both ran the risk of getting killed while implementing his potentially lethal school science project.
