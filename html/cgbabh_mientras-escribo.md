@@ -938,6 +938,30 @@ Me sonrió.
 
 King le devolvió la sonrisa. A veces estas cosas no son accidentes; él está casi seguro de ello.
 
+---
+
+### M25 · Su mujer está de parto
+
+[![Precisión casi fotográfica: un autocine de Maine de noche en 1971; un joven alto conduce su viejo sedán hacia la salida entre cientos de coches que le dan una salva de luces y bocinazos, con el altavoz de poste aún colgado de la ventanilla, al estilo de Gustave Caillebotte.](../img/261017_mientras-escribo_su-mujer-esta-de-parto.jpg)](../img/261017_mientras-escribo_su-mujer-esta-de-parto.jpg)
+
+A los tres años de casados, King y Tabby ya tenían dos niños: Naomi y Joe. Ni planeados ni imprevistos: llegaron cuando llegaron, y fueron bienvenidos. Naomi era propensa a las infecciones de oído; Joe estaba sano, pero parecía no dormir nunca.
+
+> When Tabby went into labor with him, I was at a drive-in movie in Brewer with a friend—it was a Memorial Day triple feature, three horror films.
+>
+> <small>Frase 889</small>
+
+Cuando Tabby se puso de parto con él, yo estaba en un autocine de Brewer con un amigo: era una función triple del Día de los Caídos, tres películas de terror.
+
+Iban por la tercera película, «The Corpse Grinders», y por el segundo sixpack —el cartón de seis cervezas, glosa— cuando el encargado de la cabina interrumpió con un anuncio. En aquellos días los autocines tenían altavoces de poste: al aparcar, descolgabas uno y lo ponías sobre la ventanilla del coche. Así que el anuncio resonó por todo el aparcamiento: «¡STEVE KING, PLEASE GO HOME! ¡YOUR WIFE IS IN LABOR!» —«¡Steve King, vuelva a casa! ¡Su mujer está de parto!»—. Mientras King conducía el viejo Plymouth familiar hacia la salida, un par de centenares de bocinas le tocaron una salva satírica y mucha gente le encendía y apagaba los faros, bañándolo en un resplandor entrecortado. Su amigo Jimmy Smith se reía tan fuerte que se deslizó hasta el hueco de los pies del asiento del copiloto, y allí se quedó, riéndose entre las latas de cerveza, casi todo el viaje de vuelta a Bangor —la ciudad vecina a Brewer, glosa—.
+
+Al llegar a casa, Tabby estaba tranquila y con la maleta hecha. Menos de tres horas después daba a luz a Joe. El niño entró en el mundo con facilidad; durante los cinco años siguientes, nada de lo demás de Joe fue fácil. Pero era una delicia. Los dos lo eran, en realidad.
+
+> Even when Naomi was tearing off the wallpaper above her crib (maybe she thought she was housekeeping) and Joe was shitting in the wicker seat of the rocker we kept on the porch of our apartment on Sanford Street, they were a treat.
+>
+> <small>Frase 906</small>
+
+Incluso cuando Naomi arrancaba el papel pintado de encima de su cuna (quizá creía que estaba haciendo limpieza) y Joe se cagaba en el asiento de mimbre de la mecedora que teníamos en el porche de nuestro apartamento de Sanford Street, eran una delicia.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
