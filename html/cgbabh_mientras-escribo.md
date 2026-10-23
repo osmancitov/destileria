@@ -864,6 +864,80 @@ Seguimos casados, y ella nunca me ha dejado olvidar que la primera vez que la vi
 
 Quizá, pensó King, una camarera lectora de la pizzería local en su tarde libre. (Tabitha Spruce sería después Tabitha King, novelista ella misma y primera lectora de casi todo lo que él escribiría —dato de fuera del libro—.)
 
+---
+
+### M24 · Me gustan los osos
+
+[![Realismo nórdico: en la sala de estar de una casa de Maine, de noche, una muchacha menuda de pelo cobrizo y vestido negro lee su poema en voz alta desde una mecedora en un taller de poesía de 1969, mientras un joven alto de patillas la escucha embelesado sentado en el suelo, al estilo de Albert Edelfelt.](../img/261017_mientras-escribo_me-gustan-los-osos.jpg)](../img/261017_mientras-escribo_me-gustan-los-osos.jpg)
+
+«Ha funcionado». El matrimonio de King y Tabitha Spruce —Tabby, la muchacha de la risa sin miedo del tramo anterior— ha sobrevivido a todos los líderes mundiales salvo a Castro —Fidel Castro, el gobernante cubano, dato de fuera del libro—, y si siguen hablando, discutiendo, haciendo el amor y bailando a los Ramones —la banda de punk neoyorquina, dato de fuera del libro—, probablemente seguirá funcionando. Venían de religiones distintas: ella, feminista, nunca ha sido muy devota de los católicos, donde los hombres hacen las reglas y las mujeres lavan la ropa interior; él cree en Dios pero no tiene uso para la religión organizada. Venían de familias obreras parecidas, los dos comían carne y los dos eran demócratas con las típicas suspicacias yanquis —de Nueva Inglaterra, glosa— hacia la vida de fuera. Eran compatibles y monógamos por naturaleza. Pero lo que más fuerte los ata son las palabras, el lenguaje y el trabajo de sus vidas.
+
+> We met when we were working in a library, and I fell in love with her during a poetry workshop in the fall of 1969, when I was a senior and Tabby was a junior.
+>
+> <small>Frase 801</small>
+
+Nos conocimos cuando trabajábamos en una biblioteca, y me enamoré de ella durante un taller de poesía en el otoño de 1969, cuando yo estaba en cuarto año y Tabby en tercero.
+
+Cayó por partida triple, y la primera razón fue literaria.
+
+> I fell in love with her partly because I understood what she was doing with her work.
+>
+> <small>Frase 802</small>
+
+Me enamoré de ella en parte porque entendía lo que ella hacía con su obra.
+
+> I fell because she understood what she was doing with it.
+>
+> <small>Frase 803</small>
+
+Me enamoré porque ella entendía lo que hacía con ella.
+
+> I also fell because she was wearing a sexy black dress and silk stockings, the kind that hook with garters.
+>
+> <small>Frase 804</small>
+
+También me enamoré porque llevaba un vestido negro sexy y medias de seda, de las que se enganchan con liguero.
+
+Hacía falta valentía para no apuntarse a la actitud poética reinante. Entre los escritores estudiantes que King conocía entonces se creía que la buena escritura brotaba espontánea, en un arrebato de sentimiento que había que atrapar al vuelo: los aspirantes a poeta vivían en un mundo empañado de rocío y de Tolkien —el autor de «El Señor de los Anillos», dato de fuera del libro—, pescando poemas del éter, y el arte serio venía de «ahí fuera»; los escritores eran estenógrafos bendecidos tomando un dictado divino. El ars poetica de 1969 lo resumía quizá una canción de Donovan Leitch —el cantante escocés Donovan, dato de fuera del libro—: «Primero hay una montaña / luego no hay montaña / luego hay». King compone una versión novelada de aquel estilo, armada con retazos de muchos poemas reales de la época —«crow I am here / raven I am here»—: si le preguntabas al poeta qué significaba, lo más probable era recibir una mirada de desprecio, y de que el poeta no supiera explicar la mecánica de la creación ni se consideraba importante.
+
+> I didn’t cop to much of this attitude (although I didn’t dare say so out loud, at least not in so many words), and was overjoyed to find that the pretty girl in the black dress and the silk stockings didn’t cop to much of it, either.
+>
+> <small>Frase 824</small>
+
+Yo no me apuntaba a casi nada de esa actitud (aunque no me atrevía a decirlo en voz alta, al menos no con tantas palabras), y me llenó de alegría descubrir que la chica guapa del vestido negro y las medias de seda tampoco se apuntaba a casi nada de ella.
+
+No hizo falta que ella lo dijera: su obra hablaba por ella. El grupo del taller se reunía una o dos veces por semana en la sala de la casa del profesor Jim Bishop, una docena de estudiantes y tres o cuatro profesores en una atmósfera de igualdad; los poemas se mecanografiaban y mimeografiaban ese mismo día, y los poetas leían mientras los demás seguían sus copias. Uno de los poemas de Tabby de aquel otoño era «A Gradual Canticle for Augustine» —«Un cántico gradual para Agustín»—: el oso más flaco que despierta en pleno invierno, la arena del desierto que el viento lleva en su vientre, el cántico gradual que seduce a un viento de paso hasta llevar su canción a un pez atrapado en una red cuidadosa. Cuando Tabby terminó de leer hubo un silencio; nadie sabía muy bien cómo reaccionar. A King la combinación de dicción astuta e imaginería delirante le pareció emocionante e iluminadora: no estaba solo en su creencia de que la buena escritura puede ser embriagadora e idea a la vez. Y había en el poema una ética de trabajo que le gustaba: escribir poemas tenía tanto en común con barrer el suelo como con los momentos de revelación mística, como en «A Raisin in the Sun» —la obra de teatro de Lorraine Hansberry, dato de fuera del libro—, donde un personaje grita «¡Quiero volar! ¡Quiero tocar el sol!» y su mujer le responde: «Primero cómete los huevos».
+
+> In the discussion that followed Tab’s reading, it became clear to me that she understood her own poem.
+>
+> <small>Frase 861</small>
+
+En la discusión que siguió a la lectura de Tab, me quedó claro que ella entendía su propio poema.
+
+Sabía exactamente lo que había querido decir, y lo había dicho casi entero. A San Agustín —los años 354 a 430, fechas del libro— lo conocía por partida doble, como católica y como estudiante de historia: la madre de Agustín, santa ella también, era cristiana y su padre pagano; antes de su conversión, Agustín persiguió el dinero y las mujeres; después siguió luchando con sus impulsos sexuales, y suya es la «Oración del Libertino»: «Señor, hazme casto… pero todavía no». En sus escritos se fijó en la lucha del hombre por soltar la creencia en uno mismo a favor de la creencia en Dios, y a veces se comparaba con un oso —glosa—. Llamada a explicar el poema, Tabby dijo que el cántico es gradual quizá porque el despertar del oso es gradual, y que el oso puede verse como un símbolo de esa costumbre humana, a la vez problemática y maravillosa, de soñar los sueños correctos en el momento equivocado: sueños difíciles porque son inoportunos, pero maravillosos en su promesa. Tabby tiene una manera de inclinar la barbilla hacia abajo cuando sonríe que la hace parecer sabia y terriblemente mona a la vez.
+
+> She did that then, I remember, and said, “Besides, I like bears.”
+>
+> <small>Frase 870</small>
+
+Hizo eso entonces, recuerdo, y dijo: «Además, me gustan los osos».
+
+King no intentará sostener que «Un cántico gradual» sea un gran poema —aunque le parece bastante bueno—; el punto es que era un poema razonable en un tiempo histérico, nacido de una ética de escritura que le resonó por todo el corazón y el alma. Aquella noche Tabby estaba sentada en una de las mecedoras de Jim Bishop, y King en el suelo, a su lado.
+
+> I put my hand on her calf as she spoke, cupping the curve of warm flesh through her stocking.
+>
+> <small>Frase 880</small>
+
+Le puse la mano en la pantorrilla mientras hablaba, ahuecando la curva de carne tibia a través de su media.
+
+> She smiled at me.
+>
+> <small>Frase 881</small>
+
+Me sonrió.
+
+King le devolvió la sonrisa. A veces estas cosas no son accidentes; él está casi seguro de ello.
+
 © 2026 Osmancito
 
 [volver](../destileria.html)
