@@ -198,7 +198,9 @@ A la semana, otro taxi.
 
 El médico del oído produjo una vez más el olor a alcohol —un olor que todavía asocio, como supongo que hace mucha gente, con el dolor, la enfermedad y el terror— y, con él, la aguja larga.
 
-Y a los cinco días, otro:
+Volvió a asegurarle que no dolería, y él volvió a creerlo lo suficiente para quedarse quieto. Dolió casi tanto como la primera vez, y el sonido de besos en su cabeza fue más fuerte: gigantes besándose. Al acabar, mientras lloraba sobre un charco de pus aguado, la enfermera le dijo que solo dolía un poco y que ya había pasado todo.
+
+Se lo creyó unos cinco días, y entonces llegó otro taxi (el taxista amenazó a su madre con dejarlos en la carretera si no conseguía callar a aquel niño). Tercera vez en la camilla: el pañal bajo la cabeza, su madre en la sala de espera, el olor a alcohol, la aguja larga como su regla del colegio, la sonrisa, la promesa de que esta vez no dolería. Desde aquellas punciones repetidas a los seis años, King tiene uno de los principios más firmes de su vida: «Fool me once, shame on you. Fool me twice, shame on me. Fool me three times, shame on both of us» («Engáñame una vez, vergüenza tuya; engáñame dos, vergüenza mía; engáñame tres, vergüenza de los dos»). La tercera vez forcejeó, gritó, se debatió y peleó: cada vez que la aguja se acercaba a su cara, la apartaba de un manotazo.
 
 > Finally the nurse called my mother in from the waiting room, and the two of them managed to hold me long enough for the doctor to get his needle in.
 >
@@ -278,7 +280,7 @@ La idea le abrió un mundo. Escribió un cuento de cuatro animales mágicos que 
 
 Cuando lo terminé, se lo di a mi madre, que se sentó en la sala, puso su cartera en el suelo a su lado y lo leyó todo de una vez.
 
-King escribió cuatro cuentos más:
+Se rió en los lugares correctos, aunque él no podía saber si porque el cuento era bueno de verdad o porque ella lo quería y quería que se sintiera bien. Al terminar le preguntó: «¿Este no lo copiaste?». No, no lo había copiado. Entonces ella dijo que era suficientemente bueno para estar en un libro. Nada de lo que nadie le ha dicho desde entonces lo ha hecho sentirse más feliz. Escribió cuatro cuentos más sobre el señor Rabbit Trick y sus amigos:
 
 > She gave me a quarter apiece for them and sent them around to her four sisters, who pitied her a little, I think.
 >
@@ -452,6 +454,8 @@ Y allí quedó atrapada: vivió en esa casa hasta que el cáncer se la llevó.
 
 [![Pintura: en el sótano de una casa americana, un hombre cansado se mira en un espejo sacando la lengua teñida de rosa, rodeado de libretas llenas de estampillas de canje lamidas una por una y de contenedores que rebosan de estampillas, bajo una bombilla desnuda, al estilo de Edvard Munch.](../img/261017_mientras-escribo_happy-stamps.jpg)](../img/261017_mientras-escribo_happy-stamps.jpg)]
 
+Aclaremos una cosa desde ya, pide King: no hay almacén de ideas, ni central de historias, ni isla de los best sellers enterrados; las buenas ideas de relato parecen llegar literalmente de la nada, navegando hacia ti desde el cielo vacío: dos ideas antes sin relación se juntan y hacen algo nuevo bajo el sol. Tu trabajo no es encontrar esas ideas, sino reconocerlas cuando aparecen.
+
 La primera idea original de King: su madre lamía sellos para una lámpara; pensó en falsificarlos, y nació «Happy Stamps». Roger, su héroe, exfalsificador de dinero, descubre que puede crear el artículo auténtico:
 
 > In a funny scene—probably the first really competent scene I ever wrote—Roger sits in the living room with his old mom, the two of them mooning over the Happy Stamps catalogue while the printing press runs downstairs, ejecting bale after bale of those same trading stamps.
@@ -586,7 +590,11 @@ Aquel mismo día:
 
 Cuando el día escolar terminó a las dos, fui llamado a la oficina del director, donde se me dijo que no podía convertir la escuela en un mercado, sobre todo no —dijo la señorita Hisler— para vender basura como «The Pit and the Pendulum».
 
-Le hicieron devolver cada cuarto.
+Le hicieron devolver cada cuarto, y lo devolvió sin protestar, incluso a los chicos (bastantes, dice con gusto) que insistieron en quedarse su ejemplar; acabó perdiendo dinero en el trato.
+
+Antes del castigo vino el sermón: «Lo que no entiendo, Stevie (le dijo la señorita Hisler, blandiendo un ejemplar enrollado de su librito como quien amenaza con un periódico a un perro que ha hecho pis en la alfombra), es por qué escribes basura como esta. Eres talentoso. ¿Por qué quieres desperdiciar tus aptitudes?». Ella esperó una respuesta (para ser justos, la pregunta no era del todo retórica), pero él no tenía ninguna. Se sintió avergonzado, y desde entonces ha pasado muchos años (demasiados, cree) avergonzado de lo que escribe. Tendría unos cuarenta años cuando comprendió que a casi todo escritor de ficción o poesía que ha publicado una línea alguien lo ha acusado de desperdiciar el talento que Dios le dio: si escribes (o pintas, bailas, esculpes o cantas), alguien intentará hacerte sentir mal por ello. No está editorializando, dice; solo intenta dar los hechos tal como los ve.
+
+Cuando llegaron las vacaciones de verano, imprimió cuatro docenas de un cuento nuevo y original, «The Invasion of the Star-Creatures», y vendió todas menos cuatro o cinco: supone que eso significa que ganó al final, al menos en lo económico. Pero en su corazón siguió avergonzado, oyendo a la señorita Hisler preguntar por qué quería desperdiciar su talento, por qué quería desperdiciar su tiempo, por qué quería escribir basura.
 
 ---
 
@@ -875,7 +883,7 @@ Por primera vez, escribir era duro; el problema era la enseñanza. Tabby, sin em
 
 Si ella hubiera insinuado que el tiempo que pasaba escribiendo cuentos en el porche de nuestra casa alquilada de Pond Street o en el lavadero de nuestro tráiler alquilado de Klatt Road, en Hermon, era tiempo perdido, creo que se me habría salido gran parte del ánimo.
 
-El apoyo de Tabby nunca flaqueó; el pasaje cierra reflexionando sobre eso.
+El apoyo de Tabby nunca flaqueó: fue una constante, una de las pocas cosas buenas que él podía dar por seguras. Por eso, cuando ve una primera novela dedicada a una esposa (o a un esposo), sonríe y piensa: ahí hay alguien que sabe. Escribir es un trabajo solitario; tener a alguien que cree en ti marca una gran diferencia. No hace falta que dé discursos: normalmente basta con que crea.
 
 ---
 
@@ -899,7 +907,9 @@ Todo un cuentista, Harry.
 
 Un día se suponía que él y yo teníamos que restregar las manchas de óxido de las paredes de la ducha de las chicas.
 
-Años después, ya de profesor, escribió tres páginas de aquella escena y las tiró a la basura:
+Años después, aquel recuerdo le volvió un día en la lavandería, y con él la primera escena de una historia: chicas duchándose en un vestuario sin cortinas ni intimidad; a una le viene la regla y no sabe qué es; las otras, asqueadas, horrorizadas y divertidas, la bombardean con compresas y tampones; la chica grita, cree que se muere... y se defiende. ¿Cómo? Años antes había leído en la revista *Life* un artículo que sugería que parte de la actividad poltergeist registrada podía ser telequinesis (mover objetos con el pensamiento), sobre todo en chicas jóvenes, cerca de su primera regla. «¡Pum!»: dos ideas sin relación, la crueldad adolescente y la telequinesis, se juntaron, y tuvo una idea. No salió corriendo a gritar «¡Eureka!» (había tenido otras ideas igual de buenas y algunas mejores), pero podía ser la base de un cuento para *Cavalier*, con *Playboy* rondándole la cabeza: dos mil dólares por ficción corta compraban una transmisión nueva para el Buick y sobraba para la compra. La historia siguió a fuego lento hasta que, ya de profesor, se sentó una noche a intentarlo y escribió tres páginas a espacio sencillo.
+
+Le pesaban cuatro problemas: la historia no lo conmovía; no le gustaba Carrie White, espesa y pasiva, una víctima prefabricada; no se sentía en casa en aquel Planeta Femenino; y la historia solo funcionaría siendo larga, más larga de lo que el mercado de revistas masculinas aceptaba, así que no veía sentido a gastar un mes en una nouvelle que no le gustaba y no podría vender. Disgustado, arrugó las tres páginas y las tiró a la basura:
 
 > The next night, when I came home from school, Tabby had the pages.
 >
@@ -923,7 +933,11 @@ Quiso saber el resto; él dijo que no sabía de chicas de instituto; ella le ayu
 
 «Aquí tienes algo», dijo.
 
-Lo creía de verdad.
+Lo creía de verdad. King nunca llegó a tomarle cariño a Carrie White ni a fiarse de los motivos de Sue Snell al mandar a su novio al baile con ella, pero ahí había algo: como toda una carrera. Tabby lo supo de algún modo y, cuando el montón llegó a cincuenta páginas a espacio sencillo, él también.
+
+Antes de *Carrie* había escrito otras tres novelas, publicadas después: *Rage*, la más inquietante; *The Long Walk*, quizá la mejor, y *The Running Man*. Ninguna le enseñó lo que aprendió de Carrie White. Lo más importante: la percepción original que un escritor tiene de sus personajes puede ser tan errónea como la del lector. Y casi a la par: abandonar un trabajo solo porque es duro, emocional o imaginativamente, es una mala idea; a veces hay que seguir cuando no te apetece, y a veces estás haciendo un buen trabajo cuando sientes que lo único que haces es palear mierda sentado.
+
+Tabby le ayudó, empezando por el dato de que los dispensadores de compresas de los institutos no solían funcionar con monedas.
 
 ---
 
@@ -1227,7 +1241,11 @@ Si no, le hablaban desde la cama.
 
 Hacia 1985 había añadido la adicción a las drogas a mi problema con el alcohol, y sin embargo seguía funcionando, como hacen muchos adictos, a un nivel marginalmente competente.
 
-Escondía la droga por terror y por vergüenza: no podía pedir ayuda; en su familia uno se guardaba las cosas. Entonces Tabby intervino:
+Escondía la droga por terror y por vergüenza: no podía pedir ayuda; en su familia uno se guardaba las cosas.
+
+Pero la parte de él que escribe las historias (la parte profunda que sabía que era alcohólico desde 1975, cuando escribió *The Shining*) no aceptó ese silencio, porque de silencio no va esa parte. Empezó a pedir ayuda a gritos del único modo que sabía: a través de su ficción y de sus monstruos. A finales de 1985 y comienzos de 1986 escribió *Misery* (el título describía con precisión su estado de ánimo), donde una enfermera psicótica mantiene prisionero a un escritor y lo tortura. En la primavera y el verano de 1986 escribió *The Tommyknockers*, a menudo hasta medianoche, con el corazón a ciento treinta pulsaciones y bastoncillos de algodón en la nariz para frenar la hemorragia de la cocaína. En esa novela, unos alienígenas entran en tu cabeza y te dan energía y una inteligencia superficial; a cambio, entregas el alma: la mejor metáfora de las drogas y el alcohol que su mente cansada y sobrecargada fue capaz de producir.
+
+Entonces Tabby intervino:
 
 > She organized an intervention group formed of family and friends, and I was treated to a kind of This Is Your Life in hell.
 >
@@ -1249,7 +1267,11 @@ La cuestión de esta intervención, que fue desde luego tan desagradable para mi
 
 Tabby dijo que yo podía elegir: buscar ayuda en un centro de rehabilitación o largarme de casa.
 
-Él negoció y consiguió dos semanas para pensarlo.
+Él negoció, que es lo que hacen los adictos, y fue encantador, que es lo que son los adictos; consiguió dos semanas para pensarlo. En retrospectiva, eso resume toda la locura de aquella época: un hombre en la azotea de un edificio en llamas, llega un helicóptero y le tira una escalera de cuerda; «¡Sube!», le gritan, y el hombre responde: «Dame dos semanas para pensarlo».
+
+Pensó, en la medida en que su aturdido estado se lo permitía, y lo que terminó de decidirlo fue Annie Wilkes, la enfermera psicótica de *Misery*: Annie era la cocaína, Annie era el alcohol, y decidió que estaba cansado de ser el escritor mascota de Annie. Temía no poder volver a trabajar si dejaba de beber y drogarse, pero decidió (hasta donde se puede decidir algo en ese estado) que cambiaría la escritura por seguir casado y ver crecer a sus hijos, si llegaba a eso.
+
+No llegó. La idea de que la creatividad y las sustancias que alteran la mente van entrelazadas es uno de los grandes mitos pop intelectuales de nuestro tiempo, alimentado por Hemingway, Fitzgerald, Sherwood Anderson y Dylan Thomas. Los escritores que abusan de sustancias son simplemente adictos, ebrios y drogadictos de la variedad más común: Hemingway y Fitzgerald no bebían porque fueran creativos, alienados o moralmente débiles, sino porque es lo que los alcohólicos están programados para hacer. Los creativos quizá corren más riesgo que otros, pero ¿y qué? Todos tenemos bastante el mismo aspecto cuando vomitamos en la cuneta.
 
 ---
 
