@@ -132,7 +132,13 @@ La caja del abuelo tenía tres niveles. King propone al menos cuatro para el lec
 
 Podrías tener cinco o seis, supongo, pero llega un momento en que una caja de herramientas se vuelve demasiado grande para transportarla y pierde así su principal virtud.
 
-El resto del tramo revisa la herramienta más común: el vocabulario. Contrasta escritores de palabras largas con otros de palabras sencillas, incluye el habla callejera y pasa a la precisión del significado. Termina con la adecuación: una expresión puede servir en una compañía y ofender en otra.
+Ya tienes la mayoría de las herramientas que necesitas; míralas de nuevo al cargarlas en la caja, recuérdate la función de cada una y, si alguna está oxidada, límpiala. Las herramientas comunes van arriba. La más común de todas, el pan de la escritura, es el vocabulario, y ahí puedes empacar lo que tengas sin la menor culpa ni sentimiento de inferioridad: como le dijo la prostituta al marinero tímido, no es cuánto tienes, cariño, es cómo lo usas.
+
+Algunos escritores tienen vocabularios enormes: King pone ejemplos de H. P. Lovecraft, de T. Coraghessan Boyle y de Cormac McCarthy. Otros usan vocabularios pequeños y sencillos: «He came to the river. The river was there» («Llegó al río. El río estaba ahí»), de Hemingway; «This is what happened» («Esto es lo que pasó»), de Douglas Fairbairn; o una frase de cincuenta palabras de Steinbeck en la que ninguna pasa de dos sílabas. Hay también vocabulario que no está en el diccionario: el habla callejera transcrita fonéticamente, como el «Egggh, whaddaya?» de Tom Wolfe; pocos tienen su oído para pasarla a la página (Elmore Leonard es otro), y esa jerga solo entra al diccionario cuando ya está bien muerta.
+
+Pon tu vocabulario en el estante superior de la caja y no hagas ningún esfuerzo consciente por mejorarlo (eso vendrá solo con la lectura). Una de las peores cosas que puedes hacerle a tu escritura es disfrazar el vocabulario, buscando palabras largas porque te avergüenzas un poco de tus palabras cortas: es como vestir de gala a la mascota de casa. Prométete que nunca dirás «emolumento» cuando quieres decir «propina», ni que John se detuvo a realizar un acto de excreción cuando quieres decir que John se detuvo a cagar; si «cagar» ofende a tu público, di que se detuvo a mover el vientre. No se trata de hablar sucio, solo claro y directo. La regla básica del vocabulario: usa la primera palabra que te venga a la mente, si es apropiada y tiene color; si dudas y cavilas saldrá otra, pero probablemente no será tan buena ni estará tan cerca de lo que realmente quieres decir.
+
+Lo del significado es un asunto serio: la palabra es solo una representación del significado, y la escritura casi siempre se queda corta; ¿para qué empeorarlo eligiendo una palabra apenas prima hermana de la que querías? Y ten en cuenta la adecuación: como observó George Carlin, en cierta compañía está perfectamente bien «prick your finger» («pincharte el dedo»), pero es de muy mala forma «finger your prick».
 
 ---
 
@@ -200,7 +206,9 @@ La diferencia entre cerrar y dar un portazo parece justificar esa precisión. Ki
 
 Puedes argumentar que expresa una diferencia de grado entre Él cerró la puerta y Él cerró la puerta de un portazo, y no voy a discutírtelo... pero ¿qué pasa con el contexto?
 
-De la puerta pasa al diálogo:
+¿No debería decirnos la prosa anterior cómo cerró esa puerta? Y si ya lo dice, ¿no sobra «firmemente», no es redundante? Alguien acusará aquí a King de pesado y retentivo; lo niega: cree que el camino al infierno está empedrado de adverbios, y lo gritará desde los tejados. Dicho de otro modo: son como los dientes de león. Uno en el césped parece bonito y único, pero si no lo arrancas de raíz, al día siguiente encuentras cinco, al otro cincuenta, y entonces el césped está total, completa y prolíficamente cubierto; cuando por fin los ves como las malas hierbas que son, es demasiado tarde.
+
+Con los adverbios, eso sí, King puede ser buen deportista. Con una excepción: la atribución del diálogo:
 
 > I insist that you use the adverb in dialogue attribution only in the rarest and most special of occasions … and not even then, if you can avoid it.
 >
@@ -300,7 +308,9 @@ Otros párrafos separan a los hablantes. Uno introduce una pausa:
 
 El párrafo más interesante es el quinto: Big Tony se sentó, encendió un cigarrillo y se pasó una mano por el pelo.
 
-King examina su brevedad, la compara con otros recursos narrativos y llega al párrafo como unidad de coherencia. No le fija una longitud:
+Es un párrafo de una sola frase, y los párrafos expositivos casi nunca lo son; ni siquiera es una frase técnicamente buena. Pero funciona: su brevedad y su estilo telegráfico varían el ritmo y mantienen fresca la escritura (Jonathan Kellerman usa ese recurso con mucho éxito). Se puede abusar del fragmento bien torneado, pero los fragmentos también agilizan la narración, crean imágenes claras y tensión; una serie de frases gramaticalmente correctas puede endurecer la línea de prosa. A los puristas les duele oírlo, pero el lenguaje no siempre tiene que ir de corbata y zapatos de cordones: el objeto de la ficción no es la corrección gramatical, sino hacer sentir bienvenido al lector y contarle una historia, hacerle olvidar, si es posible, que está leyendo. El párrafo de una sola frase se parece más al habla que a la escritura, y eso es bueno: escribir es seducción, y la buena conversación es parte de la seducción; si no, ¿por qué tantas parejas que empiezan la noche cenando acaban en la cama?
+
+Ese párrafo además hace dirección de escena, matiza al personaje y marca una transición: Big Tony cambia de tercio, de jurar que su historia es verdad a sus recuerdos de O’Leary, y el escritor parte el diálogo en dos párrafos por el pulso que oye en su cabeza, fruto de miles de horas escribiendo y decenas de miles leyendo. King sostiene que el párrafo, no la frase, es la unidad básica de la escritura: el lugar donde empieza la coherencia. Es un instrumento flexible: puede tener una sola palabra o correr páginas enteras (un párrafo de *Paradise Falls*, de Don Robertson, tiene dieciséis páginas). No le fija una longitud:
 
 > You must learn to use it well if you are to write well.
 >
@@ -340,7 +350,11 @@ Te sientes como debió sentirse Victor Frankenstein cuando la conglomeración mu
 
 Dios mío, está respirando, te das cuenta.
 
-De esa sorpresa pasa a construir ficción y habitar mundos largos. El tramo cierra recordando:
+Pasas al tercer nivel, por supuesto, y empiezas a escribir ficción de verdad. ¿Por qué no? ¿Por qué habrías de temer? Los carpinteros no construyen monstruos: construyen casas, tiendas y bancos, unos tabla a tabla y otros ladrillo a ladrillo. Tú construirás un párrafo cada vez, con tu vocabulario y tu conocimiento de la gramática y el estilo, y mientras trabajes a nivel podrás construir lo que quieras: mansiones enteras, si tienes energía.
+
+¿Hay razón para construir mansiones de palabras? King cree que sí, y que los lectores de *Lo que el viento se llevó* o de *Casa desolada* la entienden: a veces nos enamoramos de toda aquella historia, más de lo que ninguna película podría ofrecer, y después de mil páginas no queremos dejar el mundo que el escritor nos ha hecho; no lo dejaríamos ni a las dos mil, si las hubiera. La trilogía de *El señor de los anillos* es el ejemplo perfecto: mil páginas de hobbits no han bastado a tres generaciones de lectores, ni siquiera sumando *El Silmarillion*; de ahí los sucesores que siguen escribiendo los hobbits que aman, intentando traer a Frodo y a Sam de vuelta porque Tolkien ya no está para hacerlo. En lo más básico solo estamos discutiendo una habilidad aprendida, pero a veces las habilidades más básicas crean cosas muy por encima de lo que esperábamos.
+
+El tramo cierra recordando:
 
 > We are talking about tools and carpentry, about words and style … but as we move along, you’d do well to remember that we are also talking about magic.
 >
@@ -909,8 +923,6 @@ Sustituir «¡oh, mierda!» por «¡oh, cielos!» por miedo a la Legión de la D
 > <small>Frase 2791</small>
 
 Hacer otra cosa sería cobardía además de deshonestidad, y créeme: escribir ficción en Estados Unidos al entrar en el siglo veintiuno no es trabajo para cobardes intelectuales.
-
-Los censores quieren que veas el mundo que ellos ven, o que calles. King coincide con su madre: la vulgaridad es lenguaje de ignorantes, casi siempre, aunque hay aforismos profanos llenos de color y pasajes de Richard Dooling donde la vulgaridad se vuelve poesía. Él creció en la clase media baja, y esa gente dice «mierda» más que «cielos»; se consuela con Frank Norris: «Nunca me rendí. Les dije la verdad.» La charla es índice de carácter; la única pregunta es cómo suena en la página. Para que suene verdadera hay que hablar y, más importante, callarse y escuchar.
 
 Los censores quieren que veas el mundo que ellos ven, o que calles. King coincide con su madre: la vulgaridad es lenguaje de ignorantes, casi siempre; hay aforismos profanos llenos de color y pasajes de Richard Dooling donde la vulgaridad se vuelve poesía. Él creció en la clase media baja, y esa gente dice «mierda» más que «cielos»; se consuela con Frank Norris: «Nunca me rendí. Les dije la verdad.» La charla, fea o hermosa, es índice de carácter; la única pregunta es cómo suena en la página. Para que suene verdadera hay que hablar y, más importante, callarse y escuchar.
 
