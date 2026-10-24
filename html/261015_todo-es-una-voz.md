@@ -2,7 +2,7 @@
 
 # Todo es una voz
 
-[![Óleo tonalista: flores en la orilla de un río entre bruma cálida; las ondulaciones del agua se abren en círculos de luz y siguen en el aire como una misma corriente.](img/cgbabf_todo-es-una-voz_og.jpg)](img/cgbabf_todo-es-una-voz_og.jpg)
+[![Óleo tonalista: flores en la orilla de un río entre bruma cálida; las ondulaciones del agua se abren en círculos de luz y siguen en el aire como una misma corriente.](img/261015_todo-es-una-voz_og.jpg)](img/261015_todo-es-una-voz_og.jpg)
 
 Victor Hugo
 

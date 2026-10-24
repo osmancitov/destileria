@@ -2,7 +2,7 @@
 
 # La Tragedia del Rey Lear
 
-[![Óleo: un rey anciano de barba blanca y un bufón con gorra de cascabeles y laúd cruzan un páramo bajo un cielo inmenso de tormenta, al estilo de Jacob van Ruisdael.](img/cgbabh_rey-lear_og.jpg)](img/cgbabh_rey-lear_og.jpg)
+[![Óleo: un rey anciano de barba blanca y un bufón con gorra de cascabeles y laúd cruzan un páramo bajo un cielo inmenso de tormenta, al estilo de Jacob van Ruisdael.](img/261017_rey-lear_og.jpg)](img/261017_rey-lear_og.jpg)
 
 William Shakespeare
 
@@ -11,7 +11,7 @@ Hacia 1605-1606, William Shakespeare escribió *King Lear*, una de sus grandes t
 ## Acto I, escena 1
 
 
-[![Óleo: un rey anciano coronado estudia el mapa de su reino rodeado de cortesanos y sus tres hijas, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-1.jpg)](img/cgbabh_rey-lear_i-1.jpg)
+[![Óleo: un rey anciano coronado estudia el mapa de su reino rodeado de cortesanos y sus tres hijas, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-1.jpg)](img/261017_rey-lear_i-1.jpg)
 
 *La primera frase de la obra es de Kent: al rey lo vieron siempre más inclinado a un yerno que al otro. Entra Lear, viejo y cansado de gobernar, pide el mapa y anuncia su plan.*
 
@@ -66,7 +66,7 @@ Goneril
 ## Acto I, escena 2
 
 
-[![Óleo: Edmund, el hijo bastardo, habla a solas con la Naturaleza en el patio del castillo, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-2.jpg)](img/cgbabh_rey-lear_i-2.jpg)
+[![Óleo: Edmund, el hijo bastardo, habla a solas con la Naturaleza en el patio del castillo, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-2.jpg)](img/261017_rey-lear_i-2.jpg)
 
 *Edmund, hijo bastardo de Gloucester, habla a solas: su diosa es la Naturaleza («Thou, Nature, art my goddess») y no acepta la costumbre que lo condena por bastardo:*
 
@@ -107,7 +107,7 @@ Edmund
 ## Acto I, escena 3
 
 
-[![Óleo: Goneril da órdenes a su mayordomo Oswald en la galería de su palacio, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-3.jpg)](img/cgbabh_rey-lear_i-3.jpg)
+[![Óleo: Goneril da órdenes a su mayordomo Oswald en la galería de su palacio, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-3.jpg)](img/261017_rey-lear_i-3.jpg)
 
 *En casa de Goneril, la hija mayor. Su mayordomo, Oswald, confirma la noticia: el rey golpeó a un caballero de ella por reprender a su Bufón. La queja lleva tiempo creciendo: a cada hora el viejo estalla en una grosería que los pone a todos en contra. Goneril lo decide en voz alta:*
 
@@ -132,7 +132,7 @@ Goneril
 ## Acto I, escena 4
 
 
-[![Óleo: Kent, desterrado y disfrazado de criado, se ofrece a servir al rey que lo condenó, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-4.jpg)](img/cgbabh_rey-lear_i-4.jpg)
+[![Óleo: Kent, desterrado y disfrazado de criado, se ofrece a servir al rey que lo condenó, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-4.jpg)](img/261017_rey-lear_i-4.jpg)
 
 *Kent, el consejero desterrado, vuelve disfrazado: se cambia el acento y la cara para servir al rey que lo condenó. Lear llega a casa de Goneril pidiendo la cena y lo ve. «¿Qué profesas?», le pregunta. Ser lo que parezco, responde Kent: servir al que me dé su confianza, conversar con el sabio que habla poco y pelear cuando no quede otro remedio. Y añade que es un hombre honrado, tan pobre como el rey. Lear, en broma, le da la razón:*
 
@@ -183,7 +183,7 @@ Goneril
 ## Acto I, escena 5
 
 
-[![Óleo: camino de Regan, el rey y el Bufón en el páramo mientras Kent parte a galope con las cartas, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-5.jpg)](img/cgbabh_rey-lear_i-5.jpg)
+[![Óleo: camino de Regan, el rey y el Bufón en el páramo mientras Kent parte a galope con las cartas, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-5.jpg)](img/261017_rey-lear_i-5.jpg)
 
 *Camino de Regan. Lear envía a Kent por delante con cartas: «Ve delante a Gloucester con estas cartas»; que no le cuente a su hija más de lo que le pregunten, y que vuele, o el rey llegará antes que él. En el camino, el Bufón suelta sus adivinanzas: la nariz está en medio de la cara para que los ojos vigilen lo que no se puede oler, y el caracol tiene casa para meter la cabeza, no para regalársela a sus hijas. Lear, de pronto, baja la voz: «Fui injusto con ella».*
 
@@ -202,7 +202,7 @@ Bufón
 ## Acto II, escena 1
 
 
-[![Óleo: Edmund escucha los rumores de Curan en el patio oscuro de la casa de Gloucester, de noche, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-6.jpg)](img/cgbabh_rey-lear_i-6.jpg)
+[![Óleo: Edmund escucha los rumores de Curan en el patio oscuro de la casa de Gloucester, de noche, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-6.jpg)](img/261017_rey-lear_i-6.jpg)
 
 *Esa misma noche, en casa de Gloucester. Edmund saluda a Curan, un caballerizo, que trae rumores: Cornwall y Regan llegan esta noche, y se susurran guerras entre los duques de Cornwall y Albany, «argumentos que aún no pasan de besos al oído». Edmund, a solas, huele la ocasión: la visita se teje sola dentro de su trama. Llama a Edgar: su padre lo vigila, que huya; y le explica por qué desenvaina contra su propio hermano:*
 
@@ -235,7 +235,7 @@ Edmund
 ## Acto II, escena 2
 
 
-[![Óleo: Kent y Oswald se encaran a espada ante la casa de Gloucester al amanecer, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-7.jpg)](img/cgbabh_rey-lear_i-7.jpg)
+[![Óleo: Kent y Oswald se encaran a espada ante la casa de Gloucester al amanecer, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-7.jpg)](img/261017_rey-lear_i-7.jpg)
 
 *Ante la casa de Gloucester, de noche. «Buen amanecer te dé, amigo; ¿eres de esta casa?». Es Oswald, el mayordomo de Goneril, que llega con cartas de ella; Kent, el servidor disfrazado, llega con las del rey, y lo reconoce al instante: es el criado que insultó a Lear. ¿Dónde dejamos los caballos?, pregunta Oswald. «En el lodo». ¿Por qué me tratas así?, si ni te conozco. La respuesta:*
 
@@ -268,7 +268,7 @@ Kent
 ## Acto II, escena 3
 
 
-[![Óleo: Edgar, proscrito, se oculta en el hueco de un gran roble con las jaurías cerca, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-8.jpg)](img/cgbabh_rey-lear_i-8.jpg)
+[![Óleo: Edgar, proscrito, se oculta en el hueco de un gran roble con las jaurías cerca, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-8.jpg)](img/261017_rey-lear_i-8.jpg)
 
 *Edgar, solo, cuenta su suerte: proscrito por la voz de su propio padre, se salvó de la cacería en el hueco dichoso de un árbol; ningún puerto está libre de guardias y vigilias. Su decisión:*
 
@@ -285,7 +285,7 @@ Edgar
 ## Acto II, escena 4
 
 
-[![Óleo: el rey encuentra a su mensajero Kent sentado en el cepo como un ladrón, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-9.jpg)](img/cgbabh_rey-lear_i-9.jpg)
+[![Óleo: el rey encuentra a su mensajero Kent sentado en el cepo como un ladrón, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-9.jpg)](img/261017_rey-lear_i-9.jpg)
 
 *Lear llega a la casa de Gloucester con el Bufón y encuentra lo que no puede creer: su mensajero, Kent, sentado en el cepo como un ladrón común. «¿Haces de esta vergüenza tu pasatiempo?». No, mi señor. El Bufón cuenta las ligas: los caballos se atan por la cabeza, los perros y los osos por el cuello, los monos por los lomos y los hombres por las piernas. ¿Quién te puso aquí? «Tu hijo y tu hija». No. Sí. Que no, por Júpiter. Que sí, por Juno. Lear lo nombra:*
 
@@ -336,7 +336,7 @@ Lear
 ## Acto III, escena 1
 
 
-[![Óleo: Kent y un caballero conversan en el páramo azotado por la tormenta, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-10.jpg)](img/cgbabh_rey-lear_i-10.jpg)
+[![Óleo: Kent y un caballero conversan en el páramo azotado por la tormenta, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-10.jpg)](img/261017_rey-lear_i-10.jpg)
 
 *En el páramo, en plena tormenta. Kent encuentra a un caballero del séquito: ¿quién hay ahí, además del mal tiempo? Uno de humor parecido al tiempo. ¿Dónde está el rey? Peleando con los elementos airados: manda al viento soplar la tierra hasta el mar, se arranca los pelos blancos, corre sin sombrero en la noche en que hasta el oso y el lobo guardan el pelo seco; y no lo acompaña nadie sino el Bufón, que se afana por ganar con bromas a las injurias que le traspasan el corazón.*
 
@@ -353,7 +353,7 @@ Kent
 ## Acto III, escena 2
 
 
-[![Óleo: Lear desafía a la tormenta con los brazos abiertos en medio del páramo, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-11.jpg)](img/cgbabh_rey-lear_i-11.jpg)
+[![Óleo: Lear desafía a la tormenta con los brazos abiertos en medio del páramo, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-11.jpg)](img/261017_rey-lear_i-11.jpg)
 
 *En el páramo, bajo la tormenta entera. Lear no se resguarda: le habla al tiempo como a un ejército. «¡Soplen, vientos, y rómpanse las mejillas! ¡Cataratas y huracanes, chorreen hasta ahogar las torres! ¡Fuegos sulfurosos que ejecutan el pensamiento, chamusquen mi cabeza blanca! ¡Trueno que lo sacudes todo, aplana la redondez del mundo, rompe los moldes de la natura y derrama de una vez los gérmenes del hombre ingrato!». El Bufón tira de él: el agua bendita de la corte bajo techo vale más que esta agua de fuera; entra, tío; pide la bendición de tus hijas; esta noche no tiene piedad ni de sabios ni de locos.*
 
@@ -388,7 +388,7 @@ Lear
 ## Acto III, escena 3
 
 
-[![Óleo: Gloucester abre su corazón a Edmund a la luz de una sola vela, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-12.jpg)](img/cgbabh_rey-lear_i-12.jpg)
+[![Óleo: Gloucester abre su corazón a Edmund a la luz de una sola vela, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-12.jpg)](img/261017_rey-lear_i-12.jpg)
 
 *En la casa de Gloucester, el viejo abre su corazón a Edmund: no le gusta este trato contra natura; por pedir permiso para apiadarse del rey le quitaron el uso de su propia casa y le prohibieron, bajo perpetua desgracia, hasta hablar de él. Y añade lo que no debe decir: hay división entre los duques, y algo peor; esta noche recibió una carta, peligrosa de pronunciar, que guarda bajo llave; estas injurias que el rey padece serán vengadas a fondo; ya hay parte de una fuerza con pie en tierra.*
 
@@ -407,7 +407,7 @@ Gloucester
 ## Acto III, escena 4
 
 
-[![Óleo: el rey se niega a entrar al cobertizo bajo la lluvia, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-13.jpg)](img/cgbabh_rey-lear_i-13.jpg)
+[![Óleo: el rey se niega a entrar al cobertizo bajo la lluvia, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-13.jpg)](img/261017_rey-lear_i-13.jpg)
 
 *Kent consigue al fin el cobertizo: la tiranía de la noche abierta es demasiado cruda para que la naturaleza la aguante. Lear no quiere entrar; piensa en voz alta: donde la enfermedad mayor está fija, la menor apenas se siente; quien huye del oso hacia el mar bramante se lo encuentra de boca; cuando la mente está libre, el cuerpo es delicado, pero esta tempestad de la mente le quita a los sentidos todo sentir salvo lo que ahí late. La ingratitud filial: como si esta boca desgarrara esta mano por llevarle comida. En una noche así, ¿echarlo fuera? «Oh, Regan, Goneril, vuestro viejo y buen padre, cuyo corazón franco lo dio todo...». Y se frena a sí mismo:*
 
@@ -450,7 +450,7 @@ Gloucester
 ## Acto III, escena 5
 
 
-[![Óleo: Cornwall dicta su venganza a sus servidores en la sala del castillo, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-14.jpg)](img/cgbabh_rey-lear_i-14.jpg)
+[![Óleo: Cornwall dicta su venganza a sus servidores en la sala del castillo, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-14.jpg)](img/261017_rey-lear_i-14.jpg)
 
 *Cornwall no se irá de esa casa sin su venganza, y ya reescribe el caso: no fue solo la mala disposición de Edgar la que buscó la muerte de Gloucester, sino un mérito provocador del propio padre, puesto a andar por una maldad reprobable. Edmund le sigue el juego con una queja perfecta:*
 
@@ -467,7 +467,7 @@ Edmund
 ## Acto III, escena 6
 
 
-[![Óleo: el rey loco preside un juicio imaginario en la choza, ante el Bufón y el mendigo, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-15.jpg)](img/cgbabh_rey-lear_i-15.jpg)
+[![Óleo: el rey loco preside un juicio imaginario en la choza, ante el Bufón y el mendigo, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-15.jpg)](img/261017_rey-lear_i-15.jpg)
 
 *Bajo techo al fin. Todo el poder de los sesos del rey ha cedido a su impaciencia, dice Kent. Tom oye a su demonio Frateretto: Nerón pesca en el lago de la oscuridad. El Bufón le pregunta a Lear si un loco es un caballero o un villano. «Un rey, un rey». No: es villano el que tiene un caballero por hijo, porque loco está el villano que ve a su hijo caballero delante de él. Y el Bufón deja caer su sabiduría de la casa:*
 
@@ -502,7 +502,7 @@ Kent
 ## Acto III, escena 7
 
 
-[![Óleo: los guardias de Cornwall sujetan a Gloucester atado a una silla en una sala sombría, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-16.jpg)](img/cgbabh_rey-lear_i-16.jpg)
+[![Óleo: los guardias de Cornwall sujetan a Gloucester atado a una silla en una sala sombría, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-16.jpg)](img/261017_rey-lear_i-16.jpg)
 
 *En la casa de Gloucester, Cornwall despacha: carta veloz a Albany («el ejército de Francia ha desembarcado»), Edmund acompaña a Goneril, y del padre traidor se encarga él. «Que lo cuelguen en el acto», dice Regan. «Que le saquen los ojos», dice Goneril. Traen a Gloucester atado como a un ladrón, en su propia casa, y él apela a la ley más vieja:*
 
@@ -543,7 +543,7 @@ Nunca me cuidaré de qué maldad haga si este hombre llega a buen fin.
 ## Acto IV, escena 1
 
 
-[![Óleo: Edgar guía a Gloucester, ciego y con los ojos vendados, por un sendero del páramo, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-17.jpg)](img/cgbabh_rey-lear_i-17.jpg)
+[![Óleo: Edgar guía a Gloucester, ciego y con los ojos vendados, por un sendero del páramo, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-17.jpg)](img/261017_rey-lear_i-17.jpg)
 
 *Edgar sigue solo, al aire todavía, y se consuela con la filosofía del fondo: mejor así, conocido por despreciado, que seguir despreciado y adulado; lo peor, lo más bajo y abatido de la Fortuna, permanece en esperanza y no vive en miedo; «el cambio lamentable es desde lo mejor; lo peor vuelve a la risa». Pero entra su padre, ciego, guiado de la mano por un viejo arrendatario de ochenta años, y el consuelo se cae: «mundo, mundo, oh mundo: si tus extrañas mutaciones no nos hicieran odiarte, la vida no cedería a la edad».*
 
@@ -580,7 +580,7 @@ Edgar
 ## Acto IV, escena 2
 
 
-[![Óleo: Goneril se despide de Edmund ante el palacio de Albany mientras Oswald observa a distancia, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-18.jpg)](img/cgbabh_rey-lear_i-18.jpg)
+[![Óleo: Goneril se despide de Edmund ante el palacio de Albany mientras Oswald observa a distancia, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-18.jpg)](img/261017_rey-lear_i-18.jpg)
 
 *Ante el palacio de Albany. Goneril llega con Edmund y con Oswald, que cuenta al duque cambiado: sonrió al oír del ejército desembarcado; «peor», dijo al saber que ella venía. Goneril lo diagnostica: terror gallina de su espíritu, que no se atreve a emprender. Despide a Edmund hacia Cornwall: que apure las levas de su hermano; ella cambiará nombres en casa y dará la rueca a su marido. Le cuelga un favor al cuello («lleva esto; ahorra palabras; inclina la cabeza») y le da el beso de despedida: «este beso, si se atreviera a hablar, te estiraría los espíritus hasta el aire; concibe, y que te vaya bien». Edmund responde: «tuyo en las filas de la muerte». Sola, Goneril hace la cuenta:*
 
@@ -613,7 +613,7 @@ Mensajero
 ## Acto IV, escena 3
 
 
-[![Óleo: el campamento francés junto al mar, cerca de Dover, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-19.jpg)](img/cgbabh_rey-lear_i-19.jpg)
+[![Óleo: el campamento francés junto al mar, cerca de Dover, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-19.jpg)](img/261017_rey-lear_i-19.jpg)
 
 *En el campamento francés, cerca de Dover. Kent pregunta por qué el rey de Francia volvió tan de repente: dejó algo imperfecto en el estado que exigía su regreso en persona; queda el mariscal La Far por general. ¿Y las cartas? ¿Traspasaron a la reina hasta una muestra de dolor? El caballero lo cuenta como quien describe un cuadro: las tomó, las leyó en su presencia, y de cuando en cuando una lágrima amplia rodaba por su mejilla delicada; parecía una reina sobre su pasión, que, muy rebelde, peleaba por ser rey sobre ella. «¿Entonces la conmovió?». No hasta la furia: paciencia y dolor competían por cuál la expresaba más hermosa; «habéis visto sol y lluvia a la vez: sus sonrisas y sus lágrimas eran como un camino mejor»; aquellas sonrisillas felices que jugaban en su labio maduro no sabían qué huéspedes tenían sus ojos, que partían de allí como perlas caídas de diamantes.*
 
@@ -640,7 +640,7 @@ Kent
 ## Acto IV, escena 4
 
 
-[![Óleo: Cordelia llora en su tienda al oír cómo encontraron a su padre, loco y coronado de hierbas, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-20.jpg)](img/cgbabh_rey-lear_i-20.jpg)
+[![Óleo: Cordelia llora en su tienda al oír cómo encontraron a su padre, loco y coronado de hierbas, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-20.jpg)](img/261017_rey-lear_i-20.jpg)
 
 *En el campamento francés. Cordelia acaba de oírlo: «ay, es él»: lo encontraron hace un momento loco como el mar airado, cantando en voz alta, coronado de fumaria y hierbas de surco, de bardanas, cicuta, ortigas y flores de cuco, cizaña y todas las hierbas ociosas que crecen en nuestro trigo sustentador. Que salga una centuria; que busquen cada acre del campo alto y lo traigan a su vista. ¿Qué puede la sabiduría del hombre para restaurar su sentido despojado? «Quien lo ayude, que se lleve todo mi valor exterior». El médico responde que hay medios: nuestra nodriza de la naturaleza es el reposo, que él no tiene, y hay simples operativos cuyo poder cerrará el ojo de la angustia. Cordelia reza a la tierra («todos los secretos benditos, todas las virtudes no publicadas de la tierra, broten con mis lágrimas; séanse ayuda y remedio en la aflicción del buen hombre») y apura la búsqueda:*
 
@@ -657,7 +657,7 @@ Cordelia
 ## Acto IV, escena 5
 
 
-[![Óleo: Regan interroga con severidad a Oswald en el campamento británico, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-21.jpg)](img/cgbabh_rey-lear_i-21.jpg)
+[![Óleo: Regan interroga con severidad a Oswald en el campamento británico, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-21.jpg)](img/261017_rey-lear_i-21.jpg)
 
 *En el campamento británico. Regan interroga a Oswald, el mayordomo de su hermana, que lleva una carta de Goneril para Edmund. ¿Las fuerzas de Albany ya salieron? Sí, señora, y él en persona, aunque a mucha costa: «vuestra hermana es la mejor soldada». Regan hace la lógica del poder en voz alta: «fue una gran ignorancia, sacados los ojos de Gloucester, dejarlo vivir; donde llega, mueve todos los corazones contra nosotras». Edmund, cree, ha ido a despachar por piedad la vida nocturna del ciego y a ojear la fuerza del enemigo. Y entonces va a lo que le duele: ¿por qué le escribe mi hermana a Edmund?*
 
@@ -674,7 +674,7 @@ Regan
 ## Acto IV, escena 6
 
 
-[![Óleo: Edgar hace creer a su padre ciego que está al borde del acantilado de Dover, con el mar gris a lo lejos, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-22.jpg)](img/cgbabh_rey-lear_i-22.jpg)
+[![Óleo: Edgar hace creer a su padre ciego que está al borde del acantilado de Dover, con el mar gris a lo lejos, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-22.jpg)](img/261017_rey-lear_i-22.jpg)
 
 *En el campo abierto, camino de Dover. «¿Cuándo llegaré a lo alto de esa colina?», pregunta Gloucester. Edgar ha cambiado de voz y de traje, y guía a su padre por un llano que él nombra precipicio («horriblemente empinado; ¿oyes el mar?»). Gloucester nota que la voz de su guía se ha refinado; «estáis muy engañado: en nada he cambiado sino en las prendas», miente el hijo. «Venga, señor: aquí es el lugar. Quédese quieto». Y Edgar pinta el vértigo para el que no puede verlo:*
 
@@ -737,7 +737,7 @@ Edgar
 ## Acto IV, escena 7
 
 
-[![Óleo: Lear dormido en la tienda del campamento francés, velado por Cordelia y el médico, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-23.jpg)](img/cgbabh_rey-lear_i-23.jpg)
+[![Óleo: Lear dormido en la tienda del campamento francés, velado por Cordelia y el médico, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-23.jpg)](img/261017_rey-lear_i-23.jpg)
 
 *En una tienda del campamento francés. Cordelia agradece a Kent: «oh, buen Kent, ¿cómo viviré y trabajaré para igualar tu bondad? Mi vida será demasiado corta, y toda medida me faltará». Ser reconocido ya es sobrepago, responde él, y pide seguir sin nombre: «que no me conozcáis hasta que el tiempo y yo lo juzguemos conveniente». «Así sea, mi buen señor. ¿Cómo está el rey?». Duerme todavía. Y Cordelia ora:*
 
@@ -770,7 +770,7 @@ Kent
 ## Acto V, escena 1
 
 
-[![Óleo: Edmund da órdenes a un oficial en el campamento británico, entre banderas y corceles, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-24.jpg)](img/cgbabh_rey-lear_i-24.jpg)
+[![Óleo: Edmund da órdenes a un oficial en el campamento británico, entre banderas y corceles, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-24.jpg)](img/261017_rey-lear_i-24.jpg)
 
 *En el campamento británico, cerca de Dover. Edmund despacha a un oficial: que le pregunten al duque si su último propósito se mantiene o si algo lo ha aconsejado a cambiar de curso («está lleno de alteración y de reprenderse a sí mismo»). Regan tiene su propio parte: el hombre de nuestra hermana se ha perdido por el camino. Y luego va a lo suyo: «ahora, dulce señor: conoces la bondad que te destino; dime con verdad: ¿no amas a mi hermana?». «Con amor honrado». «¿Nunca hallaste el camino de mi hermano al lugar vedado?». «Ese pensamiento os injuria». Ella no se queda tranquila, y lo pide llano:*
 
@@ -805,7 +805,7 @@ Edmund
 ## Acto V, escena 2
 
 
-[![Óleo: Edgar deja a su padre a la sombra de un gran árbol y corre hacia la batalla lejana, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-25.jpg)](img/cgbabh_rey-lear_i-25.jpg)
+[![Óleo: Edgar deja a su padre a la sombra de un gran árbol y corre hacia la batalla lejana, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-25.jpg)](img/261017_rey-lear_i-25.jpg)
 
 *Edgar deja a su padre a la sombra de un árbol («toma la sombra de este árbol por tu buen hospedaje; ruega que el derecho prospere; si vuelvo otra vez, te traeré consuelo»). «La gracia vaya con vos, señor». Vuelve al poco, corriendo, con la batalla perdida: «fuera, viejo»:*
 
@@ -822,7 +822,7 @@ Edgar
 ## Acto V, escena 3
 
 
-[![Óleo: Lear entra cargando el cuerpo de Cordelia entre soldados cabizbajos al atardecer, al estilo de Jacob van Ruisdael](img/cgbabh_rey-lear_i-26.jpg)](img/cgbabh_rey-lear_i-26.jpg)
+[![Óleo: Lear entra cargando el cuerpo de Cordelia entre soldados cabizbajos al atardecer, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-26.jpg)](img/261017_rey-lear_i-26.jpg)
 
 *Los prisioneros salen bajo buena guardia, hasta que se conozcan los placeres mayores de quienes han de juzgarlos. Cordelia se consuela en alto: «no somos los primeros que, con la mejor intención, incurren en lo peor; por ti, rey oprimido, estoy abatida; por mí, podría desafiar el ceño de la falsa Fortuna». ¿No veremos a esas hijas, a esas hermanas? «No, no, no, no. Ven, vayámonos a la prisión»: los dos solos cantarán como pájaros en la jaula:*
 

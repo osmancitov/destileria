@@ -2,7 +2,7 @@
 
 # El Libro de Arena: trece cuentos
 
-[![Óleo de fantasía al estilo de El Bosco: unas manos enguantadas sostienen un libro antiguo cuyas páginas se multiplican y se disuelven en arena, en una biblioteca en penumbra.](img/cgbabc_borges_arena_og.jpg)](img/cgbabc_borges_arena_og.jpg)
+[![Óleo de fantasía al estilo de El Bosco: unas manos enguantadas sostienen un libro antiguo cuyas páginas se multiplican y se disuelven en arena, en una biblioteca en penumbra.](img/261012_borges_arena_og.jpg)](img/261012_borges_arena_og.jpg)
 
 Jorge Luis Borges
 
@@ -10,7 +10,7 @@ En 1975, Jorge Luis Borges publicó *El Libro de Arena*, trece cuentos que el au
 
 ## 1. El Otro
 
-[![Óleo de fantasía: un anciano y un muchacho idénticos, sentados en los extremos de un mismo banco frente a un río con hielo, al estilo de El Bosco](img/cgbabc_borges_arena_i-1.jpg)](img/cgbabc_borges_arena_i-1.jpg)
+[![Óleo de fantasía: un anciano y un muchacho idénticos, sentados en los extremos de un mismo banco frente a un río con hielo, al estilo de El Bosco](img/261012_borges_arena_i-1.jpg)](img/261012_borges_arena_i-1.jpg)
 
 > El hecho ocurrió en el mes de febrero de 1969, al norte de Boston, en Cambridge. No lo escribí inmediatamente porque mi primer propósito fue olvidarlo, para no perder la razón. Ahora, en 1972, pienso que si lo escribo, los otros lo leerán como un cuento y, con los años, lo será tal vez para mí. Sé que fue casi atroz mientras duró y más aún durante las desveladas noches que lo siguieron.
 
@@ -56,7 +56,7 @@ La objeción es de lógica fina: si el viejo ya fue ese muchacho, tendría que r
 
 > Nuestra conversación ya había durado demasiado para ser la de un sueño. Una brusca idea se me ocurrió. —Yo te puedo probar inmediatamente —le dije— que no estás soñando conmigo. Oí bien este verso, que no has leído nunca, que yo recuerde. Lentamente entoné la famosa línea: L'hydre — univers tordant son corps écaillé d'astres.
 
-[![Óleo de fantasía: una hidra enorme, con el cuerpo escamado de estrellas y galaxias, se enrosca en el cielo nocturno sobre un mar oscuro, mientras una figura diminuta con capa la mira desde una orilla de rocas.](img/cgbabc_borges_arena_hidra.jpg)](img/cgbabc_borges_arena_hidra.jpg)
+[![Óleo de fantasía: una hidra enorme, con el cuerpo escamado de estrellas y galaxias, se enrosca en el cielo nocturno sobre un mar oscuro, mientras una figura diminuta con capa la mira desde una orilla de rocas.](img/261012_borges_arena_hidra.jpg)](img/261012_borges_arena_hidra.jpg)
 
 El verso es francés, del poeta Victor Hugo, y dice, más o menos: la hidra-universo, retorciendo su cuerpo escamado de astros. Una hidra es un monstruo de muchas cabezas; Hugo ve el universo como un animal inmenso con escamas de estrellas. La prueba es fina: si el muchacho lo estuviera soñando, el verso saldría de su propia cabeza y no podría sorprenderlo.
 
@@ -90,7 +90,7 @@ Cavilar es pensar mucho, darle vueltas a una cosa. La clave que encuentra Borges
 
 ## 2. Ulrica
 
-[![Óleo de fantasía: Ulrica y Javier caminan por la nieve junto a una posada y, en un cuarto en ruinas, una espada yace entre los dos amantes, al estilo de El Bosco](img/cgbabc_borges_arena_i-2.jpg)](img/cgbabc_borges_arena_i-2.jpg)
+[![Óleo de fantasía: Ulrica y Javier caminan por la nieve junto a una posada y, en un cuarto en ruinas, una espada yace entre los dos amantes, al estilo de El Bosco](img/261012_borges_arena_i-2.jpg)](img/261012_borges_arena_i-2.jpg)
 
 *Javier Otárola, profesor colombiano, cuenta su encuentro con Ulrica: una noche y una mañana en la ciudad de York. Se conocen en la salita del Northern Inn, donde ella rehúsa una copa y dice que es feminista. Alguien comenta que no es la primera vez que los noruegos entran en York, y ella responde que Inglaterra fue de ellos y la perdieron, si es que alguien puede tener algo o algo puede perderse. A la mañana siguiente él baja temprano al comedor; ha nevado y los páramos se pierden en la mañana. Ulrica lo invita a su mesa y le dice que le gusta salir a caminar sola.*
 
@@ -126,7 +126,7 @@ La saga de los Völsungas, islandesa, cuenta el amor trágico de Sigurd y Brynhi
 
 ## 3. El Congreso
 
-[![Óleo de fantasía: un Congreso del Mundo en una mesa interminable bajo el cosmos, con una hoguera de libros en la llanura, al estilo de El Bosco](img/cgbabc_borges_arena_i-3.jpg)](img/cgbabc_borges_arena_i-3.jpg)
+[![Óleo de fantasía: un Congreso del Mundo en una mesa interminable bajo el cosmos, con una hoguera de libros en la llanura, al estilo de El Bosco](img/261012_borges_arena_i-3.jpg)](img/261012_borges_arena_i-3.jpg)
 
 *Alejandro Ferri escribe ya viejo, solo en un hotel de Buenos Aires: llegó de Santa Fe en 1899, fue periodista y nunca se casó. Días atrás supo que Fermín Eguren, su antiguo rival, murió en Punta del Este.*
 
@@ -176,7 +176,7 @@ No importan las imágenes sueltas de la noche: importa haber sentido que el plan
 
 ## 4. There Are More Things
 
-[![Óleo de fantasía: una casa solitaria de Texas, con ventanas selladas, que esconde una presencia monstruosa, al estilo de El Bosco](img/cgbabc_borges_arena_i-4.jpg)](img/cgbabc_borges_arena_i-4.jpg)
+[![Óleo de fantasía: una casa solitaria de Texas, con ventanas selladas, que esconde una presencia monstruosa, al estilo de El Bosco](img/261012_borges_arena_i-4.jpg)](img/261012_borges_arena_i-4.jpg)
 
 *A punto de rendir el último examen de filosofía en la Universidad de Texas, el narrador sabe que su tío Edwin Arnett ha muerto. El tío, ingeniero jubilado, lo había iniciado en las perplejidades de la filosofía allá en la Casa Colorada, cerca de Lomas: con una naranja le enseñó el idealismo de Berkeley y con el tablero de ajedrez, las paradojas de Zenón.*
 
@@ -218,7 +218,7 @@ El habitante no es de aquí: el planeta es tan atroz para él como él para noso
 
 ## 5. La Secta de los Treinta
 
-[![Óleo de fantasía: treinta herejes en círculo ante un manuscrito, con Cristo y Judas enfrentados como en un espejo, al estilo de El Bosco](img/cgbabc_borges_arena_i-5.jpg)](img/cgbabc_borges_arena_i-5.jpg)
+[![Óleo de fantasía: treinta herejes en círculo ante un manuscrito, con Cristo y Judas enfrentados como en un espejo, al estilo de El Bosco](img/261012_borges_arena_i-5.jpg)](img/261012_borges_arena_i-5.jpg)
 
 *Un manuscrito anónimo del siglo cuarto se conserva en la Biblioteca de la Universidad de Leiden: lo escribió un cristiano que discutió largamente con los maestros de una secta, sin lograr convertirlos a la Fe del Señor. Los sectarios no tienen nada: venden lo que poseen y lo dan a los pobres, andan desnudos, duermen a la vera de los caminos o en las ruinas, porque les está vedado construir viviendas.*
 
@@ -250,7 +250,7 @@ La edad señalada son los treinta y tres años: los iniciados se hacen crucifica
 
 ## 6. La Noche de los Dones
 
-[![Óleo de fantasía: la Cautiva relata su historia mientras irrumpen los orilleros y un muchacho se esconde en la escalera, al estilo de El Bosco](img/cgbabc_borges_arena_i-6.jpg)](img/cgbabc_borges_arena_i-6.jpg)
+[![Óleo de fantasía: la Cautiva relata su historia mientras irrumpen los orilleros y un muchacho se esconde en la escalera, al estilo de El Bosco](img/261012_borges_arena_i-6.jpg)](img/261012_borges_arena_i-6.jpg)
 
 *En la antigua Confitería del Águila se debate el problema del conocimiento: alguien invoca la tesis platónica de que conocer es reconocer. Un señor de edad, un poco perdido en esa metafísica, toma la palabra y ofrece contar lo que le dejó cierta noche que suele traer a la memoria, la del treinta de abril del 74. Era un muchacho de casi trece años, de veraneo en una estancia cerca de Lobos, cuando un peón llamado Rufino le propuso ir un sábado a la noche a divertirse al pueblo. En la casa de La Estrella, entre las mujeres de batones floreados, hay una que le parece distinta: le dicen la Cautiva, tiene algo de aindiado, los ojos muy tristes y la trenza hasta la cintura. Rufino advierte que el muchacho la mira.*
 
@@ -288,7 +288,7 @@ Los dos dones: el amor y la muerte, revelados en unas horas. Y la duda que enlaz
 
 ## 7. El Espejo y la Máscara
 
-[![Óleo de fantasía: el poeta sajón ante su rey, con un espejo y una máscara, y un ruiseñor en la ventana, al estilo de El Bosco](img/cgbabc_borges_arena_i-7.jpg)](img/cgbabc_borges_arena_i-7.jpg)
+[![Óleo de fantasía: el poeta sajón ante su rey, con un espejo y una máscara, y un ruiseñor en la ventana, al estilo de El Bosco](img/261012_borges_arena_i-7.jpg)](img/261012_borges_arena_i-7.jpg)
 
 *Librada la batalla de Clontarf, en la que fue humillado el noruego, el Alto Rey de Irlanda pide al poeta una loa que amonede su victoria: él será Eneas y el poeta, su Virgilio; la empresa los hará inmortales a los dos. El poeta acepta: es el Ollan, ha cursado durante doce inviernos las disciplinas de la métrica, sabe de memoria las trescientas sesenta fábulas que son la base de la verdadera poesía; sólo una cosa ignora, dice, la de agradecer el don. El Rey le deja un año entero: limará cada letra y cada palabra. Cumplido el plazo, que fue de epidemias y rebeliones, el poeta presenta el panegírico y lo declama con lenta seguridad. El Rey lo aprueba: no hay en toda la loa una sola imagen que no hayan usado los clásicos; si se perdiera toda la literatura de Irlanda, podría reconstruirse sin pérdida con esa oda. Treinta escribas la van a transcribir dos veces. Hubo un silencio y prosiguió.*
 
@@ -318,7 +318,7 @@ En el alba, el poeta se recordó diciendo unas palabras que al principio no comp
 
 ## 8. Undr
 
-[![Óleo de fantasía: el poeta Ulf ante el rey moribundo, con el poste del pez negro y el disco rojo en la plaza, al estilo de El Bosco](img/cgbabc_borges_arena_i-8.jpg)](img/cgbabc_borges_arena_i-8.jpg)
+[![Óleo de fantasía: el poeta Ulf ante el rey moribundo, con el poste del pez negro y el disco rojo en la plaza, al estilo de El Bosco](img/261012_borges_arena_i-8.jpg)](img/261012_borges_arena_i-8.jpg)
 
 *El relato se presenta como unas páginas atribuidas a Adán de Bremen, un cronista del siglo once, halladas en un manuscrito de la Bodleiana de Oxford: hablan de los urnos, un pueblo de pastores, barqueros y hechiceros de las tierras bajas del Vístula, que graba sus caracteres como las runas que Odín reveló. A las noticias generales, Adán agrega la historia de su diálogo con el islandés Ulf Sigurdarson, hombre de graves y medidas palabras.*
 
@@ -360,7 +360,7 @@ En el canto del otro, Ulf ve su propia vida: sus trabajos, la esclava que le dio
 
 ## 9. Utopía de un Hombre que Está Cansado
 
-[![Óleo de fantasía: una utopía cansada, con un hombre sereno que recibe a un visitante en un campo sin ciudades, al estilo de El Bosco](img/cgbabc_borges_arena_i-9.jpg)](img/cgbabc_borges_arena_i-9.jpg)
+[![Óleo de fantasía: una utopía cansada, con un hombre sereno que recibe a un visitante en un campo sin ciudades, al estilo de El Bosco](img/261012_borges_arena_i-9.jpg)](img/261012_borges_arena_i-9.jpg)
 
 *Quevedo explicó el nombre de Utopía: voz griega que significa "no hay tal lugar". Un caminante cruza la llanura —Oklahoma, Texas o la pampa, lo mismo da— y, sorprendido por la lluvia, pide refugio en una casa baja y rectangular. Le abre un hombre tan alto que casi le da miedo, vestido de gris. Ensayan diversos idiomas sin entenderse, hasta que el anfitrión habla en latín y el visitante junta sus lejanas memorias de bachiller.*
 
@@ -398,7 +398,7 @@ El anfitrión ha elegido su muerte, como todos en su tiempo. La memoria del porv
 
 ## 10. El Soborno
 
-[![Óleo de fantasía: dos profesores en un despacho de Texas se estrechan la mano con un pavo real de vanidad a la espalda, al estilo de El Bosco](img/cgbabc_borges_arena_i-10.jpg)](img/cgbabc_borges_arena_i-10.jpg)
+[![Óleo de fantasía: dos profesores en un despacho de Texas se estrechan la mano con un pavo real de vanidad a la espalda, al estilo de El Bosco](img/261012_borges_arena_i-10.jpg)](img/261012_borges_arena_i-10.jpg)
 
 *La historia de un episodio en el que intervinieron dos hombres: ambos pecaron por vanidad, pero de un modo harto distinto. En la Universidad de Texas, el doctor Ezra Winthrop, profesor de inglés antiguo, de vieja raíz puritana y oriundo de Boston, debe aconsejar a su jefe quién representará a la universidad en el próximo congreso de germanistas en Wisconsin: el tímido Herbert Locke, amigo suyo, o el islandés Eric Einarsson, joven, impetuoso y frío, cuya petulancia le granjea la aversión general. En esas cavilaciones está Winthrop cuando aparece en Yale un extenso artículo sobre la enseñanza del anglosajón, firmado con las transparentes iniciales E. E. y, como para alejar cualquier duda, el nombre de Texas: propone invertir el orden cronológico y dejar la Gesta de Beowulf, base del método de Winthrop, reducida a algún fragmento del tedioso conjunto de tres mil líneas.*
 
@@ -430,7 +430,7 @@ Einarsson, el islandés, es ya ciudadano americano: su destino está ahí y no e
 
 ## 11. Avelino Arredondo
 
-[![Óleo de fantasía: Avelino Arredondo encerrado en un cuarto de Montevideo con un revólver sobre la mesa, al estilo de El Bosco](img/cgbabc_borges_arena_i-11.jpg)](img/cgbabc_borges_arena_i-11.jpg)
+[![Óleo de fantasía: Avelino Arredondo encerrado en un cuarto de Montevideo con un revólver sobre la mesa, al estilo de El Bosco](img/261012_borges_arena_i-11.jpg)](img/261012_borges_arena_i-11.jpg)
 
 *El hecho aconteció en Montevideo, en 1897. Cada sábado, los amigos ocupan la misma mesa lateral en el Café del Globo. Entre ellos está Arredondo, hombre de tierra adentro, que no se permite confidencias ni hace preguntas.*
 
@@ -476,7 +476,7 @@ El presidente va al lado del arzobispo. Arredondo saca el revólver y hace fuego
 
 ## 12. El Disco
 
-[![Óleo de fantasía: un leñador y un rey sin reino ante un disco luminoso de una sola cara, junto a un bosque que llega al mar, al estilo de El Bosco](img/cgbabc_borges_arena_i-12.jpg)](img/cgbabc_borges_arena_i-12.jpg)
+[![Óleo de fantasía: un leñador y un rey sin reino ante un disco luminoso de una sola cara, junto a un bosque que llega al mar, al estilo de El Bosco](img/261012_borges_arena_i-12.jpg)](img/261012_borges_arena_i-12.jpg)
 
 *Habla un leñador viejo, al final de su vida, en una choza al borde del bosque.*
 
@@ -508,7 +508,7 @@ El crimen es de una línea: un hachazo en la nuca. Al caer, el muerto abrió la 
 
 ## 13. El Libro de Arena
 
-[![Óleo de fantasía: un hombre en una biblioteca infinita, de cuyas manos brotan las páginas sin fin de un libro de arena, al estilo de El Bosco](img/cgbabc_borges_arena_i-13.jpg)](img/cgbabc_borges_arena_i-13.jpg)
+[![Óleo de fantasía: un hombre en una biblioteca infinita, de cuyas manos brotan las páginas sin fin de un libro de arena, al estilo de El Bosco](img/261012_borges_arena_i-13.jpg)](img/261012_borges_arena_i-13.jpg)
 
 *El narrador vive solo, en un cuarto piso de la calle Belgrano. Hará unos meses, al atardecer, oye un golpe en la puerta: entra un desconocido alto, de rasgos desdibujados - acaso su miopía los vio así -, de aspecto de pobreza decente, gris, con una valija gris. Vende biblias. El dueño de casa, no sin pedantería, le enumera las suyas: la primera inglesa, la de John Wiclif, la de Cipriano de Valera, la de Lutero, un ejemplar latino de la Vulgata. No son precisamente biblias lo que le falta.*
 

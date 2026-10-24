@@ -2,7 +2,7 @@
 
 # Macbeth
 
-[![Grabado en línea: tres brujas harapientas cruzan un páramo inmenso con niebla baja, bajo un cielo de tormenta con un gran relámpago.](img/cgbaaj_macbeth_og.jpg)](img/cgbaaj_macbeth_og.jpg)
+[![Grabado en línea: tres brujas harapientas cruzan un páramo inmenso con niebla baja, bajo un cielo de tormenta con un gran relámpago.](img/261009_macbeth_og.jpg)](img/261009_macbeth_og.jpg)
 
 William Shakespeare
 
@@ -10,7 +10,7 @@ Macbeth, el mejor general del rey Duncan, oye de tres brujas que será rey de Es
 
 ## Acto I, escena 1
 
-[![Grabado en línea: tres brujas encapuchadas conspiran en un páramo desolado bajo un cielo de tormenta con un gran relámpago; niebla baja sobre el brezo y las rocas.](img/cgbaaj_macbeth_i-1.jpg)](img/cgbaaj_macbeth_i-1.jpg)
+[![Grabado en línea: tres brujas encapuchadas conspiran en un páramo desolado bajo un cielo de tormenta con un gran relámpago; niebla baja sobre el brezo y las rocas.](img/261009_macbeth_i-1.jpg)](img/261009_macbeth_i-1.jpg)
 
 *Trueno y relámpago. Tres brujas se citan para cuando acabe la batalla: «¿Cuándo volveremos a encontrarnos las tres?», pregunta la primera, y esa es la primera frase de la obra. Ya tienen el dónde (el páramo) y les falta decir con quién:*
 
@@ -40,7 +40,7 @@ Las tres
 
 ## Acto I, escena 2
 
-[![Grabado en línea: en un campamento con tiendas y estandartes escoceses, el viejo rey Duncan, coronado, se inclina hacia un soldado herido y ensangrentado que le habla con esfuerzo; príncipes y nobles escuchan.](img/cgbaaj_macbeth_i-2.jpg)](img/cgbaaj_macbeth_i-2.jpg)
+[![Grabado en línea: en un campamento con tiendas y estandartes escoceses, el viejo rey Duncan, coronado, se inclina hacia un soldado herido y ensangrentado que le habla con esfuerzo; príncipes y nobles escuchan.](img/261009_macbeth_i-2.jpg)](img/261009_macbeth_i-2.jpg)
 
 *El rey Duncan, acampado junto a la batalla, ve llegar a un capitán herido: «¿Quién es ese hombre ensangrentado?», la primera frase de la escena. Por su estado, dice el rey, podrá dar las últimas noticias de la rebelión. El capitán empieza: la cosa estaba pareja, el rebelde Macdonwald recibía refuerzos de las islas, pero Macbeth lo abrió del ombligo a las quijadas y clavó su cabeza en las almenas. El rey lo oye maravillado:*
 
@@ -84,7 +84,7 @@ Duncan
 
 ## Acto I, escena 3
 
-[![Grabado en línea: en un páramo de niebla y brezo bajo un cielo de tormenta con un gran relámpago, tres brujas encapuchadas con un dedo en los labios saludan a dos capitanes medievales; Macbeth se estremece y Banquo las señala.](img/cgbaaj_macbeth_i-3.jpg)](img/cgbaaj_macbeth_i-3.jpg)
+[![Grabado en línea: en un páramo de niebla y brezo bajo un cielo de tormenta con un gran relámpago, tres brujas encapuchadas con un dedo en los labios saludan a dos capitanes medievales; Macbeth se estremece y Banquo las señala.](img/261009_macbeth_i-3.jpg)](img/261009_macbeth_i-3.jpg)
 
 *Las tres brujas vuelven a encontrarse («¿Dónde has estado, hermana?», se preguntan, y esa es la primera frase de la escena) y se cuentan sus travesuras. Una le pidió castañas a la mujer de un marinero, la mujer la despachó a gritos, y la bruja juró vengarse del marido, que zarpó rumbo a Alepo: lo perseguirá navegando en un colador, lo secará como heno, no lo dejará dormir. Enseña un trofeo: el pulgar de un piloto naufragado. Suena un tambor:*
 
@@ -152,7 +152,7 @@ Macbeth
 
 ## Acto I, escena 4
 
-[![Grabado en línea: en un salón medieval iluminado por antorchas, el anciano rey Duncan, coronado y de barba blanca, proclama príncipe a su hijo Malcolm, arrodillado; en un costado, en penumbra, Macbeth con armadura baja la mirada sombrío.](img/cgbaaj_macbeth_i-4.jpg)](img/cgbaaj_macbeth_i-4.jpg)
+[![Grabado en línea: en un salón medieval iluminado por antorchas, el anciano rey Duncan, coronado y de barba blanca, proclama príncipe a su hijo Malcolm, arrodillado; en un costado, en penumbra, Macbeth con armadura baja la mirada sombrío.](img/261009_macbeth_i-4.jpg)](img/261009_macbeth_i-4.jpg)
 
 *En el palacio de Forres, el rey pregunta: «¿Se ha hecho la ejecución de Cawdor?», la primera frase de la escena. Malcolm responde con lo que le contó un testigo: el traidor confesó, pidió perdón y murió muy entero:*
 
@@ -184,7 +184,7 @@ Macbeth
 
 ## Acto I, escena 5
 
-[![Grabado en línea: Lady Macbeth, en un aposento de castillo a la luz de una vela, sostiene una carta y alza el brazo invocando a los espíritus que se arremolinan en el techo; un cuervo grazna en la ventana.](img/cgbaaj_macbeth_i-5.jpg)](img/cgbaaj_macbeth_i-5.jpg)
+[![Grabado en línea: Lady Macbeth, en un aposento de castillo a la luz de una vela, sostiene una carta y alza el brazo invocando a los espíritus que se arremolinan en el techo; un cuervo grazna en la ventana.](img/261009_macbeth_i-5.jpg)](img/261009_macbeth_i-5.jpg)
 
 *En Inverness, Lady Macbeth lee la carta de su marido (la primera frase de la escena es de la carta: «Me encontraron el día del éxito»): las brujas lo saludaron thane de Cawdor y «salve, rey que serás». Ella lo celebra y lo teme: «Pero temo tu naturaleza: está demasiado llena de la leche de la bondad humana para tomar el camino más corto». Quiere tenerlo ya al lado:*
 
@@ -228,7 +228,7 @@ Lady Macbeth
 
 ## Acto I, escena 6
 
-[![Grabado en línea: al atardecer, el anciano rey Duncan llega a caballo con su séquito y antorchas a un castillo de torres con vencejos en las almenas; Lady Macbeth lo recibe con una reverencia en el umbral.](img/cgbaaj_macbeth_i-6.jpg)](img/cgbaaj_macbeth_i-6.jpg)
+[![Grabado en línea: al atardecer, el anciano rey Duncan llega a caballo con su séquito y antorchas a un castillo de torres con vencejos en las almenas; Lady Macbeth lo recibe con una reverencia en el umbral.](img/261009_macbeth_i-6.jpg)](img/261009_macbeth_i-6.jpg)
 
 *Ante el castillo. «Este castillo tiene un asiento agradable», dice el rey, la primera frase de la escena, y Banquo le señala los vencejos que anidan en cada saliente y alero: donde ese pájaro cría, el aire es delicado. Todo lo que ven es dulce, y todo es trampa. Sale a recibirlos la anfitriona, con reverencias dobles y palabras de casa honrada. El rey le da la mano:*
 
@@ -248,7 +248,7 @@ Duncan
 
 ## Acto I, escena 7
 
-[![Grabado en línea: en un pasillo del castillo entre antorchas, Macbeth, pálido y con la daga en la mano, duda, mientras Lady Macbeth emerge de las sombras a su espalda y le señala una puerta de madera.](img/cgbaaj_macbeth_i-7.jpg)](img/cgbaaj_macbeth_i-7.jpg)
+[![Grabado en línea: en un pasillo del castillo entre antorchas, Macbeth, pálido y con la daga en la mano, duda, mientras Lady Macbeth emerge de las sombras a su espalda y le señala una puerta de madera.](img/261009_macbeth_i-7.jpg)](img/261009_macbeth_i-7.jpg)
 
 *Mientras dentro se cena, Macbeth se queda solo sopesando el golpe: «Si estuviera hecho cuando está hecho, entonces estaría bien que se hiciera pronto», la primera frase de la escena. Pero no hay golpe sin consecuencia: quien enseña el crimen aprende de vuelta. Duncan está bajo su techo en doble confianza, la de pariente y la de anfitrión. Y encima:*
 
@@ -292,7 +292,7 @@ Macbeth
 
 ## Acto II, escena 1
 
-[![Grabado en línea: en un pasillo abovedado de castillo iluminado por una antorcha, Macbeth extiende la mano hacia una daga que flota en el aire con gotas de sangre en la hoja.](img/cgbaaj_macbeth_i-8.jpg)](img/cgbaaj_macbeth_i-8.jpg)
+[![Grabado en línea: en un pasillo abovedado de castillo iluminado por una antorcha, Macbeth extiende la mano hacia una daga que flota en el aire con gotas de sangre en la hoja.](img/261009_macbeth_i-8.jpg)](img/261009_macbeth_i-8.jpg)
 
 *Medianoche en el castillo. Banquo y su hijo Fleance cruzan el patio («¿Cómo va la noche, muchacho?», la primera frase de la escena): la luna ya cayó, «hay economía en el cielo: todas sus velas están apagadas». Banquo entrega la espada al muchacho: le pesa el sueño como plomo, y no quiere dormir, y dice por qué:*
 
@@ -336,7 +336,7 @@ Macbeth
 
 ## Acto II, escena 2
 
-[![Grabado en línea: unas manos manchadas de sangre se hunden en el agua oscura de una palangana de piedra bajo los arcos de un muro.](img/cgbaaj_macbeth_i-9.jpg)](img/cgbaaj_macbeth_i-9.jpg)
+[![Grabado en línea: unas manos manchadas de sangre se hunden en el agua oscura de una palangana de piedra bajo los arcos de un muro.](img/261009_macbeth_i-9.jpg)](img/261009_macbeth_i-9.jpg)
 
 *Lady Macbeth espera en la oscuridad, y la primera frase de la escena es su brindis feroz: lo que emborrachó a los camareros la ha hecho a ella valiente; lo que los apagó a ellos, a ella le dio fuego. Chilla un búho («el fatal sereno, que da las buenas noches más severas»). Las puertas están abiertas, los criados roncan con sus bebidas drogadas. Ella dejó las dagas listas. Y confiesa lo único que la detuvo:*
 
@@ -392,7 +392,7 @@ Macbeth
 
 ## Acto II, escena 3
 
-[![Grabado en línea: un portero viejo y desgreñado entreabre el gran portón de un castillo al amanecer; fuera aguardan nobles a caballo y en la escalera interior la corte se arremolina presa del alboroto.](img/cgbaaj_macbeth_i-10.jpg)](img/cgbaaj_macbeth_i-10.jpg)
+[![Grabado en línea: un portero viejo y desgreñado entreabre el gran portón de un castillo al amanecer; fuera aguardan nobles a caballo y en la escalera interior la corte se arremolina presa del alboroto.](img/261009_macbeth_i-10.jpg)](img/261009_macbeth_i-10.jpg)
 
 *«¡Esto sí que es un llamar!»: la primera frase de la escena es del portero, que abre la puerta del castillo medio dormido y jugando a ser el portero del infierno. Va dejando pasar a sus condenados: un labrador que se ahorcó esperando abundancia, un sastre inglés ladrón de paño, y este:*
 
@@ -448,7 +448,7 @@ Malcolm
 
 ## Acto II, escena 4
 
-[![Grabado en línea: en un cielo oscuro como de medianoche un búho ratonero mata en vuelo a un halcón; abajo, en las caballerizas de un castillo, los caballos enloquecidos rompen los pesebres y se encabritan entre los escombros.](img/cgbaaj_macbeth_i-11.jpg)](img/cgbaaj_macbeth_i-11.jpg)
+[![Grabado en línea: en un cielo oscuro como de medianoche un búho ratonero mata en vuelo a un halcón; abajo, en las caballerizas de un castillo, los caballos enloquecidos rompen los pesebres y se encabritan entre los escombros.](img/261009_macbeth_i-11.jpg)](img/261009_macbeth_i-11.jpg)
 
 *Fuera del castillo, un viejo y Ross hablan de los presagios. «Recuerdo bien setenta años», dice el viejo en la primera frase de la escena, «pero esta noche dolorosa ha hecho bagatela de lo que sabía»: es de día y la noche oscura estrangula la lámpara viajera; el martes un búho ratonero mató a un halcón en su altura; los caballos de Duncan se volvieron salvajes, rompieron las caballerizas y, dicen, se comieron entre sí. El viejo lo resume:*
 
@@ -478,7 +478,7 @@ Viejo
 
 ## Acto III, escena 1
 
-[![Grabado en línea: en el palacio de Forres, Banquo, guerrero de capa pesada con el yelmo en la mano, medita sombrío junto a una columna en penumbra; al fondo, en el salón iluminado por antorchas, Macbeth ya coronado preside bajo un dosel.](img/cgbaaj_macbeth_i-12.jpg)](img/cgbaaj_macbeth_i-12.jpg)
+[![Grabado en línea: en el palacio de Forres, Banquo, guerrero de capa pesada con el yelmo en la mano, medita sombrío junto a una columna en penumbra; al fondo, en el salón iluminado por antorchas, Macbeth ya coronado preside bajo un dosel.](img/261009_macbeth_i-12.jpg)](img/261009_macbeth_i-12.jpg)
 
 *Banquo abre el acto a solas, haciendo cuentas: «Ya lo tienes todo, Rey, Cawdor, Glamis, como prometieron las Hermanas Fatídicas; y temo que jugaste muy sucio para lograrlo». Y si sus palabras relucieron en Macbeth, ¿por qué no serían también sus oráculos, si a él lo saludaron padre de reyes? «Pero silencio; no más». Entran los nuevos reyes. Cortesía de anfitriones: esta noche hay cena solemne y su presencia se requiere; Banquo promete no faltar. Macbeth le saca la tarde con preguntas amables (¿cabalgas hoy?, ¿lejos?, ¿vuelve Fleance contigo?):*
 
@@ -534,7 +534,7 @@ Macbeth
 
 ## Acto III, escena 2
 
-[![Grabado en línea: en un aposento del castillo al anochecer, Macbeth, atormentado, habla en voz baja con Lady Macbeth junto a una ventana por la que cruzan murciélagos; un guardia vela al fondo entre cortinajes.](img/cgbaaj_macbeth_i-13.jpg)](img/cgbaaj_macbeth_i-13.jpg)
+[![Grabado en línea: en un aposento del castillo al anochecer, Macbeth, atormentado, habla en voz baja con Lady Macbeth junto a una ventana por la que cruzan murciélagos; un guardia vela al fondo entre cortinajes.](img/261009_macbeth_i-13.jpg)](img/261009_macbeth_i-13.jpg)
 
 *«¿Se ha ido Banquo de la corte?», pregunta Lady Macbeth en la primera frase de la escena, y se queda sola con el balance: «Nada se tiene, todo se gasta, donde se logra el deseo sin contento. Es más seguro ser lo que destruimos que habitar, por la destrucción, una dicha dudosa». Llega Macbeth, solo con sus fantasías más miserables; ella le dice que lo hecho, hecho está, que lo que no tiene remedio no debe tener recuerdo. Él responde que no: «Hemos chamuscado a la serpiente, no la hemos matado»; sanará y su antiguo colmillo seguirá amenazando. Mejor estar con los muertos, a quienes enviaron a la paz para ganar la suya, que yacer sobre el tormento de la mente:*
 
@@ -578,7 +578,7 @@ Macbeth
 
 ## Acto III, escena 3
 
-[![Grabado en línea: de noche, en un camino entre árboles retorcidos ante el castillo, tres asesinos embozados atacan a Banquo mientras su hijo Fleance huye y la antorcha cae al suelo.](img/cgbaaj_macbeth_i-14.jpg)](img/cgbaaj_macbeth_i-14.jpg)
+[![Grabado en línea: de noche, en un camino entre árboles retorcidos ante el castillo, tres asesinos embozados atacan a Banquo mientras su hijo Fleance huye y la antorcha cae al suelo.](img/261009_macbeth_i-14.jpg)](img/261009_macbeth_i-14.jpg)
 
 *En un parque junto al palacio esperan dos asesinos; llega un tercero, y la primera frase de la escena es la sospecha del primero:*
 
@@ -610,7 +610,7 @@ Tercer asesino
 
 ## Acto III, escena 4
 
-[![Grabado en línea: en el gran salón del banquete iluminado por antorchas, Macbeth, coronado, retrocede horrorizado ante el fantasma demacrado de Banquo sentado en su propio asiento a la mesa.](img/cgbaaj_macbeth_i-15.jpg)](img/cgbaaj_macbeth_i-15.jpg)
+[![Grabado en línea: en el gran salón del banquete iluminado por antorchas, Macbeth, coronado, retrocede horrorizado ante el fantasma demacrado de Banquo sentado en su propio asiento a la mesa.](img/261009_macbeth_i-15.jpg)](img/261009_macbeth_i-15.jpg)
 
 *El banquete. «Conocéis vuestros propios rangos; sentaos», abre Macbeth, anfitrión humilde que se mezclará con la concurrencia. Pero en la puerta lo espera uno de los asesinos: «Hay sangre en tu cara». ¿Es de Banquo? Sí: degollado, «a salvo en una zanja», con veinte heridas en la cabeza. ¿Y Fleance? «Real señor, Fleance se ha escapado». El ajuste de cuentas de Macbeth:*
 
@@ -690,7 +690,7 @@ Macbeth
 
 ## Acto III, escena 5
 
-[![Grabado en línea: en un páramo nocturno bajo una luna enorme, Hécate, imponente entre túnicas y niebla, regaña con el brazo alzado a las tres brujas encogidas junto a los restos de una hoguera.](img/cgbaaj_macbeth_i-16.jpg)](img/cgbaaj_macbeth_i-16.jpg)
+[![Grabado en línea: en un páramo nocturno bajo una luna enorme, Hécate, imponente entre túnicas y niebla, regaña con el brazo alzado a las tres brujas encogidas junto a los restos de una hoguera.](img/261009_macbeth_i-16.jpg)](img/261009_macbeth_i-16.jpg)
 
 *«¿Pues qué pasa, Hécate?»: la diosa de la brujería llega furiosa con sus hermanas. ¿Cómo se atrevieron a traficar con Macbeth en acertijos y asuntos de muerte sin llamarla a ella, la maestra de sus encantos? Y peor:*
 
@@ -722,7 +722,7 @@ Hécate
 
 ## Acto III, escena 6
 
-[![Grabado en línea: en un pasillo del castillo iluminado por una antorcha, Lennox y un lord conversan en voz baja junto a una ventana, inclinados el uno hacia el otro con gestos de sospecha.](img/cgbaaj_macbeth_i-17.jpg)](img/cgbaaj_macbeth_i-17.jpg)
+[![Grabado en línea: en un pasillo del castillo iluminado por una antorcha, Lennox y un lord conversan en voz baja junto a una ventana, inclinados el uno hacia el otro con gestos de sospecha.](img/261009_macbeth_i-17.jpg)](img/261009_macbeth_i-17.jpg)
 
 *Lennox y un Lord conversan, y Lennox abre con sarcasmo fino — la primera frase es también la primera cita:*
 
@@ -754,7 +754,7 @@ Un lord
 
 ## Acto IV, escena 1
 
-[![Grabado en línea: en una caverna, tres brujas rodean el caldero hirviente mientras del vapor emergen una cabeza con casco, un niño ensangrentado y un niño coronado con una rama, y al fondo desfila una procesión de reyes.](img/cgbaaj_macbeth_i-18.jpg)](img/cgbaaj_macbeth_i-18.jpg)
+[![Grabado en línea: en una caverna, tres brujas rodean el caldero hirviente mientras del vapor emergen una cabeza con casco, un niño ensangrentado y un niño coronado con una rama, y al fondo desfila una procesión de reyes.](img/261009_macbeth_i-18.jpg)](img/261009_macbeth_i-18.jpg)
 
 *«Tres veces ha maullado el gato atigrado»: la primera frase abre el aquelarre. Alrededor del caldero: «Dad vueltas al caldero y echad las entrañas envenenadas»; sapo venenoso, ojo de tritón, pata de rana, lengua de perro, escama de dragón, hígado de judío blasfemo, nariz de turco, dedo de niño estrangulado al nacer. Y el estribillo: «Doble, doble, afán y desgracia; arde, fuego; burbujea, caldero». Hécate elogia el trabajo y se une al corro. Entonces: «Por el picor de mis pulgares, algo malvado viene hacia aquí». Es Macbeth: «¿Qué hacéis, brujas secretas, negras y de medianoche?». «Una acción sin nombre». Él las conjura: aunque desaten los vientos contra las iglesias, aunque el mar trague la navegación, respóndanle. ¿De sus bocas o de sus maestros? «Llámalos; déjame verlos». Primera aparición, una cabeza armada: «Guárdate de Macduff; guárdate del thane de Fife». Macbeth:*
 
@@ -822,7 +822,7 @@ Macbeth
 
 ## Acto IV, escena 2
 
-[![Grabado en línea: en el salón de su castillo, Lady Macduff abraza a sus hijos mientras los asesinos de Macbeth irrumpen por la puerta con las espadas en alto.](img/cgbaaj_macbeth_i-19.jpg)](img/cgbaaj_macbeth_i-19.jpg)
+[![Grabado en línea: en el salón de su castillo, Lady Macduff abraza a sus hijos mientras los asesinos de Macbeth irrumpen por la puerta con las espadas en alto.](img/261009_macbeth_i-19.jpg)](img/261009_macbeth_i-19.jpg)
 
 *En el castillo de Macduff, su mujer pregunta a Ross en la primera frase: «¿Qué había hecho para huir del país?». Ross pide paciencia. «Él no la tuvo: su huida fue locura; cuando nuestros actos no lo hacen, nuestros miedos nos vuelven traidores». ¿Sabiduría?*
 
@@ -866,7 +866,7 @@ Mensajero
 
 ## Acto IV, escena 3
 
-[![Grabado en línea: en la campiña inglesa, junto a un bosque, Macduff se lleva el puño al pecho ante Malcolm y Ross, entre el dolor y el juramento de venganza.](img/cgbaaj_macbeth_i-20.jpg)](img/cgbaaj_macbeth_i-20.jpg)
+[![Grabado en línea: en la campiña inglesa, junto a un bosque, Macduff se lleva el puño al pecho ante Malcolm y Ross, entre el dolor y el juramento de venganza.](img/261009_macbeth_i-20.jpg)](img/261009_macbeth_i-20.jpg)
 
 *En Inglaterra. «Busquemos alguna sombra desolada y allí vaciemos llorando nuestros pechos tristes», propone Malcolm en la primera frase. «Mejor empuñemos firme la espada mortal y, como hombres de bien, defendamos nuestra patria caída», responde Macduff:*
 
@@ -956,7 +956,7 @@ Malcolm
 
 ## Acto V, escena 1
 
-[![Grabado en línea: de noche, Lady Macbeth sonámbula avanza por un pasillo del castillo con una vela en la mano y los ojos vacíos, mientras la doctora y la dama la observan escondidas.](img/cgbaaj_macbeth_i-21.jpg)](img/cgbaaj_macbeth_i-21.jpg)
+[![Grabado en línea: de noche, Lady Macbeth sonámbula avanza por un pasillo del castillo con una vela en la mano y los ojos vacíos, mientras la doctora y la dama la observan escondidas.](img/261009_macbeth_i-21.jpg)](img/261009_macbeth_i-21.jpg)
 
 *«He velado con vos dos noches», dice el médico a la camarera en la primera frase, «pero no puedo percibir verdad alguna en vuestro informe». Ella lo ha visto: desde que el rey marchó al campo, Lady Macbeth se levanta, escribe, sella y vuelve a la cama, todo en sueño profundo. El médico:*
 
@@ -1012,7 +1012,7 @@ Médico
 
 ## Acto V, escena 2
 
-[![Grabado en línea: un ejército de soldados con lanzas y estandartes marcha por un valle montañoso hacia el castillo de Dunsinane, bajo nubes tormentosas.](img/cgbaaj_macbeth_i-22.jpg)](img/cgbaaj_macbeth_i-22.jpg)
+[![Grabado en línea: un ejército de soldados con lanzas y estandartes marcha por un valle montañoso hacia el castillo de Dunsinane, bajo nubes tormentosas.](img/261009_macbeth_i-22.jpg)](img/261009_macbeth_i-22.jpg)
 
 *Los nobles escoceses marchan a unirse al ejército inglés. «El ejército inglés está cerca, guiado por Malcolm, su tío Siward y el buen Macduff», dice Menteith en la primera frase; en ellos arden las venganzas. ¿Está Donalbain con su hermano? No, seguro que no: la lista de la nobleza trae al hijo de Siward y a muchos jóvenes imberbes que protestan su primera hombría. ¿Qué hace el tirano? Fortifica Dunsinane. Caithness:*
 
@@ -1032,7 +1032,7 @@ Caithness
 
 ## Acto V, escena 3
 
-[![Grabado en línea: en lo alto de las murallas de Dunsinane, Macbeth acorazado señala desafiante al valle donde avanza el ejército enemigo, mientras el médico se encoge a su lado.](img/cgbaaj_macbeth_i-23.jpg)](img/cgbaaj_macbeth_i-23.jpg)
+[![Grabado en línea: en lo alto de las murallas de Dunsinane, Macbeth acorazado señala desafiante al valle donde avanza el ejército enemigo, mientras el médico se encoge a su lado.](img/261009_macbeth_i-23.jpg)](img/261009_macbeth_i-23.jpg)
 
 *Dunsinane sitiado. «No me traigáis más informes; que huyan todos. Hasta que el bosque de Birnam se mude a Dunsinane no puedo mancharme de miedo» — la primera frase es la certeza de las apariciones. ¿Y el niño Malcolm? ¿No nació de mujer? Pues los espíritus lo pronunciaron: ningún nacido de mujer tendrá poder sobre él:*
 
@@ -1064,7 +1064,7 @@ Macbeth
 
 ## Acto V, escena 4
 
-[![Grabado en línea: el bosque de Birnam avanza: una ladera entera de soldados ocultos tras grandes ramas marcha hacia el castillo de Dunsinane en la cima.](img/cgbaaj_macbeth_i-24.jpg)](img/cgbaaj_macbeth_i-24.jpg)
+[![Grabado en línea: el bosque de Birnam avanza: una ladera entera de soldados ocultos tras grandes ramas marcha hacia el castillo de Dunsinane en la cima.](img/261009_macbeth_i-24.jpg)](img/261009_macbeth_i-24.jpg)
 
 *Ante Birnam. «Primos, espero que estén cerca los días en que las alcobas serán seguras», dice Malcolm en la primera frase. ¿Qué bosque es ese? El bosque de Birnam. Orden: «Que cada soldado corte una rama y la lleve ante sí», para que el descubrimiento yerre la cuenta del ejército. Las noticias: «el tirano confiado se mantiene en Dunsinane y soportará que nos asentemos ante ella»; le sirven solo cosas forzadas, con el corazón ausente. Siward:*
 
@@ -1084,7 +1084,7 @@ Siward
 
 ## Acto V, escena 5
 
-[![Grabado en línea: solo en el salón del trono en penumbra, Macbeth se hunde en el asiento de piedra con la cabeza entre las manos, abatido por la muerte de la reina; una sola antorcha alumbra la escena.](img/cgbaaj_macbeth_i-25.jpg)](img/cgbaaj_macbeth_i-25.jpg)
+[![Grabado en línea: solo en el salón del trono en penumbra, Macbeth se hunde en el asiento de piedra con la cabeza entre las manos, abatido por la muerte de la reina; una sola antorcha alumbra la escena.](img/261009_macbeth_i-25.jpg)](img/261009_macbeth_i-25.jpg)
 
 *En Dunsinane: «Colgad nuestras banderas en los muros exteriores; el grito sigue siendo: «¡Vienen!»; la fuerza del castillo se reirá del asedio». Un grito de mujeres. «Casi he olvidado el sabor del miedo», dice Macbeth: «Me he saciado de horrores; el espanto, familiar a mis pensamientos asesinos, ya no puede sobresaltarme». ¿Por qué ese grito? «La Reina, mi señor, ha muerto». Y entonces: «Debía haber muerto más adelante. Mañana, y mañana, y mañana, se arrastra a este paso mezquino de día en día, hasta la última sílaba del tiempo escrito; y todos nuestros ayeres han alumbrado a los necios el camino hacia la muerte polvorienta. ¡Apágate, apágate, breve vela! La vida no es más que una sombra que anda; un pobre actor que se pavonea y se agita su hora sobre el escenario y luego no se oye más: es un cuento contado por un idiota, lleno de ruido y de furia, que no significa nada». Llega un mensajero pálido: desde la colina miró hacia Birnam, «y de pronto me pareció que el bosque empezaba a moverse». «¡Mentiroso y esclavo!»:*
 
@@ -1116,7 +1116,7 @@ Macbeth
 
 ## Acto V, escena 6
 
-[![Grabado en línea: batalla campal ante las murallas de Dunsinane; caballeros a caballo chocan en medio de la polvareda mientras la infantería lucha alrededor y el castillo humea en lo alto.](img/cgbaaj_macbeth_i-26.jpg)](img/cgbaaj_macbeth_i-26.jpg)
+[![Grabado en línea: batalla campal ante las murallas de Dunsinane; caballeros a caballo chocan en medio de la polvareda mientras la infantería lucha alrededor y el castillo humea en lo alto.](img/261009_macbeth_i-26.jpg)](img/261009_macbeth_i-26.jpg)
 
 *Bajo las murallas. «Ahora estamos bastante cerca», abre Malcolm: «Tirad vuestras pantallas de hojas y mostraos tal como sois». El bosque se convierte en ejército. Siward y su hijo abrirán el primer ataque. Siward:*
 
@@ -1136,7 +1136,7 @@ Siward
 
 ## Acto V, escena 7
 
-[![Grabado en línea: en medio de la batalla, Macbeth feroz se yergue sobre el joven Siward, que cae de rodillas con la espada alzada en vano.](img/cgbaaj_macbeth_i-27.jpg)](img/cgbaaj_macbeth_i-27.jpg)
+[![Grabado en línea: en medio de la batalla, Macbeth feroz se yergue sobre el joven Siward, que cae de rodillas con la espada alzada en vano.](img/261009_macbeth_i-27.jpg)](img/261009_macbeth_i-27.jpg)
 
 *En plena batalla. «Me han atado a un poste. No puedo huir, sino que, como oso, debo pelear la carrera»: la primera frase es de Macbeth, acorralado pero todavía dentro del hechizo («¿quién hay que no haya nacido de mujer? A ese he de temerle, o a ninguno»). Se cruza el joven Siward. «¿Cuál es tu nombre?»:*
 
@@ -1168,7 +1168,7 @@ Macduff
 
 ## Acto V, escena 8
 
-[![Grabado en línea: el duelo final: Macbeth coronado y Macduff traban las espadas en lo alto sobre un campo de batalla sembrado de caídos, con el castillo humeando al fondo.](img/cgbaaj_macbeth_i-28.jpg)](img/cgbaaj_macbeth_i-28.jpg)
+[![Grabado en línea: el duelo final: Macbeth coronado y Macduff traban las espadas en lo alto sobre un campo de batalla sembrado de caídos, con el castillo humeando al fondo.](img/261009_macbeth_i-28.jpg)](img/261009_macbeth_i-28.jpg)
 
 *Último campo. «¿Por qué haría yo el necio romano y moriría sobre mi propia espada?», se dice Macbeth en la primera frase: mientras vea vidas, las cuchilladas hacen mejor efecto sobre ellas. Entra Macduff: «¡Vuélvete, perro del infierno, vuélvete!». «De todos los hombres te he evitado; mi alma está ya demasiado cargada con tu sangre». «No tengo palabras; mi voz está en mi espada». Macbeth presume: «yo llevo una vida hechizada, que no debe ceder ante uno nacido de mujer». Macduff: «Desespera de tu hechizo; y que el ángel a quien siempre has servido te diga que Macduff fue arrancado antes de tiempo del vientre de su madre»:*
 
