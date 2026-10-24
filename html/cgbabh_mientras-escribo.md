@@ -36,7 +36,11 @@ Una noche, mientras comíamos comida china antes de un concierto en Miami Beach,
 
 El *Q-and-A* (de *questions and answers*) es el turno de preguntas del público al final de una charla.
 
-Los otros dos prólogos cierran la presentación; después empieza La memoria.
+Amy se lo pensó con cuidado y respondió: «Nadie pregunta nunca por el lenguaje». King llevaba más de un año con la idea de escribir un libro pequeño sobre escritura, pero desconfiaba de sus motivos: haber vendido tantos libros no era razón suficiente (el Coronel Sanders vendió muchísimo pollo frito y a nadie le interesa cómo lo hacía), y no quería sumar otro charlatán literario a los que ya sobran. Pero Amy tenía razón: a los DeLillo, los Updike y los Styron sí les preguntan por el lenguaje; a los novelistas populares, no, aunque a muchos les apasione igual el arte y el oficio de contar historias en papel. De ahí nace este libro: contar, breve y sencillo, cómo llegó al oficio, qué sabe ahora y cómo se hace. Es sobre el trabajo diario; es sobre el lenguaje. Va dedicado a Amy Tan, que con esa respuesta, simple y directa, le dijo que estaba bien escribirlo.
+
+El segundo prólogo explica por qué el libro es corto: la mayoría de los libros sobre escritura están llenos de paja, porque ni los propios novelistas entienden bien por qué lo que hacen funciona cuando sale bien ni por qué falla cuando sale mal; cuanto más corto, menos paja. La única excepción que salva es *The Elements of Style*, de Strunk y White: ochenta y cinco páginas sin paja, lectura obligada para todo el que aspire a escribir. King promete cumplir aquí su regla 17: omitir las palabras que sobran.
+
+El tercer prólogo deja una regla de la carretera que no aparece en ninguna otra parte del libro: «el editor siempre tiene razón», con su corolario: ningún escritor sigue todos los consejos de su editor; escribir es humano, editar es divino. Lo firma «Steve» agradeciendo a Chuck Verrill, editor de este libro y de tantas de sus novelas.
 
 ---
 
