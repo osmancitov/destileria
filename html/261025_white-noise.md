@@ -145,9 +145,7 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 1: Las Camionetas
 
-Los nodos que más pesan: el narrador, las camionetas, los padres, el departamento de estudios sobre Hitler, y, empatados, los estudiantes y el espectáculo de la llegada.
-
-Verbos: «be» aparece 14 veces, 23,7 % de los 59 verbos del capítulo. Siguen, con 2 cada uno, «have», «see», «suggest» y «might».
+El narrador, las camionetas, los padres, el departamento de estudios sobre Hitler, los estudiantes y el espectáculo de la llegada.
 
 > [Frase 5](#lugar-5)
 > I've witnessed this spectacle every September for twenty-one years.
@@ -165,9 +163,7 @@ Verbos: «be» aparece 14 veces, 23,7 % de los 59 verbos del capítulo. Siguen, 
 
 ### Capítulo 2: Babette en la Cocina
 
-Los nodos que más pesan: Babette, el narrador, los padres de las camionetas, el grupo del almuerzo y Treadwell.
-
-Verbos: «be» aparece 45 veces, 21,8 % de los 206 verbos del capítulo. Siguen «say» (13), «have» (12), «do» (11) y «feel» (6).
+Babette, el narrador, los padres de las camionetas, el grupo del almuerzo y Treadwell.
 
 > [Frase 55](#lugar-55)
 > I watch her all the time doing things in measured sequence, skillfully, with seeming ease, unlike my former wives, who had a tendency to feel estranged from the objective world— a self-absorbed and high-strung bunch, with ties to the intelligence community.
@@ -185,9 +181,7 @@ Verbos: «be» aparece 45 veces, 21,8 % de los 206 verbos del capítulo. Siguen 
 
 ### Capítulo 3: El Granero Fotografiado
 
-Los nodos que más pesan: Murray, el «nosotros» de quienes miran el granero, el narrador, el calor y los estudios sobre Hitler.
-
-Verbos: «be» aparece 70 veces, 27,1 % de los 258 verbos del capítulo. Siguen «have» (15), «see» y «can» (8 cada uno) y «say» (6).
+Murray, el «nosotros» de quienes miran el granero, el narrador, el calor y los estudios sobre Hitler.
 
 > [Frase 131](#lugar-131)
 > An exception to some of the above is Murray Jay Siskind, an ex-sportswriter who asked me to have lunch with him in the dining room, where the institutional odor of vaguely defined food aroused in me an obscure and gloomy memory.
