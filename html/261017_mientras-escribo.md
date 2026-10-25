@@ -2,7 +2,7 @@
 
 [![Óleo: una vieja caja de herramientas de carpintero abierta sobre el escritorio de un escritor, con un manuscrito mecanografiado y una pluma entre las herramientas, una máquina de escribir y una pila de cuartillas al lado, en luz cálida de taller al final de la tarde.](../img/261017_mientras-escribo.jpg)](../img/261017_mientras-escribo.jpg)
 
-*Mientras Escribo* es el título castellano de *On Writing*, el libro en que Stephen King cuenta cómo llegó al oficio y cómo se hace. Salió en el año 2000. Antes de entrar en materia trae tres prólogos cortos; después viene el cuerpo del libro: La memoria, y luego qué es escribir, la caja de herramientas y más. Aquí lo destilamos en ese orden, empezando por lo primero que King pone en manos del lector: los prólogos.
+*Mientras Escribo* es el título castellano de *On Writing*, el libro en que Stephen King cuenta cómo llegó al oficio y cómo se hace. Salió en el año 2000. Antes de entrar en materia trae tres prólogos cortos; después viene el cuerpo del libro: La Memoria, y luego Qué Es Escribir, la Caja de Herramientas y más. Aquí lo destilamos en ese orden, empezando por lo primero que King pone en manos del lector: Los Prólogos.
 
 
 
@@ -46,7 +46,7 @@ El tercer prólogo deja una regla de la carretera que no aparece en ninguna otra
 
 [![Romanticismo: un hombre de espaldas con sombrero se adentra en un bosque de niebla espesa, entre árboles altos que se insinúan en la bruma, al estilo de Caspar David Friedrich.](../img/261017_mientras-escribo_el-paisaje-con-niebla.jpg)](../img/261017_mientras-escribo_el-paisaje-con-niebla.jpg)
 
-King abre La memoria avisando: no recuerda como Mary Karr, que lo recuerda todo. Lo suyo fue distinto:
+King abre La Memoria avisando: no recuerda como Mary Karr, que lo recuerda todo. Lo suyo fue distinto:
 
 > <a id="lugar-74"></a>Viví una infancia rara, a saltos, criado por un padre soltero que se mudaba mucho en mis primeros años y que —no estoy del todo seguro— puede habernos dejado a mi hermano y a mí al cuidado de una de sus hermanas durante un tiempo, porque no podía con nosotros, por dinero o por ánimo.
 >
@@ -54,7 +54,7 @@ King abre La memoria avisando: no recuerda como Mary Karr, que lo recuerda todo.
 
 Mary Karr es poeta y memorista americana; *The Liars' Club*, «el club de los mentirosos», salió en 1995; el dato viene de fuera del libro.
 
-«Curriculum vitae»: King titula así La memoria, el papel donde cuenta su oficio.
+«Curriculum vitae»: King titula así La Memoria, el papel donde cuenta su oficio.
 
 ---
 
@@ -1083,487 +1083,491 @@ Otro escritorio: artesanal, la mitad del T. rex:
 
 Bajo ese alero se sienta ahora sin resaca.
 
-## Los originales
+---
 
-> <a id="original-23"></a>In the early nineties (it might have been 1992, but it’s hard to remember when you’re having a good time) I joined a rock-and-roll band composed mostly of writers.
+## Los Originales
+
+Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar en la lectura.
+
+> <a id="original-23"></a><small>[Frase 23](#lugar-23)</small>
 >
-> <small>[Frase 23](#lugar-23)</small>
+> In the early nineties (it might have been 1992, but it’s hard to remember when you’re having a good time) I joined a rock-and-roll band composed mostly of writers.
 
-> <a id="original-37"></a>One night while we were eating Chinese before a gig in Miami Beach, I asked Amy if there was any one question she was never asked during the Q-and-A that follows almost every writer’s talk—that question you never get to answer when you’re standing in front of a group of author-struck fans and pretending you don’t put your pants on one leg at a time like everyone else.
+> <a id="original-37"></a><small>[Frase 37](#lugar-37)</small>
 >
-> <small>[Frase 37](#lugar-37)</small>
+> One night while we were eating Chinese before a gig in Miami Beach, I asked Amy if there was any one question she was never asked during the Q-and-A that follows almost every writer’s talk—that question you never get to answer when you’re standing in front of a group of author-struck fans and pretending you don’t put your pants on one leg at a time like everyone else.
 
-> <a id="original-74"></a>I lived an odd, herky-jerky childhood, raised by a single parent who moved around a lot in my earliest years and who—I am not completely sure of this—may have farmed my brother and me out to one of her sisters for awhile because she was economically or emotionally unable to cope with us for a time.
+> <a id="original-74"></a><small>[Frase 74](#lugar-74)</small>
 >
-> <small>[Frase 74](#lugar-74)</small>
+> I lived an odd, herky-jerky childhood, raised by a single parent who moved around a lot in my earliest years and who—I am not completely sure of this—may have farmed my brother and me out to one of her sisters for awhile because she was economically or emotionally unable to cope with us for a time.
 
-> <a id="original-104"></a>I can’t remember if I was taken to the doctor, and neither can my Aunt Ethelyn (Uncle Oren, to whom the Evil Cinderblock surely belonged, is almost twenty years dead), but she remembers the sting, the mashed toes, and my reaction.
+> <a id="original-104"></a><small>[Frase 104](#lugar-104)</small>
 >
-> <small>[Frase 104](#lugar-104)</small>
+> I can’t remember if I was taken to the doctor, and neither can my Aunt Ethelyn (Uncle Oren, to whom the Evil Cinderblock surely belonged, is almost twenty years dead), but she remembers the sting, the mashed toes, and my reaction.
 
-> <a id="original-134"></a>After having a two-hundred-pound babysitter fart on your face and yell Pow!, The Village Voice holds few terrors.
+> <a id="original-134"></a><small>[Frase 134](#lugar-134)</small>
 >
-> <small>[Frase 134](#lugar-134)</small>
+> After having a two-hundred-pound babysitter fart on your face and yell Pow!, The Village Voice holds few terrors.
 
-> <a id="original-137"></a>One morning Eula-Beulah fried me an egg for breakfast.
+> <a id="original-137"></a><small>[Frase 137](#lugar-137)</small>
 >
-> <small>[Frase 137](#lugar-137)</small>
+> One morning Eula-Beulah fried me an egg for breakfast.
 
-> <a id="original-139"></a>Eula-Beulah fried me a second egg, then asked if I wanted another one.
+> <a id="original-139"></a><small>[Frase 139](#lugar-139)</small>
 >
-> <small>[Frase 139](#lugar-139)</small>
+> Eula-Beulah fried me a second egg, then asked if I wanted another one.
 
-> <a id="original-140"></a>She had a look in her eye that said, “You don’t dare eat another one, Stevie.”
+> <a id="original-140"></a><small>[Frase 140](#lugar-140)</small>
 >
-> <small>[Frase 140](#lugar-140)</small>
+> She had a look in her eye that said, “You don’t dare eat another one, Stevie.”
 
-> <a id="original-160"></a>When my mother came home from work that day, the babysitter was fast asleep on the couch and little Stevie was locked in the closet, fast asleep with half-digested fried eggs drying in his hair.
+> <a id="original-160"></a><small>[Frase 160](#lugar-160)</small>
 >
-> <small>[Frase 160](#lugar-160)</small>
+> When my mother came home from work that day, the babysitter was fast asleep on the couch and little Stevie was locked in the closet, fast asleep with half-digested fried eggs drying in his hair.
 
-> <a id="original-165"></a>I only know that I was in the bathroom, standing with my bare feet on the heater, watching to see if my brother would fall off the roof or make it back into the bathroom okay.
+> <a id="original-165"></a><small>[Frase 165](#lugar-165)</small>
 >
-> <small>[Frase 165](#lugar-165)</small>
+> I only know that I was in the bathroom, standing with my bare feet on the heater, watching to see if my brother would fall off the roof or make it back into the bathroom okay.
 
-> <a id="original-170"></a>I asked how you could hear a person die and she told me that it was a girl who had drowned off Prout’s Neck in the 1920s. She said the girl swam out past the rip, couldn’t get back in, and began screaming for help.
+> <a id="original-170"></a><small>[Frase 170](#lugar-170)</small>
 >
-> <small>[Frase 170](#lugar-170)</small>
+> I asked how you could hear a person die and she told me that it was a girl who had drowned off Prout’s Neck in the 1920s. She said the girl swam out past the rip, couldn’t get back in, and began screaming for help.
 
-> <a id="original-175"></a>Mom said she was fourteen, then read me a comic book and packed me off to bed.
+> <a id="original-175"></a><small>[Frase 175](#lugar-175)</small>
 >
-> <small>[Frase 175](#lugar-175)</small>
+> Mom said she was fourteen, then read me a comic book and packed me off to bed.
 
-> <a id="original-184"></a>At some point my ears became involved, and one day my mother called a taxi (she did not drive) and took me to a doctor too important to make house calls—an ear specialist.
+> <a id="original-184"></a><small>[Frase 184](#lugar-184)</small>
 >
-> <small>[Frase 184](#lugar-184)</small>
+> At some point my ears became involved, and one day my mother called a taxi (she did not drive) and took me to a doctor too important to make house calls—an ear specialist.
 
-> <a id="original-198"></a>He slid the needle into my ear and punctured my eardrum with it.
+> <a id="original-198"></a><small>[Frase 198](#lugar-198)</small>
 >
-> <small>[Frase 198](#lugar-198)</small>
+> He slid the needle into my ear and punctured my eardrum with it.
 
-> <a id="original-213"></a>The ear doctor once again produced the smell of alcohol—a smell I still associate, as I suppose many people do, with pain and sickness and terror—and with it, the long needle.
+> <a id="original-213"></a><small>[Frase 213](#lugar-213)</small>
 >
-> <small>[Frase 213](#lugar-213)</small>
+> The ear doctor once again produced the smell of alcohol—a smell I still associate, as I suppose many people do, with pain and sickness and terror—and with it, the long needle.
 
-> <a id="original-232"></a>Finally the nurse called my mother in from the waiting room, and the two of them managed to hold me long enough for the doctor to get his needle in.
+> <a id="original-232"></a><small>[Frase 232](#lugar-232)</small>
 >
-> <small>[Frase 232](#lugar-232)</small>
+> Finally the nurse called my mother in from the waiting room, and the two of them managed to hold me long enough for the doctor to get his needle in.
 
-> <a id="original-249"></a>He was standing at the head of the table I was lying on (1953 and 1954 were my years for lying on tables), and to me he looked upside down.
+> <a id="original-249"></a><small>[Frase 249](#lugar-249)</small>
 >
-> <small>[Frase 249](#lugar-249)</small>
+> He was standing at the head of the table I was lying on (1953 and 1954 were my years for lying on tables), and to me he looked upside down.
 
-> <a id="original-251"></a>“Can you hear me?”
+> <a id="original-251"></a><small>[Frase 251](#lugar-251)</small>
 >
-> <small>[Frase 251](#lugar-251)</small>
+> “Can you hear me?”
 
-> <a id="original-253"></a>“I want you to breathe deep,” he said.
+> <a id="original-253"></a><small>[Frase 253](#lugar-253)</small>
 >
-> <small>[Frase 253](#lugar-253)</small>
+> “I want you to breathe deep,” he said.
 
-> <a id="original-274"></a>Eventually I showed one of these copycat hybrids to my mother, and she was charmed—I remember her slightly amazed smile, as if she was unable to believe a kid of hers could be so smart—practically a damned prodigy, for God’s sake.
+> <a id="original-274"></a><small>[Frase 274](#lugar-274)</small>
 >
-> <small>[Frase 274](#lugar-274)</small>
+> Eventually I showed one of these copycat hybrids to my mother, and she was charmed—I remember her slightly amazed smile, as if she was unable to believe a kid of hers could be so smart—practically a damned prodigy, for God’s sake.
 
-> <a id="original-279"></a>“Write one of your own, Stevie,” she said.
+> <a id="original-279"></a><small>[Frase 279](#lugar-279)</small>
 >
-> <small>[Frase 279](#lugar-279)</small>
+> “Write one of your own, Stevie,” she said.
 
-> <a id="original-290"></a>When I finished, I gave it to my mother, who sat down in the living room, put her pocketbook on the floor beside her, and read it all at once.
+> <a id="original-290"></a><small>[Frase 290](#lugar-290)</small>
 >
-> <small>[Frase 290](#lugar-290)</small>
+> When I finished, I gave it to my mother, who sat down in the living room, put her pocketbook on the floor beside her, and read it all at once.
 
-> <a id="original-296"></a>She gave me a quarter apiece for them and sent them around to her four sisters, who pitied her a little, I think.
+> <a id="original-296"></a><small>[Frase 296](#lugar-296)</small>
 >
-> <small>[Frase 296](#lugar-296)</small>
+> She gave me a quarter apiece for them and sent them around to her four sisters, who pitied her a little, I think.
 
-> <a id="original-313"></a>Dave and I explored it for the first time not long after we had moved into our new place.
+> <a id="original-313"></a><small>[Frase 313](#lugar-313)</small>
 >
-> <small>[Frase 313](#lugar-313)</small>
+> Dave and I explored it for the first time not long after we had moved into our new place.
 
-> <a id="original-324"></a>It would take at least half an hour to walk me home, and he had no intention of giving up such a shining stretch of time just because his little brother had to take a dump.
+> <a id="original-324"></a><small>[Frase 324](#lugar-324)</small>
 >
-> <small>[Frase 324](#lugar-324)</small>
+> It would take at least half an hour to walk me home, and he had no intention of giving up such a shining stretch of time just because his little brother had to take a dump.
 
-> <a id="original-329"></a>“Wipe yourself with some leaves.
+> <a id="original-329"></a><small>[Frase 329](#lugar-329)</small>
 >
-> <small>[Frase 329](#lugar-329)</small>
+> “Wipe yourself with some leaves.
 
-> <a id="original-334"></a>I did my business, and took care of the cleanup as my older brother had suggested, carefully wiping my ass with big handfuls of shiny green leaves.
+> <a id="original-334"></a><small>[Frase 334](#lugar-334)</small>
 >
-> <small>[Frase 334](#lugar-334)</small>
+> I did my business, and took care of the cleanup as my older brother had suggested, carefully wiping my ass with big handfuls of shiny green leaves.
 
-> <a id="original-346"></a>Sharing the blame was also the reason we both ran the risk of getting killed while implementing his potentially lethal school science project.
+> <a id="original-346"></a><small>[Frase 346](#lugar-346)</small>
 >
-> <small>[Frase 346](#lugar-346)</small>
+> Sharing the blame was also the reason we both ran the risk of getting killed while implementing his potentially lethal school science project.
 
-> <a id="original-364"></a>We each had our part to play in creating the Super Duper Electromagnet.
+> <a id="original-364"></a><small>[Frase 364](#lugar-364)</small>
 >
-> <small>[Frase 364](#lugar-364)</small>
+> We each had our part to play in creating the Super Duper Electromagnet.
 
-> <a id="original-370"></a>Then, sitting on the floor in the kitchen of our West Broad Street apartment, he offered me the Super Duper Electromagnet and bade me do my part and plug it in.
+> <a id="original-370"></a><small>[Frase 370](#lugar-370)</small>
 >
-> <small>[Frase 370](#lugar-370)</small>
+> Then, sitting on the floor in the kitchen of our West Broad Street apartment, he offered me the Super Duper Electromagnet and bade me do my part and plug it in.
 
-> <a id="original-379"></a>That day we could only wonder if our mother would come and see us in reform school.
+> <a id="original-379"></a><small>[Frase 379](#lugar-379)</small>
 >
-> <small>[Frase 379](#lugar-379)</small>
+> That day we could only wonder if our mother would come and see us in reform school.
 
-> <a id="original-393"></a>I am, when you stop to think of it, a member of a fairly select group: the final handful of American novelists who learned to read and write before they learned to eat a daily helping of video bullshit.
+> <a id="original-393"></a><small>[Frase 393](#lugar-393)</small>
 >
-> <small>[Frase 393](#lugar-393)</small>
+> I am, when you stop to think of it, a member of a fairly select group: the final handful of American novelists who learned to read and write before they learned to eat a daily helping of video bullshit.
 
-> <a id="original-406"></a>About twenty years later, while I was signing autographs at a Los Angeles bookstore, Forry turned up in line … with my story, single-spaced and typed with the long-vanished Royal typewriter my mom gave me for Christmas the year I was eleven.
+> <a id="original-406"></a><small>[Frase 406](#lugar-406)</small>
 >
-> <small>[Frase 406](#lugar-406)</small>
+> About twenty years later, while I was signing autographs at a Los Angeles bookstore, Forry turned up in line … with my story, single-spaced and typed with the long-vanished Royal typewriter my mom gave me for Christmas the year I was eleven.
 
-> <a id="original-411"></a>He published this novella under the title “In a Half-World of Terror,” but I still like my title much better.
+> <a id="original-411"></a><small>[Frase 411](#lugar-411)</small>
 >
-> <small>[Frase 411](#lugar-411)</small>
+> He published this novella under the title “In a Half-World of Terror,” but I still like my title much better.
 
-> <a id="original-421"></a>My mother’s sisters had gotten my mom this job, perhaps thinking they could kill two birds with one stone—the aged Ps would be taken care of in a homey environment by a loving daughter, and The Nagging Problem of Ruth would be solved.
+> <a id="original-421"></a><small>[Frase 421](#lugar-421)</small>
 >
-> <small>[Frase 421](#lugar-421)</small>
+> My mother’s sisters had gotten my mom this job, perhaps thinking they could kill two birds with one stone—the aged Ps would be taken care of in a homey environment by a loving daughter, and The Nagging Problem of Ruth would be solved.
 
-> <a id="original-423"></a>She hated her new job, I think—in their effort to take care of her, her sisters turned our self-sufficient, funny, slightly nutty mother into a sharecropper living a largely cashless existence.
+> <a id="original-423"></a><small>[Frase 423](#lugar-423)</small>
 >
-> <small>[Frase 423](#lugar-423)</small>
+> She hated her new job, I think—in their effort to take care of her, her sisters turned our self-sufficient, funny, slightly nutty mother into a sharecropper living a largely cashless existence.
 
-> <a id="original-443"></a>In a funny scene—probably the first really competent scene I ever wrote—Roger sits in the living room with his old mom, the two of them mooning over the Happy Stamps catalogue while the printing press runs downstairs, ejecting bale after bale of those same trading stamps.
+> <a id="original-443"></a><small>[Frase 443](#lugar-443)</small>
 >
-> <small>[Frase 443](#lugar-443)</small>
+> In a funny scene—probably the first really competent scene I ever wrote—Roger sits in the living room with his old mom, the two of them mooning over the Happy Stamps catalogue while the printing press runs downstairs, ejecting bale after bale of those same trading stamps.
 
-> <a id="original-455"></a>Mom calls cheerily down the stairs, saying she has just gotten off the phone with the Happy Stamps National Redemption Center in Terre Haute, and the lady said they could probably get a nice Tudor home in Weston for only eleven million, six hundred thousand books of Happy Stamps.
+> <a id="original-455"></a><small>[Frase 455](#lugar-455)</small>
 >
-> <small>[Frase 455](#lugar-455)</small>
+> Mom calls cheerily down the stairs, saying she has just gotten off the phone with the Happy Stamps National Redemption Center in Terre Haute, and the lady said they could probably get a nice Tudor home in Weston for only eleven million, six hundred thousand books of Happy Stamps.
 
-> <a id="original-460"></a>Only eleven million, five hundred and ninety thousand books to go, he thinks as the story ends, and Mom can have her Tudor.
+> <a id="original-460"></a><small>[Frase 460](#lugar-460)</small>
 >
-> <small>[Frase 460](#lugar-460)</small>
+> Only eleven million, five hundred and ninety thousand books to go, he thinks as the story ends, and Mom can have her Tudor.
 
-> <a id="original-485"></a>The first of these hopeful notes was from Algis Budrys, then the editor of Fantasy and Science Fiction, who read a story of mine called “The Night of the Tiger” (the inspiration was, I think, an episode of The Fugitive in which Dr. Richard Kimble worked as an attendant cleaning out cages in a zoo or a circus) and wrote: “This is good.
+> <a id="original-485"></a><small>[Frase 485](#lugar-485)</small>
 >
-> <small>[Frase 485](#lugar-485)</small>
+> The first of these hopeful notes was from Algis Budrys, then the editor of Fantasy and Science Fiction, who read a story of mine called “The Night of the Tiger” (the inspiration was, I think, an episode of The Fugitive in which Dr. Richard Kimble worked as an attendant cleaning out cages in a zoo or a circus) and wrote: “This is good.
 
-> <a id="original-491"></a>I rewrote it and on a whim resubmitted it to F&SF.
+> <a id="original-491"></a><small>[Frase 491](#lugar-491)</small>
 >
-> <small>[Frase 491](#lugar-491)</small>
+> I rewrote it and on a whim resubmitted it to F&SF.
 
-> <a id="original-502"></a>A typical number would let people know how Charley Harrington’s broken leg was mending, what guest speakers might be coming to the West Durham Methodist Church, how much water the King boys were hauling from the town pump to keep from draining the well behind the house (of course it went dry every fucking summer no matter how much water we hauled), who was visiting the Browns or the Halls on the other side of Methodist Corners, and whose relatives were due to hit town each summer.
+> <a id="original-502"></a><small>[Frase 502](#lugar-502)</small>
 >
-> <small>[Frase 502](#lugar-502)</small>
+> A typical number would let people know how Charley Harrington’s broken leg was mending, what guest speakers might be coming to the West Durham Methodist Church, how much water the King boys were hauling from the town pump to keep from draining the well behind the house (of course it went dry every fucking summer no matter how much water we hauled), who was visiting the Browns or the Halls on the other side of Methodist Corners, and whose relatives were due to hit town each summer.
 
-> <a id="original-524"></a>We were able to put together in two nights what had previously taken a week with the hectograph, and while the drum-press was messy, it did not look infected with a potentially fatal disease.
+> <a id="original-524"></a><small>[Frase 524](#lugar-524)</small>
 >
-> <small>[Frase 524](#lugar-524)</small>
+> We were able to put together in two nights what had previously taken a week with the hectograph, and while the drum-press was messy, it did not look infected with a potentially fatal disease.
 
-> <a id="original-562"></a>Of all the Poepictures, the one that affected Chris and me the most deeply was The Pit and the Pendulum.
+> <a id="original-562"></a><small>[Frase 562](#lugar-562)</small>
 >
-> <small>[Frase 562](#lugar-562)</small>
+> Of all the Poepictures, the one that affected Chris and me the most deeply was The Pit and the Pendulum.
 
-> <a id="original-567"></a>On the long hitch home that night (if rides were slow in coming, you might end up walking four or five miles and not get home until well after dark) I had a wonderful idea: I would turn The Pit and the Pendulum into a book!
+> <a id="original-567"></a><small>[Frase 567](#lugar-567)</small>
 >
-> <small>[Frase 567](#lugar-567)</small>
+> On the long hitch home that night (if rides were slow in coming, you might end up walking four or five miles and not get home until well after dark) I had a wonderful idea: I would turn The Pit and the Pendulum into a book!
 
-> <a id="original-569"></a>But I wouldn’t just write this masterpiece; I would also print it, using the drum-press in our basement, and sell copies at school!
+> <a id="original-569"></a><small>[Frase 569](#lugar-569)</small>
 >
-> <small>[Frase 569](#lugar-569)</small>
+> But I wouldn’t just write this masterpiece; I would also print it, using the drum-press in our basement, and sell copies at school!
 
-> <a id="original-574"></a>Although no copies of that particular masterpiece survive (at least to my knowledge), I believe it was eight pages long, each page single-spaced and paragraph breaks kept to an absolute minimum (each stencil cost nineteen cents, remember).
+> <a id="original-574"></a><small>[Frase 574](#lugar-574)</small>
 >
-> <small>[Frase 574](#lugar-574)</small>
+> Although no copies of that particular masterpiece survive (at least to my knowledge), I believe it was eight pages long, each page single-spaced and paragraph breaks kept to an absolute minimum (each stencil cost nineteen cents, remember).
 
-> <a id="original-579"></a>I ran off about forty copies of The Pit and the Pendulum, blissfully unaware that I was in violation of every plagiarism and copyright statute in the history of the world; my thoughts were focused almost entirely on how much money I might make if my story was a hit at school.
+> <a id="original-579"></a><small>[Frase 579](#lugar-579)</small>
 >
-> <small>[Frase 579](#lugar-579)</small>
+> I ran off about forty copies of The Pit and the Pendulum, blissfully unaware that I was in violation of every plagiarism and copyright statute in the history of the world; my thoughts were focused almost entirely on how much money I might make if my story was a hit at school.
 
-> <a id="original-591"></a>When the school day ended at two o’clock, I was summoned to the principal’s office, where I was told I couldn’t turn the school into a marketplace, especially not, Miss Hisler said, to sell such trash as The Pit and the Pendulum.
+> <a id="original-591"></a><small>[Frase 591](#lugar-591)</small>
 >
-> <small>[Frase 591](#lugar-591)</small>
+> When the school day ended at two o’clock, I was summoned to the principal’s office, where I was told I couldn’t turn the school into a marketplace, especially not, Miss Hisler said, to sell such trash as The Pit and the Pendulum.
 
-> <a id="original-657"></a>Mr. Higgins, our bald principal (breezily referred to in the Vomit as Old Cue-Ball), told me that Miss Margitan had been very hurt and very upset by what I had written.
+> <a id="original-657"></a><small>[Frase 657](#lugar-657)</small>
 >
-> <small>[Frase 657](#lugar-657)</small>
+> Mr. Higgins, our bald principal (breezily referred to in the Vomit as Old Cue-Ball), told me that Miss Margitan had been very hurt and very upset by what I had written.
 
-> <a id="original-658"></a>She was apparently not too hurt to remember that old scriptural admonition which goes “Vengeance is mine, saith the shorthand teacher,” however; Mr. Higgins said she wanted me suspended from school.
+> <a id="original-658"></a><small>[Frase 658](#lugar-658)</small>
 >
-> <small>[Frase 658](#lugar-658)</small>
+> She was apparently not too hurt to remember that old scriptural admonition which goes “Vengeance is mine, saith the shorthand teacher,” however; Mr. Higgins said she wanted me suspended from school.
 
-> <a id="original-665"></a>In the end, Miss Margitan settled for a formal apology and two weeks of detention for the bad boy who had dared call her Maggot in print.
+> <a id="original-665"></a><small>[Frase 665](#lugar-665)</small>
 >
-> <small>[Frase 665](#lugar-665)</small>
+> In the end, Miss Margitan settled for a formal apology and two weeks of detention for the bad boy who had dared call her Maggot in print.
 
-> <a id="original-672"></a>Later, while I was flying paper planes with the other bad boys and bad girls in detention hall (detention turned out to be not so bad), I decided that it was pretty simple: Miss Margitan didn’t like boys.
+> <a id="original-672"></a><small>[Frase 672](#lugar-672)</small>
 >
-> <small>[Frase 672](#lugar-672)</small>
+> Later, while I was flying paper planes with the other bad boys and bad girls in detention hall (detention turned out to be not so bad), I decided that it was pretty simple: Miss Margitan didn’t like boys.
 
-> <a id="original-673"></a>She was the first woman I ever met in my life who didn’t like boys, not even one little bit.
+> <a id="original-673"></a><small>[Frase 673](#lugar-673)</small>
 >
-> <small>[Frase 673](#lugar-673)</small>
+> She was the first woman I ever met in my life who didn’t like boys, not even one little bit.
 
-> <a id="original-709"></a>I wish I still had the piece—it deserves to be framed, editorial corrections and all—but I can remember pretty well how it went and how it looked after Gould had combed through it with that black pen of his.
+> <a id="original-709"></a><small>[Frase 709](#lugar-709)</small>
 >
-> <small>[Frase 709](#lugar-709)</small>
+> I wish I still had the piece—it deserves to be framed, editorial corrections and all—but I can remember pretty well how it went and how it looked after Gould had combed through it with that black pen of his.
 
-> <a id="original-723"></a>“I know,” I said, meaning both things: yes, most of it was good—okay anyway, serviceable—and yes, he had only taken out the bad parts.
+> <a id="original-723"></a><small>[Frase 723](#lugar-723)</small>
 >
-> <small>[Frase 723](#lugar-723)</small>
+> “I know,” I said, meaning both things: yes, most of it was good—okay anyway, serviceable—and yes, he had only taken out the bad parts.
 
-> <a id="original-732"></a>Gould said something else that was interesting on the day I turned in my first two pieces: write with the door closed, rewrite with the door open.
+> <a id="original-732"></a><small>[Frase 732](#lugar-732)</small>
 >
-> <small>[Frase 732](#lugar-732)</small>
+> Gould said something else that was interesting on the day I turned in my first two pieces: write with the door closed, rewrite with the door open.
 
-> <a id="original-736"></a>If you’re very lucky (this is my idea, not John Gould’s, but I believe he would have subscribed to the notion), more will want to do the former than the latter.
+> <a id="original-736"></a><small>[Frase 736](#lugar-736)</small>
 >
-> <small>[Frase 736](#lugar-736)</small>
+> If you’re very lucky (this is my idea, not John Gould’s, but I believe he would have subscribed to the notion), more will want to do the former than the latter.
 
-> <a id="original-739"></a>My mother was making lousy wages as a housekeeper at a facility for the mentally ill in New Gloucester, but she was determined I was going to college like my brother David (University of Maine, class of ’66, cum laude).
+> <a id="original-739"></a><small>[Frase 739](#lugar-739)</small>
 >
-> <small>[Frase 739](#lugar-739)</small>
+> My mother was making lousy wages as a housekeeper at a facility for the mentally ill in New Gloucester, but she was determined I was going to college like my brother David (University of Maine, class of ’66, cum laude).
 
-> <a id="original-767"></a>One day late in my final semester at college, finals over and at loose ends, I recalled the dyehouse guy’s story about the rats under the mill—big as cats, goddam, some as big as dogs—and started writing a story called “Graveyard Shift.”
+> <a id="original-767"></a><small>[Frase 767](#lugar-767)</small>
 >
-> <small>[Frase 767](#lugar-767)</small>
+> One day late in my final semester at college, finals over and at loose ends, I recalled the dyehouse guy’s story about the rats under the mill—big as cats, goddam, some as big as dogs—and started writing a story called “Graveyard Shift.”
 
-> <a id="original-787"></a>I hadn’t run across her in the library, and I didn’t believe a college student could utter such a wonderful, unafraid laugh.
+> <a id="original-787"></a><small>[Frase 787](#lugar-787)</small>
 >
-> <small>[Frase 787](#lugar-787)</small>
+> I hadn’t run across her in the library, and I didn’t believe a college student could utter such a wonderful, unafraid laugh.
 
-> <a id="original-792"></a>We’re still married, and she has never let me forget that the first time I met her I thought she was Eddie Marsh’s townie girlfriend.
+> <a id="original-792"></a><small>[Frase 792](#lugar-792)</small>
 >
-> <small>[Frase 792](#lugar-792)</small>
+> We’re still married, and she has never let me forget that the first time I met her I thought she was Eddie Marsh’s townie girlfriend.
 
-> <a id="original-801"></a>We met when we were working in a library, and I fell in love with her during a poetry workshop in the fall of 1969, when I was a senior and Tabby was a junior.
+> <a id="original-801"></a><small>[Frase 801](#lugar-801)</small>
 >
-> <small>[Frase 801](#lugar-801)</small>
+> We met when we were working in a library, and I fell in love with her during a poetry workshop in the fall of 1969, when I was a senior and Tabby was a junior.
 
-> <a id="original-802"></a>I fell in love with her partly because I understood what she was doing with her work.
+> <a id="original-802"></a><small>[Frase 802](#lugar-802)</small>
 >
-> <small>[Frase 802](#lugar-802)</small>
+> I fell in love with her partly because I understood what she was doing with her work.
 
-> <a id="original-803"></a>I fell because she understood what she was doing with it.
+> <a id="original-803"></a><small>[Frase 803](#lugar-803)</small>
 >
-> <small>[Frase 803](#lugar-803)</small>
+> I fell because she understood what she was doing with it.
 
-> <a id="original-804"></a>I also fell because she was wearing a sexy black dress and silk stockings, the kind that hook with garters.
+> <a id="original-804"></a><small>[Frase 804](#lugar-804)</small>
 >
-> <small>[Frase 804](#lugar-804)</small>
+> I also fell because she was wearing a sexy black dress and silk stockings, the kind that hook with garters.
 
-> <a id="original-824"></a>I didn’t cop to much of this attitude (although I didn’t dare say so out loud, at least not in so many words), and was overjoyed to find that the pretty girl in the black dress and the silk stockings didn’t cop to much of it, either.
+> <a id="original-824"></a><small>[Frase 824](#lugar-824)</small>
 >
-> <small>[Frase 824](#lugar-824)</small>
+> I didn’t cop to much of this attitude (although I didn’t dare say so out loud, at least not in so many words), and was overjoyed to find that the pretty girl in the black dress and the silk stockings didn’t cop to much of it, either.
 
-> <a id="original-861"></a>In the discussion that followed Tab’s reading, it became clear to me that she understood her own poem.
+> <a id="original-861"></a><small>[Frase 861](#lugar-861)</small>
 >
-> <small>[Frase 861](#lugar-861)</small>
+> In the discussion that followed Tab’s reading, it became clear to me that she understood her own poem.
 
-> <a id="original-889"></a>When Tabby went into labor with him, I was at a drive-in movie in Brewer with a friend—it was a Memorial Day triple feature, three horror films.
+> <a id="original-889"></a><small>[Frase 889](#lugar-889)</small>
 >
-> <small>[Frase 889](#lugar-889)</small>
+> When Tabby went into labor with him, I was at a drive-in movie in Brewer with a friend—it was a Memorial Day triple feature, three horror films.
 
-> <a id="original-906"></a>Even when Naomi was tearing off the wallpaper above her crib (maybe she thought she was housekeeping) and Joe was shitting in the wicker seat of the rocker we kept on the porch of our apartment on Sanford Street, they were a treat.
+> <a id="original-906"></a><small>[Frase 906](#lugar-906)</small>
 >
-> <small>[Frase 906](#lugar-906)</small>
+> Even when Naomi was tearing off the wallpaper above her crib (maybe she thought she was housekeeping) and Joe was shitting in the wicker seat of the rocker we kept on the porch of our apartment on Sanford Street, they were a treat.
 
-> <a id="original-907"></a>My mother knew I wanted to be a writer (with all those rejection slips hanging from the spike on my bedroom wall, how could she not?), but she encouraged me to get a teacher’s credential “so you’ll have something to fall back on.”
+> <a id="original-907"></a><small>[Frase 907](#lugar-907)</small>
 >
-> <small>[Frase 907](#lugar-907)</small>
+> My mother knew I wanted to be a writer (with all those rejection slips hanging from the spike on my bedroom wall, how could she not?), but she encouraged me to get a teacher’s credential “so you’ll have something to fall back on.”
 
-> <a id="original-910"></a>I did as she suggested, entering the College of Education at UMO and emerging four years later with a teacher’s certificate … sort of like a golden retriever emerging from a pond with a dead duck in its jaws.
+> <a id="original-910"></a><small>[Frase 910](#lugar-910)</small>
 >
-> <small>[Frase 910](#lugar-910)</small>
+> I did as she suggested, entering the College of Education at UMO and emerging four years later with a teacher’s certificate … sort of like a golden retriever emerging from a pond with a dead duck in its jaws.
 
-> <a id="original-915"></a>The greater part of what I loaded and pulled were motel sheets from Maine’s coastal towns and table linen from Maine’s coastal restaurants.
+> <a id="original-915"></a><small>[Frase 915](#lugar-915)</small>
 >
-> <small>[Frase 915](#lugar-915)</small>
+> The greater part of what I loaded and pulled were motel sheets from Maine’s coastal towns and table linen from Maine’s coastal restaurants.
 
-> <a id="original-942"></a>I wrote after work; when we lived on Grove Street, which was close to the New Franklin, I would sometimes write a little on my lunch hour, too.
+> <a id="original-942"></a><small>[Frase 942](#lugar-942)</small>
 >
-> <small>[Frase 942](#lugar-942)</small>
+> I wrote after work; when we lived on Grove Street, which was close to the New Franklin, I would sometimes write a little on my lunch hour, too.
 
-> <a id="original-955"></a>The stories I sold to the men’s magazines between August of 1970, when I got my two-hundred-dollar check for “Graveyard Shift,” and the winter of 1973-1974 were just enough to create a rough sliding margin between us and the welfare office (my mother, a Republican all her life, had communicated her deep horror of “going on the county” to me; Tabby had some of that same horror).
+> <a id="original-955"></a><small>[Frase 955](#lugar-955)</small>
 >
-> <small>[Frase 955](#lugar-955)</small>
+> The stories I sold to the men’s magazines between August of 1970, when I got my two-hundred-dollar check for “Graveyard Shift,” and the winter of 1973-1974 were just enough to create a rough sliding margin between us and the welfare office (my mother, a Republican all her life, had communicated her deep horror of “going on the county” to me; Tabby had some of that same horror).
 
-> <a id="original-984"></a>I was driving a Buick with transmission problems we couldn’t afford to fix, Tabby was still working at Dunkin’ Donuts, and we had no telephone.
+> <a id="original-984"></a><small>[Frase 984](#lugar-984)</small>
 >
-> <small>[Frase 984](#lugar-984)</small>
+> I was driving a Buick with transmission problems we couldn’t afford to fix, Tabby was still working at Dunkin’ Donuts, and we had no telephone.
 
-> <a id="original-1002"></a>If she had suggested that the time I spent writing stories on the front porch of our rented house on Pond Street or in the laundry room of our rented trailer on Klatt Road in Hermon was wasted time, I think a lot of the heart would have gone out of me.
+> <a id="original-1002"></a><small>[Frase 1002](#lugar-1002)</small>
 >
-> <small>[Frase 1002](#lugar-1002)</small>
+> If she had suggested that the time I spent writing stories on the front porch of our rented house on Pond Street or in the laundry room of our rented trailer on Klatt Road in Hermon was wasted time, I think a lot of the heart would have gone out of me.
 
-> <a id="original-1016"></a>One lunch hour Harry told me what it had been like to face a Japanese banzai charge on the island of Tarawa, all the Japanese officers waving swords made out of Maxwell House coffee cans, all the screaming enlisted men behind them stoned out of their gourds and smelling of burned poppies.
+> <a id="original-1016"></a><small>[Frase 1016](#lugar-1016)</small>
 >
-> <small>[Frase 1016](#lugar-1016)</small>
+> One lunch hour Harry told me what it had been like to face a Japanese banzai charge on the island of Tarawa, all the Japanese officers waving swords made out of Maxwell House coffee cans, all the screaming enlisted men behind them stoned out of their gourds and smelling of burned poppies.
 
-> <a id="original-1018"></a>One day he and I were supposed to scrub the rust-stains off the walls in the girls’ shower.
+> <a id="original-1018"></a><small>[Frase 1018](#lugar-1018)</small>
 >
-> <small>[Frase 1018](#lugar-1018)</small>
+> One day he and I were supposed to scrub the rust-stains off the walls in the girls’ shower.
 
-> <a id="original-1062"></a>The next night, when I came home from school, Tabby had the pages.
+> <a id="original-1062"></a><small>[Frase 1062](#lugar-1062)</small>
 >
-> <small>[Frase 1062](#lugar-1062)</small>
+> The next night, when I came home from school, Tabby had the pages.
 
-> <a id="original-1064"></a>She wanted me to go on with it, she said.
+> <a id="original-1064"></a><small>[Frase 1064](#lugar-1064)</small>
 >
-> <small>[Frase 1064](#lugar-1064)</small>
+> She wanted me to go on with it, she said.
 
-> <a id="original-1069"></a>“You’ve got something here,” she said.
+> <a id="original-1069"></a><small>[Frase 1069](#lugar-1069)</small>
 >
-> <small>[Frase 1069](#lugar-1069)</small>
+> “You’ve got something here,” she said.
 
-> <a id="original-1095"></a>It occurred to me that Sondra had grown up beneath the agonal gaze of this dying god, and doing so had undoubtedly played a part in making her what she was when I knew her: a timid and homely outcast who went scuttling through the halls of Lisbon High like a frightened mouse.
+> <a id="original-1095"></a><small>[Frase 1095](#lugar-1095)</small>
 >
-> <small>[Frase 1095](#lugar-1095)</small>
+> It occurred to me that Sondra had grown up beneath the agonal gaze of this dying god, and doing so had undoubtedly played a part in making her what she was when I knew her: a timid and homely outcast who went scuttling through the halls of Lisbon High like a frightened mouse.
 
-> <a id="original-1102"></a>The other girl I’ll call Dodie Franklin, only the other girls called her Dodo or Doodoo.
+> <a id="original-1102"></a><small>[Frase 1102](#lugar-1102)</small>
 >
-> <small>[Frase 1102](#lugar-1102)</small>
+> The other girl I’ll call Dodie Franklin, only the other girls called her Dodo or Doodoo.
 
-> <a id="original-1123"></a>Dodie had it worse, I think.
+> <a id="original-1123"></a><small>[Frase 1123](#lugar-1123)</small>
 >
-> <small>[Frase 1123](#lugar-1123)</small>
+> Dodie had it worse, I think.
 
-> <a id="original-1132"></a>I have no idea if she saved for those new clothes, if they were given to her for Christmas by her parents, or if she went through a hell of begging that finally bore dividends.
+> <a id="original-1132"></a><small>[Frase 1132](#lugar-1132)</small>
 >
-> <small>[Frase 1132](#lugar-1132)</small>
+> I have no idea if she saved for those new clothes, if they were given to her for Christmas by her parents, or if she went through a hell of begging that finally bore dividends.
 
-> <a id="original-1136"></a>I had several classes with her, and was able to observe Dodie’s ruination at first hand.
+> <a id="original-1136"></a><small>[Frase 1136](#lugar-1136)</small>
 >
-> <small>[Frase 1136](#lugar-1136)</small>
+> I had several classes with her, and was able to observe Dodie’s ruination at first hand.
 
-> <a id="original-1137"></a>I saw her smile fade, saw the light in her eyes first dim and then go out.
+> <a id="original-1137"></a><small>[Frase 1137](#lugar-1137)</small>
 >
-> <small>[Frase 1137](#lugar-1137)</small>
+> I saw her smile fade, saw the light in her eyes first dim and then go out.
 
-> <a id="original-1146"></a>Both Sondra and Dodie were dead by the time I started writing Carrie.
+> <a id="original-1146"></a><small>[Frase 1146](#lugar-1146)</small>
 >
-> <small>[Frase 1146](#lugar-1146)</small>
+> Both Sondra and Dodie were dead by the time I started writing Carrie.
 
-> <a id="original-1156"></a>I never liked Carrie, that female version of Eric Harris and Dylan Klebold, but through Sondra and Dodie I came at last to understand her a little.
+> <a id="original-1156"></a><small>[Frase 1156](#lugar-1156)</small>
 >
-> <small>[Frase 1156](#lugar-1156)</small>
+> I never liked Carrie, that female version of Eric Harris and Dylan Klebold, but through Sondra and Dodie I came at last to understand her a little.
 
-> <a id="original-1159"></a>I pretty much forgot about it and moved on with my life, which at that time consisted of teaching school, raising kids, loving my wife, getting drunk on Friday afternoons, and writing stories.
+> <a id="original-1159"></a><small>[Frase 1159](#lugar-1159)</small>
 >
-> <small>[Frase 1159](#lugar-1159)</small>
+> I pretty much forgot about it and moved on with my life, which at that time consisted of teaching school, raising kids, loving my wife, getting drunk on Friday afternoons, and writing stories.
 
-> <a id="original-1168"></a>Tabby would have had to dress the kids in their boots and jackets to use the neighbors’ phone, and I could think of only two reasons she might have done so.
+> <a id="original-1168"></a><small>[Frase 1168](#lugar-1168)</small>
 >
-> <small>[Frase 1168](#lugar-1168)</small>
+> Tabby would have had to dress the kids in their boots and jackets to use the neighbors’ phone, and I could think of only two reasons she might have done so.
 
-> <a id="original-1186"></a>I told her no, not based on a twenty-five-hundred-dollar advance and only nebulous possibilities beyond that.
+> <a id="original-1186"></a><small>[Frase 1186](#lugar-1186)</small>
 >
-> <small>[Frase 1186](#lugar-1186)</small>
+> I told her no, not based on a twenty-five-hundred-dollar advance and only nebulous possibilities beyond that.
 
-> <a id="original-1215"></a>He was a great one to talk, since he smoked like a chimney himself (so did I, and how my wife hated the expense and the constant ashy dirt of it), but I knew what he meant.
+> <a id="original-1215"></a><small>[Frase 1215](#lugar-1215)</small>
 >
-> <small>[Frase 1215](#lugar-1215)</small>
+> He was a great one to talk, since he smoked like a chimney himself (so did I, and how my wife hated the expense and the constant ashy dirt of it), but I knew what he meant.
 
-> <a id="original-1245"></a>Our place on Sanford Street rented for ninety dollars a month and this man I’d only met once face-to-face was telling me I’d just won the lottery.
+> <a id="original-1245"></a><small>[Frase 1245](#lugar-1245)</small>
 >
-> <small>[Frase 1245](#lugar-1245)</small>
+> Our place on Sanford Street rented for ninety dollars a month and this man I’d only met once face-to-face was telling me I’d just won the lottery.
 
-> <a id="original-1251"></a>I asked him to say the number again, very slowly and very clearly, so I could be sure I hadn’t misunderstood.
+> <a id="original-1251"></a><small>[Frase 1251](#lugar-1251)</small>
 >
-> <small>[Frase 1251](#lugar-1251)</small>
+> I asked him to say the number again, very slowly and very clearly, so I could be sure I hadn’t misunderstood.
 
-> <a id="original-1254"></a>We talked for another half an hour, but I don’t remember a single word of what we said.
+> <a id="original-1254"></a><small>[Frase 1254](#lugar-1254)</small>
 >
-> <small>[Frase 1254](#lugar-1254)</small>
+> We talked for another half an hour, but I don’t remember a single word of what we said.
 
-> <a id="original-1280"></a>Finally I gave up and asked the guy behind the counter (the same bald, bored-looking, gray-coated guy who has, I’m convinced, sold alcohol virgins their first bottle since the dawn of commerce) what was cheap.
+> <a id="original-1280"></a><small>[Frase 1280](#lugar-1280)</small>
 >
-> <small>[Frase 1280](#lugar-1280)</small>
+> Finally I gave up and asked the guy behind the counter (the same bald, bored-looking, gray-coated guy who has, I’m convinced, sold alcohol virgins their first bottle since the dawn of commerce) what was cheap.
 
-> <a id="original-1330"></a>Here is more trouble with the principal, probably even worse than the trouble I got into over The Village Vomit.
+> <a id="original-1330"></a><small>[Frase 1330](#lugar-1330)</small>
 >
-> <small>[Frase 1330](#lugar-1330)</small>
+> Here is more trouble with the principal, probably even worse than the trouble I got into over The Village Vomit.
 
-> <a id="original-1332"></a>He bounced me pretty hard over my joke newspaper, but perhaps Miss Margitan had insisted on that.
+> <a id="original-1332"></a><small>[Frase 1332](#lugar-1332)</small>
 >
-> <small>[Frase 1332](#lugar-1332)</small>
+> He bounced me pretty hard over my joke newspaper, but perhaps Miss Margitan had insisted on that.
 
-> <a id="original-1338"></a>“A shame for you to miss the fun,” Old Cue-Ball says.
+> <a id="original-1338"></a><small>[Frase 1338](#lugar-1338)</small>
 >
-> <small>[Frase 1338](#lugar-1338)</small>
+> “A shame for you to miss the fun,” Old Cue-Ball says.
 
-> <a id="original-1342"></a>“I hope you won’t get that bug again,” he says.
+> <a id="original-1342"></a><small>[Frase 1342](#lugar-1342)</small>
 >
-> <small>[Frase 1342](#lugar-1342)</small>
+> “I hope you won’t get that bug again,” he says.
 
-> <a id="original-1354"></a>The clerk sells me a fifth of Four Roses without asking to see any ID, and by the time we stop for the night I’m drunk again.
+> <a id="original-1354"></a><small>[Frase 1354](#lugar-1354)</small>
 >
-> <small>[Frase 1354](#lugar-1354)</small>
+> The clerk sells me a fifth of Four Roses without asking to see any ID, and by the time we stop for the night I’m drunk again.
 
-> <a id="original-1366"></a>I motion to the bartender.
+> <a id="original-1366"></a><small>[Frase 1366](#lugar-1366)</small>
 >
-> <small>[Frase 1366](#lugar-1366)</small>
+> I motion to the bartender.
 
-> <a id="original-1368"></a>He’s bald, he’s wearing a gray jacket, he could be the guy who sold me my first pint back in 1966.
+> <a id="original-1368"></a><small>[Frase 1368](#lugar-1368)</small>
 >
-> <small>[Frase 1368](#lugar-1368)</small>
+> He’s bald, he’s wearing a gray jacket, he could be the guy who sold me my first pint back in 1966.
 
-> <a id="original-1380"></a>She said nothing to Ethelyn and nothing to David and me.
+> <a id="original-1380"></a><small>[Frase 1380](#lugar-1380)</small>
 >
-> <small>[Frase 1380](#lugar-1380)</small>
+> She said nothing to Ethelyn and nothing to David and me.
 
-> <a id="original-1387"></a>I think Nellie Ruth Pillsbury King, who once dumped a bowl of Jell-O on the floor and then danced in it while her two boys lay collapsed in the corner, screaming with laughter, actually died of embarrassment.
+> <a id="original-1387"></a><small>[Frase 1387](#lugar-1387)</small>
 >
-> <small>[Frase 1387](#lugar-1387)</small>
+> I think Nellie Ruth Pillsbury King, who once dumped a bowl of Jell-O on the floor and then danced in it while her two boys lay collapsed in the corner, screaming with laughter, actually died of embarrassment.
 
-> <a id="original-1393"></a>Dave woke me at 6:15 in the morning, calling softly through the door that he thought she was going.
+> <a id="original-1393"></a><small>[Frase 1393](#lugar-1393)</small>
 >
-> <small>[Frase 1393](#lugar-1393)</small>
+> Dave woke me at 6:15 in the morning, calling softly through the door that he thought she was going.
 
-> <a id="original-1413"></a>We could hear the pause after each rasping breath she drew growing longer and longer.
+> <a id="original-1413"></a><small>[Frase 1413](#lugar-1413)</small>
 >
-> <small>[Frase 1413](#lugar-1413)</small>
+> We could hear the pause after each rasping breath she drew growing longer and longer.
 
-> <a id="original-1415"></a>My mother was buried out of the Congregational Church at Southwest Bend; the church she’d attended in Methodist Corners, where my brother and I grew up, was closed because of the cold.
+> <a id="original-1415"></a><small>[Frase 1415](#lugar-1415)</small>
 >
-> <small>[Frase 1415](#lugar-1415)</small>
+> My mother was buried out of the Congregational Church at Southwest Bend; the church she’d attended in Methodist Corners, where my brother and I grew up, was closed because of the cold.
 
-> <a id="original-1429"></a>One Thursday night I went out there to toss in a few dead soldiers and saw that this container, which had been empty on Monday night, was now almost full.
+> <a id="original-1429"></a><small>[Frase 1429](#lugar-1429)</small>
 >
-> <small>[Frase 1429](#lugar-1429)</small>
+> One Thursday night I went out there to toss in a few dead soldiers and saw that this container, which had been empty on Monday night, was now almost full.
 
-> <a id="original-1446"></a>My nights during the last five years of my drinking always ended with the same ritual: I’d pour any beers left in the refrigerator down the sink.
+> <a id="original-1446"></a><small>[Frase 1446](#lugar-1446)</small>
 >
-> <small>[Frase 1446](#lugar-1446)</small>
+> My nights during the last five years of my drinking always ended with the same ritual: I’d pour any beers left in the refrigerator down the sink.
 
-> <a id="original-1450"></a>By 1985 I had added drug addiction to my alcohol problem, yet I continued to function, as a good many substance abusers do, on a marginally competent level.
+> <a id="original-1450"></a><small>[Frase 1450](#lugar-1450)</small>
 >
-> <small>[Frase 1450](#lugar-1450)</small>
+> By 1985 I had added drug addiction to my alcohol problem, yet I continued to function, as a good many substance abusers do, on a marginally competent level.
 
-> <a id="original-1470"></a>She organized an intervention group formed of family and friends, and I was treated to a kind of This Is Your Life in hell.
+> <a id="original-1470"></a><small>[Frase 1470](#lugar-1470)</small>
 >
-> <small>[Frase 1470](#lugar-1470)</small>
+> She organized an intervention group formed of family and friends, and I was treated to a kind of This Is Your Life in hell.
 
-> <a id="original-1476"></a>The point of this intervention, which was certainly as unpleasant for my wife and kids and friends as it was for me, was that I was dying in front of them.
+> <a id="original-1476"></a><small>[Frase 1476](#lugar-1476)</small>
 >
-> <small>[Frase 1476](#lugar-1476)</small>
+> The point of this intervention, which was certainly as unpleasant for my wife and kids and friends as it was for me, was that I was dying in front of them.
 
-> <a id="original-1477"></a>Tabby said I had my choice: I could get help at a rehab or I could get the hell out of the house.
+> <a id="original-1477"></a><small>[Frase 1477](#lugar-1477)</small>
 >
-> <small>[Frase 1477](#lugar-1477)</small>
+> Tabby said I had my choice: I could get help at a rehab or I could get the hell out of the house.
 
-> <a id="original-1515"></a>I came back to my family with gratitude, and back to my work with relief—I came back to it the way folks come back to a summer cottage after a long winter, checking first to make sure nothing has been stolen or broken during the cold season.
+> <a id="original-1515"></a><small>[Frase 1515](#lugar-1515)</small>
 >
-> <small>[Frase 1515](#lugar-1515)</small>
+> I came back to my family with gratitude, and back to my work with relief—I came back to it the way folks come back to a summer cottage after a long winter, checking first to make sure nothing has been stolen or broken during the cold season.
 
-> <a id="original-1520"></a>For years I dreamed of having the sort of massive oak slab that would dominate a room—no more child’s desk in a trailer laundry-closet, no more cramped kneehole in a rented house.
+> <a id="original-1520"></a><small>[Frase 1520](#lugar-1520)</small>
 >
-> <small>[Frase 1520](#lugar-1520)</small>
+> For years I dreamed of having the sort of massive oak slab that would dominate a room—no more child’s desk in a trailer laundry-closet, no more cramped kneehole in a rented house.
 
-> <a id="original-1525"></a>They usually left a boxful of crusts behind when they moved on, but I didn’t care.
+> <a id="original-1525"></a><small>[Frase 1525](#lugar-1525)</small>
 >
-> <small>[Frase 1525](#lugar-1525)</small>
+> They usually left a boxful of crusts behind when they moved on, but I didn’t care.
 
-> <a id="original-1528"></a>I put it at the far west end of the office, in a corner under the eave.
+> <a id="original-1528"></a><small>[Frase 1528](#lugar-1528)</small>
 >
-> <small>[Frase 1528](#lugar-1528)</small>
+> I put it at the far west end of the office, in a corner under the eave.
 
 © 2026 Osmancito
 
