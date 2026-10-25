@@ -8,7 +8,7 @@
 
 Se divide en tres partes: «Waves and Radiation» («Ondas y Radiación»), «The Airborne Toxic Event» («El Evento Tóxico en el Aire») y «Dylarama». Suman cuarenta capítulos numerados, y ninguno trae título; aquí cada uno recibe el suyo. La cuenta Jack Gladney, profesor universitario; el primer capítulo todavía no dice su nombre.
 
-Esta lectura recorre la novela capítulo a capítulo. De cada capítulo toma las frases que más pesan según una cuenta que se explica al final, las pasa al castellano y las une con textos propios: puentes, que cuentan lo que pasa entre una frase y otra, y glosas, que explican lo que un lector nuevo necesita. Las frases en inglés están al final, en «Los Originales». Obra en curso: por ahora están los capítulos 1 y 2; los demás se agregan a medida que se revisan, y esta página se actualiza en el mismo lugar.
+Esta lectura recorre la novela capítulo a capítulo. De cada capítulo toma las frases que más pesan, las pasa al castellano y las une con textos propios: puentes, que cuentan lo que pasa entre una frase y otra, y glosas, que explican lo que un lector nuevo necesita. Las frases en inglés están al final, en «Los Originales». Obra en curso: por ahora están los capítulos 1 y 2; los demás se agregan a medida que se revisan, y esta página se actualiza en el mismo lugar.
 
 Empieza la Parte I, «Waves and Radiation», con su capítulo 1.
 
@@ -75,34 +75,6 @@ Las cosas guardadas pesan con tristeza. En el almuerzo hay ruido y desorden; Hei
 > [Frase 110](#original-110)
 
 Algo acechaba dentro de la verdad, dijo ella. Suena la alarma de humo arriba y terminan el almuerzo en silencio.
-
----
-
-## Cómo Se Eligieron las Frases
-
-### Capítulo 1
-
-Cada frase del capítulo vale un punto, que se reparte en partes iguales entre sus puestos. Un puesto es un sujeto o un objeto de una cláusula, es decir, de una parte de la frase con su propio verbo o su propio sujeto.
-
-Contaron los sujetos y los objetos de las cláusulas principales y subordinadas, incluidas las que tienen sujeto sin verbo conjugado («the women crisp and alert», «cars parked illegally»). En una pasiva, quien hace la acción cuenta como objeto. Quedaron fuera los verbos, los expletivos («there are»), las referencias vacías («that», «what», «something», el «it» del clima), los complementos con preposición y los atributos («a brilliant event»). Los fragmentos sin cláusula, como «The conscientious suntans.», no tienen puestos y valen cero.
-
-Los alias se unificaron por referente. «I», «me» y «my» son el narrador. «This assembly of station wagons», «they» en la frase 2 y los «cars» que llegan son las mismas camionetas. «They» y «their» siguen a las personas a las que apuntan en cada frase. «The chancellor» y «he» son el rector. «Hitler studies», «a whole department» e «it» en la frase 26 son el departamento. «We» apunta a un grupo, y el grupo es su propio nodo: el narrador y el rector en la frase 25.
-
-Cada nodo, es decir, cada persona o cosa a la que apuntan uno o varios puestos, suma lo que cobra en todas las frases; cada frase pesa la suma de los pesos de sus nodos distintos. Los nodos que más sumaron fueron el narrador (3,00 puntos), las camionetas (2,50), los padres (1,92), el departamento de estudios sobre Hitler (1,67), los estudiantes (1,50), el espectáculo de la llegada (1,50) y el rector (1,33).
-
-Se tomaron las frases de más peso hasta cubrir el diez por ciento de las palabras del capítulo, 59 de 591. Con ese orden entraron la 25 (25 palabras), la 23 (11) y la 5 (9), que suman 45, todavía menos de 59; con la 15 (42 palabras), cuarta en el ranking, se pasa del diez por ciento: 87 palabras, el 14,7 % del capítulo. La que sigue, la 4, pesa 4,25 contra 4,42 de la 15, y queda fuera. Ninguna frase empata en el corte.
-
-Una frase es un tramo del texto que termina en punto, interrogación o exclamación; el verso de un diálogo cuenta como frase propia, y la etiqueta de quien habla («Babette said») queda unida a la cita que acompaña. La unidad fuente de este capítulo es el capítulo entero, porque la novela ya lo trae separado y numerado; otras partes pueden dividirse de otra manera, y cada una se puntúa por sí sola.
-
-### Capítulo 2
-
-Se contó igual que en el capítulo 1. Los alias se unificaron por referente: «I», «me» y «my» son el narrador, Jack; «she», «her» y Babette son Babette; «they» sigue a quien señala en cada frase, ya sean los padres de las camionetas o las cosas guardadas de la casa. «We» apunta a un grupo, y cada grupo es su propio nodo: el narrador y Babette en la frase 66, o quienes almuerzan en las frases 79, 81, 82 y 83. Los fragmentos sin puestos, como «Where?» o «Things, boxes.», valen cero.
-
-Los nodos que más sumaron fueron Babette (17,78 puntos), el narrador (6,59), los padres de las camionetas (3,83), el grupo del almuerzo (3,25), Treadwell, el anciano al que ella lee (3,00), la comida (2,80) y Denise (2,78).
-
-Se tomaron las frases de más peso hasta cubrir el diez por ciento de las palabras del capítulo, 106 de 1.056. Con ese orden entraron la 73 (42 palabras), la 55 (41) y la 110 (20), que suman 103, todavía menos de 106; con la 71 (9 palabras), cuarta en el ranking, se pasa del diez por ciento: 112 palabras, el 10,6 % del capítulo. La que sigue, la 54, pesa 24,58 contra 24,71 de la 71, y queda fuera. Ninguna frase empata en el corte.
-
-La unidad fuente de este capítulo es el capítulo entero, igual que el capítulo 1.
 
 ---
 
