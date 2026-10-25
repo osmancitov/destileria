@@ -58,7 +58,7 @@ Los alias se unificaron por referente. «I», «me» y «my» son el narrador. �
 
 Cada nodo, es decir, cada persona o cosa a la que apuntan uno o varios puestos, suma lo que cobra en todas las frases; cada frase pesa la suma de los pesos de sus nodos distintos. Los nodos que más sumaron fueron el narrador (3,00 puntos), las camionetas (2,50), los padres (1,92), el departamento de estudios sobre Hitler (1,67), los estudiantes (1,50), el espectáculo de la llegada (1,50) y el rector (1,33).
 
-Se tomaron las frases de más peso hasta cubrir el diez por ciento de las palabras del capítulo, 59 de 591. Con ese orden entraron la 25 (25 palabras), la 23 (11) y la 5 (9), que suman 45, todavía menos de 59; con la 15 (42 palabras), cuarta en el ranking, se pasa del diez por ciento: 87 palabras, el 14,7 % del capítulo. La que sigue, la 4, pesa 4,25 contra 4,42 de la 15, y queda fuera. Ninguna frase empata en el corte
+Se tomaron las frases de más peso hasta cubrir el diez por ciento de las palabras del capítulo, 59 de 591. Con ese orden entraron la 25 (25 palabras), la 23 (11) y la 5 (9), que suman 45, todavía menos de 59; con la 15 (42 palabras), cuarta en el ranking, se pasa del diez por ciento: 87 palabras, el 14,7 % del capítulo. La que sigue, la 4, pesa 4,25 contra 4,42 de la 15, y queda fuera. Ninguna frase empata en el corte.
 
 Una frase es un tramo del texto que termina en punto, interrogación o exclamación; el verso de un diálogo cuenta como frase propia, y la etiqueta de quien habla («Babette said») queda unida a la cita que acompaña. La unidad fuente de este capítulo es el capítulo entero, porque la novela ya lo trae separado y numerado; otras partes pueden dividirse de otra manera, y cada una se puntúa por sí sola.
 
