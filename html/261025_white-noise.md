@@ -8,7 +8,7 @@
 
 Se divide en tres partes: «Waves and Radiation» («Ondas y Radiación»), «The Airborne Toxic Event» («El Evento Tóxico en el Aire») y «Dylarama». Suman cuarenta capítulos numerados, y ninguno trae título; aquí cada uno recibe el suyo. La cuenta Jack Gladney, profesor universitario; el primer capítulo todavía no dice su nombre.
 
-Esta lectura recorre la novela capítulo a capítulo. De cada capítulo toma las frases que más pesan, las pasa al castellano y las une con textos propios: puentes, que cuentan lo que pasa entre una frase y otra, y glosas, que explican lo que un lector nuevo necesita. Las frases en inglés están al final, en «Los Originales». Obra en curso: por ahora están los capítulos 1 y 2; los demás se agregan a medida que se revisan, y esta página se actualiza en el mismo lugar.
+Esta lectura recorre la novela capítulo a capítulo. De cada capítulo toma las frases que más pesan, las pasa al castellano y las une con textos propios: puentes, que cuentan lo que pasa entre una frase y otra, y glosas, que explican lo que un lector nuevo necesita. Las frases en inglés están al final, en «Los Originales». Obra en curso: por ahora están los capítulos 1, 2 y 3; los demás se agregan a medida que se revisan, y esta página se actualiza en el mismo lugar.
 
 Empieza la Parte I, «Waves and Radiation», con su capítulo 1.
 
@@ -78,9 +78,76 @@ Algo acechaba dentro de la verdad, dijo ella. Suena la alarma de humo arriba y t
 
 ---
 
+### Capítulo 3: El Granero Fotografiado
+
+[![Óleo impresionista, al estilo de Camille Pissarro: entre manzanos, una fila de fotógrafos con trípodes mira un granero rojo en la loma; dos hombres de espaldas observan junto a un cartel que dice «El granero más fotografiado de América», y una mujer vende postales en un puesto de madera; al fondo, un autobús y varios autos.](../img/261025_white-noise_el-granero-fotografiado.jpg)](../img/261025_white-noise_el-granero-fotografiado.jpg)
+
+Los jefes de departamento usan togas académicas en el College-on-the-Hill. El departamento de Jack comparte edificio con el de cultura popular, cuyos profesores, casi todos emigrados de Nueva York, estudian los placeres brillantes de la cultura. Jack cuenta:
+
+> Una excepción a parte de lo anterior es Murray Jay Siskind, un ex periodista deportivo que me pidió almorzar con él en el comedor, donde el olor institucional de una comida vagamente definida despertó en mí un recuerdo oscuro y sombrío.
+> [Frase 131](#original-131)
+
+Murray es nuevo, encorvado y de barba amish; da clases sobre íconos vivos. Quiere huir de las ciudades y vive en una casa de huéspedes llena de pensionistas misteriosos. Jack le pregunta:
+
+> «¿Cuál eres tú?», dije.
+> [Frase 168](#original-168)
+
+Murray contesta que es el judío. Jack nota que viste casi todo de pana:
+
+> Tuve la sensación de que desde los once años, en su atestado terreno de cemento, había asociado esta tela resistente con la educación superior en algún lugar imposiblemente lejano y sombreado de árboles.
+> [Frase 172](#original-172)
+
+Murray dice que es feliz en un pueblo llamado Blacksmith, donde evita situaciones:
+
+> Hay partes de mi cuerpo que ya no animo a las mujeres a tocar con libertad.
+> [Frase 176](#original-176)
+
+Murray cuenta que en Detroit una mujer necesitaba su semen para un juicio de divorcio.
+
+> La ironía es que amo a las mujeres.
+> [Frase 179](#original-179)
+
+Murray se deshace ante unas piernas largas, pero lo que ansía son sus mentes.
+
+> La tercera ironía, relacionada, es que son las mujeres más complejas, neuróticas y difíciles las que me atraen invariablemente.
+> [Frase 186](#original-186)
+
+> Me gustan los hombres simples y las mujeres complicadas.
+> [Frase 187](#original-187)
+
+Murray elogia lo que Jack ha creado en torno a Hitler: un sistema entero de estudios sobre esa figura, que dio fama al college. Dice:
+
+> Es lo que quiero hacer con Elvis.
+> [Frase 204](#original-204)
+
+Elvis Presley (1935-1977) fue un cantante estadounidense, una de las grandes estrellas de la música popular.
+
+> Varios días después, Murray me preguntó por una atracción turística conocida como el granero más fotografiado de América.
+> [Frase 205](#original-205)
+
+Jack y Murray fueron en auto veintidós millas hasta un mirador lleno de fotógrafos, entre carteles; un hombre vendía postales. Murray callaba y anotaba.
+
+> «Nadie ve el granero», dijo por fin.
+> [Frase 218](#original-218)
+
+Murray dice que, tras ver los carteles, es imposible ver el granero: los turistas no capturan una imagen, la mantienen. Luego pregunta:
+
+> «¿Cómo era el granero antes de ser fotografiado?», dijo.
+> [Frase 239](#original-239)
+
+Murray concluye que no pueden salir del aura, la energía sin nombre que rodea al granero. A Jack le parece muy contento.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
+
+### Capítulo 1: Las Camionetas
+
+Los nodos que más pesan: el narrador, las camionetas, los padres, el departamento de estudios sobre Hitler, y, empatados, los estudiantes y el espectáculo de la llegada.
+
+Verbos: «be» aparece 14 veces, 23,7 % de los 59 verbos del capítulo. Siguen, con 2 cada uno, «have», «see», «suggest» y «might».
 
 > [Frase 5](#lugar-5)
 > I've witnessed this spectacle every September for twenty-one years.
@@ -94,6 +161,14 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 25](#lugar-25)
 > When I suggested to the chancellor that we might build a whole department around Hitler's life and work, he was quick to see the possibilities.
 
+---
+
+### Capítulo 2: Babette en la Cocina
+
+Los nodos que más pesan: Babette, el narrador, los padres de las camionetas, el grupo del almuerzo y Treadwell.
+
+Verbos: «be» aparece 45 veces, 21,8 % de los 206 verbos del capítulo. Siguen «say» (13), «have» (12), «do» (11) y «feel» (6).
+
 > [Frase 55](#lugar-55)
 > I watch her all the time doing things in measured sequence, skillfully, with seeming ease, unlike my former wives, who had a tendency to feel estranged from the objective world— a self-absorbed and high-strung bunch, with ties to the intelligence community.
 
@@ -105,6 +180,47 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 110](#lugar-110)
 > She said I made virtues of her flaws because it was my nature to shelter loved ones from the truth.
+
+---
+
+### Capítulo 3: El Granero Fotografiado
+
+Los nodos que más pesan: Murray, el «nosotros» de quienes miran el granero, el narrador, el calor y los estudios sobre Hitler.
+
+Verbos: «be» aparece 70 veces, 27,1 % de los 258 verbos del capítulo. Siguen «have» (15), «see» y «can» (8 cada uno) y «say» (6).
+
+> [Frase 131](#lugar-131)
+> An exception to some of the above is Murray Jay Siskind, an ex-sportswriter who asked me to have lunch with him in the dining room, where the institutional odor of vaguely defined food aroused in me an obscure and gloomy memory.
+
+> [Frase 168](#lugar-168)
+> "Which one are you?" I said.
+
+> [Frase 172](#lugar-172)
+> I had the feeling that since the age of eleven in his crowded plot of concrete he'd associated this sturdy fabric with higher learning in some impossibly distant and tree-shaded place.
+
+> [Frase 176](#lugar-176)
+> There are parts of my body I no longer encourage women to handle freely.
+
+> [Frase 179](#lugar-179)
+> The irony is that I love women.
+
+> [Frase 186](#lugar-186)
+> The third and related irony is that it's the most complex and neurotic and difficult women that I am invariably drawn to.
+
+> [Frase 187](#lugar-187)
+> I like simple men and complicated women."
+
+> [Frase 204](#lugar-204)
+> It's what I want to do with Elvis."
+
+> [Frase 205](#lugar-205)
+> Several days later Murray asked me about a tourist attraction known as the most photographed barn in America.
+
+> [Frase 218](#lugar-218)
+> "No one sees the barn," he said finally.
+
+> [Frase 239](#lugar-239)
+> "What was the barn like before it was photographed?" he said.
 
 © 2026 Osmancito
 
