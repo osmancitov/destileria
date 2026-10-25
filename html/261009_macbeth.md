@@ -12,7 +12,7 @@ Hacia 1606, William Shakespeare escribió *Macbeth*: el mejor general del rey Du
 
 [![Grabado en línea: tres brujas encapuchadas conspiran en un páramo desolado bajo un cielo de tormenta con un gran relámpago; niebla baja sobre el brezo y las rocas.](img/261009_macbeth_i-1.jpg)](img/261009_macbeth_i-1.jpg)
 
-Trueno y relámpago. Tres brujas se citan para cuando acabe la batalla: «¿Cuándo volveremos a encontrarnos las tres?», pregunta la primera, y esa es la primera frase de la obra. Ya tienen el dónde (el páramo) y les falta decir con quién:
+Trueno y relámpago: tres brujas fijan su próxima cita, para cuando acabe la batalla, y dicen con quién:
 
 > <a id="lugar-17"></a>Allí, a encontrarnos con Macbeth.
 >
@@ -22,7 +22,7 @@ Trueno y relámpago. Tres brujas se citan para cuando acabe la batalla: «¿Cuá
 
 Tercera bruja
 
-Es la primera vez que suena el nombre de Macbeth, y suena en boca de una bruja. Las llaman sus espíritus (un gato, un sapo) y se van entre la niebla, cantando el mundo al revés:
+Llaman a sus espíritus y se van entre la niebla:
 
 > <a id="lugar-25"></a>Lo bello es feo, y lo feo es bello: volemos entre la niebla y el aire inmundo.
 >
@@ -38,7 +38,7 @@ Las tres
 
 [![Grabado en línea: en un campamento con tiendas y estandartes escoceses, el viejo rey Duncan, coronado, se inclina hacia un soldado herido y ensangrentado que le habla con esfuerzo; príncipes y nobles escuchan.](img/261009_macbeth_i-2.jpg)](img/261009_macbeth_i-2.jpg)
 
-El rey Duncan, acampado junto a la batalla, ve llegar a un capitán herido: «¿Quién es ese hombre ensangrentado?», la primera frase de la escena. Por su estado, dice el rey, podrá dar las últimas noticias de la rebelión. El capitán empieza: la cosa estaba pareja, el rebelde Macdonwald recibía refuerzos de las islas, pero Macbeth lo abrió del ombligo a las quijadas y clavó su cabeza en las almenas. El rey lo oye maravillado:
+El rey Duncan recibe a un capitán herido, que cuenta cómo Macbeth venció al rebelde Macdonwald. El rey lo elogia:
 
 > <a id="lugar-52"></a>Tus palabras te sientan tan bien como tus heridas: ambas saben a honor.
 >
@@ -48,7 +48,7 @@ El rey Duncan, acampado junto a la batalla, ve llegar a un capitán herido: «¿
 
 Duncan
 
-Apenas contada esa hazaña, el capitán trae la mala: ganada la primera pelea, vino otra:
+Pero llegaron nuevos ataques de Noruega:
 
 > <a id="lugar-45"></a>Atienda, rey de Escocia, atienda. Apenas la justicia, armada de valor, obligó a esos kernos saltarines a fiar en sus talones, el señor noruego, viendo su ocasión, con armas bruñidas y nuevos refuerzos de hombres, lanzó un nuevo asalto.
 >
@@ -58,7 +58,7 @@ Apenas contada esa hazaña, el capitán trae la mala: ganada la primera pelea, v
 
 Capitán
 
-¿Se acobardaron Macbeth y Banquo? Al contrario, dice el capitán: como cañones cargados al doble. Entra Ross con la prisa en los ojos («Así ha de mirar quien viene a contar cosas extrañas», anota Lennox) y confirma la victoria: Noruega pide la paz y pagará diez mil dólares por enterrar a sus muertos. Queda el thane de Cawdor, el señor que resultó traidor, y de él se ocupa el rey:
+Macbeth y Banquo resistieron. Ross confirma la victoria, Noruega pide la paz y el rey castiga al traidor, el thane de Cawdor:
 
 > <a id="lugar-74"></a>Ese thane de Cawdor no volverá a engañar nuestra más íntima confianza.
 >
@@ -68,7 +68,7 @@ Capitán
 
 Duncan
 
-Sentenciado el traidor, su título viaja hacia Macbeth sin que él lo sepa todavía: «Lo que él ha perdido, el noble Macbeth lo ha ganado». Es la última frase de la escena, y suena a profecía.
+Su título pasará a Macbeth, que aún no lo sabe.
 
 ---
 
@@ -76,7 +76,7 @@ Sentenciado el traidor, su título viaja hacia Macbeth sin que él lo sepa todav
 
 [![Grabado en línea: en un páramo de niebla y brezo bajo un cielo de tormenta con un gran relámpago, tres brujas encapuchadas con un dedo en los labios saludan a dos capitanes medievales; Macbeth se estremece y Banquo las señala.](img/261009_macbeth_i-3.jpg)](img/261009_macbeth_i-3.jpg)
 
-Las tres brujas vuelven a encontrarse («¿Dónde has estado, hermana?», se preguntan, y esa es la primera frase de la escena) y se cuentan sus travesuras. Una le pidió castañas a la mujer de un marinero, la mujer la despachó a gritos, y la bruja juró vengarse del marido, que zarpó rumbo a Alepo: lo perseguirá navegando en un colador, lo secará como heno, no lo dejará dormir. Enseña un trofeo: el pulgar de un piloto naufragado. Suena un tambor:
+Las tres brujas se cuentan sus travesuras: una persigue a un marinero porque su mujer le negó unas castañas, y muestra el pulgar de un piloto naufragado. Suena un tambor:
 
 > <a id="lugar-113"></a>Llega Macbeth.
 >
@@ -86,7 +86,7 @@ Las tres brujas vuelven a encontrarse («¿Dónde has estado, hermana?», se pre
 
 Tercera bruja
 
-Entran Macbeth y Banquo, de vuelta de la batalla, y la primera frase de Macbeth las imita sin saberlo: «Nunca vi un día tan feo y tan bello». Banquo descubre a las tres (marchitas, vestidas raro, con barba: «Deberíais ser mujeres, y sin embargo vuestras barbas me impiden afirmar que lo sois») y Macbeth les ordena hablar. Ellas saludan: «Salve, Macbeth, thane de Glamis», que ya es; «salve, Macbeth, thane de Cawdor», que no sabe que es; y la tercera remata:
+Entran Macbeth y Banquo. Las brujas lo saludan como thane de Glamis, que ya es, y como thane de Cawdor, que aún no sabe que es. La tercera añade:
 
 > <a id="lugar-138"></a>¡Tú que serás rey después!
 >
@@ -96,7 +96,7 @@ Entran Macbeth y Banquo, de vuelta de la batalla, y la primera frase de Macbeth 
 
 Tercera bruja
 
-Macbeth se estremece («Mi buen señor, ¿por qué os sobresaltáis y parecéis temer cosas que suenan tan bien?», le dice Banquo). Banquo les pide su parte: si pueden mirar las semillas del tiempo y decir cuál grano crecerá y cuál no, que hablen para él, que ni mendiga ni teme sus favores ni su odio. Ellas responden con acertijos: «No tan feliz, y mucho más feliz», «Engendrarás reyes, aunque no lo seas». Y la primera:
+Banquo pide que le hablen a él también, y ellas responden con acertijos:
 
 > <a id="lugar-152"></a>Menor que Macbeth, y mayor.
 >
@@ -106,7 +106,7 @@ Macbeth se estremece («Mi buen señor, ¿por qué os sobresaltáis y parecéis 
 
 Primera bruja
 
-Macbeth quiere más («Hablad, os lo ordeno») y se disuelven en el aire. «La tierra tiene burbujas, como el agua», dice Banquo: ¿existieron de verdad, o comieron la raíz loca que aprisiona la razón? Se repiten uno al otro lo oído («Tus hijos serán reyes», «Tú serás rey»), y llegan Ross y Angus con el agradecimiento del rey y un título nuevo:
+Se disuelven en el aire. Llegan Ross y Angus con el agradecimiento del rey y un título nuevo:
 
 > <a id="lugar-192"></a>Y como prenda de un honor mayor, me mandó que de su parte te llame thane de Cawdor. Con ese título, salve, digno thane, pues es tuyo.
 >
@@ -116,7 +116,7 @@ Macbeth quiere más («Hablad, os lo ordeno») y se disuelven en el aire. «La t
 
 Ross
 
-«¿Puede el diablo decir verdad?», se asombra Banquo. El thane de Cawdor vive todavía, pero confesó su traición y la pagará. Macbeth se mira el título como un traje prestado («¿Por qué me vestís con ropas prestadas?»), y luego, a solas, se le escapa lo que la profecía le está haciendo por dentro:
+Banquo se asombra de que el diablo diga verdad. El thane de Cawdor aún vive, pero será ejecutado. Macbeth, a solas, siente lo que la profecía le hace por dentro:
 
 > <a id="lugar-219"></a>Soy thane de Cawdor. Si es bueno, ¿por qué cedo a esa sugestión cuya imagen horrible me eriza el cabello y hace que mi corazón sentado golpee contra mis costillas, contra el uso de la naturaleza?
 >
@@ -126,7 +126,7 @@ Ross
 
 Macbeth
 
-Dos verdades se cumplieron ya, y lo mayor «viene detrás». Decide no mover un dedo: «Si el azar quiere que yo sea rey, el azar podrá coronarme sin que yo me mueva». Banquo advierte en voz baja que los instrumentos de la oscuridad suelen decir verdades pequeñas para traicionar en lo hondo. Macbeth corta: «Vayamos hacia el Rey», y la última frase es suya: «Venid, amigos».
+Decide esperar a que el azar lo corone. Banquo advierte que lo oscuro dice verdades pequeñas para traicionar en lo grande. Macbeth lo corta y se van hacia el rey.
 
 ---
 
@@ -134,7 +134,7 @@ Dos verdades se cumplieron ya, y lo mayor «viene detrás». Decide no mover un 
 
 [![Grabado en línea: en un salón medieval iluminado por antorchas, el anciano rey Duncan, coronado y de barba blanca, proclama príncipe a su hijo Malcolm, arrodillado; en un costado, en penumbra, Macbeth con armadura baja la mirada sombrío.](img/261009_macbeth_i-4.jpg)](img/261009_macbeth_i-4.jpg)
 
-En el palacio de Forres, el rey pregunta: «¿Se ha hecho la ejecución de Cawdor?», la primera frase de la escena. Malcolm responde con lo que le contó un testigo: el traidor confesó, pidió perdón y murió muy entero:
+En el palacio de Forres, Malcolm cuenta que el traidor Cawdor confesó y murió con entereza:
 
 > <a id="lugar-254"></a>Nada en su vida le sentó tan bien como dejarla; murió como quien hubiera estudiado su muerte, para arrojar lo más caro que poseía como una bagatela sin importancia.
 >
@@ -144,7 +144,7 @@ En el palacio de Forres, el rey pregunta: «¿Se ha hecho la ejecución de Cawdo
 
 Malcolm
 
-Duncan suspira: «No hay arte que permita hallar en el rostro la construcción del alma: era un caballero en quien yo puse una confianza absoluta». En eso entra Macbeth, el nuevo Cawdor, y el rey se le echa encima de gratitud: no alcanzan las alas del premio para cogerlo; ha plantado a Macbeth y Banquo y piensa hacerlos crecer. Y entonces anuncia que el reino quedará fundado sobre su primogénito, Malcolm, «a quien llamaremos desde ahora príncipe de Cumberland». La corte aplaude. Macbeth, a solas, ve el obstáculo:
+Duncan se lamenta de haberse fiado de él. Entra Macbeth, el nuevo Cawdor, y el rey lo colma de gratitud y nombra heredero a su hijo Malcolm. Macbeth, a solas, ve el obstáculo:
 
 > <a id="lugar-282"></a>Ese es un escalón en el que he de caer, o bien saltar por encima, pues está en mi camino.
 >
@@ -154,7 +154,7 @@ Duncan suspira: «No hay arte que permita hallar en el rostro la construcción d
 
 Macbeth
 
-«Estrellas, esconded vuestros fuegos; que la luz no vea mis negros y profundos deseos». Cierra la escena el rey, sin sospechar nada: «Sigámoslo, que su cuidado se ha adelantado para darnos la bienvenida. Es un pariente sin igual». Van todos a dormir a casa de Macbeth.
+Pide a las estrellas que escondan su luz. El rey lo elogia sin sospechar nada y todos parten a su casa.
 
 ---
 
@@ -162,7 +162,7 @@ Macbeth
 
 [![Grabado en línea: Lady Macbeth, en un aposento de castillo a la luz de una vela, sostiene una carta y alza el brazo invocando a los espíritus que se arremolinan en el techo; un cuervo grazna en la ventana.](img/261009_macbeth_i-5.jpg)](img/261009_macbeth_i-5.jpg)
 
-En Inverness, Lady Macbeth lee la carta de su marido (la primera frase de la escena es de la carta: «Me encontraron el día del éxito»): las brujas lo saludaron thane de Cawdor y «salve, rey que serás». Ella lo celebra y lo teme: «Pero temo tu naturaleza: está demasiado llena de la leche de la bondad humana para tomar el camino más corto». Quiere tenerlo ya al lado:
+En Inverness, Lady Macbeth lee la carta de su marido, que cuenta la profecía de las brujas. Teme que sea demasiado bondadoso para el camino corto, y quiere tenerlo a su lado:
 
 > <a id="lugar-306"></a>Date prisa en venir, para que vierta mis espíritus en tu oído y castigue con el valor de mi lengua todo cuanto te aparta del círculo de oro con que el destino y la ayuda sobrenatural parecen querer coronarte.
 >
@@ -172,7 +172,7 @@ En Inverness, Lady Macbeth lee la carta de su marido (la primera frase de la esc
 
 Lady Macbeth
 
-Llega un mensajero: el rey viene esta noche («¡Estás loco de decirlo!», responde ella). Sola, oye graznar al cuervo la entrada fatal de Duncan bajo sus almenas y pide a los espíritus que la dessexen («quitadme aquí el sexo»), que le cambien la leche por hiel, que la noche cubra el cuchillo para que el cielo no grite «¡Detente!». Llega Macbeth. Ella lo recibe ya coronado («¡Grande Glamis, digno Cawdor, mayor que ambos por el salve del porvenir!»), él dice que Duncan se va mañana, y ella: «¡Oh, nunca verá el sol ese mañana!». Y le da su primera lección de hipocresía:
+Un mensajero anuncia que el rey llega esta noche. Sola, ella pide a los espíritus que la despojen de toda ternura. Llega Macbeth, y ella le da su primera lección:
 
 > <a id="lugar-340"></a>Tu rostro, mi thane, es como un libro donde los hombres pueden leer cosas extrañas.
 >
@@ -182,7 +182,7 @@ Llega un mensajero: el rey viene esta noche («¡Estás loco de decirlo!», resp
 
 Lady Macbeth
 
-«Parece la flor inocente, pero sé la serpiente que hay debajo», y toma el mando de la noche:
+Y toma el mando de la noche:
 
 > <a id="lugar-342"></a>Al que viene hay que proveerlo; y tú pondrás el gran asunto de esta noche en mis manos, que a todas nuestras noches y días por venir dará solo soberanía y señorío.
 >
@@ -192,7 +192,7 @@ Lady Macbeth
 
 Lady Macbeth
 
-Macbeth balbucea «hablaremos después». La última frase es de ella: «Déjame todo lo demás a mí».
+Macbeth duda; ella le pide que le deje todo a ella.
 
 ---
 
@@ -200,7 +200,7 @@ Macbeth balbucea «hablaremos después». La última frase es de ella: «Déjame
 
 [![Grabado en línea: al atardecer, el anciano rey Duncan llega a caballo con su séquito y antorchas a un castillo de torres con vencejos en las almenas; Lady Macbeth lo recibe con una reverencia en el umbral.](img/261009_macbeth_i-6.jpg)](img/261009_macbeth_i-6.jpg)
 
-Ante el castillo. «Este castillo tiene un asiento agradable», dice el rey, la primera frase de la escena, y Banquo le señala los vencejos que anidan en cada saliente y alero: donde ese pájaro cría, el aire es delicado. Todo lo que ven es dulce, y todo es trampa. Sale a recibirlos la anfitriona, con reverencias dobles y palabras de casa honrada. El rey le da la mano:
+Duncan llega al castillo y admira su aire sereno, mientras Banquo señala los nidos de vencejo. Sale a recibirlos la anfitriona:
 
 > <a id="lugar-368"></a>Bella y noble anfitriona, esta noche somos vuestro huésped.
 >
@@ -210,7 +210,7 @@ Ante el castillo. «Este castillo tiene un asiento agradable», dice el rey, la 
 
 Duncan
 
-Ella responde que todo lo que tienen, y ellos mismos, es del rey y se lo devuelven en cuenta. Duncan pide que lo lleve con su anfitrión, al que quiere mucho, y la escena cierra con su despedida: «Con vuestro permiso, anfitriona».
+Ella ofrece todo al rey, que le pide que lo lleve con su marido.
 
 ---
 
@@ -218,7 +218,7 @@ Ella responde que todo lo que tienen, y ellos mismos, es del rey y se lo devuelv
 
 [![Grabado en línea: en un pasillo del castillo entre antorchas, Macbeth, pálido y con la daga en la mano, duda, mientras Lady Macbeth emerge de las sombras a su espalda y le señala una puerta de madera.](img/261009_macbeth_i-7.jpg)](img/261009_macbeth_i-7.jpg)
 
-Mientras dentro se cena, Macbeth se queda solo sopesando el golpe: «Si estuviera hecho cuando está hecho, entonces estaría bien que se hiciera pronto», la primera frase de la escena. Pero no hay golpe sin consecuencia: quien enseña el crimen aprende de vuelta. Duncan está bajo su techo en doble confianza, la de pariente y la de anfitrión. Y encima:
+Mientras dentro se cena, Macbeth duda a solas: el crimen se vuelve contra quien lo comete, y Duncan está en su casa como pariente y como huésped. Además:
 
 > <a id="lugar-383"></a>Además, este Duncan ha llevado su poder con tanta mansedumbre, ha sido tan limpio en su alto oficio, que sus virtudes abogarán como ángeles, con lenguas de trompeta, contra la honda condenación de su muerte; y la piedad, como un niño recién nacido y desnudo, cabalgando la ráfaga, o como querubines del cielo montados en los corceles invisibles del aire, soplará el horrendo acto en todos los ojos, hasta que las lágrimas ahoguen el viento.
 >
@@ -228,7 +228,7 @@ Mientras dentro se cena, Macbeth se queda solo sopesando el golpe: «Si estuvier
 
 Macbeth
 
-«No tengo espuela que pique los costados de mi intención, solo la ambición trepadora, que salta demasiado alto y cae del otro lado». Llega ella: el rey ya casi ha cenado. Él se retira: «No iremos más lejos en este asunto», y ella empieza a molerlo: ¿era la esperanza borracha? ¿así es su amor? ¿dejará «no me atrevo» esperando sobre «yo quisiera», como el pobre gato del refrán? Él pide paz: «Me atrevo a todo lo que le cabe a un hombre». Ella contesta:
+Solo lo empuja la ambición. Llega ella y él se echa atrás; ella lo acusa de cobarde. Él dice que se atreve a todo lo que cabe a un hombre. Ella responde:
 
 > <a id="lugar-409"></a>Cuando te atrevías a hacerlo, entonces eras un hombre; y para ser más de lo que eras, serías tanto más hombre.
 >
@@ -238,7 +238,7 @@ Macbeth
 
 Lady Macbeth
 
-Y remata: ella ha amamantado, y aun así le arrancaría el pezón de las encías a su bebé sonriente y le estrellaría los sesos, si lo hubiera jurado como él juró esto. «¿Y si fallamos?», pregunta él. «Atornilla tu valor hasta el punto justo, y no fallaremos»: el plan es emborrachar a los dos camareros del rey, dejarlo solo y echarles la culpa con sus propias dagas. Macbeth queda rendido («Trae al mundo solo hijos varones, pues tu temple intrépido no debe engendrar sino hombres») y resuelto:
+Si lo hubiera jurado, dice ella, le estrellaría los sesos a su propio bebé. Propone emborrachar a los guardias del rey y culparlos con sus dagas. Macbeth queda resuelto:
 
 > <a id="lugar-425"></a>Estoy decidido, y tenso cada agente de mi cuerpo para esta terrible hazaña.
 >
@@ -248,7 +248,7 @@ Y remata: ella ha amamantado, y aun así le arrancaría el pezón de las encías
 
 Macbeth
 
-Y salen a cenar. La última frase es suya: «Vamos, y burlemos al tiempo con la apariencia más bella: un rostro falso ha de ocultar lo que sabe el corazón falso».
+Salen a cenar. Macbeth cierra la escena:
 
 ---
 
@@ -256,7 +256,7 @@ Y salen a cenar. La última frase es suya: «Vamos, y burlemos al tiempo con la 
 
 [![Grabado en línea: en un pasillo abovedado de castillo iluminado por una antorcha, Macbeth extiende la mano hacia una daga que flota en el aire con gotas de sangre en la hoja.](img/261009_macbeth_i-8.jpg)](img/261009_macbeth_i-8.jpg)
 
-Medianoche en el castillo. Banquo y su hijo Fleance cruzan el patio («¿Cómo va la noche, muchacho?», la primera frase de la escena): la luna ya cayó, «hay economía en el cielo: todas sus velas están apagadas». Banquo entrega la espada al muchacho: le pesa el sueño como plomo, y no quiere dormir, y dice por qué:
+Medianoche. Banquo y su hijo Fleance cruzan el patio; Banquo no logra dormir y ruega:
 
 > <a id="lugar-444"></a>Poderes misericordiosos, contened en mí los pensamientos malditos a los que la naturaleza cede en el reposo.
 >
@@ -266,7 +266,7 @@ Medianoche en el castillo. Banquo y su hijo Fleance cruzan el patio («¿Cómo v
 
 Banquo
 
-Sobró decirlo: «Anoche soñé con las tres Hermanas Fatídicas: a vos os han mostrado algo de verdad». Aparece Macbeth, de ronda. Banquo le cuenta que el rey se recogió feliz y le manda un diamante a la anfitriona; Macbeth tienta a Banquo: «Si os mantenéis de mi parte cuando llegue el momento, os traerá honor». La respuesta de Banquo es limpia:
+Banquo ha soñado con las brujas. Llega Macbeth, que lo tienta a ponerse de su parte; Banquo responde con limpieza:
 
 > <a id="lugar-465"></a>Mientras no pierda ninguno al buscar aumentarlo, y conserve libre mi pecho y limpia mi lealtad, aceptaré consejo.
 >
@@ -276,7 +276,7 @@ Sobró decirlo: «Anoche soñé con las tres Hermanas Fatídicas: a vos os han m
 
 Banquo
 
-Se despiden. Solo, esperando la campana convenida, Macbeth la ve: una daga en el aire, el mango hacia su mano:
+Solo, Macbeth espera la campana y ve una daga en el aire, con el mango hacia su mano:
 
 > <a id="lugar-476"></a>Ven, déjame aferrarte. No te tengo, y aun así te sigo viendo.
 >
@@ -286,7 +286,7 @@ Se despiden. Solo, esperando la campana convenida, Macbeth la ve: una daga en el
 
 Macbeth
 
-«¿No eres sino una daga de la mente, una falsa criatura nacida de un cerebro oprimido por el calor?»; la ve con gotas de sangre en la hoja, y no hay tal cosa: es el negocio sangriento el que así informa a sus ojos. La noche está muerta, la brujería celebra sus ofrendas, el asesinato marcha con paso de fantasma. «Mientras yo amenazo, él vive»: las palabras enfrían los actos. Suena la campana. «La campana me invita», y la última frase de la escena es para el que duerme: «No la oigas, Duncan, pues es un toque de difuntos que te llama al cielo o al infierno».
+Duda de su vista, ve sangre en la hoja y siente la noche cómplice. Suena la campana, y Macbeth se dirige al que duerme:
 
 ---
 
@@ -294,7 +294,7 @@ Macbeth
 
 [![Grabado en línea: unas manos manchadas de sangre se hunden en el agua oscura de una palangana de piedra bajo los arcos de un muro.](img/261009_macbeth_i-9.jpg)](img/261009_macbeth_i-9.jpg)
 
-Lady Macbeth espera en la oscuridad, y la primera frase de la escena es su brindis feroz: lo que emborrachó a los camareros la ha hecho a ella valiente; lo que los apagó a ellos, a ella le dio fuego. Chilla un búho («el fatal sereno, que da las buenas noches más severas»). Las puertas están abiertas, los criados roncan con sus bebidas drogadas. Ella dejó las dagas listas. Y confiesa lo único que la detuvo:
+Lady Macbeth espera en la oscuridad; el vino que apagó a los guardias a ella la encendió. Solo la detuvo un temor:
 
 > <a id="lugar-503"></a>Temo que se hayan despertado y no esté hecho.
 >
@@ -304,7 +304,7 @@ Lady Macbeth espera en la oscuridad, y la primera frase de la escena es su brind
 
 Lady Macbeth
 
-Nada de eso: «Si no se hubiera parecido a mi padre mientras dormía, yo lo habría hecho». Sale Macbeth del cuarto del rey: «He hecho la fechoría». Está deshecho: cree haber oído un ruido (¿quién duerme en la segunda alcoba? Donalbain), se mira las manos («Esto es un triste espectáculo»), y cuenta que uno de los durmientes rió, otro gritó «¡Asesinato!», dijeron sus oraciones, y él:
+Lo habría hecho, pero el rey dormido se parecía a su padre. Sale Macbeth, deshecho: ha cometido el crimen. Dice que oyó una voz:
 
 > <a id="lugar-553"></a>Me pareció oír una voz que gritaba: «¡No dormiréis más!
 >
@@ -314,7 +314,7 @@ Nada de eso: «Si no se hubiera parecido a mi padre mientras dormía, yo lo habr
 
 Macbeth
 
-«Pero ¿por qué no pude pronunciar «Amén»? Yo tenía más necesidad que nadie de bendición, y el «Amén» se me atascó en la garganta». Ella lo corta: pensar estas cosas así volverá locos a los dos. Pero él siguió oyendo la voz por toda la casa: «Glamis ha asesinado el sueño, y por eso Cawdor no dormirá más. ¡Macbeth no dormirá más!». Ella lo manda a lavarse «ese sucio testigo» y a devolver las dagas para untar de sangre a los camareros. Él no vuelve ahí ni muerto («Me da miedo pensar lo que he hecho; volver a mirarlo, no me atrevo»), así que va ella («Los dormidos y los muertos no son más que pinturas»). Llaman a la puerta del sur. Macbeth se mira las manos como si fueran ajenas:
+No pudo decir amén. Ella lo manda a devolver las dagas; él no se atreve, y va ella. Llaman a la puerta, y Macbeth contempla sus manos:
 
 > <a id="lugar-581"></a>¡Ah, me arrancan los ojos!
 >
@@ -324,7 +324,7 @@ Macbeth
 
 Macbeth
 
-«¿Lavará todo el océano del gran Neptuno esta sangre de mi mano hasta dejarla limpia? No: esta mano mía más bien enrojecerá los mares multitudinarios, volviendo roja la verde inmensidad». Ella vuelve con las manos del mismo color («Mis manos son de tu color, pero me da vergüenza llevar un corazón tan blanco») y lo arrastra a acostarse: «Un poco de agua nos limpia de este acto. ¡Qué fácil es, entonces!». Más golpes en la puerta. Macbeth se queda atrás un instante:
+Ni el océano las lavaría. Ella vuelve con las manos igual de rojas y lo lleva a acostarse. Vuelven los golpes:
 
 > <a id="lugar-597"></a>Para conocer mi acto, lo mejor sería no conocerme.
 >
@@ -334,7 +334,7 @@ Macbeth
 
 Macbeth
 
-Y cierra la escena con el aldabonazo y su deseo: «¡Despierta a Duncan con tus golpes! ¡Ojalá pudieras!».
+Los golpes cierran la escena.
 
 ---
 
@@ -342,7 +342,7 @@ Y cierra la escena con el aldabonazo y su deseo: «¡Despierta a Duncan con tus 
 
 [![Grabado en línea: un portero viejo y desgreñado entreabre el gran portón de un castillo al amanecer; fuera aguardan nobles a caballo y en la escalera interior la corte se arremolina presa del alboroto.](img/261009_macbeth_i-10.jpg)](img/261009_macbeth_i-10.jpg)
 
-«¡Esto sí que es un llamar!»: la primera frase de la escena es del portero, que abre la puerta del castillo medio dormido y jugando a ser el portero del infierno. Va dejando pasar a sus condenados: un labrador que se ahorcó esperando abundancia, un sastre inglés ladrón de paño, y este:
+En la puerta del castillo, un portero medio dormido juega a ser el portero del infierno y deja pasar a sus condenados, entre ellos un equivocador:
 
 > <a id="lugar-614"></a>Pues aquí hay un equivocador, que juraría en ambos platos de la balanza contra cualquiera de ellos; que cometió traición de sobra por amor de Dios, y aun así no pudo llegar al cielo con sus equívocos. Oh, entra, equivocador.
 >
@@ -352,7 +352,7 @@ Y cierra la escena con el aldabonazo y su deseo: «¡Despierta a Duncan con tus 
 
 Portero
 
-(El equivocador: el que jura por ambos platillos de la balanza; alusión a los jesuitas de la pólvora, que mentían con verdad a medias, y eso no equivoca el camino al cielo.) «No hago más de portero del diablo», se cansa, y abre: son Macduff y Lennox. Entre chistes de taberna (la bebida provoca tres cosas: la nariz roja, el sueño y la orina; y con la lujuria, provoca el deseo y quita la ejecución), Macduff pregunta por el rey, que le mandó llamarlo temprano. Macbeth, ya vestido, lo guía: «Esta es la puerta». Lennox cuenta que la noche fue revuelta: chimeneas caídas, lamentos en el aire, gritos extraños de muerte, el pájaro oscuro clamando toda la noche; dicen que la tierra tenía fiebre y tembló. Sale Macduff del cuarto: «¡Oh horror, horror, horror!»:
+Abre a Macduff y a Lennox, que vienen a buscar al rey. Lennox cuenta la noche de presagios. Macduff entra al cuarto del rey y sale gritando:
 
 > <a id="lugar-690"></a>¡La Confusión ha hecho ahora su obra maestra!
 >
@@ -362,7 +362,7 @@ Portero
 
 Macduff
 
-«¡Despertad, despertad! Tocad la campana de alarma. ¡Asesinato y traición!». Sale Lady Macbeth preguntando qué negocio es ese, y Macduff: «Oh, gentil señora, no es para vos oír lo que puedo decir». Sale Banquo («Querido Duff, te ruego que te desdigas y digas que no es así»). Y sale Macbeth, de luto perfecto:
+Da la alarma. Lady Macbeth finge no entender; Banquo no quiere creerlo. Llega Macbeth, de luto perfecto:
 
 > <a id="lugar-729"></a>Si yo hubiera muerto una hora antes de este suceso, habría vivido un tiempo bendito; pues desde este instante no hay nada serio en lo mortal.
 >
@@ -372,7 +372,7 @@ Macduff
 
 Macbeth
 
-Los hijos del rey, Malcolm y Donalbain, llegan al enterarse: los camareros aparecieron manchados de sangre, con las dagas sin limpiar sobre las almohadas. Y Macbeth suelta que los mató él, en un arrebato: «Oh, aún me arrepiento de mi furia, por haberlos matado». ¿Quién puede ser a la vez sabio, asombrado, templado y furioso, leal y neutral? Lady Macbeth se desvanece («¡Sacadme de aquí, oh!») y la apartan. Banquo convoca a juntarse y averiguar la obra sangrienta; todos juran contra la malicia traidora. Los dos hermanos se quedan atrás, hablando bajo: aquí «hay dagas en las sonrisas de los hombres: cuanto más cercano en sangre, más cercano a la sangre». Malcolm irá a Inglaterra, Donalbain a Irlanda:
+Macbeth confiesa que mató a los guardias en un arrebato. Lady Macbeth se desvanece y Banquo convoca a averiguar la verdad. Los dos hermanos, solos, temen las dagas ocultas en las sonrisas y deciden huir, Malcolm a Inglaterra y Donalbain a Irlanda:
 
 > <a id="lugar-787"></a>Esta flecha asesina que se ha disparado aún no ha caído; y nuestro camino más seguro es evitar la puntería.
 >
@@ -382,7 +382,7 @@ Los hijos del rey, Malcolm y Donalbain, llegan al enterarse: los camareros apare
 
 Malcolm
 
-«Por tanto, a caballo», sin despedidas. La última frase es de Malcolm: «Hay licencia en el hurto que se roba a sí mismo cuando no queda misericordia».
+Parten a caballo, sin despedirse, y Malcolm cierra la escena.
 
 ---
 
@@ -390,7 +390,7 @@ Malcolm
 
 [![Grabado en línea: en un cielo oscuro como de medianoche un búho ratonero mata en vuelo a un halcón; abajo, en las caballerizas de un castillo, los caballos enloquecidos rompen los pesebres y se encabritan entre los escombros.](img/261009_macbeth_i-11.jpg)](img/261009_macbeth_i-11.jpg)
 
-Fuera del castillo, un viejo y Ross hablan de los presagios. «Recuerdo bien setenta años», dice el viejo en la primera frase de la escena, «pero esta noche dolorosa ha hecho bagatela de lo que sabía»: es de día y la noche oscura estrangula la lámpara viajera; el martes un búho ratonero mató a un halcón en su altura; los caballos de Duncan se volvieron salvajes, rompieron las caballerizas y, dicen, se comieron entre sí. El viejo lo resume:
+Fuera del castillo, un viejo y Ross comentan los presagios: día oscuro, un búho que mató a un halcón, los caballos de Duncan salvajes. El viejo concluye:
 
 > <a id="lugar-799"></a>Es antinatural, igual que el acto cometido.
 >
@@ -400,7 +400,7 @@ Fuera del castillo, un viejo y Ross hablan de los presagios. «Recuerdo bien set
 
 Viejo
 
-Llega Macduff con las noticias: los culpables fueron «los que ha matado Macbeth», sobornados, dicen; y Malcolm y Donalbain huyeron, lo que hace caer la sospecha sobre ellos («¡Ambición pródiga, que devoras los medios de tu propia vida!»). La corona: Macbeth ya está nombrado y ha ido a Scone a ser investido; el cuerpo de Duncan va a Colmekill, la tumba sagrada de sus antepasados. Macduff no va a la coronación: se vuelve a Fife, no sin antes desearle a Ross, en la despedida, una frase con doble filo: «Bien, ojalá veáis allí las cosas bien hechas»; «¡no sea que nuestras ropas viejas nos sienten mejor que las nuevas!». Cierra la escena la bendición del viejo:
+Macduff cuenta que se culpa a los guardias y que Malcolm y Donalbain huyeron. Macbeth va a coronarse a Scone; Macduff se vuelve a Fife. El viejo se despide:
 
 > <a id="lugar-844"></a>Que la bendición de Dios vaya con vos, y con los que quieran hacer bien del mal y amigos de enemigos.
 >
@@ -416,7 +416,7 @@ Viejo
 
 [![Grabado en línea: en el palacio de Forres, Banquo, guerrero de capa pesada con el yelmo en la mano, medita sombrío junto a una columna en penumbra; al fondo, en el salón iluminado por antorchas, Macbeth ya coronado preside bajo un dosel.](img/261009_macbeth_i-12.jpg)](img/261009_macbeth_i-12.jpg)
 
-Banquo abre el acto a solas, haciendo cuentas: «Ya lo tienes todo, Rey, Cawdor, Glamis, como prometieron las Hermanas Fatídicas; y temo que jugaste muy sucio para lograrlo». Y si sus palabras relucieron en Macbeth, ¿por qué no serían también sus oráculos, si a él lo saludaron padre de reyes? «Pero silencio; no más». Entran los nuevos reyes. Cortesía de anfitriones: esta noche hay cena solemne y su presencia se requiere; Banquo promete no faltar. Macbeth le saca la tarde con preguntas amables (¿cabalgas hoy?, ¿lejos?, ¿vuelve Fleance contigo?):
+Banquo, a solas, sospecha que Macbeth jugó sucio para ser rey y se pregunta si lo dicho sobre él también se cumplirá. Entran los nuevos reyes, y Macbeth lo invita a la cena de esta noche:
 
 > <a id="lugar-859"></a>Esta noche damos una cena solemne, señor, y os pediré vuestra presencia.
 >
@@ -426,7 +426,7 @@ Banquo abre el acto a solas, haciendo cuentas: «Ya lo tienes todo, Rey, Cawdor,
 
 Macbeth
 
-«Que vuestras monturas sean veloces y seguras». Se va Banquo, se va la corte («que cada uno sea dueño de su tiempo hasta las siete»), y se queda Macbeth con la verdad: «Ser así no es nada si no se es así con seguridad». Sus miedos a Banquo se clavan hondo: en su realeza natural reina lo que hay que temer. Las hermanas pusieron sobre su cabeza «una corona infecunda» y en su puño «un cetro estéril»: por la descendencia de Banquo manchó su mente, por ellos asesinó al benigno Duncan, y su joya eterna se la dio al enemigo común del hombre, ¡para hacer reyes a la semilla de Banquo! Antes que eso:
+Se va Banquo y Macbeth se queda con su miedo: ser rey no basta si no está seguro, y las brujas le dieron una corona sin hijos que la hereden. No lo aceptará:
 
 > <a id="lugar-900"></a>Antes que eso, ven, destino, a la liza y sé mi campeón hasta el extremo. ¿Quién va?
 >
@@ -436,7 +436,7 @@ Macbeth
 
 Macbeth
 
-Entran los dos hombres que esperaban a la puerta: asesinos pobres a quienes Macbeth convenció ayer de que su desgracia la causó Banquo. ¿Van a tragar eso? ¿Tan evangelizados están que rezarán por el hombre bueno cuya mano pesada los hundió? «Somos hombres, mi señor». Macbeth los provoca: sí, en el catálogo van por hombres, como los perros van todos por perros; pero la lista distingue al veloz, al sutil, al cazador:
+Entran dos hombres a quienes Macbeth convenció de que Banquo les arruinó la vida. Los provoca: en la lista de los hombres hay distintos, y no todos valen igual:
 
 > <a id="lugar-917"></a>¿Estáis tan evangelizados que rezáis por este buen hombre y su descendencia, cuya mano pesada os ha doblado hacia la tumba y ha empobrecido a los vuestros para siempre?
 >
@@ -446,7 +446,7 @@ Entran los dos hombres que esperaban a la puerta: asesinos pobres a quienes Macb
 
 Macbeth
 
-La oferta viene enseguida: quien tenga un lugar en la lista que no sea el último, que lo diga, y recibirá un encargo que quita de en medio a su enemigo y lo une al corazón del rey, cuya salud enferma sería perfecta con la muerte de aquel:
+Les ofrece un encargo que quitaría de en medio a su enemigo:
 
 > <a id="lugar-922"></a>Ahora, si tenéis un puesto en la lista, no en la peor fila de la hombría, decidlo; y pondré en vuestros pechos ese negocio cuya ejecución elimina a vuestro enemigo y os ata al corazón y al afecto de nosotros, que llevamos nuestra salud enfermiza mientras él vive, y sería perfecta con su muerte.
 >
@@ -456,7 +456,7 @@ La oferta viene enseguida: quien tenga un lugar en la lista que no sea el últim
 
 Macbeth
 
-Basta: uno responde que los golpes del mundo lo han irritado tanto que no le importa lo que haga por despecho; el otro, que pondría su vida a cualquier suerte por remediarla o salir de ella. Macbeth les señala la obra: Banquo, y con él Fleance, su hijo, cuya ausencia le importa tanto como la del padre; esta noche, lejos del palacio. «Estamos decididos, mi señor». Y cierra la escena, a solas: «Banquo, el vuelo de tu alma, si halla el cielo, ha de hallarlo esta noche».
+Uno está harto de golpes; el otro, dispuesto a todo. Macbeth les señala a Banquo y a su hijo Fleance, para esta noche. Cierra la escena, a solas.
 
 ---
 
@@ -464,7 +464,7 @@ Basta: uno responde que los golpes del mundo lo han irritado tanto que no le imp
 
 [![Grabado en línea: en un aposento del castillo al anochecer, Macbeth, atormentado, habla en voz baja con Lady Macbeth junto a una ventana por la que cruzan murciélagos; un guardia vela al fondo entre cortinajes.](img/261009_macbeth_i-13.jpg)](img/261009_macbeth_i-13.jpg)
 
-«¿Se ha ido Banquo de la corte?», pregunta Lady Macbeth en la primera frase de la escena, y se queda sola con el balance: «Nada se tiene, todo se gasta, donde se logra el deseo sin contento. Es más seguro ser lo que destruimos que habitar, por la destrucción, una dicha dudosa». Llega Macbeth, solo con sus fantasías más miserables; ella le dice que lo hecho, hecho está, que lo que no tiene remedio no debe tener recuerdo. Él responde que no: «Hemos chamuscado a la serpiente, no la hemos matado»; sanará y su antiguo colmillo seguirá amenazando. Mejor estar con los muertos, a quienes enviaron a la paz para ganar la suya, que yacer sobre el tormento de la mente:
+Lady Macbeth ve que lograr el deseo sin contento no sirve. Llega Macbeth, torturado: solo hirieron a la serpiente y envidia a los muertos:
 
 > <a id="lugar-972"></a>Duncan está en su tumba; tras la fiebre intermitente de la vida duerme bien. La traición ha hecho lo peor: ni acero, ni veneno, ni malicia doméstica, ni leva extranjera, nada puede tocarlo más.
 >
@@ -474,7 +474,7 @@ Basta: uno responde que los golpes del mundo lo han irritado tanto que no le imp
 
 Macbeth
 
-Ella le pide que alise su rostro arrugado y esté brillante con los invitados. Él le pide lo mismo: honren a Banquo con ojos y lengua, porque mientras no estén seguros hay que lavar los honores en esos arroyos de adulación y hacer de la cara una máscara del corazón. Y entonces se le sale: «¡Oh, llena de escorpiones está mi mente, querida esposa! Tú sabes que Banquo, y su Fleance, viven». Ella: «Pero en ellos la copia de la naturaleza no es eterna».
+Ella le pide alegría ante los invitados. Él confiesa que su mente está llena de escorpiones: Banquo y Fleance viven. Ella responde:
 
 > <a id="lugar-986"></a>Aún hay consuelo: son vulnerables.
 >
@@ -484,7 +484,7 @@ Ella le pide que alise su rostro arrugado y esté brillante con los invitados. �
 
 Macbeth
 
-Antes de que el murciélago vuele y el escarabajo toque el bostezante toque de la noche, se hará «una acción de terrible fama». «¿Qué se hará?», pregunta ella. «Sé inocente del conocimiento, queridísima pichona, hasta que aplaudas el acto». (Ya no lo consulta: lo manda.) Y la noche viene: «Ven, noche que cierras los ojos, venda el ojo tierno del día compasivo»; «la luz se espesa; y el cuervo se echa a volar hacia el bosque de grajos». Las cosas buenas del día dormitan, los agentes negros se desperezan hacia sus presas. Ella se maravilla de sus palabras; él la cierra, y la escena, con esto:
+Antes de la noche se hará algo terrible, y ella no debe saberlo hasta aplaudirlo. Invoca la noche; ella se asombra:
 
 > <a id="lugar-996"></a>Te asombras de mis palabras; pero quédate quieta: las cosas malas empezadas se afirman con mal.
 >
@@ -494,7 +494,7 @@ Antes de que el murciélago vuele y el escarabajo toque el bostezante toque de l
 
 Macbeth
 
-«Así que, te lo ruego, ven conmigo».
+La invita a ir con él.
 
 ---
 
@@ -502,7 +502,7 @@ Macbeth
 
 [![Grabado en línea: de noche, en un camino entre árboles retorcidos ante el castillo, tres asesinos embozados atacan a Banquo mientras su hijo Fleance huye y la antorcha cae al suelo.](img/261009_macbeth_i-14.jpg)](img/261009_macbeth_i-14.jpg)
 
-En un parque junto al palacio esperan dos asesinos; llega un tercero, y la primera frase de la escena es la sospecha del primero:
+Dos asesinos esperan en un parque junto al palacio. Llega un tercero y el primero desconfía:
 
 > <a id="lugar-1002"></a>¿Pero quién te mandó unirte a nosotros?
 >
@@ -512,7 +512,7 @@ En un parque junto al palacio esperan dos asesinos; llega un tercero, y la prime
 
 Primer asesino
 
-«Macbeth», responde el tercero, y basta: viene con las órdenes justas. Anochece («el oeste aún reluce con algunas vetas de día»; «ahora el viajero rezagado espolea a prisa para ganar la posada a tiempo»). Se oyen caballos, una voz pide luz: es Banquo, que como todos se baja a una milla y hace a pie el trecho hasta la puerta del palacio. «Esta noche lloverá», dice Banquo. «Que caiga», dice el asesino, y cae el golpe. «¡Oh, traición! ¡Huye, buen Fleance, huye, huye, huye! ¡Podrás vengarme...!». Alguien apagó la luz. En la oscuridad:
+Dice que los manda Macbeth. Llega Banquo con su hijo, cae el golpe y Fleance huye. Se apaga la luz:
 
 > <a id="lugar-1045"></a>Solo uno ha caído; el hijo ha huido.
 >
@@ -522,7 +522,7 @@ Primer asesino
 
 Tercer asesino
 
-«Hemos perdido la mejor mitad de nuestro asunto». Última frase, del primer asesino: «Bueno, vámonos y digamos cuánto está hecho».
+Han perdido la mejor mitad del encargo y se van a dar cuenta.
 
 ---
 
@@ -530,7 +530,7 @@ Tercer asesino
 
 [![Grabado en línea: en el gran salón del banquete iluminado por antorchas, Macbeth, coronado, retrocede horrorizado ante el fantasma demacrado de Banquo sentado en su propio asiento a la mesa.](img/261009_macbeth_i-15.jpg)](img/261009_macbeth_i-15.jpg)
 
-El banquete. «Conocéis vuestros propios rangos; sentaos», abre Macbeth, anfitrión humilde que se mezclará con la concurrencia. Pero en la puerta lo espera uno de los asesinos: «Hay sangre en tu cara». ¿Es de Banquo? Sí: degollado, «a salvo en una zanja», con veinte heridas en la cabeza. ¿Y Fleance? «Real señor, Fleance se ha escapado». El ajuste de cuentas de Macbeth:
+El banquete empieza, pero un asesino espera a Macbeth en la puerta con sangre en la cara: Banquo está muerto, pero Fleance escapó. Macbeth reacciona:
 
 > <a id="lugar-1082"></a>Entonces vuelve mi acceso: si no, habría estado perfecto, entero como el mármol, firme como la roca, tan amplio y general como el aire que nos envuelve. Pero ahora estoy encerrado, apretado, confinado, atado a dudas y miedos insolentes.
 >
@@ -540,7 +540,7 @@ El banquete. «Conocéis vuestros propios rangos; sentaos», abre Macbeth, anfit
 
 Macbeth
 
-Consuelo frío: «Allí yace la serpiente adulta; el gusano que ha huido tiene una naturaleza que con el tiempo criará veneno, pero por ahora no tiene dientes». Lady Macbeth lo llama al banquete (la fiesta sin bienvenida es fiesta vendida, no dada). Macbeth brinda y lamenta en público la ausencia de Banquo, «a quien prefiero reprochar por descortesía que lamentar por desgracia». Lennox le ofrece el sitio reservado. Y el sitio está ocupado. «¿Quién de vosotros ha hecho esto?»:
+Se consuela: la serpiente adulta está muerta y el gusano que huyó aún no tiene dientes. Vuelve al banquete y brinda por Banquo ausente, pero su sitio está ocupado por el fantasma. Pregunta quién lo hizo:
 
 > <a id="lugar-1120"></a>No puedes decir que yo lo hice.
 >
@@ -550,7 +550,7 @@ Consuelo frío: «Allí yace la serpiente adulta; el gusano que ha huido tiene u
 
 Macbeth
 
-Ross quiere levantarse; Lady Macbeth cubre: «Mi señor suele estar así, y lo ha estado desde su juventud... el acceso es momentáneo». Y en privado, el látigo de siempre: «¿Eres un hombre?», «esto es la pintura misma de tu miedo: es la daga dibujada en el aire que dijiste que te llevó hasta Duncan», «miras solo un taburete». Pero él lo ve: «¡Mira ahí! ¡Observa! ¡Mira! ¡Ves! ¿Qué dices? ¿Qué me importa?»:
+Lady Macbeth disculpa a su marido ante los nobles y en privado lo acusa de miedo: solo ve un taburete. Él insiste:
 
 > <a id="lugar-1146"></a>Si puedes asentir, habla también.
 >
@@ -560,7 +560,7 @@ Ross quiere levantarse; Lady Macbeth cubre: «Mi señor suele estar así, y lo h
 
 Macbeth
 
-«Si los osarios y las tumbas devuelven a los que enterramos, nuestros monumentos serán los buches de los milanos». Se recompone, disculpa ante los nobles:
+Se recompone y pide disculpas a los invitados:
 
 > <a id="lugar-1162"></a>No os asombréis de mí, mis dignísimos amigos.
 >
@@ -570,7 +570,7 @@ Macbeth
 
 Macbeth
 
-Pide vino, llena la copa: «Bebo por la alegría general de toda la mesa y por nuestro querido amigo Banquo, a quien echamos de menos: ojalá estuviera aquí». Y vuelve. «¡Apartaos! ¡Quitaos de mi vista! ¡Que la tierra te esconda! ¡Tus huesos no tienen tuétano, tu sangre está fría; no hay mirada en esos ojos con que me fulminas!». Oso ruso, rinoceronte armado, tigre de Hircania: cualquier forma menos esa. Se va la sombra: «Pues bien: ido él, vuelvo a ser un hombre». Lady Macbeth despide a los invitados sin ceremonias: «Buenas noches a la vez; no os detengáis en el orden de vuestra salida, id todos a la vez». A solas, el veredicto: «Querrá sangre, dicen; la sangre querrá sangre». Macduff faltó a la cita; Macbeth tiene un criado pagado en cada casa. Mañana, a las Hermanas Fatídicas: saber lo peor por los peores medios. «Me he metido en la sangre tan adentro que, si no vadeara más, volver sería tan penoso como seguir». Y las dos últimas frases antes de la coda:
+Brinda de nuevo por Banquo y el fantasma vuelve; Macbeth lo increpa y, cuando se va, vuelve a ser hombre. Lady Macbeth despide a todos. A solas, él sabe que la sangre pide sangre, que Macduff faltó y que irá a ver a las brujas:
 
 > <a id="lugar-1212"></a>Mañana, y muy temprano, iré a las Hermanas Fatídicas: más deben decir; pues ahora estoy resuelto a saber, por los peores medios, lo peor.
 >
@@ -580,7 +580,7 @@ Pide vino, llena la copa: «Bebo por la alegría general de toda la mesa y por n
 
 Macbeth
 
-Y con lo que ya trama, ni siquiera se da tiempo de mirarlo:
+Y lo que trama no le deja tiempo para pensar:
 
 > <a id="lugar-1214"></a>Tengo en la cabeza cosas extrañas que pasarán a la mano, y que han de hacerse antes de poder examinarse.
 >
@@ -590,7 +590,7 @@ Y con lo que ya trama, ni siquiera se da tiempo de mirarlo:
 
 Macbeth
 
-«Te falta el aderezo de todas las naturalezas: el sueño», dice ella. «Vamos, a dormir», dice él, y cierra la escena: «Todavía somos jóvenes en el obrar».
+Ella le dice que le falta dormir, y se van a la cama.
 
 ---
 
@@ -598,7 +598,7 @@ Macbeth
 
 [![Grabado en línea: en un páramo nocturno bajo una luna enorme, Hécate, imponente entre túnicas y niebla, regaña con el brazo alzado a las tres brujas encogidas junto a los restos de una hoguera.](img/261009_macbeth_i-16.jpg)](img/261009_macbeth_i-16.jpg)
 
-«¿Pues qué pasa, Hécate?»: la diosa de la brujería llega furiosa con sus hermanas. ¿Cómo se atrevieron a traficar con Macbeth en acertijos y asuntos de muerte sin llamarla a ella, la maestra de sus encantos? Y peor:
+Hécate, diosa de la brujería, llega furiosa: las brujas trataron con Macbeth sin avisarla. Y peor:
 
 > <a id="lugar-1230"></a>Y lo que es peor, todo lo que habéis hecho ha sido por un hijo díscolo, rencoroso e iracundo, que, como otros, ama por sus propios fines, no por vosotras.
 >
@@ -608,7 +608,7 @@ Macbeth
 
 Hécate
 
-Enmienda: mañana, en el pozo del Aqueronte, él vendrá a conocer su destino. Hécate pasará la noche hacia un fin funesto:
+Mañana él vendrá a conocer su destino, y ella prepara algo para esa noche:
 
 > <a id="lugar-1234"></a>Antes del mediodía debe hacerse un gran negocio.
 >
@@ -618,7 +618,7 @@ Enmienda: mañana, en el pozo del Aqueronte, él vendrá a conocer su destino. H
 
 Hécate
 
-Del cuerno de la luna cuelga una gota vaporosa que ella cogerá antes de que toque suelo; destilada con artes mágicas, alzará espíritus tan artificiales que, por la fuerza de su ilusión, lo arrastrarán a su perdición: «Despreciará el destino, burlará la muerte, y pondrá sus esperanzas por encima de la sabiduría, la gracia y el miedo. Y todas sabéis que la seguridad es el principal enemigo de los mortales». La llaman; su espiritillo la espera en una nube de niebla. Cierra la primera bruja: «Vamos, démonos prisa; pronto estará de vuelta».
+Con una gota de la luna hará espíritus que lo arrastren a su perdición. La llaman y se va.
 
 ---
 
@@ -626,7 +626,7 @@ Del cuerno de la luna cuelga una gota vaporosa que ella cogerá antes de que toq
 
 [![Grabado en línea: en un pasillo del castillo iluminado por una antorcha, Lennox y un lord conversan en voz baja junto a una ventana, inclinados el uno hacia el otro con gestos de sospecha.](img/261009_macbeth_i-17.jpg)](img/261009_macbeth_i-17.jpg)
 
-Lennox y un Lord conversan, y Lennox abre con sarcasmo fino — la primera frase es también la primera cita:
+Lennox y un Lord comentan con sarcasmo la muerte de Duncan y la de Banquo:
 
 > <a id="lugar-1248"></a>Mis palabras anteriores solo han dado en vuestros pensamientos, que pueden interpretar más lejos. Solo digo que las cosas se han llevado de modo extraño.
 >
@@ -636,7 +636,7 @@ Lennox y un Lord conversan, y Lennox abre con sarcasmo fino — la primera frase
 
 Lennox
 
-El bondadoso Duncan fue compadecido por Macbeth; claro: estaba muerto. El valerosísimo Banquo caminó demasiado tarde; a quien, si os place, mató Fleance, pues Fleance huyó. Los hombres no deben caminar tan tarde. ¡Y cómo le dolió a Macbeth! ¿No desgarró en piadosa furia a los dos delincuentes? ¿No fue noblemente hecho? Si tuviera a los hijos de Duncan bajo su llave —que el cielo no lo quiera— aprenderían lo que es matar a un padre. Y Macduff, por faltar a la fiesta del tirano, vive en desgracia. ¿Dónde se refugia? En la corte inglesa, donde vive el hijo de Duncan, recibido por el piadoso Eduardo. Allá fue Macduff a rogar ayuda: Northumberland, el belicoso Siward, y Aquel de arriba para ratificar la obra, «para que podamos dar de nuevo carne a nuestras mesas y sueño a nuestras noches». Macbeth se prepara para la guerra. ¿Llamó a Macduff? Sí:
+Dicen que Macbeth lloró a Duncan y castigó a los guardias, y que los hijos de Duncan habrían corrido igual suerte. Macduff, por faltar al banquete, cayó en desgracia y está en la corte inglesa pidiendo ayuda. Macbeth se arma y manda llamarlo:
 
 > <a id="lugar-1268"></a>Sí; y con un rotundo: «Señor, yo no», el mensajero sombrío me vuelve la espalda y murmura, como diciendo: «Os arrepentiréis del tiempo que me carga con esta respuesta».
 >
@@ -646,7 +646,7 @@ El bondadoso Duncan fue compadecido por Macbeth; claro: estaba muerto. El valero
 
 Un lord
 
-Que algún ángel santo vuele a Inglaterra con el mensaje, para que una bendición veloz regrese a este sufrido país bajo una mano maldita. Última frase, del Lord: «Enviaré mis oraciones con él».
+El Lord pide que un ángel lleve el mensaje a Inglaterra y promete sus oraciones.
 
 ---
 
@@ -654,7 +654,7 @@ Que algún ángel santo vuele a Inglaterra con el mensaje, para que una bendici�
 
 [![Grabado en línea: en una caverna, tres brujas rodean el caldero hirviente mientras del vapor emergen una cabeza con casco, un niño ensangrentado y un niño coronado con una rama, y al fondo desfila una procesión de reyes.](img/261009_macbeth_i-18.jpg)](img/261009_macbeth_i-18.jpg)
 
-«Tres veces ha maullado el gato atigrado»: la primera frase abre el aquelarre. Alrededor del caldero: «Dad vueltas al caldero y echad las entrañas envenenadas»; sapo venenoso, ojo de tritón, pata de rana, lengua de perro, escama de dragón, hígado de judío blasfemo, nariz de turco, dedo de niño estrangulado al nacer. Y el estribillo: «Doble, doble, afán y desgracia; arde, fuego; burbujea, caldero». Hécate elogia el trabajo y se une al corro. Entonces: «Por el picor de mis pulgares, algo malvado viene hacia aquí». Es Macbeth: «¿Qué hacéis, brujas secretas, negras y de medianoche?». «Una acción sin nombre». Él las conjura: aunque desaten los vientos contra las iglesias, aunque el mar trague la navegación, respóndanle. ¿De sus bocas o de sus maestros? «Llámalos; déjame verlos». Primera aparición, una cabeza armada: «Guárdate de Macduff; guárdate del thane de Fife». Macbeth:
+Las brujas hierven el caldero con sapo, ojo de tritón y otros horrores, mientras cantan. Llega Macbeth y les pide respuestas. Aparece una cabeza armada:
 
 > <a id="lugar-1346"></a>Seas lo que seas, gracias por tu buena advertencia; has tocado bien mi miedo.
 >
@@ -664,7 +664,7 @@ Que algún ángel santo vuele a Inglaterra con el mensaje, para que una bendici�
 
 Macbeth
 
-Segunda aparición, un niño sangriento:
+Aparece un niño sangriento:
 
 > <a id="lugar-1359"></a>Sé sanguinario, audaz y resuelto.
 >
@@ -674,7 +674,7 @@ Segunda aparición, un niño sangriento:
 
 Aparición
 
-«Ríete con desprecio del poder del hombre, pues ninguno nacido de mujer dañará a Macbeth». Entonces viva Macduff, ¿qué ha de temerle? «Pero aun así haré doblemente segura la seguridad y tomaré fianza al destino: no vivirás; para poder decirle al miedo de corazón pálido que miente, y dormir a pesar del trueno». Tercera aparición, un niño coronado con un árbol en la mano: «Macbeth nunca será vencido hasta que el gran bosque de Birnam venga contra él hasta la alta colina de Dunsinane». ¿Quién puede alistar al bosque, desclavar la raíz del árbol? Dulces augurios:
+Dice que nadie nacido de mujer lo dañará. Macbeth decide matar igual a Macduff, para dormir tranquilo. Aparece un niño coronado, con un árbol en la mano:
 
 > <a id="lugar-1376"></a>Cabeza rebelde, no te alces nunca hasta que se alce el bosque de Birnam; y nuestro altamente colocado Macbeth vivirá el plazo de la naturaleza y pagará su aliento al tiempo y a la costumbre mortal.
 >
@@ -684,7 +684,7 @@ Aparición
 
 Macbeth
 
-«Y sin embargo, mi corazón late por saber una cosa: ¿reinará alguna vez en este reino la descendencia de Banquo?». «No busques saber más». Él insiste con maldiciones; el caldero se hunde; suena música; las brujas dicen «¡Muéstrenle!»: «Mostrad sus ojos y afligid su corazón; venid como sombras, y como sombras marchad». Ocho reyes desfilan, el último con un espejo que muestra muchos más, y algunos con globos dobles y cetros triples; «¿Cómo, se alargará la línea hasta el estallido del juicio final?». Y al final:
+Macbeth pregunta si reinará la descendencia de Banquo. Desfilan ocho reyes, el último con un espejo, y Banquo, ensangrentado, se los señala:
 
 > <a id="lugar-1407"></a>Ahora veo que es verdad; pues Banquo, apelmazado de sangre, me sonríe y los señala como suyos.
 >
@@ -694,7 +694,7 @@ Macbeth
 
 Macbeth
 
-Las brujas bailan su ronda grotesca y se desvanecen. «¡Que esta hora perniciosa quede siempre maldita en el calendario! ¡Infectado sea el aire en que cabalgan, y condenados todos los que se fían de ellas!». Entra Lennox con la noticia: Macduff ha huido a Inglaterra. Macbeth:
+Las brujas desaparecen y Macbeth maldice la hora. Lennox le dice que Macduff huyó a Inglaterra:
 
 > <a id="lugar-1441"></a>Tiempo, tú te adelantas a mis hazañas terribles: el propósito fugaz nunca se alcanza si el acto no va con él.
 >
@@ -704,7 +704,7 @@ Las brujas bailan su ronda grotesca y se desvanecen. «¡Que esta hora pernicios
 
 Macbeth
 
-«Desde este momento, las primicias mismas de mi corazón serán las primicias de mi mano»: sorprenderá el castillo de Macduff, pasará a filo de espada a su esposa, a sus niños y a todas las almas de su linaje. Sin jactancias de tonto: lo hará antes de que se enfríe el propósito. Última frase: «Venid, llevadme adonde están».
+Macbeth decide atacar el castillo de Macduff y matar a su mujer, a sus hijos y a todo su linaje, sin demora.
 
 ---
 
@@ -712,7 +712,7 @@ Macbeth
 
 [![Grabado en línea: en el salón de su castillo, Lady Macduff abraza a sus hijos mientras los asesinos de Macbeth irrumpen por la puerta con las espadas en alto.](img/261009_macbeth_i-19.jpg)](img/261009_macbeth_i-19.jpg)
 
-En el castillo de Macduff, su mujer pregunta a Ross en la primera frase: «¿Qué había hecho para huir del país?». Ross pide paciencia. «Él no la tuvo: su huida fue locura; cuando nuestros actos no lo hacen, nuestros miedos nos vuelven traidores». ¿Sabiduría?
+La mujer de Macduff pregunta a Ross por qué su marido huyó. Ross lo disculpa y ella replica:
 
 > <a id="lugar-1460"></a>¿Dejar a su esposa, dejar a sus hijos, su mansión y sus títulos en un lugar de donde él mismo huye?
 >
@@ -722,7 +722,7 @@ En el castillo de Macduff, su mujer pregunta a Ross en la primera frase: «¿Qu�
 
 Lady Macduff
 
-«No nos quiere: le falta el sentimiento natural; pues el pobre chochín, el más diminuto de los pájaros, peleará, con sus polluelos en el nido, contra el búho». Ross no puede quedarse: «crueles son los tiempos en que somos traidores y no nos conocemos; en que damos crédito al rumor por lo que tememos, sin saber qué tememos». Se va. Y viene el dúo más dulce y más frágil de la obra, la madre y su hijo:
+Dice que no los quiere. Ross no puede quedarse y se va. Madre e hijo quedan solos:
 
 > <a id="lugar-1474"></a>Muchacho, tu padre ha muerto.
 >
@@ -732,7 +732,7 @@ Lady Macduff
 
 Lady Macduff
 
-«¿Y qué harás ahora? ¿Cómo vivirás?». «Como los pájaros, madre». «¿Qué harás tú por un marido?», devuelve el niño. «Pues puedo comprarme veinte en cualquier mercado». «Entonces los comprarás para venderlos otra vez». ¿Era su padre un traidor? Uno que jura y miente, dice ella; y todos los que juran y mienten deben ser ahorcados por los hombres honrados. El niño concluye: «Entonces los mentirosos y los que juran son necios, pues hay mentirosos y perjuros de sobra para vencer a los hombres honrados y ahorcarlos». Llega un mensajero, temblando:
+Hablan de cómo vivirá ella sin marido y de si fue traidor. Llega un mensajero, temblando:
 
 > <a id="lugar-1533"></a>Temo que algún peligro se os acerca mucho. Si queréis el consejo de un hombre sencillo, no os encontréis aquí; salid con vuestros pequeños.
 >
@@ -742,7 +742,7 @@ Lady Macduff
 
 Mensajero
 
-No se atreve a quedarse. «¿Adónde habría de huir?», dice ella; «no he hecho daño». «Pero recuerdo ahora que estoy en este mundo terrenal, donde hacer daño es a menudo laudable y hacer el bien se tiene a veces por necedad peligrosa». Entran los asesinos: ¿dónde está su marido? Traidor, dicen. El niño: «¡Mientes, villano de orejas peludas!». «¡Cómo, tú, huevo! ¡Renacuajo de la traición!». Y la última frase es del niño: «Me ha matado, madre. ¡Huye, te lo ruego!».
+Les avisa del peligro y se va. Ella no sabe adónde huir: no hizo daño, pero en este mundo hacer daño es a menudo celebrado. Entran los asesinos, y el niño los desafía y muere gritando a su madre que huya.
 
 ---
 
@@ -750,7 +750,7 @@ No se atreve a quedarse. «¿Adónde habría de huir?», dice ella; «no he hech
 
 [![Grabado en línea: en la campiña inglesa, junto a un bosque, Macduff se lleva el puño al pecho ante Malcolm y Ross, entre el dolor y el juramento de venganza.](img/261009_macbeth_i-20.jpg)](img/261009_macbeth_i-20.jpg)
 
-En Inglaterra. «Busquemos alguna sombra desolada y allí vaciemos llorando nuestros pechos tristes», propone Malcolm en la primera frase. «Mejor empuñemos firme la espada mortal y, como hombres de bien, defendamos nuestra patria caída», responde Macduff:
+En Inglaterra, Malcolm propone llorar en alguna sombra, y Macduff, defender la patria:
 
 > <a id="lugar-1565"></a>Cada nueva mañana aúllan nuevas viudas, gritan nuevos huérfanos; nuevos dolores golpean al cielo en la cara, y este resuena como si sintiera con Escocia y aullara la misma sílaba de dolor.
 >
@@ -760,7 +760,7 @@ En Inglaterra. «Busquemos alguna sombra desolada y allí vaciemos llorando nues
 
 Macduff
 
-Pero Malcolm desconfía: este tirano fue tenido por honrado, Macduff lo quiso bien y aún no lo ha tocado; «soy joven; pero algo podríais ganar de él por medio mío; y es sabiduría ofrecer un cordero débil, pobre e inocente para aplacar a un dios airado». «No soy traicionero», dice Macduff. «He perdido mis esperanzas». Entonces Malcolm monta la prueba terrible: se declara peor que Macbeth —sin fondo en su lujuria, su avaricia pegaría más hondo que esa lujuria veraniega, y de las gracias regias (justicia, verdad, templanza, misericordia) no tiene ni el gusto: «No, si tuviera poder, derramaría la dulce leche de la concordia en el infierno, alborotaría la paz universal, confundiría toda unidad en la tierra». Y la sentencia:
+Malcolm desconfía: ofrecerían un cordero para aplacar a un dios airado. Para probar a Macduff, se pinta peor que Macbeth: lujurioso, avaro, sin una virtud real. Y sentencia:
 
 > <a id="lugar-1618"></a>Si uno así es apto para gobernar, hablad: soy como he dicho.
 >
@@ -770,7 +770,7 @@ Pero Malcolm desconfía: este tirano fue tenido por honrado, Macduff lo quiso bi
 
 Malcolm
 
-«¿Apto para gobernar? No, ni para vivir». Y Macduff llora a su país:
+Macduff dice que no es apto ni para vivir, y llora por su país:
 
 > <a id="lugar-1622"></a>Oh nación miserable, con un tirano sin título y de cetro sangriento, ¿cuándo volverás a ver tus días sanos, si el heredero más legítimo de tu trono se declara acusado por su propia boca y blasfema contra su estirpe?
 >
@@ -780,7 +780,7 @@ Malcolm
 
 Macduff
 
-Ahí termina la prueba: «Macduff, esta noble pasión, hija de la integridad, ha borrado de mi alma los negros escrúpulos». Todo era mentira sobre sí mismo: es virgen, nunca perjuró, no traicionaría ni al diablo con su compañero; «mi primer falso decir fue este contra mí mismo».
+Con eso Malcolm cierra la prueba: todo era mentira sobre sí mismo, nunca perjuró ni engañó a nadie.
 
 > <a id="lugar-1633"></a>Lo que soy en verdad es tuyo y de mi pobre país para mandar; adonde, de hecho, antes de que tú llegaras, el viejo Siward, con diez mil hombres de guerra, ya a punto, se disponía a partir.
 >
@@ -790,7 +790,7 @@ Ahí termina la prueba: «Macduff, esta noble pasión, hija de la integridad, ha
 
 Malcolm
 
-«Cosas tan bienvenidas y tan mal venidas a la vez es difícil reconciliar», dice Macduff. Interludio: el rey de Inglaterra cura con el tacto la enfermedad llamada «el mal», «una obra muy milagrosa en este buen rey», y cuelga sobre su trono bendiciones que lo hablan lleno de gracia — el contrarretrato del tirano. Llega Ross. ¿Cómo va Escocia? «Ay, pobre país, casi con miedo de conocerse a sí mismo. No puede llamarse nuestra madre, sino nuestra tumba, donde nada, salvo quien nada sabe, se ve sonreír una vez». ¿Y su mujer? «Pues bien». ¿Y sus hijos? Bien también. «No seas avaro de tu habla: ¿cómo va?». Y Ross lo suelta: «Vuestro castillo ha sido sorprendido; vuestra esposa y vuestros hijos, salvajemente degollados».
+Entra el rey de Inglaterra, que cura con el tacto una enfermedad. Llega Ross: Escocia sufre. Macduff pregunta por su mujer y sus hijos, hasta que Ross lo suelta: su castillo fue tomado y todos, degollados.
 
 > <a id="lugar-1717"></a>Contar el modo sería, sobre el montón de estos ciervos abatidos, añadir vuestra muerte.
 >
@@ -800,7 +800,7 @@ Malcolm
 
 Ross
 
-Malcolm: «Da palabras al dolor; la pena que no habla susurra al corazón sobrecargado y le manda romperse». Macduff: «¿Todos mis pequeños? ¿Cómo, todos mis lindos polluelos y su madre de un solo golpe feroz? ¡Oh, milano del infierno! ¿Todos?». «Disputa como un hombre», dice Malcolm. «Lo haré; pero también debo sentirlo como un hombre». «Consuélate: hagamos medicinas de nuestra gran venganza». «Él no tiene hijos». «Que el dolor se convierta en ira». Macduff:
+Malcolm le pide que dé palabras al dolor y que se haga vengador. Macduff pregunta si todos sus hijos, de un solo golpe. Luego jura:
 
 > <a id="lugar-1753"></a>Pero, gentiles cielos, cortad toda demora; frente a frente, traed a este demonio de Escocia y a mí; ponedlo a la distancia de mi espada; si escapa, ¡que el cielo lo perdone también!
 >
@@ -810,7 +810,7 @@ Malcolm: «Da palabras al dolor; la pena que no habla susurra al corazón sobrec
 
 Macduff
 
-«Esta música suena viril», dice Malcolm, y cierra la escena y el acto:
+Malcolm dice que esa música suena viril y cierra la escena y el acto:
 
 > <a id="lugar-1759"></a>Recibid el ánimo que podáis: es larga la noche que nunca encuentra el día.
 >
@@ -826,7 +826,7 @@ Malcolm
 
 [![Grabado en línea: de noche, Lady Macbeth sonámbula avanza por un pasillo del castillo con una vela en la mano y los ojos vacíos, mientras la doctora y la dama la observan escondidas.](img/261009_macbeth_i-21.jpg)](img/261009_macbeth_i-21.jpg)
 
-«He velado con vos dos noches», dice el médico a la camarera en la primera frase, «pero no puedo percibir verdad alguna en vuestro informe». Ella lo ha visto: desde que el rey marchó al campo, Lady Macbeth se levanta, escribe, sella y vuelve a la cama, todo en sueño profundo. El médico:
+Un médico y una camarera hablan de Lady Macbeth, que se levanta dormida a escribir y volver a la cama. Dice el médico:
 
 > <a id="lugar-1770"></a>Una gran perturbación de la naturaleza: recibir a la vez el beneficio del sueño y hacer los efectos de la vigilia.
 >
@@ -836,7 +836,7 @@ Malcolm
 
 Médico
 
-«Mirad, aquí viene»: con su vela —tiene luz junto a sí continuamente, es orden suya—, los ojos abiertos y los sentidos cerrados, restregándose las manos como lavándolas, un cuarto de hora seguido. «Todavía hay aquí una mancha». Empieza el soliloquio del sueño: «¡Fuera, mancha maldita! ¡Fuera, digo! Una; dos»:
+Aquí viene, con la vela, los ojos abiertos y las manos frotándose. Empieza a hablar en sueños:
 
 > <a id="lugar-1805"></a>Pues entonces es hora de hacerlo.
 >
@@ -846,7 +846,7 @@ Médico
 
 Lady Macbeth
 
-«¡El infierno es tenebroso! ¡Vaya, mi señor! ¿Un soldado, y con miedo?». «Y sin embargo, ¿quién habría pensado que el viejo tenía tanta sangre en él?». «El thane de Fife tenía una esposa. ¿Dónde está ahora?»:
+Recuerda el crimen, la sangre del viejo, la esposa de Macduff:
 
 > <a id="lugar-1816"></a>¿Cómo, estas manos nunca estarán limpias?
 >
@@ -856,7 +856,7 @@ Lady Macbeth
 
 Lady Macbeth
 
-«Aquí sigue el olor de la sangre: todos los perfumes de Arabia no endulzarán esta manita». Suspiros. «Lávate las manos, ponte la bata; no te muestres tan pálido. Te lo digo otra vez: Banquo está enterrado; no puede salir de su tumba. A la cama, a la cama. Llaman a la puerta. Ven, ven, ven, ven, dame la mano. Lo hecho no puede deshacerse. A la cama, a la cama, a la cama». Sale. El médico, con la enfermedad ya fuera de su oficio —«necesita más al sacerdote que al médico»—, lo resume:
+Siente aún el olor de la sangre, repite que Banquo está enterrado y se va a la cama. El médico concluye:
 
 > <a id="lugar-1855"></a>Los actos contra natura engendran perturbaciones contra natura: las mentes infectadas descargarán sus secretos en sus almohadas sordas.
 >
@@ -866,7 +866,7 @@ Lady Macbeth
 
 Médico
 
-«Cuidadla; apartad de ella los medios de todo daño y no le quitéis los ojos de encima». «Pienso, pero no me atrevo a hablar». Cierra la camarera: «Buenas noches, buen doctor».
+Pide que la vigilen y que no le dejen ningún medio de dañarse.
 
 ---
 
@@ -874,7 +874,7 @@ Médico
 
 [![Grabado en línea: un ejército de soldados con lanzas y estandartes marcha por un valle montañoso hacia el castillo de Dunsinane, bajo nubes tormentosas.](img/261009_macbeth_i-22.jpg)](img/261009_macbeth_i-22.jpg)
 
-Los nobles escoceses marchan a unirse al ejército inglés. «El ejército inglés está cerca, guiado por Malcolm, su tío Siward y el buen Macduff», dice Menteith en la primera frase; en ellos arden las venganzas. ¿Está Donalbain con su hermano? No, seguro que no: la lista de la nobleza trae al hijo de Siward y a muchos jóvenes imberbes que protestan su primera hombría. ¿Qué hace el tirano? Fortifica Dunsinane. Caithness:
+Los nobles escoceses marchan a unirse al ejército inglés de Malcolm, Siward y Macduff, mientras el tirano fortifica Dunsinane. Caithness dice:
 
 > <a id="lugar-1881"></a>Unos dicen que está loco; otros, que lo odian menos, lo llaman furia valiente; pero, con seguridad, no puede abrochar su causa desquiciada dentro del cinturón de la norma.
 >
@@ -884,7 +884,7 @@ Los nobles escoceses marchan a unirse al ejército inglés. «El ejército ingl�
 
 Caithness
 
-Angus: ahora siente sus asesinatos secretos pegados a las manos; los que manda se mueven solo por orden, nada por amor; siente el título colgarle suelto «como la túnica de un gigante sobre un ladrón enano». Menteith: ¿quién culpará entonces a sus sentidos asediados de retroceder y sobresaltarse? Y Caithness cierra la marcha: «Bien, marchemos, para dar obediencia donde de verdad se debe; encontremos la medicina de la república enferma; y con él vertamos, en la purga de nuestro país, cada gota de nosotros». Última frase, de Lennox: «Hagamos nuestra marcha hacia Birnam».
+Angus siente que el título le cuelga como la túnica de un gigante sobre un ladrón enano. Caithness propone marchar a curar el país, y Lennox cierra:
 
 ---
 
@@ -892,7 +892,7 @@ Angus: ahora siente sus asesinatos secretos pegados a las manos; los que manda s
 
 [![Grabado en línea: en lo alto de las murallas de Dunsinane, Macbeth acorazado señala desafiante al valle donde avanza el ejército enemigo, mientras el médico se encoge a su lado.](img/261009_macbeth_i-23.jpg)](img/261009_macbeth_i-23.jpg)
 
-Dunsinane sitiado. «No me traigáis más informes; que huyan todos. Hasta que el bosque de Birnam se mude a Dunsinane no puedo mancharme de miedo» — la primera frase es la certeza de las apariciones. ¿Y el niño Malcolm? ¿No nació de mujer? Pues los espíritus lo pronunciaron: ningún nacido de mujer tendrá poder sobre él:
+Dunsinane, sitiada. Macbeth se aferra a las promesas de las apariciones:
 
 > <a id="lugar-1899"></a>Entonces huid, falsos thanes, y mezclaos con los epicúreos ingleses: la mente por la que me guío y el corazón que llevo nunca se hundirán en la duda ni temblarán de miedo.
 >
@@ -902,7 +902,7 @@ Dunsinane sitiado. «No me traigáis más informes; que huyan todos. Hasta que e
 
 Macbeth
 
-Un sirviente pálido trae noticia de diez mil soldados ingleses; Macbeth lo insulta («ve a pincharte la cara y cubre de rojo tu miedo, muchacho de hígado de lirio») y, ya a solas con Seyton, se le cae la máscara: «Siento náuseas en el corazón... He vivido bastante: mi camino de vida ha caído en la hoja seca y amarilla; y lo que debería acompañar a la vejez, como honor, amor, obediencia, tropas de amigos, no debo esperar tenerlo; en su lugar, maldiciones, no en voz alta sino hondas». «Todo lo que se informó está confirmado, mi señor». «Pelearé hasta que me hagan pedazos la carne de los huesos. Dadme mi armadura». ¿Cómo está su paciente, doctor? Turbada de fantasías que le quitan el sueño. Macbeth pide lo imposible: «¿No puedes asistir a una mente enferma, arrancar de la memoria una pena arraigada, borrar los problemas escritos en el cerebro y, con algún dulce antídoto de olvido, limpiar el pecho colmado de esa materia peligrosa que pesa sobre el corazón?». «En eso el paciente debe asistirse a sí mismo». «Echa la medicina a los perros, no quiero nada de ella». ¿Qué ruibarbo, qué purgante limpiaría de aquí a estos ingleses? Y sale a la muralla:
+Insulta al sirviente que trae la noticia de diez mil ingleses y, a solas con Seyton, admite que su vida cayó en la hoja seca. Pide su armadura; el médico dice que su mujer debe curarse sola. Macbeth sube a la muralla:
 
 > <a id="lugar-1960"></a>No tendré miedo de la muerte ni de la ruina hasta que el bosque de Birnam venga a Dunsinane.
 >
@@ -912,7 +912,7 @@ Un sirviente pálido trae noticia de diez mil soldados ingleses; Macbeth lo insu
 
 Macbeth
 
-Queda el médico, y suya es la última frase: «Si yo estuviera lejos de Dunsinane y libre, el provecho difícilmente me volvería a traer aquí».
+El médico se queda y dice que no volvería a Dunsinane por ningún provecho.
 
 ---
 
@@ -920,7 +920,7 @@ Queda el médico, y suya es la última frase: «Si yo estuviera lejos de Dunsina
 
 [![Grabado en línea: el bosque de Birnam avanza: una ladera entera de soldados ocultos tras grandes ramas marcha hacia el castillo de Dunsinane en la cima.](img/261009_macbeth_i-24.jpg)](img/261009_macbeth_i-24.jpg)
 
-Ante Birnam. «Primos, espero que estén cerca los días en que las alcobas serán seguras», dice Malcolm en la primera frase. ¿Qué bosque es ese? El bosque de Birnam. Orden: «Que cada soldado corte una rama y la lleve ante sí», para que el descubrimiento yerre la cuenta del ejército. Las noticias: «el tirano confiado se mantiene en Dunsinane y soportará que nos asentemos ante ella»; le sirven solo cosas forzadas, con el corazón ausente. Siward:
+Malcolm y los suyos llegan a Birnam y ordenan que cada soldado corte una rama y la lleve delante. Siward dice:
 
 > <a id="lugar-1987"></a>Se acerca el momento que, con debida decisión, nos hará saber lo que diremos que tenemos y lo que debemos.
 >
@@ -930,7 +930,7 @@ Ante Birnam. «Primos, espero que estén cerca los días en que las alcobas ser�
 
 Siward
 
-Y la última frase: «Los pensamientos especulativos cuentan sus esperanzas inseguras, pero los golpes ciertos han de arbitrar el desenlace; hacia ellos avance la guerra».
+Malcolm cierra: que decidan los golpes ciertos.
 
 ---
 
@@ -938,7 +938,7 @@ Y la última frase: «Los pensamientos especulativos cuentan sus esperanzas inse
 
 [![Grabado en línea: solo en el salón del trono en penumbra, Macbeth se hunde en el asiento de piedra con la cabeza entre las manos, abatido por la muerte de la reina; una sola antorcha alumbra la escena.](img/261009_macbeth_i-25.jpg)](img/261009_macbeth_i-25.jpg)
 
-En Dunsinane: «Colgad nuestras banderas en los muros exteriores; el grito sigue siendo: «¡Vienen!»; la fuerza del castillo se reirá del asedio». Un grito de mujeres. «Casi he olvidado el sabor del miedo», dice Macbeth: «Me he saciado de horrores; el espanto, familiar a mis pensamientos asesinos, ya no puede sobresaltarme». ¿Por qué ese grito? «La Reina, mi señor, ha muerto». Y entonces: «Debía haber muerto más adelante. Mañana, y mañana, y mañana, se arrastra a este paso mezquino de día en día, hasta la última sílaba del tiempo escrito; y todos nuestros ayeres han alumbrado a los necios el camino hacia la muerte polvorienta. ¡Apágate, apágate, breve vela! La vida no es más que una sombra que anda; un pobre actor que se pavonea y se agita su hora sobre el escenario y luego no se oye más: es un cuento contado por un idiota, lleno de ruido y de furia, que no significa nada». Llega un mensajero pálido: desde la colina miró hacia Birnam, «y de pronto me pareció que el bosque empezaba a moverse». «¡Mentiroso y esclavo!»:
+En Dunsinane, Macbeth ya casi no siente miedo. Un grito de mujeres: la reina ha muerto. Llega un mensajero pálido, que vio moverse el bosque de Birnam. Macbeth lo llama mentiroso, y el mensajero responde:
 
 > <a id="lugar-2026"></a>Que soporte vuestra ira si no es así.
 >
@@ -948,7 +948,7 @@ En Dunsinane: «Colgad nuestras banderas en los muros exteriores; el grito sigue
 
 Mensajero
 
-«A menos de tres millas podéis verlo venir; digo, una arboleda en marcha». Si mientes, colgarás vivo del próximo árbol. Macbeth, solo:
+Macbeth lo amenaza con colgarlo vivo si miente, y a solas empieza a dudar:
 
 > <a id="lugar-2030"></a>Aflojo mi resolución y empiezo a dudar de la equivocación del demonio, que miente como si dijera verdad.
 >
@@ -958,7 +958,7 @@ Mensajero
 
 Macbeth
 
-«No temas hasta que el bosque de Birnam venga a Dunsinane; y ahora un bosque viene hacia Dunsinane. ¡A las armas!». «Empiezo a cansarme del sol y desearía que el orden del mundo se deshiciera ya». La última frase: «Al menos moriremos con la armadura a la espalda».
+Comprende que el bosque sí viene, se cansa del mundo y manda a las armas.
 
 ---
 
@@ -966,7 +966,7 @@ Macbeth
 
 [![Grabado en línea: batalla campal ante las murallas de Dunsinane; caballeros a caballo chocan en medio de la polvareda mientras la infantería lucha alrededor y el castillo humea en lo alto.](img/261009_macbeth_i-26.jpg)](img/261009_macbeth_i-26.jpg)
 
-Bajo las murallas. «Ahora estamos bastante cerca», abre Malcolm: «Tirad vuestras pantallas de hojas y mostraos tal como sois». El bosque se convierte en ejército. Siward y su hijo abrirán el primer ataque. Siward:
+Ante las murallas, Malcolm manda tirar las ramas, y Siward y su hijo atacarán primero:
 
 > <a id="lugar-2048"></a>Con tal que encontremos esta noche las fuerzas del tirano, que nos derroten si no sabemos pelear.
 >
@@ -976,7 +976,7 @@ Bajo las murallas. «Ahora estamos bastante cerca», abre Malcolm: «Tirad vuest
 
 Siward
 
-Última frase, de Macduff: «Haced hablar todas nuestras trompetas; dadles todo el aliento, a esos clamorosos heraldos de sangre y muerte».
+Macduff manda que suenen todas las trompetas.
 
 ---
 
@@ -984,7 +984,7 @@ Siward
 
 [![Grabado en línea: en medio de la batalla, Macbeth feroz se yergue sobre el joven Siward, que cae de rodillas con la espada alzada en vano.](img/261009_macbeth_i-27.jpg)](img/261009_macbeth_i-27.jpg)
 
-En plena batalla. «Me han atado a un poste. No puedo huir, sino que, como oso, debo pelear la carrera»: la primera frase es de Macbeth, acorralado pero todavía dentro del hechizo («¿quién hay que no haya nacido de mujer? A ese he de temerle, o a ninguno»). Se cruza el joven Siward. «¿Cuál es tu nombre?»:
+En plena batalla, Macbeth se siente atado a un poste, pero confía en su hechizo. Se cruza el joven Siward y le pregunta el nombre:
 
 > <a id="lugar-2063"></a>Tendrás miedo de oírlo.
 >
@@ -994,7 +994,7 @@ En plena batalla. «Me han atado a un poste. No puedo huir, sino que, como oso, 
 
 Macbeth
 
-«Mi nombre es Macbeth». «El diablo mismo no podría pronunciar un título más odioso a mi oído». Pelean: el joven Siward muere, y Macbeth sale con su certeza intacta («pero me sonrío de las espadas y me burlo de las armas esgrimidas por hombre nacido de mujer»). Macduff lo busca por el campo: «¡Tirano, muestra tu cara!»:
+Macbeth lo dice, pelean y mata al joven. Macduff lo busca por el campo:
 
 > <a id="lugar-2084"></a>Si caes muerto sin golpe mío, los fantasmas de mi esposa y de mis hijos me perseguirán siempre.
 >
@@ -1004,7 +1004,7 @@ Macbeth
 
 Macduff
 
-«¡Déjame encontrarlo, Fortuna! Y no pido más». Mientras, Siward guía a Malcolm: el castillo se rindió mansamente, los del tirano pelean en ambos bandos, el día casi se declara suyo. Última frase: «Entrad, señor, en el castillo».
+Siward le dice a Malcolm que el castillo se rindió y la batalla casi está ganada.
 
 ---
 
@@ -1012,7 +1012,7 @@ Macduff
 
 [![Grabado en línea: el duelo final: Macbeth coronado y Macduff traban las espadas en lo alto sobre un campo de batalla sembrado de caídos, con el castillo humeando al fondo.](img/261009_macbeth_i-28.jpg)](img/261009_macbeth_i-28.jpg)
 
-Último campo. «¿Por qué haría yo el necio romano y moriría sobre mi propia espada?», se dice Macbeth en la primera frase: mientras vea vidas, las cuchilladas hacen mejor efecto sobre ellas. Entra Macduff: «¡Vuélvete, perro del infierno, vuélvete!». «De todos los hombres te he evitado; mi alma está ya demasiado cargada con tu sangre». «No tengo palabras; mi voz está en mi espada». Macbeth presume: «yo llevo una vida hechizada, que no debe ceder ante uno nacido de mujer». Macduff: «Desespera de tu hechizo; y que el ángel a quien siempre has servido te diga que Macduff fue arrancado antes de tiempo del vientre de su madre»:
+En el último campo, Macbeth no quiere matarse y Macduff lo encuentra. Macbeth dice que su vida está hechizada; Macduff le revela que nació antes de tiempo:
 
 > <a id="lugar-2118"></a>¡Y que no se crea más a esos demonios embusteros que juegan con nosotros en doble sentido, que cumplen la palabra de promesa para nuestro oído y la rompen para nuestra esperanza!
 >
@@ -1022,7 +1022,7 @@ Macduff
 
 Macbeth
 
-«No pelearé contigo». «Entonces ríndete, cobarde, y vive para ser el espectáculo y la mirada del tiempo»: te pintaremos en un poste, como a los monstruos raros, con el rótulo «Aquí podéis ver al tirano». «No me rendiré para besar el suelo ante los pies del joven Malcolm y ser azuzado por la maldición de la plebe. Aunque el bosque de Birnam haya venido a Dunsinane, y tú estés frente a mí sin ser nacido de mujer, probaré hasta el final. Delante de mi cuerpo arrojo mi escudo de guerra. ¡Dale, Macduff! ¡Y condenado sea el primero que grite: «¡Alto, basta!»». Salen peleando. En el castillo, la cuenta: Ross trae a Siward la noticia de su hijo —«solo vivió hasta que fue hombre; y apenas su valor lo hubo confirmado en el puesto sin flaqueza donde peleaba, murió como un hombre»— y el viejo: «Pues entonces, ¡sea soldado de Dios!». Entra Macduff con la cabeza: «Mira dónde está la cabeza maldita del usurpador: el tiempo es libre»:
+Macbeth no quiere pelear; Macduff le dice que se rinda y será exhibido como monstruo. Él se niega y salen peleando. Ross cuenta la muerte del joven Siward, y su padre se alegra de que muriera como soldado. Entra Macduff con la cabeza de Macbeth:
 
 > <a id="lugar-2161"></a>Te veo rodeado de la perla de tu reino, que dicen mi saludo en sus mentes, y cuyas voces deseo en alto junto a la mía: ¡Salve, rey de Escocia!
 >
@@ -1032,7 +1032,7 @@ Macbeth
 
 Macduff
 
-Malcolm rey: sus thanes serán desde hoy condes, los primeros que Escocia nombra con tal honor; llamará de vuelta a los exiliados; sacará a la luz a los ministros crueles «de este carnicero muerto y de su reina de aspecto demoníaco, que, según se piensa, con su propia mano violenta se quitó la vida». Y cierra la obra: «Así, gracias a todos a la vez y a cada uno, a quienes invitamos a vernos coronados en Scone».
+Malcolm es rey: hace condes a sus thanes, llama a los exiliados y castigará a los crueles. Cierra la obra invitando a su coronación en Scone.
 
 ---
 

@@ -16,57 +16,57 @@ En 1975, Jorge Luis Borges publicó *El Libro de Arena*, trece cuentos que el au
 >
 > <small>Frases 5–8</small>
 
-Borges escribe esto en 1972 y jura que le pasó de verdad en febrero de 1969, en Cambridge, una ciudad junto a Boston. Atroz quiere decir espantoso; desvelada es la noche que se pasa sin dormir. Desde la primera línea avisa que lo cuenta como cuento para no perder la razón.
+Atroz quiere decir espantoso; desvelada, la noche sin dormir. Borges avisa que lo cuenta como cuento para no perder la razón.
 
-Son las diez de la mañana y Borges está recostado en un banco frente al río Charles. El agua gris arrastra pedazos de hielo y, como pasa siempre que se mira un río, lo pone a pensar en el tiempo. No hay un alma a la vista, hasta que alguien se sienta en la otra punta del banco y se pone a silbar una milonga criolla que lo devuelve a un patio de su juventud, ya desaparecido, y a un amigo ya muerto. Después el desconocido empieza a decir los versos en voz alta.
+A las diez de la mañana, Borges está en un banco frente al río Charles, que arrastra hielo. Alguien se sienta en la otra punta, silba una milonga criolla y empieza a decir los versos en voz alta:
 
 > La voz no era la de Álvaro, pero quería parecerse a la de Álvaro. La reconocí con horror. Me le acerqué y le dije: —Señor, ¿usted es oriental o argentino? —Argentino, pero desde el catorce vivo en Ginebra —fue la contestación. Hubo un silencio largo. Le pregunté: —¿En el número diecisiete de Malagnou, frente a la iglesia rusa? Me contestó que sí.
 >
 > <small>Frases 27–33</small>
 
-Álvaro Melián Lafinur era aquel amigo de la juventud de Borges: la voz se le parece y reconocerla le da horror, porque en el fondo es su propia voz. Oriental quiere decir uruguayo, y el catorce es 1914: el desconocido vive en Ginebra desde 1914, en la calle Malagnou, la misma dirección donde Borges vivió de muchacho con su familia.
+Álvaro Melián Lafinur fue un amigo de la juventud de Borges. Oriental quiere decir uruguayo; el catorce es 1914. Ginebra y la calle Malagnou son donde Borges vivió de muchacho.
 
-El mayor le dice entonces quién es: los dos se llaman Jorge Luis Borges y están en Cambridge, en 1969. El muchacho no lo acepta: para él el banco está en Ginebra, a unos pasos del Ródano. Lo único raro que concede es el parecido, aunque el otro tenga la cabeza gris. El mayor le ofrece una prueba.
+El mayor le dice quién es: los dos se llaman Jorge Luis Borges y están en Cambridge, en 1969. El muchacho cree estar en Ginebra y solo concede el parecido. El mayor ofrece una prueba:
 
 > Yo le contesté: —Puedo probarte que no miento. Voy a decirte cosas que no puede saber un desconocido. En casa hay un mate de plata con un pie de serpientes, que trajo del Perú nuestro bisabuelo. También hay una palangana de plata, que pendía del arzón. En el armario de tu cuarto hay dos filas de libros.
 >
 > <small>Frases 40–44</small>
 
-El arzón es la parte delantera de la silla de montar, donde se cuelgan las cosas. Un mate de plata con pie de serpientes y una palangana que pendía del arzón son objetos de la casa de los Borges que ningún desconocido puede conocer: si el otro sabe eso, es que no es un desconocido. Después le nombra uno por uno los libros del armario y un atardecer en una plaza, y el muchacho solo corrige el nombre de la plaza.
+El arzón es la parte delantera de la silla de montar. Un mate de plata y una palangana eran objetos de la casa de los Borges que ningún extraño conocería.
 
-La prueba no le basta: si está soñando, ese señor puede saber todo lo que él sabe, y el catálogo de recuerdos no prueba nada. La objeción es justa y Borges la admite. Si aquello es un sueño, cada uno tiene que creerse el soñador; tal vez dejen de soñar, tal vez no. Lo que queda es aceptar el sueño como se acepta el universo. Entonces el muchacho pregunta con ansiedad qué pasa si el sueño dura.
+No basta: en un sueño, el otro podría saber todo lo que él sabe. Si es un sueño, cada uno debe creerse el soñador. El muchacho pregunta con ansiedad qué pasa si dura:
 
 > —¿Y si el sueño durara? —dijo con ansiedad. Para tranquilizarlo y tranquilizarme, fingí un aplomo que ciertamente no sentía. Le dije: —Mi sueño ha durado ya setenta años. Al fin y al cabo, al recordarse, no hay persona que no se encuentre consigo misma. Es lo que nos está pasando ahora, salvo que somos dos.
 >
 > <small>Frases 59–64</small>
 
-Aplomo es serenidad, calma. Borges, que tiene setenta años, lo tranquiliza con una broma seria: su sueño lleva setenta años y, al recordarse, cualquiera se encuentra consigo mismo; lo nuevo de esa mañana es que el encuentro es con otro que es él.
+Aplomo es serenidad. Borges tiene setenta años y calma al muchacho con una broma seria.
 
-El mayor le ofrece entonces lo que nadie puede ofrecer: contarle el porvenir, que para él es pasado.
+El mayor le ofrece contarle el porvenir, que para él es pasado:
 
 > ¿No querés saber algo de mi pasado, que es el porvenir que te espera? Asintió sin una palabra.
 >
 > <small>Frases 65–66</small>
 
-Para el viejo es recuerdo y para el joven es futuro: es la misma vida vista desde sus dos orillas. El muchacho asiente sin decir palabra.
+Para el viejo es recuerdo y para el joven futuro: es la misma vida vista desde dos orillas.
 
-Le cuenta que su madre sigue bien, en la casa de Charcas y Maipú, la esquina de Buenos Aires donde vivía la familia; que su padre murió hace años, y su abuela en la misma casa, y que su hermana Norah se casó y tiene dos hijos. Le anuncia otra guerra y un país que se encierra en sí mismo. El muchacho apenas lo escucha: lo amilana el miedo de encontrarse ante lo imposible. Y entonces vacila y pregunta por él.
+Le cuenta que su madre sigue bien, que su padre y su abuela murieron y que su hermana se casó. Anuncia otra guerra. El muchacho apenas lo escucha, y pregunta por él:
 
 > Vaciló y me dijo: —¿Y usted? —No sé la cifra de los libros que escribirás, pero sé que son demasiados. Escribirás poesías que te darán un agrado no compartido y cuentos de índole fantástica. Darás clases como tu padre y como tantos otros de nuestra sangre.
 >
 > <small>Frases 79–82</small>
 
-El muchacho quiere saber qué fue de la vida de ese señor, y la respuesta es la propia biografía de Borges: escribirá poemas y cuentos fantásticos y dará clases, como su padre y como tantos de su familia. Un agrado no compartido es un gusto que no se puede repartir con nadie.
+Un agrado no compartido es un gusto que no se puede repartir con nadie. La respuesta es la propia biografía de Borges: poemas, cuentos fantásticos y clases.
 
-Hablan de literatura, como no podía ser de otro modo. El muchacho lleva entre las manos un libro de Dostoievski y prepara unos versos para cantar la fraternidad de los oprimidos; al viejo esa masa le parece una abstracción, porque solo existen los individuos. Tampoco coinciden en las metáforas: el joven quiere inventar imágenes nuevas y el viejo prefiere las afinidades de siempre, el tiempo y el agua, los sueños y la vida. Entonces al muchacho se le ocurre una dificultad.
+Hablan de literatura y no coinciden: el joven quiere imágenes nuevas, el viejo prefiere las de siempre. Al muchacho se le ocurre una dificultad:
 
 > De pronto dijo: —Si usted ha sido yo, ¿cómo explicar que haya olvidado su encuentro con un señor de edad que en 1918 le dijo que él también era Borges? No había pensado en esa dificultad. Le respondí sin convicción: —Tal vez el hecho fue tan extraño que traté de olvidarlo. Aventuró una tímida pregunta: —¿Cómo anda su memoria? Comprendí que para un muchacho que no había cumplido veinte años, un hombre de más de setenta era casi un muerto. Le contesté: —Suele parecerse al olvido, pero todavía encuentra lo que le encargan. Estudio anglosajón y no soy el último de la clase.
 >
 > <small>Frases 132–138</small>
 
-La objeción es de lógica fina: si el viejo ya fue ese muchacho, tendría que recordar esta misma conversación desde el otro lado, y no la recuerda. Borges sale del paso: tal vez quiso olvidar algo demasiado extraño. Y contesta lo de su memoria con humor: le encuentra la vuelta todavía, aunque ande estudiando anglosajón, el idioma que se hablaba en Inglaterra hace mil años.
+Si el viejo ya fue ese muchacho, tendría que recordar esta conversación. El anglosajón es el idioma que se hablaba en Inglaterra hace mil años.
 
-La conversación ya duró demasiado para ser la de un sueño. A Borges se le ocurre de golpe una prueba que ningún sueño puede fabricar: un verso.
+La conversación dura demasiado para un sueño. Borges propone una prueba que ningún sueño fabrica: un verso.
 
 > Nuestra conversación ya había durado demasiado para ser la de un sueño. Una brusca idea se me ocurrió. —Yo te puedo probar inmediatamente —le dije— que no estás soñando conmigo. Oí bien este verso, que no has leído nunca, que yo recuerde. Lentamente entoné la famosa línea: L'hydre — univers tordant son corps écaillé d'astres.
 >
@@ -80,83 +80,83 @@ El verso es francés, del poeta Victor Hugo, y dice, más o menos: la hidra-univ
 >
 > <small>Frases 144–148</small>
 
-El verso sí lo sorprende: lo repite en voz baja, saboreando cada palabra, y confiesa que él nunca escribiría una línea así. Hugo los había unido, dice Borges: los dos admiran al mismo poeta y por un momento dejan de ser dos extraños.
+El verso lo sorprende. Victor Hugo, el gran poeta francés, los une: los dos lo admiran.
 
-El muchacho había recitado antes, con fervor, a otro poeta: Walt Whitman, el gran poeta estadounidense del siglo XIX, que cantó la vida y a los hombres comunes. El viejo recuerda una pieza en que Whitman rememora una noche feliz ante el mar, y le da una vuelta.
+El muchacho había recitado a Whitman, el gran poeta estadounidense del siglo XIX. El viejo recuerda una pieza suya y la lee al revés:
 
 > Antes, él había repetido con fervor, ahora lo recuerdo, aquella breve pieza en que Walt Whitman rememora una compartida noche ante el mar, en que fue realmente feliz. —Si Whitman la ha cantado —observé— es porque la deseaba y no sucedió. El poema gana si adivinamos que es la manifestación de un anhelo, no la historia de un hecho. Se quedó mirándome. —Usted no lo conoce —exclamó—. Whitman es incapaz de mentir.
 >
 > <small>Frases 149–154</small>
 
-Borges lee el poema al revés: si Whitman cantó esa noche feliz es porque quiso vivirla y no pudo; un poema vale más como anhelo, como deseo, que como relato de un hecho. El muchacho se rebela: para él Whitman es incapaz de mentir. Los dos aman al mismo poeta y no se entienden sobre él.
+Borges lee a Whitman como anhelo, no como hecho. Los dos aman al mismo poeta y no se entienden sobre él.
 
-Medio siglo no pasa en vano: bajo la charla de libros, el viejo comprende que no pueden entenderse, demasiado distintos y demasiado parecidos, y que discutir es inútil, porque el destino del muchacho es llegar a ser ese hombre. Entonces recuerda una fantasía de Coleridge y busca un artificio parecido: una prueba que cruce de un tiempo al otro.
+Bajo la charla, el viejo ve que no pueden entenderse, y que el destino del muchacho es llegar a ser él. Recuerda entonces una fantasía de Coleridge:
 
 > De pronto recordé una fantasía de Coleridge. Alguien sueña que cruza el paraíso y le dan como prueba una flor. Al despertarse, ahí está la flor. Se me ocurrió un artificio análogo. —Oí —le dije—, ¿tenés algún dinero?
 >
 > <small>Frases 162–166</small>
 
-Coleridge es un poeta inglés del siglo XIX. La fantasía es ésa: alguien sueña que cruza el paraíso y le dan una flor de prueba, y al despertar la flor está ahí. Si algo del sueño vuelve con uno a la vigilia, el sueño fue más que un sueño. Por eso Borges le pide dinero: un intercambio que atraviese los dos tiempos.
+Coleridge es un poeta inglés del siglo XIX. En su fantasía, una flor traída del paraíso prueba que el sueño fue real.
 
-El muchacho saca tres escudos de plata y unas piezas menores y le ofrece una moneda; Borges le tiende a cambio uno de esos billetes americanos que tienen muy diverso valor y el mismo tamaño. El joven lo examina con avidez y grita que no puede ser: el billete lleva la fecha de 1974, cinco años después de aquel banco. Meses después le dirán al narrador que los billetes de banco no llevan fecha. Para el muchacho es un milagro, y lo milagroso da miedo: hace pedazos el billete y guarda la moneda. El viejo piensa tirarla al río; la moneda de plata perdiéndose en el río de plata habría cerrado la historia con una imagen viva, pero la suerte no lo quiere.
+Intercambian una moneda y un billete americano, que lleva la fecha 1974. El muchacho grita que es imposible, rompe el billete y guarda la moneda. El viejo piensa tirarla al río, pero la suerte no lo quiere:
 
 > Respondí que lo sobrenatural, si ocurre dos veces, deja de ser aterrador. Le propuse que nos viéramos al día siguiente, en ese mismo banco que está en dos tiempos y en dos sitios. Asintió en el acto y me dijo, sin mirar el reloj, que se le había hecho tarde. Los dos mentíamos y cada cual sabía que su interlocutor estaba mintiendo. Le dije que iban a venir a buscarme.
 >
 > <small>Frases 186–190</small>
 
-Los dos quedan en verse al día siguiente y los dos saben que no irán: la despedida es una mentira cortés de los dos lados. El banco está en dos tiempos y en dos sitios porque para uno es Cambridge en 1969 y para el otro es Ginebra en 1918.
+La despedida es una mentira cortés de los dos lados. Para uno es Cambridge en 1969; para el otro, Ginebra en 1918.
 
-¿A buscarlo?, se sorprende el muchacho. Sí, le explica el viejo: cuando tenga su edad habrá perdido casi toda la vista y le quedarán el amarillo, las sombras y las luces, y la ceguera que llega despacio no es una tragedia, es como un lento atardecer de verano. Se despiden sin tocarse. Al día siguiente Borges no vuelve al banco y supone que el otro tampoco fue. Después, durante años, le da vueltas al encuentro.
+Quedan en verse al día siguiente; el viejo le dice que, cuando tenga su edad, habrá perdido casi toda la vista. Se despiden sin tocarse y ninguno va. Durante años, Borges le da vueltas al encuentro:
 
 > He cavilado mucho sobre este encuentro, que no he contado a nadie. Creo haber descubierto la clave. El encuentro fue real, pero el otro conversó conmigo en un sueño y fue así que pudo olvidarme; yo conversé con él en la vigilia y todavía me atormenta el recuerdo. El otro me soñó, pero no me soñó rigurosamente. Soñó, ahora lo entiendo, la imposible fecha en el dólar.
 >
 > <small>Frases 202–206</small>
 
-Cavilar es pensar mucho, darle vueltas a una cosa. La clave que encuentra Borges cierra el cuento: el muchacho lo soñó y por eso pudo olvidarlo, y soñó también la fecha imposible del dólar; él lo vivió despierto y por eso el recuerdo todavía lo atormenta.
+Cavilar es pensar mucho. El muchacho lo soñó y por eso pudo olvidarlo; Borges lo vivió despierto y por eso aún lo atormenta.
 
 ## 2. Ulrica
 
 [![Óleo de fantasía: Ulrica y Javier caminan por la nieve junto a una posada y, en un cuarto en ruinas, una espada yace entre los dos amantes, al estilo de El Bosco](img/261012_borges_arena_i-2.jpg)](img/261012_borges_arena_i-2.jpg)
 
-Javier Otárola, profesor colombiano, cuenta su encuentro con Ulrica: una noche y una mañana en la ciudad de York. Se conocen en la salita del Northern Inn, donde ella rehúsa una copa y dice que es feminista. Alguien comenta que no es la primera vez que los noruegos entran en York, y ella responde que Inglaterra fue de ellos y la perdieron, si es que alguien puede tener algo o algo puede perderse. A la mañana siguiente él baja temprano al comedor; ha nevado y los páramos se pierden en la mañana. Ulrica lo invita a su mesa y le dice que le gusta salir a caminar sola.
+Javier Otárola, profesor colombiano, conoce a Ulrica una noche en York; ella dice que es feminista. A la mañana siguiente lo invita a su mesa y dice que le gusta caminar sola.
 
 > Recordé una broma de Schopenhauer y contesté: —A mí también. Podemos salir juntos los dos.
 >
 > <small>Frases 246–247</small>
 
-Arthur Schopenhauer, filósofo alemán del siglo XIX, escribió que la soledad es la suerte de los espíritus grandes. Ella acaba de decir que le gusta caminar sola; él responde que a él también, y así los dos pueden salir solos, juntos. La broma abre la caminata.
+Arthur Schopenhauer fue un filósofo alemán del siglo XIX que escribió que la soledad es la suerte de los espíritus grandes.
 
-Se alejan de la posada sobre la nieve joven y no hay un alma en los campos. Él propone ir a Thorgate, río abajo, y sabe que ya está enamorado. De pronto, un aullido lejano.
+Caminan sobre la nieve, él ya enamorado, hasta que se oye un aullido lejano.
 
 > Oí de pronto el lejano aullido de un lobo. No he oído nunca aullar a un lobo, pero sé que era un lobo. Ulrica no se inmutó.
 >
 > <small>Frases 252–254</small>
 
-Hace siglos que no quedan lobos en Inglaterra. El aullido llega como una señal del tiempo antiguo, el de las sagas del Norte del que Ulrica viene: ella ni siquiera se sorprende.
+Hace siglos que no quedan lobos en Inglaterra: el aullido es una señal del tiempo antiguo de las sagas del Norte.
 
-Esa tarde los caminos se separan: ella seguirá hacia Londres y él hacia Edimburgo. Ulrica dice que en Oxford Street repetirá los pasos de De Quincey, que buscaba a su Anna perdida entre las muchedumbres de Londres.
+Esa tarde sus caminos se separan: ella irá a Londres, a repetir los pasos de De Quincey, que buscaba a su Anna perdida.
 
 > —De Quincey —respondí— dejó de buscarla. Yo, a lo largo del tiempo, sigo buscándola. —Tal vez —dijo en voz baja— la has encontrado. Comprendí que una cosa inesperada no me estaba prohibida y le besé la boca y los ojos. Me apartó con suave firmeza y luego declaró: —Seré tuya en la posada de Thorgate. Te pido mientras tanto, que no me toques. Es mejor que así sea.
 >
 > <small>Frases 259–265</small>
 
-Thomas De Quincey, escritor inglés del siglo XIX, perdió a una muchacha llamada Anna en Londres y la buscó por años entre la multitud. Javier le dice a Ulrica que él todavía la sigue buscando; ella responde que tal vez ya la ha encontrado y le promete su amor en la posada de Thorgate, con una condición.
+Thomas De Quincey, escritor inglés del siglo XIX, perdió a una muchacha, Anna, en Londres y la buscó años entre la multitud. Ulrica promete su amor a Javier en la posada de Thorgate, con una condición.
 
-Tomados de la mano siguen. Él le dice que todo esto es como un sueño y que él nunca sueña; ella le habla de un rey que no soñó hasta que un hechicero lo hizo dormir en una pocilga, y oye un pájaro antes de que cante: en esas tierras piensan que quien está por morir prevé lo futuro. Él quisiera que la mañana no terminara.
+Siguen de la mano. Él quisiera que la mañana no terminara.
 
 > —Yo querría que este momento durara siempre —murmuré. —Siempre es una palabra que no está permitida a los hombres —afirmó Ulrica y, para aminorar el énfasis, me pidió que le repitiera mi nombre, que no había oído bien.
 >
 > <small>Frases 285–286</small>
 
-Ulrica niega la palabra siempre: a los hombres solo les toca el instante. Para suavizar lo que ha dicho, le pide otra vez su nombre. Ninguno de los dos consigue pronunciar el del otro (él no puede con Ulrikke, ella con Javier Otárola) y entonces se rebautizan: Sigurd y Brynhild. Él le pregunta si conoce la saga.
+Ulrica niega la palabra siempre: a los hombres solo les toca el instante. Ella le pide su nombre; no logran pronunciar el del otro, y se rebautizan Sigurd y Brynhild. Él pregunta si conoce la saga.
 
 > —Por supuesto —me dijo—. La trágica historia que los alemanes echaron a perder con sus tardíos Nibelungos. No quise discutir y le respondí: —Brynhild, caminas como si quisieras que entre los dos hubiera una espada en el lecho.
 >
 > <small>Frases 295–297</small>
 
-La saga de los Völsungas, islandesa, cuenta el amor trágico de Sigurd y Brynhild, que durmieron con la espada Gram desenvainada entre los dos: es el verso que abre este cuento. El Cantar de los Nibelungos es la versión alemana, más tardía. Ulrica defiende la suya.
+La saga de los Völsungas, islandesa, cuenta el amor trágico de Sigurd y Brynhild, que durmieron con la espada Gram desenvainada entre los dos. El Cantar de los Nibelungos es la versión alemana.
 
-Están de golpe ante la posada, que se llama, como la otra, Northern Inn. Arriba, en el cuarto oscuro, ella lo llama por su verdadero nombre, Javier. Ya no quedan muebles ni espejos, ni una espada entre los dos. El tiempo se va como la arena, y él posee, por primera y última vez, la imagen de Ulrica.
+Llegan a la posada, que se llama como la otra. Arriba, en el cuarto oscuro, ella lo llama por su verdadero nombre. Él posee, por primera y última vez, la imagen de Ulrica.
 
 ---
 
@@ -230,7 +230,7 @@ No importan las imágenes sueltas de la noche: importa haber sentido que el plan
 
 [![Óleo de fantasía: una casa solitaria de Texas, con ventanas selladas, que esconde una presencia monstruosa, al estilo de El Bosco](img/261012_borges_arena_i-4.jpg)](img/261012_borges_arena_i-4.jpg)
 
-A punto de rendir el último examen de filosofía en la Universidad de Texas, el narrador sabe que su tío Edwin Arnett ha muerto. El tío, ingeniero jubilado, lo había iniciado en las perplejidades de la filosofía allá en la Casa Colorada, cerca de Lomas: con una naranja le enseñó el idealismo de Berkeley y con el tablero de ajedrez, las paradojas de Zenón.
+Antes del último examen de filosofía en Texas, el narrador sabe que murió su tío Edwin Arnett, ingeniero jubilado, que lo había iniciado en la filosofía en la Casa Colorada, cerca de Lomas.
 
 > Sentí lo que sentimos cuando alguien muere: la congoja, ya inútil, de que nada nos hubiera costado haber sido más buenos. El hombre olvida que es un muerto que conversa con muertos.
 >
@@ -238,7 +238,7 @@ A punto de rendir el último examen de filosofía en la Universidad de Texas, el
 
 La congoja de que nada nos hubiera costado ser más buenos: eso sentimos cuando alguien muere. Y sin embargo lo olvidamos: cada hombre es un muerto que conversa con muertos.
 
-Regresado a la patria en 1921, el sobrino averigua que la casa fue rematada para evitar litigios. La compró un forastero, Max Preetorius, que pagó el doble del mejor postor, tiró a un vaciadero todos los muebles, todos los libros y todos los enseres, y se instaló de noche, con muebles nuevos hechos a puertas cerradas. Las ventanas no volvieron a abrirse, aunque en la oscuridad se divisaban grietas de luz; el ovejero del tío amaneció decapitado en la acera; talaron las araucarias. Nadie volvió a ver a Preetorius. El sobrino, cuyo rasgo más notorio es la curiosidad, decide indagar. Visita primero a Alexander Muir, el arquitecto de la casa, amigo íntimo del tío, que rechazó con indignación las refacciones que le propuso el comprador. Al despedirse, Muir le cuenta que antes de morir Edwin, el intendente y el cura le propusieron trazar los planos de una capilla católica, y que él se negó: es un servidor del Señor y no puede erigir altares para ídolos.
+De vuelta en 1921, averigua que la casa fue rematada. La compró un forastero, Max Preetorius, que tiró todos los muebles y libros, se instaló de noche y no volvió a abrir las ventanas. Nadie volvió a verlo. El sobrino, curioso, visita a Alexander Muir, el arquitecto de la casa, que rechazó refacciones del comprador. Muir le cuenta que, antes de morir Edwin, el intendente y el cura le propusieron trazar una capilla católica, y que se negó:
 
 > —¿Eso es todo? —me atreví a preguntar. —No. El judezno ese de Preetorius quería que yo destruyera mi obra y que en su lugar pergeñara una cosa monstruosa. La abominación tiene muchas formas.
 >
@@ -246,7 +246,7 @@ Regresado a la patria en 1921, el sobrino averigua que la casa fue rematada para
 
 Muir es escocés y calvinista: la abominación de los ídolos tiene para él muchas formas, y la última es el judío Preetorius, que quería que destruyera su obra y pergeñara en su lugar una cosa monstruosa.
 
-Al doblar la esquina se le acerca Daniel Iberra, el brazo derecho de don Felipe, un malevo del que nadie ha dicho flojo. Iberra le propone volver caminando y, al divisar la Casa Colorada en el alto, se desvía. Entonces le cuenta por qué.
+Al doblar la esquina lo alcanza Daniel Iberra, un malevo, que se desvía al ver la Casa Colorada en lo alto. Le cuenta por qué:
 
 > Noches pasadas, yo venía de una farra. A unas cien varas de la quinta, vi algo. El tubiano se me espantó y si no me le afirmo y lo hago tomar por el callejón, tal vez no cuento el cuento. Lo que vi no era para menos. Muy enojado, agregó una mala palabra. Aquella noche no dormí.
 >
@@ -254,7 +254,7 @@ Al doblar la esquina se le acerca Daniel Iberra, el brazo derecho de don Felipe,
 
 El tubiano es el caballo, en el habla de los malevos. Iberra no dice lo que vio a cien varas de la quinta; solo que esa noche no durmió y que hacia el alba soñó con un laberinto como los grabados de Piranesi, el artista italiano de las cárceles imaginarias: un anfiteatro de piedra sin puertas ni ventanas, y adentro, tendido en la tierra, el minotauro: el monstruo de un monstruo.
 
-Una jugada le quedaba al sobrino, que fue demorando durante días: Mariani, el carpintero de Glew que amuebló la casa trabajando una quincena de noche y a puertas cerradas. Mariani, un italiano obeso y cordial, declara que su lema es satisfacer todas las exigencias del cliente, por estrafalarias que fueran, y que él ejecutó su trabajo al pie de la letra; pero por todo el oro del mundo no volvería a poner los pies en Turdera y menos en la casa. En su humilde opinión, el señor Preetorius estaba loco. Nada más se le puede sonsacar. El sobrino había previsto ese fracaso, pero una cosa es prever algo y otra que ocurra.
+Queda el carpintero Mariani, que amuebló la casa de noche y a puertas cerradas. Hizo el trabajo al pie de la letra, pero por todo el oro del mundo no volvería a Turdera, y dice que Preetorius estaba loco. No saca más.
 
 > Repetidas veces me dije que no hay otro enigma que el tiempo, esa infinita urdimbre del ayer, del hoy, del porvenir, del siempre y del nunca.
 >
@@ -262,7 +262,7 @@ Una jugada le quedaba al sobrino, que fue demorando durante días: Mariani, el c
 
 Ni Schopenhauer ni Royce le sirven: el único enigma no está en la casa sino en el tiempo, esa urdimbre infinita de lo que fue, de lo que es y de lo que será. Aun así, noche tras noche, sigue rondando los caminos de tierra que cercan la Casa Colorada; a veces divisa arriba una luz muy blanca, a veces cree oír un gemido.
 
-El diecinueve de enero, uno de esos días en que el verano de Buenos Aires envilece al hombre, se desploma la tormenta. Primero el viento sur y después el agua a raudales. A la brusca luz de un relámpago se halla a unos pasos de la verja; prueba el portón y, inesperadamente, cede. También la puerta de la casa está a medio abrir. Adentro levantaron las baldosas y pisa pasto desgreñado; un olor dulce y nauseabundo penetra la casa. Hace girar la llave de la luz: el comedor y la biblioteca de sus recuerdos son ahora una sola gran pieza desmantelada, con muebles que no sabría describir, porque para ver una cosa hay que comprenderla, y ninguna de esas formas insensatas correspondía a la figura humana ni a un uso concebible. Descubre una escalera vertical que da al otro piso y sube.
+El diecinueve de enero se desploma la tormenta. En un relámpago, el sobrino ve que el portón cede y la puerta de la casa está medio abierta. Adentro, el comedor y la biblioteca son una sola pieza desmantelada, con muebles de formas incomprensibles. Descubre una escalera vertical y sube:
 
 > Esa escalera, que postulaba manos y pies, era comprensible y de algún modo me alivió. Apagué la luz y aguardé un tiempo en la oscuridad. No oí el menor sonido, pero la presencia de las cosas incomprensibles me perturbaba.
 >
@@ -276,7 +276,7 @@ La escalera, que postula manos y pies, es lo único comprensible de la casa y de
 
 El habitante no es de aquí: el planeta es tan atroz para él como él para nosotros. El intruso en el caos es el sobrino, que entró donde no lo llamaban.
 
-Afuera ha cesado la lluvia; mira el reloj y ve con asombro que son casi las dos. Acomete cautelosamente el descenso, antes de que el habitante vuelva. Sus pies tocan el penúltimo tramo de la escalera cuando siente que algo asciende por la rampa, opresivo y lento y plural. La curiosidad puede más que el miedo y no cierra los ojos.
+Afuera cesó la lluvia y son casi las dos. Baja cautelosamente, y a mitad de la escalera siente que algo asciende, opresivo, lento y plural. No cierra los ojos.
 
 ---
 
@@ -284,7 +284,7 @@ Afuera ha cesado la lluvia; mira el reloj y ve con asombro que son casi las dos.
 
 [![Óleo de fantasía: treinta herejes en círculo ante un manuscrito, con Cristo y Judas enfrentados como en un espejo, al estilo de El Bosco](img/261012_borges_arena_i-5.jpg)](img/261012_borges_arena_i-5.jpg)
 
-Un manuscrito anónimo del siglo cuarto se conserva en la Biblioteca de la Universidad de Leiden: lo escribió un cristiano que discutió largamente con los maestros de una secta, sin lograr convertirlos a la Fe del Señor. Los sectarios no tienen nada: venden lo que poseen y lo dan a los pobres, andan desnudos, duermen a la vera de los caminos o en las ruinas, porque les está vedado construir viviendas.
+Un manuscrito anónimo del siglo cuarto, guardado en la Biblioteca de Leiden, cuenta la discusión de un cristiano con los maestros de una secta que vive sin nada, desnuda y sin casa:
 
 > Repiten con fervor las palabras: Considerad los cuervos, que ni siembran ni siegan, que ni tienen cillero, ni alfolí; y Dios los alimenta. ¿Cuánto de más estima sois vosotros que las aves? El texto proscribe el ahorro: Si así viste Dios a la hierba, que hoy está en el campo, y mañana es echada en el horno, ¿cuánto más vosotros, hombres de poca fe? Vosotros, pues, no procuréis qué hayáis de comer, o qué hayáis de beber; ni estéis en ansiosa perplejidad.
 >
@@ -292,7 +292,7 @@ Un manuscrito anónimo del siglo cuarto se conserva en la Biblioteca de la Unive
 
 Las palabras que repiten son de Jesús, en el Evangelio: Dios alimenta a los cuervos y viste a la hierba del campo. Los sectarios extraen la consecuencia extrema: el texto proscribe el ahorro, y por eso viven sin nada.
 
-El nombre de la Secta ha suscitado conjeturas tenaces: que es la cifra a que están reducidos los fieles, que viene de los treinta codos de altura del arca de Noé, del número de noches de cada mes lunar, del bautismo del Salvador, de los años de Adán cuando surgió del polvo rojo. Todas, dice el cronista, son igualmente falsas. Él anuncia que expondrá la herejía, aunque confiesa su límite.
+El nombre de la Secta ha dado muchas conjeturas, todas falsas, dice el cronista. Él expondrá la herejía, aunque confiesa su límite:
 
 > Sé la Verdad pero no puedo razonar la Verdad. El inapreciable don de comunicarla no me ha sido otorgado. Que otros, más felices que yo, salven a los sectarios por la palabra. Por la palabra o por el fuego. Más vale ser ejecutado que darse muerte. Me limitaré pues a la exposición de la abominable herejía.
 >
@@ -300,7 +300,7 @@ El nombre de la Secta ha suscitado conjeturas tenaces: que es la cifra a que est
 
 Por la palabra o por el fuego: al cronista no le temblaría la mano con el fuego. Y esa frase, "más vale ser ejecutado que darse muerte", pesará distinto cuando sepamos cómo mueren los iniciados.
 
-Para llegar al secreto de los Treinta, el manuscrito vuelve a la Pasión. El Verbo se hizo carne no sólo para predicar el Amor, sino para sufrir el martirio.
+Para llegar al secreto, el manuscrito vuelve a la Pasión: el Verbo se hizo carne para sufrir el martirio.
 
 > Era preciso que las cosas fueran inolvidables. No bastaba la muerte de un ser humano por el hierro o por la cicuta para herir la imaginación de los hombres hasta el fin de los días. El Señor dispuso los hechos de manera patética. Tal es la explicación de la última cena, de las palabras de Jesús que presagian la entrega, de la repetida señal a uno de los discípulos, de la bendición del pan y del vino, de los juramentos de Pedro, de la solitaria vigilia en Gethsemaní, del sueño de los doce, de la plegaria humana del Hijo, del sudor como sangre, de las espadas, del beso que traiciona, de Pilato que se lava las manos, de la flagelación, del escarnio, de las espinas, de la púrpura y del cetro de caña, del vinagre con hiel, de la Cruz en lo alto de una colina, de la promesa al buen ladrón, de la tierra que tiembla y de las tinieblas.
 >
@@ -308,7 +308,7 @@ Para llegar al secreto de los Treinta, el manuscrito vuelve a la Pasión. El Ver
 
 La muerte del Señor fue dispuesta "de manera patética", es decir con el arte de una tragedia, para herir la imaginación de los hombres hasta el fin de los días: de ahí la última cena, los juramentos de Pedro, la vigilia en Getsemaní.
 
-La auténtica y secreta razón del nombre está en Kerioth, donde verosímilmente nació Judas: allí perdura un conventículo que se apoda los Treinta Dineros. En la tragedia de la Cruz —escribe el cronista con debida reverencia— hubo actores voluntarios e involuntarios, todos imprescindibles: involuntarios los sacerdotes que entregaron los dineros de plata, la plebe que eligió a Barrabás, el procurador de Judea, los romanos que clavaron los clavos; voluntarios, sólo dos: el Redentor y Judas, que arrojó las treinta piezas y se ahorcó, a la sazón de treinta y tres años, como el Hijo del Hombre. La Secta los venera por igual y absuelve a los otros: no hay un solo culpable; todos ejecutaron, a sabiendas o no, el plan que trazó la Sabiduría.
+El nombre viene de Kerioth, donde nació Judas, y de un conventículo llamado los Treinta Dineros. En la tragedia de la Cruz hubo actores involuntarios y dos voluntarios, el Redentor y Judas, que murió a los treinta y tres años como el Hijo del Hombre. La Secta los venera por igual:
 
 > Mi mano se resiste a escribir otra abominación. Los iniciados, al cumplir la edad señalada, se hacen escarnecer y crucificar en lo alto de un monte, para seguir el ejemplo de sus maestros. Esta violación criminal del quinto mandamiento debe ser reprimida con el rigor que las leyes humanas y divinas han exigido siempre.
 >
@@ -316,7 +316,7 @@ La auténtica y secreta razón del nombre está en Kerioth, donde verosímilment
 
 La edad señalada son los treinta y tres años: los iniciados se hacen crucificar para seguir el ejemplo de sus dos maestros. El quinto mandamiento es "no matarás", y ellos se hacen matar: por eso la frase de antes, "más vale ser ejecutado que darse muerte".
 
-El cronista invoca las maldiciones del Firmamento y el odio de los ángeles, y la frase se corta ahí: el fin del manuscrito no se ha encontrado.
+El cronista invoca maldiciones y la frase se corta: no se encontró el fin del manuscrito.
 
 ---
 
@@ -324,49 +324,49 @@ El cronista invoca las maldiciones del Firmamento y el odio de los ángeles, y l
 
 [![Óleo de fantasía: la Cautiva relata su historia mientras irrumpen los orilleros y un muchacho se esconde en la escalera, al estilo de El Bosco](img/261012_borges_arena_i-6.jpg)](img/261012_borges_arena_i-6.jpg)
 
-En la antigua Confitería del Águila se debate el problema del conocimiento: alguien invoca la tesis platónica de que conocer es reconocer. Un señor de edad, un poco perdido en esa metafísica, toma la palabra y ofrece contar lo que le dejó cierta noche que suele traer a la memoria, la del treinta de abril del 74. Era un muchacho de casi trece años, de veraneo en una estancia cerca de Lobos, cuando un peón llamado Rufino le propuso ir un sábado a la noche a divertirse al pueblo. En la casa de La Estrella, entre las mujeres de batones floreados, hay una que le parece distinta: le dicen la Cautiva, tiene algo de aindiado, los ojos muy tristes y la trenza hasta la cintura. Rufino advierte que el muchacho la mira.
+En la Confitería del Águila se debate el problema del conocimiento, y un señor de edad ofrece contar lo que le dejó la noche del treinta de abril del 74. Era un muchacho de casi trece años, de veraneo cerca de Lobos, y el peón Rufino lo lleva a divertirse al pueblo. En la casa de La Estrella le llama la atención una mujer, la Cautiva, de ojos tristes y trenza hasta la cintura.
 
 > La muchacha habló como si estuviera sola y de algún modo yo sentí que no podía pensar en otra cosa y que esa cosa era lo único que le había pasado en la vida.
 >
 > <small>Frase 892</small>
 
-El malón era la invasión de los indios a las estancias de la frontera. La Cautiva habla como si estuviera sola, como quien dice una oración: esa historia es lo único que le ha pasado en la vida. Cuando era muy chica la trajeron de Catamarca; en la estancia ni mentaban los malones, de miedo.
+El malón era la invasión de los indios a las estancias de la frontera. La Cautiva habla como quien reza: esa historia es lo único que le ha pasado. De chica la trajeron de Catamarca; en la estancia ni mentaban los malones, de miedo.
 
 > Hice lo que pude para no creer. Lucas mi hermano, que después lo lancearon, me perjuraba que eran todas mentiras, pero cuando una cosa es verdad basta que alguien la diga una sola vez para que uno sepa que es cierto. El gobierno les reparte vicios y yerba para tenerlos quietos, pero ellos tienen brujos muy precavidos que les dan su consejo. A una orden del cacique no les cuesta nada atropellar entre los fortines, que están desparramados. De puro cavilar, yo casi tenía ganas que se vinieran y sabía mirar para el rumbo que el sol se pone.
 >
 > <small>Frases 898–902</small>
 
-Su hermano Lucas, que después fue lanceado, le perjuraba que eran todas mentiras; pero cuando una cosa es verdad basta que alguien la diga una sola vez. De puro cavilar, ella casi tenía ganas de que se vinieran los indios, y sabía mirar para el rumbo que el sol se pone. Una madrugada ocurrió: los animales lo supieron antes que los cristianos, y desde la verja vieron la polvareda antes que los indios.
+Su hermano Lucas le perjuraba que eran mentiras, pero basta que alguien diga una cosa verdadera una sola vez. Una madrugada ocurrió: los animales lo supieron antes que los cristianos.
 
-Mientras la Cautiva habla, de memoria, el muchacho oye en la calle los indios del desierto y los gritos. De un empellón, unos hombres entran a la sala como si entraran a caballo, en las piezas de un sueño: no son los indios del relato, sino orilleros borrachos. El que viene en punta le asesta un codazo a Rufino, que se demuda y se hace a un lado. La señora de la casa, que no se había movido de su lugar, se levanta y les dice quién es.
+Mientras ella habla, el muchacho oye gritos en la calle. Unos orilleros borrachos entran a la sala como a caballo. El primero le da un codazo a Rufino, que se hace a un lado. La señora de la casa se levanta y les dice quién es.
 
 > Éste se demudó y se hizo a un lado. La señora, que no se había movido de su lugar, se levantó y nos dijo: »—Es Juan Moreira. »Pasado el tiempo, ya no sé si me acuerdo del hombre de esa noche o del que vería tantas veces después en el picadero. Pienso en la melena y en la barba negra de Podestá, pero también en una cara rubiona, picada de viruela.
 >
 > <small>Frases 924–927</small>
 
-Juan Moreira: el gaucho más famoso y más temido de la provincia, perseguido por la policía. Pasado el tiempo, el narrador ya no sabe si recuerda al hombre de esa noche o al que vería tantas veces después en el picadero, ya muerto. El perrito sale corriendo a hacerle fiestas y Moreira lo mata de un talerazo. Ahí, dice el viejo, empieza de veras la historia.
+Juan Moreira fue un gaucho famoso y temido, perseguido por la policía. El perrito sale a hacerle fiestas y Moreira lo mata de un talerazo. Ahí, dice el viejo, empieza de veras la historia.
 
-El muchacho gana sin ruido una de las puertas, sube una escalera y se esconde, temblando, en una pieza oscura. Abajo no cejan los gritos. Oye unos pasos de mujer que suben y una voz que lo llama como en un susurro.
+El muchacho sube a una pieza oscura y se esconde, temblando. Oye pasos de mujer y una voz que lo llama.
 
 > —Yo estoy aquí para servir, pero a gente de paz. Acercate que no te voy a hacer ningún mal. »Ya se había quitado el batón. Me tendí a su lado y le busqué la cara con las manos. No sé cuánto tiempo pasó. No hubo una palabra ni un beso. Le deshice la trenza y jugué con el pelo, que era muy lacio, y después con ella. No volveríamos a vernos y no supe nunca su nombre.
 >
 > <small>Frases 940–946</small>
 
-Sin una palabra ni un beso: el amor sin nombre, el primero de los dones de esa noche. No volverían a verse y él nunca supo el nombre de la Cautiva.
+Sin una palabra ni un beso: el amor sin nombre, el primero de los dones de esa noche.
 
-Un balazo los aturde. La Cautiva le indica otra escalera y él sale a una calle de tierra, en la noche de luna. Un sargento de policía, con rifle y bayoneta calada, vigila la tapia.
+Un balazo los aturde. La Cautiva le indica otra escalera y él sale a la calle, donde un sargento vigila la tapia.
 
 > Se rió y me dijo: »—A lo que veo, sos de los que madrugan temprano. »Algo debí de contestar, pero no me hizo caso. Por la tapia un hombre se descolgaba. De un brinco, el sargento le clavó el acero en la carne. El hombre se fue al suelo, donde quedó tendido de espaldas, gimiendo y desangrándose. Yo me acordé del perro. El sargento, para acabarlo de una buena vez, le volvió a hundir la bayoneta. Con una suerte de alegría le dijo: »—Moreira, lo que es hoy de nada te valió disparar.
 >
 > <small>Frases 952–959</small>
 
-El hombre que se descuelga por la tapia es Moreira: el balazo que aturdió a los dos fue suyo. El muchacho se acuerda del perro: la misma muerte, dada dos veces. Es el segundo don de la noche: mirar la muerte. Todos quieren estrecharle la mano al sargento; el muchacho va de grupo en grupo contando lo que vio, hasta que se siente muy cansado. Busca a Rufino y vuelven; desde el caballo ven la luz blanca del alba.
+El hombre que se descuelga por la tapia es Moreira: el balazo fue suyo. Es el segundo don de la noche: mirar la muerte, la misma que sufrió el perro. Todos quieren estrechar la mano al sargento.
 
 > En el término escaso de unas horas yo había conocido el amor y yo había mirado la muerte. A todos los hombres le son reveladas todas las cosas o, por lo menos, todas aquellas cosas que a un hombre le es dado conocer, pero a mí, de la noche a la mañana, esas dos cosas esenciales me fueron reveladas. Los años pasan y son tantas las veces que he contado la historia que ya no sé si la recuerdo de veras o si sólo recuerdo las palabras con que la cuento. Tal vez lo mismo le pasó a la Cautiva con su malón.
 >
 > <small>Frases 972–975</small>
 
-Los dos dones: el amor y la muerte, revelados en unas horas. Y la duda que enlaza con la discusión de la confitería: tantas veces ha contado la historia que ya no sabe si la recuerda de veras o si solo recuerda las palabras con que la cuenta. Tal vez lo mismo le pasó a la Cautiva con su malón. Ahora lo mismo da que fuera él o que fuera otro el que vio matar a Moreira.
+Los dos dones, el amor y la muerte, se revelaron en unas horas. Tantas veces ha contado la historia que ya no sabe si la recuerda o solo recuerda las palabras. Tal vez lo mismo le pasó a la Cautiva con su malón.
 
 ---
 
@@ -374,37 +374,37 @@ Los dos dones: el amor y la muerte, revelados en unas horas. Y la duda que enlaz
 
 [![Óleo de fantasía: el poeta sajón ante su rey, con un espejo y una máscara, y un ruiseñor en la ventana, al estilo de El Bosco](img/261012_borges_arena_i-7.jpg)](img/261012_borges_arena_i-7.jpg)
 
-Librada la batalla de Clontarf, en la que fue humillado el noruego, el Alto Rey de Irlanda pide al poeta una loa que amonede su victoria: él será Eneas y el poeta, su Virgilio; la empresa los hará inmortales a los dos. El poeta acepta: es el Ollan, ha cursado durante doce inviernos las disciplinas de la métrica, sabe de memoria las trescientas sesenta fábulas que son la base de la verdadera poesía; sólo una cosa ignora, dice, la de agradecer el don. El Rey le deja un año entero: limará cada letra y cada palabra. Cumplido el plazo, que fue de epidemias y rebeliones, el poeta presenta el panegírico y lo declama con lenta seguridad. El Rey lo aprueba: no hay en toda la loa una sola imagen que no hayan usado los clásicos; si se perdiera toda la literatura de Irlanda, podría reconstruirse sin pérdida con esa oda. Treinta escribas la van a transcribir dos veces. Hubo un silencio y prosiguió.
+Tras la batalla de Clontarf, el Alto Rey de Irlanda pide al poeta una loa que amonede su victoria, y que los haga inmortales a los dos. El poeta es el Ollan, sabe de memoria trescientas sesenta fábulas y pide un año para limar cada palabra. Declama la loa y el Rey la aprueba: no hay una imagen que no hayan usado los clásicos. Ordena que treinta escribas la copien dos veces. Hay un silencio, y prosigue:
 
 > —Todo está bien y sin embargo nada ha pasado. En los pulsos no corre más a prisa la sangre. Las manos no han buscado los arcos. Nadie ha palidecido. Nadie profirió un grito de batalla, nadie opuso el pecho a los vikings.
 >
 > <small>Frases 1019–1023</small>
 
-La primera oda es perfecta y no pasa nada: nadie palidece, nadie grita, la sangre no corre más a prisa. La recompensa es un espejo de plata: el signo de un arte que refleja lo ya dicho. El poeta da las gracias y comprende.
+La primera oda es perfecta y no pasa nada: nadie palidece ni grita. La recompensa es un espejo de plata: un arte que refleja lo ya dicho.
 
-Otra vez cantó el ruiseñor en las selvas sajonas y el poeta retornó con su códice, menos largo que el anterior.
+Otra vez cantó el ruiseñor, y el poeta volvió con un códice menos largo.
 
 > Otra vez cantó el ruiseñor en las selvas sajonas y el poeta retornó con su códice, menos largo que el anterior. No lo repitió de memoria; lo leyó con visible inseguridad, omitiendo ciertos pasajes, como si él mismo no los entendiera del todo o no quisiera profanarlos. La página era extraña. No era una descripción de la batalla, era la batalla.
 >
 > <small>Frases 1028–1031</small>
 
-La segunda loa es extraña: la lee con inseguridad, omitiendo pasajes, como si él mismo no los entendiera del todo o no quisiera profanarlos. Rompe las normas de la lengua y mezcla al Dios que es Tres y es Uno con los númenes paganos de Irlanda. El Rey cambia unas palabras con los hombres de letras y falla: ésta supera todo lo anterior y también lo aniquila; no la merecerán los ignaros, sino los doctos, los menos. La recompensa es una máscara de oro, y el Rey recuerda que en las fábulas prima el número tres. El poeta da las gracias y ha entendido.
+La segunda loa rompe las normas de la lengua y mezcla al Dios que es Tres y es Uno con los númenes paganos de Irlanda. El Rey juzga que supera todo lo anterior y también lo aniquila: no la merecerán los ignaros, sino los doctos. La recompensa es una máscara de oro.
 
-El aniversario vuelve. Los centinelas advierten que el poeta no trae manuscrito. El Rey lo mira no sin estupor: casi es otro; algo que no es el tiempo le ha surcado los rasgos, y los ojos parecen mirar muy lejos o haber quedado ciegos. A solas con él, le pregunta si ha ejecutado la oda.
+Vuelve el aniversario y el poeta no trae manuscrito. El Rey lo ve casi otro, con los ojos puestos muy lejos. A solas, le pregunta si hizo la oda:
 
 > —Sí —dijo tristemente el poeta—. Ojalá Cristo Nuestro Señor me lo hubiera prohibido. —¿Puedes repetirla? —No me atrevo. —Yo te doy el valor que te hace falta —declaró el Rey. El poeta dijo el poema. Era una sola línea. Sin animarse a pronunciarla en voz alta, el poeta y su Rey la paladearon, como si fuera una plegaria secreta o una blasfemia.
 >
 > <small>Frases 1057–1064</small>
 
-El poema final es una sola línea. Los dos la paladean sin animarse a pronunciarla en voz alta, como si fuera una plegaria secreta o una blasfemia, y ambos se miran, muy pálidos. El Rey ha visto en sus viajes lebreles de plata que daban muerte a jabalíes de oro, manzanas mágicas, murallas de fuego, un río abovedado que surcaba el cielo: maravillas que no se comparan con el poema, que de algún modo las encierra. Le pregunta qué hechicería se lo dio.
+El poema final es una sola línea. Los dos la paladean sin animarse a decirla en voz alta, como una plegaria secreta o una blasfemia, y se miran pálidos. El Rey le pregunta qué hechicería se lo dio.
 
 > —En el alba —dijo el poeta— me recordé diciendo unas palabras que al principio no comprendí. Esas palabras son un poema. Sentí que había cometido un pecado, quizá el que no perdona el Espíritu. —El que ahora compartimos los dos —el Rey musitó—. El de haber conocido la Belleza, que es un don vedado a los hombres. Ahora nos toca expiarlo. Te di un espejo y una máscara de oro; he aquí el tercer regalo que será el último. Le puso en la diestra una daga.
 >
 > <small>Frases 1074–1081</small>
 
-En el alba, el poeta se recordó diciendo unas palabras que al principio no comprendió: esas palabras son el poema. El pecado que ahora comparten los dos es haber conocido la Belleza, un don vedado a los hombres; el que quizá no perdona el Espíritu. El tercer y último regalo es una daga.
+El pecado que comparten es haber conocido la Belleza, un don vedado a los hombres. El tercer y último regalo es una daga.
 
-Del poeta sabemos que se dio muerte al salir del palacio; del Rey, que es un mendigo que recorre los caminos de Irlanda, que fue su reino, y que no ha repetido nunca el poema.
+El poeta se dio muerte al salir del palacio. El Rey es hoy un mendigo que recorre los caminos de Irlanda y no ha repetido nunca el poema.
 
 ---
 
@@ -412,55 +412,55 @@ Del poeta sabemos que se dio muerte al salir del palacio; del Rey, que es un men
 
 [![Óleo de fantasía: el poeta Ulf ante el rey moribundo, con el poste del pez negro y el disco rojo en la plaza, al estilo de El Bosco](img/261012_borges_arena_i-8.jpg)](img/261012_borges_arena_i-8.jpg)
 
-El relato se presenta como unas páginas atribuidas a Adán de Bremen, un cronista del siglo once, halladas en un manuscrito de la Bodleiana de Oxford: hablan de los urnos, un pueblo de pastores, barqueros y hechiceros de las tierras bajas del Vístula, que graba sus caracteres como las runas que Odín reveló. A las noticias generales, Adán agrega la historia de su diálogo con el islandés Ulf Sigurdarson, hombre de graves y medidas palabras.
+El relato se presenta como páginas atribuidas a Adán de Bremen, cronista del siglo once, sobre los urnos, un pueblo de pastores y hechiceros de las tierras bajas del Vístula. Adán cuenta su diálogo con el islandés Ulf Sigurdarson:
 
 > El hombre dijo: »—Soy de estirpe de skalds; me bastó saber que la poesía de los urnos consta de una sola palabra para emprender su busca y el derrotero que me conduciría a su tierra. No sin fatigas y trabajos llegué al cabo de un año. Era de noche; advertí que los hombres que se cruzaban en mi camino me miraban curiosamente y una que otra pedrada me alcanzó.
 >
 > <small>Frases 1105–1107</small>
 
-Un skald es un poeta de corte escandinavo. A Ulf le basta saber que toda la poesía de los urnos consta de una sola palabra para emprender la busca: un año de viaje, y la bienvenida de una pedrada en la noche.
+Un skald es un poeta de corte escandinavo. A Ulf le basta saber que toda la poesía de los urnos es una sola palabra para emprender la busca: un año de viaje, y una pedrada en la noche.
 
-Un herrero llamado Orm le da albergue. De él sabe que el rey Gunnlaug libra la última guerra y que su hábito es crucificar a los forasteros; para eludir ese destino, Ulf escribe una drápa, una composición laudatoria que celebra las victorias del rey. Vinen a buscarlo dos hombres. En las plazas ve un poste con la figura negra de un pez y otro con un disco rojo: Orm le dice que eso es la Palabra, pero él es un simple artesano y no la sabe. Ante el rey, un hombre gastado y amarillento que yace sobre cueros de camello, Ulf entona su drápa y recibe un anillo de plata. La guardia lo empuja hacia el fondo.
+Un herrero llamado Orm le da albergue y le avisa que el rey Gunnlaug crucifica a los forasteros. Para escapar, Ulf escribe una drápa, una composición laudatoria, y la canta ante el rey, que le da un anillo de plata. La guardia lo empuja hacia el fondo.
 
 > La guardia me empujó hacia el fondo. Un hombre tomó mi lugar, y lo hizo de pie. Pulsó las cuerdas como templándolas y repitió en voz baja la palabra que yo hubiera querido penetrar y no penetré. Alguien dijo con reverencia: Ahora no quiere decir nada.
 >
 > <small>Frases 1143–1145</small>
 
-Otro cantor toma su lugar: pulsa las cuerdas y repite en voz baja la Palabra. "Ahora no quiere decir nada", dice alguien con reverencia: la Palabra no quiere decir nada para quien todavía no la ha ganado. Ulf hubiera querido que el canto siguiera para siempre y fuera su vida. Bruscamente cesa, y al salir, una mano lo detiene: Bjarni Thorkelsson, también de estirpe de skalds, le dice que la sortija del rey fue su talismán, pero que no tardará en morir porque ha oído la Palabra; él lo salvará, porque los dos son poetas. Ulf le pide que se la diga.
+Otro cantor repite en voz baja la Palabra, y alguien dice con reverencia que ahora no quiere decir nada: no significa nada para quien no la ha ganado. Al salir, Bjarni Thorkelsson, también skald, le dice que morirá porque ha oído la Palabra, y que él lo salvará. Ulf le pide que se la diga.
 
 > Vaciló unos instantes y contestó: »—He jurado no revelarla. Además, nadie puede enseñar nada. Debes buscarla solo. Apresurémonos, que tu vida corre peligro. Te esconderé en mi casa, donde no se atreverán a buscarte. Si el viento es favorable, navegarás mañana hacia el Sur.
 >
 > <small>Frases 1165–1170</small>
 
-Nadie puede enseñar nada: la Palabra no se transmite de boca a boca; cada quien debe buscarla solo.
+Nadie puede enseñarla: cada quien debe buscarla solo.
 
-Así tiene principio la aventura que durará tantos inviernos. Ulf es remero, mercader de esclavos, esclavo, leñador, salteador de caravanas, cantor, catador de aguas hondas y de metales; padece un año de cautiverio en las minas de azogue; milita en la guardia de Constantinopla; a orillas del Azov lo quiere una mujer que no olvidará. En el curso del tiempo ha sido muchos, y ese torbellino fue un largo sueño.
+Así empieza una aventura de muchos inviernos: Ulf es remero, mercader de esclavos, esclavo, leñador, cantor, y soldado en Constantinopla. Ha sido muchos hombres.
 
 > Lo esencial era la Palabra. Alguna vez descreí de ella. Me repetí que renunciar al hermoso juego de combinar palabras hermosas era insensato y que no hay por qué indagar una sola, acaso ilusoria. Ese razonamiento fue vano. Un misionero me propuso la palabra Dios, que rechacé.
 >
 > <small>Frases 1187–1191</small>
 
-Ni el hermoso juego de combinar palabras hermosas ni la palabra Dios que le propone un misionero: la Palabra no está en ningún catálogo.
+No es ningún juego de palabras hermosas ni la palabra Dios que le propone un misionero: la Palabra no está en ningún catálogo.
 
-Vuelve al fin a la tierra de los urnos y da con la casa del cantor. Thorkelsson ha envejecido tanto que Ulf piensa que él mismo es viejo. Le cuenta sus viajes con prolijos pormenores. Antes del fin, el viejo le pregunta si cantó muchas veces por esas tierras.
+Vuelve a la tierra de los urnos y da con la casa del cantor, ya muy viejo. Le cuenta sus viajes. Antes del fin, el viejo le pregunta si cantó muchas veces.
 
 > —Al principio —le dije— canté para ganarme la vida. Luego, un temor que no comprendo me alejó del canto y del arpa. »—Está bien —asintió—. Ya puedes proseguir con tu historia.
 >
 > <small>Frases 1205–1208</small>
 
-Luego sobreviene un largo silencio y otra pregunta.
+Luego hay un largo silencio y otra pregunta.
 
 > —¿Qué te dio la primera mujer que tuviste? —me preguntó. »—Todo —le contesté. »—A mí también la vida me dio todo. A todos la vida les da todo, pero los más lo ignoran. Mi voz está cansada y mis dedos débiles, pero escúchame. »Dijo la palabra Undr, que quiere decir maravilla.
 >
 > <small>Frases 1212–1217</small>
 
-Undr: maravilla. A todos la vida les da todo, pero los más lo ignoran; la Palabra es esa maravilla de haber vivido. El hombre está muriendo.
+Undr significa maravilla. A todos la vida les da todo, pero los más lo ignoran; la Palabra es la maravilla de haber vivido. El hombre está muriendo.
 
 > Me sentí arrebatado por el canto del hombre que moría, pero en su canto y en su acorde vi mis propios trabajos, la esclava que me dio el primer amor, los hombres que maté, las albas de frío, la aurora sobre el agua, los remos. Tomé el arpa y canté con una palabra distinta. »—Está bien —dijo el otro y tuve que acercarme para oírlo—. Me has entendido.
 >
 > <small>Frases 1218–1220</small>
 
-En el canto del otro, Ulf ve su propia vida: sus trabajos, la esclava que le dio el primer amor, los hombres que mató, las albas de frío, los remos. Entonces toma el arpa y canta, pero con una palabra distinta: la suya. Nadie puede cantar la palabra de otro. "Me has entendido", dice el que muere.
+En el canto del otro, Ulf ve su propia vida. Entonces toma el arpa y canta con su propia palabra, porque nadie puede cantar la de otro. «Me has entendido», dice el que muere.
 
 ---
 
@@ -468,49 +468,49 @@ En el canto del otro, Ulf ve su propia vida: sus trabajos, la esclava que le dio
 
 [![Óleo de fantasía: una utopía cansada, con un hombre sereno que recibe a un visitante en un campo sin ciudades, al estilo de El Bosco](img/261012_borges_arena_i-9.jpg)](img/261012_borges_arena_i-9.jpg)
 
-Quevedo explicó el nombre de Utopía: voz griega que significa "no hay tal lugar". Un caminante cruza la llanura —Oklahoma, Texas o la pampa, lo mismo da— y, sorprendido por la lluvia, pide refugio en una casa baja y rectangular. Le abre un hombre tan alto que casi le da miedo, vestido de gris. Ensayan diversos idiomas sin entenderse, hasta que el anfitrión habla en latín y el visitante junta sus lejanas memorias de bachiller.
+Quevedo explicó el nombre de Utopía: voz griega que significa «no hay tal lugar». Un caminante cruza la llanura y, sorprendido por la lluvia, pide refugio en una casa baja. Le abre un hombre altísimo, vestido de gris. No se entienden en ningún idioma hasta que el anfitrión habla en latín:
 
 > —Por la ropa —me dijo—, veo que llegas de otro siglo. La diversidad de las lenguas favorecía la diversidad de los pueblos y aun de las guerras; la tierra ha regresado al latín. Hay quienes temen que vuelva a degenerar en francés, en lemosín o en papiamento, pero el riesgo no es inmediato. Por lo demás, ni lo que ha sido ni lo que será me interesan.
 >
 > <small>Frases 1246–1249</small>
 
-El visitante es Eudoro Acevedo, nacido en 1897 en Buenos Aires, profesor de letras y escritor de cuentos fantásticos, de setenta años. El anfitrión es un hombre del porvenir: la tierra ha regresado al latín, y tales visitas de otros siglos les ocurren de siglo en siglo; no duran mucho. Acevedo se presenta.
+El visitante es Eudoro Acevedo, nacido en 1897 en Buenos Aires, profesor de letras y escritor de cuentos fantásticos. El anfitrión es un hombre del porvenir, donde la tierra ha vuelto al latín. Acevedo se presenta:
 
 > —Recuerdo haber leído sin desagrado —me contestó— dos cuentos fantásticos. Los Viajes del Capitán Lemuel Gulliver, que muchos consideran verídicos, y la Suma Teológica. Pero no hablemos de hechos. Ya a nadie le importan los hechos. Son meros puntos de partida para la invención y el razonamiento.
 >
 > <small>Frases 1266–1270</small>
 
-En el porvenir, los dos cuentos fantásticos que se leen sin desagrado son los Viajes del Capitán Gulliver y la Suma Teológica. Ya a nadie le importan los hechos: en las escuelas enseñan la duda y el arte del olvido; no hay cronología ni historia ni estadísticas. El hombre no puede decir su nombre, porque le dicen "alguien". En un anaquel, Acevedo encuentra un volumen de letras claras e indescifrables, trazadas a mano.
+En el porvenir, los cuentos fantásticos que se leen sin desagrado son los Viajes del Capitán Gulliver y la Suma Teológica. A nadie le importan los hechos: se enseña la duda y el arte del olvido. El hombre no dice su nombre, porque le dicen «alguien». Acevedo halla un libro escrito a mano:
 
 > Éste me dijo: —Ahora vas a ver algo que nunca has visto. Me tendió con cuidado un ejemplar de la Utopía de More, impreso en Basilea en el año 1518 y en el que faltaban hojas y láminas.
 >
 > <small>Frases 1286–1287</small>
 
-El hombre nunca ha visto un libro impreso. Acevedo replica, no sin fatuidad, que en su casa hay más de dos mil, y el otro se ríe: nadie puede leer dos mil libros; en los cuatro siglos que vive no habrá pasado de una media docena; no importa leer, sino releer. La imprenta, ahora abolida, fue uno de los peores males del hombre, porque multiplicó hasta el vértigo textos innecesarios.
+El hombre nunca ha visto un libro impreso. Acevedo dice que en su casa hay más de dos mil, y el otro se ríe: no importa leer, sino releer. La imprenta, abolida, fue uno de los peores males, porque multiplicó textos innecesarios.
 
 > —En mi curioso ayer —contesté—, prevalecía la superstición de que entre cada tarde y cada mañana ocurren hechos que es una vergüenza ignorar. El planeta estaba poblado de espectros colectivos, el Canadá, el Brasil, el Congo Suizo y el Mercado Común. Casi nadie sabía la historia previa de esos entes platónicos, pero sí los más ínfimos pormenores del último congreso de pedagogos, la inminente ruptura de relaciones y los mensajes que los presidentes mandaban, elaborados por el secretario del secretario con la prudente imprecisión que era propia del género. »Todo esto se leía para el olvido, porque a las pocas horas lo borrarían otras trivialidades.
 >
 > <small>Frases 1296–1299</small>
 
-El "curioso ayer" de Acevedo es nuestro presente: los países como espectros colectivos (el Canadá, el Congo Suizo, el Mercado Común), los mensajes de los presidentes redactados por el secretario del secretario, las imágenes y la letra impresa más reales que las cosas, la gente ingenua que creía que una mercadería era buena porque así lo afirmaba y lo repetía su propio fabricante. Todo se leía para el olvido.
+El «curioso ayer» de Acevedo es nuestro presente: países como espectros colectivos, mensajes de presidentes redactados por el secretario del secretario, gente que creía que una mercadería era buena porque su fabricante lo afirmaba. Todo se leía para el olvido.
 
-El anfitrión describe su mundo: ya no hay dinero —nadie adolece de pobreza, que habrá sido insufrible, ni de riqueza, la forma más incómoda de la vulgaridad—, ni ciudades, ni museos, ni bibliotecas. Los gobiernos fueron cayendo gradualmente en desuso: llamaban a elecciones, declaraban guerras, confiscaban fortunas, y nadie en el planeta los acataba; los políticos tuvieron que buscar oficios honestos. Cada cual ejerce un oficio y produce por su cuenta las ciencias y las artes que necesita. Cuando el hombre madura a los cien años, está listo para enfrentarse consigo mismo y con su soledad; ha engendrado un solo hijo; y cuando quiere, se mata: dueño de su vida, lo es también de su muerte. El hombre construyó la casa y labró los muebles; lleva a Acevedo a una pieza contigua a ver su obra: un arpa de pocas cuerdas y unas telas en que predominan los tonos amarillos.
+El anfitrión describe su mundo: ya no hay dinero, ni ciudades, ni museos, ni bibliotecas. Los gobiernos cayeron en desuso porque nadie los acataba. Cada cual ejerce un oficio y produce las ciencias y las artes que necesita. A los cien años el hombre queda listo para enfrentarse a su soledad; tiene un solo hijo y, cuando quiere, se mata. El anfitrión muestra a Acevedo su obra, un arpa y unas telas amarillas:
 
 > —Ésta es mi obra —declaró. Examiné las telas y me detuve ante la más pequeña, que figuraba o sugería una puesta de sol y que encerraba algo infinito. —Si te gusta puedes llevártela, como recuerdo de un amigo futuro —dijo con palabra tranquila.
 >
 > <small>Frases 1371–1373</small>
 
-La más pequeña de las telas figura o sugiere una puesta de sol y encierra algo infinito: es el regalo, "recuerdo de un amigo futuro", porque para Acevedo ese hombre vivirá dentro de miles de años. Otras telas, casi en blanco, están pintadas con colores que los antiguos ojos del visitante no pueden ver.
+La más pequeña de las telas sugiere una puesta de sol y encierra algo infinito: es el regalo, «recuerdo de un amigo futuro».
 
-Entonces se oyen golpes: entran una alta mujer y tres o cuatro hombres. Manuscritos, cuadros, muebles, enseres: no dejan nada en la casa. Nadie cierra la puerta y salen, cargados con las cosas. A los quince minutos de caminar, Acevedo divisa una suerte de torre coronada por una cúpula.
+Entran una alta mujer y tres o cuatro hombres, se llevan todo lo de la casa y salen sin cerrar la puerta. A los quince minutos Acevedo ve una torre con una cúpula:
 
 > —Es el crematorio —dijo alguien—. Adentro está la cámara letal. Dicen que la inventó un filántropo cuyo nombre, creo, era Adolfo Hitler. El cuidador, cuya estatura no me asombró, nos abrió la verja. Mi huésped susurró unas palabras. Antes de entrar en el recinto se despidió con un ademán.
 >
 > <small>Frases 1394–1399</small>
 
-El anfitrión ha elegido su muerte, como todos en su tiempo. La memoria del porvenir es frágil: de la cámara letal dicen que la inventó "un filántropo" cuyo nombre, creen, era Adolfo Hitler.
+El anfitrión ha elegido su muerte, como todos en su tiempo. De la cámara letal dicen que la inventó «un filántropo» cuyo nombre, creen, era Adolfo Hitler.
 
-De regreso en su escritorio de la calle México, Acevedo guarda la tela que alguien pintará dentro de miles de años, con materiales hoy dispersos en el planeta.
+De regreso en su escritorio de la calle México, Acevedo guarda la tela que alguien pintará dentro de miles de años.
 
 ---
 
@@ -524,37 +524,37 @@ La historia de un episodio en el que intervinieron dos hombres: ambos pecaron po
 >
 > <small>Frases 1452–1456</small>
 
-La agresión es personal y pública, y faltan pocos días para la decisión. Winthrop, que quiere ser justo, no puede permitir que el escrito influya en ella. Cierta mañana conversa con su jefe; esa misma tarde, Einarsson recibe el encargo oficial de viajar a Wisconsin. La víspera de la partida se presenta en el despacho de Winthrop, a despedirse y a agradecerle: todos saben, dice, que el viaje es obra de su consejo. Y le debe una explicación personal.
+La agresión es personal y pública, y faltan pocos días para la decisión. Winthrop, que quiere ser justo, no deja que el escrito influya. Esa tarde Einarsson recibe el encargo de viajar a Wisconsin, y la víspera va al despacho de Winthrop a agradecerle y a darle una explicación:
 
 > Yo le debo a usted, doctor Winthrop, una explicación personal. Dejé mi patria a fines de 1967. Cuando alguien se resuelve a emigrar a un país lejano, se impone fatalmente la obligación de adelantar en ese país. Mis dos opúsculos iniciales, de índole estrictamente filológica, no respondían a otro fin que probar mi capacidad. Ello, evidentemente, no bastaba.
 >
 > <small>Frases 1471–1475</small>
 
-Quien emigra a un país lejano se impone la obligación de adelantar en él: sus opúsculos filológicos no bastaban; su carrera precisaba algún elemento de asombro. Ir a Wisconsin era su verdadero propósito: los congresos son tonterías, pero convienen a un curriculum. Entonces vuelve al primer diálogo que tuvieron, un domingo, en el Nighthawk.
+Quien emigra a un país lejano debe adelantar en él: sus opúsculos no bastaban y su carrera necesitaba algo de asombro. Ir a Wisconsin era su propósito: los congresos son tonterías, pero convienen a un curriculum. Vuelve al primer diálogo que tuvieron, un domingo en el Nighthawk:
 
 > Einarsson prosiguió: —Usted recordará tal vez nuestro primer diálogo. Yo había llegado de New York. Era un día domingo; el comedor de la Universidad estaba cerrado y fuimos a almorzar al Nighthawk. Fue entonces cuando aprendí muchas cosas. Como buen europeo, yo siempre había presupuesto que la Guerra Civil fue una cruzada contra los esclavistas; usted argumentó que el Sur estaba en su derecho al querer separarse de la Unión y mantener sus instituciones. Para dar mayor fuerza a lo que afirmaba, me dijo que usted era del Norte y que uno de sus mayores había militado en las filas de Henry Halleck. Ponderó asimismo el coraje de los confederados. A diferencia de los demás, yo sé casi inmediatamente quién es el otro. Esta mañana me bastó.
 >
 > <small>Frases 1486–1494</small>
 
-Einarsson, como buen europeo, siempre había presupuesto que la Guerra Civil fue una cruzada contra los esclavistas; Winthrop, hombre del Norte, argumentó que el Sur estaba en su derecho y ponderó el coraje de los confederados. Ahí Einarsson entendió quién era el otro: a Winthrop lo rige la curiosa pasión americana de la imparcialidad. En cuanto supo que su viaje dependía de unas palabras de Winthrop, resolvió aprovechar el descubrimiento: impugnar su metodología era el medio más eficaz de obtener su voto, porque lo obligaba a demostrar que no era vengativo. Redactó en el acto su tesis, y hizo todo lo posible para que no quedara duda sobre la identidad del autor.
+Einarsson creía que la Guerra Civil fue una cruzada contra los esclavistas; Winthrop, hombre del Norte, defendió el derecho del Sur. Así entendió Einarsson que a Winthrop lo rige la pasión americana de la imparcialidad. En cuanto supo que su viaje dependía de Winthrop, impugnó su método para obligarlo a demostrar que no era vengativo, y firmó de modo que no quedara duda.
 
 > —Ahora comprendo —dijo—. Yo soy viejo amigo de Herbert, cuya labor estimo; usted, directa o indirectamente, me atacó. Negarle mi voto hubiera sido una suerte de represalia. Confronté los méritos de los dos y el resultado fue el que usted sabe. Agregó, como si pensara en voz alta: —He cedido tal vez a la vanidad de no ser vengativo. Como usted ve, su estratagema no le falló.
 >
 > <small>Frases 1505–1510</small>
 
-Winthrop reconoce la trampa y confiesa su parte: negarle el voto hubiera sido una represalia, y él ha cedido tal vez a la vanidad de no ser vengativo. La estratagema no le falló. "Mi primer Viking", lo mira Winthrop; Einarsson no acepta la romanticismo: no basta ser escandinavo para descender de los Vikings; en su familia no hubo gente de mar.
+Winthrop reconoce la trampa: negarle el voto habría sido una represalia, y cedió quizá a la vanidad de no ser vengativo. Lo mira como a su primer Viking; Einarsson aclara que en su familia no hubo gente de mar.
 
 > —En la mía hubo muchos —contestó Winthrop—. Sin embargo, no somos tan distintos. Un pecado nos une: la vanidad. Usted me ha visitado para jactarse de su ingeniosa estratagema; yo lo apoyé para jactarme de ser un hombre recto.
 >
 > <small>Frases 1519–1522</small>
 
-Las dos vanidades, frente a frente: el uno vino a jactarse de su ingeniosa estratagema; el otro lo apoyó para jactarse de ser un hombre recto. El soborno del título no fue dinero: fue la vanidad pagada con vanidad.
+Las dos vanidades, frente a frente: el uno vino a jactarse de su estratagema; el otro lo apoyó para jactarse de ser recto.
 
 > —Otra cosa nos une —respondió Einarsson—. La nacionalidad. Soy ciudadano americano. Mi destino está aquí, no en la Última Thule. Usted dirá que un pasaporte no modifica la índole de un hombre. Se estrecharon la mano y se despidieron.
 >
 > <small>Frases 1523–1528</small>
 
-Einarsson, el islandés, es ya ciudadano americano: su destino está ahí y no en la Última Thule, el confín del mundo antiguo. Un pasaporte no modifica la índole de un hombre, pero los dos acaban de declararse lo que son. Se estrechan la mano.
+Einarsson, el islandés, es ya ciudadano americano: su destino está ahí y no en la Última Thule, el confín del mundo antiguo. Se estrechan la mano.
 
 ---
 
@@ -568,55 +568,55 @@ El hecho aconteció en Montevideo, en 1897. Cada sábado, los amigos ocupan la m
 >
 > <small>Frases 1531–1534</small>
 
-La mesa lateral, a la manera de los pobres decentes que saben que no pueden mostrar su casa. Arredondo era dependiente de una mercería y estudiaba Derecho a ratos perdidos. Cuando los otros condenaban la guerra que asolaba el país - y que el presidente, según la opinión general, prolongaba por razones indignas -, Arredondo se quedaba callado. También cuando se burlaban de él por tacaño. Poco después de la batalla de Cerros Blancos, anunció a los compañeros que no lo verían por un tiempo: tenía que irse a Mercedes.
+Arredondo era dependiente de una mercería y estudiaba Derecho. Callaba cuando los otros condenaban la guerra. Tras la batalla de Cerros Blancos anunció que se iba a Mercedes.
 
 > Más le costó decirle adiós a Clara, su novia. Lo hizo casi con las mismas palabras. Le previno que no esperara cartas, porque estaría muy atareado. Clara, que no tenía costumbre de escribir, aceptó el agregado sin protestar. Los dos se querían mucho.
 >
 > <small>Frases 1542–1546</small>
 
-La noticia no inquietó a nadie. La despedida de Clara le costó más que todas las demás, pero usó casi las mismas palabras: no esperara cartas, porque estaría muy atareado. No se va a Mercedes: se encierra. Deja que la parda que lo atiende diga a quien lo busque que está en el campo, cobra su último sueldo y se muda a una pieza del fondo, la que da al patio de tierra. Empieza así una reclusión que su voluntad le impone.
+No se va a Mercedes: se encierra. Hace decir que está en el campo y se muda a una pieza del fondo. Así empieza una reclusión que su voluntad le impone.
 
 > Había vendido todos sus libros, incluso los de introducción al Derecho. No le quedaba más que una Biblia, que nunca había leído y que no concluyó. La cursó página por página, a veces con interés y a veces con tedio, y se impuso el deber de aprender de memoria algún capítulo del Éxodo y el final del Ecclesiastés. No trataba de entender lo que iba leyendo. Era librepensador, pero no dejaba pasar una sola noche sin repetir el padrenuestro que le había prometido a su madre al venir a Montevideo.
 >
 > <small>Frases 1554–1558</small>
 
-Vende hasta los libros de Derecho: ya no los necesitará. Le queda una Biblia, que nunca había leído, y que cursa página por página, a veces con interés y a veces con tedio. El detalle final lo retrata entero: librepensador, pero no deja pasar una noche sin repetir el padrenuestro prometido a su madre; faltar a esa promesa filial podría traerle mala suerte.
+Vende sus libros de Derecho. Le queda una Biblia que nunca había leído, y cada noche reza el padrenuestro prometido a su madre.
 
 > Sabía que su meta era la mañana del día veinticinco de agosto. Sabía el número preciso de días que tenía que trasponer. Una vez lograda la meta, el tiempo cesaría o, mejor dicho, nada importaba lo que aconteciera después. Esperaba la fecha como quien espera una dicha y una liberación. Había parado su reloj para no estar siempre mirándolo, pero todas las noches, al oír las doce campanadas oscuras, arrancaba una hoja del almanaque y pensaba un día menos. Al principio quiso construir una rutina. Matear, fumar los cigarrillos negros que armaba, leer y repasar una determinada cuota de páginas, tratar de conversar con Clementina cuando ésta le traía la comida en una bandeja, repetir y adornar cierto discurso antes de apagar la candela.
 >
 > <small>Frases 1560–1566</small>
 
-La meta es la mañana del veinticinco de agosto: una vez lograda, nada importa lo que acontezca después. Ha parado su reloj para no estar mirándolo, pero cada noche, al oír las doce campanadas, arranca una hoja del almanaque y piensa: un día menos. Y antes de apagar la candela, repite y adorna cierto discurso.
+La meta es la mañana del veinticinco de agosto. Cada noche arranca una hoja del almanaque y piensa: un día menos.
 
 > Ávido lector de periódicos, le costó renunciar a esos museos de minucias efímeras. No era hombre de pensar ni de cavilar.
 >
 > <small>Frases 1576–1577</small>
 
-Esos museos de minucias efímeras son los diarios: renuncia a ellos para que nadie pueda decir después que lo incitaron. Los días y las noches son iguales, pero le pesan más los domingos. Cuando la fecha ya no está lejos, la impaciencia empieza otra vez. Una noche no puede más y sale a la calle. Entra en un almacén, pide una caña amarga para justificar su presencia, y oye lo que conversan unos soldados acodados en el mostrador.
+Esos museos son los diarios: renuncia a ellos para que nadie diga que lo incitaron. Una noche sale y entra en un almacén, donde unos soldados conversan.
 
 > Acodados contra el mostrador de madera conversaban unos soldados. Dijo uno de ellos: —Ustedes saben que está formalmente prohibido que se den noticias de las batallas. Ayer tarde nos ocurrió una cosa que los va a divertir. Yo y unos compañeros de cuartel pasamos frente a La Razón. Oímos desde afuera una voz que contravenía la orden. Sin perder tiempo entramos. La redacción estaba como boca de lobo, pero lo quemamos a balazos al que seguía hablando. Cuando se calló, lo buscamos para sacarlo por las patas, pero vimos que era una máquina que le dicen fonógrafo y que habla sola. Todos se rieron.
 >
 > <small>Frases 1597–1605</small>
 
-El gobierno ha prohibido dar noticias de las batallas. Los soldados pasaron frente al diario La Razón, oyeron una voz que contravenía la orden, entraron y quemaron a balazos al que seguía hablando: era un fonógrafo, esa máquina nueva que habla sola. Todos se ríen del chasco. Arredondo se ha quedado escuchando.
+El gobierno prohibió dar noticias de las batallas. Los soldados balearon una voz que las contaba: era un fonógrafo, una máquina nueva que habla sola. Todos se ríen.
 
 > El soldado le dijo: —¿Qué le parece el chasco, aparcero? Arredondo guardó silencio. El del uniforme le acercó la cara y le dijo: —Gritá en seguida: ¡Viva el Presidente de la Nación, Juan Idiarte Borda! Arredondo no desobedeció. Entre aplausos burlones ganó la puerta. Ya en la calle lo golpeó una última injuria. —El miedo no es sonso ni junta rabia. Se había portado como un cobarde, pero sabía que no lo era.
 >
 > <small>Frases 1607–1614</small>
 
-El soldado lo obliga a gritar "¡Viva el Presidente de la Nación, Juan Idiarte Borda!", y Arredondo no desobedece: entre aplausos burlones gana la puerta. Se ha portado como un cobarde, pero sabe que no lo es: la humillación no importa, porque su día está cerca.
+El soldado lo obliga a gritar viva al Presidente, Juan Idiarte Borda, y Arredondo obedece. Se portó como un cobarde, pero sabe que no lo es: su día está cerca.
 
 > El día veinticinco de agosto, Avelino Arredondo se recordó a las nueve pasadas. Pensó primero en Clara y sólo después en la fecha. Se dijo con alivio: Adiós a la tarea de esperar. Ya estoy en el día. Se afeitó sin apuro y en el espejo lo enfrentó la cara de siempre. Eligió una corbata colorada y sus mejores prendas.
 >
 > <small>Frases 1616–1621</small>
 
-Adiós a la tarea de esperar: ya está en el día. Se afeita sin apuro, elige una corbata colorada - el color de su partido - y sus mejores prendas, deja a la parda los últimos pesos que le quedan y se encamina a la Plaza Matriz. Es día feriado; el Te Deum ya ha concluido y un grupo de caballeros, militares y prelados baja por las gradas del templo.
+Ya está en el día. Se afeita, elige una corbata colorada, el color de su partido, y va a la Plaza Matriz, donde baja del templo un grupo de caballeros y prelados.
 
 > Preguntó cuál era el presidente. Le contestaron: -Ése que va al lado del arzobispo con la mitra y el báculo. Sacó el revólver e hizo fuego. Idiarte Borda dio unos pasos, cayó de bruces y dijo claramente: Estoy muerto. Arredondo se entregó a las autoridades. Después declararía: —Soy colorado y lo digo con todo orgullo. He dado muerte al Presidente, que traicionaba y mancillaba a nuestro partido. Rompí con los amigos y con la novia, para no complicarlos; no miré diarios para que nadie pueda decir que me han incitado.
 >
 > <small>Frases 1633–1640</small>
 
-El presidente va al lado del arzobispo. Arredondo saca el revólver y hace fuego; Idiarte Borda da unos pasos, cae de bruces y dice claramente: "Estoy muerto." Arredondo no huye: se entrega. Y entonces pronuncia el discurso que durante dos meses repitió y adornó cada noche en la pieza del fondo: la reclusión, la renuncia a los amigos, a la novia y a los diarios, todo estaba pensado para que el acto le perteneciera a él solo.
+Arredondo dispara y el presidente cae. Se entrega y pronuncia el discurso que repitió dos meses: todo estaba pensado para que el acto fuera suyo.
 
 Así habrán ocurrido los hechos, aunque de un modo más complejo; así puedo soñar que ocurrieron.
 
@@ -632,37 +632,37 @@ Habla un leñador viejo, al final de su vida, en una choza al borde del bosque.
 >
 > <small>Frases 1645–1655</small>
 
-Las casas de madera que andan por el mar son los barcos: el narrador nunca ha visto el mar ni el otro lado del bosque. Su hermano mayor lo hizo jurar que entre los dos talarían todo el bosque; el hermano ha muerto y ahora es otra cosa la que busca y seguirá buscando. Una tarde oye pasos trabajosos y un golpe: entra un desconocido alto y viejo, envuelto en una manta raída, con una cicatriz en la cara. Le da pan y pescado y le arma una yacija en el suelo. A la mañana siguiente el hombre dice quién es.
+Las casas de madera que andan por el mar son los barcos. Un anciano con una cicatriz pide posada y a la mañana dice quién es:
 
 > Al fin dijo: —No tengo hogar y duermo donde puedo. He recorrido toda Sajonia. Esas palabras convenían a su vejez. Mi padre siempre hablaba de Sajonia; ahora la gente dice Inglaterra.
 >
 > <small>Frases 1666–1669</small>
 
-Sajonia es Inglaterra: el padre del leñador decía Sajonia, ahora la gente dice Inglaterra. Estamos en la edad de los reinos sajones. Clareaba el día cuando salieron; se le cayó el bastón al viejo y le ordenó que lo levantara. "¿Por qué he de obedecerte?" "Porque soy un rey." Es Isern, rey de los Secgens, de la estirpe de Odín: muchas veces los llevó a la victoria, pero en la hora del destino perdió su reino. Aún es el rey, dice, porque tiene el disco.
+Sajonia es Inglaterra. Isern, rey de los Secgens, de la estirpe de Odín, perdió su reino, pero aún es rey, dice, porque tiene el disco.
 
 > Como si no me oyera continuó: —Ando por los caminos del destierro pero aún soy el rey porque tengo el disco. ¿Quieres verlo? Abrió la palma de la mano que era huesuda. No había nada en la mano. Estaba vacía. Fue sólo entonces que advertí que siempre la había tenido cerrada. Dijo, mirándome con fijeza: —Puedes tocarlo.
 >
 > <small>Frases 1689–1695</small>
 
-El detalle terrible: la palma estaba vacía, y sólo entonces advierte el leñador que siempre la había tenido cerrada. Pero el rey lo mira con fijeza y dice: "Puedes tocarlo."
+La palma estaba vacía. El rey le dice que puede tocarlo.
 
 > Ya con algún recelo puse la punta de los dedos sobre la palma. Sentí una cosa fría y vi un brillo. La mano se cerró bruscamente. No dije nada. El otro continuó con paciencia como si hablara con un niño: —Es el disco de Odín. Tiene un solo lado. En la tierra no hay otra cosa que tenga un solo lado. Mientras esté en mi mano seré el rey.
 >
 > <small>Frases 1696–1703</small>
 
-Lo tocó: una cosa fría y un brillo. El disco de Odín tiene un solo lado, y en la tierra no hay otra cosa que tenga un solo lado. Ahí está el prodigio geométricamente imposible, y el leñador lo ha sentido bajo los dedos. "Mientras esté en mi mano seré el rey."
+El disco de Odín tiene un solo lado: un prodigio imposible.
 
 > Entonces yo sentí la codicia de poseer el disco. Si fuera mío, lo podría vender por una barra de oro y sería un rey. Le dije al vagabundo que aún odio: —En la choza tengo escondido un cofre de monedas. Son de oro y brillan como el hacha. Si me das el disco de Odín, yo te doy el cofre.
 >
 > <small>Frases 1708–1712</small>
 
-El vagabundo "que aún odio": el viejo que cuenta no se perdona. En la aldea tiene fama de avaro, pero ¿qué puede haber juntado un leñador del bosque? El cofre de monedas de oro es una mentira para atrapar el disco.
+El cofre de monedas es una mentira para atrapar el disco.
 
 > Dijo tercamente. —No quiero. —Entonces —dije— puedes proseguir tu camino. Me dio la espalda. Un hachazo en la nuca bastó y sobró para que vacilara y cayera, pero al caer abrió la mano y en el aire vi el brillo. Marqué bien el lugar con el hacha y arrastré el muerto hasta el arroyo que estaba muy crecido. Ahí lo tiré. Al volver a mi casa busqué el disco. No lo encontré. Hace años que sigo buscando.
 >
 > <small>Frases 1713–1722</small>
 
-El crimen es de una línea: un hachazo en la nuca. Al caer, el muerto abrió la mano y en el aire vio el brillo. Marcó bien el lugar con el hacha, arrastró el cuerpo al arroyo, volvió, buscó el disco y no lo encontró. La cosa de un solo lado no deja tocarse dos veces: hace años que sigue buscando, y seguirá buscando, lo que tocó una vez.
+El crimen es de una línea: un hachazo en la nuca. Busca el disco y no lo encuentra.
 
 ---
 
@@ -676,43 +676,43 @@ El narrador vive solo, en un cuarto piso de la calle Belgrano. Hará unos meses,
 >
 > <small>Frases 1745–1748</small>
 
-Bikanir, en la India. El hombre abre la valija: un volumen en octavo, encuadernado en tela, de inusitado peso; en el lomo dice Holy Writ y abajo Bombay. Las páginas, gastadas, impresas a dos columnas a la manera de una biblia, están numeradas de un modo insensato: la par lleva el número 40.514 y la impar, la siguiente, 999. El narrador lo abre al azar.
+Bikanir está en la India. El hombre abre la valija: un volumen con «Holy Writ» y «Bombay» en el lomo, de páginas numeradas de modo insensato. El narrador lo abre al azar:
 
 > Llevaba una pequeña ilustración, como es de uso en los diccionarios: un ancla dibujada a la pluma, como por la torpe mano de un niño. Fue entonces que el desconocido me dijo: —Mírela bien. Ya no la verá nunca más. Había una amenaza en la afirmación, pero no en la voz.
 >
 > <small>Frases 1765–1768</small>
 
-La ilustración es un ancla dibujada a la pluma, como por la torpe mano de un niño. "Mírela bien. Ya no la verá nunca más." Cierra el libro, lo abre y busca el ancla hoja tras hoja: en vano. El vendedor le cuenta que lo adquirió en un pueblo de la llanura, a cambio de unas rupias y de la Biblia; su poseedor, que no sabía leer, veía en el Libro de los Libros un amuleto, y le dijo que su libro se llamaba el Libro de Arena, porque ni el libro ni la arena tienen principio ni fin. Buscar la primera hoja es inútil: siempre se interponen varias hojas, como si brotaran del libro.
+La ilustración es un ancla dibujada a pluma. «Mírela bien. Ya no la verá nunca más.» El vendedor lo compró a un hombre que no sabía leer y lo llamaba el Libro de Arena, porque ni el libro ni la arena tienen principio ni fin.
 
 > —Ahora busque el final. También fracasé; apenas logré balbucear con una voz que no era la mía: —Esto no puede ser. Siempre en voz baja el vendedor de biblias me dijo: —No puede ser, pero es. El número de páginas de este libro es exactamente infinito. Ninguna es la primera; ninguna, la última. No sé por qué están numeradas de ese modo arbitrario. Acaso para dar a entender que los términos de una serie infinita admiten cualquier número.
 >
 > <small>Frases 1783–1789</small>
 
-"No puede ser, pero es": el número de páginas es exactamente infinito; ninguna es la primera, ninguna la última. Y el vendedor, como si pensara en voz alta: si el espacio es infinito estamos en cualquier punto del espacio; si el tiempo es infinito, en cualquier punto del tiempo. Mientras hablan, el narrador sigue explorando el libro y urde su plan.
+No puede ser, pero es: el número de páginas es infinito. El narrador sigue explorando el libro y urde su plan.
 
 > Al cabo de unos pocos minutos había urdido mi plan. —Le propongo un canje —le dije—. Usted obtuvo este volumen por unas rupias y por la Escritura Sagrada; yo le ofrezco el monto de mi jubilación, que acabo de cobrar, y la Biblia de Wiclif en letra gótica. La heredé de mis padres. —A black letter Wiclif! —murmuró. Fui a mi dormitorio y le traje el dinero y el libro. Volvió las hojas y estudió la carátula con fervor de bibliófilo. —Trato hecho —me dijo. Me asombró que no regateara. Sólo después comprendería que había entrado en mi casa con la decisión de vender el libro.
 >
 > <small>Frases 1807–1817</small>
 
-El canje: el monto de su jubilación, que acaba de cobrar, y la Biblia de Wiclif en letra gótica, heredada de sus padres. "A black letter Wiclif!", murmura el escocés - es de las islas Orcadas -, y acepta sin regatear: había entrado en esa casa con la decisión de vender el libro. Era de noche cuando se fue; no lo volvió a ver ni sabe su nombre.
+El canje: su jubilación recién cobrada y una Biblia de Wiclif en letra gótica, heredada. El escocés, de las islas Orcadas, acepta sin regatear.
 
 > Pensé guardar el Libro de Arena en el hueco que había dejado el Wiclif, pero opté al fin por esconderlo detrás de unos volúmenes descabalados de Las mil y una noches. Me acosté y no dormí. A las tres o cuatro de la mañana prendí la luz. Busqué el libro imposible, y volví las hojas. En una de ellas vi grabada una máscara. El ángulo llevaba una cifra, ya no sé cuál, elevada a la novena potencia.
 >
 > <small>Frases 1822–1827</small>
 
-Esconde el libro detrás de unos volúmenes descabalados de Las mil y una noches, se acuesta y no duerme; a las tres o cuatro de la mañana prende la luz y busca el libro imposible. En una página ve grabada una máscara; la cifra del ángulo está elevada a la novena potencia.
+Esconde el libro detrás de Las mil y una noches y no duerme. Busca el libro imposible; en una página ve una máscara.
 
 > No mostré a nadie mi tesoro. A la dicha de poseerlo se agregó el temor de que lo robaran, y después el recelo de que no fuera verdaderamente infinito. Esas dos inquietudes agravaron mi ya vieja misantropía. Me quedaban unos amigos; dejé de verlos. Prisionero del Libro, casi no me asomaba a la calle.
 >
 > <small>Frases 1828–1832</small>
 
-Prisionero del Libro: deja de ver a los amigos que le quedaban, casi no se asoma a la calle. Examina el lomo con lupa y rechaza la posibilidad de un artificio; comprueba que las ilustraciones distan dos mil páginas unas de otras y las anota en una libreta: nunca se repiten. De noche, en los escasos intervalos del insomnio, sueña con el libro.
+Prisionero del Libro, deja de ver a sus amigos. Comprueba que las ilustraciones distan dos mil páginas y nunca se repiten.
 
 > Declinaba el verano, y comprendí que el libro era monstruoso. De nada me sirvió considerar que no menos monstruoso era yo, que lo percibía con ojos y lo palpaba con diez dedos con uñas. Sentí que era un objeto de pesadilla, una cosa obscena que infamaba y corrompía la realidad. Pensé en el fuego, pero temí que la combustión de un libro infinito fuera parejamente infinita y sofocara de humo al planeta. Recordé haber leído que el mejor lugar para ocultar una hoja es un bosque. Antes de jubilarme trabajaba en la Biblioteca Nacional, que guarda novecientos mil libros; sé que a mano derecha del vestíbulo una escalera curva se hunde en el sótano, donde están los periódicos y los mapas. Aproveché un descuido de los empleados para perder el Libro de Arena en uno de los húmedos anaqueles. Traté de no fijarme a qué altura ni a qué distancia de la puerta. Siento un poco de alivio, pero no quiero ni pasar por la calle México.
 >
 > <small>Frases 1838–1846</small>
 
-El libro es monstruoso: un objeto de pesadilla, una cosa obscena que infama y corrompe la realidad. Quemarlo sería peor: la combustión de un libro infinito sería infinita y sofocaría de humo al planeta. Entonces recuerda que el mejor lugar para ocultar una hoja es un bosque, y que la Biblioteca Nacional guarda novecientos mil libros. La calle México es la de la Biblioteca: el alivio tiene el precio de no poder pasar jamás por ahí.
+El libro es monstruoso: una cosa obscena que corrompe la realidad. Quemarlo sería peor, porque un libro infinito ardería sin fin. Recuerda que el mejor lugar para ocultar una hoja es un bosque, y que la Biblioteca Nacional guarda novecientos mil libros.
 
 ---
 

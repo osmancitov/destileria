@@ -395,7 +395,7 @@ Swami Kebalananda
 
 [![Óleo al estilo de Nicholas Roerich: un yogui regordete y barbudo, sentado sobre una piel de leopardo, hace brotar con un gesto de bendición una lluvia luminosa de pétalos de rosa y jazmín sobre la palma de un muchacho; devotos en penumbra azul.](img/261017_autobiografia-de-un-yogui_i-5.jpg)](img/261017_autobiografia-de-un-yogui_i-5.jpg)
 
-El encuentro con el Santo de los Perfumes tuvo dos prólogos. El primero, en el templo de Kalighat, ante la imagen de Kali: un sadhu errante leyó en voz alta la confusión de sus pensamientos sobre los aspectos benignos y terribles de la naturaleza:
+El encuentro con el Santo de los Perfumes tuvo dos prólogos. El primero, en el templo de Kalighat,: un sadhu errante leyó en voz alta la confusión de sus pensamientos sobre los aspectos benignos y terribles de la naturaleza:
 
 > <a id="lugar-993"></a>¡De veras ha penetrado usted la confusión de mis pensamientos!.
 >
@@ -540,7 +540,7 @@ El Swami Tigre
 
 [![Óleo al estilo de Nicholas Roerich: un anciano yogui de barba abundante medita en postura de loto flotando en el aire sobre su piel de leopardo, mientras un muchacho lo contempla maravillado entre discípulos en penumbra.](img/261017_autobiografia-de-un-yogui_i-7.jpg)](img/261017_autobiografia-de-un-yogui_i-7.jpg)
 
-Un amigo le contó haber visto a un yogi flotar en el aire durante una reunión nocturna; el muchacho adivinó el nombre: Bhaduri Mahasaya, que vivía cerca de su casa y al que visitaba a menudo. El santo llevaba veinte años sin salir de su clausura, dominaba los pranayamas con tal fuerza que una vez pareció levantar una tormenta en la habitación, y luego quedaba en la calma vívida de la superconciencia. Bhaduri lo recibía con libertad («que Mukunda venga cuando quiera»), porque los mundanos no aprecian la franqueza que rompe sus ilusiones:
+Un amigo le contó haber visto a un yogi flotar en el aire durante una reunión nocturna; el muchacho adivinó el nombre: Bhaduri Mahasaya, que vivía cerca de su casa y al que visitaba a menudo. Bhaduri lo recibía con libertad («que Mukunda venga cuando quiera»), porque los mundanos no aprecian la franqueza que rompe sus ilusiones:
 
 > <a id="lugar-1471"></a>Su rostro era siempre serio, aunque tocado por una sonrisa extática.
 >
@@ -556,7 +556,7 @@ Le dio un consejo que llevaba una profecía escondida: le habló de sus correspo
 
 Yogananda
 
-Solo al escribir estas líneas, años después, entiende que el santo le anunciaba que llevaría las enseñanzas de la India a América. En las reuniones vespertinas, Bhaduri hablaba de la princesa Mirabai, que abandonó su corte por los sadhus y respondió al sannyasi que la rechazaba por mujer: «Dile al maestro que yo no sabía que hubiera otro Macho en el universo fuera de Dios; ¿no somos todos hembras ante Él?». Un estudiante, despediéndose, se arrodilló admirado:
+En las reuniones vespertinas, Bhaduri hablaba de la princesa Mirabai, que abandonó su corte por los sadhus y respondió al sannyasi que la rechazaba por mujer: «Dile al maestro que yo no sabía que hubiera otro Macho en el universo fuera de Dios; ¿no somos todos hembras ante Él?». Un estudiante, despediéndose, se arrodilló admirado:
 
 > <a id="lugar-1506"></a>¡Maestro, usted es maravilloso!.
 >
@@ -684,7 +684,7 @@ Yogananda
 
 [![Óleo al estilo de Nicholas Roerich: en un callejón del viejo Benarés, un joven hindú se arrodilla a los pies de un swami alto de túnica ocre y cabeza leonina que lo recibe con las manos abiertas; al fondo, el Ganges al atardecer.](img/261017_autobiografia-de-un-yogui_i-10.jpg)](img/261017_autobiografia-de-un-yogui_i-10.jpg)
 
-Aprobó el bachillerato por la vía de la Ingenuidad Infinita: su amigo Nantu le adelantó las preguntas trampa de los exámenes, y unas hojas sueltas de versos sánscritos encontradas en un solar le resolvieron la prueba de sánscrito al día siguiente. Libre de su promesa al padre, decidió partir a un ermitaño en Benarés con su amigo Jitendra. La despedida:
+Aprobó el bachillerato por la vía de la Ingenuidad Infinita: su amigo Nantu le adelantó las preguntas trampa de los exámenes, y unas hojas sueltas de versos sánscritos le resolvieron la prueba de sánscrito al día siguiente. Libre de su promesa al padre, decidió partir a un ermitaño en Benarés con su amigo Jitendra. La despedida:
 
 > <a id="lugar-1920"></a>Déjame ir, para volver un día con un entendimiento más divino.
 >
@@ -700,7 +700,7 @@ En la ermita de Mahamandal, los compañeros no veían con buenos ojos que se enc
 
 Un compañero de la ermita
 
-Dyananda, el joven swami director, le ordenó devolver el dinero que su padre le enviaba y no mencionar jamás el hambre. El muchacho ayunó veinticuatro horas de prueba, y justo ese día el tren de Dyanandaji se retrasó y nadie comería hasta su llegada:
+Dyananda, el joven swami director, le ordenó devolver el dinero que su padre le enviaba y no mencionar jamás el hambre. Ese día el tren de Dyanandaji se retrasó y nadie comería hasta su llegada:
 
 > <a id="lugar-1968"></a>«La próxima muerte por inanición en Benarés está a punto de ocurrir en esta ermita», pensé.
 >
@@ -762,7 +762,7 @@ Cuántos años te he esperado, repitió el gurú en bengalí, trémulo de gozo. 
 
 Yogananda
 
-En el balcón de piedra sobre el Ganges, el maestro le ofreció sus ermitas y todo lo que poseía; el muchacho respondió que venía por sabiduría y contacto con Dios. Entonces Sri Yukteswar le dio su amor incondicional y le pidió lo mismo: el amor ordinario es egoísta, enraizado en deseos:
+En el balcón de piedra sobre el Ganges, el maestro le ofreció sus ermitas y todo lo que poseía; el muchacho respondió que venía por sabiduría y contacto con Dios. Entonces Sri Yukteswar le dio su amor incondicional y le pidió lo mismo:
 
 > <a id="lugar-2081"></a>El fluir del corazón humano desaparece para siempre al toque trascendente del amor puro.
 >
@@ -784,7 +784,7 @@ Yogananda
 
 Yogananda
 
-Le dio nombre y dirección (Swami Sri Yukteswar Giri, ermita de Serampore, a solo doce millas de Calcuta) y una orden que aguó el milagro: «Vendrás a mí en cuatro semanas», es decir, volver a casa, justo lo que el muchacho había jurado no hacer. Se despidió en tensión. En la ermita la hostilidad creció hasta que, tres semanas después, él y Jitendra partieron juntos a Serampore: el «pájaro joven» se disponía a «abatirse» peligrosamente cerca de Calcuta.
+Le dio nombre y dirección (Swami Sri Yukteswar Giri, ermita de Serampore, a solo doce millas de Calcuta) y una orden que aguó el milagro: «Vendrás a mí en cuatro semanas», es decir, volver a casa, justo lo que el muchacho había jurado no hacer. Tres semanas después, él y Jitendra partieron a Serampore.
 
 
 ---
@@ -1529,7 +1529,7 @@ Yogananda
 
 Yogananda
 
-Su cuerpo se fundió en la luz como un pergamino que se enrolla. Cuando Dijen volvió («el maestro no venía en los trenes de las nueve ni de las nueve y media»), lo arrastró a la estación; el tren resoplaba detenido:
+Su cuerpo se fundió en la luz como un pergamino que se enrolla. Cuando Dijen volvió, lo arrastró a la estación; el tren resoplaba detenido:
 
 > <a id="lugar-4226"></a>¡Allí está!.
 >
@@ -1537,7 +1537,7 @@ Su cuerpo se fundió en la luz como un pergamino que se enrolla. Cuando Dijen vo
 
 Yogananda
 
-«¿Lo sueñas?», se rió Dijen; pero el maestro apareció como en la visión, tras el niño de la jarra de plata: «yo también te envié un mensaje, pero no pudiste captarlo». Dijen concluyó que, junto a esto, cualquier universidad es apenas un jardín de infancia.
+«¿Lo sueñas?», se rió Dijen; pero el maestro apareció como en la visión, tras el niño de la jarra de plata: «yo también te envié un mensaje, pero no pudiste captarlo».
 
 ---
 
@@ -1546,7 +1546,7 @@ Yogananda
 
 [![Mukunda, enfermo, reposa con la cabeza sobre el regazo de Sri Yukteswar, que le acaricia la frente en la ermita de Serampore](img/261017_autobiografia-de-un-yogui_i-20.jpg)](img/261017_autobiografia-de-un-yogui_i-20.jpg)
 
-Tercer verano con el mismo plan: llevar al maestro al Himalaya. El padre se rió («es la tercera vez con el mismo cuento»), pero le entregó seis pases y un rollo de billetes. El maestro solo dijo «me gustaría ir; ya veremos»:
+Tercer verano con el mismo plan: llevar al maestro al Himalaya. El padre le entregó seis pases y un rollo de billetes. El maestro solo dijo «me gustaría ir; ya veremos»:
 
 > <a id="lugar-4270"></a>Rajendra me salió al encuentro en la puerta de la ermita.
 >
@@ -1562,7 +1562,7 @@ Yogananda
 
 Yogananda
 
-El tío saltó con tal violencia que la silla volcó: «¿quién me cuidará a mí si te llevas a mi sirviente?». La retirada fue más veloz que digna. De vuelta en la ermita, entendió que había un motivo tras la actitud del maestro:
+El tío saltó con tal violencia que la silla volcó: «¿quién me cuidará a mí si te llevas a mi sirviente?». De vuelta en la ermita, entendió que había un motivo tras la actitud del maestro:
 
 > <a id="lugar-4321"></a>El remordimiento me embargó al darme cuenta de que había intentado frustrar la voluntad de mi gurú.
 >
@@ -1602,7 +1602,7 @@ A la mañana siguiente lo encontró charlando: «eres afortunado, joven, de tene
 
 Yogananda
 
-Los amigos volvieron con el equipaje al rincón de la víspera; él citó el refrán del barco que fue y regresó, y le tomó la mano al maestro: «sin tus bendiciones, la diosa Parvati no me recibirá en el Himalaya».
+Los amigos volvieron con el equipaje al rincón de la víspera; le tomó la mano al maestro: «sin tus bendiciones, la diosa Parvati no me recibirá en el Himalaya».
 
 ---
 
@@ -1940,7 +1940,7 @@ Huésped de Ananta en Gorakhpur, lo cuidaba de una enfermedad; incapaz de verlo 
 
 Yogananda
 
-El bambú quedó rajado, como el recuerdo; el doctor Misra sonreía escéptico. Al atracar en Calcuta, Bishnu esperaba en el muelle:
+El bambú quedó rajado. Al atracar en Calcuta, Bishnu esperaba en el muelle:
 
 > <a id="lugar-5001"></a>"Sé que Ananta ha partido de esta vida", dije a Bishnu, antes de que tuviera tiempo de hablar.
 >
@@ -1948,7 +1948,7 @@ El bambú quedó rajado, como el recuerdo; el doctor Misra sonreía escéptico. 
 
 Yogananda
 
-Bishnu dio la fecha: el mismo día. En casa, su padre, hombre reservado, lo abrazó con dos grandes lágrimas:
+Bishnu dio la fecha: el mismo día. En casa, su padre lo abrazó con dos grandes lágrimas:
 
 > <a id="lugar-5009"></a>"Has venido", dijo con ternura.
 >
@@ -1972,7 +1972,7 @@ Yogananda
 
 Yogananda
 
-Le profetizó que en un mes pesaría lo que él, y así fue. A la vuelta de Japón la halló en coma por la tifoidea: «se recuperará; en siete días la fiebre habrá desaparecido», y se cumplió. Las piernas quedaron paralizadas; agotado, fue a Serampore:
+A la vuelta de Japón la halló en coma por la tifoidea: «se recuperará; en siete días la fiebre habrá desaparecido», y se cumplió. Las piernas quedaron paralizadas; agotado, fue a Serampore:
 
 > <a id="lugar-5090"></a>Sus ojos expresaron profunda simpatía mientras le contaba la difícil situación de Nalini.
 >
@@ -2526,12 +2526,12 @@ Cerca de Badrinarayan, en el Himalaya, aún bendice el mundo la presencia viva d
 
 Sri Yukteswar
 
-Un avatar no proyecta sombra ni deja huella; inició a Shankara y a Kabir y está en comunión constante con Cristo; como el Creador, trabaja en humilde oscuridad. Aparenta veinticinco años y se parece asombrosamente a Lahiri. Kebalananda, el tutor de sánscrito de Yogananda, pasó un tiempo con él: «el maestro sin par se mueve con su grupo de un lugar a otro, y cuando quiere mudarse dice: Dera danda uthao (levantemos el campamento y el bastón), y el grupo se traslada al instante»:
+Un avatar no proyecta sombra ni deja huella; inició a Shankara y a Kabir y está en comunión constante con Cristo; como el Creador, trabaja en humilde oscuridad. Kebalananda, el tutor de sánscrito de Yogananda, pasó un tiempo con él: «el maestro sin par se mueve con su grupo de un lugar a otro, y cuando quiere mudarse dice: Dera danda uthao (levantemos el campamento y el bastón), y el grupo se traslada al instante»:
 
 
 Kebalananda
 
-Dos incidentes contó. Uno: golpeó con un leño ardiendo el hombro de un chela; ante la protesta de Lahiri: ¿preferirías verlo reducido a cenizas según su karma? Y lo sanó: «la ley kármica quedó satisfecha con tu leve sufrimiento por el fuego». Otro: un desconocido escaló hasta la repisa del campamento:
+Uno: golpeó con un leño ardiendo el hombro de un chela; ante la protesta de Lahiri: ¿preferirías verlo reducido a cenizas según su karma? Y lo sanó: «la ley kármica quedó satisfecha con tu leve sufrimiento por el fuego». Otro: un desconocido escaló hasta la repisa del campamento:
 
 > <a id="lugar-6267"></a>Señor, usted debe de ser el gran Babaji: el rostro del hombre se iluminó de reverencia inexpresable: durante meses lo he buscado sin cesar entre estas peñas formidables. Le imploro que me acepte como discípulo.
 >
@@ -2567,7 +2567,7 @@ Babaji
 Las formas se elevaron aureoladas sobre el Ganges; la losa se cerró sola. De regreso al alba, Lahiri, que no se había movido de su estrado en toda la noche, le sonrió: «me alegro por ti; tu deseo de conocer a Babaji y a Mataji se ha cumplido al fin»:
 
 
-El autorrealizado puede estar en dos lugares a la vez. Conclusión: Babaji fue elegido por Dios para permanecer en su cuerpo durante este ciclo del mundo; las edades pasarán y el maestro inmortal seguirá presente.
+El autorrealizado puede estar en dos lugares a la vez. Babaji fue elegido por Dios para permanecer en su cuerpo durante este ciclo del mundo.
 
 ---
 
