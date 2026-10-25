@@ -18,6 +18,8 @@ Empieza la Parte I, «Waves and Radiation», con su capítulo 1.
 
 ### Capítulo 1: Las Camionetas
 
+*El narrador, las camionetas, los padres, el departamento de estudios sobre Hitler, los estudiantes y el espectáculo de la llegada.*
+
 [![Óleo impresionista: una fila de camionetas familiares cargadas de maletas y bicicletas en un campus soleado; estudiantes descargan y padres elegantes miran, al estilo de Childe Hassam.](../img/261025_white-noise_las-camionetas.jpg)](../img/261025_white-noise_las-camionetas.jpg)
 
 Mediodía en un campus. Llegan camionetas familiares, autos con espacio de carga atrás, repletas de maletas; los estudiantes descargan. Habla un profesor:
@@ -50,9 +52,11 @@ Fue un éxito inmediato. El rector asesoró a tres presidentes y murió en un te
 
 ### Capítulo 2: Babette en la Cocina
 
+*Babette, el narrador, los padres de las camionetas, el grupo del almuerzo y Treadwell.*
+
 [![Óleo realista, al estilo de David Teniers el Joven: en una cocina antigua, una mujer alta de pelo rubio revuelto, con un paño en la mano, habla con un hombre de anteojos sentado a una mesa con pan y fruta; por la puerta se ve a un niño en triciclo y, al fondo, cajas apiladas.](../img/261025_white-noise_babette-en-la-cocina.jpg)](../img/261025_white-noise_babette-en-la-cocina.jpg)
 
-Babette es la esposa de Jack, el narrador: alta, robusta, de pelo rubio revuelto. Cuida a los niños, da un curso y lee a un anciano vecino. Jack dice de ella:
+Babette es la esposa de Jack, el narrador: alta, robusta, de pelo rubio revuelto. Cuida a los niños, da un curso y lee a un anciano vecino, Treadwell. Jack dice de ella:
 
 > La miro todo el tiempo hacer cosas en una secuencia medida, con destreza, con aparente facilidad, a diferencia de mis anteriores esposas, que tendían a sentirse extrañadas del mundo objetivo: un grupo ensimismado y de nervios tensos, con vínculos con la comunidad de inteligencia.
 > [Frase 55](#original-55)
@@ -80,6 +84,8 @@ Algo acechaba dentro de la verdad, dijo ella. Suena la alarma de humo arriba y t
 
 ### Capítulo 3: El Granero Fotografiado
 
+*Murray, el «nosotros» de quienes miran el granero, el narrador, el calor y los estudios sobre Hitler.*
+
 [![Óleo impresionista, al estilo de Camille Pissarro: entre manzanos, una fila de fotógrafos con trípodes mira un granero rojo en la loma; dos hombres de espaldas observan junto a un cartel que dice «El granero más fotografiado de América», y una mujer vende postales en un puesto de madera; al fondo, un autobús y varios autos.](../img/261025_white-noise_el-granero-fotografiado.jpg)](../img/261025_white-noise_el-granero-fotografiado.jpg)
 
 Los jefes de departamento usan togas académicas en el College-on-the-Hill. El departamento de Jack comparte edificio con el de cultura popular, cuyos profesores, casi todos emigrados de Nueva York, estudian los placeres brillantes de la cultura. Jack cuenta:
@@ -87,7 +93,7 @@ Los jefes de departamento usan togas académicas en el College-on-the-Hill. El d
 > Una excepción a parte de lo anterior es Murray Jay Siskind, un ex periodista deportivo que me pidió almorzar con él en el comedor, donde el olor institucional de una comida vagamente definida despertó en mí un recuerdo oscuro y sombrío.
 > [Frase 131](#original-131)
 
-Murray es nuevo, encorvado y de barba amish; da clases sobre íconos vivos. Quiere huir de las ciudades y vive en una casa de huéspedes llena de pensionistas misteriosos. Jack le pregunta:
+Murray es nuevo, encorvado y de barba amish; da clases sobre íconos vivos. Quiere huir de las ciudades, que para él significan calor, y vive en una casa de huéspedes llena de pensionistas misteriosos. Jack le pregunta:
 
 > «¿Cuál eres tú?», dije.
 > [Frase 168](#original-168)
@@ -125,7 +131,7 @@ Elvis Presley (1935-1977) fue un cantante estadounidense, una de las grandes est
 > Varios días después, Murray me preguntó por una atracción turística conocida como el granero más fotografiado de América.
 > [Frase 205](#original-205)
 
-Jack y Murray fueron en auto veintidós millas hasta un mirador lleno de fotógrafos, entre carteles; un hombre vendía postales. Murray callaba y anotaba.
+Jack y Murray fueron en auto veintidós millas hasta un mirador lleno de fotógrafos, entre carteles. Murray callaba y anotaba.
 
 > «Nadie ve el granero», dijo por fin.
 > [Frase 218](#original-218)
@@ -145,8 +151,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 1: Las Camionetas
 
-El narrador, las camionetas, los padres, el departamento de estudios sobre Hitler, los estudiantes y el espectáculo de la llegada.
-
 > [Frase 5](#lugar-5)
 > I've witnessed this spectacle every September for twenty-one years.
 
@@ -163,8 +167,6 @@ El narrador, las camionetas, los padres, el departamento de estudios sobre Hitle
 
 ### Capítulo 2: Babette en la Cocina
 
-Babette, el narrador, los padres de las camionetas, el grupo del almuerzo y Treadwell.
-
 > [Frase 55](#lugar-55)
 > I watch her all the time doing things in measured sequence, skillfully, with seeming ease, unlike my former wives, who had a tendency to feel estranged from the objective world— a self-absorbed and high-strung bunch, with ties to the intelligence community.
 
@@ -180,8 +182,6 @@ Babette, el narrador, los padres de las camionetas, el grupo del almuerzo y Trea
 ---
 
 ### Capítulo 3: El Granero Fotografiado
-
-Murray, el «nosotros» de quienes miran el granero, el narrador, el calor y los estudios sobre Hitler.
 
 > [Frase 131](#lugar-131)
 > An exception to some of the above is Murray Jay Siskind, an ex-sportswriter who asked me to have lunch with him in the dining room, where the institutional odor of vaguely defined food aroused in me an obscure and gloomy memory.
