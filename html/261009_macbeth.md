@@ -12,7 +12,7 @@ Hacia 1606, William Shakespeare escribió *Macbeth*: el mejor general del rey Du
 
 [![Grabado en línea: tres brujas encapuchadas conspiran en un páramo desolado bajo un cielo de tormenta con un gran relámpago; niebla baja sobre el brezo y las rocas.](img/261009_macbeth_i-1.jpg)](img/261009_macbeth_i-1.jpg)
 
-Trueno y relámpago: tres brujas fijan su próxima cita, para cuando acabe la batalla, y dicen con quién:
+Tres brujas fijan su cita:
 
 > <a id="lugar-17"></a>Allí, a encontrarnos con Macbeth.
 >
@@ -22,7 +22,7 @@ Trueno y relámpago: tres brujas fijan su próxima cita, para cuando acabe la ba
 
 Tercera bruja
 
-Llaman a sus espíritus y se van entre la niebla:
+Se van entre niebla:
 
 > <a id="lugar-25"></a>Lo bello es feo, y lo feo es bello: volemos entre la niebla y el aire inmundo.
 >
@@ -294,7 +294,7 @@ Duda de su vista, ve sangre en la hoja y siente la noche cómplice. Suena la cam
 
 [![Grabado en línea: unas manos manchadas de sangre se hunden en el agua oscura de una palangana de piedra bajo los arcos de un muro.](img/261009_macbeth_i-9.jpg)](img/261009_macbeth_i-9.jpg)
 
-Lady Macbeth espera en la oscuridad; el vino que apagó a los guardias a ella la encendió. Solo la detuvo un temor:
+Lady Macbeth espera; el vino que apagó a los guardias a ella la encendió. Solo la detuvo un temor:
 
 > <a id="lugar-503"></a>Temo que se hayan despertado y no esté hecho.
 >
@@ -304,7 +304,7 @@ Lady Macbeth espera en la oscuridad; el vino que apagó a los guardias a ella la
 
 Lady Macbeth
 
-Lo habría hecho, pero el rey dormido se parecía a su padre. Sale Macbeth, deshecho: ha cometido el crimen. Dice que oyó una voz:
+Lo habría hecho, pero el rey dormido se parecía a su padre. Sale Macbeth, deshecho: ya mató. Dice que oyó una voz:
 
 > <a id="lugar-553"></a>Me pareció oír una voz que gritaba: «¡No dormiréis más!
 >
@@ -314,7 +314,7 @@ Lo habría hecho, pero el rey dormido se parecía a su padre. Sale Macbeth, desh
 
 Macbeth
 
-No pudo decir amén. Ella lo manda a devolver las dagas; él no se atreve, y va ella. Llaman a la puerta, y Macbeth contempla sus manos:
+No pudo decir amén. Ella lo manda a devolver las dagas; él no se atreve, y va ella. Llaman, y Macbeth contempla sus manos:
 
 > <a id="lugar-581"></a>¡Ah, me arrancan los ojos!
 >
@@ -324,7 +324,7 @@ No pudo decir amén. Ella lo manda a devolver las dagas; él no se atreve, y va 
 
 Macbeth
 
-Ni el océano las lavaría. Ella vuelve con las manos igual de rojas y lo lleva a acostarse. Vuelven los golpes:
+Ni el océano las lavaría. Ella vuelve con las manos y lo lleva a acostarse. Vuelven los golpes:
 
 > <a id="lugar-597"></a>Para conocer mi acto, lo mejor sería no conocerme.
 >
@@ -390,7 +390,7 @@ Parten a caballo, sin despedirse, y Malcolm cierra la escena.
 
 [![Grabado en línea: en un cielo oscuro como de medianoche un búho ratonero mata en vuelo a un halcón; abajo, en las caballerizas de un castillo, los caballos enloquecidos rompen los pesebres y se encabritan entre los escombros.](img/261009_macbeth_i-11.jpg)](img/261009_macbeth_i-11.jpg)
 
-Fuera del castillo, un viejo y Ross comentan los presagios: día oscuro, un búho que mató a un halcón, los caballos de Duncan salvajes. El viejo concluye:
+Fuera del castillo, un viejo y Ross comentan los presagios: día oscuro, un búho que mató a un halcón, caballos salvajes. El viejo concluye:
 
 > <a id="lugar-799"></a>Es antinatural, igual que el acto cometido.
 >
@@ -400,7 +400,7 @@ Fuera del castillo, un viejo y Ross comentan los presagios: día oscuro, un búh
 
 Viejo
 
-Macduff cuenta que se culpa a los guardias y que Malcolm y Donalbain huyeron. Macbeth va a coronarse a Scone; Macduff se vuelve a Fife. El viejo se despide:
+Macduff cuenta que se culpa a los guardias y que Malcolm y Donalbain huyeron. Macbeth va a coronarse a Scone. El viejo se despide:
 
 > <a id="lugar-844"></a>Que la bendición de Dios vaya con vos, y con los que quieran hacer bien del mal y amigos de enemigos.
 >
@@ -464,7 +464,7 @@ Uno está harto de golpes; el otro, dispuesto a todo. Macbeth les señala a Banq
 
 [![Grabado en línea: en un aposento del castillo al anochecer, Macbeth, atormentado, habla en voz baja con Lady Macbeth junto a una ventana por la que cruzan murciélagos; un guardia vela al fondo entre cortinajes.](img/261009_macbeth_i-13.jpg)](img/261009_macbeth_i-13.jpg)
 
-Lady Macbeth ve que lograr el deseo sin contento no sirve. Llega Macbeth, torturado: solo hirieron a la serpiente y envidia a los muertos:
+Lady Macbeth está inquieta. Llega Macbeth, torturado: solo hirieron a la serpiente y envidia a los muertos:
 
 > <a id="lugar-972"></a>Duncan está en su tumba; tras la fiebre intermitente de la vida duerme bien. La traición ha hecho lo peor: ni acero, ni veneno, ni malicia doméstica, ni leva extranjera, nada puede tocarlo más.
 >
@@ -474,7 +474,7 @@ Lady Macbeth ve que lograr el deseo sin contento no sirve. Llega Macbeth, tortur
 
 Macbeth
 
-Ella le pide alegría ante los invitados. Él confiesa que su mente está llena de escorpiones: Banquo y Fleance viven. Ella responde:
+Ella le pide alegría. Él confiesa que su mente está llena de escorpiones: Banquo y Fleance viven. Ella responde:
 
 > <a id="lugar-986"></a>Aún hay consuelo: son vulnerables.
 >
@@ -502,7 +502,7 @@ La invita a ir con él.
 
 [![Grabado en línea: de noche, en un camino entre árboles retorcidos ante el castillo, tres asesinos embozados atacan a Banquo mientras su hijo Fleance huye y la antorcha cae al suelo.](img/261009_macbeth_i-14.jpg)](img/261009_macbeth_i-14.jpg)
 
-Dos asesinos esperan en un parque junto al palacio. Llega un tercero y el primero desconfía:
+Dos asesinos esperan; llega otro:
 
 > <a id="lugar-1002"></a>¿Pero quién te mandó unirte a nosotros?
 >
@@ -512,7 +512,7 @@ Dos asesinos esperan en un parque junto al palacio. Llega un tercero y el primer
 
 Primer asesino
 
-Dice que los manda Macbeth. Llega Banquo con su hijo, cae el golpe y Fleance huye. Se apaga la luz:
+Llega Banquo con su hijo, cae el golpe. Se apaga la luz:
 
 > <a id="lugar-1045"></a>Solo uno ha caído; el hijo ha huido.
 >
@@ -522,7 +522,7 @@ Dice que los manda Macbeth. Llega Banquo con su hijo, cae el golpe y Fleance huy
 
 Tercer asesino
 
-Han perdido la mejor mitad del encargo y se van a dar cuenta.
+Fleance huyó: han perdido la mejor mitad del encargo.
 
 ---
 
@@ -598,7 +598,7 @@ Ella le dice que le falta dormir, y se van a la cama.
 
 [![Grabado en línea: en un páramo nocturno bajo una luna enorme, Hécate, imponente entre túnicas y niebla, regaña con el brazo alzado a las tres brujas encogidas junto a los restos de una hoguera.](img/261009_macbeth_i-16.jpg)](img/261009_macbeth_i-16.jpg)
 
-Hécate, diosa de la brujería, llega furiosa: las brujas trataron con Macbeth sin avisarla. Y peor:
+Hécate llega furiosa: las brujas trataron con Macbeth sin avisarla. Y peor:
 
 > <a id="lugar-1230"></a>Y lo que es peor, todo lo que habéis hecho ha sido por un hijo díscolo, rencoroso e iracundo, que, como otros, ama por sus propios fines, no por vosotras.
 >
@@ -608,7 +608,7 @@ Hécate, diosa de la brujería, llega furiosa: las brujas trataron con Macbeth s
 
 Hécate
 
-Mañana él vendrá a conocer su destino, y ella prepara algo para esa noche:
+Mañana él vendrá a conocer su destino, y ella prepara algo:
 
 > <a id="lugar-1234"></a>Antes del mediodía debe hacerse un gran negocio.
 >
@@ -618,7 +618,7 @@ Mañana él vendrá a conocer su destino, y ella prepara algo para esa noche:
 
 Hécate
 
-Con una gota de la luna hará espíritus que lo arrastren a su perdición. La llaman y se va.
+Hará espíritus que lo arrastren a su perdición. La llaman y se va.
 
 ---
 
@@ -626,7 +626,7 @@ Con una gota de la luna hará espíritus que lo arrastren a su perdición. La ll
 
 [![Grabado en línea: en un pasillo del castillo iluminado por una antorcha, Lennox y un lord conversan en voz baja junto a una ventana, inclinados el uno hacia el otro con gestos de sospecha.](img/261009_macbeth_i-17.jpg)](img/261009_macbeth_i-17.jpg)
 
-Lennox y un Lord comentan con sarcasmo la muerte de Duncan y la de Banquo:
+Lennox y un Lord comentan con sarcasmo la muerte de Duncan y Banquo:
 
 > <a id="lugar-1248"></a>Mis palabras anteriores solo han dado en vuestros pensamientos, que pueden interpretar más lejos. Solo digo que las cosas se han llevado de modo extraño.
 >
@@ -636,7 +636,7 @@ Lennox y un Lord comentan con sarcasmo la muerte de Duncan y la de Banquo:
 
 Lennox
 
-Dicen que Macbeth lloró a Duncan y castigó a los guardias, y que los hijos de Duncan habrían corrido igual suerte. Macduff, por faltar al banquete, cayó en desgracia y está en la corte inglesa pidiendo ayuda. Macbeth se arma y manda llamarlo:
+Dicen que Macbeth lloró a Duncan y castigó a los guardias. Macduff, por faltar al banquete, cayó en desgracia y pide ayuda en Inglaterra. Macbeth se arma y lo manda llamar:
 
 > <a id="lugar-1268"></a>Sí; y con un rotundo: «Señor, yo no», el mensajero sombrío me vuelve la espalda y murmura, como diciendo: «Os arrepentiréis del tiempo que me carga con esta respuesta».
 >
@@ -874,7 +874,7 @@ Pide que la vigilen y que no le dejen ningún medio de dañarse.
 
 [![Grabado en línea: un ejército de soldados con lanzas y estandartes marcha por un valle montañoso hacia el castillo de Dunsinane, bajo nubes tormentosas.](img/261009_macbeth_i-22.jpg)](img/261009_macbeth_i-22.jpg)
 
-Los nobles escoceses marchan a unirse al ejército inglés de Malcolm, Siward y Macduff, mientras el tirano fortifica Dunsinane. Caithness dice:
+Los nobles marchan a unirse al ejército de Malcolm, mientras el tirano fortifica Dunsinane. Caithness dice:
 
 > <a id="lugar-1881"></a>Unos dicen que está loco; otros, que lo odian menos, lo llaman furia valiente; pero, con seguridad, no puede abrochar su causa desquiciada dentro del cinturón de la norma.
 >
@@ -884,7 +884,7 @@ Los nobles escoceses marchan a unirse al ejército inglés de Malcolm, Siward y 
 
 Caithness
 
-Angus siente que el título le cuelga como la túnica de un gigante sobre un ladrón enano. Caithness propone marchar a curar el país, y Lennox cierra:
+Angus siente el título como túnica de gigante sobre un ladrón enano. Marchan a curar el país, y Lennox cierra:
 
 ---
 
@@ -920,7 +920,7 @@ El médico se queda y dice que no volvería a Dunsinane por ningún provecho.
 
 [![Grabado en línea: el bosque de Birnam avanza: una ladera entera de soldados ocultos tras grandes ramas marcha hacia el castillo de Dunsinane en la cima.](img/261009_macbeth_i-24.jpg)](img/261009_macbeth_i-24.jpg)
 
-Malcolm y los suyos llegan a Birnam y ordenan que cada soldado corte una rama y la lleve delante. Siward dice:
+Malcolm y los suyos llegan a Birnam; cada soldado cortará una rama. Siward dice:
 
 > <a id="lugar-1987"></a>Se acerca el momento que, con debida decisión, nos hará saber lo que diremos que tenemos y lo que debemos.
 >
@@ -938,7 +938,7 @@ Malcolm cierra: que decidan los golpes ciertos.
 
 [![Grabado en línea: solo en el salón del trono en penumbra, Macbeth se hunde en el asiento de piedra con la cabeza entre las manos, abatido por la muerte de la reina; una sola antorcha alumbra la escena.](img/261009_macbeth_i-25.jpg)](img/261009_macbeth_i-25.jpg)
 
-En Dunsinane, Macbeth ya casi no siente miedo. Un grito de mujeres: la reina ha muerto. Llega un mensajero pálido, que vio moverse el bosque de Birnam. Macbeth lo llama mentiroso, y el mensajero responde:
+En Dunsinane, Macbeth ya casi no siente miedo. Un grito de mujeres: la reina ha muerto. Llega un mensajero que vio moverse el bosque de Birnam. Macbeth lo llama mentiroso, y el mensajero responde:
 
 > <a id="lugar-2026"></a>Que soporte vuestra ira si no es así.
 >
@@ -966,7 +966,7 @@ Comprende que el bosque sí viene, se cansa del mundo y manda a las armas.
 
 [![Grabado en línea: batalla campal ante las murallas de Dunsinane; caballeros a caballo chocan en medio de la polvareda mientras la infantería lucha alrededor y el castillo humea en lo alto.](img/261009_macbeth_i-26.jpg)](img/261009_macbeth_i-26.jpg)
 
-Ante las murallas, Malcolm manda tirar las ramas, y Siward y su hijo atacarán primero:
+Ante las murallas, Malcolm manda tirar las ramas:
 
 > <a id="lugar-2048"></a>Con tal que encontremos esta noche las fuerzas del tirano, que nos derroten si no sabemos pelear.
 >
@@ -976,7 +976,7 @@ Ante las murallas, Malcolm manda tirar las ramas, y Siward y su hijo atacarán p
 
 Siward
 
-Macduff manda que suenen todas las trompetas.
+Suenan las trompetas.
 
 ---
 
@@ -984,7 +984,7 @@ Macduff manda que suenen todas las trompetas.
 
 [![Grabado en línea: en medio de la batalla, Macbeth feroz se yergue sobre el joven Siward, que cae de rodillas con la espada alzada en vano.](img/261009_macbeth_i-27.jpg)](img/261009_macbeth_i-27.jpg)
 
-En plena batalla, Macbeth se siente atado a un poste, pero confía en su hechizo. Se cruza el joven Siward y le pregunta el nombre:
+Macbeth, atado a un poste, confía en su hechizo. Se cruza el joven Siward y le pregunta el nombre:
 
 > <a id="lugar-2063"></a>Tendrás miedo de oírlo.
 >
@@ -994,7 +994,7 @@ En plena batalla, Macbeth se siente atado a un poste, pero confía en su hechizo
 
 Macbeth
 
-Macbeth lo dice, pelean y mata al joven. Macduff lo busca por el campo:
+Macbeth mata al joven. Macduff lo busca:
 
 > <a id="lugar-2084"></a>Si caes muerto sin golpe mío, los fantasmas de mi esposa y de mis hijos me perseguirán siempre.
 >
@@ -1004,7 +1004,7 @@ Macbeth lo dice, pelean y mata al joven. Macduff lo busca por el campo:
 
 Macduff
 
-Siward le dice a Malcolm que el castillo se rindió y la batalla casi está ganada.
+Siward dice que el castillo se rindió.
 
 ---
 
@@ -1012,7 +1012,7 @@ Siward le dice a Malcolm que el castillo se rindió y la batalla casi está gana
 
 [![Grabado en línea: el duelo final: Macbeth coronado y Macduff traban las espadas en lo alto sobre un campo de batalla sembrado de caídos, con el castillo humeando al fondo.](img/261009_macbeth_i-28.jpg)](img/261009_macbeth_i-28.jpg)
 
-En el último campo, Macbeth no quiere matarse y Macduff lo encuentra. Macbeth dice que su vida está hechizada; Macduff le revela que nació antes de tiempo:
+Macbeth no quiere matarse y Macduff lo encuentra. Macbeth dice que su vida está hechizada; Macduff le revela que nació antes de tiempo:
 
 > <a id="lugar-2118"></a>¡Y que no se crea más a esos demonios embusteros que juegan con nosotros en doble sentido, que cumplen la palabra de promesa para nuestro oído y la rompen para nuestra esperanza!
 >
@@ -1032,7 +1032,7 @@ Macbeth no quiere pelear; Macduff le dice que se rinda y será exhibido como mon
 
 Macduff
 
-Malcolm es rey: hace condes a sus thanes, llama a los exiliados y castigará a los crueles. Cierra la obra invitando a su coronación en Scone.
+Malcolm es rey: hace condes a sus thanes, llama a los exiliados y castigará a los crueles. Invita a su coronación en Scone.
 
 ---
 

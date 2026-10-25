@@ -109,7 +109,7 @@ Su «pie», su entrada en escena; Tom el de Bedlam, un loco de manicomio. Le hac
 
 [![Óleo: Goneril da órdenes a su mayordomo Oswald en la galería de su palacio, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-3.jpg)](img/261017_rey-lear_i-3.jpg)
 
-Goneril sabe que el rey golpeó a un caballero suyo, y dice:
+Goneril sabe que Lear golpeó a un caballero suyo, y dice:
 
 > <a id="lugar-488"></a>No lo soportaré.
 >
@@ -125,7 +125,7 @@ Planea tratar con frialdad a Lear y a sus caballeros, y explica:
 
 Goneril
 
-Escribe a Regan para que haga lo mismo y vuelve a la casa.
+Escribe a Regan para que haga igual.
 
 ---
 
@@ -185,9 +185,9 @@ Es sarcasmo: cien hombres armados serían un peligro. Ya escribió a Regan y man
 
 [![Óleo: camino de Regan, el rey y el Bufón en el páramo mientras Kent parte a galope con las cartas, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-5.jpg)](img/261017_rey-lear_i-5.jpg)
 
-Camino de Regan, Lear envía a Kent con cartas para Gloucester. El Bufón suelta sus adivinanzas, y Lear, de pronto, baja la voz, dolido por lo hecho a Cordelia.
+Lear envía a Kent con cartas a Gloucester. El Bufón suelta adivinanzas, y Lear, dolido, baja la voz.
 
-El Bufón dice que Lear sería buen bufón; el rey estalla contra la ingratitud, y el Bufón replica:
+El Bufón dice que Lear sería buen bufón; el rey estalla, y el Bufón replica:
 
 > <a id="lugar-988"></a>Si fueras mi Bufón, tío, te haría azotar por ser viejo antes de tiempo.
 >
@@ -195,7 +195,7 @@ El Bufón dice que Lear sería buen bufón; el rey estalla contra la ingratitud,
 
 Bufón
 
-Dice que Lear envejeció antes de ser sabio. Lear pide no enloquecer. Ya están los caballos, y el Bufón cierra con una copla.
+Dice que Lear envejeció antes de ser sabio. Lear pide no enloquecer. El Bufón cierra:
 
 ---
 
@@ -270,7 +270,7 @@ Le ponen las piernas en el cepo y lo dejan solo. Kent bromea con su suerte, lee 
 
 [![Óleo: Edgar, proscrito, se oculta en el hueco de un gran roble con las jaurías cerca, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-8.jpg)](img/261017_rey-lear_i-8.jpg)
 
-Edgar, proscrito por su padre, se esconde y decide:
+Edgar, proscrito, se esconde y decide:
 
 > <a id="lugar-1389"></a>Mientras pueda escapar, me preservaré, y estoy decidido a tomar la forma más baja y más pobre que jamás la penuria, en desprecio del hombre, acercara a la bestia.
 >
@@ -278,7 +278,7 @@ Edgar, proscrito por su padre, se esconde y decide:
 
 Edgar
 
-Se disfrazará de mendigo loco de Bedlam, tiznado y casi desnudo, y deja de ser Edgar.
+Será un mendigo loco de Bedlam, tiznado y casi desnudo.
 
 ---
 
@@ -355,7 +355,7 @@ Kent
 
 [![Óleo: Lear desafía a la tormenta con los brazos abiertos en medio del páramo, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-11.jpg)](img/261017_rey-lear_i-11.jpg)
 
-En el páramo, bajo la tormenta, Lear le habla al viento y al trueno como a un ejército y les pide que destruyan el mundo. El Bufón le pide que entre y se refugie.
+En el páramo, bajo la tormenta, Lear manda al viento y al trueno destruir el mundo. El Bufón le pide que se refugie.
 
 Lear disculpa a los elementos, que no le deben nada, y se presenta:
 
@@ -373,7 +373,7 @@ Los llama ministros serviles que se unen a sus hijas. Kent lo encuentra. Lear di
 
 Lear
 
-Que tiemblen los criminales ocultos; él ha pecado menos de lo que han pecado contra él. Kent lo lleva a un cobertizo, y Lear, por primera vez, mira el frío de otro:
+Que tiemblen los criminales ocultos; él ha pecado menos de lo que han pecado contra él. Kent lo lleva a un cobertizo, y Lear mira el frío de otro:
 
 > <a id="lugar-1880"></a>—Pobre Bufón y bribón, tengo una parte del corazón que aún se apena por ti.
 >
@@ -381,7 +381,7 @@ Que tiemblen los criminales ocultos; él ha pecado menos de lo que han pecado co
 
 Lear
 
-El Bufón canta del viento y la lluvia y suelta una profecía de un mundo al revés.
+El Bufón canta al viento y la lluvia y profetiza un mundo al revés.
 
 ---
 
@@ -390,7 +390,7 @@ El Bufón canta del viento y la lluvia y suelta una profecía de un mundo al rev
 
 [![Óleo: Gloucester abre su corazón a Edmund a la luz de una sola vela, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-12.jpg)](img/261017_rey-lear_i-12.jpg)
 
-Gloucester le cuenta a Edmund que le prohibieron socorrer al rey, que hay división entre los duques y que recibió una carta peligrosa.
+Gloucester cuenta a Edmund que le prohibieron socorrer al rey.
 
 Decide desobedecer:
 
@@ -400,7 +400,7 @@ Decide desobedecer:
 
 Gloucester
 
-Pide a Edmund que distraiga al duque y avisa de cosas extrañas. Solo, Edmund se prepara para delatarlo: el joven sube cuando el viejo cae.
+Edmund, solo, se prepara para delatarlo: el joven sube cuando el viejo cae.
 
 ---
 
@@ -460,7 +460,7 @@ Cornwall quiere vengarse de Gloucester, y Edmund le sigue el juego:
 
 Edmund
 
-Edmund entrega la carta que el padre escondía. Cornwall lo hace conde de Gloucester y le pide que lo prenda.
+Edmund entrega la carta de su padre. Cornwall lo hace conde de Gloucester.
 
 ---
 
@@ -477,7 +477,7 @@ Bajo techo, Tom habla con su demonio. El Bufón pregunta si el loco es caballero
 
 Bufón
 
-Lear decide juzgar a sus hijas ahora: el tribunal es Tom y el Bufón, y las reas, dos taburetes. Acusa a Goneril de patear a su padre. El Bufón cita a la primera rea:
+Lear juzga a sus hijas: el tribunal es Tom y el Bufón, y las reas, dos taburetes. Acusa a Goneril. El Bufón cita a la primera rea:
 
 > <a id="lugar-2261"></a>Ven aquí, señora.
 >
@@ -485,9 +485,9 @@ Lear decide juzgar a sus hijas ahora: el tribunal es Tom y el Bufón, y las reas
 
 Bufón
 
-Lear la reconoce, pide que no escape la otra, pide que abran a Regan para ver qué endurece los corazones, y toma por uno de sus cien a Tom.
+Lear la reconoce, pide que no escape la otra y que abran a Regan para ver qué endurece los corazones. Toma a Tom por uno de sus cien.
 
-Al fin se duerme. Gloucester vuelve con la alarma: hay una trama de muerte contra el rey y una litera para llevarlo a Dover. Pregunta dónde está el rey, y Kent responde:
+Al fin se duerme. Gloucester vuelve: hay una trama de muerte contra el rey y una litera para llevarlo a Dover. Kent responde:
 
 > <a id="lugar-2315"></a>Aquí, señor, pero no lo turbéis; sus sesos se han ido.
 >
@@ -520,7 +520,7 @@ Cornwall lo manda atar; Regan le arranca la barba. Le preguntan por la carta y e
 
 Gloucester
 
-Dice que no quiso ver las uñas de ellas sobre el rey, y que verá la venganza. Cornwall le pisa un ojo. Un criado se interpone y Regan lo mata. Moribundo, dice:
+Dice que no quiso ver sus uñas sobre el rey, y que verá la venganza. Cornwall le pisa un ojo. Un criado se interpone y Regan lo mata. Moribundo, dice:
 
 > <a id="lugar-2483"></a>Mi señor, os queda un ojo para ver algún daño sobre él.
 >
@@ -536,7 +536,7 @@ Cornwall le saca el otro ojo. Regan le dice a Gloucester que fue Edmund quien lo
 
 ⌜ Second ⌝ Servant
 
-Deciden seguir a Gloucester y buscar al loco de Bedlam para que lo guíe.
+Deciden seguir a Gloucester y buscar al loco de Bedlam.
 
 ---
 
@@ -545,7 +545,7 @@ Deciden seguir a Gloucester y buscar al loco de Bedlam para que lo guíe.
 
 [![Óleo: Edgar guía a Gloucester, ciego y con los ojos vendados, por un sendero del páramo, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-17.jpg)](img/261017_rey-lear_i-17.jpg)
 
-Edgar, solo, se consuela: lo peor aún permite esperanza. Entra su padre, ciego, guiado por un anciano.
+Edgar, solo, se consuela: lo peor aún permite esperanza. Entra su padre, ciego, con un anciano.
 
 Gloucester despide al anciano y dice que tropezó cuando veía. Sin saber que Edgar oye, confiesa:
 
@@ -555,7 +555,7 @@ Gloucester despide al anciano y dice que tropezó cuando veía. Sin saber que Ed
 
 Gloucester
 
-Edgar descubre que aún no está en lo peor. Gloucester ve al loco y dice que los dioses nos matan por deporte. Manda al anciano por ropa.
+Edgar descubre que aún no está en lo peor. Gloucester ve al loco y manda al anciano por ropa.
 
 Edgar no soporta fingir ante su padre ciego, y se le escapa:
 
@@ -565,7 +565,7 @@ Edgar no soporta fingir ante su padre ciego, y se le escapa:
 
 Edgar
 
-Gloucester le da su bolso y pide justicia para los pobres. Pide que lo lleve a un acantilado de Dover. Edgar le ofrece el brazo:
+Gloucester le da su bolso y pide justicia para los pobres. Pide que lo lleve a Dover. Edgar le ofrece el brazo:
 
 > <a id="lugar-2637"></a>Dame el brazo.
 >
@@ -573,7 +573,7 @@ Gloucester le da su bolso y pide justicia para los pobres. Pide que lo lleve a u
 
 Edgar
 
-El hijo maldito guía al padre, sin que este lo sepa.
+El hijo guía al padre sin que lo sepa.
 
 ---
 
@@ -615,7 +615,7 @@ Goneril calcula: viuda, podría quedarse con Edmund. Albany sabe que Edmund denu
 
 [![Óleo: el campamento francés junto al mar, cerca de Dover, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-19.jpg)](img/261017_rey-lear_i-19.jpg)
 
-En el campamento francés, Kent pregunta por qué el rey de Francia partió. Un caballero cuenta cómo Cordelia leyó las cartas, entre lágrimas y sonrisas.
+En el campamento francés, Kent pregunta por qué partió el rey. Un caballero cuenta cómo Cordelia leyó las cartas:
 
 Dijo el nombre de su padre, y se quejó de sus hermanas:
 
@@ -625,7 +625,7 @@ Dijo el nombre de su padre, y se quejó de sus hermanas:
 
 Caballero
 
-Luego se retiró a llorar sola. Kent atribuye la diferencia entre hermanas a las estrellas. Lear está cerca, pero la vergüenza de lo que hizo le impide ver a Cordelia. Kent dice que irá, aunque se ocultará un tiempo:
+Kent atribuye la diferencia entre hermanas a las estrellas. Lear está cerca, pero la vergüenza le impide ver a Cordelia. Kent irá, aunque se ocultará un tiempo:
 
 > <a id="lugar-2816"></a>Cuando sea conocido rectamente, no os dolerá haberme prestado este trato.
 >
@@ -642,7 +642,7 @@ Se van juntos.
 
 [![Óleo: Cordelia llora en su tienda al oír cómo encontraron a su padre, loco y coronado de hierbas, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-20.jpg)](img/261017_rey-lear_i-20.jpg)
 
-Cordelia manda buscar a su padre, loco y coronado de hierbas, y pide al médico que lo cure. Reza para que la tierra dé remedios:
+Cordelia manda buscar a su padre, loco, y pide al médico que lo cure. Reza:
 
 > <a id="lugar-2836"></a>Buscadlo, buscadlo, no sea que su rabia ingobernable disuelva la vida que carece de medios para guiarla.
 >
@@ -650,7 +650,7 @@ Cordelia manda buscar a su padre, loco y coronado de hierbas, y pide al médico 
 
 Cordelia
 
-Llegan noticias de que el ejército inglés marcha. Cordelia dice que lucha por amor a su padre.
+Llega el ejército inglés. Cordelia dice que lucha por amor a su padre.
 
 ---
 
@@ -659,7 +659,7 @@ Llegan noticias de que el ejército inglés marcha. Cordelia dice que lucha por 
 
 [![Óleo: Regan interroga con severidad a Oswald en el campamento británico, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-21.jpg)](img/261017_rey-lear_i-21.jpg)
 
-En el campamento británico, Regan interroga a Oswald, que lleva una carta de Goneril para Edmund, y pregunta por qué le escribe:
+Regan interroga a Oswald, que lleva una carta de Goneril para Edmund, y pregunta por qué le escribe:
 
 > <a id="lugar-2884"></a>¿No podrías tú transportar sus propósitos de palabra?
 >
@@ -667,7 +667,7 @@ En el campamento británico, Regan interroga a Oswald, que lleva una carta de Go
 
 Regan
 
-Oswald no cede, y Regan le dice que sabe que Goneril quiere a Edmund. Le da un mensaje: ella es viuda y le conviene más. Oswald dice que se pondrá de su lado.
+Oswald no cede, y Regan dice que sabe que Goneril quiere a Edmund. Le da un mensaje: ella es viuda y le conviene más. Oswald asiente.
 
 ---
 
@@ -747,7 +747,7 @@ En el campamento francés, Cordelia agradece a Kent, que pide seguir sin ser con
 
 Cordelia
 
-El médico manda tocar música y Cordelia besa al durmiente. Lear despierta lento, cree que ella es un espíritu y que él está en una rueda de fuego. Poco a poco vuelve en sí:
+El médico manda tocar música y Cordelia besa al durmiente. Lear despierta, cree que ella es un espíritu y que él está en una rueda de fuego. Vuelve en sí:
 
 > <a id="lugar-3390"></a>Estoy poderosamente confundido; hasta moriría de piedad por ver a otro así.
 >
@@ -755,7 +755,7 @@ El médico manda tocar música y Cordelia besa al durmiente. Lear despierta lent
 
 Lear
 
-Teme no estar en su juicio y por fin reconoce a Cordelia. Le dice que ella sí tendría motivo para no amarlo. El médico advierte que no hay que hacerle repasar el tiempo perdido, y Lear pide perdón por viejo y necio.
+Teme no estar en su juicio y por fin reconoce a Cordelia. Dice que ella tendría motivo para no amarlo. El médico advierte que no hay que hacerle repasar el tiempo perdido, y Lear pide perdón por viejo y necio.
 
 Kent y un caballero hablan de la muerte de Cornwall y de la batalla que se acerca, que será sangrienta. Kent cierra el acto:
 
@@ -772,7 +772,7 @@ Kent
 
 [![Óleo: Edmund da órdenes a un oficial en el campamento británico, entre banderas y corceles, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-24.jpg)](img/261017_rey-lear_i-24.jpg)
 
-En el campamento británico, Edmund manda saber si Albany mantiene su propósito. Regan le pregunta si ama a su hermana y le pide que no sea familiar con ella:
+Edmund manda saber si Albany mantiene su propósito. Regan le pregunta si ama a su hermana:
 
 > <a id="lugar-3482"></a>Mi querido señor, no seáis familiar con ella.
 >
@@ -780,9 +780,9 @@ En el campamento británico, Edmund manda saber si Albany mantiene su propósito
 
 Regan
 
-Goneril, que llega con Albany, prefiere perder la batalla a perder a Edmund. Albany dice que pelea contra Francia, no a favor del rey. Regan quiere apartar a Goneril de Edmund, y esta se resigna.
+Goneril prefiere perder la batalla a perder a Edmund. Albany pelea contra Francia, no a favor del rey.
 
-Un caballero encapuchado, Edgar, entrega a Albany una carta y dice que, si gana, un campeón probará lo que ella afirma. Albany quiere retenerlo:
+Edgar, encapuchado, entrega a Albany una carta: si gana, un campeón lo probará. Albany quiere retenerlo:
 
 > <a id="lugar-3538"></a>Cuando el tiempo sirva, que solo grite el heraldo y apareceré de nuevo.
 >
@@ -790,7 +790,7 @@ Un caballero encapuchado, Edgar, entrega a Albany una carta y dice que, si gana,
 
 Edgar
 
-Edmund trae el parte del enemigo y, solo, duda entre las dos hermanas, a las que ha jurado amor. Decide:
+Edmund, solo, duda entre las dos hermanas, a las que ha jurado amor. Decide:
 
 > <a id="lugar-3561"></a>Ahora, pues, usaremos su apoyo para la batalla, la cual, una vez hecha, que la que quiera librarse de él maquine su pronta eliminación.
 >
@@ -798,7 +798,7 @@ Edmund trae el parte del enemigo y, solo, duda entre las dos hermanas, a las que
 
 Edmund
 
-Las usará en la batalla y después hará matar a la que estorbe. Y no tendrá piedad con Lear ni con Cordelia.
+Usará a ambas en la batalla y matará a la que estorbe.
 
 ---
 
@@ -807,7 +807,7 @@ Las usará en la batalla y después hará matar a la que estorbe. Y no tendrá p
 
 [![Óleo: Edgar deja a su padre a la sombra de un gran árbol y corre hacia la batalla lejana, al estilo de Jacob van Ruisdael](img/261017_rey-lear_i-25.jpg)](img/261017_rey-lear_i-25.jpg)
 
-Edgar deja a su padre bajo un árbol, vuelve corriendo y dice que huyan:
+Edgar vuelve y dice:
 
 > <a id="lugar-3577"></a>Dame la mano.
 >
@@ -815,7 +815,7 @@ Edgar deja a su padre bajo un árbol, vuelve corriendo y dice que huyan:
 
 Edgar
 
-Lear y Cordelia están presos. Gloucester ya no quiere seguir, y Edgar le dice que hay que aguantar hasta el final.
+Gloucester no quiere seguir, y Edgar dice:
 
 ---
 
