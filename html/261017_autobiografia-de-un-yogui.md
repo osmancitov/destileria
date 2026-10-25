@@ -2901,7 +2901,7 @@ En agosto de 1920 zarpa en el City of Sparta. Cuando le toca hablar en inglés a
 
 Sri Yukteswar
 
-Los años pasan: conferencias, miles de iniciados, la sede de Mt. Washington, la colina vista años atrás en una visión. Manda fotos a Serampore y el maestro responde con una postal:
+Los años pasan: conferencias, miles de iniciados, la sede de Mt. Washington, la colina vista años atrás en una visión. Manda fotos a Serampore y el maestro responde con una postal.
 
 
 ---

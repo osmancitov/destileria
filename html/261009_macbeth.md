@@ -248,7 +248,7 @@ Si lo hubiera jurado, dice ella, le estrellaría los sesos a su propio bebé. Pr
 
 Macbeth
 
-Salen a cenar. Macbeth cierra la escena:
+Salen a cenar. Macbeth cierra la escena.
 
 ---
 
@@ -286,7 +286,7 @@ Solo, Macbeth espera la campana y ve una daga en el aire, con el mango hacia su 
 
 Macbeth
 
-Duda de su vista, ve sangre en la hoja y siente la noche cómplice. Suena la campana, y Macbeth se dirige al que duerme:
+Duda de su vista, ve sangre en la hoja y siente la noche cómplice. Suena la campana, y Macbeth se dirige al que duerme.
 
 ---
 
@@ -884,7 +884,7 @@ Los nobles marchan a unirse al ejército de Malcolm, mientras el tirano fortific
 
 Caithness
 
-Angus siente el título como túnica de gigante sobre un ladrón enano. Marchan a curar el país, y Lennox cierra:
+Angus siente el título como túnica de gigante sobre un ladrón enano. Marchan a curar el país, y Lennox cierra.
 
 ---
 

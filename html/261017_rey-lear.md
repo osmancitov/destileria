@@ -195,7 +195,7 @@ El Bufón dice que Lear sería buen bufón; el rey estalla, y el Bufón replica:
 
 Bufón
 
-Dice que Lear envejeció antes de ser sabio. Lear pide no enloquecer. El Bufón cierra:
+Dice que Lear envejeció antes de ser sabio. Lear pide no enloquecer. El Bufón cierra con una copla.
 
 ---
 
@@ -815,7 +815,7 @@ Edgar vuelve y dice:
 
 Edgar
 
-Gloucester no quiere seguir, y Edgar dice:
+Gloucester ya no quiere seguir.
 
 ---
 
