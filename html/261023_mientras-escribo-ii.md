@@ -16,7 +16,7 @@
 
 La sección se titula «What Writing Is» («Qué Es Escribir») y abre con una palabra: «Telepathy, of course» («Telepatía, por supuesto»). King dice que escribir es telepatía y pasa a hablar de dónde lee:
 
-La telepatía es la supuesta transmisión de pensamientos de una mente a otra sin palabras ni señales; esa definición viene de fuera del libro.
+La telepatía es la supuesta transmisión de pensamientos de una mente a otra sin palabras ni señales.
 
 > <a id="lugar-1559"></a>Así que leo donde puedo, pero tengo un lugar favorito y probablemente tú también —un lugar donde la luz es buena y la vibra suele ser fuerte.
 >
@@ -306,7 +306,7 @@ El tramo cierra recordando:
 >
 > <small>[Frase 2092](#original-2092)</small>
 
-Horatio Alger fue un escritor estadounidense del siglo XIX, autor de novelas en las que un muchacho pobre prospera a base de esfuerzo; su nombre quedó como sinónimo de ascenso por mérito propio. Esta aclaración viene de fuera del libro.
+Horatio Alger fue un escritor estadounidense del siglo XIX, autor de novelas en las que un muchacho pobre prospera a base de esfuerzo; su nombre quedó como sinónimo de ascenso por mérito propio.
 
 Y esa premisa es:
 
@@ -346,7 +346,7 @@ Y concluye: «Believe me, I know» («Créeme, lo sé»).
 >
 > <small>[Frase 2171](#original-2171)</small>
 
-Geraldo, Keith Obermann y Jay Leno son rostros de la televisión estadounidense: entrevistas, noticias y humor nocturno. Esta aclaración viene de fuera del libro.
+Geraldo, Keith Obermann y Jay Leno son rostros de la televisión estadounidense: entrevistas, noticias y humor nocturno.
 
 La televisión roba tiempo; destetado de ella, casi todos disfrutan leer:
 
@@ -404,7 +404,7 @@ Arranca la segunda parte:
 >
 > <small>[Frase 2206](#original-2206)</small>
 
-El Gran Mandamiento alude al mandamiento mayor que Jesús señala en los Evangelios; aquí funciona como la regla primera del oficio. Esta aclaración viene de fuera del libro.
+El Gran Mandamiento alude al mandamiento mayor que Jesús señala en los Evangelios; aquí funciona como la regla primera del oficio.
 
 La respuesta varía de escritor a escritor:
 
@@ -462,7 +462,7 @@ Nada de teléfono, televisor ni videojuegos. King trabaja con rock duro a todo v
 >
 > <small>[Frase 2313](#original-2313)</small>
 
-La ouija es un tablero con letras que se usa en sesiones espiritistas para supuestamente contactar con espíritus. Esta aclaración viene de fuera del libro.
+La ouija es un tablero con letras que se usa en sesiones espiritistas para supuestamente contactar con espíritus.
 
 ---
 
@@ -482,7 +482,7 @@ El plomero sabe de tuberías, pero el corazón y la imaginación también saben.
 >
 > <small>[Frase 2327](#original-2327)</small>
 
-EC fue una editorial estadounidense de cómics de terror de los años cincuenta. Esta aclaración viene de fuera del libro.
+EC fue una editorial estadounidense de cómics de terror de los años cincuenta.
 
 Amaba esos cómics y el cine de terror; de ahí salieron sus primeros relatos: fue hecho con amor por la noche y el ataúd inquieto:
 
@@ -618,7 +618,7 @@ Cierra como empezó, con el fósil:
 >
 > <small>[Frase 2584](#original-2584)</small>
 
-Rudyard Kipling fue un escritor británico, autor de «El libro de la selva». Esta aclaración viene de fuera del libro.
+Rudyard Kipling fue un escritor británico, autor de «El libro de la selva».
 
 ---
 
@@ -680,7 +680,7 @@ Nada de autocomplacencia. El símil, cuando acierta, es como encontrar a un amig
 >
 > <small>[Frase 2680](#original-2680)</small>
 
-«Chestnut» («castaña») es en inglés un chiste o una frase demasiado repetida; aquí equivale a lugar común. Esta aclaración viene de fuera del libro.
+«Chestnut» («castaña») es en inglés un chiste o una frase demasiado repetida; aquí equivale a lugar común.
 
 Los mejores símiles salen de la novela negra: cigarrillos que saben a pañuelo de fontanero, dice Chandler. Ver con claridad y escribir con claridad: imágenes frescas, vocabulario sencillo. La práctica nunca te hará perfecto, y menos mal. Tu trabajo: decir lo que ves y seguir con tu historia.
 
@@ -776,7 +776,7 @@ El trabajo:
 >
 > <small>[Frase 2906](#original-2906)</small>
 
-En Getsemaní, según los Evangelios, Jesús oró pidiendo que se apartara de él el cáliz antes de ser arrestado. Esta aclaración viene de fuera del libro.
+En Getsemaní, según los Evangelios, Jesús oró pidiendo que se apartara de él el cáliz antes de ser arrestado.
 
 Los villanos dudan y sienten lástima; el bueno intenta rehuir lo correcto, como Johnny, como Jesús en Getsemaní. Si haces tu trabajo, los personajes cobran vida y actúan por su cuenta. Suena inquietante si no lo has vivido, pero es divertidísimo y resuelve muchos problemas.
 
@@ -798,7 +798,7 @@ No puedes agradar a todos los lectores todo el tiempo, sostiene, citando a Shake
 >
 > <small>[Frase 2927](#original-2927)</small>
 
-OSHA, MENSA y NASA son una agencia de seguridad laboral, un club de alto coeficiente intelectual y la agencia espacial de Estados Unidos; el Gremio de Escritores es el sindicato del oficio. Esta aclaración viene de fuera del libro.
+OSHA, MENSA y NASA son una agencia de seguridad laboral, un club de alto coeficiente intelectual y la agencia espacial de Estados Unidos; el Gremio de Escritores es el sindicato del oficio.
 
 Prueba lo que quieras; si funciona, se queda; si no, se tira, aunque lo ames: «Asesina a tus queridos», dijo Arthur Quiller-Couch. Los toques de gracia llegan al final; en «The Green Mile», el inocente condenado se llamó John Coffey por las iniciales de Jesucristo. Terminada la historia, King relee buscando patrones para el segundo borrador: ahí entran símbolo y tema:
 
@@ -868,7 +868,7 @@ También las diferencias entre niños y adultos y el poder sanador de la imagina
 >
 > <small>[Frase 3092](#original-3092)</small>
 
-El nudo gordiano alude al nudo que, según la leyenda, Alejandro Magno cortó de un espadazo; aquí, resolver un lío de golpe. El becerro de oro es el ídolo que adoraron los israelitas en el Éxodo. La caja de Pandora, en el mito griego, liberó todos los males al abrirse. Estas aclaraciones vienen de fuera del libro.
+El nudo gordiano alude al nudo que, según la leyenda, Alejandro Magno cortó de un espadazo; aquí, resolver un lío de golpe. El becerro de oro es el ídolo que adoraron los israelitas en el Éxodo. La caja de Pandora, en el mito griego, liberó todos los males al abrirse.
 
 Para eso sirven, en parte. Un aviso final: empezar por el tema es receta de mala ficción; la buena ficción empieza con la historia y progresa hacia el tema, casi nunca al revés. Pero con la historia ya en el papel, piensa en lo que significa y enriquece los borradores siguientes con tus conclusiones; hacer menos es robarle a tu obra —y a tus lectores— la visión que hace único a cada relato.
 
@@ -950,7 +950,7 @@ Si preguntas a los adecuados, te dirán mucho. No todas las opiniones pesan igua
 >
 > <small>[Frase 3256](#original-3256)</small>
 
-J. D. Salinger fue un novelista estadounidense, autor de «El guardián entre el centeno», célebre por su reclusión. Alfred Hitchcock fue un director de cine británico, maestro del suspense, y «Psycho» es una de sus películas. Estas aclaraciones vienen de fuera del libro.
+J. D. Salinger fue un novelista estadounidense, autor de «El guardián entre el centeno», célebre por su reclusión. Alfred Hitchcock fue un director de cine británico, maestro del suspense, y «Psycho» es una de sus películas.
 
 Si lo que oyes tiene sentido, haz los cambios. Llama Lector Ideal a esa persona: estará en tu cuarto siempre, en espíritu con la puerta cerrada y en carne al abrirla, y te ayuda a leer tu obra como el público. Al escribir una escena graciosa, King imagina a Tabby riéndose; al corregir, la pregunta —¿ya es bastante graciosa?— está delante. En un viaje en coche espiaba su lectura hasta que ella estalló: «¡Mira la carretera y deja de ser tan necesitado!» Cinco minutos después, un resoplido de risa. Le bastó: la mayoría de los escritores son necesitados, sobre todo cuando la puerta se abre y entra la luz del mundo.
 
@@ -990,7 +990,7 @@ Cómo manejes esos años decidirá si el relato es «buena lectura» o «un gran
 >
 > <small>[Frase 3367](#original-3367)</small>
 
-«In medias res» es una expresión latina que significa «en medio de las cosas»: empezar el relato a mitad de la acción. Esta aclaración viene de fuera del libro.
+«In medias res» es una expresión latina que significa «en medio de las cosas»: empezar el relato a mitad de la acción.
 
 Presta atención también a lo que aburra al Lector Ideal. En «Bag of Bones», Tabby leyó con gusto el pasado de Mike Noonan, salvo sus obras de caridad del año del bloqueo: «¿A quién le importa?». King se defendió, pero ella tenía razón: recortó dos páginas a dos párrafos y nadie las echó de menos. Moraleja: todo el mundo tiene una historia y casi toda es poco interesante; quédate con las partes que sí lo son. Las biografías largas solo se oyen en los bares, una hora antes del cierre, y si pagas tú.
 
@@ -1068,7 +1068,7 @@ Crain murió poco después; King espera que no lo mataran sus relatos. No necesi
 >
 > <small>[Frase 3515](#original-3515)</small>
 
-«El hombre de jengibre» es un personaje de cuento infantil: una galleta recién horneada que huye corriendo de todos. Esta aclaración viene de fuera del libro.
+«El hombre de jengibre» es un personaje de cuento infantil: una galleta recién horneada que huye corriendo de todos.
 
 ¿Y si surge la oportunidad?
 
@@ -1150,7 +1150,7 @@ Escribió doce cartas idénticas: joven escritor busca agente; lista de relatos 
 >
 > <small>[Frase 3672](#original-3672)</small>
 
-Una «editorial de vanidad» es una empresa que publica libros cobrando al autor en lugar de pagarle. Esta aclaración viene de fuera del libro.
+Una «editorial de vanidad» es una empresa que publica libros cobrando al autor en lugar de pagarle.
 
 Es fácil estafar a un escritor desesperado: cualquiera con unos cientos de dólares puede anunciarse como agente. Desconfía de quien cobra por leer tu obra; algunos son honrados, pero demasiados no tienen escrúpulos. Si estás tan ansioso por publicar, sáltate la caza de agentes y ve directo a una editorial de vanidad: allí al menos obtendrás una apariencia del valor de tu dinero.
 

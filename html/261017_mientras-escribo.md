@@ -24,7 +24,7 @@ Los tres prólogos caben en una unidad; el primero empieza en una banda de rock:
 
 La banda era la Rock Bottom Remainders, con Amy Tan entre sus cantantes. Una noche, antes de un concierto en Miami Beach:
 
-Amy Tan es la autora de *The Joy Luck Club*; el dato viene de fuera del libro.
+Amy Tan es la autora de *The Joy Luck Club*.
 
 > <a id="lugar-37"></a>Una noche, mientras comíamos comida china antes de un concierto en Miami Beach, le pregunté a Amy si había alguna pregunta que nunca le hicieran en el turno de preguntas y respuestas que sigue a casi todas las charlas de un escritor: esa pregunta que nunca llegas a contestar cuando estás de pie ante un grupo de fans deslumbrados por el autor y fingiendo que no te pones los pantalones de una pierna a la vez, como todo el mundo.
 >
@@ -52,7 +52,7 @@ King abre La Memoria avisando: no recuerda como Mary Karr, que lo recuerda todo.
 >
 > <small>[Frase 74](#original-74)</small>
 
-Mary Karr es poeta y memorista americana; *The Liars' Club*, «el club de los mentirosos», salió en 1995; el dato viene de fuera del libro.
+Mary Karr es poeta y memorista americana; *The Liars' Club*, «el club de los mentirosos», salió en 1995.
 
 «Curriculum vitae»: King titula así La Memoria, el papel donde cuenta su oficio.
 
@@ -84,7 +84,7 @@ Un año después están en West De Pere, Wisconsin: King, su madre y su hermano 
 >
 > <small>[Frase 134](#original-134)</small>
 
-The Village Voice fue un semanario neoyorquino de crítica y cultura, célebre por su dureza; el dato viene de fuera del libro.
+The Village Voice fue un semanario neoyorquino de crítica y cultura, célebre por su dureza.
 
 La despidieron por culpa de los huevos.
 
@@ -134,7 +134,7 @@ King preguntó a su madre si había visto morir a alguien: una la vio; otra, sol
 >
 > <small>[Frase 170](#original-170)</small>
 
-Prout's Neck es un cabo de la costa de Maine; la resaca es la corriente que arrastra mar adentro. Los datos vienen de fuera del libro.
+Prout's Neck es un cabo de la costa de Maine; la resaca es la corriente que arrastra mar adentro.
 
 > <a id="lugar-175"></a>Mamá dijo que tenía catorce años, luego me leyó un comic y me despachó a la cama.
 >
@@ -252,7 +252,7 @@ Las tías seguían casadas; Ruth criaba sola. Le compraron los cuatro: su primer
 
 En Stratford, Connecticut, cerca de casa había un terreno salvaje que volvería siempre en sus libros: los chicos de *It* lo llaman los Barrens; ellos, la jungla.
 
-*It*, la novela de King, salió en 1986; el dato del año viene de fuera del libro.
+*It*, la novela de King, salió en 1986.
 
 > <a id="lugar-313"></a>Dave y yo la exploramos por primera vez poco después de mudarnos al nuevo lugar.
 >
@@ -322,7 +322,7 @@ King nació en 1947; en casa no hubo tele hasta 1958. A él no le parece mal:
 >
 > <small>[Frase 393](#original-393)</small>
 
-«Robot Monster», la primera película que recuerda haber visto, es de 1953; el dato viene de fuera del libro.
+«Robot Monster», la primera película que recuerda haber visto, es de 1953.
 
 ---
 
@@ -332,7 +332,7 @@ King nació en 1947; en casa no hubo tele hasta 1958. A él no le parece mal:
 
 King mandó un cuento a *Spacemen*, la revista de Forrest J. Ackerman. Lo rechazaron, pero Forry lo guardaba todo:
 
-Forrest J. Ackerman, «el Ackermonster», fue agente literario y coleccionista de ciencia ficción; los datos vienen de fuera del libro.
+Forrest J. Ackerman, «el Ackermonster», fue agente literario y coleccionista de ciencia ficción.
 
 > <a id="lugar-406"></a>Unos veinte años después, mientras firmaba autógrafos en una librería de Los Ángeles, Forry apareció en la cola... con mi cuento, a un solo espacio y mecanografiado con la máquina de escribir Royal, desaparecida hacía mucho, que mi mamá me regaló la Navidad del año en que cumplí once años.
 >
@@ -362,7 +362,7 @@ El suyo: *Yo fui un ladrón de tumbas adolescente*.
 
 De vuelta en Maine, la madre de King cuidaba a sus padres; las hermanas le buscaron trabajo:
 
-Los sellos S&H Green Stamps se canjeaban por regalos; el dato viene de fuera del libro.
+Los sellos S&H Green Stamps se canjeaban por regalos.
 
 > <a id="lugar-421"></a>Las hermanas de mi madre le habían conseguido a mi mamá ese trabajo, tal vez pensando que podían matar dos pájaros de un tiro: los ancianos P. —los padres— serían cuidados en un ambiente hogareño por una hija amorosa, y El Pesado Problema de Ruth quedaría resuelto.
 >
@@ -392,7 +392,7 @@ La primera idea original de King: su madre lamía sellos para una lámpara; pens
 
 El negocio marcha:
 
-> <a id="lugar-455"></a>La mamá llama alegremente desde arriba: acaba de colgar el teléfono con el Centro Nacional de Canje de Happy Stamps, en Terre Haute —una ciudad de Indiana, dato de fuera del libro—, y la señora dijo que probablemente podían conseguir una bonita casa Tudor en Weston por solo once millones seiscientas mil libretas de Happy Stamps.
+> <a id="lugar-455"></a>La mamá llama alegremente desde arriba: acaba de colgar el teléfono con el Centro Nacional de Canje de Happy Stamps, en Terre Haute —una ciudad de Indiana—, y la señora dijo que probablemente podían conseguir una bonita casa Tudor en Weston por solo once millones seiscientas mil libretas de Happy Stamps.
 >
 > <small>[Frase 455](#original-455)</small>
 
@@ -412,7 +412,7 @@ El cuento fue rechazado en *Alfred Hitchcock's Mystery Magazine*, con una nota a
 
 En su cuarto, los rechazos se empalmaban en un clavo de la pared; a los dieciséis empezaron a llegar notas manuscritas alentadoras:
 
-Algis Budrys fue escritor y editor de ciencia ficción; *The Fugitive*, una serie de televisión de los sesenta. Los datos vienen de fuera del libro.
+Algis Budrys fue escritor y editor de ciencia ficción; *The Fugitive*, una serie de televisión de los sesenta.
 
 > <a id="lugar-485"></a>La primera de aquellas notas esperanzadoras fue de Algis Budrys, entonces editor de Fantasy and Science Fiction, que leyó un cuento mío llamado «The Night of the Tiger» —la inspiración fue, creo, un episodio de «The Fugitive» en el que el doctor Richard Kimble trabajaba de asistente limpiando jaulas en un zoológico o un circo— y escribió: «Esto es bueno.
 >
@@ -440,7 +440,7 @@ Dave, un año menor que sus compañeros, se aburría en el instituto: lo resolvi
 
 El primer año se imprimía en morado, con un hectógrafo de gelatina: demasiado lento para Dave.
 
-El hectógrafo era una plancha de gelatina para copiar páginas a mano; el dato viene de fuera del libro.
+El hectógrafo era una plancha de gelatina para copiar páginas a mano.
 
 > <a id="lugar-524"></a>Éramos capaces de armar en dos noches lo que antes tomaba una semana con el hectógrafo, y aunque la rotativa de tambor era sucia, no parecía infectada con una enfermedad potencialmente mortal.
 >
@@ -456,7 +456,7 @@ Hasta ahí la crónica del Dave's Rag.
 
 Entre 1958 y 1966 lo suyo fue el cine: en el Ritz de Lewiston vio todas las de terror, sobre todo las «Poepictures», como las llamaban Chris y él: Roger Corman tomando títulos de Poe. La que más los marcó:
 
-Roger Corman dirigió una serie de películas de terror de bajo presupuesto inspiradas en Edgar Allan Poe; *El pozo y el péndulo* es de 1961. Los datos vienen de fuera del libro.
+Roger Corman dirigió una serie de películas de terror de bajo presupuesto inspiradas en Edgar Allan Poe; *El pozo y el péndulo* es de 1961.
 
 > <a id="lugar-562"></a>De todas las Poepictures, la que más hondamente nos afectó a Chris y a mí fue «The Pit and the Pendulum» —«El pozo y el péndulo»—.
 >
@@ -506,7 +506,7 @@ Cuando llegaron las vacaciones de verano, imprimió cuatro docenas de un cuento 
 
 En el instituto de Lisbon, King editó el periódico escolar, *The Drum*, que no prosperó. Una noche creó su propio periódico satírico, *The Village Vomit*: noticias inventadas sobre los profesores. Casi todos se lo tomaron bien, menos la señorita Margitan, de mecanografía. Y en el *Vomit*, King escribió un ítem que empezaba:
 
-«Maggot» significa gusano, larva; la Honor Society premia a los mejores estudiantes del instituto. Los datos vienen de fuera del libro.
+«Maggot» significa gusano, larva; la Honor Society premia a los mejores estudiantes del instituto.
 
 > <a id="lugar-657"></a>El señor Higgins, nuestro director calvo —al que el Vomit se refería con toda confianza como Old Cue-Ball, «la Vieja Bola de Billar»—, me dijo que Miss Margitan estaba muy dolida y muy alterada por lo que yo había escrito.
 >
@@ -594,7 +594,7 @@ La revista *Cavalier* compró «Graveyard Shift» por doscientos dólares: tres 
 
 Verano de 1969: King trabajaba en la biblioteca de la universidad. Un día, comiendo en el césped, vio a una muchacha de risa escandalosa:
 
-*Soul on Ice* es el libro de Eldridge Cleaver, activista de los Panteras Negras; la lista del decano es el cuadro de honor de las mejores notas. Los datos vienen de fuera del libro.
+*Soul on Ice* es el libro de Eldridge Cleaver, activista de los Panteras Negras; la lista del decano es el cuadro de honor de las mejores notas.
 
 > <a id="lugar-787"></a>No me la había cruzado por la biblioteca, y no me creía que una estudiante universitaria pudiera soltar una risa tan maravillosa y tan sin miedo.
 >
@@ -739,7 +739,7 @@ El apoyo de Tabby nunca flaqueó: fue una constante, una de las pocas cosas buen
 
 Su hermano Dave trabajaba los veranos de conserje en el instituto de Brunswick; parte de un verano, King trabajó allí también, con Harry, un tipo de uniforme verde y llavero enorme:
 
-> <a id="lugar-1016"></a>Una hora de almuerzo, Harry me contó lo que había sido enfrentarse a una carga banzai japonesa en la isla de Tarawa —una batalla del Pacífico en la Segunda Guerra Mundial, dato de fuera del libro—: todos los oficiales japoneses blandían espadas hechas con latas de café Maxwell House, y todos los soldados rasos que venían detrás gritando iban hasta las cejas y olían a adormidera quemada.
+> <a id="lugar-1016"></a>Una hora de almuerzo, Harry me contó lo que había sido enfrentarse a una carga banzai japonesa en la isla de Tarawa —una batalla del Pacífico en la Segunda Guerra Mundial—: todos los oficiales japoneses blandían espadas hechas con latas de café Maxwell House, y todos los soldados rasos que venían detrás gritando iban hasta las cejas y olían a adormidera quemada.
 >
 > <small>[Frase 1016](#original-1016)</small>
 
@@ -821,7 +821,7 @@ Se aferró a la ropa nueva: la llevó a diario hasta el verano.
 
 Sondra, epiléptica, murió sola en una crisis; Dodie, tras el segundo hijo, bajó al sótano con un rifle. Dijeron depresión posparto; él sospecha resaca del instituto.
 
-> <a id="lugar-1156"></a>Nunca me gustó Carrie, esa versión femenina de Eric Harris y Dylan Klebold —los autores de la masacre de Columbine, dato de fuera del libro—, pero a través de Sondra y Dodie llegué por fin a entenderla un poco.
+> <a id="lugar-1156"></a>Nunca me gustó Carrie, esa versión femenina de Eric Harris y Dylan Klebold —los autores de la masacre de Columbine—, pero a través de Sondra y Dodie llegué por fin a entenderla un poco.
 >
 > <small>[Frase 1156](#original-1156)</small>
 
@@ -1021,7 +1021,7 @@ Pero la parte de él que escribe las historias (la parte profunda que sabía que
 
 Entonces Tabby intervino:
 
-> <a id="lugar-1470"></a>Organizó un grupo de intervención formado por familia y amigos, y a mí me tocó una especie de This Is Your Life en el infierno —«Esta es tu vida», el programa de televisión que sorprendía a un invitado repasando su vida delante de todos, dato de fuera del libro—.
+> <a id="lugar-1470"></a>Organizó un grupo de intervención formado por familia y amigos, y a mí me tocó una especie de This Is Your Life en el infierno —«Esta es tu vida», el programa de televisión que sorprendía a un invitado repasando su vida delante de todos—.
 >
 > <small>[Frase 1470](#original-1470)</small>
 
