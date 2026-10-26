@@ -450,14 +450,11 @@ Tienen hasta mayo o junio para decidir:
 
 ### Capítulo 10: El Chicle y el Preso
 
-*Tommy Roy, Heinrich, Babette, Jack, Denise y Steffie.*
+*Tommy Roy, Heinrich, Babette, Jack, Steffie y Denise.*
 
 [![Heinrich, de calentador y con toalla al cuello, inclinado sobre un tablero de ajedrez con cartas; Jack lo mira desde la puerta, y al fondo Babette rompe huevos mientras dos niñas discuten.](../img/261025_white-noise_el-chicle-y-el-preso.jpg)](../img/261025_white-noise_el-chicle-y-el-preso.jpg)
 
-Denise, de once años, mira a su madre Babette abrir un paquete de chicles:
-
-> Esperó un largo momento y luego dijo con calma: «Eso causa cáncer en animales de laboratorio, por si no lo sabías.»
-> [Frase 962](#original-962)
+Denise, de once años, mira a su madre Babette abrir un paquete de chicles y dice que causan cáncer. Babette contesta:
 
 > «Querías que masticara chicle sin azúcar, Denise.
 > [Frase 963](#original-963)
@@ -467,7 +464,7 @@ Denise dice que entonces el paquete no avisaba. Babette replica:
 > Pusieron una advertencia, y me costaría creer que no la vieras.»
 > [Frase 966](#original-966)
 
-Babette dice que le da igual: chicle con azúcar o dañino para las ratas. Steffie, su hermana, cuelga. Babette rompe huevos:
+Babette no le da importancia. Steffie, su hermana, cuelga. Babette rompe huevos:
 
 > Me lanzó una mirada que se preguntaba cómo la niña podía hablar por teléfono y escucharnos al mismo tiempo.
 > [Frase 977](#original-977)
@@ -485,12 +482,7 @@ Steffie articula sin voz que los Stover quieren venir. Babette pregunta si los p
 > «No los queremos», dijo Babette.
 > [Frase 1004](#original-1004)
 
-Los Stover quedan fuera. Babette dice que el chicle no daña; las niñas, que solo mata ratas:
-
-> «Además, me gustaría creer que mastica solo dos pedazos al día, con lo que se le olvidan las cosas.»
-> [Frase 1024](#original-1024)
-
-Babette pregunta qué olvida, y Denise le dice que mastique. Jack, el padre, besa a Wilder, el hijo menor:
+Los Stover quedan fuera. Babette dice que el chicle no daña; las niñas, que solo mata ratas. Denise dice que Babette olvida cosas. Jack, el padre, besa a Wilder, el hijo menor:
 
 > Luego lo puse sobre el mostrador y subí a buscar a Heinrich.
 > [Frase 1033](#original-1033)
@@ -533,7 +525,12 @@ Heinrich responde:
 > «Diciéndole que pasara a la historia.
 > [Frase 1086](#original-1086)
 
-Foster sabe que no pasará a la historia; Jack, que él tampoco. Pero Jack tiene a Hitler (es profesor de estudios hitlerianos) y Foster nada. Jack le pregunta:
+Heinrich dice que en Iron City no hay medios. Si Foster empezara de nuevo, lo haría como un magnicidio:
+
+> «Elegiría con más cuidado, mataría a una persona famosa, se haría notar y haría que el hecho perdurara.»
+> [Frase 1095](#original-1095)
+
+Foster sabe que no pasará a la historia; Jack, que él tampoco. Jack tiene a Hitler (es profesor de estudios hitlerianos) y Foster nada. Jack le pregunta:
 
 > «Muy bien, te ha contado todas estas cosas en las cartas que manda.
 > [Frase 1101](#original-1101)
@@ -1391,9 +1388,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 10: El Chicle y el Preso
 
-> [Frase 962](#lugar-962)
-> She waited a long moment, then said evenly, "That stuff causes cancer in laboratory animals in case you didn't know."
-
 > [Frase 963](#lugar-963)
 > "You wanted me to chew sugarless gum, Denise.
 
@@ -1411,9 +1405,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 1004](#lugar-1004)
 > "We don't want them," Babette said.
-
-> [Frase 1024](#lugar-1024)
-> "Plus I'd like to believe she chews only two pieces a day, the way she forgets things."
 
 > [Frase 1033](#lugar-1033)
 > Then I put him on the counter and went upstairs to find Heinrich.
@@ -1441,6 +1432,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 1086](#lugar-1086)
 > "Telling him to go down in history.
+
+> [Frase 1095](#lugar-1095)
+> "He would select more carefully, kill one famous person, get noticed, make it stick."
 
 > [Frase 1101](#lugar-1101)
 > "All right, he's told you all these things in the letters he sends.
