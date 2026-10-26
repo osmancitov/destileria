@@ -1071,6 +1071,56 @@ Tweedy dice que los aviones y las terminales son los lugares más seguros para l
 
 ---
 
+### Capítulo 19: Bee, la Testigo Silenciosa
+
+*Bee, Jack, Denise y la familia.*
+
+[![Una muchacha pálida y delgada con un largo atuendo caqui está sentada junto a una chimenea de llamas turquesa en una sala navideña, mientras un hombre corpulento en un sillón, con cajas de regalo y papel de seda en el regazo, la mira con inquietud.](../img/261025_white-noise_bee-la-testigo-silenciosa.jpg)](../img/261025_white-noise_bee-la-testigo-silenciosa.jpg)
+
+Bee, la hija de doce años de Jack, ha llegado a la casa. Jack cuenta:
+
+> Bee nos hacía sentir cohibidos de vez en cuando, un castigo que los visitantes infligen sin querer a sus anfitriones complacientes.
+> [Frase 2435](#original-2435)
+
+Todo lo que hacen parece necesitar explicación, y Babette está especialmente desconcertada. Jack dice:
+
+> Si Denise era una comisaria de tamaño de bolsillo, que nos acosaba hacia una conciencia más alta, entonces Bee era una testigo silenciosa, que ponía en entredicho el sentido mismo de nuestras vidas.
+> [Frase 2440](#original-2440)
+
+Babette mira sus manos ahuecadas, horrorizada. Bee, un año mayor que Denise, es más alta, delgada y pálida, y desdeña los chistes familiares.
+
+> Era dueña de sí y reflexiva, y nos había traído regalos tallados a mano de las selvas.
+> [Frase 2445](#original-2445)
+
+Toma taxis a la escuela y a la clase de baile, y habla un poco de chino.
+
+> La admiraba de un modo distante e inquieto, percibiendo una amenaza sin nombre, como si no fuera hija mía en absoluto sino la amiga sofisticada y autosuficiente de uno de mis hijos.
+> [Frase 2447](#original-2447)
+
+Jack se pregunta si Murray tiene razón en que son una unidad frágil rodeada de hechos hostiles. En Navidad, Bee dice junto a la chimenea que su madre está tensa por culpa de Malcolm y que no sabe quién es. En sus ojos se mueve una vida secundaria. Jack se pregunta:
+
+> ¿Qué significaba aquello, qué decía en realidad, por qué parecía esperar que yo respondiera de la misma manera?
+> [Frase 2481](#original-2481)
+
+Bee quiere comunicarse así y descubrir algo sobre él. Jack empieza a preocuparse.
+
+> Mientras el olor a tostada quemada llenaba la casa, intenté que me hablara de la vida en séptimo grado.
+> [Frase 2486](#original-2486)
+
+Steffie quema tostadas, y Bee dice que podría haber preparado un kimchi. Jack dice:
+
+> «Probablemente comeremos algo además de tostadas», dije.
+> [Frase 2496](#original-2496)
+
+Su leve reproche la hace feliz.
+
+> Le gustaba más cuando yo era seco, burlón y cortante, un talento natural que creía que yo había perdido por tanto trato con niños.
+> [Frase 2498](#original-2498)
+
+Dos noches después Steffie se baña en agua sucia, porque es su suciedad, y Bee aparece en el pasillo con un quimono, distante. Por la mañana Jack la lleva al aeropuerto; ella lo mira con compasión solemne, que él reconoce como condescendencia adolescente. De regreso aparca junto a un cementerio y escucha.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -1711,6 +1761,34 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 2414](#lugar-2414)
 > Now we sat waiting in the dark for a car to get towed or a drawbridge to close.
+
+---
+
+### Capítulo 19: Bee, la Testigo Silenciosa
+
+> [Frase 2435](#lugar-2435)
+> Bee made us feel self-conscious at times, a punishment that visitors will unintentionally inflict on their complacent hosts.
+
+> [Frase 2440](#lugar-2440)
+> If Denise was a pint-sized commissar, nagging us to higher conscience, then Bee was a silent witness, calling the very meaning of our lives into question.
+
+> [Frase 2445](#lugar-2445)
+> She was self-possessed and thoughtful, had brought us hand-carved gifts from the jungles.
+
+> [Frase 2447](#lugar-2447)
+> I admired her in a distant and uneasy way, sensing a nameless threat, as if she were not my child at all but the sophisticated and self-reliant friend of one of my children.
+
+> [Frase 2481](#lugar-2481)
+> What did it mean, what was she really saying, why did she seem to expect me to respond in kind?
+
+> [Frase 2486](#lugar-2486)
+> As the odor of burning toast filled the house, I tried to get her to talk about life in the seventh grade.
+
+> [Frase 2496](#lugar-2496)
+> "We're probably having something besides toast," I said.
+
+> [Frase 2498](#lugar-2498)
+> She liked me best when I was dry, derisive and cutting, a natural talent she believed I'd forfeited through long association with children.
 
 © 2026 Osmancito
 
