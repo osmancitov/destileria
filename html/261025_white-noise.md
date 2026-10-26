@@ -543,6 +543,81 @@ Por la mañana Jack consulta su saldo en un cajero y siente que el sistema, invi
 
 ---
 
+### Capítulo 11: El Cuarto de Murray
+
+*Babette, Jack, Murray, Dana, los alumnos y Steffie.*
+
+[![Murray sirve café en la litera a Jack y a Babette, que miran un televisor sobre una pila de cómics; por la ventana, bajo la lluvia, se ve el viejo manicomio.](../img/261025_white-noise_el-cuarto-de-murray.jpg)](../img/261025_white-noise_el-cuarto-de-murray.jpg)
+
+A las 3:51 Jack despierta con un sudor de muerte y se pregunta si la muerte es impar:
+
+> Babette murmuró en sueños y me acerqué, respirando su calor.
+> [Frase 1149](#original-1149)
+
+El olor a pan quemado lo despierta: Steffie quema tostadas a propósito. Baja y encuentra a Babette:
+
+> Pensé que seguía en la cama.
+> [Frase 1161](#original-1161)
+
+Steffie pregunta por su madre, Dana Breedlove, con quien Jack estuvo casado, agente por contrato de la CIA. Una voz de computadora llama para una encuesta; mientras Steffie la atiende, Jack le cuenta a Babette que Dana lo enredaba en intrigas:
+
+> «¿Qué se siente estar por cumplir cincuenta y uno?», dijo ella.
+> [Frase 1214](#original-1214)
+
+Jack no siente diferencia con los cincuenta. Esa noche, en el cuarto de Murray, toman café en la litera; Murray dice que de periodista deportivo nunca tuvo hogar:
+
+> «Has hecho maravillas», dijo Babette, recorriendo la habitación con una mirada desesperada.
+> [Frase 1220](#original-1220)
+
+Murray llama a su cuarto un recipiente para pensar y dice que el manicomio de enfrente se ve como un manicomio. Lamenta que no trajeran niños; a sus alumnos les dice que ya son viejos para pesar en la sociedad:
+
+> Como estábamos sentados en la cama, Murray tuvo que inclinarse bien hacia adelante, mirando más allá de la taza de café que yo sostenía en la mano, para dirigirse a Babette.
+> [Frase 1241](#original-1241)
+
+Murray pregunta cuántos hijos tiene Babette: Wilder, Denise y Eugene, que vive con su padre en Australia. Jack dice que un niño sin televisión es un salvaje:
+
+> «La tele solo es un problema si has olvidado cómo mirar y escuchar», dijo Murray.
+> [Frase 1252](#original-1252)
+
+Murray dice que sus alumnos quieren volverse contra la televisión y que él les enseña a mirar como niños. Lleva dos meses viéndola y tomando notas:
+
+> Una experiencia grande y que vuelve humilde, te lo aseguro.
+> [Frase 1262](#original-1262)
+
+Su conclusión: «ondas y radiación». La televisión es una fuerza primaria del hogar:
+
+> Les pregunto a mis alumnos: ‹¿Qué más quieren?› Miren la riqueza de datos escondida en la cuadrícula, en el envase brillante, los jingles, los comerciales de escenas de la vida cotidiana, los productos que se lanzan desde la oscuridad, los mensajes cifrados y las repeticiones sin fin, como cantos, como mantras. ‹Coke is it, Coke is it, Coke is it.› El medio casi rebosa de fórmulas sagradas, si recordamos cómo responder con inocencia y superar nuestra irritación, cansancio y asco.»
+> [Frase 1277](#original-1277)
+
+Sus alumnos no están de acuerdo y prefieren hablar de cine:
+
+> «¿Cómo sabes tanto?», dijo Babette.
+> [Frase 1284](#original-1284)
+
+Babette dice que mientras más habla, más parece que quiere engañarlos:
+
+> «¿Alguna vez has estado casado?», dijo ella.
+> [Frase 1288](#original-1288)
+
+Murray estuvo casado una vez, brevemente, y ahora vive solo con una tele y cómics:
+
+> No creas que no apreciaría una visita dramática entre las dos y las tres de la madrugada», le dijo, «de una mujer inteligente con tacones de aguja y falda con abertura, con accesorios de alto impacto.»
+> [Frase 1292](#original-1292)
+
+Caminan a casa bajo la llovizna. Babette dice que olvida cosas y se pregunta si es el chicle; Jack le dice que Steffie, por Denise, cree que toma algo más:
+
+> «Quería preguntarte antes de preguntarle a ella.»
+> [Frase 1325](#original-1325)
+
+Babette dice que no toma nada que lo explique, pero no puede descartarlo:
+
+> «Estás diciendo que quizá estás tomando algo que tiene como efecto secundario deteriorar la memoria.»
+> [Frase 1330](#original-1330)
+
+Para Babette la vida es de uno u otro: chicle o cigarrillos, cigarrillos o engordar. Llegan las hojas y el Halloween.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -851,6 +926,49 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 1123](#lugar-1123)
 > Isn't that why Tommy Roy killed those people?"
+
+---
+
+### Capítulo 11: El Cuarto de Murray
+
+> [Frase 1149](#lugar-1149)
+> Babette murmured in her sleep and I moved close, breathing her heat.
+
+> [Frase 1161](#lugar-1161)
+> I thought she was still in bed.
+
+> [Frase 1214](#lugar-1214)
+> "How does it feel being nearly fifty-one?" she said.
+
+> [Frase 1220](#lugar-1220)
+> "You've done wonders," Babette said, her gaze sweeping desperately across the room.
+
+> [Frase 1241](#lugar-1241)
+> Because we were seated on the bed, Murray had to lean well forward, looking past the coffee cup poised in my hand, in order to address Babette.
+
+> [Frase 1252](#lugar-1252)
+> "TV is a problem only if you've forgotten how to look and listen," Murray said.
+
+> [Frase 1262](#lugar-1262)
+> A great and humbling experience, let me tell you.
+
+> [Frase 1277](#lugar-1277)
+> I ask my students, 'What more do you want?' Look at the wealth of data concealed in the grid, in the bright packaging, the jingles, the slice-of-life commercials, the products hurtling out of darkness, the coded messages and endless repetitions, like chants, like mantras. 'Coke is it, Coke is it, Coke is it.' The medium practically overflows with sacred formulas if we can remember how to respond innocently and get past our irritation, weariness and disgust."
+
+> [Frase 1284](#lugar-1284)
+> "How do you know so much?" Babette said.
+
+> [Frase 1288](#lugar-1288)
+> "Have you ever been married?" she said.
+
+> [Frase 1292](#lugar-1292)
+> Don't think I wouldn't appreciate a dramatic visit between two and three in the morning," he told her, "from an intelligent woman in spike heels and a slit skirt, with high-impact accessories."
+
+> [Frase 1325](#lugar-1325)
+> "I wanted to ask you before I asked her."
+
+> [Frase 1330](#lugar-1330)
+> "You're saying maybe you're taking something that has the side effect of impairing memory."
 
 © 2026 Osmancito
 
