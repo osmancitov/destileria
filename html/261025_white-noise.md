@@ -684,6 +684,99 @@ Jack concluye que el misterio americano se profundiza.
 
 ---
 
+### Capítulo 14: El Desvanecimiento Cerebral
+
+*Alfonse Stompanato, Murray, Lasher, Denise, Babette y Heinrich.*
+
+[![Una mesa de comedor de profesores en torno a un hombre barbudo que habla con gravedad, mientras una televisión al fondo muestra una casa deslizándose hacia el mar.](../img/261025_white-noise_el-desvanecimiento-cerebral.jpg)](../img/261025_white-noise_el-desvanecimiento-cerebral.jpg)
+
+Jack estudia alemán en la cama. Denise se tumba a los pies y le cuenta que Babette toma un fármaco llamado Dylar, que ella ha visto el frasco en la basura y que no figura en ningún libro. Después le pregunta por qué llamó a su hijo Heinrich: un nombre fuerte, con autoridad, para protegerlo. Una noche de viernes, ante el televisor, con comida china:
+
+> Había inundaciones, terremotos, aludes de barro, volcanes en erupción.
+> [Frase 1619](#original-1619)
+
+Heinrich no está huraño y Jack no está aburrido.
+
+> Steffie, a punto de llorar por un marido de comedia que discutía con su mujer, parecía absorta por completo en aquellos fragmentos documentales de calamidad y muerte.
+> [Frase 1622](#original-1622)
+
+Babette quiere cambiar a una comedia y se asombra de la fuerza de su protesta.
+
+> Permanecíamos en silencio, viendo cómo las casas se deslizaban hacia el océano y pueblos enteros crepitaban y se encendían en una masa de lava que avanzaba.
+> [Frase 1625](#original-1625)
+
+Para entonces cada desastre les hace pedir otro mayor. El lunes Murray cuenta que no logra armar su base de poder sobre Elvis Presley en el departamento. Jack almuerza con los emigrados de Nueva York, que preside Alfonse Stompanato, de barba furiosa. Le pregunta:
+
+> Le dije: «¿Por qué, Alfonse, gente decente, bienintencionada y responsable se siente intrigada por la catástrofe cuando la ve por televisión?»
+> [Frase 1650](#original-1650)
+
+> Le conté la reciente velada de lava, barro y aguas furiosas que a los niños y a mí nos había resultado tan entretenida.
+> [Frase 1651](#original-1651)
+
+Queríamos más, más.
+
+> «Es natural, es normal», dijo, con un asentimiento tranquilizador.
+> [Frase 1653](#original-1653)
+
+Le pasa a todo el mundo, dice Alfonse. Jack pregunta por qué.
+
+> «Porque sufrimos de desvanecimiento cerebral.
+> [Frase 1656](#original-1656)
+
+> Necesitamos una catástrofe de vez en cuando para interrumpir el bombardeo incesante de información.»
+> [Frase 1657](#original-1657)
+
+Elliot Lasher, un hombre delgado de cara tensa, lo respalda, y Alfonse sigue:
+
+> «Palabras, imágenes, cifras, hechos, gráficos, estadísticas, motas, ondas, partículas, partículas de polvo.
+> [Frase 1661](#original-1661)
+
+> Solo una catástrofe atrae nuestra atención.
+> [Frase 1662](#original-1662)
+
+> Las queremos, las necesitamos, dependemos de ellas.
+> [Frase 1663](#original-1663)
+
+> Mientras ocurran en otra parte.
+> [Frase 1664](#original-1664)
+
+Y sigue, ahora con California:
+
+> Aludes de barro, incendios forestales, erosión de la costa, terremotos, matanzas, etcétera.
+> [Frase 1666](#original-1666)
+
+> Podemos relajarnos y disfrutar de estos desastres porque en el fondo sentimos que California se merece lo que le toque.
+> [Frase 1667](#original-1667)
+
+Califica a los californianos de inventores del estilo de vida, lo cual basta para condenarlos. Habla luego de Japón y de la India:
+
+> Tienen un potencial tremendo con sus hambrunas, monzones, conflictos religiosos, choques de trenes, hundimientos de barcos, etcétera.
+> [Frase 1673](#original-1673)
+
+Sus desastres rara vez se registran: tres líneas en el periódico, sin película ni enlace por satélite. Por eso California es tan importante:
+
+> No solo disfrutamos viéndolos castigados por su vida relajada y sus ideas sociales progresistas, sino que sabemos que no nos perdemos nada.
+> [Frase 1678](#original-1678)
+
+Las cámaras están ahí mismo, dice, listas.
+
+> Nada terrible escapa a su escrutinio.»
+> [Frase 1681](#original-1681)
+
+Jack resume que fascinarse con desastres televisados es casi universal. Alfonse dice que para la mayoría solo hay dos lugares en el mundo, donde viven y su televisor:
+
+> Si algo ocurre en la televisión, tenemos todo el derecho a encontrarlo fascinante, sea lo que sea.»
+> [Frase 1685](#original-1685)
+
+Jack no sabe si alegrarse o apenarse. «Apénate», dice Alfonse, y Lasher añade que todos se sienten mal pero pueden disfrutarlo en ese plano. Murray habla de la atención equivocada: la gente olvidó mirar y escuchar como un niño.
+
+> En el sentido psíquico, un incendio forestal en la tele está en un plano inferior al de un anuncio de diez segundos del Lavavajillas Automático All.
+> [Frase 1695](#original-1695)
+
+Murray dice que los anuncios tienen ondas más profundas, y que es un simple caso de mal uso. Luego Grappa lanza un panecillo a Lasher y los profesores se retan a contar dónde se cepillaron los dientes con el dedo y dónde estaban cuando murió James Dean.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -1073,6 +1166,67 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 1507](#lugar-1507)
 > The police had consulted Adele T. on a number of occasions and she had led them to two bludgeoned bodies, a Syrian in a refrigerator and a cache of marked bills totaling six hundred thousand dollars, although in each instance, the report concluded, the police had been looking for something else.
+
+---
+
+### Capítulo 14: El Desvanecimiento Cerebral
+
+> [Frase 1619](#lugar-1619)
+> There were flopds, earthquakes, mud slides, erupting volcanoes.
+
+> [Frase 1622](#lugar-1622)
+> Steffie, brought close to tears by a sitcom husband arguing with his wife, appeared totally absorbed in these documentary clips of calamity and death.
+
+> [Frase 1625](#lugar-1625)
+> We were otherwise silent, watching houses slide into the ocean, whole villages crackle and ignite in a mass of advancing lava.
+
+> [Frase 1650](#lugar-1650)
+> I said to him, "Why is it, Alfonse, that decent, well-meaning and responsible people find themselves intrigued by catastrophe when they see it on television?"
+
+> [Frase 1651](#lugar-1651)
+> I told him about the recent evening of lava, mud and raging water that the children and I had found so entertaining.
+
+> [Frase 1653](#lugar-1653)
+> "It's natural, it's normal," he said, with a reassuring nod.
+
+> [Frase 1656](#lugar-1656)
+> "Because we're suffering from brain fade.
+
+> [Frase 1657](#lugar-1657)
+> We need an occasional catastrophe to break up the incessant bombardment of information."
+
+> [Frase 1661](#lugar-1661)
+> "Words, pictures, numbers, facts, graphics, statistics, specks, waves, particles, motes.
+
+> [Frase 1662](#lugar-1662)
+> Only a catastrophe gets our attention.
+
+> [Frase 1663](#lugar-1663)
+> We want them, we need them, we depend on them.
+
+> [Frase 1664](#lugar-1664)
+> As long as they happen somewhere else.
+
+> [Frase 1666](#lugar-1666)
+> Mud slides, brush fires, coastal erosion, earthquakes, mass killings, et cetera.
+
+> [Frase 1667](#lugar-1667)
+> We can relax and enjoy these disasters because in our hearts we feel that California deserves whatever it gets.
+
+> [Frase 1673](#lugar-1673)
+> They have tremendous potential with their famines, monsoons, religious strife, train wrecks, boat sinkings, et cetera.
+
+> [Frase 1678](#lugar-1678)
+> We not only enjoy seeing them punished for their relaxed life-style and progressive social ideas but we know we're not missing anything.
+
+> [Frase 1681](#lugar-1681)
+> Nothing terrible escapes their scrutiny."
+
+> [Frase 1685](#lugar-1685)
+> If a thing happens on television, we have every right to find it fascinating, whatever it is."
+
+> [Frase 1695](#lugar-1695)
+> In the psychic sense a forest fire on TV is on a lower plane than a ten-second spot for Automatic Dishwasher All.
 
 © 2026 Osmancito
 
