@@ -498,85 +498,76 @@ Heinrich duda de que sepamos lo que queremos. A la mañana siguiente, Jack va al
 
 [![Murray sirve café en la litera a Jack y a Babette, que miran un televisor sobre una pila de cómics; por la ventana, bajo la lluvia, se ve el viejo manicomio.](../img/261025_white-noise_el-cuarto-de-murray.jpg)](../img/261025_white-noise_el-cuarto-de-murray.jpg)
 
-A las 3:51 de la madrugada Jack despierta con un sudor de muerte y se pregunta si la muerte es de número impar:
+De madrugada, Jack despierta con sudor de muerte y vuelve a dormirse junto a Babette. Por la mañana baja a la cocina, y Jack cuenta:
 
-> Babette murmuró en sueños y me acerqué, respirando su calor.
+> Babette murmuró en sueños y yo me acerqué, respirando su calor.
 > [Frase 1149](#original-1149)
 
-Steffie, la hija de Jack, quema tostadas a propósito; el olor despierta a Jack, que baja a la cocina. Allí está Babette, su esposa:
-
-> Pensé que todavía estaba en la cama.
+> Pensé que seguía en la cama.
 > [Frase 1161](#original-1161)
 
-Steffie pregunta por su madre, Dana Breedlove, con quien Jack estuvo casado, y si sigue en la CIA. Jack responde:
+Steffie quema tostadas porque le gusta el olor. Pregunta por su madre, que trabaja para la CIA. Babette pregunta también, y Jack cuenta:
 
-> «No se supone que hablemos de eso.
-> [Frase 1175](#original-1175)
+> «¿Qué hace exactamente?», dijo Babette.
+> [Frase 1179](#original-1179)
 
-Una voz de computadora llama para una encuesta y Steffie la atiende. Jack le cuenta a Babette que Dana lo enredaba en intrigas. Babette le pregunta:
+> «¿La conozco?», dijo Babette.
+> [Frase 1187](#original-1187)
 
-> «¿Qué se siente tener casi cincuenta y uno?», dijo ella.
-> [Frase 1214](#original-1214)
+Esa noche cenan en el cuarto de Murray, frente al antiguo manicomio. Jack cuenta:
 
-Jack no siente diferencia con los cincuenta. Esa noche cenan en el cuarto de Murray:
-
-> Esa noche, en el cuarto blanquecino de Murray, después de una espléndida comida de gallina de Cornualles con forma de rana, preparada en una hornilla de dos fuegos, pasamos de nuestras sillas plegables de metal a la litera para tomar café.
+> Esa noche, en el cuarto blanco roto de Murray, después de una comida espectacular de gallina de Cornualles con forma de rana, preparada en un hornillo de dos fuegos, pasamos de nuestras sillas plegables de metal a la litera para el café.
 > [Frase 1217](#original-1217)
 
-Murray cuenta que de periodista deportivo nunca se sintió en casa; ahora tiene un lugar propio. Babette lo felicita:
-
-> «Has hecho maravillas», dijo Babette, mientras su mirada recorría la habitación con desesperación.
+> «Has hecho maravillas», dijo Babette, con la mirada recorriendo desesperada el cuarto.
 > [Frase 1220](#original-1220)
 
-Murray llama a su cuarto un recipiente para pensar y habla del manicomio de enfrente. Después dice:
-
-> «Lamento que no hayan traído a los niños.
+> «Siento que no hayan traído a los niños.»
 > [Frase 1231](#original-1231)
 
-Murray le dice a sus alumnos que ya son demasiado viejos para pesar en la sociedad:
+Murray quiere conocer a los niños pequeños y les cuenta lo que dice a sus alumnos. Jack cuenta:
 
-> Como estábamos sentados en la cama, Murray tuvo que inclinarse bien hacia adelante, mirando más allá de la taza de café que yo sostenía en la mano, para dirigirse a Babette.
+> Como estábamos sentados en la cama, Murray tenía que inclinarse bien hacia delante, mirando más allá de la taza de café que sostenía yo en la mano, para dirigirse a Babette.
 > [Frase 1241](#original-1241)
 
-Murray pregunta cuántos hijos tiene Babette; ella nombra a Wilder, Denise y Eugene. Jack dice que el niño crece sin televisión. Murray responde:
+Murray habla de la televisión con Jack. Murray dice:
 
-> «La tele solo es un problema si has olvidado cómo mirar y escuchar», dijo Murray.
-> [Frase 1252](#original-1252)
-
-Murray les dice a sus alumnos que deben aprender a mirar como niños, y que lleva más de dos meses viendo televisión en su cuarto:
-
-> Una gran experiencia que enseña humildad, déjame decirte.
+> Una experiencia grande y humilde, déjame decirte.
 > [Frase 1262](#original-1262)
 
-Para Murray la televisión es una fuerza primaria del hogar estadounidense. Babette le pregunta:
+Babette le pregunta a Murray cómo sabe tanto. Jack cuenta:
 
-> «¿Cómo es que sabes tanto?», dijo Babette.
+> «¿Cómo sabes tanto?», dijo Babette.
 > [Frase 1284](#original-1284)
-
-Murray dice que es de Nueva York. Ella le pregunta:
 
 > «¿Alguna vez has estado casado?», dijo ella.
 > [Frase 1288](#original-1288)
 
-Babette le pregunta si estuvo casado. Murray dice que una vez, brevemente, cuando cubría a los Jets:
-
-> No pienses que no apreciaría una visita dramática entre las dos y las tres de la madrugada», le dijo a ella, «de una mujer inteligente con tacones de aguja y falda con abertura, con accesorios de gran impacto.»
+> «No creas que no agradecería una visita dramática entre las dos y las tres de la madrugada», le dijo, «de una mujer inteligente con tacones de aguja y una falda con abertura, con accesorios de gran impacto.»
 > [Frase 1292](#original-1292)
 
-Jack y Babette vuelven a casa:
+Murray bromea con una visita de madrugada. Jack cuenta:
 
-> Caía una llovizna mientras caminábamos a casa, con mi brazo alrededor de su cintura.
+> Caía una llovizna cuando volvimos a casa a pie, con mi brazo alrededor de su cintura.
 > [Frase 1293](#original-1293)
 
-Babette admite que olvida cosas. Jack le dice que Steffie le contó, y que ella lo oyó de Denise, que Babette toma algo además de chicle. Babette pregunta qué dice Denise:
+Babette habla de su mala memoria. Babette dice:
 
-> «Quería preguntarte a ti antes de preguntarle a ella.»
+> «Olvido que a Steffie no le gusta que la llamen Stephanie.»
+> [Frase 1309](#original-1309)
+
+> A veces la llamo Denise.
+> [Frase 1310](#original-1310)
+
+Jack le dice que quizá toma algo, algo que oyó de Steffie. Jack cuenta:
+
+> «Quería preguntártelo antes de preguntárselo a ella.»
 > [Frase 1325](#original-1325)
-
-Babette dice que no toma nada que explique sus lapsos. Jack le dice que quizá Denise tiene razón. Ella responde:
 
 > «No podemos descartarlo.»
 > [Frase 1329](#original-1329)
+
+Llega el otoño: hojas, bolsas negras en la acera y niños que piden dulces en la puerta de casa.
 
 ---
 
@@ -3607,11 +3598,11 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1161](#lugar-1161)
 > I thought she was still in bed.
 
-> [Frase 1175](#lugar-1175)
-> "We're not supposed to talk about that.
+> [Frase 1179](#lugar-1179)
+> "What exactly does she do?" Babette said.
 
-> [Frase 1214](#lugar-1214)
-> "How does it feel being nearly fifty-one?" she said.
+> [Frase 1187](#lugar-1187)
+> "Have I met her?" Babette said.
 
 > [Frase 1217](#lugar-1217)
 > That night, in Murray's off-white room, after a spectacular meal of Cornish hen in the shape of a frog, prepared on a two-burner hot plate, we moved from our metal folding chairs to the bunk bed for coffee.
@@ -3624,9 +3615,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 1241](#lugar-1241)
 > Because we were seated on the bed, Murray had to lean well forward, looking past the coffee cup poised in my hand, in order to address Babette.
-
-> [Frase 1252](#lugar-1252)
-> "TV is a problem only if you've forgotten how to look and listen," Murray said.
 
 > [Frase 1262](#lugar-1262)
 > A great and humbling experience, let me tell you.
@@ -3642,6 +3630,12 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 1293](#lugar-1293)
 > It was drizzling as we walked home, my arm around her waist.
+
+> [Frase 1309](#lugar-1309)
+> "I forget that Steffïe doesn't like to be called Stephanie.
+
+> [Frase 1310](#lugar-1310)
+> Sometimes I call her Denise.
 
 > [Frase 1325](#lugar-1325)
 > "I wanted to ask you before I asked her."
