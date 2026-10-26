@@ -14,35 +14,29 @@ Se divide en tres partes: «Waves and Radiation» («Ondas y Radiación»), «Th
 
 ### Capítulo 1: Las Camionetas
 
-*El narrador, las camionetas, los padres, el departamento de estudios sobre Hitler, los estudiantes y el espectáculo de la llegada.*
+*Jack, los estudios sobre Hitler, el espectáculo de la llegada y el rector.*
 
 [![Óleo impresionista: una fila de camionetas familiares cargadas de maletas y bicicletas en un campus soleado; estudiantes descargan y padres elegantes miran, al estilo de Childe Hassam.](../img/261025_white-noise_las-camionetas.jpg)](../img/261025_white-noise_las-camionetas.jpg)
 
-Mediodía en un campus. Llegan camionetas familiares, autos con espacio de carga atrás, repletas de maletas; los estudiantes descargan. Habla un profesor:
+Las camionetas familiares llegan a mediodía al campus de una universidad, cargadas de maletas, y los estudiantes empiezan a descargarlas. El narrador, Jack, cuenta:
 
-> Yo he presenciado este espectáculo cada septiembre durante veintiún años.
+> He presenciado este espectáculo cada septiembre durante veintiún años.
 > [Frase 5](#original-5)
 
-Los estudiantes se saludan a gritos y los padres, bronceados, los miran:
+Los padres miran las camionetas con satisfacción. Jack baja al pueblo; vive con su esposa Babette en una calle tranquila:
 
-> Este conjunto de camionetas, tanto como cualquier cosa que puedan hacer en el curso del año, más que las liturgias formales o las leyes, les dice a los padres que son una colección de gente de ideas afines y de parentesco espiritual, un pueblo, una nación.
-> [Frase 15](#original-15)
+> Ahora hay una autopista más allá del patio trasero, mucho más abajo, y de noche, cuando nos acomodamos en nuestra cama de latón, el tráfico escaso pasa con un rumor, un murmullo remoto y constante alrededor de nuestro sueño, como de almas muertas que balbucean al borde de un sueño.
+> [Frase 21](#original-21)
 
-Baja al pueblo, hasta su casa junto a una autopista. Dirige el departamento de estudios sobre Hitler:
-
-Vive allí con su esposa, Babette, y con los hijos de matrimonios anteriores de ambos. La universidad se llama College-on-the-Hill. Adolf Hitler gobernó Alemania como dictador de 1933 a 1945. En Estados Unidos, el *chairman* es quien dirige un departamento universitario.
+Jack dirige el departamento de estudios sobre Hitler de la universidad:
 
 > Inventé los estudios sobre Hitler en Norteamérica en marzo de 1968.
 > [Frase 23](#original-23)
 
-Fue un día frío y claro.
+Fue un día frío y luminoso, cuando habló con el rector, la máxima autoridad de la universidad:
 
-El rector es quien dirige una universidad; en inglés, *chancellor*.
-
-> Cuando le sugerí al rector que podríamos construir un departamento entero en torno a la vida y la obra de Hitler, él fue rápido en ver las posibilidades.
+> Cuando le sugerí al rector que podríamos construir un departamento entero en torno a la vida y la obra de Hitler, él vio enseguida las posibilidades.
 > [Frase 25](#original-25)
-
-Fue un éxito inmediato. El rector asesoró a tres presidentes y murió en un telesilla. En el pueblo hay carteles de perros perdidos.
 
 ---
 
@@ -982,8 +976,8 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 5](#lugar-5)
 > I've witnessed this spectacle every September for twenty-one years.
 
-> [Frase 15](#lugar-15)
-> This assembly of station wagons, as much as anything they might do in the course of the year, more than formal liturgies or laws, tells the parents they are a collection of the like-minded and the spiritually akin, a people, a nation.
+> [Frase 21](#lugar-21)
+> There is an expressway beyond the backyard now, well below us, and at night as we settle into our brass bed the sparse traffic washes past, a remote and steady murmur around our sleep, as of dead souls babbling at the edge of a dream.
 
 > [Frase 23](#lugar-23)
 > I invented Hitler studies in North America in March of 1968.
