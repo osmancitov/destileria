@@ -343,7 +343,12 @@ Heinrich le dice a Jack que busque abajo. Jack sube álbumes de fotos de familia
 
 [![Óleo impresionista, al estilo de Eugène Boudin: en un cuarto atestado, junto a una tabla de planchar y un radiador, un hombre delgado en camisa habla con gesto tenso a otro, muy corpulento, con toga negra y gafas oscuras, que toma notas en un cuaderno; a un lado, un catre con manta militar.](../img/261025_white-noise_lecciones-de-aleman.jpg)](../img/261025_white-noise_lecciones-de-aleman.jpg)
 
-Jack, el narrador, es el mayor especialista en Hitler de Norteamérica y no sabe alemán. Por su fama quiere clases secretas y busca a un hombre que le recomendó su colega Murray. Es Howard Dunlop, de unos cincuenta años, vecino de pensión de Murray:
+Jack, el narrador, es el mayor especialista en Hitler de Norteamérica y no sabe alemán. Por su fama quiere clases secretas:
+
+> Me puse en contacto con un hombre que no tenía relación con la universidad, alguien de quien me había hablado Murray Jay Siskind.
+> [Frase 706](#original-706)
+
+Ese hombre es Howard Dunlop, de unos cincuenta años, vecino de pensión de Murray:
 
 > Dijo que había sido quiropráctico, pero no ofreció ninguna razón por la que ya no ejerciera, ni dijo cuándo había aprendido alemán, ni por qué, y algo en sus modales me impidió preguntar.
 > [Frase 712](#original-712)
@@ -1190,6 +1195,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 ---
 
 ### Capítulo 8: Lecciones de Alemán
+
+> [Frase 706](#lugar-706)
+> I contacted a man not affiliated with the college, someone Murray Jay Siskind had told me about.
 
 > [Frase 712](#lugar-712)
 > He said he was a former chiropractor but didn't offer a reason why he was no longer active and didn't say when he'd learned German, or why, and something in his manner kept me from asking.
