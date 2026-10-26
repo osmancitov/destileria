@@ -794,62 +794,60 @@ La lanzó de revés, como un frisbi.
 
 ### Capítulo 15: La Madre y la Multitud
 
-*Murray, Jack, Elvis, Gladys, Hitler, Klara y Alfonse.*
+*Hitler, Elvis, Gladys, Jack, Murray y Klara.*
 
 [![Un aula con estudiantes sentados en el suelo y un profesor de barba que camina entre ellos, mientras un hombre de toga negra los observa de pie contra la pared.](../img/261025_white-noise_la-madre-y-la-multitud.jpg)](../img/261025_white-noise_la-madre-y-la-multitud.jpg)
 
-Jack entra en la clase de Murray, con gafas oscuras y toga negra, y se queda contra la pared. Murray habla de Elvis Presley y de su madre, Gladys:
+Jack, con gafas oscuras y toga negra, entra en el aula de Murray. Murray habla de Elvis Presley y de su madre, Gladys, y dice que las madres saben. Jack contesta:
 
-> «¿Sabía su madre que Elvis moriría joven?
-> [Frase 1789](#original-1789)
+> «Hitler adoraba a su madre», dije.
+> [Frase 1800](#original-1800)
 
-Gladys vigilaba su sonambulismo, y las madres lo saben, dice Murray. Jack responde con Hitler, que adoraba a la suya, Klara, y se turnan: Elvis y Gladys dormían juntos; Klara mimaba a su hijo holgazán, el primero en sobrevivir de cuatro; Elvis presentaba a sus novias a su madre y Hitler escribió un poema a la suya.
+Un rumor de atención recorre el aula. Murray sigue andando, con más cuidado, entre los estudiantes.
 
-> «Cuando Elvis entró en el ejército, Gladys enfermó y se deprimió.
-> [Frase 1823](#original-1823)
+> «A Elvis y a Gladys les gustaba acurrucarse y acariciarse», dijo.
+> [Frase 1804](#original-1804)
 
-Un estudiante murmura «Muttersöhnchen», y Jack se pone a pasear por el aula como Murray.
+Elvis y Gladys dormían en la misma cama hasta que él se acercó a la madurez física.
 
-> «Elvis apenas soportaba perder de vista a Gladys cuando su estado empeoró.
-> [Frase 1831](#original-1831)
+> Hablaban entre sí en lenguaje de bebé a todas horas.»
+> [Frase 1806](#original-1806)
 
-Elvis velaba en el hospital.
+Jack habla de Hitler y de su madre, Klara, que lo mimaba. Murray, de Gladys, que llevaba a Elvis al colegio cada día.
 
-> «Cuando su madre cayó gravemente enferma, Hitler puso una cama en la cocina para estar más cerca de ella.
-> [Frase 1833](#original-1833)
+> Lo defendía en pequeñas riñas callejeras y arremetía contra cualquier chico que intentara intimidarlo.»
+> [Frase 1812](#original-1812)
 
-Hitler cocinaba y limpiaba.
+Hitler fantaseaba, tocaba el piano y dibujaba, y Klara lo toleraba. Elvis se confiaba a Gladys.
 
-> «Elvis se desmoronó de dolor cuando murió Gladys.
-> [Frase 1835](#original-1835)
+> Llevaba a sus novias para que la conocieran.»
+> [Frase 1820](#original-1820)
 
-> La acarició y la manoseó en el ataúd.
-> [Frase 1836](#original-1836)
+Un estudiante murmura «Mutter-söhnchen», hijo de mamá, y Jack se pone a pasear como Murray. Elvis se desmorona cuando Gladys muere y la acaricia en el ataúd.
 
 > Le habló en lenguaje de bebé hasta que estuvo bajo tierra.»
 > [Frase 1837](#original-1837)
 
-El funeral de Klara costó trescientos setenta kronen.
+Hitler llora en la tumba de Klara. Murray se va a una esquina del aula y se sienta en el suelo. Jack imagina a Hitler mirando atrás desde el búnker:
 
-> «Hitler lloró en la tumba y cayó en un período de depresión y autocompasión.
-> [Frase 1839](#original-1839)
+> ¿Pensó en los pequeños grupos de turistas que visitaban el pequeño poblado donde nació su madre y donde él había pasado los veranos con sus primos, montando en carretas de bueyes y haciendo cometas?
+> [Frase 1865](#original-1865)
 
-Hitler sintió una soledad intensa: había perdido a su madre y también su sentido de hogar.
+Los turistas honraban el lugar donde nació Klara y entraban en la granja. Con el tiempo, multitudes cantaron canciones patrióticas y pintaron esvásticas en las paredes.
 
-> «Parece bastante cierto que la muerte de Gladys causó un cambio fundamental en el centro de la visión del mundo del Rey.
-> [Frase 1842](#original-1842)
+> Llegaron multitudes a su villa de montaña, tanta gente que tuvo que quedarse dentro.
+> [Frase 1872](#original-1872)
 
-Gladys había sido su ancla. Elvis empezó a retirarse del mundo y a entrar en el estado de su propio morir.
+> Recogían guijarros donde él había caminado y se los llevaban a casa como recuerdo.
+> [Frase 1873](#original-1873)
 
-> «Durante el resto de su vida, Hitler no soportó estar cerca de adornos navideños porque su madre había muerto junto a un árbol de Navidad.»
-> [Frase 1845](#original-1845)
+> Llegaban multitudes a oírlo hablar, multitudes cargadas de erotismo, las masas que él llamó una vez su única novia.
+> [Frase 1874](#original-1874)
 
-Elvis estudió el Bardo Thödol; Hitler conservó el retrato de su madre en Obersalzberg. Entra Alfonse Stompanato. Murray sigue con Elvis:
+Jack mira la alfombra y cuenta hasta siete. Murray lo mira agradecido desde el otro lado del aula. La gente se junta alrededor y Jack comprende que ya son una multitud.
 
-> Su madre probablemente lo vio todo, como en una pantalla de diecinueve pulgadas, años antes de su propia muerte.»
-> [Frase 1860](#original-1860)
-
-Murray se sienta en un rincón y deja el aula a Jack, que sigue con Hitler y sus multitudes: acudían a formar un escudo contra la muerte. Murray, agradecido, lo escolta a la salida.
+> Murray se abrió paso hasta mi lado y me escoltó fuera de la sala, apartando a la multitud con su mano aleteante.
+> [Frase 1907](#original-1907)
 
 ---
 
@@ -1439,38 +1437,38 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 15: La Madre y la Multitud
 
-> [Frase 1789](#lugar-1789)
-> "Did his mother know that Elvis would die young?
+> [Frase 1800](#lugar-1800)
+> "Hitler adored his mother," I said.
 
-> [Frase 1823](#lugar-1823)
-> "When Elvis went into the army, Gladys became ill and depressed.
+> [Frase 1804](#lugar-1804)
+> "Elvis and Gladys liked to nuzzle and pet," he said.
 
-> [Frase 1831](#lugar-1831)
-> "Elvis could hardly bear to let Gladys out of his sight when her condition grew worse.
+> [Frase 1806](#lugar-1806)
+> They talked baby talk to each other all the time."
 
-> [Frase 1833](#lugar-1833)
-> "When his mother became severely ill, Hitler put a bed in the kitchen to be closer to her.
+> [Frase 1812](#lugar-1812)
+> She defended him in little street rumbles, lashed out at any kid who tried to bully him."
 
-> [Frase 1835](#lugar-1835)
-> "Elvis fell apart with grief when Gladys died.
-
-> [Frase 1836](#lugar-1836)
-> He fondled and petted her in the casket.
+> [Frase 1820](#lugar-1820)
+> He brought his girlfriends around to meet her."
 
 > [Frase 1837](#lugar-1837)
 > He talked baby talk to her until she was in the ground."
 
-> [Frase 1839](#lugar-1839)
-> Hitler wept at the grave and fell into a period of depression and self-pity.
+> [Frase 1865](#lugar-1865)
+> Did he think of the small groups of tourists who visited the little settlement where his mother was born and where he'd spent summers with his cousins, riding in ox carts and making kites?
 
-> [Frase 1842](#lugar-1842)
-> "It seems fairly certain that Gladys's death caused a fundamental shift at the center of the King's world view.
+> [Frase 1872](#lugar-1872)
+> Crowds came to his mountain villa, so many people he had to stay indoors.
 
-> [Frase 1845](#lugar-1845)
-> "For the rest of his life, Hitler could not bear to be anywhere near Christmas decorations because his mother had died near a Christmas tree."
+> [Frase 1873](#lugar-1873)
+> They picked up pebbles where he'd walked and took them home as souvenirs.
 
-> [Frase 1860](#lugar-1860)
-> His mother probably saw it all, as on a nineteen-inch screen, years before her own death."
+> [Frase 1874](#lugar-1874)
+> Crowds came to hear him speak, crowds erotically charged, the masses he once called his only bride.
+
+> [Frase 1907](#lugar-1907)
+> Murray made his way to my side and escorted me from the room, parting the crowd with his fluttering hand.
 
 ---
 
