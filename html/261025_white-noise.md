@@ -2008,47 +2008,32 @@ Después ella se duerme inquieta. La radio se enciende. Jack va al baño, se lav
 
 [![En una calle fría, un hombre con gafas y abrigo se agacha junto a una niña de nueve años tendida en el suelo como víctima de un simulacro, con una manga extendida; al fondo hay una ambulancia, un hombre con brazalete y voluntarios tendidos.](../img/261025_white-noise_el-simulacro.jpg)](../img/261025_white-noise_el-simulacro.jpg)
 
-Jack vuelve a casa por Elm y encuentra la calle cerrada por un simulacro. Un hombre con brazalete SIMUVAC le da la orden de retroceder. Jack dice:
-
-> «¿Están seguros, ustedes, de estar listos para un simulacro?»
-> [Frase 5595](#original-5595)
-
-El hombre lo apura. Dice:
-
-> «Muévalo, sáquelo de aquí.»
-> [Frase 5598](#original-5598)
-
-Jack pregunta qué significa eso. El hombre responde:
+Jack vuelve a casa por Elm y encuentra la calle cerrada por un simulacro. Un hombre con brazalete SIMUVAC le ordena retroceder. Jack pregunta qué significa estar en la franja de exposición. El hombre responde:
 
 > «Significa que está muerto», me dijo.
 > [Frase 5601](#original-5601)
 
-Jack deja el auto y vuelve a pie. Entre las víctimas voluntarias ve a su hija Steffie, tendida en la calle. Ella abre los ojos y dice:
+Jack deja el auto, vuelve a pie y entre las víctimas voluntarias ve tendida a su hija Steffie. Ella abre los ojos y dice:
 
 > «No se supone que estés aquí a menos que seas una víctima», dijo ella.
 > [Frase 5619](#original-5619)
 
-Jack dice que solo quiere saber si está bien. Steffie dice:
+Jack dice:
+
+> «Solo quiero asegurarme de que estás bien.»
+> [Frase 5620](#original-5620)
+
+Steffie dice:
 
 > «Me meteré en problemas si te ven.»
 > [Frase 5621](#original-5621)
 
-Jack le dice que hace frío. Pregunta:
+Steffie cierra los ojos. Jack cuenta:
 
-> «¿Baba sabe que estás aquí?»
-> [Frase 5624](#original-5624)
+> Le hablé un rato más, pero no quiso contestar.
+> [Frase 5628](#original-5628)
 
-Steffie cierra los ojos y no contesta más. Un hombre habla por altavoz desde el supermercado:
-
-> «Quiero darles la bienvenida a todos ustedes en nombre de Advanced Disaster Management, una empresa consultora privada que concibe y opera evacuaciones simuladas.»
-> [Frase 5634](#original-5634)
-
-En casa, Heinrich está sentado en los escalones con chaleco reflector. Dice ser capitán de calle. Jack pregunta:
-
-> «¿Sabías que Steffie era una víctima?»
-> [Frase 5682](#original-5682)
-
-Heinrich presenta a Orest Mercator, que quiere sentarse sesenta y siete días en una jaula con serpientes mortales. Jack pregunta:
+Heinrich es capitán de calle y presenta a Orest Mercator, que quiere sentarse sesenta y siete días en una jaula con serpientes mortales. Jack pregunta:
 
 > «¿Puedes decirme por qué?»
 > [Frase 5700](#original-5700)
@@ -2058,17 +2043,12 @@ Jack le pregunta si entiende que arriesga la muerte por un par de líneas en un 
 > «Te van a morder», continué.
 > [Frase 5713](#original-5713)
 
-Orest dice que a él no lo morderán. Jack pregunta:
-
-> «¿Cómo lo sabes?»
-> [Frase 5715](#original-5715)
-
-Orest insiste. Avergonzado por la pasión de su argumento, Jack se ve diciendo:
+Orest insiste en que a él no lo morderán. Jack cuenta:
 
 > Me oí decir: «Sí te morderán, sí te morderán.»
 > [Frase 5727](#original-5727)
 
-Jack cuenta:
+Jack se sorprende al ver cómo lo mira Orest. Jack cuenta:
 
 > Me sorprendió verlo mirarme con cierto interés, cierto respeto a regañadientes.
 > [Frase 5732](#original-5732)
@@ -2078,30 +2058,20 @@ Jack no sabe de dónde es Orest. Orest le hace preguntas. Jack cuenta:
 > Me dijo: «¿Cuántas libras puedes levantar en el press de banca?»
 > [Frase 5748](#original-5748)
 
-Jack dice que no sabe y que no muchas. Orest pregunta:
-
-> «¿Alguna vez le diste un puñetazo a alguien en la cara?»
-> [Frase 5751](#original-5751)
-
-Dentro, Babette le da de comer a Wilder. Dice que estar con él la anima. Jack dice:
+Dentro, Babette le da de comer a Wilder y dice que estar con él la anima. Jack dice:
 
 > «Sé a qué te refieres.»
 > [Frase 5768](#original-5768)
 
-Babette dice que hay algo más en Wilder que no logra nombrar. Jack responde:
+Jack agrega que le molesta que los otros niños dejen escapar los momentos especiales. Jack dice:
+
+> «Pero cuando Wilder lo hace, veo el espíritu del genio en acción.»
+> [Frase 5775](#original-5775)
+
+Babette dice que hay algo más grande en Wilder que no logra nombrar. Jack responde:
 
 > «Recuérdame preguntarle a Murray», dije.
 > [Frase 5778](#original-5778)
-
-Jack pregunta dónde está el Dylar. Babette dice:
-
-> «Olvídalo, Jack.»
-> [Frase 5782](#original-5782)
-
-Jack quiere guardar las tabletas como prueba de que el Dylar existe. Jack dice:
-
-> Si tu cerebro izquierdo decidiera morir, quiero poder demandar a alguien.
-> [Frase 5787](#original-5787)
 
 Jack pregunta dónde están las cuatro tabletas que quedan. Babette pregunta:
 
@@ -2115,8 +2085,16 @@ Jack dice que las quiere por exactitud histórica. Babette le advierte:
 
 Jack pregunta por Mr. Gray. Babette prometió no revelar su identidad. Babette dice:
 
-> No te lo voy a decir, Jack.
-> [Frase 5811](#original-5811)
+> Considerando lo que buscas, esa promesa vale el doble.
+> [Frase 5809](#original-5809)
+
+Babette dice que no lo dirá, y que es más por el bien de Jack que por el de él. Babette propone:
+
+> Retomemos nuestras vidas, sin más.
+> [Frase 5812](#original-5812)
+
+> Digámonos que haremos lo mejor que podamos.
+> [Frase 5813](#original-5813)
 
 Jack recoge a Denise en la escuela. Jack cuenta:
 
@@ -2127,6 +2105,19 @@ Jack le dice que el Dylar mejora la memoria de Babette. Denise dice que no le cr
 
 > «Porque no vendrías a buscarme a la escuela solo para decirme eso.»
 > [Frase 5829](#original-5829)
+
+> Porque ya descubrimos que no puedes conseguirlo con receta.
+> [Frase 5830](#original-5830)
+
+Jack le pregunta qué hizo con el frasco. Denise pregunta:
+
+> «¿Cómo sabes que me las llevé?»
+> [Frase 5840](#original-5840)
+
+Jack responde:
+
+> Yo lo sé, tú lo sabes.
+> [Frase 5841](#original-5841)
 
 Jack ensaya argumentos varios días. Jack cuenta:
 
@@ -3409,38 +3400,26 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 27: El Simulacro
 
-> [Frase 5595](#lugar-5595)
-> "Are you people sure you're ready for a simulation?
-
-> [Frase 5598](#lugar-5598)
-> "Move it out, get it out.
-
 > [Frase 5601](#lugar-5601)
 > "It means you're dead," he told me.
 
 > [Frase 5619](#lugar-5619)
 > "You're not supposed to be here unless you're a victim," she said.
 
+> [Frase 5620](#lugar-5620)
+> "I just want to be sure you're okay."
+
 > [Frase 5621](#lugar-5621)
 > "I'll get in trouble if they see you."
 
-> [Frase 5624](#lugar-5624)
-> Does Baba know you're here?"
-
-> [Frase 5634](#lugar-5634)
-> "I want to welcome all of you on behalf of Advanced Disaster Management, a private consulting firm that conceives and operates simulated evacuations.
-
-> [Frase 5682](#lugar-5682)
-> "Did you know Steffie was a victim?"
+> [Frase 5628](#lugar-5628)
+> I spoke to her a while longer but she wouldn't answer.
 
 > [Frase 5700](#lugar-5700)
 > Can you tell me why?"
 
 > [Frase 5713](#lugar-5713)
 > "They will bite you," I went on.
-
-> [Frase 5715](#lugar-5715)
-> "How do you know?"
 
 > [Frase 5727](#lugar-5727)
 > I found myself saying, "You will, you will.
@@ -3451,20 +3430,14 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 5748](#lugar-5748)
 > He said to me, "How many pounds can you bench-press?"
 
-> [Frase 5751](#lugar-5751)
-> "Did you ever punch somebody in the face?"
-
 > [Frase 5768](#lugar-5768)
 > "I know what you mean.
 
+> [Frase 5775](#lugar-5775)
+> But when Wilder does it, I see the spirit of genius at work."
+
 > [Frase 5778](#lugar-5778)
 > "Remind me to ask Murray," I said.
-
-> [Frase 5782](#lugar-5782)
-> "Forget it, Jack.
-
-> [Frase 5787](#lugar-5787)
-> If your left brain should decide to die, I want to be able to sue someone.
 
 > [Frase 5790](#lugar-5790)
 > "Are you telling me they're not behind the radiator cover?"
@@ -3472,14 +3445,29 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 5797](#lugar-5797)
 > "You haven't been pretested," she said.
 
-> [Frase 5811](#lugar-5811)
-> I'm not telling, Jack.
+> [Frase 5809](#lugar-5809)
+> Considering what you're after, that promise goes double.
+
+> [Frase 5812](#lugar-5812)
+> Let's just resume our lives.
+
+> [Frase 5813](#lugar-5813)
+> Let's tell each other we'll do the best we can.
 
 > [Frase 5820](#lugar-5820)
 > This was the first time I'd ever picked her up at school and she gave me a wary and hard-eyed look as she passed in front of the car— a look that indicated she was in no mood for news of a separation or divorce.
 
 > [Frase 5829](#lugar-5829)
 > "Because you wouldn't come and get me at school just to tell me that.
+
+> [Frase 5830](#lugar-5830)
+> Because we already found out you can't get it with a prescription.
+
+> [Frase 5840](#lugar-5840)
+> "How do you know I took them?"
+
+> [Frase 5841](#lugar-5841)
+> 1 know it, you know it.
 
 > [Frase 5850](#lugar-5850)
 > I even enlisted Babette, convincing her that the bottle belonged in adult hands.
