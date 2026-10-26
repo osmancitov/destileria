@@ -235,6 +235,66 @@ Murray se despide tomando la mano de Babette. Tiene una mirada entre furtiva y f
 
 ---
 
+### Capítulo 6: ¿Llueve o No?
+
+*El narrador, Heinrich, alguien con un arma, la lluvia, el sonido y la verdad.*
+
+[![Óleo impresionista, al estilo de Eugène Boudin: desde el interior de una camioneta, un hombre barbudo con gafas oscuras conduce y a su lado un muchacho con gorra de camuflaje mira por el parabrisas mojado a una mujer de impermeable amarillo que detiene el tráfico para que crucen unos niños frente a una escuela de ladrillo.](../img/261025_white-noise_llueve-o-no.jpg)](../img/261025_white-noise_llueve-o-no.jpg)
+
+A Heinrich, de catorce años, le retrocede el nacimiento del pelo. Jack se pregunta si fue culpa suya:
+
+> ¿Lo he criado, sin saberlo, en las cercanías de un vertedero químico, en el camino de corrientes de aire que arrastran desechos industriales capaces de producir degeneración del cuero cabelludo, atardeceres gloriosos?
+> [Frase 433](#original-433)
+
+Heinrich dice que lloverá esta noche; Jack responde que ya llueve. Jack lo lleva a la escuela:
+
+> Lo llevé en auto a la escuela en su primer día de regreso tras un dolor de garganta y fiebre.
+> [Frase 442](#original-442)
+
+Jack le pide que mire el parabrisas: ¿es lluvia o no? Heinrich contesta:
+
+> «Solo te digo lo que dijeron.»
+> [Frase 447](#original-447)
+
+Heinrich dice que los sentidos se equivocan y que hay sonidos que ni los perros oyen. Jack imagina a un hombre con un arma que dice:
+
+> «Todo lo que tienes que hacer es decir la verdad y guardaré mi arma y tomaré el próximo vuelo lejos de aquí.»
+> [Frase 471](#original-471)
+
+Heinrich pregunta qué verdad quiere ese hombre, y dice que «ahora» deja de serlo al decirlo. Jack pide una respuesta, y Heinrich contesta:
+
+> «Si quieres hablar de esta localidad precisa mientras estás en un vehículo que obviamente se mueve, entonces creo que ese es el problema de esta discusión.»
+> [Frase 495](#original-495)
+
+Jack dice que o llueve o no llueve; Heinrich, que sería adivinar. Pide una prueba:
+
+> «¿Cómo sé que lo que tú llamas lluvia es de verdad lluvia?
+> [Frase 512](#original-512)
+
+Heinrich pregunta además qué es la lluvia. Jack contesta:
+
+> «Es la sustancia que cae del cielo y te vuelve lo que se llama mojado.»
+> [Frase 514](#original-514)
+
+Heinrich dice que no está mojado y pregunta si Jack lo está. Jack responde con ironía:
+
+> «De primera», le dije.
+> [Frase 520](#original-520)
+
+Jack llama a eso la mejor hora de la ciencia; Heinrich le dice que sea sarcástico. Jack lo mira partir:
+
+> Lo vi caminar bajo el aguacero hasta la entrada de la escuela.
+> [Frase 530](#original-530)
+
+Heinrich camina despacio y se quita la gorra de camuflaje antes de llegar a la puerta. Jack siente:
+
+> En momentos así descubro que lo amo con una desesperación animal, una necesidad de ponerlo bajo mi abrigo y estrujarlo contra mi pecho, mantenerlo ahí, protegerlo.
+> [Frase 532](#original-532)
+
+Heinrich parece atraer un peligro. Al día siguiente, en el Arts Duplex, Jack proyecta a sus alumnos de Nazismo Avanzado un documental de multitudes nazis; alguien pregunta por el complot para matar a Hitler. Jack dice que todos los complots tienden a ir hacia la muerte, y se pregunta por qué lo dijo.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -355,6 +415,40 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 416](#lugar-416)
 > It seemed to me that Babette and I, in the mass and variety of our purchases, in the sheer plenitude those crowded bags suggested, the weight and size and number, the familiar package designs and vivid lettering, the giant sizes, the family bargain packs with Day-Glo sale stickers, in the sense of replenishment we felt, the sense of well-being, the security and contentment these products brought to some snug home in our souls—it seemed we had achieved a fullness of being that is not known to people who need less, expect less, who plan their lives around lonely walks in the evening.
+
+---
+
+### Capítulo 6: ¿Llueve o No?
+
+> [Frase 433](#lugar-433)
+> Have I raised him, unwittingly, in the vicinity of a chemical dump site, in the path of air currents that carry industrial wastes capable of producing scalp degeneration, glorious sunsets?
+
+> [Frase 442](#lugar-442)
+> I drove him to school on his first day back after a sore throat and fever.
+
+> [Frase 447](#lugar-447)
+> "I'm only telling you what they said."
+
+> [Frase 471](#lugar-471)
+> All you have to do is tell the truth and I'll put away my gun and take the next flight out of here.'"
+
+> [Frase 495](#lugar-495)
+> "If you want to talk about this precise locality while you're in a vehicle that's obviously moving, then I think that's the trouble with this discussion."
+
+> [Frase 512](#lugar-512)
+> How do I know that what you call rain is really rain?
+
+> [Frase 514](#lugar-514)
+> "It's the stuff that falls from the sky and gets you what is called wet."
+
+> [Frase 520](#lugar-520)
+> "First-rate," I told him.
+
+> [Frase 530](#lugar-530)
+> I watched him walk through the downpour to the school entrance.
+
+> [Frase 532](#lugar-532)
+> At such moments I find I love him with an animal desperation, a need to take him under my coat and crush him to my chest, keep him there, protect him.
 
 © 2026 Osmancito
 
