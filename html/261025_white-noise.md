@@ -962,6 +962,115 @@ Suena música enlatada en vivo y el rugido de las voces sube diez pisos. Vuelven
 
 ---
 
+### Capítulo 18: Tweedy y el Aterrizaje Forzoso
+
+*Tweedy, Jack, Bee, Janet y los niños.*
+
+[![Una mujer delgada con suéter Shetland fuma junto a un hombre corpulento con abrigo oscuro en una sala de llegadas en obras, polvo de yeso y cables al descubierto, mientras una multitud de pasajeros cansados rodea a un hombre con gorra de cartero que cuenta una historia.](../img/261025_white-noise_tweedy-y-el-aterrizaje-forzoso.jpg)](../img/261025_white-noise_tweedy-y-el-aterrizaje-forzoso.jpg)
+
+Jack va al aeropuerto de Iron City a buscar a Bee, su hija de doce años. Quien aparece en la sala de llegadas es la madre de Bee, Tweedy Browner:
+
+> Por un momento pensé que Bee había muerto y que Tweedy había venido a decírmelo en persona.
+> [Frase 2191](#original-2191)
+
+Tweedy dice que Bee viene con su padre. Jack responde que el padre es él; ella habla de Malcolm Hunt, su marido. Pregunta:
+
+> «¿Todavía me quieres, Tuck?», dijo ella.
+> [Frase 2204](#original-2204)
+
+> Me llamó Tuck, que es como su madre solía llamar a su padre.
+> [Frase 2205](#original-2205)
+
+Los Browner llaman Tuck a todos sus hombres y a quien se casa con ellos. Jack fue el primero. Jack pregunta por tercera vez dónde está Bee. Tweedy dice que en Indonesia, más o menos, y que Malcolm trabaja en secreto para derrocar a Castro. Y propone:
+
+> Salgamos de aquí, Tuck, antes de que vengan niños en enjambre a mendigar.
+> [Frase 2222](#original-2222)
+
+Bee sabrá arreglárselas, dice Tweedy. En el aeropuerto no hay bares ni restaurantes.
+
+> Recogimos el equipaje de Tweedy, salimos al coche y atravesamos Iron City, junto a fábricas desiertas, por avenidas casi siempre desiertas, una ciudad de colinas, con alguna calle empedrada, hermosas casas antiguas aquí y allá, coronas de Navidad en las ventanas.
+> [Frase 2231](#original-2231)
+
+Tweedy dice que no es feliz. Jack pregunta por qué. Ella contesta:
+
+> «Pensé que me querrías para siempre, francamente.
+> [Frase 2234](#original-2234)
+
+Depende de él para eso, dice, porque Malcolm está muy a menudo fuera. Jack contesta:
+
+> «Nos divorciamos, tú te quedas con todo mi dinero, te casas con un diplomático acomodado, bien relacionado y bien trajeado que hace entrar y salir agentes de zonas delicadas e inaccesibles.»
+> [Frase 2237](#original-2237)
+
+Tweedy dice que Malcolm siempre se ha sentido atraído por lugares selváticos.
+
+> Viajábamos en paralelo a las vías del ferrocarril.
+> [Frase 2239](#original-2239)
+
+Jack cuenta que Janet Savory se ha ido a un ashram de Montana, donde ahora se llama Madre Devi. Dice que tenía talento para el sigilo, y Tweedy le dice que habla con amargura:
+
+> Nunca te he conocido amargado, Tuck.
+> [Frase 2252](#original-2252)
+
+Jack cuenta que Janet lo metió, al nacer Heinrich, en un plan de inversiones complejo. Tweedy dice que ella se equivocó y que perdieron mucho; Jack, que ganaron. Dice:
+
+> «Quería constituirnos en sociedad.
+> [Frase 2266](#original-2266)
+
+Tweedy no reconoce a esa Janet y recuerda sus pómulos altos. Luego pregunta:
+
+> «¿No hay algún sitio donde podamos conseguir una comida civilizada?», dijo Tweedy.
+> [Frase 2275](#original-2275)
+
+Quiere un sitio con manteles y recuerda que tomó el té con el coronel Gadafi.
+
+> Atravesamos un barrio de almacenes, más calles desiertas, una desolación y un anonimato que se registraban en la mente como un anhelo fantasmal de algo que estaba muy lejos de poder recuperarse.
+> [Frase 2280](#original-2280)
+
+Tweedy fuma sin parar y dice:
+
+> «Dios, Tuck, qué bien estábamos juntos.»
+> [Frase 2283](#original-2283)
+
+Tweedy va a Boston a tranquilizar a su madre, que cree muerto a Malcolm. Jack dice que es un día gris y propone:
+
+> «Más vale que volvamos al aeropuerto.»
+> [Frase 2311](#original-2311)
+
+Tweedy pregunta por Hitler y le dice a Jack que no ha cambiado. Y añade:
+
+> Nos queríamos, ¿no es verdad?
+> [Frase 2319](#original-2319)
+
+> Nos contábamos todo, dentro de los límites de la preocupación de cada uno por la educación y el tacto.
+> [Frase 2320](#original-2320)
+
+Dice que Malcolm no le cuenta nada y que no sabe quién es.
+
+> Se sentó con las piernas recogidas bajo el cuerpo, de cara a mí, y echó cenizas en sus zapatos, que estaban sobre la alfombrilla de goma.
+> [Frase 2324](#original-2324)
+
+Pregunta si no fue maravilloso crecer entre caballos. Jack contesta que no le pregunte a él.
+
+> En el aeropuerto esperamos en una neblina de polvo de yeso, entre cables al descubierto, montones de escombros.
+> [Frase 2329](#original-2329)
+
+Media hora antes de que llegue Bee, pasajeros de otro vuelo cruzan un túnel. Un hombre con gorra de cartero cuenta que el avión perdió potencia en los tres motores y cayó de treinta y cuatro mil a doce mil pies, y que una voz serena habló de aterrizaje forzoso: la diferencia es solo una palabra. Luego los motores arrancaron. Jack ve a Bee, que salta a sus brazos y pregunta dónde están los medios. Jack dice que en Iron City no hay.
+
+> Encontramos a Tweedy y salimos hacia el coche.
+> [Frase 2409](#original-2409)
+
+Bee se sienta en el asiento trasero en posición de loto, descansada tras un viaje desde Surabaya.
+
+> Había un atasco en las afueras de la ciudad y tuvimos que quedarnos parados en una carretera junto a una fundición abandonada.
+> [Frase 2410](#original-2410)
+
+> Ahora estábamos sentados esperando en la oscuridad a que remolcaran un coche o se cerrara un puente levadizo.
+> [Frase 2414](#original-2414)
+
+Tweedy dice que los aviones y las terminales son los lugares más seguros para los niños, y que Bee voló sola a Boston a los nueve años.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -1535,6 +1644,73 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 2171](#lugar-2171)
 > We ate another meal.
+
+---
+
+### Capítulo 18: Tweedy y el Aterrizaje Forzoso
+
+> [Frase 2191](#lugar-2191)
+> For a moment I thought Bee was dead and Tweedy had come to tell me in person.
+
+> [Frase 2204](#lugar-2204)
+> "Do you still love me, Tuck?" she said.
+
+> [Frase 2205](#lugar-2205)
+> She called me Tuck, which is what her mother used to call her father.
+
+> [Frase 2222](#lugar-2222)
+> Let's get out of here, Tuck, before children come swarming around to beg."
+
+> [Frase 2231](#lugar-2231)
+> We got Tweedy's luggage, went out to the car and drove through Iron City, past deserted factories, on mainly deserted avenues, a city of hills, occasional cobbled streets, fine old homes here and there, holiday wreaths in the windows.
+
+> [Frase 2234](#lugar-2234)
+> "I thought you'd love me forever, frankly.
+
+> [Frase 2237](#lugar-2237)
+> "We get a divorce, you take all my money, you marry a well-to-do, well-connected, welltailored diplomat who secretly runs agents in and out of sensitive and inaccessible areas."
+
+> [Frase 2239](#lugar-2239)
+> We were traveling parallel to railroad tracks.
+
+> [Frase 2252](#lugar-2252)
+> I've never known you to be bitter, Tuck."
+
+> [Frase 2266](#lugar-2266)
+> She wanted to incorporate us.
+
+> [Frase 2275](#lugar-2275)
+> "Isn't there somewhere we can get a civilized meal?" Tweedy said.
+
+> [Frase 2280](#lugar-2280)
+> We drove through a warehouse district, more deserted streets, a bleakness and anonymity that registered in the mind as a ghostly longing for something that was far beyond retrieval.
+
+> [Frase 2283](#lugar-2283)
+> "God, Tuck, we were good together."
+
+> [Frase 2311](#lugar-2311)
+> "We may as well go back to the airport."
+
+> [Frase 2319](#lugar-2319)
+> We loved each other, didn't we?
+
+> [Frase 2320](#lugar-2320)
+> We told each other everything, within the limits of one's preoccupation with breeding and tact.
+
+> [Frase 2324](#lugar-2324)
+> She sat with her legs tucked under her, facing me, and flicked ashes into her shoes, which sat on the rubber mat.
+
+> [Frase 2329](#lugar-2329)
+> At the airport we waited in a mist of plaster dust, among exposed wires, mounds of rubble.
+
+> [Frase 2409](#lugar-2409)
+> We found Tweedy and headed out to the car.
+
+> [Frase 2410](#lugar-2410)
+> There was a traffic jam on the outskirts of the city and we had to sit on a road outside an abandoned foundry.
+
+> [Frase 2414](#lugar-2414)
+> Now we sat waiting in the dark for a car to get towed or a drawbridge to close.
 
 © 2026 Osmancito
 
