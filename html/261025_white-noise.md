@@ -512,7 +512,15 @@ Heinrich dice que eran desconocidos. Jack insiste:
 > «¿Había estado oyendo voces?»
 > [Frase 1082](#original-1082)
 
-Heinrich dice que por televisión. Jack pregunta si le hablaban solo a él:
+Heinrich dice que por televisión. Jack pregunta:
+
+> «¿Hablándole solo a él?
+> [Frase 1084](#original-1084)
+
+> ¿Señalándolo?»
+> [Frase 1085](#original-1085)
+
+Heinrich responde:
 
 > «Diciéndole que pasara a la historia.
 > [Frase 1086](#original-1086)
@@ -1289,6 +1297,12 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 1082](#lugar-1082)
 > "Had he been hearing voices?"
+
+> [Frase 1084](#lugar-1084)
+> "Talking just to him?
+
+> [Frase 1085](#lugar-1085)
+> Singling him out?"
 
 > [Frase 1086](#lugar-1086)
 > "Telling him to go down in history.
