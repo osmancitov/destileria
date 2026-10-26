@@ -654,21 +654,21 @@ Al día siguiente, al mediodía, dragan el río.
 
 ### Capítulo 13: La Vidente de la Policía
 
-*Adele T., los Treadwell, la policía, Heinrich y Babette.*
+*La sobrina nieta, Heinrich, los Treadwell y Babette.*
 
 [![Dentro de una casa rodante, la vidente Adele T. en trance ante unas fotografías, mientras el jefe de policía espera en la puerta con la gorra en las manos.](../img/261025_white-noise_la-vidente-de-la-policia.jpg)](../img/261025_white-noise_la-vidente-de-la-policia.jpg)
 
-Blacksmith es un pueblo de tintorerías y ópticas que los estudiantes evitan. Babette llama a Jack a su oficina:
+En Blacksmith, el pueblo, Babette llama a Jack a su oficina para hablar de los Treadwell, un anciano y su hermana desaparecidos, y de Heinrich, el hijo de Jack:
 
 > Dijo que Heinrich había estado en el río, con su gorra de camuflaje y una Instamatic, para ver cómo dragaban en busca de los cuerpos, y que mientras estaba allí llegó la noticia de que habían encontrado a los Treadwell vivos pero estremecidos en un quiosco de galletas abandonado del Mid-Village Mall, un enorme centro comercial junto a la autopista.
 > [Frase 1488](#original-1488)
 
-Los Treadwell vagaron por el centro comercial dos días y se escondieron otros dos en el quiosco. Antes, una vidente, Adele T., dijo a la policía que buscara en tierra seca, no en el río. La policía halló un bolso con una pistola y heroína:
+Los Treadwell vagaron dos días por el centro comercial y pasaron otros dos en el quiosco. Antes, la policía había consultado a una vidente, Adele T., que la guió hacia tierra seca. Nadie sabe cómo llegaron allí:
 
-> La policía había consultado a Adele T. en varias ocasiones y ella la había llevado hasta dos cuerpos apaleados, un sirio en un refrigerador y un alijo de billetes marcados por seiscientos mil dólares, aunque en cada ocasión, concluía la nota, la policía había estado buscando otra cosa.
-> [Frase 1507](#original-1507)
+> Posiblemente su sobrina nieta los había dejado allí en su coche y después se había olvidado de ir a buscarlos.
+> [Frase 1496](#original-1496)
 
-Jack concluye que el misterio americano se profundiza.
+Babette dice que no pudieron localizar a la sobrina nieta. El misterio americano se profundiza.
 
 ---
 
@@ -1360,8 +1360,8 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1488](#lugar-1488)
 > She said Heinrich had been down at the river, wearing his camouflage cap and carrying an Instamatic, to watch them drag for the bodies, and while he was there word came that the Treadwells had been found alive but shaken in an abandoned cookie shack at the Mid-Village Mall, a vast shopping center out on the interstate.
 
-> [Frase 1507](#lugar-1507)
-> The police had consulted Adele T. on a number of occasions and she had led them to two bludgeoned bodies, a Syrian in a refrigerator and a cache of marked bills totaling six hundred thousand dollars, although in each instance, the report concluded, the police had been looking for something else.
+> [Frase 1496](#lugar-1496)
+> Possibly their grandniece had dropped them off in her car and then forgotten to pick them up.
 
 ---
 
