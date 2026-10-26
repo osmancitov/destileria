@@ -777,6 +777,68 @@ Murray dice que los anuncios tienen ondas más profundas, y que es un simple cas
 
 ---
 
+### Capítulo 15: La Madre y la Multitud
+
+*Murray, Jack, Elvis, Gladys, Hitler, Klara y Alfonse.*
+
+[![Un aula con estudiantes sentados en el suelo y un profesor de barba que camina entre ellos, mientras un hombre de toga negra los observa de pie contra la pared.](../img/261025_white-noise_la-madre-y-la-multitud.jpg)](../img/261025_white-noise_la-madre-y-la-multitud.jpg)
+
+Jack entra en la clase de Murray, con gafas oscuras y la toga negra, y se queda de pie contra la pared. Murray habla de Elvis Presley y de su madre, Gladys. Jack interviene con Hitler, que adoraba a la suya, Klara, y los dos se turnan, uno con Elvis y otro con Hitler:
+
+> Tres más habían muerto.»
+> [Frase 1818](#original-1818)
+
+Gladys y Klara, la una protectora, la otra tolerante. Elvis presentaba a sus novias a su madre y Hitler escribió un poema a la suya.
+
+> «Cuando Elvis entró en el ejército, Gladys enfermó y se deprimió.
+> [Frase 1823](#original-1823)
+
+Un estudiante murmura «Muttersöhnchen», y Jack se pone a pasear por el aula como Murray.
+
+> «Elvis apenas soportaba perder de vista a Gladys cuando su estado empeoró.
+> [Frase 1831](#original-1831)
+
+Elvis velaba en el hospital.
+
+> «Cuando su madre cayó gravemente enferma, Hitler puso una cama en la cocina para estar más cerca de ella.
+> [Frase 1833](#original-1833)
+
+Hitler cocinaba y limpiaba.
+
+> «Elvis se desmoronó de dolor cuando murió Gladys.
+> [Frase 1835](#original-1835)
+
+> La acarició y la manoseó en el ataúd.
+> [Frase 1836](#original-1836)
+
+> Le habló en lenguaje de bebé hasta que estuvo bajo tierra.»
+> [Frase 1837](#original-1837)
+
+> «El funeral de Klara costó trescientos setenta kronen.
+> [Frase 1838](#original-1838)
+
+> Hitler lloró en la tumba y cayó en un período de depresión y autocompasión.
+> [Frase 1839](#original-1839)
+
+Hitler sintió una soledad intensa, no solo por su madre, sino por su hogar.
+
+> «Parece bastante cierto que la muerte de Gladys causó un cambio fundamental en el centro de la visión del mundo del Rey.
+> [Frase 1842](#original-1842)
+
+Gladys había sido su ancla. Elvis empezó a retirarse del mundo y a entrar en el estado de su propio morir.
+
+> «Durante el resto de su vida, Hitler no soportó estar cerca de adornos navideños porque su madre había muerto junto a un árbol de Navidad.»
+> [Frase 1845](#original-1845)
+
+Elvis hizo y recibió amenazas de muerte y estudió el Bardo Thödol. Hitler conservó un retrato de su madre en Obersalzberg. Entra Alfonse Stompanato, y Jack y Murray se cruzan sin mirarse. Murray sigue con Elvis:
+
+> Su madre probablemente lo vio todo, como en una pantalla de diecinueve pulgadas, años antes de su propia muerte.»
+> [Frase 1860](#original-1860)
+
+Murray se sienta en un rincón y deja el aula a Jack, que sigue con Hitler y sus multitudes: acudían a formar un escudo contra la muerte, pues ser multitud es dejarla fuera. Murray, agradecido, lo escolta a la salida.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -1227,6 +1289,46 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 1695](#lugar-1695)
 > In the psychic sense a forest fire on TV is on a lower plane than a ten-second spot for Automatic Dishwasher All.
+
+---
+
+### Capítulo 15: La Madre y la Multitud
+
+> [Frase 1818](#lugar-1818)
+> Three others had died."
+
+> [Frase 1823](#lugar-1823)
+> "When Elvis went into the army, Gladys became ill and depressed.
+
+> [Frase 1831](#lugar-1831)
+> "Elvis could hardly bear to let Gladys out of his sight when her condition grew worse.
+
+> [Frase 1833](#lugar-1833)
+> "When his mother became severely ill, Hitler put a bed in the kitchen to be closer to her.
+
+> [Frase 1835](#lugar-1835)
+> "Elvis fell apart with grief when Gladys died.
+
+> [Frase 1836](#lugar-1836)
+> He fondled and petted her in the casket.
+
+> [Frase 1837](#lugar-1837)
+> He talked baby talk to her until she was in the ground."
+
+> [Frase 1838](#lugar-1838)
+> "Klara's funeral cost three hundred and seventy kronen.
+
+> [Frase 1839](#lugar-1839)
+> Hitler wept at the grave and fell into a period of depression and self-pity.
+
+> [Frase 1842](#lugar-1842)
+> "It seems fairly certain that Gladys's death caused a fundamental shift at the center of the King's world view.
+
+> [Frase 1845](#lugar-1845)
+> "For the rest of his life, Hitler could not bear to be anywhere near Christmas decorations because his mother had died near a Christmas tree."
+
+> [Frase 1860](#lugar-1860)
+> His mother probably saw it all, as on a nineteen-inch screen, years before her own death."
 
 © 2026 Osmancito
 
