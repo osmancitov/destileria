@@ -483,7 +483,7 @@ Heinrich cuenta que el preso mató a cinco personas desde un tejado. Jack cuenta
 > «Sabes lo que diría tu madre de esta relación de ajedrez por correo.»
 > [Frase 1106](#original-1106)
 
-Jack le pregunta por las cartas que le manda el preso. Heinrich dice:
+Jack le pregunta por su madre. Heinrich dice:
 
 > «Quiere que vaya al ashram este verano.»
 > [Frase 1111](#original-1111)
