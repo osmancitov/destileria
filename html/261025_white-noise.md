@@ -1934,13 +1934,15 @@ Babette pregunta qué puede ser más profundo que la muerte. Jack cuenta:
 > Traté de convencerla de que no era tan grave como ella pensaba.
 > [Frase 5322](#original-5322)
 
-Jack dice que es él quien siempre ha estado obsesionado con la muerte. Ambos confiesan cuánto temen morir. Jack le dice que ella es su fuerza. Jack dice:
+Jack dice que es él quien siempre ha estado obsesionado con la muerte y que se lo ocultó para protegerla. Jack dice:
+
+> «Eso es lo que no puedo perdonarte.»
+> [Frase 5355](#original-5355)
+
+Ambos confiesan cuánto temen morir. Jack le dice que ella es su fuerza. Jack dice:
 
 > «¿Cómo puedo convencerte de que esto es un error terrible?»
 > [Frase 5415](#original-5415)
-
-> Te he visto bañar a Wilder y planchar mi toga.
-> [Frase 5416](#original-5416)
 
 Babette dice que a veces el miedo le llega como un golpe. Jack dice con gravedad que todas las tramas van en una sola dirección. Jack cuenta:
 
@@ -1950,10 +1952,7 @@ Babette dice que a veces el miedo le llega como un golpe. Jack dice con gravedad
 > Nos abrazamos con fuerza durante largo rato, con los cuerpos apretados en un abrazo que incluía elementos de amor, dolor, ternura, sexo y lucha.
 > [Frase 5424](#original-5424)
 
-Hacen el amor. Ella pide agua y van los dos al baño en bata. Jack cuenta:
-
-> Esperé junto a la cama mientras ella arreglaba las sábanas con pulcritud y colocaba las almohadas en su sitio.
-> [Frase 5441](#original-5441)
+Hacen el amor. Ella pide agua y van los dos al baño en bata y vuelven a la cama. Jack cuenta:
 
 > Ella se acurrucó enseguida para dormir, pero aún había cosas que yo quería saber, cosas que tenía que decir.
 > [Frase 5442](#original-5442)
@@ -3231,20 +3230,17 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 5322](#lugar-5322)
 > I tried to persuade her it was not as serious as she thought.
 
+> [Frase 5355](#lugar-5355)
+> That's what I can't forgive you for.
+
 > [Frase 5415](#lugar-5415)
 > How can I persuade you that this is a terrible mistake?
-
-> [Frase 5416](#lugar-5416)
-> I've watched you bathe Wilder, iron my gown.
 
 > [Frase 5421](#lugar-5421)
 > "Is this why I married Babette?
 
 > [Frase 5424](#lugar-5424)
 > We held each other tightly for a long time, our bodies clenched in an embrace that included elements of love, grief, tenderness, sex and struggle.
-
-> [Frase 5441](#lugar-5441)
-> I waited by the side of the bed as she rearranged the sheets neatly, put the pillows in place.
 
 > [Frase 5442](#lugar-5442)
 > She curled up immediately for sleep but there were still things I wanted to know, things I had to say.
