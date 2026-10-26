@@ -1608,64 +1608,66 @@ Pasan los días en el estudio de karate. Jack cuenta:
 
 [![Un paso elevado al atardecer bajo un cielo enorme, ardiente y violeta; una mujer con calentadores de piernas y un hombre con abrigo lo miran junto a un auto; al fondo, el supermercado iluminado.](../img/261025_white-noise_el-supermercado-y-el-atardecer.jpg)](../img/261025_white-noise_el-supermercado-y-el-atardecer.jpg)
 
-El supermercado está lleno de ancianos que parecen perdidos. Jack empuja el carro con Wilder sentado dentro. Se anuncia una gran nevada y los viejos compran con pánico, como acaparadores en una guerra. Jack cuenta:
+El supermercado se llena de ancianos asustados por el anuncio de una gran nevada. Jack empuja el carro, con Wilder sentado dentro. Jack cuenta:
 
-> Vi a Murray en la zona de alimentos genéricos, con una sartén de teflón.
+> Vi a Murray en la sección de alimentos genéricos, con una sartén de teflón.
 > [Frase 4385](#original-4385)
 
-Murray anota en una libreta lo que le dice la gente. Le cuenta a Jack que su rival Cotsakis se perdió en el oleaje frente a Malibú. Hablan de lo enorme que era y de que ninguno lo conocía. Murray dice:
+> Me detuve a mirarlo un rato.
+> [Frase 4386](#original-4386)
 
-> «Es extraño, en cierto modo, ¿no?», dijo, «que podamos imaginar a los muertos.»
-> [Frase 4455](#original-4455)
+Murray habla con cuatro o cinco personas y toma notas. Wilder lo llama a gritos y Jack se acerca con el carro. Murray pregunta por Babette y si el niño ya habla. Murray dice:
 
-Jack lleva a Wilder por los puestos de fruta hacia la caja. Le gusta estar con él y envidia lo rápido que olvida. Piensa que el supermercado no cambia, salvo para mejor. Jack cuenta:
+> «¿Sabes ese asunto en el que me ayudaste?»
+> [Frase 4395](#original-4395)
 
-> Temprano esa noche llevé a Babette en el auto a su clase de postura.
+Murray cuenta que su rival, Cotsakis, se perdió en el oleaje frente a Malibú. Jack y él comentan lo enorme que era, unas trescientas libras. Murray dice:
+
+> «Un hombre grande como ese.», «¿Qué podemos decir?»
+> [Frase 4442](#original-4442)
+
+Jack y Murray hablan de no conocer a los muertos y de poder imaginarlos. Jack sigue con Wilder; el supermercado no cambia, salvo para mejor. Jack cuenta:
+
+> Al comienzo de esa noche llevé a Babette a su clase de postura.
 > [Frase 4473](#original-4473)
 
-> Nos detuvimos en el paso elevado de la autopista y bajamos a mirar el atardecer.
+> Nos detuvimos en el paso elevado de la autopista y bajamos a mirar la puesta de sol.
 > [Frase 4474](#original-4474)
 
-Desde el evento tóxico aéreo, los atardeceres son casi insoportablemente hermosos. Nadie ha podido probar que haya relación. Babette dice:
+Desde el suceso tóxico aéreo, los atardeceres son casi insoportablemente bellos. Nadie ha podido probar que la causa sea el Nyodene Derivative. Babette dice:
 
-> «¿En qué otra cosa podemos creer?», dijo Babette.
+> «¿Qué otra cosa podemos creer?», dijo Babette.
 > [Frase 4478](#original-4478)
 
-> «¿De qué otra manera podemos explicarlo?»
+> «¿De qué otro modo podemos explicarlo?»
 > [Frase 4479](#original-4479)
 
-Jack responde que no sabe. Babette sigue:
+Babette dice que los atardeceres antes duraban cinco minutos y ahora duran una hora. En el paso elevado se reúnen coches y gente a mirar. Jack cuenta:
 
-> «No estamos al borde del océano ni del desierto.
-> [Frase 4481](#original-4481)
-
-> Deberíamos tener atardeceres invernales tímidos.
-> [Frase 4482](#original-4482)
-
-Los atardeceres duraban cinco minutos y ahora duran una hora. En el paso elevado se juntan otros a mirar, y la policía no se atreve a hacer cumplir la prohibición de estacionar. Jack cuenta:
-
-> Más tarde volví en el auto a la iglesia congregacional a recogerla.
+> Más tarde volví en coche a la iglesia congregacional a recogerla.
 > [Frase 4495](#original-4495)
 
-Denise y Wilder lo acompañan. Babette sale de su clase y cuenta que quieren que dé otro curso, «Comer y beber: parámetros básicos». Dice que la gente necesita que alguien con autoridad le asegure cuál es la manera correcta de hacer las cosas. En la cama, Jack cuenta:
+Denise y Wilder van con Jack. Babette cuenta que quiere darle otro curso, sobre comer y beber, y que la gente necesita que alguien con autoridad le diga qué está bien y qué está mal. Jack cuenta:
 
-> En la cama yacíamos callados, mi cabeza entre sus pechos, amortiguada como contra algún golpe implacable.
+> En la cama yacíamos en silencio, mi cabeza entre sus pechos, amortiguada como si fuera contra algún golpe implacable.
 > [Frase 4528](#original-4528)
 
-> Yo estaba decidido a no contarle el veredicto de la computadora.
+> Estaba decidido a no hablarle del veredicto de la computadora.
 > [Frase 4529](#original-4529)
 
-> Sabía que se destrozaría al enterarse de que mi muerte casi seguro precedería a la suya.
+> Sabía que quedaría devastada al enterarse de que mi muerte casi con seguridad precedería a la suya.
 > [Frase 4530](#original-4530)
 
-> Cuanto más leve el roce, más decidido estaba yo a impedir que lo supiera.
+> Cuanto más ligero el toque, más decidido estaba yo a impedir que ella lo supiera.
 > [Frase 4534](#original-4534)
 
-> Una vez casi le pedí que se pusiera los calentadores de piernas antes de hacer el amor.
+> Una vez casi le pedí que se pusiera calentadores de piernas antes de hacer el amor.
 > [Frase 4536](#original-4536)
 
-> Pero me pareció una petición más hondamente arraigada en el patetismo que en una sexualidad aberrante, y pensé que podría hacerla sospechar que algo andaba mal.
+> Pero parecía una petición con raíces más hondas en el patetismo que en una sexualidad aberrante, y pensé que podría hacerla sospechar que algo andaba mal.
 > [Frase 4537](#original-4537)
+
+Al final, Jack no se lo pide.
 
 ---
 
@@ -4373,8 +4375,14 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 4385](#lugar-4385)
 > I saw Murray in the generic food area, carrying a Teflon skillet.
 
-> [Frase 4455](#lugar-4455)
-> "It's strange in a way, isn't it," he said, "that we can picture the dead."
+> [Frase 4386](#lugar-4386)
+> I stopped to watch him for a while.
+
+> [Frase 4395](#lugar-4395)
+> "You know that matter you helped me with?
+
+> [Frase 4442](#lugar-4442)
+> A big man like that.", "What can we say?"
 
 > [Frase 4473](#lugar-4473)
 > Early that evening I drove Babette to her class in posture.
@@ -4387,12 +4395,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 4479](#lugar-4479)
 > "How else can we explain?"
-
-> [Frase 4481](#lugar-4481)
-> "We're not at the edge of the ocean or desert.
-
-> [Frase 4482](#lugar-4482)
-> We ought to have timid winter sunsets.
 
 > [Frase 4495](#lugar-4495)
 > Later I drove back to the Congregational church to pick her up.
