@@ -6,9 +6,7 @@
 
 *White Noise* es una novela del escritor estadounidense Don DeLillo, publicada en 1985 por la editorial Viking. Ese año ganó el National Book Award, un premio literario de Estados Unidos.
 
-Se divide en tres partes: «Waves and Radiation» («Ondas y Radiación»), «The Airborne Toxic Event» («El Evento Tóxico en el Aire») y «Dylarama». Suman cuarenta capítulos numerados, y ninguno trae título; aquí cada uno recibe el suyo. La cuenta Jack Gladney, profesor universitario; el primer capítulo todavía no dice su nombre.
-
-Esta lectura recorre la novela capítulo a capítulo. De cada capítulo toma las frases que más pesan, las pasa al castellano y las une con textos propios: puentes, que cuentan lo que pasa entre una frase y otra, y glosas, que explican lo que un lector nuevo necesita. Las frases en inglés están al final, en «Los Originales».
+Se divide en tres partes: «Waves and Radiation» («Ondas y Radiación»), «The Airborne Toxic Event» («El Evento Tóxico en el Aire») y «Dylarama». Suman cuarenta capítulos numerados, y ninguno trae título; aquí cada uno recibe el suyo. La cuenta Jack Gladney, profesor universitario.
 
 Empieza la Parte I, «Waves and Radiation», con su capítulo 1.
 
