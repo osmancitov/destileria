@@ -838,6 +838,55 @@ Murray se sienta en un rincón y deja el aula a Jack, que sigue con Hitler y sus
 
 ---
 
+### Capítulo 16: El Llanto de Wilder
+
+*Wilder, Babette, Jack y Denise.*
+
+[![Un niño pequeño con gorro y mitones, de pie sobre el asiento de un coche de noche, llorando con la boca abierta, mientras un hombre con abrigo lo sostiene bajo los brazos.](../img/261025_white-noise_el-llanto-de-wilder.jpg)](../img/261025_white-noise_el-llanto-de-wilder.jpg)
+
+A las seis Wilder lleva cuatro horas llorando, sentado en el suelo de la cocina, mirando por la ventanilla del horno. Babette debe dar en una hora y media su clase de sentarse, estar de pie y caminar a unos ancianos en el sótano de una iglesia. Jack propone llevarlo al médico y dejarla después en la iglesia. Hasta entonces solo había exasperación; ahora, de camino:
+
+> Pero una vez decidido que iríamos al médico, empezamos a apresurarnos, a inquietarnos.
+> [Frase 1928](#original-1928)
+
+> Buscamos la chaqueta y los zapatos de Wilder, tratamos de recordar qué había comido en las últimas veinticuatro horas, anticipamos las preguntas del médico y ensayamos con cuidado las respuestas.
+> [Frase 1929](#original-1929)
+
+> Parecía vital ponernos de acuerdo en las respuestas aunque no estuviéramos seguros de que fueran correctas.
+> [Frase 1930](#original-1930)
+
+Los médicos pierden interés en quienes se contradicen.
+
+> Este miedo ha marcado desde siempre mi relación con los médicos: que pierdan interés en mí, que ordenen a sus recepcionistas llamar otros nombres antes que el mío, que den mi muerte por descontada.
+> [Frase 1932](#original-1932)
+
+Jack espera en el coche mientras Babette entra con Wilder en el edificio médico. Al salir, el niño sigue llorando. El médico le ha dicho que le dé una aspirina y lo acueste, lo mismo que dijo Denise. Babette dice:
+
+> «No sé qué le dije», dijo, «nunca controlo lo que digo a los médicos, y mucho menos lo que ellos me dicen.
+> [Frase 1952](#original-1952)
+
+Hablan de los médicos, como en una conversación durante un paseo espacial: todo flota. Uno de los dos dice:
+
+> «Yo miento a los médicos todo el tiempo.»
+> [Frase 1957](#original-1957)
+
+El otro también. Ya en el coche el llanto se vuelve lamento. Jack propone urgencias; Babette dice que llorar no es una urgencia. La deja en la iglesia, en la sexta hora de llanto. Jack piensa en el hospital:
+
+> Pero si un médico que había examinado al niño a fondo en su acogedor consultorio, con cuadros de marcos dorados y labrados en las paredes, no había encontrado nada malo, ¿qué podrían hacer los técnicos de urgencias, gente entrenada para saltar sobre pechos y golpear corazones inmóviles?
+> [Frase 1988](#original-1988)
+
+Sienta a Wilder contra el volante, de cara a él. El lamento continúa, ola tras ola, tan grande y puro que casi puede escucharlo. No gimotea ni lloriquea.
+
+> Gritaba, decía cosas sin nombre de un modo que me tocaba por su hondura y su riqueza.
+> [Frase 1993](#original-1993)
+
+> Era un antiguo treno, tanto más impresionante por su monotonía resuelta.
+> [Frase 1994](#original-1994)
+
+Jack deja de querer que pare y se deja caer en el llanto como en la lluvia, y casi se duerme. De regreso con Babette, el llanto se detiene de golpe. En casa todos se mueven en silencio y Denise corre descalza a por leche. Wilder parece volver de un lugar remoto y sagrado.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -1325,6 +1374,37 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 1860](#lugar-1860)
 > His mother probably saw it all, as on a nineteen-inch screen, years before her own death."
+
+---
+
+### Capítulo 16: El Llanto de Wilder
+
+> [Frase 1928](#lugar-1928)
+> But once we decided to visit the doctor, we began to hurry, to fret.
+
+> [Frase 1929](#lugar-1929)
+> We looked for Wilder's jacket and shoes, tried to remember what he'd eaten in the last twenty-four hours, anticipated questions the doctor would ask and rehearsed our answers carefully.
+
+> [Frase 1930](#lugar-1930)
+> It seemed vital to agree on the answers even if we weren't sure they were correct.
+
+> [Frase 1932](#lugar-1932)
+> This fear has long informed my relationship with doctors, that they would lose interest in me, instruct their receptionists to call other names before mine, take my dying for granted.
+
+> [Frase 1952](#lugar-1952)
+> "I don't know what I told him," she said, "I'm never in control of what I say to doctors, much less what they say to me.
+
+> [Frase 1957](#lugar-1957)
+> "I lie to doctors all the time."
+
+> [Frase 1988](#lugar-1988)
+> But if a doctor who examined the boy thoroughly in his cozy office with paintings on the wall in elaborate gilded frames could find nothing wrong, then what could emergency technicians do, people trained to leap on chests and pound at static hearts?
+
+> [Frase 1993](#lugar-1993)
+> He was crying out, saying nameless things in a way that touched me with its depth and richness.
+
+> [Frase 1994](#lugar-1994)
+> This was an ancient dirge all the more impressive for its resolute monotony.
 
 © 2026 Osmancito
 
