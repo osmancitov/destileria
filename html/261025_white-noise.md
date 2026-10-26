@@ -621,7 +621,7 @@ Babette dice que no toma nada que explique sus lapsos. Jack le dice que quizá D
 
 ### Capítulo 12: Dunlop y el Clima
 
-*Dunlop, Bob Pardee, Babette, Jack, Denise y Treadwell.*
+*Jack, Dunlop, Bob Pardee, Babette, algo más, la compasión y los ojos.*
 
 [![Dunlop y Jack sentados frente a frente en un cuarto atestado, con un mapa del tiempo en la pared y un cielo gris en la ventana, haciendo muecas de pronunciación.](../img/261025_white-noise_dunlop-y-el-clima.jpg)](../img/261025_white-noise_dunlop-y-el-clima.jpg)
 
@@ -630,16 +630,10 @@ Jack toma clases de alemán dos veces por semana. Howard Dunlop exige que se sie
 > Quería que estudiara las posiciones de su lengua mientras demostraba la pronunciación de consonantes, diptongos, vocales largas y breves.
 > [Frase 1346](#original-1346)
 
-> A su vez, él miraba atentamente dentro de mi boca mientras yo trataba de reproducir los sonidos desdichados.
-> [Frase 1347](#original-1347)
-
 Dunlop tiene una cara apacible y sin rasgos hasta que empieza sus ejercicios: entonces la deforma y hace muecas. Jack lo imita, con la boca torcida y los ojos cerrados:
 
 > Cuando abrí los ojos, él estaba a pocos centímetros de mi boca, inclinado para mirar.
 > [Frase 1353](#original-1353)
-
-> Solía preguntarme qué veía allí dentro.
-> [Frase 1354](#original-1354)
 
 Hay silencios tensos antes y después de cada lección:
 
@@ -651,7 +645,17 @@ Dunlop mira a lo lejos, desprendido. Jack es su único alumno de alemán; tambi�
 > «¿Enseña algo más?», dije.
 > [Frase 1376](#original-1376)
 
-Dunlop también enseña meteorología: tras la muerte de su madre vio por televisión a un joven pronosticando el tiempo y encontró paz; hoy da clases en sótanos de iglesias. En casa, Bob Pardee, el padre de Denise, practica golf y recauda fondos para la defensa legal de la industria nuclear; lleva a los hijos mayores a cenar. Jack acompaña a Babette a leerle al ciego Treadwell; ella sale y no hay nadie, ni él ni su hermana. La policía no sabe nada. En el Dinky Donut:
+Dunlop también enseña meteorología: tras la muerte de su madre vio por televisión a un joven pronosticando el tiempo y encontró paz; hoy da clases en sótanos de iglesias. En casa, Bob Pardee, el padre de Denise, practica su swing de golf en la cocina:
+
+> Dijo que iba de paso por la ciudad hacia Glassboro para hacer una presentación y pensó en llevarnos a todos a cenar.
+> [Frase 1413](#original-1413)
+
+Denise le pregunta para qué son los fondos. Bob habla de una fundación para la defensa legal de la industria nuclear y dice que tiene hambre:
+
+> Vamos a acercarnos sigilosos a unas costillas, ¿por qué no?
+> [Frase 1438](#original-1438)
+
+Bob lleva a los hijos mayores al Wagon Wheel. Jack acompaña a Babette a leerle al ciego Treadwell; ella sale y no hay nadie, ni él ni su hermana. La policía no sabe nada. En el Dinky Donut:
 
 > Me di cuenta de que Babette lo miraba con atención, tratando de captar el sentido de los cuatro años desbocados que habían pasado como marido y mujer.
 > [Frase 1472](#original-1472)
@@ -1354,20 +1358,20 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1346](#lugar-1346)
 > He wanted me to study his tongue positions as he demonstrated the pronunciation of consonants, diphthongs, long and short vowels.
 
-> [Frase 1347](#lugar-1347)
-> He in turn would look closely into my mouth as I attempted to reproduce the unhappy sounds.
-
 > [Frase 1353](#lugar-1353)
 > When I opened my eyes he was only inches from my mouth, leaning in to peer.
-
-> [Frase 1354](#lugar-1354)
-> I used to wonder what he saw in there.
 
 > [Frase 1356](#lugar-1356)
 > I tried to make small talk, get him to discuss his years as a chiropractor, his life before German.
 
 > [Frase 1376](#lugar-1376)
 > "Do you teach anything else?" I said.
+
+> [Frase 1413](#lugar-1413)
+> He said he was driving through town on his way to Glassboro to make a presentation and thought he'd take us all to dinner.
+
+> [Frase 1438](#lugar-1438)
+> Let's sneak up on some ribs, why don't we?
 
 > [Frase 1472](#lugar-1472)
 > I realized Babette was looking at him carefully, trying to grasp the meaning of the four careening years they'd spent as man and wife.
