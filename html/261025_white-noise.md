@@ -887,6 +887,85 @@ Jack deja de querer que pare y se deja caer en el llanto como en la lluvia, y ca
 
 ---
 
+### Capítulo 17: La Cuna de la Desinformación
+
+*Denise, Babette, Murray, Eric Massingale, Jack y Steffie.*
+
+[![Un hombre corpulento con un abrigo de lana avanza por un pasillo luminoso de un gran centro comercial, rodeado de su familia, con una gruesa cuerda enrollada al hombro, bajo galerías y escaparates.](../img/261025_white-noise_la-cuna-de-la-desinformacion.jpg)](../img/261025_white-noise_la-cuna-de-la-desinformacion.jpg)
+
+Bee llegará en unos días. Camino del centro comercial, Denise pregunta a Babette por el Dylar; ella lo toma por una chica, y la charla deriva a camellos y Bolivia. Jack concluye:
+
+> La familia es la cuna de la desinformación del mundo.
+> [Frase 2083](#original-2083)
+
+Algo en la vida familiar genera error: la cercanía, el ruido, quizá la necesidad de sobrevivir.
+
+> Murray dice que somos criaturas frágiles rodeadas por un mundo de hechos hostiles.
+> [Frase 2087](#original-2087)
+
+Los hechos amenazan nuestra seguridad.
+
+> El proceso familiar trabaja para sellar el mundo.
+> [Frase 2090](#original-2090)
+
+Las ficciones proliferan. Jack objeta que la ignorancia no puede mover la solidaridad familiar.
+
+> Me pregunta por qué las unidades familiares más fuertes existen en las sociedades menos desarrolladas.
+> [Frase 2094](#original-2094)
+
+> No saber es un arma de supervivencia, dice.
+> [Frase 2095](#original-2095)
+
+La familia es más fuerte donde la realidad se malinterpreta. En una ferretería del centro, Jack compra cuerda y se cruza con Eric Massingale, que le dice:
+
+> «Nunca te había visto fuera del campus, Jack.
+> [Frase 2114](#original-2114)
+
+> Te ves distinto sin tus gafas y tu toga.
+> [Frase 2115](#original-2115)
+
+Lo examina, retrocede y sonríe satisfecho: conoce esos zapatos. Jack pregunta en qué es otro.
+
+> «¿No te ofenderás?», dijo, con la sonrisa volviéndose lasciva, rica en significado secreto.
+> [Frase 2125](#original-2125)
+
+Jack promete no ofenderse. Massingale lo encuentra inofensivo, grande, envejecido. Jack paga y sale deprisa, con ganas de comprar.
+
+> Babette y los niños me siguieron al ascensor, a las tiendas dispuestas en los pisos, por los emporios y los grandes almacenes, desconcertados pero entusiasmados por mi deseo de comprar.
+> [Frase 2135](#original-2135)
+
+Le animan a comprar las dos camisas y le dan de comer. Las chicas van delante.
+
+> Eran mis guías hacia un bienestar sin fin.
+> [Frase 2139](#original-2139)
+
+Suena un órgano y huele a chocolate y colonia. Su familia se gloria.
+
+> Era uno de ellos, comprando, por fin.
+> [Frase 2144](#original-2144)
+
+Va de tienda en tienda y compra sin freno, por comprar. Crece en valor y encuentra a una persona que había olvidado.
+
+> La luminosidad se posó a mi alrededor.
+> [Frase 2155](#original-2155)
+
+Sus imágenes aparecen en columnas de espejo. Cambia dinero por bienes.
+
+> Cuanto más dinero gastaba, menos importante parecía.
+> [Frase 2159](#original-2159)
+
+> Yo era más grande que esas sumas.
+> [Frase 2160](#original-2160)
+
+Esas sumas resbalaban por su piel como lluvia y volvían a él como crédito existencial.
+
+> Me sentía expansivo, dispuesto a ser generoso a lo grande, y dije a los niños que eligieran ahí mismo sus regalos de Navidad.
+> [Frase 2163](#original-2163)
+
+Los niños se dispersan y anotan en secreto con Babette lo que quieren. Jack es el benefactor. Vuelven a casa en silencio. Jack ve a Steffie ante el televisor, moviendo los labios para igualar las palabras.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -1405,6 +1484,55 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 1994](#lugar-1994)
 > This was an ancient dirge all the more impressive for its resolute monotony.
+
+---
+
+### Capítulo 17: La Cuna de la Desinformación
+
+> [Frase 2083](#lugar-2083)
+> The family is the cradle of the world's misinformation.
+
+> [Frase 2087](#lugar-2087)
+> Murray says we are fragile creatures surrounded by a world of hostile facts.
+
+> [Frase 2090](#lugar-2090)
+> The family process works toward sealing off the world.
+
+> [Frase 2094](#lugar-2094)
+> He asks me why the strongest family units exist in the least developed societies.
+
+> [Frase 2095](#lugar-2095)
+> Not to know is a weapon of survival, he says.
+
+> [Frase 2114](#lugar-2114)
+> "I've never seen you off campus, Jack.
+
+> [Frase 2115](#lugar-2115)
+> You look different without your glasses and gown.
+
+> [Frase 2125](#lugar-2125)
+> "You won't take offense?" he said, the grin turning lascivious, rich with secret meaning.
+
+> [Frase 2135](#lugar-2135)
+> Babette and the kids followed me into the elevator, into the shops set along the tiers, through the emporiums and department stores, puzzled but excited by my desire to buy.
+
+> [Frase 2139](#lugar-2139)
+> They were my guides to endless wellbeing.
+
+> [Frase 2144](#lugar-2144)
+> I was one of them, shopping, at last.
+
+> [Frase 2155](#lugar-2155)
+> Brightness settled around me.
+
+> [Frase 2159](#lugar-2159)
+> The more money I spent, the less important it seemed.
+
+> [Frase 2160](#lugar-2160)
+> I was bigger than these sums.
+
+> [Frase 2163](#lugar-2163)
+> I felt expansive, inclined to be sweepíngly generous, and told the kids to pick out their Christmas gifts here and now.
 
 © 2026 Osmancito
 
