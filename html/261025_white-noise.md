@@ -285,54 +285,41 @@ Heinrich parece atraer un peligro; Babette le hornea sus galletas favoritas. Jac
 
 ### Capítulo 7: Quién Complace a Quién
 
-*Babette, el narrador, los dos juntos, los ancianos, Rex y la lectura.*
+*Babette, Jack, los ancianos y la lectura.*
 
 [![Óleo impresionista, al estilo de Eugène Boudin: sobre una mesa, junto a una lámpara, un álbum de fotos antiguas abierto, con niños, mujeres con sombrero y un hombre que se protege los ojos del sol; dos manos pasan la página y por la ventana se ven la luna y un triciclo bajo la luz de un porche.](../img/261025_white-noise_quien-complace-a-quien.jpg)](../img/261025_white-noise_quien-complace-a-quien.jpg)
 
-Dos noches por semana Babette enseña postura a ancianos en un sótano. Una noche, ya en la cama, ella pregunta:
-
-> «¿Qué quieres hacer?», dijo ella.
-> [Frase 595](#original-595)
-
-Él responde que lo que ella quiera; ella, que lo mejor para él. Jack dice:
-
-> «Lo mejor para mí es complacerte», dije.
-> [Frase 598](#original-598)
-
-Cada uno quiere complacer al otro. Babette sabe que a Jack le gusta que ella lea cosas eróticas. Él responde:
+Dos noches por semana Babette enseña postura a ancianos en un sótano. Una noche, ya en la cama, discuten quién complace a quién. Babette dice que sabe que a Jack le gusta que ella lea cosas eróticas. Jack responde:
 
 > «Pensé que a ti también te gustaba.»
 > [Frase 612](#original-612)
 
-Ella dice que el beneficio es de quien escucha, como cuando lee a Treadwell, un viejo ciego. Jack replica que él no es ciego:
-
-> «Pensé que te gustaba leer pasajes eróticos.»
-> [Frase 616](#original-616)
+Babette dice que quien se beneficia es quien escucha, como cuando lee al viejo Treadwell. Jack contesta que él no es ciego. Ella responde:
 
 > «Si a ti te complace, entonces me gusta hacerlo.»
 > [Frase 617](#original-617)
 
-Jack insiste en que también debe complacerla a ella. Ella dice:
+Jack insiste en que ella también debe disfrutar. Ella dice:
 
 > «Me complace que disfrutes mi lectura.»
 > [Frase 620](#original-620)
 
-Jack siente que se pasan de uno a otro la carga de ser quien recibe placer. Ella accede a leer, pero pone una condición:
+Jack le ofrece épocas para la lectura, y cada uno quiere que elija el otro. Babette dice:
+
+> ¿No queremos un equilibrio, una especie de toma y daca?
+> [Frase 640](#original-640)
+
+Jack dice que elegirá él y que ella leerá. Ella pone una condición:
 
 > «Pero no quiero que elijas nada que tenga hombres dentro de mujeres, comillas, comillas, o hombres entrando en mujeres. 'Yo entré en ella.' 'Él entró en mí.' No somos vestíbulos ni ascensores. 'Lo quería dentro de mí', como si pudiera meterse del todo, firmar el registro, dormir, comer, etcétera.
 > [Frase 646](#original-646)
 
-Ella inventa frases del estilo con un tal Rex, y Jack siente una erección. Después Jack piensa en cómo son entre ellos:
+Ella inventa frases con un tal Rex y Jack siente una erección. Después Jack piensa en que Babette y él se cuentan todo, una forma de renovación y de confianza. Jack cuenta:
 
-> Babette y yo nos contamos todo.
-> [Frase 660](#original-660)
+> En estos relatos nocturnos creamos un espacio entre las cosas tal como las sentimos entonces y como las decimos ahora.
+> [Frase 669](#original-669)
 
-Para él, contarlo todo es una forma de renovación y de confianza:
-
-> Babette y yo hemos vuelto nuestras vidas para la atenta consideración del otro, las hemos vuelto a la luz de la luna en nuestras manos pálidas, hemos hablado en lo hondo de la noche de padres y madres, infancia, amistades, despertares, viejos amores, viejos miedos (salvo el miedo a la muerte).
-> [Frase 666](#original-666)
-
-Así crean un espacio para la ironía y la simpatía, con el que se rescatan del pasado. Jack elige el siglo veinte:
+Ese espacio es de la ironía y la simpatía, y con él se rescatan del pasado. Jack elige el siglo veinte:
 
 > Me puse la bata y fui por el pasillo hasta la habitación de Heinrich a buscar una revista barata de la que Babette pudiera leer, de esas que traen cartas de lectores que detallan sus experiencias sexuales.
 > [Frase 672](#original-672)
@@ -1438,17 +1425,8 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 7: Quién Complace a Quién
 
-> [Frase 595](#lugar-595)
-> "What do you want to do?" she said.
-
-> [Frase 598](#lugar-598)
-> "What's best for me is to please you," I said.
-
 > [Frase 612](#lugar-612)
 > "I thought you liked it too."
-
-> [Frase 616](#lugar-616)
-> I thought you liked to read erotic passages."
 
 > [Frase 617](#lugar-617)
 > "If it pleases you, then I like to do it."
@@ -1456,14 +1434,14 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 620](#lugar-620)
 > "It pleases me that you enjoy my reading."
 
+> [Frase 640](#lugar-640)
+> Don't we want a balance, a sort of give-and-take?
+
 > [Frase 646](#lugar-646)
 > "But I don't want you to choose anything that has men inside women, quote-quote, or men entering women. 'I entered her.' 'He entered me.' We're not lobbies or elevators. 'I wanted him inside me,' as if he could crawl completely in, sign the register, sleep, eat, so forth.
 
-> [Frase 660](#lugar-660)
-> Babette and I tell each other everything.
-
-> [Frase 666](#lugar-666)
-> Babette and I have turned our lives for each other's thoughtful regard, turned them in the moonlight in our pale hands, spoken deep into the night about fathers and mothers, childhood, friendships, awakenings, old loves, old fears (except fear of death).
+> [Frase 669](#lugar-669)
+> In these night recitations we create a space between things as we felt them at the time and as we speak them now.
 
 > [Frase 672](#lugar-672)
 > I put on my bathrobe and went down the hall to Heinrich's room to find a trashy magazine Babette might read from, the type that features letters from readers detailing their sexual experiences.
