@@ -8,7 +8,7 @@
 
 Se divide en tres partes: «Waves and Radiation» («Ondas y Radiación»), «The Airborne Toxic Event» («El Evento Tóxico en el Aire») y «Dylarama». Suman cuarenta capítulos numerados, y ninguno trae título; aquí cada uno recibe el suyo. La cuenta Jack Gladney, profesor universitario; el primer capítulo todavía no dice su nombre.
 
-Esta lectura recorre la novela capítulo a capítulo. De cada capítulo toma las frases que más pesan, las pasa al castellano y las une con textos propios: puentes, que cuentan lo que pasa entre una frase y otra, y glosas, que explican lo que un lector nuevo necesita. Las frases en inglés están al final, en «Los Originales». Obra en curso: por ahora están los capítulos 1, 2, 3 y 4; los demás se agregan a medida que se revisan, y esta página se actualiza en el mismo lugar.
+Esta lectura recorre la novela capítulo a capítulo. De cada capítulo toma las frases que más pesan, las pasa al castellano y las une con textos propios: puentes, que cuentan lo que pasa entre una frase y otra, y glosas, que explican lo que un lector nuevo necesita. Las frases en inglés están al final, en «Los Originales». Obra en curso: por ahora están los capítulos 1, 2, 3, 4 y 5; los demás se agregan a medida que se revisan, y esta página se actualiza en el mismo lugar.
 
 Empieza la Parte I, «Waves and Radiation», con su capítulo 1.
 
@@ -195,6 +195,46 @@ Así Hitler le dio algo hacia lo cual crecer. Babette dijo que J. A. K. sonaba d
 
 ---
 
+### Capítulo 5: Envases Blancos
+
+*Murray, el narrador, Babette, los dos juntos, los envases y el maní.*
+
+[![Óleo impresionista, al estilo de Eugène Boudin: en un supermercado luminoso, un hombre encorvado de barba y ropa de pana sostiene un frasco blanco de maní frente a una mujer de pelo abundante, junto a un carrito lleno de envases blancos que empuja un hombre corpulento de gafas oscuras; al fondo, una mujer caída entre libros de bolsillo.](../img/261025_white-noise_envases-blancos.jpg)](../img/261025_white-noise_envases-blancos.jpg)
+
+En el supermercado se topan con Murray, con su cesta de comida genérica en envases blancos: «DURAZNOS EN CONSERVA», «MANÍ IRREGULAR». Jack lo presenta a Babette:
+
+> Murray no dejaba de asentir hacia Babette mientras yo los presentaba.
+> [Frase 349](#original-349)
+
+Murray llama a esos envases «la nueva austeridad» y «la última vanguardia». Babette le dice a Murray:
+
+> «Así que cocinas en la pensión», dijo Babette.
+> [Frase 372](#original-372)
+
+Murray cuenta que es feliz en su cuarto. Luego elogia el pelo de Babette, «un pelo importante». Jack responde, y Murray insiste:
+
+> «Creo que sé a qué te refieres.»
+> [Frase 388](#original-388)
+
+> «Espero que valores a esa mujer.»
+> [Frase 389](#original-389)
+
+Jack dice que sí. Murray agrega que una mujer así no sucede porque sí, y Jack lo sabe. Murray sigue:
+
+> «Más que eso, apuesto a que es estupenda para tenerla cerca en una tragedia familiar.»
+> [Frase 394](#original-394)
+
+Jack lo corrige: ella se desmorona, como cuando murió su madre. Murray lo encuentra extraordinario. Salen los tres con los carritos y llevan a Murray a su pensión. Jack siente:
+
+> Me pareció que Babette y yo, en la masa y la variedad de nuestras compras, en la pura abundancia que sugerían aquellas bolsas atestadas, el peso y el tamaño y el número, los diseños familiares de los envases y sus letras vivas, los tamaños gigantes, los paquetes de oferta familiar con pegatinas de rebaja Day-Glo, en la sensación de reposición que sentíamos, la sensación de bienestar, la seguridad y el contento que esos productos llevaban a algún rincón acogedor de nuestras almas, parecía que habíamos alcanzado una plenitud del ser que no conocen quienes necesitan menos, esperan menos, quienes planean su vida en torno a paseos solitarios por la tarde.
+> [Frase 416](#original-416)
+
+Day-Glo: marca de pigmentos fluorescentes que los hermanos Switzer crearon en Estados Unidos entre los años treinta y cincuenta. Dan colores tan intensos que parecen brillar incluso a la luz del día, y por eso se usan en envases y carteles de oferta.
+
+Murray se despide tomando la mano de Babette. Tiene una mirada entre furtiva y franca, y ensaya una vulnerabilidad que las mujeres encuentren atractiva. Lo ven irse hacia un porche torcido, donde un hombre en una mecedora mira al vacío.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -293,6 +333,28 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 329](#lugar-329)
 > If I could become more ugly, he seemed to be suggesting, it would help my career enormously.
+
+---
+
+### Capítulo 5: Envases Blancos
+
+> [Frase 349](#lugar-349)
+> Murray kept nodding to Babette as I introduced them.
+
+> [Frase 372](#lugar-372)
+> "So then you cook at the rooming house," Babette said.
+
+> [Frase 388](#lugar-388)
+> "I think I know what you mean."
+
+> [Frase 389](#lugar-389)
+> "I hope you appreciate that woman."
+
+> [Frase 394](#lugar-394)
+> More than that, I'll bet she's great to have around in a family tragedy.
+
+> [Frase 416](#lugar-416)
+> It seemed to me that Babette and I, in the mass and variety of our purchases, in the sheer plenitude those crowded bags suggested, the weight and size and number, the familiar package designs and vivid lettering, the giant sizes, the family bargain packs with Day-Glo sale stickers, in the sense of replenishment we felt, the sense of well-being, the security and contentment these products brought to some snug home in our souls—it seemed we had achieved a fullness of being that is not known to people who need less, expect less, who plan their lives around lonely walks in the evening.
 
 © 2026 Osmancito
 
