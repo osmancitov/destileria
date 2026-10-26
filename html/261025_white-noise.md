@@ -2240,6 +2240,64 @@ Siguen caminando. Jack cuenta:
 
 ---
 
+### Capítulo 29: Los Pasillos
+
+*Jack y Babette.*
+
+[![En el pasillo de un supermercado iluminado, un hombre de abrigo oscuro y gafas y una mujer de cabello claro avanzan juntos, cada uno con un carrito, mientras al fondo una familia compra hablando con las manos.](../img/261025_white-noise_los-pasillos.jpg)](../img/261025_white-noise_los-pasillos.jpg)
+
+Jack cuenta que va de compras al supermercado con Babette:
+
+> Babette y yo avanzábamos por el ancho pasillo, cada uno con un carrito reluciente.
+> [Frase 6087](#original-6087)
+
+> Pasamos junto a una familia que compraba hablando en lengua de señas.
+> [Frase 6088](#original-6088)
+
+Jack ve luces de colores. Babette le pregunta:
+
+> «¿Cómo te sientes?», dijo ella.
+> [Frase 6090](#original-6090)
+
+Jack dice que está bien y que ya se hizo dos chequeos. Babette elogia el inglés del doctor Chakravarty y Jack dice que al doctor le gusta hablar más de lo que a ella le gusta oírlo. Babette lo discute. Jack cambia de tema:
+
+> «Necesitamos un poco de Class Plus.»
+> [Frase 6110](#original-6110)
+
+Jack se va hacia el pasillo cinco. Babette dice:
+
+> «No me dejes sola», dijo ella.
+> [Frase 6111](#original-6111)
+
+Jack dice que solo va al pasillo cinco. Babette le dice:
+
+> «Creo que sabes eso.»
+> [Frase 6114](#original-6114)
+
+Jack le responde:
+
+> «Vamos a salir bien de esta», dije.
+> [Frase 6115](#original-6115)
+
+> «Quizá más fuertes que nunca.»
+> [Frase 6116](#original-6116)
+
+> Estamos decididos a estar bien.
+> [Frase 6117](#original-6117)
+
+Jack le habla a Babette y la describe como una persona fuerte, sana y afirmativa. Jack cuenta:
+
+> Nos quedamos juntos en los pasillos y en la caja.
+> [Frase 6122](#original-6122)
+
+> Los leímos juntos mientras esperábamos en la fila.
+> [Frase 6124](#original-6124)
+
+> Luego fuimos juntos hasta el auto, cargamos la mercancía y me senté muy cerca de ella mientras yo manejaba a casa.
+> [Frase 6125](#original-6125)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -3655,6 +3713,46 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 6040](#lugar-6040)
 > We walked past small mounds of melting snow.
+
+---
+
+### Capítulo 29: Los Pasillos
+
+> [Frase 6087](#lugar-6087)
+> Babette and I moved down the wide aisle, each with a gleaming cart.
+
+> [Frase 6088](#lugar-6088)
+> We passed a family shopping in sign language.
+
+> [Frase 6090](#lugar-6090)
+> "How do you feel?" she said.
+
+> [Frase 6110](#lugar-6110)
+> "We need some Class Plus."
+
+> [Frase 6111](#lugar-6111)
+> "Don't leave me alone," she said.
+
+> [Frase 6114](#lugar-6114)
+> I believe you know that."
+
+> [Frase 6115](#lugar-6115)
+> "We're going to come through this thing all right," I said.
+
+> [Frase 6116](#lugar-6116)
+> "Maybe stronger than ever.
+
+> [Frase 6117](#lugar-6117)
+> We're determined to be well.
+
+> [Frase 6122](#lugar-6122)
+> We stayed together in the aisles and at the checkout.
+
+> [Frase 6124](#lugar-6124)
+> We read them together as we waited on line.
+
+> [Frase 6125](#lugar-6125)
+> Then we went together to the car, loaded the merchandise, sat very close to each other as I drove home.
 
 © 2026 Osmancito
 
