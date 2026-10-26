@@ -638,20 +638,10 @@ Babette dice que no toma nada que explique sus lapsos. Jack le dice que quizá D
 
 [![Dunlop y Jack sentados frente a frente en un cuarto atestado, con un mapa del tiempo en la pared y un cielo gris en la ventana, haciendo muecas de pronunciación.](../img/261025_white-noise_dunlop-y-el-clima.jpg)](../img/261025_white-noise_dunlop-y-el-clima.jpg)
 
-Jack toma clases de alemán dos veces por semana. Howard Dunlop exige que se sienten frente a frente toda la lección:
+Jack toma clases de alemán dos veces por semana. Howard Dunlop exige que se sienten frente a frente toda la lección. Dunlop deforma la cara y hace muecas al pronunciar, y Jack lo imita:
 
-> Quería que estudiara las posiciones de su lengua mientras demostraba la pronunciación de consonantes, diptongos, vocales largas y breves.
-> [Frase 1346](#original-1346)
-
-Dunlop tiene una cara apacible y sin rasgos hasta que empieza sus ejercicios: entonces la deforma y hace muecas. Jack lo imita, con la boca torcida y los ojos cerrados:
-
-> Cuando abrí los ojos, él estaba a pocos centímetros de mi boca, inclinado para mirar.
-> [Frase 1353](#original-1353)
-
-Hay silencios tensos antes y después de cada lección:
-
-> Intentaba conversar de cosas menores, hacer que hablara de sus años como quiropráctico, de su vida antes del alemán.
-> [Frase 1356](#original-1356)
+> Cuando llegaba el momento de que repitiera los ruidos, yo hacía lo mismo, aunque solo fuera para complacer al profesor, torciendo la boca, cerrando los ojos del todo, consciente de una sobrearticulación tan torturada que debía de haber sonado como una flexión repentina de la ley natural, una piedra o un árbol que se esfuerza por hablar.
+> [Frase 1352](#original-1352)
 
 Dunlop mira a lo lejos, desprendido. Jack es su único alumno de alemán; también enseña griego, latín y navegación:
 
@@ -1377,14 +1367,8 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 12: Dunlop y el Clima
 
-> [Frase 1346](#lugar-1346)
-> He wanted me to study his tongue positions as he demonstrated the pronunciation of consonants, diphthongs, long and short vowels.
-
-> [Frase 1353](#lugar-1353)
-> When I opened my eyes he was only inches from my mouth, leaning in to peer.
-
-> [Frase 1356](#lugar-1356)
-> I tried to make small talk, get him to discuss his years as a chiropractor, his life before German.
+> [Frase 1352](#lugar-1352)
+> When it was time for me to repeat the noises I did likewise, if only to please the teacher, twisting my mouth, shutting my eyes completely, conscious of an overarticulation so tortured it must have sounded like a sudden bending of the natural law, a stone or tree struggling to speak.
 
 > [Frase 1376](#lugar-1376)
 > "Do you teach anything else?" I said.
