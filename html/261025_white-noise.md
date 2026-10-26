@@ -1852,6 +1852,157 @@ Winnie reconocería cualquier droga conocida, y esta no. Mira la puerta con mied
 
 ---
 
+### Capítulo 26: La Confesión de Babette
+
+*Babette, Jack y Mr. Gray.*
+
+[![De noche, en un dormitorio, un hombre con gafas y bata de franela está sentado al borde de la cama y sostiene la mano de su esposa, que se arropa en una colcha con el rostro pálido y lleno de pena; un radiodespertador brilla en verde sobre la mesilla.](../img/261025_white-noise_la-confesion-de-babette.jpg)](../img/261025_white-noise_la-confesion-de-babette.jpg)
+
+Jack apaga la radio del programa de llamadas y le dice a Babette que es hora de un diálogo serio. Jack dice:
+
+> «Tú lo sabes, yo lo sé.»
+> [Frase 5042](#original-5042)
+
+Jack dice que ella le contará todo sobre el Dylar, aunque sea por Denise. Dice:
+
+> «Te hemos acorralado.»
+> [Frase 5047](#original-5047)
+
+Jack cuenta que encontró el frasco escondido y mandó analizar una tableta. Jack exige:
+
+> «Solo dinos cuál es el problema de fondo.»
+> [Frase 5058](#original-5058)
+
+> «Como bien sabes, no tengo el temperamento para acosar a la gente.»
+> [Frase 5059](#original-5059)
+
+Jack agrega que Denise es distinta y que él la ha estado conteniendo. Jack amenaza:
+
+> «Si no me cuentas lo que quiero saber, soltaré a tu niña.»
+> [Frase 5062](#original-5062)
+
+Pasan cinco minutos. Babette pide contarlo a su manera. Jack responde:
+
+> «Tómate tu tiempo», dije.
+> [Frase 5073](#original-5073)
+
+Babette dice que su condición empezó quizá hace año y medio, y le pide a Jack que la deje contar. Babette dice:
+
+> «Así es como puedo enseñar a mis alumnos a ponerse de pie, sentarse y caminar, aunque sé que tú piensas que esos temas son demasiado obvios, vagos y generales para reducirlos a sus partes.»
+> [Frase 5103](#original-5103)
+
+Babette cuenta que quiso entender la condición dividiéndola en partes. Dice:
+
+> «Fui a bibliotecas y librerías, leí revistas y publicaciones técnicas, vi televisión por cable, hice listas y diagramas, hice gráficos multicolores, llamé por teléfono a redactores técnicos y a científicos, hablé con un santón sij en Iron City e incluso estudié lo oculto, escondiendo los libros en el desván para que tú y Denise no los encontraran ni se preguntaran qué pasaba.»
+> [Frase 5111](#original-5111)
+
+Un día, mientras le leía un tabloide al señor Treadwell, Babette vio un anuncio de voluntarios para una investigación secreta y una empresa de psicobiología la entrevistó. Babette dice:
+
+> «Llamemos a la empresa Gray Research, aunque ese no es el nombre verdadero.»
+> [Frase 5137](#original-5137)
+
+> «Llamemos a mi contacto Mr. Gray.»
+> [Frase 5138](#original-5138)
+
+Mr. Gray es un compuesto. Babette fue una de tres finalistas para probar una droga secreta, el Dylar, pero la empresa lo juzgó demasiado riesgoso. Babette dice:
+
+> «Si voy a contarte la historia, tengo que incluir este aspecto de ella, este sórdido rincón del corazón humano.»
+> [Frase 5168](#original-5168)
+
+Babette y Mr. Gray hacen un trato privado: probarán el Dylar ellos solos, y ella le ofrece su cuerpo. Era una sola persona, el jefe del proyecto. Jack dice:
+
+> «De modo que ya no hablamos del Mr. Gray que es un compuesto.»
+> [Frase 5194](#original-5194)
+
+Jack describe la escena del motel. Babette dice:
+
+> «Tú aprecias a la esposa que te lo cuenta todo.»
+> [Frase 5223](#original-5223)
+
+Ella llora. Jack dice que hay gelatina que hizo Steffie, y ella dice que es una buena niña. Jack dice:
+
+> «Puedo traerte un poco sin problema.»
+> [Frase 5238](#original-5238)
+
+Babette confiesa que le teme a la muerte. Jack sugiere que quizá sea su peso. Ella dice que ha perdido peso. Jack dice:
+
+> «Sé que has perdido peso.»
+> [Frase 5315](#original-5315)
+
+Babette pregunta qué puede ser más profundo que la muerte. Jack cuenta:
+
+> Traté de convencerla de que no era tan grave como ella pensaba.
+> [Frase 5322](#original-5322)
+
+Jack dice que es él quien siempre ha estado obsesionado con la muerte. Ambos confiesan cuánto temen morir. Jack le dice que ella es su fuerza. Jack dice:
+
+> «¿Cómo puedo convencerte de que esto es un error terrible?»
+> [Frase 5415](#original-5415)
+
+> Te he visto bañar a Wilder y planchar mi toga.
+> [Frase 5416](#original-5416)
+
+Babette dice que a veces el miedo le llega como un golpe. Jack dice con gravedad que todas las tramas van en una sola dirección. Jack cuenta:
+
+> «¿Es por esto que me casé con Babette?»
+> [Frase 5421](#original-5421)
+
+> Nos abrazamos con fuerza durante largo rato, con los cuerpos apretados en un abrazo que incluía elementos de amor, dolor, ternura, sexo y lucha.
+> [Frase 5424](#original-5424)
+
+Hacen el amor. Ella pide agua y van los dos al baño en bata. Jack cuenta:
+
+> Esperé junto a la cama mientras ella arreglaba las sábanas con pulcritud y colocaba las almohadas en su sitio.
+> [Frase 5441](#original-5441)
+
+> Ella se acurrucó enseguida para dormir, pero aún había cosas que yo quería saber, cosas que tenía que decir.
+> [Frase 5442](#original-5442)
+
+Babette dice que en Gray Research aislaron la zona del cerebro donde vive el miedo a la muerte. Jack dice que las teorías de Heinrich son ciertas. Jack dice:
+
+> ¿Me estás diciendo que toda una tradición de debilidades humanas ha llegado a su fin, que cobardía, sadismo y abuso son términos sin sentido?
+> [Frase 5462](#original-5462)
+
+Babette dice que el Dylar no funciona. Mr. Gray le dio sesenta tabletas en dos frascos. Denise encontró el primero y Jack el segundo. Jack dice:
+
+> «Te pregunto cuántas tabletas has tomado.»
+> [Frase 5499](#original-5499)
+
+Ella ha tomado cincuenta y cinco tabletas y cree que quedan cinco. Jack dice que quedan cuatro: mandó analizar una. Ella pregunta:
+
+> «¿Te lo dije?»
+> [Frase 5505](#original-5505)
+
+Ella dice que al principio hubo mejoría, y que ahora no. Jack le recuerda una cena en casa de Murray, cuando dijo no recordar si tomaba medicación. Jack dice:
+
+> «Denise y yo supusimos que tu falta de memoria era un efecto secundario de la droga que estabas tomando.»
+> [Frase 5521](#original-5521)
+
+Babette dice que el olvido fue un efecto de la condición, no de la droga. Mr. Gray le envió una cinta con sus disculpas. Ella apaga la lámpara y la radio. Jack dice:
+
+> «Hay algo que me prometí que no te diría.»
+> [Frase 5549](#original-5549)
+
+Jack dice que está tentativamente programado para morir y le cuenta su exposición al Nyodene D. Jack cuenta:
+
+> Le conté lo del técnico de computadoras, cómo había accedido a mi historial para producir un enorme cómputo pesimista.
+> [Frase 5555](#original-5555)
+
+> Somos la suma total de nuestros datos, le dije, igual que somos la suma total de nuestros impulsos químicos.
+> [Frase 5556](#original-5556)
+
+Jack dice que este es el secreto duro y pesado. Babette se sube encima de él, sollozando. Jack cuenta:
+
+> Me golpeó el pecho, me agarró la mano izquierda y me mordió la carne entre el pulgar y el índice.
+> [Frase 5565](#original-5565)
+
+> Me tomó la cabeza entre las manos, con suavidad y a la vez con furia, y la meció de un lado a otro sobre la almohada, un acto que no pude conectar con nada que ella hubiera hecho jamás, con nada que ella pareciera ser.
+> [Frase 5567](#original-5567)
+
+Después ella se duerme inquieta. La radio se enciende. Jack va al baño, se lava, mueve el radiador y mete la mano detrás. El frasco de Dylar ya no está.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -3027,6 +3178,103 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 5016](#lugar-5016)
 > "I don't care where you found it.
+
+---
+
+### Capítulo 26: La Confesión de Babette
+
+> [Frase 5042](#lugar-5042)
+> You know it, I know it.
+
+> [Frase 5047](#lugar-5047)
+> We've backed you against the wall.
+
+> [Frase 5058](#lugar-5058)
+> Just tell us the nature of the drag.
+
+> [Frase 5059](#lugar-5059)
+> As you well know, I don't have the temperament to hound people.
+
+> [Frase 5062](#lugar-5062)
+> If you don't tell me what I want to know, I'll unleash your little girl.
+
+> [Frase 5073](#lugar-5073)
+> "Take your time," I said.
+
+> [Frase 5103](#lugar-5103)
+> This is how I am able to teach my students how to stand, sit and walk, even though I know you think these subjects are too obvious and nebulous and generalized to be reduced to component parts.
+
+> [Frase 5111](#lugar-5111)
+> I went to libraries and bookstores, read magazines and technical journals, watched cable TV, made lists and diagrams, made multicolored charts, made phone calls to technical writers and scientists, talked to a Sikh holy man in Iron City and even studied the occult, hiding the books in the attic so you and Denise wouldn't find them and wonder what was going on."
+
+> [Frase 5137](#lugar-5137)
+> Let's call the company Gray Research, although that's not the true name.
+
+> [Frase 5138](#lugar-5138)
+> Let's call my contact Mr. Gray.
+
+> [Frase 5168](#lugar-5168)
+> If I'm going to tell you the story at all, I have to include this aspect of it, this grubby little corner of the human heart.
+
+> [Frase 5194](#lugar-5194)
+> "So we are no longer referring to the Mr. Gray who is a composite."
+
+> [Frase 5223](#lugar-5223)
+> You cherish the wife who tells you everything.
+
+> [Frase 5238](#lugar-5238)
+> "I can easily get you some."
+
+> [Frase 5315](#lugar-5315)
+> "I know you've lost weight.
+
+> [Frase 5322](#lugar-5322)
+> I tried to persuade her it was not as serious as she thought.
+
+> [Frase 5415](#lugar-5415)
+> How can I persuade you that this is a terrible mistake?
+
+> [Frase 5416](#lugar-5416)
+> I've watched you bathe Wilder, iron my gown.
+
+> [Frase 5421](#lugar-5421)
+> "Is this why I married Babette?
+
+> [Frase 5424](#lugar-5424)
+> We held each other tightly for a long time, our bodies clenched in an embrace that included elements of love, grief, tenderness, sex and struggle.
+
+> [Frase 5441](#lugar-5441)
+> I waited by the side of the bed as she rearranged the sheets neatly, put the pillows in place.
+
+> [Frase 5442](#lugar-5442)
+> She curled up immediately for sleep but there were still things I wanted to know, things I had to say.
+
+> [Frase 5462](#lugar-5462)
+> Are you telling me that a whole tradition of human failings is now at an end, that cowardice, sadism, molestation are meaningless terms?
+
+> [Frase 5499](#lugar-5499)
+> I'm asking how many tablets you've taken."
+
+> [Frase 5505](#lugar-5505)
+> "Did you tell me that?"
+
+> [Frase 5521](#lugar-5521)
+> Denise and I assumed your forgetfulness was a side effect of whatever drug you were taking."
+
+> [Frase 5549](#lugar-5549)
+> 'There's something I promised myself I wouldn't tell you."
+
+> [Frase 5555](#lugar-5555)
+> I told her about the computer technician, the way he'd tapped into my history to produce a pessimistic massive tally.
+
+> [Frase 5556](#lugar-5556)
+> We are the sum total of our data, I told her, just as we are the sum total of our chemical impulses.
+
+> [Frase 5565](#lugar-5565)
+> She beat me on the chest, seized my left hand and bit the flesh between the thumb and index finger.
+
+> [Frase 5567](#lugar-5567)
+> She took my head in her hands, gently and yet fiercely, and rocked it to and fro on the pillow, an act I could not connect to anything she'd ever done, anything she seemed to be.
 
 © 2026 Osmancito
 
