@@ -1713,6 +1713,70 @@ Jack solo dice que los datos aterradores ya son una industria. Heinrich cita un 
 
 ---
 
+### Capítulo 24: El Frasco de Dylar
+
+*Jack, Denise y Babette.*
+
+[![Un hombre y una adolescente de rodillas junto a un radiador abierto en un baño de noche; bajo la tapa, un frasco ámbar pegado con cinta.](../img/261025_white-noise_el-frasco-de-dylar.jpg)](../img/261025_white-noise_el-frasco-de-dylar.jpg)
+
+Jack encuentra un frasco ámbar de plástico, pegado con cinta bajo la tapa del radiador del baño. La cinta deja leer la palabra Dylar. Jack cuenta:
+
+> Fue la noche siguiente cuando descubrí el Dylar.
+> [Frase 4667](#original-4667)
+
+> Lo encontré cuando el radiador empezó a golpear y quité la tapa para estudiar la válvula con seriedad y método, tratando de disimular ante mí mismo la impotencia que sentía.
+> [Frase 4670](#original-4670)
+
+Jack busca a Denise, que está en la cama viendo televisión. Miran el frasco juntos, sin tocarlo, y vuelven a su cuarto. Jack cuenta:
+
+> Denise se sentó en la cama, mirando más allá de mí, más allá del televisor, más allá de los pósters y los recuerdos.
+> [Frase 4680](#original-4680)
+
+Baba es el apodo de Babette. Denise, con el ceño fruncido, dice:
+
+> «No le decimos nada a Baba.»
+> [Frase 4682](#original-4682)
+
+Denise dice que Babette solo diría que no recuerda por qué lo puso ahí. Jack pregunta qué es el Dylar y dice:
+
+> «Un farmacéutico puede decirnos para qué sirve eso.»
+> [Frase 4688](#original-4688)
+
+Denise ya fue a tres farmacias y nadie conocía el Dylar: no figura en ninguna lista. Jack dice:
+
+> «Tendremos que llamar a su médico.»
+> [Frase 4704](#original-4704)
+
+Jack propone llamar al médico a su casa. Denise quiere que lo despierte. Dice:
+
+> «Engáñalo para que nos diga lo que queremos saber.»
+> [Frase 4712](#original-4712)
+
+El único teléfono está en la cocina. Babette sigue en el cuarto planchando blusas. Jack marca el número del médico, que se llama Hookstratten. Jack cuenta:
+
+> Le dije quién era y que estaba preocupado por Babette.
+> [Frase 4722](#original-4722)
+
+> Dije que estaba bastante seguro de que el medicamento que él le había recetado era lo que causaba el problema.
+> [Frase 4724](#original-4724)
+
+Hookstratten responde con ironía: nunca vio el Dylar ni se lo recetó a Babette. Jack cuenta:
+
+> Le di las gracias, colgué y llamé a mi propio médico a su casa.
+> [Frase 4754](#original-4754)
+
+El médico de Jack dice que Dylar debe de ser una isla del golfo Pérsico. Jack le dice a Denise que hará analizar una tableta en el departamento de química. Jack cuenta:
+
+> Esperé a que me dijera que ya lo había hecho.
+> [Frase 4759](#original-4759)
+
+> Pero ella solo asintió con gravedad y yo seguí por el pasillo, deteniéndome en el cuarto de Heinrich para darle las buenas noches.
+> [Frase 4760](#original-4760)
+
+Heinrich hace dominadas en el clóset con una barra de Mercator, un estudiante mayor que se entrena para sentarse en una jaula con serpientes venenosas. Más tarde Jack mira dormir a Steffie y a Wilder, y vuelve a la cama; Babette mira por la ventana.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -2805,6 +2869,46 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 4637](#lugar-4637)
 > "Was it the Monitor or the Merrimac that got sunk?" I said.
+
+---
+
+### Capítulo 24: El Frasco de Dylar
+
+> [Frase 4667](#lugar-4667)
+> It was the following night that I discovered the Dylar.
+
+> [Frase 4670](#lugar-4670)
+> I found it when the radiator began knocking and I removed the cover to study the valve in an earnest and methodical way, trying to disguise to myself the helplessness I felt.
+
+> [Frase 4680](#lugar-4680)
+> Denise sat on the bed, looking past me, past the TV set, past the posters and souvenirs.
+
+> [Frase 4682](#lugar-4682)
+> "We say nothing to Baba."
+
+> [Frase 4688](#lugar-4688)
+> A pharmacist can tell us what the stuff is for.
+
+> [Frase 4704](#lugar-4704)
+> "We'll have to call her doctor."
+
+> [Frase 4712](#lugar-4712)
+> Trick him into telling us what we want to know."
+
+> [Frase 4722](#lugar-4722)
+> I told him who I was and said I was concerned about Babette.
+
+> [Frase 4724](#lugar-4724)
+> I said I was fairly sure it was the medication he'd prescribed for her that was causing the problem.
+
+> [Frase 4754](#lugar-4754)
+> I thanked him, hung up, called my own doctor at home.
+
+> [Frase 4759](#lugar-4759)
+> I waited for her to tell me she'd already done that.
+
+> [Frase 4760](#lugar-4760)
+> But she just nodded grimly and I headed down the hall, stopping in Heinrich's room to say goodnight.
 
 © 2026 Osmancito
 
