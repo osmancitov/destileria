@@ -511,7 +511,7 @@ Jack pregunta cómo es el preso y si se hablan; solo se mandan notas:
 > «¿A quién mató?»
 > [Frase 1049](#original-1049)
 
-Heinrich dice que estaba bajo presión y que crecía:
+Estaba bajo presión y crecía, dice Heinrich:
 
 > «Así que salió y le disparó a alguien.
 > [Frase 1053](#original-1053)
