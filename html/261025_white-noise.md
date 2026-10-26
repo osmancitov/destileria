@@ -376,70 +376,54 @@ Jack dice que hay un congreso sobre Hitler en primavera. En casa, Denise enciend
 
 [![Pasillo luminoso de un supermercado: Murray, barbudo y de chaqueta de pana, habla de cerca con Babette junto a un carrito, mientras Wilder, sentado en otro, alcanza una caja de la estantería.](../img/261025_white-noise_la-invitacion-de-murray.jpg)](../img/261025_white-noise_la-invitacion-de-murray.jpg)
 
-Jack, el narrador, cuenta que el martes evacuaron la escuela primaria de sus hijas: los niños sentían dolor de cabeza y sabor a metal. Nadie sabe la causa. Las dos chicas, Denise y Steffie, se quedan en casa; luego van al supermercado con Babette, su madre, y con Wilder, el hijo menor:
-
-> Las dos chicas, Babette, Wilder y yo fuimos al supermercado.
-> [Frase 784](#original-784)
+En el colegio de los niños evacuan a todos: dolores de cabeza, sabor a metal, una maestra que habla lenguas extrañas. Nadie sabe la causa. Jack cuenta:
 
 > Minutos después de entrar, nos topamos con Murray.
 > [Frase 785](#original-785)
 
-> Avanzamos juntos hacia el interior ultrafrío.
-> [Frase 791](#original-791)
-
-> Wilder iba sentado en el carrito de la compra, intentando agarrar cosas de los estantes mientras pasábamos.
-> [Frase 792](#original-792)
-
-Murray, un colega de Jack, los acompaña:
-
-> Entramos en la zona de comida genérica y Murray se detuvo con su cesta de plástico a hurgar entre los cartones y los frascos blancos.
+> Pasamos a la zona de alimentos genéricos y Murray se detuvo con su cesta de plástico a hurgar entre los cartones y los frascos blancos.
 > [Frase 802](#original-802)
 
-Murray anda por la zona de comida genérica. Jack oye a Babette hablar de Denise y su visera verde:
+En el supermercado, Murray dice que allí se aprende sobre la muerte. Babette cuenta que Denise lleva una visera verde a todas partes. Jack cuenta:
 
-> Oí a Babette decirle a Murray que la había llevado puesta catorce horas al día durante tres semanas ya.
+> Oí a Babette decirle a Murray que llevaba catorce horas diarias con la visera, desde hacía tres semanas.
 > [Frase 841](#original-841)
 
-Murray habla de la muerte y del Tíbet, y compara el supermercado con un lugar de paso. Pasan a buscar a Wilder, que se perdió de vista:
+Murray habla de los tibetanos, y Babette escucha. Babette pregunta dónde está Wilder. Jack cuenta:
 
-> Los tres adultos se plantaron cada uno a la cabeza de un pasillo y escudriñaron el tráfico de carritos y cuerpos que se deslizaban.
+> Los tres adultos nos plantamos cada uno a la entrada de un pasillo y escrutamos el tráfico de carritos y de cuerpos que se deslizaban.
 > [Frase 909](#original-909)
 
-> Luego recorrimos tres pasillos más, con la cabeza adelantada, ondulando un poco al cambiar de línea de visión.
+> Luego recorrimos tres pasillos más, con la cabeza adelantada, zigzagueando un poco mientras cambiábamos las líneas de visión.
 > [Frase 910](#original-910)
 
-Los tres adultos, Jack, Babette y Murray, lo buscan por los pasillos hasta que Murray lo ve en el carrito de otra mujer. Luego Murray los invita:
+Murray ve a Wilder en el carrito de otra mujer. Jack cuenta:
 
-> Antes de ir a la caja rápida, Murray nos invitó a cenar el sábado en ocho días.
+> Antes de ir a la caja rápida, Murray nos invitó a cenar, dentro de ocho días, el sábado.
 > [Frase 921](#original-921)
-
-Jack y Babette dicen que irán. Murray les pide que no se sientan obligados:
 
 > «No tienen que avisarme hasta el último minuto.»
 > [Frase 922](#original-922)
 
-Dice que no es un compromiso firme:
+> «No voy a preparar nada importante, así que llamen antes y avísenme si surgió otra cosa.»
+> [Frase 924](#original-924)
 
-> Si no aparecen, sabré que surgió algo y que no pudieron avisarme.»
+> «Si no aparecen, sabré que surgió algo y que no pudieron avisarme.»
 > [Frase 926](#original-926)
 
-Y añade:
-
-> No quiero que sientan que los estoy atando a algo.
+> No quiero que sientan que los obligo a algo.
 > [Frase 932](#original-932)
 
-Murray dice que si no pueden, no pasa nada:
-
-> De todos modos tengo que comer, así que no hay una catástrofe mayor si surge algo y tienen que cancelar.
+> Tengo que comer de todos modos, así que no es ninguna catástrofe si surge algo y tienen que cancelar.
 > [Frase 935](#original-935)
 
-> Solo quiero que sepan que estaré allí si deciden pasar, con niños o sin ellos.
+> Solo quiero que sepan que estaré ahí si deciden pasar, con niños o sin ellos.
 > [Frase 936](#original-936)
 
-Tienen hasta mayo o junio para decidir:
-
-> Tenemos hasta mayo o junio para hacer esto, así que no hay ninguna mística especial en un sábado en ocho días.»
+> «Tenemos hasta mayo o junio del año que viene para hacer esto, así que la cena del sábado no tiene ninguna mística especial.»
 > [Frase 937](#original-937)
+
+En la fila de la caja, Jack se pega a Babette. Afuera corre el rumor de que murió un hombre durante la inspección de la escuela.
 
 ---
 
@@ -3556,17 +3540,8 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 9: La Invitación de Murray
 
-> [Frase 784](#lugar-784)
-> The two girls and Babette, Wilder and I went to the supermarket.
-
 > [Frase 785](#lugar-785)
 > Minutes after we entered, we ran into Murray.
-
-> [Frase 791](#lugar-791)
-> We moved together into the ultra-cool interior.
-
-> [Frase 792](#lugar-792)
-> Wilder sat in the shopping cart trying to grab items off the shelves as we went by.
 
 > [Frase 802](#lugar-802)
 > We moved into the generic food area and Murray paused with his plastic basket to probe among the white cartons and jars.
@@ -3585,6 +3560,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 922](#lugar-922)
 > "You don't have to let me know till the last minute."
+
+> [Frase 924](#lugar-924)
+> "I'm not preparing anything major, so just call beforehand and tell me if something else came up.
 
 > [Frase 926](#lugar-926)
 > If you don't show up, I'll know that something came up and you couldn't let me know."
