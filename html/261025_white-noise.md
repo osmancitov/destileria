@@ -3137,6 +3137,73 @@ Murray insiste en la teoría del asesino y del que muere. Jack cuenta:
 
 ---
 
+### Capítulo 38: La pistola Zumwalt
+
+*Jack, Babette y Winnie Richards, entre el miedo y la noche.*
+
+[![Un hombre cruza corriendo un césped brumoso de noche y se pega a un roble, bajo luces tenues, en un campus vacío.](../img/261025_white-noise_la-pistola-zumwalt.jpg)](../img/261025_white-noise_la-pistola-zumwalt.jpg)
+
+Jack está en la cama con Babette y habla de reprimir el miedo. Jack cuenta:
+
+> No necesitaba imaginar a su compañera de motel.
+> [Frase 8665](#original-8665)
+
+Jack lleva la pistola a la universidad y camina de noche por el campus. Jack cuenta:
+
+> Pasé a preguntar si Orest había entrado ya en la jaula.
+> [Frase 8686](#original-8686)
+
+> Al pasar junto a una hilera de árboles, creí notar que alguien se colaba detrás de mí, quizá a treinta yardas.
+> [Frase 8725](#original-8725)
+
+> Conté cinco pasos, miré rápido a la izquierda y vi una figura que se movía en paralelo al sendero, entrando y saliendo de la sombra espesa.
+> [Frase 8734](#original-8734)
+
+> Cuando volví a mirar, ya no estaba.
+> [Frase 8736](#original-8736)
+
+> Eché a correr en zigzag, esperando ser un blanco difícil para alguien que me disparara por la espalda.
+> [Frase 8739](#original-8739)
+
+> Extendí el brazo izquierdo, me deslicé alrededor del árbol en un contramovimiento frenético y de cabeza, usando a la vez la mano derecha para sacar la Zumwalt del bolsillo de la chaqueta, de modo que ahora me enfrentaba a la persona de la que huía, protegido por un tronco, con el arma lista.
+> [Frase 8746](#original-8746)
+
+> Miré hacia la espesa niebla mientras mi atacante se acercaba con pequeños pasos sordos.
+> [Frase 8748](#original-8748)
+
+> «Cuando me di cuenta de que eras tú, me dije que eras justo la persona a la que quería ver.»
+> [Frase 8753](#original-8753)
+
+> «¿Te acuerdas de aquella vez que me preguntaste por un grupo de investigación secreto?»
+> [Frase 8755](#original-8755)
+
+Winnie Richards le habla de Willie Mink y de Dylar. Jack cuenta:
+
+> «Apuesto a que sé lo primero que hace.»
+> [Frase 8774](#original-8774)
+
+Jack vuelve a casa y Babette quiere salir a correr de noche. Jack cuenta:
+
+> Encontré a Babette sentada junto a la cama de Wilder, leyéndole un cuento.
+> [Frase 8810](#original-8810)
+
+> Pero me gustaría que no te la pusieras cuando lees cuentos a Wilder o trenzas el pelo de Steffie.
+> [Frase 8813](#original-8813)
+
+> «Nadie va a convencerme de que la persona a quien conozco como Babette quiere de verdad subir corriendo las escaleras del estadio a las diez de la noche.»
+> [Frase 8833](#original-8833)
+
+> Esperé a que me preguntara qué misteriosa misión haría que yo subiera al coche y condujera por la noche lluviosa, sin hora de regreso.
+> [Frase 8852](#original-8852)
+
+> Puedes llevarme, esperarme y traerme de vuelta.
+> [Frase 8854](#original-8854)
+
+> «Ponte la máscara de esquí», le dije.
+> [Frase 8866](#original-8866)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -5263,6 +5330,61 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 8614](#lugar-8614)
 > I thanked him for his honesty.
+
+---
+
+### Capítulo 38: La pistola Zumwalt
+
+> [Frase 8665](#lugar-8665)
+> I didn't have to imagine his motel companion.
+
+> [Frase 8686](#lugar-8686)
+> I stopped in to ask whether Orest had entered the cage yet.
+
+> [Frase 8725](#lugar-8725)
+> Passing a line of trees, I thought I sensed someone edge in behind me, maybe thirty yards away.
+
+> [Frase 8734](#lugar-8734)
+> I counted off five paces, looked quickly left, saw a figure moving parallel to the path, in and out of deep shadow.
+
+> [Frase 8736](#lugar-8736)
+> When I looked again, he wasn't there.
+
+> [Frase 8739](#lugar-8739)
+> I broke into a weaving run, hoping I'd make an elusive target for someone firing at my back.
+
+> [Frase 8746](#lugar-8746)
+> I stuck out my left arm, went skidding around the tree in a headlong cranking countermotion, simultaneously using my right hand to pluck the Zumwalt from my jacket pocket, so that I now faced the person I'd been fleeing, protected by a tree trunk, my gun at the ready.
+
+> [Frase 8748](#lugar-8748)
+> I looked into the heavy mist as my attacker approached in little thudding footfalls.
+
+> [Frase 8753](#lugar-8753)
+> When I realized it was you, I said to myself that's just the person I want to see."
+
+> [Frase 8755](#lugar-8755)
+> "Remember that time you asked me about a secret research group?
+
+> [Frase 8774](#lugar-8774)
+> "I'll bet I know the first thing he does.
+
+> [Frase 8810](#lugar-8810)
+> I found Babette sitting by Wilder's bed, reading him a story.
+
+> [Frase 8813](#lugar-8813)
+> But I wish you wouldn't wear it when you read bedtime stories to Wilder or braid Steffie's hair.
+
+> [Frase 8833](#lugar-8833)
+> "No one will convince me that the person I know as Babette actually wants to run up the stadium steps at ten o'clock at night."
+
+> [Frase 8852](#lugar-8852)
+> I waited for her to ask what mysterious mission would require me to get in the car and drive through the rain-streaked night, time of return unknown.
+
+> [Frase 8854](#lugar-8854)
+> You can drive me there, wait for me, drive me back.
+
+> [Frase 8866](#lugar-8866)
+> "Wear your ski mask," I told her.
 
 © 2026 Osmancito
 
