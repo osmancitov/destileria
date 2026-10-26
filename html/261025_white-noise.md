@@ -459,11 +459,11 @@ Tienen hasta mayo o junio. A Murray le piden un curso sobre el cine de choques d
 
 ### Capítulo 10: El Chicle y el Preso
 
-*Tommy Roy, Babette, Jack, Heinrich, Steffie y Denise.*
+*Tommy Roy, Heinrich, Babette, Jack, Denise y Steffie.*
 
 [![Heinrich, de calentador y con toalla al cuello, inclinado sobre un tablero de ajedrez con cartas; Jack lo mira desde la puerta, y al fondo Babette rompe huevos mientras dos niñas discuten.](../img/261025_white-noise_el-chicle-y-el-preso.jpg)](../img/261025_white-noise_el-chicle-y-el-preso.jpg)
 
-Jack relaciona la matrícula de catorce mil dólares con las posturas ensayadas de los estudiantes. Babette abre un paquete de chicles:
+Denise, de once años, mira a su madre Babette abrir un paquete de chicles:
 
 > Esperó un largo momento y luego dijo con calma: «Eso causa cáncer en animales de laboratorio, por si no lo sabías.»
 > [Frase 962](#original-962)
@@ -471,75 +471,80 @@ Jack relaciona la matrícula de catorce mil dólares con las posturas ensayadas 
 > «Querías que masticara chicle sin azúcar, Denise.
 > [Frase 963](#original-963)
 
-Denise dice que ahora el paquete advierte del daño. Babette le da a elegir: chicle con azúcar o dañino para las ratas. Steffie cuelga:
+Denise dice que entonces el paquete no avisaba. Babette replica:
 
-> «No mastiques en absoluto», dijo ella.
-> [Frase 974](#original-974)
+> Pusieron una advertencia, y me costaría creer que no la vieras.»
+> [Frase 966](#original-966)
 
-Steffie pregunta si no lo pensó. Babette rompe huevos:
+Babette dice que le da igual: chicle con azúcar o dañino para las ratas. Steffie, su hermana, cuelga. Babette rompe huevos:
 
 > Me lanzó una mirada que se preguntaba cómo la niña podía hablar por teléfono y escucharnos al mismo tiempo.
 > [Frase 977](#original-977)
 
-Babette dice que sin chicle volverá a fumar. Los Stover quieren venir y las tres los rechazan. Babette dice que el chicle no daña; Steffie y Denise, que solo mata ratas:
+> Quise decir que porque nos encuentra interesantes.
+> [Frase 978](#original-978)
+
+Babette dice que o mastica o fuma:
+
+> Si quieres que vuelva a fumar, quítame el chicle y mis Mentho-Lyptus.»
+> [Frase 980](#original-980)
+
+Steffie articula sin voz que los Stover quieren venir. Babette pregunta si los padres o los hijos. Steffie se encoge de hombros:
+
+> «No los queremos», dijo Babette.
+> [Frase 1004](#original-1004)
+
+Los Stover quedan fuera. Babette dice que el chicle no daña; las niñas, que solo mata ratas:
 
 > «Además, me gustaría creer que mastica solo dos pedazos al día, con lo que se le olvidan las cosas.»
 > [Frase 1024](#original-1024)
 
-Babette pregunta qué olvida, y Denise le dice que mastique. Jack besa a Wilder:
+Babette pregunta qué olvida, y Denise le dice que mastique. Jack, el padre, besa a Wilder, el hijo menor:
 
 > Luego lo puse sobre el mostrador y subí a buscar a Heinrich.
 > [Frase 1033](#original-1033)
 
-Heinrich juega ajedrez por correo con un preso. Dice que va bien:
+Heinrich, el hijo mayor, juega ajedrez por correo con un preso. Dice que va bien:
 
 > Creo que lo tengo acorralado.»
 > [Frase 1038](#original-1038)
 
-Jack quiere saber más de él:
-
-> «¿A quién mató, por ejemplo?
-> [Frase 1041](#original-1041)
-
-Heinrich dice que hoy importa la víctima:
+Jack quiere saber más. Heinrich dice que hoy importa la víctima:
 
 > ¿Qué sabes de él, aparte de que está en la cárcel de por vida por asesinato?
 > [Frase 1045](#original-1045)
 
-Jack pregunta cómo es el preso y si se hablan; solo se mandan notas:
+Jack pregunta si se hablan:
 
-> «¿A quién mató?»
-> [Frase 1049](#original-1049)
+> «A veces nos mandamos notas.»
+> [Frase 1048](#original-1048)
 
-Estaba bajo presión y crecía, dice Heinrich:
+El preso, Tommy Roy Foster, mató a cinco en Iron City y a un policía. Jack pregunta si eran desconocidos o si fue un ajuste de cuentas:
 
-> «Así que salió y le disparó a alguien.
-> [Frase 1053](#original-1053)
+> ¿Había estado oyendo voces?»
+> [Frase 1080](#original-1080)
 
-> ¿A quién le disparó?»
-> [Frase 1054](#original-1054)
+Heinrich dice que eran desconocidos. Jack insiste:
 
-Mató a cinco en Iron City y luego a un policía. Subió a un techo y mandó cintas a gente que quería:
+> «¿Había estado oyendo voces?»
+> [Frase 1082](#original-1082)
 
-> «‹No puedo controlarme, amigos.› ¿Las víctimas eran perfectos desconocidos?
-> [Frase 1077](#original-1077)
+Heinrich dice que por televisión. Jack pregunta si le hablaban solo a él:
 
-Eran extraños; la televisión le decía que pasara a la historia. Si empezara de nuevo, mataría a alguien famoso:
+> «Diciéndole que pasara a la historia.
+> [Frase 1086](#original-1086)
 
-> «Elegiría con más cuidado, mataría a una persona famosa, se haría notar, haría que perdurara.»
-> [Frase 1095](#original-1095)
-
-Tommy Roy Foster, el preso, sabe que no pasará a la historia; Jack, que él tampoco. Pero Jack tiene a Hitler y Foster nada:
+Foster sabe que no pasará a la historia; Jack, que él tampoco. Pero Jack tiene a Hitler (es profesor de estudios hitlerianos) y Foster nada. Jack le pregunta:
 
 > «Muy bien, te ha contado todas estas cosas en las cartas que manda.
 > [Frase 1101](#original-1101)
 
-Heinrich dice que se le cae el pelo y que su madre lo quiere en un ashram. Cómo saber qué quiere uno, pregunta, si todo son neuronas:
+Heinrich responde que se le cae el pelo. Jack lo mira y nombra a su madre:
 
-> ¿No es por eso que Tommy Roy mató a esa gente?»
-> [Frase 1123](#original-1123)
+> «Sé lo que dirías.
+> [Frase 1107](#original-1107)
 
-Por la mañana Jack consulta su saldo en un cajero y siente que el sistema, invisible, bendijo su vida.
+Heinrich dice que su madre lo quiere en un ashram y duda de lo que quiere él.
 
 ---
 
@@ -1246,11 +1251,20 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 963](#lugar-963)
 > "You wanted me to chew sugarless gum, Denise.
 
-> [Frase 974](#lugar-974)
-> "Don't chew at all," she said.
+> [Frase 966](#lugar-966)
+> They put a warning, which I would have a hard time believing you didn't see."
 
 > [Frase 977](#lugar-977)
 > She gave me a look that wondered how the girl could talk on the phone and listen to us at the same time.
+
+> [Frase 978](#lugar-978)
+> I wanted to say because she finds us interesting.
+
+> [Frase 980](#lugar-980)
+> If you want me to start smoking again, take away my chewing gum and my Mentho-Lyptus."
+
+> [Frase 1004](#lugar-1004)
+> "We don't want them," Babette said.
 
 > [Frase 1024](#lugar-1024)
 > "Plus I'd like to believe she chews only two pieces a day, the way she forgets things."
@@ -1261,32 +1275,26 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1038](#lugar-1038)
 > I think I got him cornered."
 
-> [Frase 1041](#lugar-1041)
-> "Like who did he kill?
-
 > [Frase 1045](#lugar-1045)
 > What do you know about him except that he's in jail for life, for murder?
 
-> [Frase 1049](#lugar-1049)
-> "Who did he kill?"
+> [Frase 1048](#lugar-1048)
+> "We send notes sometimes."
 
-> [Frase 1053](#lugar-1053)
-> "So he went out and shot someone.
+> [Frase 1080](#lugar-1080)
+> Had he been hearing voices?"
 
-> [Frase 1054](#lugar-1054)
-> Who did he shoot?"
+> [Frase 1082](#lugar-1082)
+> "Had he been hearing voices?"
 
-> [Frase 1077](#lugar-1077)
-> "'I can't help myself, folks.' Were the victims total strangers?
-
-> [Frase 1095](#lugar-1095)
-> "He would select more carefully, kill one famous person, get noticed, make it stick."
+> [Frase 1086](#lugar-1086)
+> "Telling him to go down in history.
 
 > [Frase 1101](#lugar-1101)
 > "All right, he's told you all these things in the letters he sends.
 
-> [Frase 1123](#lugar-1123)
-> Isn't that why Tommy Roy killed those people?"
+> [Frase 1107](#lugar-1107)
+> "I know what you would say.
 
 ---
 
