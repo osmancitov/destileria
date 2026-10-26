@@ -725,7 +725,7 @@ Jack dice que sí. Ella ya conoce su botiquín, ¿qué secretos le quedan?
 
 Jack dice que es una buena pregunta. Le pareció un nombre fuerte, con autoridad. Denise pregunta si lleva el nombre de alguien.
 
-> «No. Nació poco después de que yo empezara el departamento y supongo que quería reconocer mi buena fortuna.»
+> «No. Nació poco después de que yo empezara el departamento y supongo que quería reconocer mi buena fortuna.
 > [Frase 1574](#original-1574)
 
 Quería hacer algo alemán. Denise repite el nombre completo. Jack lo creyó impresionante, y aún lo cree.
@@ -810,22 +810,22 @@ Un rumor de atención recorre el aula. Murray sigue andando, con más cuidado, e
 
 Elvis y Gladys dormían en la misma cama hasta que él se acercó a la madurez física.
 
-> «Hablaban entre sí en lenguaje de bebé a todas horas.»
+> Hablaban entre sí en lenguaje de bebé a todas horas.»
 > [Frase 1806](#original-1806)
 
 Jack habla de Hitler y de su madre, Klara, que lo mimaba. Murray, de Gladys, que llevaba a Elvis al colegio cada día.
 
-> «Lo defendía en pequeñas riñas callejeras y arremetía contra cualquier chico que intentara intimidarlo.»
+> Lo defendía en pequeñas riñas callejeras y arremetía contra cualquier chico que intentara intimidarlo.»
 > [Frase 1812](#original-1812)
 
 Hitler fantaseaba, tocaba el piano y dibujaba, y Klara lo toleraba. Elvis se confiaba a Gladys.
 
-> «Llevaba a sus novias para que la conocieran.»
+> Llevaba a sus novias para que la conocieran.»
 > [Frase 1820](#original-1820)
 
 Un estudiante murmura «Mutter-söhnchen», hijo de mamá, y Jack se pone a pasear como Murray. Elvis se desmorona cuando Gladys muere y la acaricia en el ataúd.
 
-> «Le habló en lenguaje de bebé hasta que estuvo bajo tierra.»
+> Le habló en lenguaje de bebé hasta que estuvo bajo tierra.»
 > [Frase 1837](#original-1837)
 
 Hitler llora en la tumba de Klara. Murray se va a una esquina del aula y se sienta en el suelo. Jack imagina a Hitler mirando atrás desde el búnker:
