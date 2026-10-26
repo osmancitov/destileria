@@ -625,17 +625,17 @@ Al día siguiente, a mediodía, la policía rastrea el río.
 
 [![Dentro de una casa rodante, la vidente Adele T. en trance ante unas fotografías, mientras el jefe de policía espera en la puerta con la gorra en las manos.](../img/261025_white-noise_la-vidente-de-la-policia.jpg)](../img/261025_white-noise_la-vidente-de-la-policia.jpg)
 
-En Blacksmith, el pueblo, Babette llama a Jack a su oficina para hablar de los Treadwell, un anciano y su hermana desaparecidos, y de Heinrich, el hijo de Jack:
+Babette llama a Jack a su despacho de Centenary Hall. Jack cuenta:
 
-> Dijo que Heinrich había estado en el río, con su gorra de camuflaje y una Instamatic, para ver cómo dragaban en busca de los cuerpos, y que mientras estaba allí llegó la noticia de que habían encontrado a los Treadwell vivos pero estremecidos en un quiosco de galletas abandonado del Mid-Village Mall, un enorme centro comercial junto a la autopista.
+> Dijo que Heinrich había estado abajo, en el río, con su gorra de camuflaje y una Instamatic, para ver cómo dragaban en busca de los cuerpos, y que mientras estaba allí llegó la noticia de que los Treadwell habían sido encontrados vivos pero conmocionados en una cabaña de galletas abandonada del centro comercial Mid-Village, un enorme centro comercial junto a la autopista.
 > [Frase 1488](#original-1488)
 
-Los Treadwell vagaron dos días por el centro comercial y pasaron otros dos en el quiosco. Antes, la policía había consultado a una vidente, Adele T., que la guió hacia tierra seca. Nadie sabe cómo llegaron allí:
+Los Treadwell pasaron cuatro días en el centro comercial sin pedir ayuda. Jack cuenta:
 
-> Posiblemente su sobrina nieta los había dejado allí en su coche y después se había olvidado de ir a buscarlos.
+> Posiblemente su sobrina nieta los había dejado en su coche y luego se había olvidado de ir a buscarlos.
 > [Frase 1496](#original-1496)
 
-Babette dice que no pudieron localizar a la sobrina nieta. El misterio americano se profundiza.
+El día antes del hallazgo, según el periódico local, la policía consultó a una vidente, Adele T. Ella les dijo que olvidaran el río y buscaran tierra seca; hallaron una bolsa con un arma y heroína.
 
 ---
 
