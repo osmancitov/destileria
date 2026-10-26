@@ -2472,6 +2472,45 @@ Esa semana un policía dice que vio caer un cuerpo de un OVNI, y hay avistamient
 
 ---
 
+### Capítulo 32: El Incendio
+
+*Jack, Murray, Heinrich y Howard.*
+
+[![De noche, un manicomio antiguo arde con llamas que salen por las buhardillas, mientras padres e hijos miran desde la acera frente a los camiones de bomberos.](../img/261025_white-noise_el-incendio.jpg)](../img/261025_white-noise_el-incendio.jpg)
+
+Jack camina por el campus con Murray y hablan de Howard Dunlop, el profesor de alemán. Jack cuenta:
+
+> Murray y yo cruzábamos el campus a nuestra manera europea, a un paso serenamente reflexivo, con la cabeza gacha mientras conversábamos.
+> [Frase 6626](#original-6626)
+
+> Otras veces caminábamos algo separados, con las manos de Murray cruzadas a la espalda y las de Gladney dobladas como las de un monje sobre el abdomen, un toque algo preocupado.
+> [Frase 6628](#original-6628)
+
+Murray pregunta si Jack lo llama Howard, y Jack dice que no a la cara. Jack pregunta:
+
+> ¿Lo ves siquiera?
+> [Frase 6637](#original-6637)
+
+Murray y Jack enumeran lo que inquieta de Howard: las manos blandas, la saliva seca, el modo de mirar por encima del hombro. Murray empieza a asentir. Jack cuenta:
+
+> Yo le miraba la cara mientras caminábamos.
+> [Frase 6674](#original-6674)
+
+> Yo caminaba con él paso a paso, agarrándole el codo, mirándole la cara, esperando que hablara, sin interesarme en que me había sacado por completo de mi camino, y él seguía asintiendo cuando nos acercamos a la entrada de Wilmot Grange, un edificio restaurado del siglo XIX en el borde del campus.
+> [Frase 6676](#original-6676)
+
+Jack insiste en preguntar qué es lo que tiene Howard. Jack cuenta:
+
+> No fue hasta cuatro días después que me llamó a casa, a la una de la madrugada, para susurrarme con amabilidad al oído: «Parece un hombre que encuentra eróticos los cadáveres.»
+> [Frase 6679](#original-6679)
+
+Jack y Heinrich van en el auto a ver arder el manicomio, y una mujer con camisón en llamas cruza el césped. Jack cuenta:
+
+> Era de pelo blanco y menuda, bordeada de aire ardiente, y vimos que estaba loca, tan perdida entre sueños y furias que el fuego alrededor de su cabeza parecía casi incidental.
+> [Frase 6717](#original-6717)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -4055,6 +4094,31 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 6564](#lugar-6564)
 > We looked at the people leaving the restaurant, men, women and children carrying cartons of food, leaning into the wind.
+
+---
+
+### Capítulo 32: El Incendio
+
+> [Frase 6626](#lugar-6626)
+> Murray and I walked across campus in our European manner, a serenely reflective pace, heads lowered as we conversed.
+
+> [Frase 6628](#lugar-6628)
+> Other times we walked slightly apart, Murray's hands clasped behind his back, Gladney's folded monkishly at the abdomen, a somewhat worried touch.
+
+> [Frase 6637](#lugar-6637)
+> Do you see him at all?
+
+> [Frase 6674](#lugar-6674)
+> I watched his face as we walked.
+
+> [Frase 6676](#lugar-6676)
+> I walked with him step for step, clutching his elbow, watching his face, waiting for him to speak, not interested in the fact that he'd taken me completely out of my way, and he was still nodding as we approached the entrance to Wilmot Grange, a restored nineteenth-century building at the edge of the campus.
+
+> [Frase 6679](#lugar-6679)
+> It wasn't until four days later that he called me at home, at one in the morning, to whisper helpfully in my ear, "He looks like a man who finds dead bodies erotic."
+
+> [Frase 6717](#lugar-6717)
+> She was white-haired and slight, fringed in burning air, and we could see she was mad, so lost to dreams and furies that the fire around her head seemed almost incidental.
 
 © 2026 Osmancito
 
