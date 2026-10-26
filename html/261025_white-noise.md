@@ -211,55 +211,66 @@ Murray intenta desarrollar una vulnerabilidad que las mujeres encuentren atracti
 
 [![Óleo impresionista, al estilo de Eugène Boudin: desde el interior de una camioneta, un hombre barbudo con gafas oscuras conduce y a su lado un muchacho con gorra de camuflaje mira por el parabrisas mojado a una mujer de impermeable amarillo que detiene el tráfico para que crucen unos niños frente a una escuela de ladrillo.](../img/261025_white-noise_llueve-o-no.jpg)](../img/261025_white-noise_llueve-o-no.jpg)
 
-A Heinrich, de catorce años, le retrocede el nacimiento del pelo. Jack, su padre y el narrador, se pregunta si fue culpa suya:
+A Heinrich, de catorce años, le retrocede el pelo. Jack se pregunta si lo crió cerca de un vertedero químico. Jack cuenta:
 
-> ¿Lo he criado, sin saberlo, en las cercanías de un vertedero químico, en el camino de corrientes de aire que arrastran desechos industriales capaces de producir degeneración del cuero cabelludo, atardeceres gloriosos?
+> ¿Lo he criado, sin saberlo, cerca de un vertedero químico, en la trayectoria de corrientes de aire que llevan desechos industriales capaces de producir degeneración del cuero cabelludo, gloriosos atardeceres?
 > [Frase 433](#original-433)
 
-Heinrich dice que lloverá esta noche; Jack responde que ya llueve. Jack lo lleva a la escuela:
+Heinrich dice que lloverá esta noche. Jack dice que ya llueve. Jack cuenta:
 
-> Lo llevé en auto a la escuela en su primer día de regreso tras un dolor de garganta y fiebre.
+> Lo llevé a la escuela en su primer día de regreso después de un dolor de garganta y fiebre.
 > [Frase 442](#original-442)
 
-Jack le pide que mire el parabrisas: ¿es lluvia o no? Heinrich contesta que solo repite lo que dijo la radio:
+Una mujer con impermeable amarillo detiene el tráfico para que crucen unos niños. Jack cuenta:
 
-> «Solo te digo lo que dijeron.»
+> «Mira el parabrisas», dije.
+> [Frase 445](#original-445)
+
+> «Solo te cuento lo que dijeron.»
 > [Frase 447](#original-447)
 
-Heinrich dice que los sentidos se equivocan. Jack imagina a un hombre con un arma que quiere saber si llueve. Heinrich pregunta qué verdad quiere ese hombre:
+Heinrich dice que los sentidos fallan y que el tiempo está solo en la mente. Jack imagina a un hombre armado que exige saber si llueve. Heinrich dice:
 
-> Quizá si esa gente pudiera vernos por un telescopio podríamos parecer de dos pies y dos pulgadas de alto, y podría estar lloviendo ayer en vez de hoy.»
+> «Quizá si esa gente pudiera vernos con un telescopio parezcamos medir dos pies y dos pulgadas de alto, y podría estar lloviendo ayer en vez de hoy.»
 > [Frase 475](#original-475)
 
-Heinrich dice que «ahora» deja de serlo al decirlo. Jack replica:
+Jack le pone nombre al hombre armado. Heinrich duda de que exista el ahora, y Jack le pregunta si hay lluvia aquí y ahora. Heinrich dice:
 
-> «Si quieres hablar de esta localidad precisa mientras estás en un vehículo que obviamente se mueve, entonces creo que ese es el problema de esta discusión.»
+> «Si quieres hablar de este lugar preciso mientras vas en un vehículo que obviamente se mueve, entonces creo que ese es el problema de esta discusión.»
 > [Frase 495](#original-495)
 
-Jack dice que o llueve o no llueve. Heinrich pide una prueba de que eso es lluvia y pregunta:
+> «Solo dame una respuesta, ¿de acuerdo, Heinrich?»
+> [Frase 496](#original-496)
 
-> ¿Cómo sé que lo que tú llamas lluvia es de verdad lluvia?
+Jack insiste en que o llueve o no. Heinrich pregunta cómo saber que no es ácido sulfúrico. Heinrich dice:
+
+> ¿Cómo sé yo que lo que llamas lluvia es realmente lluvia?
 > [Frase 512](#original-512)
 
-Heinrich dice que no está mojado y pregunta si Jack lo está. Jack insiste en la pregunta y al final dice:
+Jack define la lluvia como lo que cae del cielo y moja. Heinrich pregunta si Jack está mojado. Jack cuenta:
 
 > «De primera», le dije.
 > [Frase 520](#original-520)
 
-Heinrich le dice que sea sarcástico. Jack lo mira partir:
+Jack celebra la victoria de la incertidumbre. Heinrich le dice que sea sarcástico. Heinrich dice:
 
-> Lo vi caminar bajo el aguacero hasta la entrada de la escuela.
+> «Adelante, sé sarcástico, no me importa.»
+> [Frase 525](#original-525)
+
+La madre de Heinrich vive en un ashram. Jack cuenta:
+
+> Vi cómo caminaba bajo el aguacero hasta la entrada de la escuela.
 > [Frase 530](#original-530)
 
-Heinrich camina despacio y se quita la gorra de camuflaje antes de llegar a la puerta. Jack siente:
+Heinrich se quita la gorra. Jack cuenta:
 
-> En momentos así descubro que lo amo con una desesperación animal, una necesidad de ponerlo bajo mi abrigo y estrujarlo contra mi pecho, mantenerlo ahí, protegerlo.
+> En esos momentos descubro que lo amo con una desesperación animal, la necesidad de llevarlo bajo mi abrigo y estrujarlo contra mi pecho, mantenerlo allí, protegerlo.
 > [Frase 532](#original-532)
-
-Heinrich parece atraer un peligro; Babette le hornea sus galletas favoritas. Jack y ella lo miran:
 
 > Lo vemos en su escritorio, una mesa sin pintar cubierta de libros y revistas.
 > [Frase 536](#original-536)
+
+Babette hornea sus galletas favoritas. Heinrich juega ajedrez por correo con un asesino. Jack da su clase de Nazismo Avanzado y habla de las tramas, que tienden hacia la muerte.
 
 ---
 
@@ -3439,6 +3450,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 442](#lugar-442)
 > I drove him to school on his first day back after a sore throat and fever.
 
+> [Frase 445](#lugar-445)
+> "Look at the windshield," I said.
+
 > [Frase 447](#lugar-447)
 > "I'm only telling you what they said."
 
@@ -3448,11 +3462,17 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 495](#lugar-495)
 > "If you want to talk about this precise locality while you're in a vehicle that's obviously moving, then I think that's the trouble with this discussion."
 
+> [Frase 496](#lugar-496)
+> "Just give me an answer, okay, Heinrich?"
+
 > [Frase 512](#lugar-512)
 > How do I know that what you call rain is really rain?
 
 > [Frase 520](#lugar-520)
 > "First-rate," I told him.
+
+> [Frase 525](#lugar-525)
+> "Go ahead, be sarcastic, I don't care."
 
 > [Frase 530](#lugar-530)
 > I watched him walk through the downpour to the school entrance.
