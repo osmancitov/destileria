@@ -3291,6 +3291,43 @@ Jack lleva a Mink a una clínica de monjas alemanas. Jack cuenta:
 
 ---
 
+### Capítulo 40: El triciclo y el paso elevado
+
+*Wilder cruza la autopista, el cielo al atardecer y el supermercado reordenado.*
+
+[![Un niño pequeño en un triciclo sobre un terraplén junto a una autopista al atardecer, visto desde lejos, con un paso elevado al fondo y un cielo dorado.](../img/261025_white-noise_triciclo-paso-elevado.jpg)](../img/261025_white-noise_triciclo-paso-elevado.jpg)
+
+Jack cuenta lo que vieron dos ancianas desde un porche mientras Wilder cruza la autopista en su triciclo. Jack cuenta:
+
+> Las mujeres solo podían mirar, con la boca vacía, cada una con un brazo en el aire, un ruego para que la escena se invirtiera, para que el niño pedaleara hacia atrás en su juguete desteñido, azul y amarillo, como un personaje de dibujos animados en la tele de la mañana.
+> [Frase 9530](#original-9530)
+
+> Tuvo que reducir la velocidad para subir al camellón elevado, encabritándose para que la rueda delantera pasara por encima, extremadamente deliberado en sus movimientos, siguiendo un esquema numerado, y los coches pasaban aullando, con las bocinas sonando tarde, con los ojos de los conductores buscando en el retrovisor.
+> [Frase 9540](#original-9540)
+
+Jack cuenta cómo las mujeres ven a Wilder llegar al camellón y le gritan que se quede. Jack cuenta:
+
+> Las mujeres lo vieron recuperar un asiento firme en el sillín.
+> [Frase 9542](#original-9542)
+
+> Quédate, gritaron.
+> [Frase 9543](#original-9543)
+
+Jack cuenta cómo Wilder cae al arroyo y un automovilista lo rescata. Jack cuenta:
+
+> Y él parecía, sentado en el arroyo, aullando con fuerza, haberlas oído por primera vez, mirando hacia arriba por encima del montículo de tierra y hacia los árboles al otro lado de la autopista.
+> [Frase 9563](#original-9563)
+
+> Gritaban y agitaban los brazos, se acercaban a las primeras fases de un terror incontrolable cuando un automovilista, como se llama a esas personas, se detuvo alerta, salió del coche, bajó resbalando por el terraplén y levantó al niño de las turbias aguas poco profundas, sosteniéndolo en alto para que lo vieran las ancianas, que clamaban.
+> [Frase 9565](#original-9565)
+
+Jack cuenta sus tardes en el paso elevado con Babette y Wilder. Jack cuenta:
+
+> Babette, Wilder y yo. Llevamos un termo de té helado, aparcamos el coche, miramos cómo se pone el sol.
+> [Frase 9567](#original-9567)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -5545,6 +5582,31 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 9311](#lugar-9311)
 > We followed the old nun to the trauma room.
+
+---
+
+### Capítulo 40: El triciclo y el paso elevado
+
+> [Frase 9530](#lugar-9530)
+> The women could only look, empty-mouthed, each with an arm in the air, a plea for the scene to reverse, the boy to pedal backwards on his faded blue and yellow toy like a cartoon figure on morning TV.
+
+> [Frase 9540](#lugar-9540)
+> He had to slow down to get onto the raised median, rearing up to let the front wheel edge over, extremely deliberate in his movements, following some numbered scheme, and the cars went wailing past, horns blowing belatedly, drivers' eyes searching the rearview mirror.
+
+> [Frase 9542](#lugar-9542)
+> The women watched him regain a firm placement on the seat.
+
+> [Frase 9543](#lugar-9543)
+> Stay, they called.
+
+> [Frase 9563](#lugar-9563)
+> And he seemed, on his seat in the creek, profoundly howling, to have heard them for the first time, looking up over the earthen mound and into the trees across the expressway.
+
+> [Frase 9565](#lugar-9565)
+> They called and waved, were approaching the early phases of uncontrollable terror when a passing motorist, as such people are called, alertly pulled over, got out of the car, skidded down the embankment and lifted the boy from the murky shallows, holding him aloft for the clamoring elders to see.
+
+> [Frase 9567](#lugar-9567)
+> Babette, Wilder and I. We take a thermos of iced tea, park the car, watch the setting sun.
 
 © 2026 Osmancito
 
