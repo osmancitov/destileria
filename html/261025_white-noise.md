@@ -355,12 +355,12 @@ Heinrich le dice a Jack que busque abajo. Jack sube álbumes de fotos de familia
 
 [![Óleo impresionista, al estilo de Eugène Boudin: en un cuarto atestado, junto a una tabla de planchar y un radiador, un hombre delgado en camisa habla con gesto tenso a otro, muy corpulento, con toga negra y gafas oscuras, que toma notas en un cuaderno; a un lado, un catre con manta militar.](../img/261025_white-noise_lecciones-de-aleman.jpg)](../img/261025_white-noise_lecciones-de-aleman.jpg)
 
-En octubre empieza el esfuerzo de Jack por aprender alemán, casi un curso entero. Es el mayor especialista en Hitler de Norteamérica y no sabe alemán, que su universidad exige a quien estudia a Hitler. Por su fama, las clases serán secretas:
+En octubre empieza el esfuerzo de Jack por aprender alemán, casi un curso entero. Es el mayor especialista en Hitler de Norteamérica y no sabe alemán, requisito de su universidad para estudiar a Hitler. Por su fama, las clases serán secretas:
 
 > Me puse en contacto con un hombre sin relación con la universidad, alguien de quien me había hablado Murray Jay Siskind.
 > [Frase 706](#original-706)
 
-Murray, otro profesor, vive en una pensión de Middlebrook, y ese hombre también. Tiene unos cincuenta años, el pelo ralo y ropa interior térmica bajo la camisa. Se llama Howard Dunlop:
+Murray, otro profesor, vive en una pensión de Middlebrook, igual que ese hombre. Tiene unos cincuenta años, el pelo ralo y ropa interior térmica bajo la camisa. Se llama Howard Dunlop:
 
 > Dijo que había sido quiropráctico, pero no ofreció ninguna razón por la que ya no ejerciera, ni dijo cuándo había aprendido alemán, ni por qué, y algo en sus modales me impidió preguntar.
 > [Frase 712](#original-712)
