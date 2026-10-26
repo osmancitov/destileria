@@ -2374,6 +2374,104 @@ Winnie se da vuelta, sonrojada. Jack cuenta:
 
 ---
 
+### Capítulo 31: Comer en el Auto
+
+*Jack, Babette, Denise, Steffie, Heinrich y Wilder.*
+
+[![Dentro de un auto aparcado de noche bajo luces de neón, una familia con abrigos y sombreros come pollo de cartones en silencio, todos mirando hacia delante, mientras afuera pasan otros autos.](../img/261025_white-noise_comer-en-el-auto.jpg)](../img/261025_white-noise_comer-en-el-auto.jpg)
+
+Nadie quiere cocinar esa noche. Jack cuenta:
+
+> Todos subimos al auto y salimos a la zona comercial, en la tierra de nadie más allá del límite del pueblo.
+> [Frase 6446](#original-6446)
+
+Jack se detiene en un local de pollo y brownies. Jack cuenta:
+
+> Decidimos comer en el auto.
+> [Frase 6449](#original-6449)
+
+> Queríamos comer, no mirar a otras personas.
+> [Frase 6451](#original-6451)
+
+> Queríamos llenarnos el estómago y acabar con eso.
+> [Frase 6452](#original-6452)
+
+> No necesitábamos luz ni espacio.
+> [Frase 6453](#original-6453)
+
+> Desde luego no necesitábamos mirarnos por encima de una mesa mientras comíamos, tejiendo una red sutil y compleja de señales y códigos.
+> [Frase 6454](#original-6454)
+
+> Nos conformábamos con comer mirando en la misma dirección, viendo solo unos centímetros más allá de nuestras manos.
+> [Frase 6455](#original-6455)
+
+Denise trae la comida al auto y reparte servilletas. Jack cuenta:
+
+> Nos acomodamos para comer.
+> [Frase 6458](#original-6458)
+
+> Comimos completamente vestidos, con sombreros y abrigos gruesos, sin hablar, desgarrando las presas de pollo con las manos y los dientes.
+> [Frase 6459](#original-6459)
+
+Steffie le da la piel de una pechuga a Heinrich, Babette chupa un hueso y Jack aparta la imagen del señor Gray en el motel. Jack cuenta:
+
+> Mandamos a Denise por más comida y la esperamos en silencio.
+> [Frase 6472](#original-6472)
+
+> Luego volvimos a empezar, medio aturdidos por las dimensiones de nuestro placer.
+> [Frase 6473](#original-6473)
+
+Steffie pregunta cómo flotan los astronautas y Denise dice que son más ligeros que el aire. Jack cuenta:
+
+> Todos dejamos de comer.
+> [Frase 6477](#original-6477)
+
+Heinrich dice que no hay aire y Babette pregunta cómo puede hacer frío si no hay aire. Jack cuenta:
+
+> Esperamos para saber si el diálogo había terminado.
+> [Frase 6493](#original-6493)
+
+> Luego nos pusimos a comer de nuevo.
+> [Frase 6494](#original-6494)
+
+> Intercambiamos en silencio las partes que no queríamos y metimos las manos en los cartones de papas fritas onduladas.
+> [Frase 6495](#original-6495)
+
+> Intercambiamos partes y roímos.
+> [Frase 6499](#original-6499)
+
+Steffie pregunta cuánto frío hace en el espacio. Jack cuenta:
+
+> Todos esperamos una vez más.
+> [Frase 6501](#original-6501)
+
+Heinrich, Babette y Denise discuten del sol, de las estrellas gigantes y de los psíquicos rusos. Jack cuenta:
+
+> Volvimos a comer durante el tiempo que se tarda en morder y masticar un solo bocado de comida.
+> [Frase 6534](#original-6534)
+
+Esa semana un policía dice que vio caer un cuerpo de un OVNI, y hay avistamientos por toda la zona. Jack cuenta:
+
+> En el estacionamiento de la comida rápida nos comimos los brownies.
+> [Frase 6557](#original-6557)
+
+> Inhalamos las migas, nos lamimos los dedos.
+> [Frase 6559](#original-6559)
+
+> Al acercarnos al final, el alcance físico de nuestra conciencia empezó a expandirse.
+> [Frase 6560](#original-6560)
+
+> Miramos más allá de nuestras manos.
+> [Frase 6562](#original-6562)
+
+> Miramos por las ventanas, hacia los autos y las luces.
+> [Frase 6563](#original-6563)
+
+> Miramos a la gente que salía del restaurante, hombres, mujeres y niños que llevaban cartones de comida y se inclinaban contra el viento.
+> [Frase 6564](#original-6564)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -3881,6 +3979,82 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 6431](#lugar-6431)
 > We took a last look at the sky and started walking down the hill.
+
+---
+
+### Capítulo 31: Comer en el Auto
+
+> [Frase 6446](#lugar-6446)
+> We all got in the car and went out to the commercial strip in the no man's land beyond the town boundary.
+
+> [Frase 6449](#lugar-6449)
+> We decided to eat in the car.
+
+> [Frase 6451](#lugar-6451)
+> We wanted to eat, not look around at other people.
+
+> [Frase 6452](#lugar-6452)
+> We wanted to fill our stomachs and get it over with.
+
+> [Frase 6453](#lugar-6453)
+> We didn't need light and space.
+
+> [Frase 6454](#lugar-6454)
+> We certainly didn't need to face each other across a table as we ate, building a subtle and complex cross-network of signals and codes.
+
+> [Frase 6455](#lugar-6455)
+> We were content to eat facing in the same direction, looking only inches past our hands.
+
+> [Frase 6458](#lugar-6458)
+> We settled in to eat.
+
+> [Frase 6459](#lugar-6459)
+> We ate fully dressed, in hats and heavy coats, without speaking, ripping into chicken parts with our hands and teeth.
+
+> [Frase 6472](#lugar-6472)
+> We sent Denise to get more food, waiting for her in silence.
+
+> [Frase 6473](#lugar-6473)
+> Then we started in again, half stunned by the dimensions of our pleasure.
+
+> [Frase 6477](#lugar-6477)
+> We all stopped eating.
+
+> [Frase 6493](#lugar-6493)
+> We waited to learn if the dialogue was over.
+
+> [Frase 6494](#lugar-6494)
+> Then we set to eating again.
+
+> [Frase 6495](#lugar-6495)
+> We traded unwanted parts in silence, stuck our hands in cartons of rippled fries.
+
+> [Frase 6499](#lugar-6499)
+> We traded parts and gnawed.
+
+> [Frase 6501](#lugar-6501)
+> We all waited once more.
+
+> [Frase 6534](#lugar-6534)
+> We went back to eating for as long as it took to bite off and chew a single mouthful of food.
+
+> [Frase 6557](#lugar-6557)
+> In the fast food parking lot we ate our brownies.
+
+> [Frase 6559](#lugar-6559)
+> We inhaled the crumbs, we licked the fingers.
+
+> [Frase 6560](#lugar-6560)
+> As we got close to finishing, the physical extent of our awareness began to expand.
+
+> [Frase 6562](#lugar-6562)
+> We looked past our hands.
+
+> [Frase 6563](#lugar-6563)
+> We looked through the windows, at the cars and lights.
+
+> [Frase 6564](#lugar-6564)
+> We looked at the people leaving the restaurant, men, women and children carrying cartons of food, leaning into the wind.
 
 © 2026 Osmancito
 
