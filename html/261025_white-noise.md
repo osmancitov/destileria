@@ -1725,61 +1725,68 @@ Jack solo dice que los datos aterradores ya son una industria. Heinrich contesta
 
 [![Un hombre y una adolescente de rodillas junto a un radiador abierto en un baño de noche; bajo la tapa, un frasco ámbar pegado con cinta.](../img/261025_white-noise_el-frasco-de-dylar.jpg)](../img/261025_white-noise_el-frasco-de-dylar.jpg)
 
-Jack encuentra un frasco ámbar de plástico, pegado con cinta bajo la tapa del radiador del baño. La cinta deja leer la palabra Dylar. Jack cuenta:
+Jack encuentra un frasco ámbar de Dylar pegado con cinta bajo la tapa del radiador del baño. Va a buscar a Denise y miran juntos el frasco. Jack cuenta:
 
-> Fue la noche siguiente cuando descubrí el Dylar.
-> [Frase 4667](#original-4667)
+> Ninguno de los dos tocó nada, tan grande fue nuestra sorpresa al encontrar la medicación escondida de esa manera.
+> [Frase 4675](#original-4675)
 
-> Lo encontré cuando el radiador empezó a golpear y quité la tapa para estudiar la válvula con seriedad y método, tratando de disimular ante mí mismo la impotencia que sentía.
-> [Frase 4670](#original-4670)
+> Contemplamos las pastillitas con solemne preocupación.
+> [Frase 4676](#original-4676)
 
-Jack busca a Denise, que está en la cama viendo televisión. Miran el frasco juntos, sin tocarlo, y vuelven a su cuarto. Jack cuenta:
+Denise ya fue a tres farmacias y pidió que lo buscaran, pero el Dylar no figura en ninguna lista. Jack dice que no está registrado. Denise dice:
 
-> Denise se sentó en la cama, mirando más allá de mí, más allá del televisor, más allá de los pósters y los recuerdos.
-> [Frase 4680](#original-4680)
-
-Baba es el apodo de Babette. Denise, con el ceño fruncido, dice:
-
-> «No le decimos nada a Baba.»
-> [Frase 4682](#original-4682)
-
-Denise dice que Babette solo diría que no recuerda por qué lo puso ahí. Jack pregunta qué es el Dylar y dice:
-
-> «Un farmacéutico puede decirnos para qué sirve eso.»
-> [Frase 4688](#original-4688)
-
-Denise ya fue a tres farmacias y nadie conocía el Dylar: no figura en ninguna lista. Jack dice:
-
-> «Tendremos que llamar a su médico.»
+> «Tendremos que llamar a su médico».
 > [Frase 4704](#original-4704)
 
-Jack propone llamar al médico a su casa. Denise quiere que lo despierte. Dice:
+Jack dice que llamará al médico ahora, a su casa. Denise dice:
 
-> «Engáñalo para que nos diga lo que queremos saber.»
+> «Sorpréndelo», dijo ella, con cierta crueldad.
+> [Frase 4707](#original-4707)
+
+Jack dice:
+
+> «Si lo llamo a su casa, no lo filtrarán un servicio de contestador, una recepcionista, una enfermera, el joven y bienhumorado médico que comparte su suite de consultorios y cuyo papel en la vida es tratar los rechazos del médico establecido».
+> [Frase 4708](#original-4708)
+
+Jack dice que, pasado del médico mayor al joven, uno y su enfermedad son de segunda. Denise dice:
+
+> «Llámalo a su casa», dijo ella.
+> [Frase 4710](#original-4710)
+
+> «Engáñalo para que nos diga lo que queremos saber».
 > [Frase 4712](#original-4712)
 
-El único teléfono está en la cocina. Babette sigue en el cuarto planchando blusas. Jack marca el número del médico, que se llama Hookstratten. Jack cuenta:
+Jack baja a la cocina, donde está el único teléfono, y marca el número de Hookstratten. Jack cuenta:
 
-> Le dije quién era y que estaba preocupado por Babette.
-> [Frase 4722](#original-4722)
+> Denise había dicho que lo engañara, pero la única manera de hacerlo era dentro de un contexto de honestidad y franqueza.
+> [Frase 4719](#original-4719)
 
-> Dije que estaba bastante seguro de que el medicamento que él le había recetado era lo que causaba el problema.
+Jack llama a Hookstratten a su casa y le dice que le preocupa Babette. Jack cuenta:
+
+> Dije que estaba bastante seguro de que era la medicación que él le había recetado la que causaba el problema.
 > [Frase 4724](#original-4724)
 
-Hookstratten responde con ironía: nunca vio el Dylar ni se lo recetó a Babette. Jack cuenta:
+Hookstratten pregunta qué problema; Jack dice que son lapsos de memoria. Hookstratten dice:
+
+> «Usted le diría: 'Pérdida de memoria'. ¿Por qué no decirme que tiene gases?»
+> [Frase 4736](#original-4736)
+
+Jack dice que el Dylar es una pastilla pequeña y blanca en un frasco ámbar. Hookstratten dice:
+
+> «Usted describiría una pastilla como pequeña y blanca, y esperaría que un médico respondiera, en su casa, después de las diez de la noche».
+> [Frase 4745](#original-4745)
+
+Hookstratten dice que nunca vio el Dylar ni se lo recetó a la esposa de Jack. Jack cuenta:
 
 > Le di las gracias, colgué y llamé a mi propio médico a su casa.
 > [Frase 4754](#original-4754)
 
-El médico de Jack dice que Dylar debe de ser una isla del golfo Pérsico. Jack le dice a Denise que hará analizar una tableta en el departamento de química. Jack cuenta:
+El médico de Jack cree que Dylar es una isla del golfo Pérsico. Jack sube y le dice a Denise que no se preocupe; luego pasa por el cuarto de Heinrich, que hace dominadas en el clóset. Heinrich dice que le preocupa su cabello. Jack dice:
 
-> Esperé a que me dijera que ya lo había hecho.
-> [Frase 4759](#original-4759)
+> «Pregúntale a Baba si no me crees».
+> [Frase 4778](#original-4778)
 
-> Pero ella solo asintió con gravedad y yo seguí por el pasillo, deteniéndome en el cuarto de Heinrich para darle las buenas noches.
-> [Frase 4760](#original-4760)
-
-Heinrich hace dominadas en el clóset con una barra de Mercator, un estudiante mayor que se entrena para sentarse en una jaula con serpientes venenosas. Más tarde Jack mira dormir a Steffie y a Wilder, y vuelve a la cama; Babette mira por la ventana.
+Heinrich cuenta que ya fue a una dermatóloga y que ella le dijo que tiene una zona donante densa.
 
 ---
 
@@ -4455,41 +4462,44 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 24: El Frasco de Dylar
 
-> [Frase 4667](#lugar-4667)
-> It was the following night that I discovered the Dylar.
+> [Frase 4675](#lugar-4675)
+> Neither of us touched a thing, so great was our surprise at finding the medication concealed in this manner.
 
-> [Frase 4670](#lugar-4670)
-> I found it when the radiator began knocking and I removed the cover to study the valve in an earnest and methodical way, trying to disguise to myself the helplessness I felt.
-
-> [Frase 4680](#lugar-4680)
-> Denise sat on the bed, looking past me, past the TV set, past the posters and souvenirs.
-
-> [Frase 4682](#lugar-4682)
-> "We say nothing to Baba."
-
-> [Frase 4688](#lugar-4688)
-> A pharmacist can tell us what the stuff is for.
+> [Frase 4676](#lugar-4676)
+> We regarded the little tablets with solemn concern.
 
 > [Frase 4704](#lugar-4704)
 > "We'll have to call her doctor."
 
+> [Frase 4707](#lugar-4707)
+> "Surprise him," she said, with a certain ruthlessness.
+
+> [Frase 4708](#lugar-4708)
+> "If I get him at home, he won't be screened by an answering service, a receptionist, a nurse, the young and good-humored doctor who shares his suite of offices and whose role in life is to treat the established doctor's rejects.
+
+> [Frase 4710](#lugar-4710)
+> "Call him at home," she said.
+
 > [Frase 4712](#lugar-4712)
 > Trick him into telling us what we want to know."
 
-> [Frase 4722](#lugar-4722)
-> I told him who I was and said I was concerned about Babette.
+> [Frase 4719](#lugar-4719)
+> Denise had said to trick him but the only way to do that was within a context of honesty and truthfulness.
 
 > [Frase 4724](#lugar-4724)
 > I said I was fairly sure it was the medication he'd prescribed for her that was causing the problem.
 
+> [Frase 4736](#lugar-4736)
+> You would say to him, 'Memory lapse.' Why not tell me she has gas?
+
+> [Frase 4745](#lugar-4745)
+> "You would describe a tablet as small and white and expect a doctor to respond, at home, after ten at night.
+
 > [Frase 4754](#lugar-4754)
 > I thanked him, hung up, called my own doctor at home.
 
-> [Frase 4759](#lugar-4759)
-> I waited for her to tell me she'd already done that.
-
-> [Frase 4760](#lugar-4760)
-> But she just nodded grimly and I headed down the hall, stopping in Heinrich's room to say goodnight.
+> [Frase 4778](#lugar-4778)
+> Ask Baba if you don't believe me.
 
 ---
 
