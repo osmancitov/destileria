@@ -387,6 +387,76 @@ En casa, Denise, la hija, echa una bolsa al compactador y escucha el estruendo p
 
 ---
 
+### Capítulo 9: La Invitación de Murray
+
+*Murray, Babette, Denise, Wilder y el supermercado.*
+
+[![Pasillo luminoso de un supermercado: Murray, barbudo y de chaqueta de pana, habla de cerca con Babette junto a un carrito, mientras Wilder, sentado en otro, alcanza una caja de la estantería.](../img/261025_white-noise_la-invitacion-de-murray.jpg)](../img/261025_white-noise_la-invitacion-de-murray.jpg)
+
+El martes evacuaron la escuela primaria: los niños tenían dolor de cabeza y sabor a metal, y una maestra rodó por el suelo hablando idiomas extranjeros. Los investigadores no hallan la causa y mencionan desde la pintura hasta el amianto. Denise y Steffie se quedan en casa mientras hombres con trajes de Mylex barren el edificio. Babette es la esposa de Jack; Wilder, su hijo pequeño:
+
+> Las dos chicas, Babette, Wilder y yo fuimos al supermercado.
+> [Frase 784](#original-784)
+
+> Minutos después de entrar, nos topamos con Murray.
+> [Frase 785](#original-785)
+
+Es la cuarta o quinta vez que Jack ve a Murray, otro profesor, en el supermercado. Wilder, en el carrito, intenta agarrar cosas. Murray dice que es feliz en Blacksmith, que aprende cosas y ve todo más claro:
+
+> Entramos en la zona de comida genérica y Murray se detuvo con su cesta de plástico a hurgar entre los cartones y los frascos blancos.
+> [Frase 802](#original-802)
+
+> No estaba seguro de entender de qué hablaba.
+> [Frase 803](#original-803)
+
+Jack le pide a Steffie que se disculpe con Denise, que lee todo el día un manual de medicinas para averiguar qué usa Baba, es decir, Babette. Denise lleva puesta una visera verde:
+
+> Oí a Babette decirle a Murray que la había llevado puesta catorce horas al día durante tres semanas ya.
+> [Frase 841](#original-841)
+
+Murray dice que la visera es su interfaz con el mundo, y ayuda a Babette con el carrito:
+
+> Lo oí decirle: «Los tibetanos creen que hay un estado transitorio entre la muerte y el renacimiento.
+> [Frase 847](#original-847)
+
+Murray compara el supermercado con el Tíbet, un lugar luminoso y sin tiempo donde se mira la muerte sin miedo. Allí morir es un arte; aquí no se muere, se compra, aunque la diferencia es menor de lo que se cree.
+
+> Ahora hablaba casi en susurros y traté de acercarme sin chocar mi carrito con el de Babette.
+> [Frase 887](#original-887)
+
+Para Murray estos supermercados son una revelación: en las ciudades nadie nota las muertes concretas. Babette pregunta por Wilder y lo buscan por los pasillos hasta que Murray lo ve en el carrito de otra mujer:
+
+> Antes de ir a la caja rápida, Murray nos invitó a cenar el sábado en ocho días.
+> [Frase 921](#original-921)
+
+> «No tienen que avisarme hasta el último minuto.»
+> [Frase 922](#original-922)
+
+Babette dice que irán.
+
+> «No estoy preparando nada importante, así que solo llámenme antes y avísenme si surgió otra cosa.
+> [Frase 924](#original-924)
+
+> «Si no aparecen, sabré que surgió algo y que no pudieron avisarme.»
+> [Frase 926](#original-926)
+
+Babette repite que irán. Murray pide que lleven a los niños, ella dice que no y él responde que no hay problema:
+
+> No quiero que sientan que los estoy atando a algo.
+> [Frase 932](#original-932)
+
+Dice que no es un compromiso firme:
+
+> De todos modos tengo que comer, así que no hay una catástrofe mayor si surge algo y tienen que cancelar.
+> [Frase 935](#original-935)
+
+> Solo quiero que sepan que estaré allí si deciden pasar, con niños o sin ellos.
+> [Frase 936](#original-936)
+
+Tienen hasta mayo o junio. A Murray le piden un curso sobre el cine de choques de autos. En el estacionamiento oyen el rumor de que murió uno de los hombres de traje de Mylex en la inspección de la escuela.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -597,6 +667,52 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 748](#lugar-748)
 > I told him there was a Hitler conference scheduled for next spring at the College-on-the-Hill.
+
+---
+
+### Capítulo 9: La Invitación de Murray
+
+> [Frase 784](#lugar-784)
+> The two girls and Babette, Wilder and I went to the supermarket.
+
+> [Frase 785](#lugar-785)
+> Minutes after we entered, we ran into Murray.
+
+> [Frase 802](#lugar-802)
+> We moved into the generic food area and Murray paused with his plastic basket to probe among the white cartons and jars.
+
+> [Frase 803](#lugar-803)
+> I wasn't sure I understood what he was talking about.
+
+> [Frase 841](#lugar-841)
+> I heard Babette tell Murray she'd been wearing it fourteen hours a day for three weeks now.
+
+> [Frase 847](#lugar-847)
+> I heard him say to her, "Tibetans believe there is a transitional state between death and rebirth.
+
+> [Frase 887](#lugar-887)
+> He was almost whispering now and I tried to get up closer without ramming my cart into Babette's.
+
+> [Frase 921](#lugar-921)
+> Before Murray went to the express line he invited us to dinner, a week from Saturday.
+
+> [Frase 922](#lugar-922)
+> "You don't have to let me know till the last minute."
+
+> [Frase 924](#lugar-924)
+> "I'm not preparing anything major, so just call beforehand and tell me if something else came up.
+
+> [Frase 926](#lugar-926)
+> If you don't show up, I'll know that something came up and you couldn't let me know."
+
+> [Frase 932](#lugar-932)
+> I don't want you to feel I'm holding you to something.
+
+> [Frase 935](#lugar-935)
+> I have to eat anyway, so there's no major catastrophe if something comes up and you have to cancel.
+
+> [Frase 936](#lugar-936)
+> I just want you to know I'll be there if you decide to drop by, with or without kids.
 
 © 2026 Osmancito
 
