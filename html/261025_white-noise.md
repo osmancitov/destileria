@@ -960,7 +960,7 @@ Tweedy dice que Bee viene con su padre. Jack responde que el padre es él; ella 
 
 Los Browner llaman Tuck a todos sus hombres y a quien se casa con ellos. Jack fue el primero. Jack pregunta por tercera vez dónde está Bee. Tweedy dice que en Indonesia, más o menos, y que Malcolm trabaja en secreto para derrocar a Castro. Y propone:
 
-> Salgamos de aquí, Tuck, antes de que vengan niños en enjambre a mendigar.
+> «Salgamos de aquí, Tuck, antes de que vengan niños en enjambre a mendigar.»
 > [Frase 2222](#original-2222)
 
 Bee sabrá arreglárselas, dice Tweedy. En el aeropuerto no hay bares ni restaurantes.
@@ -985,12 +985,12 @@ Tweedy dice que Malcolm siempre se ha sentido atraído por lugares selváticos.
 
 Jack cuenta que Janet Savory se ha ido a un ashram de Montana, donde ahora se llama Madre Devi. Dice que tenía talento para el sigilo, y Tweedy le dice que habla con amargura:
 
-> Nunca te he conocido amargado, Tuck.
+> «Nunca te he conocido amargado, Tuck.»
 > [Frase 2252](#original-2252)
 
 Jack cuenta que Janet lo metió, al nacer Heinrich, en un plan de inversiones complejo. Tweedy dice que ella se equivocó y que perdieron mucho; Jack, que ganaron. Dice:
 
-> «Quería constituirnos en sociedad.
+> «Quería constituirnos en sociedad.»
 > [Frase 2266](#original-2266)
 
 Tweedy no reconoce a esa Janet y recuerda sus pómulos altos. Luego pregunta:
