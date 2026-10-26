@@ -1176,73 +1176,6 @@ Cuando acaba el programa, las niñas bajan a esperar a Babette. Wilder se queda 
 
 ---
 
-### Capítulo 22: El Supermercado y el Atardecer
-
-*Jack, Babette, Murray, Denise y Wilder.*
-
-[![Un paso elevado al atardecer bajo un cielo enorme, ardiente y violeta; una mujer con calentadores de piernas y un hombre con abrigo lo miran junto a un auto; al fondo, el supermercado iluminado.](../img/261025_white-noise_el-supermercado-y-el-atardecer.jpg)](../img/261025_white-noise_el-supermercado-y-el-atardecer.jpg)
-
-El supermercado está lleno de ancianos que parecen perdidos. Jack empuja el carro con Wilder sentado dentro. Se anuncia una gran nevada y los viejos compran con pánico, como acaparadores en una guerra. Jack cuenta:
-
-> Vi a Murray en la zona de alimentos genéricos, con una sartén de teflón.
-> [Frase 4385](#original-4385)
-
-Murray anota en una libreta lo que le dice la gente. Le cuenta a Jack que su rival Cotsakis se perdió en el oleaje frente a Malibú. Hablan de lo enorme que era y de que ninguno lo conocía. Murray dice:
-
-> «Es extraño, en cierto modo, ¿no?», dijo, «que podamos imaginar a los muertos.»
-> [Frase 4455](#original-4455)
-
-Jack lleva a Wilder por los puestos de fruta hacia la caja. Le gusta estar con él y envidia lo rápido que olvida. Piensa que el supermercado no cambia, salvo para mejor. Jack cuenta:
-
-> Temprano esa noche llevé a Babette en el auto a su clase de postura.
-> [Frase 4473](#original-4473)
-
-> Nos detuvimos en el paso elevado de la autopista y bajamos a mirar el atardecer.
-> [Frase 4474](#original-4474)
-
-Desde el evento tóxico aéreo, los atardeceres son casi insoportablemente hermosos. Nadie ha podido probar que haya relación. Babette dice:
-
-> «¿En qué otra cosa podemos creer?», dijo Babette.
-> [Frase 4478](#original-4478)
-
-> «¿De qué otra manera podemos explicarlo?»
-> [Frase 4479](#original-4479)
-
-Jack responde que no sabe. Babette sigue:
-
-> «No estamos al borde del océano ni del desierto.
-> [Frase 4481](#original-4481)
-
-> Deberíamos tener atardeceres invernales tímidos.
-> [Frase 4482](#original-4482)
-
-Los atardeceres duraban cinco minutos y ahora duran una hora. En el paso elevado se juntan otros a mirar, y la policía no se atreve a hacer cumplir la prohibición de estacionar. Jack cuenta:
-
-> Más tarde volví en el auto a la iglesia congregacional a recogerla.
-> [Frase 4495](#original-4495)
-
-Denise y Wilder lo acompañan. Babette sale de su clase y cuenta que quieren que dé otro curso, «Comer y beber: parámetros básicos». Dice que la gente necesita que alguien con autoridad le asegure cuál es la manera correcta de hacer las cosas. En la cama, Jack cuenta:
-
-> En la cama yacíamos callados, mi cabeza entre sus pechos, amortiguada como contra algún golpe implacable.
-> [Frase 4528](#original-4528)
-
-> Yo estaba decidido a no contarle el veredicto de la computadora.
-> [Frase 4529](#original-4529)
-
-> Sabía que se destrozaría al enterarse de que mi muerte casi seguro precedería a la suya.
-> [Frase 4530](#original-4530)
-
-> Cuanto más leve el roce, más decidido estaba yo a impedir que lo supiera.
-> [Frase 4534](#original-4534)
-
-> Una vez casi le pedí que se pusiera los calentadores de piernas antes de hacer el amor.
-> [Frase 4536](#original-4536)
-
-> Pero me pareció una petición más hondamente arraigada en el patetismo que en una sexualidad aberrante, y pensé que podría hacerla sospechar que algo andaba mal.
-> [Frase 4537](#original-4537)
-
----
-
 ### Capítulo 21: El Evento Tóxico Aéreo
 
 *Jack, Heinrich, Babette, Denise, Steffie y Wilder.*
@@ -1669,6 +1602,73 @@ Pasan los días en el estudio de karate. Jack cuenta:
 
 > Pasaron nueve días antes de que nos dijeran que podíamos volver a casa.
 > [Frase 4349](#original-4349)
+
+---
+
+### Capítulo 22: El Supermercado y el Atardecer
+
+*Jack, Babette, Murray, Denise y Wilder.*
+
+[![Un paso elevado al atardecer bajo un cielo enorme, ardiente y violeta; una mujer con calentadores de piernas y un hombre con abrigo lo miran junto a un auto; al fondo, el supermercado iluminado.](../img/261025_white-noise_el-supermercado-y-el-atardecer.jpg)](../img/261025_white-noise_el-supermercado-y-el-atardecer.jpg)
+
+El supermercado está lleno de ancianos que parecen perdidos. Jack empuja el carro con Wilder sentado dentro. Se anuncia una gran nevada y los viejos compran con pánico, como acaparadores en una guerra. Jack cuenta:
+
+> Vi a Murray en la zona de alimentos genéricos, con una sartén de teflón.
+> [Frase 4385](#original-4385)
+
+Murray anota en una libreta lo que le dice la gente. Le cuenta a Jack que su rival Cotsakis se perdió en el oleaje frente a Malibú. Hablan de lo enorme que era y de que ninguno lo conocía. Murray dice:
+
+> «Es extraño, en cierto modo, ¿no?», dijo, «que podamos imaginar a los muertos.»
+> [Frase 4455](#original-4455)
+
+Jack lleva a Wilder por los puestos de fruta hacia la caja. Le gusta estar con él y envidia lo rápido que olvida. Piensa que el supermercado no cambia, salvo para mejor. Jack cuenta:
+
+> Temprano esa noche llevé a Babette en el auto a su clase de postura.
+> [Frase 4473](#original-4473)
+
+> Nos detuvimos en el paso elevado de la autopista y bajamos a mirar el atardecer.
+> [Frase 4474](#original-4474)
+
+Desde el evento tóxico aéreo, los atardeceres son casi insoportablemente hermosos. Nadie ha podido probar que haya relación. Babette dice:
+
+> «¿En qué otra cosa podemos creer?», dijo Babette.
+> [Frase 4478](#original-4478)
+
+> «¿De qué otra manera podemos explicarlo?»
+> [Frase 4479](#original-4479)
+
+Jack responde que no sabe. Babette sigue:
+
+> «No estamos al borde del océano ni del desierto.
+> [Frase 4481](#original-4481)
+
+> Deberíamos tener atardeceres invernales tímidos.
+> [Frase 4482](#original-4482)
+
+Los atardeceres duraban cinco minutos y ahora duran una hora. En el paso elevado se juntan otros a mirar, y la policía no se atreve a hacer cumplir la prohibición de estacionar. Jack cuenta:
+
+> Más tarde volví en el auto a la iglesia congregacional a recogerla.
+> [Frase 4495](#original-4495)
+
+Denise y Wilder lo acompañan. Babette sale de su clase y cuenta que quieren que dé otro curso, «Comer y beber: parámetros básicos». Dice que la gente necesita que alguien con autoridad le asegure cuál es la manera correcta de hacer las cosas. En la cama, Jack cuenta:
+
+> En la cama yacíamos callados, mi cabeza entre sus pechos, amortiguada como contra algún golpe implacable.
+> [Frase 4528](#original-4528)
+
+> Yo estaba decidido a no contarle el veredicto de la computadora.
+> [Frase 4529](#original-4529)
+
+> Sabía que se destrozaría al enterarse de que mi muerte casi seguro precedería a la suya.
+> [Frase 4530](#original-4530)
+
+> Cuanto más leve el roce, más decidido estaba yo a impedir que lo supiera.
+> [Frase 4534](#original-4534)
+
+> Una vez casi le pedí que se pusiera los calentadores de piernas antes de hacer el amor.
+> [Frase 4536](#original-4536)
+
+> Pero me pareció una petición más hondamente arraigada en el patetismo que en una sexualidad aberrante, y pensé que podría hacerla sospechar que algo andaba mal.
+> [Frase 4537](#original-4537)
 
 ---
 
@@ -2392,55 +2392,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ---
 
-### Capítulo 22: El Supermercado y el Atardecer
-
-> [Frase 4385](#lugar-4385)
-> I saw Murray in the generic food area, carrying a Teflon skillet.
-
-> [Frase 4455](#lugar-4455)
-> "It's strange in a way, isn't it," he said, "that we can picture the dead."
-
-> [Frase 4473](#lugar-4473)
-> Early that evening I drove Babette to her class in posture.
-
-> [Frase 4474](#lugar-4474)
-> We stopped on the parkway overpass and got out to look at the sunset.
-
-> [Frase 4478](#lugar-4478)
-> "What else can we believe?" Babette said.
-
-> [Frase 4479](#lugar-4479)
-> "How else can we explain?"
-
-> [Frase 4481](#lugar-4481)
-> "We're not at the edge of the ocean or desert.
-
-> [Frase 4482](#lugar-4482)
-> We ought to have timid winter sunsets.
-
-> [Frase 4495](#lugar-4495)
-> Later I drove back to the Congregational church to pick her up.
-
-> [Frase 4528](#lugar-4528)
-> In bed we lay quietly, my head between her breasts, cushioned as if against some remorseless blow.
-
-> [Frase 4529](#lugar-4529)
-> I was determined not to tell her about the computer verdict.
-
-> [Frase 4530](#lugar-4530)
-> I knew she would be devastated to learn that my death would almost surely precede hers.
-
-> [Frase 4534](#lugar-4534)
-> The lighter the touch, the more determined I was to keep her from knowing.
-
-> [Frase 4536](#lugar-4536)
-> Once I almost asked her to put on legwarmers before we made love.
-
-> [Frase 4537](#lugar-4537)
-> But it seemed a request more deeply rooted in pathos than in aberrant sexuality and I thought it might make her suspect that something was wrong.
-
----
-
 ### Capítulo 21: El Evento Tóxico Aéreo
 
 > [Frase 2793](#lugar-2793)
@@ -2739,6 +2690,55 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 4349](#lugar-4349)
 > It was nine days before they told us we could go back home.
+
+---
+
+### Capítulo 22: El Supermercado y el Atardecer
+
+> [Frase 4385](#lugar-4385)
+> I saw Murray in the generic food area, carrying a Teflon skillet.
+
+> [Frase 4455](#lugar-4455)
+> "It's strange in a way, isn't it," he said, "that we can picture the dead."
+
+> [Frase 4473](#lugar-4473)
+> Early that evening I drove Babette to her class in posture.
+
+> [Frase 4474](#lugar-4474)
+> We stopped on the parkway overpass and got out to look at the sunset.
+
+> [Frase 4478](#lugar-4478)
+> "What else can we believe?" Babette said.
+
+> [Frase 4479](#lugar-4479)
+> "How else can we explain?"
+
+> [Frase 4481](#lugar-4481)
+> "We're not at the edge of the ocean or desert.
+
+> [Frase 4482](#lugar-4482)
+> We ought to have timid winter sunsets.
+
+> [Frase 4495](#lugar-4495)
+> Later I drove back to the Congregational church to pick her up.
+
+> [Frase 4528](#lugar-4528)
+> In bed we lay quietly, my head between her breasts, cushioned as if against some remorseless blow.
+
+> [Frase 4529](#lugar-4529)
+> I was determined not to tell her about the computer verdict.
+
+> [Frase 4530](#lugar-4530)
+> I knew she would be devastated to learn that my death would almost surely precede hers.
+
+> [Frase 4534](#lugar-4534)
+> The lighter the touch, the more determined I was to keep her from knowing.
+
+> [Frase 4536](#lugar-4536)
+> Once I almost asked her to put on legwarmers before we made love.
+
+> [Frase 4537](#lugar-4537)
+> But it seemed a request more deeply rooted in pathos than in aberrant sexuality and I thought it might make her suspect that something was wrong.
 
 © 2026 Osmancito
 
