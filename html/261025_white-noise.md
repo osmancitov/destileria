@@ -533,76 +533,89 @@ Heinrich dice que su madre lo quiere en un ashram y duda de lo que quiere él.
 
 ### Capítulo 11: El Cuarto de Murray
 
-*Babette, Jack, Murray, Dana, los alumnos y Steffie.*
+*Babette, Jack, Murray, la gallina de Cornualles, el brazo de Jack y la posibilidad.*
 
 [![Murray sirve café en la litera a Jack y a Babette, que miran un televisor sobre una pila de cómics; por la ventana, bajo la lluvia, se ve el viejo manicomio.](../img/261025_white-noise_el-cuarto-de-murray.jpg)](../img/261025_white-noise_el-cuarto-de-murray.jpg)
 
-A las 3:51 Jack despierta con un sudor de muerte y se pregunta si la muerte es impar:
+A las 3:51 de la madrugada Jack despierta con un sudor de muerte y se pregunta si la muerte es de número impar:
 
 > Babette murmuró en sueños y me acerqué, respirando su calor.
 > [Frase 1149](#original-1149)
 
-El olor a pan quemado lo despierta: Steffie quema tostadas a propósito. Baja y encuentra a Babette:
+Steffie, la hija de Jack, quema tostadas a propósito; el olor despierta a Jack, que baja a la cocina. Allí está Babette, su esposa:
 
-> Pensé que seguía en la cama.
+> Pensé que todavía estaba en la cama.
 > [Frase 1161](#original-1161)
 
-Steffie pregunta por su madre, Dana Breedlove, con quien Jack estuvo casado, agente por contrato de la CIA. Una voz de computadora llama para una encuesta; mientras Steffie la atiende, Jack le cuenta a Babette que Dana lo enredaba en intrigas:
+Steffie pregunta por su madre, Dana Breedlove, con quien Jack estuvo casado, y si sigue en la CIA. Jack responde:
 
-> «¿Qué se siente estar por cumplir cincuenta y uno?», dijo ella.
+> «No se supone que hablemos de eso.
+> [Frase 1175](#original-1175)
+
+Una voz de computadora llama para una encuesta y Steffie la atiende. Jack le cuenta a Babette que Dana lo enredaba en intrigas. Babette le pregunta:
+
+> «¿Qué se siente tener casi cincuenta y uno?», dijo ella.
 > [Frase 1214](#original-1214)
 
-Jack no siente diferencia con los cincuenta. Esa noche, en el cuarto de Murray, toman café en la litera; Murray dice que de periodista deportivo nunca tuvo hogar:
+Jack no siente diferencia con los cincuenta. Esa noche cenan en el cuarto de Murray:
 
-> «Has hecho maravillas», dijo Babette, recorriendo la habitación con una mirada desesperada.
+> Esa noche, en el cuarto blanquecino de Murray, después de una espléndida comida de gallina de Cornualles con forma de rana, preparada en una hornilla de dos fuegos, pasamos de nuestras sillas plegables de metal a la litera para tomar café.
+> [Frase 1217](#original-1217)
+
+Murray cuenta que de periodista deportivo nunca se sintió en casa; ahora tiene un lugar propio. Babette lo felicita:
+
+> «Has hecho maravillas», dijo Babette, mientras su mirada recorría la habitación con desesperación.
 > [Frase 1220](#original-1220)
 
-Murray llama a su cuarto un recipiente para pensar y dice que el manicomio de enfrente se ve como un manicomio. Lamenta que no trajeran niños; a sus alumnos les dice que ya son viejos para pesar en la sociedad:
+Murray llama a su cuarto un recipiente para pensar y habla del manicomio de enfrente. Después dice:
+
+> «Lamento que no hayan traído a los niños.
+> [Frase 1231](#original-1231)
+
+Murray le dice a sus alumnos que ya son demasiado viejos para pesar en la sociedad:
 
 > Como estábamos sentados en la cama, Murray tuvo que inclinarse bien hacia adelante, mirando más allá de la taza de café que yo sostenía en la mano, para dirigirse a Babette.
 > [Frase 1241](#original-1241)
 
-Murray pregunta cuántos hijos tiene Babette: Wilder, Denise y Eugene, que vive con su padre en Australia. Jack dice que un niño sin televisión es un salvaje:
+Murray pregunta cuántos hijos tiene Babette; ella nombra a Wilder, Denise y Eugene. Jack dice que el niño crece sin televisión. Murray responde:
 
 > «La tele solo es un problema si has olvidado cómo mirar y escuchar», dijo Murray.
 > [Frase 1252](#original-1252)
 
-Murray dice que sus alumnos quieren volverse contra la televisión y que él les enseña a mirar como niños. Lleva dos meses viéndola y tomando notas:
+Murray les dice a sus alumnos que deben aprender a mirar como niños, y que lleva más de dos meses viendo televisión en su cuarto:
 
-> Una experiencia grande y que vuelve humilde, te lo aseguro.
+> Una gran experiencia que enseña humildad, déjame decirte.
 > [Frase 1262](#original-1262)
 
-Su conclusión: «ondas y radiación». La televisión es una fuerza primaria del hogar:
+Para Murray la televisión es una fuerza primaria del hogar estadounidense. Babette le pregunta:
 
-> Les pregunto a mis alumnos: ‹¿Qué más quieren?› Miren la riqueza de datos escondida en la cuadrícula, en el envase brillante, los jingles, los comerciales de escenas de la vida cotidiana, los productos que se lanzan desde la oscuridad, los mensajes cifrados y las repeticiones sin fin, como cantos, como mantras. ‹Coke is it, Coke is it, Coke is it.› El medio casi rebosa de fórmulas sagradas, si recordamos cómo responder con inocencia y superar nuestra irritación, cansancio y asco.»
-> [Frase 1277](#original-1277)
-
-Sus alumnos no están de acuerdo y prefieren hablar de cine:
-
-> «¿Cómo sabes tanto?», dijo Babette.
+> «¿Cómo es que sabes tanto?», dijo Babette.
 > [Frase 1284](#original-1284)
 
-Babette dice que mientras más habla, más parece que quiere engañarlos:
+Murray dice que es de Nueva York. Ella le pregunta:
 
 > «¿Alguna vez has estado casado?», dijo ella.
 > [Frase 1288](#original-1288)
 
-Murray estuvo casado una vez, brevemente, y ahora vive solo con una tele y cómics:
+Babette le pregunta si estuvo casado. Murray dice que una vez, brevemente, cuando cubría a los Jets:
 
-> No creas que no apreciaría una visita dramática entre las dos y las tres de la madrugada», le dijo, «de una mujer inteligente con tacones de aguja y falda con abertura, con accesorios de alto impacto.»
+> No pienses que no apreciaría una visita dramática entre las dos y las tres de la madrugada», le dijo a ella, «de una mujer inteligente con tacones de aguja y falda con abertura, con accesorios de gran impacto.»
 > [Frase 1292](#original-1292)
 
-Caminan a casa bajo la llovizna. Babette dice que olvida cosas y se pregunta si es el chicle; Jack le dice que Steffie, por Denise, cree que toma algo más:
+Jack y Babette vuelven a casa:
 
-> «Quería preguntarte antes de preguntarle a ella.»
+> Caía una llovizna mientras caminábamos a casa, con mi brazo alrededor de su cintura.
+> [Frase 1293](#original-1293)
+
+Babette admite que olvida cosas. Jack le dice que Steffie le contó, y que ella lo oyó de Denise, que Babette toma algo además de chicle. Babette pregunta qué dice Denise:
+
+> «Quería preguntarte a ti antes de preguntarle a ella.»
 > [Frase 1325](#original-1325)
 
-Babette dice que no toma nada que lo explique, pero no puede descartarlo:
+Babette dice que no toma nada que explique sus lapsos. Jack le dice que quizá Denise tiene razón. Ella responde:
 
-> «Estás diciendo que quizá estás tomando algo que tiene como efecto secundario deteriorar la memoria.»
-> [Frase 1330](#original-1330)
-
-Para Babette la vida es de uno u otro: chicle o cigarrillos, cigarrillos o engordar. Llegan las hojas y el Halloween.
+> «No podemos descartarlo.»
+> [Frase 1329](#original-1329)
 
 ---
 
@@ -1292,11 +1305,20 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1161](#lugar-1161)
 > I thought she was still in bed.
 
+> [Frase 1175](#lugar-1175)
+> "We're not supposed to talk about that.
+
 > [Frase 1214](#lugar-1214)
 > "How does it feel being nearly fifty-one?" she said.
 
+> [Frase 1217](#lugar-1217)
+> That night, in Murray's off-white room, after a spectacular meal of Cornish hen in the shape of a frog, prepared on a two-burner hot plate, we moved from our metal folding chairs to the bunk bed for coffee.
+
 > [Frase 1220](#lugar-1220)
 > "You've done wonders," Babette said, her gaze sweeping desperately across the room.
+
+> [Frase 1231](#lugar-1231)
+> "I'm sorry you didn't bring the kids.
 
 > [Frase 1241](#lugar-1241)
 > Because we were seated on the bed, Murray had to lean well forward, looking past the coffee cup poised in my hand, in order to address Babette.
@@ -1307,9 +1329,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1262](#lugar-1262)
 > A great and humbling experience, let me tell you.
 
-> [Frase 1277](#lugar-1277)
-> I ask my students, 'What more do you want?' Look at the wealth of data concealed in the grid, in the bright packaging, the jingles, the slice-of-life commercials, the products hurtling out of darkness, the coded messages and endless repetitions, like chants, like mantras. 'Coke is it, Coke is it, Coke is it.' The medium practically overflows with sacred formulas if we can remember how to respond innocently and get past our irritation, weariness and disgust."
-
 > [Frase 1284](#lugar-1284)
 > "How do you know so much?" Babette said.
 
@@ -1319,11 +1338,14 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1292](#lugar-1292)
 > Don't think I wouldn't appreciate a dramatic visit between two and three in the morning," he told her, "from an intelligent woman in spike heels and a slit skirt, with high-impact accessories."
 
+> [Frase 1293](#lugar-1293)
+> It was drizzling as we walked home, my arm around her waist.
+
 > [Frase 1325](#lugar-1325)
 > "I wanted to ask you before I asked her."
 
-> [Frase 1330](#lugar-1330)
-> "You're saying maybe you're taking something that has the side effect of impairing memory."
+> [Frase 1329](#lugar-1329)
+> "We can't rule it out."
 
 ---
 
