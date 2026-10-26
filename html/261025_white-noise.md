@@ -48,33 +48,38 @@ Fue un éxito inmediato. El rector asesoró a tres presidentes y murió en un te
 
 ### Capítulo 2: Babette en la Cocina
 
-*Babette, el narrador, los padres de las camionetas, el grupo del almuerzo y Treadwell.*
+*Denise, Steffie, Jack, Babette, Wilder y el almuerzo.*
 
 [![Óleo realista, al estilo de David Teniers el Joven: en una cocina antigua, una mujer alta de pelo rubio revuelto, con un paño en la mano, habla con un hombre de anteojos sentado a una mesa con pan y fruta; por la puerta se ve a un niño en triciclo y, al fondo, cajas apiladas.](../img/261025_white-noise_babette-en-la-cocina.jpg)](../img/261025_white-noise_babette-en-la-cocina.jpg)
 
-Babette es la esposa de Jack, el narrador: alta, robusta, de pelo rubio revuelto. Cuida a los niños, da un curso y lee a un anciano vecino, Treadwell. Jack dice de ella:
+Es mediodía en la cocina de Jack, el narrador, y de su esposa Babette; Wilder, el menor de los niños, está sentado en el mostrador. Denise y Steffie, las niñas, bajan:
 
-> La miro todo el tiempo hacer cosas en una secuencia medida, con destreza, con aparente facilidad, a diferencia de mis anteriores esposas, que tendían a sentirse extrañadas del mundo objetivo: un grupo ensimismado y de nervios tensos, con vínculos con la comunidad de inteligencia.
-> [Frase 55](#original-55)
+> Denise y Steffie bajaron y hablamos de los útiles escolares que necesitarían.
+> [Frase 79](#original-79)
 
-La comunidad de inteligencia de Estados Unidos es el grupo de agencias del gobierno que reúnen información secreta; la CIA es una de ellas.
+Es la hora del almuerzo:
 
-Ella pregunta cómo son esos padres; él dice que se sienten cómodos con su dinero. Ella llama a Wilder, uno de sus hijos, sentado en su triciclo. Jack cuenta:
+> Entramos en un período de caos y ruido.
+> [Frase 81](#original-81)
 
-> Babette y yo hablamos en la cocina.
-> [Frase 71](#original-71)
+> Dimos vueltas, discutimos un poco, dejamos caer utensilios.
+> [Frase 82](#original-82)
 
-La cocina y el dormitorio son los cuartos principales de la casa.
+> Por fin quedamos todos satisfechos con lo que habíamos logrado sacar de los armarios y del refrigerador o quitarnos unos a otros, y empezamos a untar con calma mostaza o mayonesa en nuestra comida de colores vivos.
+> [Frase 83](#original-83)
 
-> Ella y yo nos parecemos en esto: consideramos el resto de la casa un depósito de muebles, juguetes, todos los objetos sin uso de matrimonios anteriores y de distintos grupos de hijos, los regalos de suegros perdidos, las prendas heredadas y los cachivaches.
-> [Frase 73](#original-73)
+Babette dice que pensaba comer yogur y germen de trigo. Denise responde:
 
-Las cosas guardadas pesan con tristeza. En el almuerzo hay ruido y desorden; Heinrich, el único hijo de Jack, mira y se va. Babette dice que pensaba comer yogur, y los niños dicen que lo compra y lo tira. Jack la defiende; ella no está contenta con sus caderas.
+> «¿Dónde hemos oído eso antes?», dijo Denise.
+> [Frase 90](#original-90)
 
-> Dijo que yo hacía virtudes de sus defectos porque era mi naturaleza proteger a los seres queridos de la verdad.
-> [Frase 110](#original-110)
+Las niñas dicen que Babette compra comida que luego tira. Jack la defiende, y ella dice que él hace virtudes de sus defectos. Arriba suena una alarma:
 
-Algo acechaba dentro de la verdad, dijo ella. Suena la alarma de humo arriba y terminan el almuerzo en silencio.
+> La alarma de humo sonó en el pasillo de arriba, o para avisarnos de que la pila acababa de morir o porque la casa se incendiaba.
+> [Frase 112](#original-112)
+
+> Terminamos el almuerzo en silencio.
+> [Frase 113](#original-113)
 
 ---
 
@@ -990,17 +995,26 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 2: Babette en la Cocina
 
-> [Frase 55](#lugar-55)
-> I watch her all the time doing things in measured sequence, skillfully, with seeming ease, unlike my former wives, who had a tendency to feel estranged from the objective world— a self-absorbed and high-strung bunch, with ties to the intelligence community.
+> [Frase 79](#lugar-79)
+> Denise and Steffie came downstairs and we talked about the school supplies they would need.
 
-> [Frase 71](#lugar-71)
-> Babette and I do our talking in the kitchen.
+> [Frase 81](#lugar-81)
+> We entered a period of chaos and noise.
 
-> [Frase 73](#lugar-73)
-> She and I are alike in this, that we regard the rest of the house as storage space for furniture, toys, all the unused objects of earlier marriages and different sets of children, the gifts of lost in-laws, the hand-me-downs and rummages.
+> [Frase 82](#lugar-82)
+> We milled about, bickered a little, dropped utensils.
 
-> [Frase 110](#lugar-110)
-> She said I made virtues of her flaws because it was my nature to shelter loved ones from the truth.
+> [Frase 83](#lugar-83)
+> Finally we were all satisfied with what we'd been able to snatch from the cupboards and refrigerator or swipe from each other and we began quietly plastering mustard or mayonnaise on our brightly colored food.
+
+> [Frase 90](#lugar-90)
+> "Where have we heard that before?" Denise said.
+
+> [Frase 112](#lugar-112)
+> The smoke alarm went off in the hallway upstairs, either to 'et us know the battery had just died or because the house was on fire.
+
+> [Frase 113](#lugar-113)
+> We finished our lunch in silence.
 
 ---
 
