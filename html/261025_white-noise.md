@@ -2726,6 +2726,110 @@ El doctor le habla del centro de Glassboro y de la prevención. Jack cuenta:
 
 ---
 
+### Capítulo 35: La Jaula de Orest
+
+*Jack, Babette, Heinrich y Orest Mercator.*
+
+[![En un restaurante de reservados rojos, un hombre corpulento de cabeza maciza come espagueti mientras un padre y su hijo adolescente lo miran.](../img/261025_white-noise_la-jaula-de-orest.jpg)](../img/261025_white-noise_la-jaula-de-orest.jpg)
+
+Babette escucha la radio sin parar y se pasa los días con su sudadero gris. Denise le unta protector solar y discuten por los rayos. Jack cuenta:
+
+> «Yo necesito esto tanto como tú, si no más.»
+> [Frase 7512](#original-7512)
+
+> Denise giró hacia mí, con los brazos extendidos, su cuerpo suplicándome que pusiera en su sitio a la mujer.
+> [Frase 7539](#original-7539)
+
+Jack lleva a Heinrich y a Orest a cenar y quiere saber si el domador de serpientes tiene miedo. Jack cuenta:
+
+> Llevé a Heinrich y a su amigo domador de serpientes, Orest Mercator, a cenar a la zona comercial.
+> [Frase 7546](#original-7546)
+
+> A petición suya fuimos al Casa Mario de Vincent, una estructura de bloques con ventanas estrechas que parecía parte de algún sistema de defensa costera.
+> [Frase 7548](#original-7548)
+
+> Nos sentamos en un reservado rojo sangre.
+> [Frase 7550](#original-7550)
+
+> «Heinrich me dijo que duermes sentado, para prepararte para la jaula.»
+> [Frase 7557](#original-7557)
+
+> «Por eso hemos venido aquí», dijo Heinrich.
+> [Frase 7562](#original-7562)
+
+> Pedimos pasta y agua.
+> [Frase 7565](#original-7565)
+
+Jack interroga a Orest sobre el miedo a morir. Jack cuenta:
+
+> «Dime, Orest.»
+> [Frase 7566](#original-7566)
+
+> «Le gusta ser positivo», dijo Heinrich.
+> [Frase 7574](#original-7574)
+
+> «Dime esto, entonces.»
+> [Frase 7577](#original-7577)
+
+> Me gustaba ver comer a Orest.
+> [Frase 7585](#original-7585)
+
+> Hablamos de eso la última vez.
+> [Frase 7590](#original-7590)
+
+> Déjame poner mis cartas sobre la mesa, Orest.
+> [Frase 7596](#original-7596)
+
+Orest habla de los muertos de hoy y Heinrich lo traduce. Jack cuenta:
+
+> Dije: «¿Está tratando de decirnos que hay más gente muriendo en este período de veinticuatro horas que en el resto de la historia humana hasta ahora?»
+> [Frase 7606](#original-7606)
+
+> «Está diciendo gente ahora muerta.»
+> [Frase 7610](#original-7610)
+
+> «Está diciendo gente en tumbas.»
+> [Frase 7613](#original-7613)
+
+> Escuchaba con atención, tratando de entender lo que querían decir.
+> [Frase 7616](#original-7616)
+
+> «¿Está diciendo que hay más muertos en tumbas que en cualquier otro lugar?»
+> [Frase 7619](#original-7619)
+
+Jack le dice a Orest que busca la muerte. Jack cuenta:
+
+> Te dispones a hacer exactamente lo que la gente pasa la vida tratando de no hacer.
+> [Frase 7629](#original-7629)
+
+> «Ahora tiene un entrenador», dijo Heinrich.
+> [Frase 7633](#original-7633)
+
+> Dije: «¿No quieres decir que los moonies son en su mayoría coreanos?»
+> [Frase 7638](#original-7638)
+
+> Pensaron en esto.
+> [Frase 7643](#original-7643)
+
+> Observé a Orest comer.
+> [Frase 7644](#original-7644)
+
+> Lo observé meter el espagueti garganta abajo como con una horquilla.
+> [Frase 7645](#original-7645)
+
+Jack lo ve comer y le habla de las serpientes. Jack cuenta:
+
+> «No podrás defenderte», dije.
+> [Frase 7654](#original-7654)
+
+> Supongo que yo también lo admiraba.
+> [Frase 7676](#original-7676)
+
+> Como si ahora le creyeran.
+> [Frase 7688](#original-7688)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -4489,6 +4593,94 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 7461](#lugar-7461)
 > "Together, as doctor and patient, we can do things that neither of us could do separately.
+
+---
+
+### Capítulo 35: La Jaula de Orest
+
+> [Frase 7512](#lugar-7512)
+> I need this as badly as you do, if not more."
+
+> [Frase 7539](#lugar-7539)
+> Denise spun in my direction, arms flung out, her body beseeching me to set the woman straight.
+
+> [Frase 7546](#lugar-7546)
+> I took Heinrich and his snake-handling buddy, Orest Mercator, out to the commercial strip for dinner.
+
+> [Frase 7548](#lugar-7548)
+> At his request we went to Vincent's Casa Mario, a blockhouse structure with slit windows that seemed part of some coastal defense system.
+
+> [Frase 7550](#lugar-7550)
+> We sat in a blood-red booth.
+
+> [Frase 7557](#lugar-7557)
+> "Heinrich told me you sleep sitting up, to prepare for the cage."
+
+> [Frase 7562](#lugar-7562)
+> "That's why we came here," Heinrich said.
+
+> [Frase 7565](#lugar-7565)
+> We ordered pasta and water.
+
+> [Frase 7566](#lugar-7566)
+> 'Tell me, Orest.
+
+> [Frase 7574](#lugar-7574)
+> "He likes to be positive," Heinrich said.
+
+> [Frase 7577](#lugar-7577)
+> "Tell me this, then.
+
+> [Frase 7585](#lugar-7585)
+> I liked to watch Orest eat.
+
+> [Frase 7590](#lugar-7590)
+> We talked about it last time.
+
+> [Frase 7596](#lugar-7596)
+> Let me put my cards on the table, Orest.
+
+> [Frase 7606](#lugar-7606)
+> I said, "Is he trying to tell us there are more people dying in this twentyfour-hour period than in the rest of human history up to now?"
+
+> [Frase 7610](#lugar-7610)
+> "He's saying people now dead."
+
+> [Frase 7613](#lugar-7613)
+> "He's saying people in graves.
+
+> [Frase 7616](#lugar-7616)
+> I was listening intently, trying to grasp what they meant.
+
+> [Frase 7619](#lugar-7619)
+> Is he saying there are more dead people in graves than anywhere else?"
+
+> [Frase 7629](#lugar-7629)
+> You are setting out to do exactly what people spend their lives trying not to do.
+
+> [Frase 7633](#lugar-7633)
+> "He has a trainer now," Heinrich said.
+
+> [Frase 7638](#lugar-7638)
+> I said, "Don't you mean the Moonies are mostly Korean?"
+
+> [Frase 7643](#lugar-7643)
+> They thought about this.
+
+> [Frase 7644](#lugar-7644)
+> I watched Orest eat.
+
+> [Frase 7645](#lugar-7645)
+> I watched him pitchfork the spaghetti down his gullet.
+
+> [Frase 7654](#lugar-7654)
+> "You will not be able to defend yourself," I said.
+
+> [Frase 7676](#lugar-7676)
+> I guess I admired him too.
+
+> [Frase 7688](#lugar-7688)
+> Like they believe him now.
 
 © 2026 Osmancito
 
