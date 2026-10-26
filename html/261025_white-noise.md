@@ -2948,6 +2948,195 @@ El joven le pregunta por contaminantes y le habla de una masa nebulosa. Jack cue
 
 ---
 
+### Capítulo 37: El largo paseo
+
+*Jack y Murray caminan por la ciudad hablando de la muerte.*
+
+[![Dos hombres caminan juntos por una calle sombreada de árboles en otoño, uno fuma una pipa.](../img/261025_white-noise_el-largo-paseo.jpg)](../img/261025_white-noise_el-largo-paseo.jpg)
+
+Jack y Murray inician un largo paseo y Murray fuma pipa. Jack cuenta:
+
+> Me encontré con Murray después de su seminario sobre accidentes de coche y paseamos por los márgenes del campus, junto a los condominios revestidos de tejas de cedro, encajados entre los árboles en su conocida postura defensiva: un conjunto de viviendas que se fundían tan bien con el entorno que los pájaros no dejaban de chocar contra los ventanales.
+> [Frase 8134](#original-8134)
+
+> «Estás fumando en pipa», dije.
+> [Frase 8135](#original-8135)
+
+> Me pregunté si la habría elegido para que combinara con su barbita de aspecto algo severo.
+> [Frase 8143](#original-8143)
+
+Jack habla de su muerte con Murray. Jack cuenta:
+
+> Quería que discutiera conmigo, que elevara mi agonía a un nivel superior, que me hiciera sentir mejor.
+> [Frase 8168](#original-8168)
+
+> «¿Crees que es injusto?», dijo.
+> [Frase 8169](#original-8169)
+
+> «Mira cómo he vivido.»
+> [Frase 8173](#original-8173)
+
+> Caminamos en silencio durante un rato.
+> [Frase 8180](#original-8180)
+
+> «¿Crees que tu muerte es prematura?», dijo.
+> [Frase 8181](#original-8181)
+
+Murray dice que su muerte le da prestigio. Jack cuenta:
+
+> Cuando se acerque el momento, creo que verás que la gente estará ansiosa por oír lo que tienes que decir.
+> [Frase 8207](#original-8207)
+
+> «¿Dices que esta es una oportunidad maravillosa para que yo gane amigos?»
+> [Frase 8209](#original-8209)
+
+> «Digo que no puedes fallarles a los vivos hundiéndote en la autocompasión y la desesperación.»
+> [Frase 8210](#original-8210)
+
+> Estás ganando prestigio incluso mientras hablamos.
+> [Frase 8213](#original-8213)
+
+> Bajamos por el medio de una calle empinada y sinuosa.
+> [Frase 8216](#original-8216)
+
+Siguen caminando por la ciudad. Jack cuenta:
+
+> Cruzamos un viejo puente de carretera, cerrado con rejillas, cubierto de objetos tristes y desvaídos.
+> [Frase 8253](#original-8253)
+
+> Seguimos un sendero junto a un arroyo y nos acercamos al borde del campo de deportes del instituto.
+> [Frase 8254](#original-8254)
+
+Murray habla de creer en algo para escapar de la muerte. Jack cuenta:
+
+> De nuevo pareció encogerse de hombros. «Piensa en la gran poesía, la música, la danza y el ritual que brotan de nuestra aspiración a una vida más allá de la muerte.»
+> [Frase 8289](#original-8289)
+
+> Me dio un codazo.
+> [Frase 8291](#original-8291)
+
+> Caminamos hacia la zona comercial de la ciudad.
+> [Frase 8292](#original-8292)
+
+> No. Te diré lo que es el más allá.
+> [Frase 8301](#original-8301)
+
+> «Dijiste antes que la muerte me hacía crecer en carisma.»
+> [Frase 8307](#original-8307)
+
+> Estuvimos un rato mirando escaparates y luego entramos en una zapatería.
+> [Frase 8315](#original-8315)
+
+> Salimos otra vez al sol, deambulando.
+> [Frase 8317](#original-8317)
+
+Murray atribuye a Hitler el miedo de Jack. Jack cuenta:
+
+> «Estás hablando de Hitler, supongo.»
+> [Frase 8339](#original-8339)
+
+> «Así que no te estoy señalando a ti.» «La vasta y terrible profundidad.»
+> [Frase 8356](#original-8356)
+
+> «Sé exactamente a qué te refieres.»
+> [Frase 8363](#original-8363)
+
+> Lo seguí al supermercado.
+> [Frase 8373](#original-8373)
+
+> Pasamos bajo una pancarta brillante que anunciaba una rifa para recaudar dinero para una enfermedad incurable.
+> [Frase 8375](#original-8375)
+
+En el supermercado hablan de reprimir y de matar. Jack cuenta:
+
+> «¿Crees que soy de algún modo más sano porque no sé reprimir?»
+> [Frase 8394](#original-8394)
+
+> Lo miré con atención.
+> [Frase 8408](#original-8408)
+
+> «No, no lo haces», dijo.
+> [Frase 8411](#original-8411)
+
+> Lo vi sortear con destreza una docena de huevos caídos que soltaban materia amarilla de una caja reventada.
+> [Frase 8416](#original-8416)
+
+> Salimos, pasando junto a la tintorería, la peluquería, el óptico.
+> [Frase 8437](#original-8437)
+
+> «Hemos hablado de maneras de sortear la muerte», dijo.
+> [Frase 8439](#original-8439)
+
+> «Hemos discutido cómo ya has probado dos de esas maneras, cada una anulando a la otra.»
+> [Frase 8440](#original-8440)
+
+> Hemos mencionado la tecnología, los accidentes de tren, la creencia en una vida después de la muerte.
+> [Frase 8441](#original-8441)
+
+> Cruzamos la calle.
+> [Frase 8443](#original-8443)
+
+Murray insiste en la teoría del asesino y del que muere. Jack cuenta:
+
+> «Planear un asesinato, dices.»
+> [Frase 8503](#original-8503)
+
+> Lo miré.
+> [Frase 8507](#original-8507)
+
+> Nos movimos en un amplio arco de vuelta hacia el campus.
+> [Frase 8526](#original-8526)
+
+> Cruzamos el paso elevado del atardecer, deteniéndonos un momento a ver pasar los coches a toda velocidad.
+> [Frase 8528](#original-8528)
+
+> «Pensemos en eso.»
+> [Frase 8536](#original-8536)
+
+> Examinemos la naturaleza de la bestia, por así decirlo.
+> [Frase 8537](#original-8537)
+
+> «Estamos hablando de teoría.»
+> [Frase 8541](#original-8541)
+
+> Eso es exactamente de lo que estamos hablando.
+> [Frase 8542](#original-8542)
+
+> «Solo queremos saber si está ahí, enterrada en el alma más prudente y discreta.»
+> [Frase 8560](#original-8560)
+
+> «Solo quiero oírte decirlo.»
+> [Frase 8567](#original-8567)
+
+> «Solo quiero sacar verdades que ya posees, verdades que siempre has conocido en algún nivel básico.»
+> [Frase 8569](#original-8569)
+
+> Déjame advertirte, Jack.
+> [Frase 8580](#original-8580)
+
+> Pasamos mi calle y subimos la colina hacia el campus.
+> [Frase 8582](#original-8582)
+
+> «Sé cómo te sientes.»
+> [Frase 8591](#original-8591)
+
+> Caminamos junto al edificio de la administración.
+> [Frase 8597](#original-8597)
+
+> «Me sentiría fatal si no te dijera lo que estaba pensando, sobre todo en un momento como este.»
+> [Frase 8604](#original-8604)
+
+> «No estés tan seguro», dijo.
+> [Frase 8612](#original-8612)
+
+> Nos dimos la mano frente a la biblioteca.
+> [Frase 8613](#original-8613)
+
+> Le di las gracias por su honestidad.
+> [Frase 8614](#original-8614)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -4905,6 +5094,175 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 8096](#lugar-8096)
 > The last thing I'm supposed to tell you is take the envelope to your doctor.
+
+---
+
+### Capítulo 37: El largo paseo
+
+> [Frase 8134](#lugar-8134)
+> I met Murray after his car crash seminar and we wandered along the fringes of the campus, past the cedar-shingled condominiums set in the trees in their familiar defensive posture—a cluster of dwellings blending so well with the environment that birds kept flying into the plateglass windows.
+
+> [Frase 8135](#lugar-8135)
+> "You're smoking a pipe," I said.
+
+> [Frase 8143](#lugar-8143)
+> I wondered if he'd chosen it to match his somewhat severe chin whiskers.
+
+> [Frase 8168](#lugar-8168)
+> I vanted him to argue with me, raise my dying to a higher level, make me feel better.
+
+> [Frase 8169](#lugar-8169)
+> "Do you think it's unfair?" he said.
+
+> [Frase 8173](#lugar-8173)
+> "Look how I've lived.
+
+> [Frase 8180](#lugar-8180)
+> We walked in silence for a while.
+
+> [Frase 8181](#lugar-8181)
+> "Do you think your death is premature?" he said.
+
+> [Frase 8207](#lugar-8207)
+> As the time nears, I think you'll find that people will be eager to hear what you have to say.
+
+> [Frase 8209](#lugar-8209)
+> "Are you saying this is a wonderful opportunity for me to win friends?"
+
+> [Frase 8210](#lugar-8210)
+> "I'm saying you can't let down the living by slipping into self-pity and despair.
+
+> [Frase 8213](#lugar-8213)
+> You're growing in prestige even as we speak.
+
+> [Frase 8216](#lugar-8216)
+> We walked down the middle of a steep and winding street.
+
+> [Frase 8253](#lugar-8253)
+> We crossed an old highway bridge, screened in, littered with sad and faded objects.
+
+> [Frase 8254](#lugar-8254)
+> We followed a footpath along a creek, approached the edge of the high school playing field.
+
+> [Frase 8289](#lugar-8289)
+> Again he seemed to shrug. 'Think of the great poetry, the music and dance and ritual that spring forth from our aspiring to a life beyond death.
+
+> [Frase 8291](#lugar-8291)
+> He poked me with an elbow.
+
+> [Frase 8292](#lugar-8292)
+> We walked toward the commercial part of town.
+
+> [Frase 8301](#lugar-8301)
+> No. I'll tell you what the afterlife is.
+
+> [Frase 8307](#lugar-8307)
+> "You said earlier that death was making me grow in charisma.
+
+> [Frase 8315](#lugar-8315)
+> We window-shopped a while, then went into a shoe store.
+
+> [Frase 8317](#lugar-8317)
+> We wandered out into the sun.
+
+> [Frase 8339](#lugar-8339)
+> "You're talking about Hitler, I take it."
+
+> [Frase 8356](#lugar-8356)
+> So I'm not singling you out." 'The vast and terrible depth."
+
+> [Frase 8363](#lugar-8363)
+> "I know exactly what you mean."
+
+> [Frase 8373](#lugar-8373)
+> I followed him into the supermarket.
+
+> [Frase 8375](#lugar-8375)
+> We walked under a bright banner announcing a raffle to raise money for some incurable disease.
+
+> [Frase 8394](#lugar-8394)
+> "Do you think I'm somehow healthier because I don't know how to repress?
+
+> [Frase 8408](#lugar-8408)
+> I looked at him carefully.
+
+> [Frase 8411](#lugar-8411)
+> "No, you don't," he said.
+
+> [Frase 8416](#lugar-8416)
+> I watched him step deftly around a dozen fallen eggs oozing yolky matter from a busted carton.
+
+> [Frase 8437](#lugar-8437)
+> We went outside, walking past the dry cleaner, the hairstylist, the optician.
+
+> [Frase 8439](#lugar-8439)
+> "We have talked about ways to get around death," he said.
+
+> [Frase 8440](#lugar-8440)
+> "We have discussed how you've already tried two such ways, each cancelling the other.
+
+> [Frase 8441](#lugar-8441)
+> We have mentioned technology, train wrecks, belief in an afterlife.
+
+> [Frase 8443](#lugar-8443)
+> We crossed the street.
+
+> [Frase 8503](#lugar-8503)
+> "Plot a murder, you're saying.
+
+> [Frase 8507](#lugar-8507)
+> I looked at him.
+
+> [Frase 8526](#lugar-8526)
+> We moved in a wide arc back toward campus.
+
+> [Frase 8528](#lugar-8528)
+> We crossed the sunset overpass, pausing briefly to watch the cars shoot by.
+
+> [Frase 8536](#lugar-8536)
+> "Let's think about that.
+
+> [Frase 8537](#lugar-8537)
+> Let's examine the nature of the beast, so to speak.
+
+> [Frase 8541](#lugar-8541)
+> "We're talking theory.
+
+> [Frase 8542](#lugar-8542)
+> That's exactly what we're talking.
+
+> [Frase 8560](#lugar-8560)
+> We only want to know whether it is there, buried in the most prudent and unassuming soul."
+
+> [Frase 8567](#lugar-8567)
+> "I only want to hear you say it.
+
+> [Frase 8569](#lugar-8569)
+> I only want to elicit truths you already possess, truths you've always known at some basic level."
+
+> [Frase 8580](#lugar-8580)
+> Let me warn you, Jack.
+
+> [Frase 8582](#lugar-8582)
+> We passed my street and walked up the hill to the campus.
+
+> [Frase 8591](#lugar-8591)
+> "I know how you feel.
+
+> [Frase 8597](#lugar-8597)
+> We walked past the administration building.
+
+> [Frase 8604](#lugar-8604)
+> I'd feel terrible if I didn't tell you what I was thinking, especially at a time like this."
+
+> [Frase 8612](#lugar-8612)
+> "Don't be so sure," he said.
+
+> [Frase 8613](#lugar-8613)
+> We shook hands in front of the library.
+
+> [Frase 8614](#lugar-8614)
+> I thanked him for his honesty.
 
 © 2026 Osmancito
 
