@@ -2548,10 +2548,7 @@ El hombre es Vernon Dickey, el padre de Babette. Ha conducido catorce horas sin 
 > «¿Sabíamos que venías?»
 > [Frase 6877](#original-6877)
 
-Vernon, sentado a la mesa de la cocina, le cuenta a Jack lo que Babette opina de él y le habla de una mujer. Jack cuenta:
-
-> «Cree que eres un peligro para ti mismo. ‹Se dormirá fumando.›»
-> [Frase 6912](#original-6912)
+Vernon, sentado a la mesa de la cocina, le habla a Jack de una mujer que quiere casarse con él. Jack cuenta:
 
 > «Para que sepas dónde estoy, Jack, hay una mujer que quiere casarse con mi culo.»
 > [Frase 6920](#original-6920)
@@ -4284,9 +4281,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 6877](#lugar-6877)
 > "Did we know you were coming?"
-
-> [Frase 6912](#lugar-6912)
-> "She thinks you're a danger to yourself. 'He'll fall asleep smoking.
 
 > [Frase 6920](#lugar-6920)
 > "Just so you know where I'm at, Jack, there's a woman that wants to marry my ass.
