@@ -8,11 +8,9 @@
 
 Se divide en tres partes: «Waves and Radiation» («Ondas y Radiación»), «The Airborne Toxic Event» («El Evento Tóxico en el Aire») y «Dylarama». Suman cuarenta capítulos numerados, y ninguno trae título; aquí cada uno recibe el suyo. La narra Jack Gladney, profesor universitario.
 
-Empieza la Parte I, «Waves and Radiation», con su capítulo 1.
-
 ---
 
-## Ondas y Radiación
+## Parte I: Ondas y Radiación
 
 ### Capítulo 1: Las Camionetas
 
