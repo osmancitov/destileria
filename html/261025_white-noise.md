@@ -79,7 +79,7 @@ Las niñas dicen que Babette compra comida que luego tira. Jack la defiende, y e
 
 ### Capítulo 3: El Granero Fotografiado
 
-*Murray, el «nosotros» de quienes miran el granero, el narrador, el calor y los estudios sobre Hitler.*
+*Murray, el narrador, el calor, la gente, el granero y los profesores.*
 
 [![Óleo impresionista, al estilo de Camille Pissarro: entre manzanos, una fila de fotógrafos con trípodes mira un granero rojo en la loma; dos hombres de espaldas observan junto a un cartel que dice «El granero más fotografiado de América», y una mujer vende postales en un puesto de madera; al fondo, un autobús y varios autos.](../img/261025_white-noise_el-granero-fotografiado.jpg)](../img/261025_white-noise_el-granero-fotografiado.jpg)
 
@@ -88,55 +88,59 @@ Los jefes de departamento usan togas académicas en el College-on-the-Hill. El d
 > Una excepción a parte de lo anterior es Murray Jay Siskind, un ex periodista deportivo que me pidió almorzar con él en el comedor, donde el olor institucional de una comida vagamente definida despertó en mí un recuerdo oscuro y sombrío.
 > [Frase 131](#original-131)
 
-Murray es nuevo, encorvado y de barba amish; da clases sobre íconos vivos. Quiere huir de las ciudades, que para él significan calor, y vive en una casa de huéspedes llena de pensionistas misteriosos. Jack le pregunta:
-
-> «¿Cuál eres tú?», dije.
-> [Frase 168](#original-168)
-
-Murray contesta que es el judío. Jack nota que viste casi todo de pana:
-
-> Tuve la sensación de que desde los once años, en su atestado terreno de cemento, había asociado esta tela resistente con la educación superior en algún lugar imposiblemente lejano y sombreado de árboles.
-> [Frase 172](#original-172)
-
-Murray dice que es feliz en un pueblo llamado Blacksmith, donde evita situaciones:
-
-> Hay partes de mi cuerpo que ya no animo a las mujeres a tocar con libertad.
-> [Frase 176](#original-176)
-
-Murray cuenta que en Detroit una mujer necesitaba su semen para un juicio de divorcio.
-
-> La ironía es que amo a las mujeres.
-> [Frase 179](#original-179)
-
-Murray se deshace ante unas piernas largas, pero lo que ansía son sus mentes.
-
-> La tercera ironía, relacionada, es que son las mujeres más complejas, neuróticas y difíciles las que me atraen invariablemente.
-> [Frase 186](#original-186)
-
-> Me gustan los hombres simples y las mujeres complicadas.
-> [Frase 187](#original-187)
-
-Murray elogia lo que Jack ha creado en torno a Hitler: un sistema entero de estudios sobre esa figura, que dio fama al college. Dice:
-
-> Es lo que quiero hacer con Elvis.
-> [Frase 204](#original-204)
-
-Elvis Presley (1935-1977) fue un cantante estadounidense, una de las grandes estrellas de la música popular.
+Murray es nuevo, encorvado y de barba amish; da clases sobre íconos vivos. Elogia lo que Jack ha creado en torno a Hitler y quiere hacer lo mismo con Elvis. Jack cuenta:
 
 > Varios días después, Murray me preguntó por una atracción turística conocida como el granero más fotografiado de América.
 > [Frase 205](#original-205)
 
-Jack y Murray fueron en auto veintidós millas hasta un mirador lleno de fotógrafos, entre carteles. Murray callaba y anotaba.
+Jack y Murray manejaron veintidós millas por el campo y empezaron a ver carteles. Jack cuenta:
 
-> «Nadie ve el granero», dijo por fin.
-> [Frase 218](#original-218)
+> Contamos cinco carteles antes de llegar al lugar.
+> [Frase 211](#original-211)
 
-Murray dice que, tras ver los carteles, es imposible ver el granero: los turistas no capturan una imagen, la mantienen. Luego pregunta:
+Había cuarenta autos y un autobús en el estacionamiento. Jack cuenta:
 
-> «¿Cómo era el granero antes de ser fotografiado?», dijo.
-> [Frase 239](#original-239)
+> Caminamos por un sendero de vacas hasta el punto ligeramente elevado reservado para ver y fotografiar.
+> [Frase 213](#original-213)
 
-Murray concluye que no pueden salir del aura, la energía sin nombre que rodea al granero. A Jack le parece muy contento.
+Todos tenían cámaras y un hombre vendía postales. Jack cuenta:
+
+> Nos paramos cerca de una arboleda y miramos a los fotógrafos.
+> [Frase 216](#original-216)
+
+Murray guardó silencio y anotó en una libreta. Dijo que nadie ve el granero: tras ver los carteles, es imposible verlo. Luego dijo:
+
+> «No estamos aquí para capturar una imagen, estamos aquí para mantener una.
+> [Frase 223](#original-223)
+
+Dice que cada foto refuerza el aura, una acumulación de energías sin nombre. Tras otro silencio:
+
+> «Estar aquí es una especie de entrega espiritual.
+> [Frase 229](#original-229)
+
+> Solo vemos lo que ven los otros.
+> [Frase 230](#original-230)
+
+Habla de los miles que estuvieron allí y de los que vendrán. Murray sigue:
+
+> Hemos aceptado ser parte de una percepción colectiva.
+> [Frase 232](#original-232)
+
+Dice que es una experiencia religiosa, como todo turismo, y que la gente toma fotos de tomar fotos. Murray pregunta cómo era el granero antes de ser fotografiado y concluye:
+
+> No podemos responder a estas preguntas porque hemos leído los carteles y visto a la gente sacando las fotos.
+> [Frase 241](#original-241)
+
+> No podemos salir del aura.
+> [Frase 242](#original-242)
+
+> Somos parte del aura.
+> [Frase 243](#original-243)
+
+> Estamos aquí, estamos ahora.»
+> [Frase 244](#original-244)
+
+A Jack le parece que Murray está muy contento.
 
 ---
 
@@ -1313,35 +1317,41 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 131](#lugar-131)
 > An exception to some of the above is Murray Jay Siskind, an ex-sportswriter who asked me to have lunch with him in the dining room, where the institutional odor of vaguely defined food aroused in me an obscure and gloomy memory.
 
-> [Frase 168](#lugar-168)
-> "Which one are you?" I said.
-
-> [Frase 172](#lugar-172)
-> I had the feeling that since the age of eleven in his crowded plot of concrete he'd associated this sturdy fabric with higher learning in some impossibly distant and tree-shaded place.
-
-> [Frase 176](#lugar-176)
-> There are parts of my body I no longer encourage women to handle freely.
-
-> [Frase 179](#lugar-179)
-> The irony is that I love women.
-
-> [Frase 186](#lugar-186)
-> The third and related irony is that it's the most complex and neurotic and difficult women that I am invariably drawn to.
-
-> [Frase 187](#lugar-187)
-> I like simple men and complicated women."
-
-> [Frase 204](#lugar-204)
-> It's what I want to do with Elvis."
-
 > [Frase 205](#lugar-205)
 > Several days later Murray asked me about a tourist attraction known as the most photographed barn in America.
 
-> [Frase 218](#lugar-218)
-> "No one sees the barn," he said finally.
+> [Frase 211](#lugar-211)
+> We counted five signs before we reached the site.
 
-> [Frase 239](#lugar-239)
-> "What was the barn like before it was photographed?" he said.
+> [Frase 213](#lugar-213)
+> We walked along a cowpath to the slightly elevated spot set aside for viewing and photographing.
+
+> [Frase 216](#lugar-216)
+> We stood near a grove of trees and watched the photographers.
+
+> [Frase 223](#lugar-223)
+> "We're not here to capture an image, we're here to maintain one.
+
+> [Frase 229](#lugar-229)
+> "Being here is a kind of spiritual surrender.
+
+> [Frase 230](#lugar-230)
+> We see only what the others see.
+
+> [Frase 232](#lugar-232)
+> We've agreed to be part of a collective perception.
+
+> [Frase 241](#lugar-241)
+> We can't answer these questions because we've read the. signs, seen the people snapping the pictures.
+
+> [Frase 242](#lugar-242)
+> We can't get outside the aura.
+
+> [Frase 243](#lugar-243)
+> We're part of the aura.
+
+> [Frase 244](#lugar-244)
+> We're here, we're now."
 
 ---
 
