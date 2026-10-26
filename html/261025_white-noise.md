@@ -8,7 +8,7 @@
 
 Se divide en tres partes: «Waves and Radiation» («Ondas y Radiación»), «The Airborne Toxic Event» («El Evento Tóxico en el Aire») y «Dylarama». Suman cuarenta capítulos numerados, y ninguno trae título; aquí cada uno recibe el suyo. La cuenta Jack Gladney, profesor universitario; el primer capítulo todavía no dice su nombre.
 
-Esta lectura recorre la novela capítulo a capítulo. De cada capítulo toma las frases que más pesan, las pasa al castellano y las une con textos propios: puentes, que cuentan lo que pasa entre una frase y otra, y glosas, que explican lo que un lector nuevo necesita. Las frases en inglés están al final, en «Los Originales». Obra en curso: por ahora están los capítulos 1, 2 y 3; los demás se agregan a medida que se revisan, y esta página se actualiza en el mismo lugar.
+Esta lectura recorre la novela capítulo a capítulo. De cada capítulo toma las frases que más pesan, las pasa al castellano y las une con textos propios: puentes, que cuentan lo que pasa entre una frase y otra, y glosas, que explican lo que un lector nuevo necesita. Las frases en inglés están al final, en «Los Originales». Obra en curso: por ahora están los capítulos 1, 2, 3 y 4; los demás se agregan a medida que se revisan, y esta página se actualiza en el mismo lugar.
 
 Empieza la Parte I, «Waves and Radiation», con su capítulo 1.
 
@@ -145,6 +145,56 @@ Murray concluye que no pueden salir del aura, la energía sin nombre que rodea a
 
 ---
 
+### Capítulo 4: ¿Quién Morirá Primero?
+
+*El narrador, Babette, Bee, el rector y la pregunta de quién morirá primero.*
+
+[![Óleo impresionista, al estilo de Eugène Boudin: una mujer con ropa deportiva gris sube corriendo las gradas de piedra de un estadio y se apoya en el parapeto; al otro lado del campo, un hombre con gafas oscuras la mira sentado; el cielo está lleno de nubes alargadas y una avioneta cruza sobre los árboles.](../img/261025_white-noise_quien-morira-primero.jpg)](../img/261025_white-noise_quien-morira-primero.jpg)
+
+En Blacksmith la gente come de más cuando los tiempos son malos. Jack mira desde un estadio a Babette correr por las gradas y apoyarse arriba en el parapeto:
+
+> Su rostro estaba inclinado hacia arriba, captando el aire fresco, y no me vio.
+> [Frase 259](#original-259)
+
+Sube tres veces y baja despacio, sola.
+
+> Después del último descenso me reuní con ella al borde del campo de juego y la abracé, metiéndole las manos dentro de la cinturilla de sus pantalones grises de algodón.
+> [Frase 266](#original-266)
+
+Jack cuenta lo que Babette hace (corre, palea nieve, lee clásicos eróticos) y lo que hace él (retuerce bolsas de basura, nada). A veces entre los dos surge una pregunta, quién morirá primero:
+
+> Me pregunto si el pensamiento mismo es parte de la naturaleza del amor físico, un darwinismo inverso que otorga tristeza y miedo al sobreviviente.
+> [Frase 281](#original-281)
+
+Darwinismo: la teoría de la evolución por selección natural del naturalista inglés Charles Darwin (1809-1882): los organismos mejor adaptados a su entorno sobreviven y se reproducen con más éxito. En la frase es «inverso»: al sobreviviente le toca tristeza y miedo.
+
+O si ese pensamiento es un elemento inerte del aire, como el neón.
+
+> La sostuve en mis brazos en la pista de ceniza.
+> [Frase 283](#original-283)
+
+Jack piensa que esa pregunta los cura de su inocencia sobre el futuro. Bee, su hija con su exesposa Tweedy Browner, quiere visitarlos en Navidad. Esa noche, viernes, ven televisión los seis juntos: regla de Babette, para quitarle el encanto al medio. Los viernes Jack lee sobre Hitler:
+
+> Una de esas noches me metí en la cama junto a Babette y le conté cómo el rector me había aconsejado, allá por 1968, hacer algo con mi nombre y mi apariencia si quería que me tomaran en serio como innovador de Hitler.
+> [Frase 320](#original-320)
+
+El rector dijo que Jack Gladney no servía; acordaron una inicial más: J. A. K.
+
+> El rector advirtió contra lo que llamaba mi tendencia a hacer una presentación débil de mí mismo.
+> [Frase 323](#original-323)
+
+Le sugirió engordar y «crecer» hasta ser Hitler:
+
+> Yo tenía las ventajas de una estatura considerable, manos grandes, pies grandes, pero necesitaba con urgencia volumen, o eso creía él: un aire de exceso malsano, de relleno y exageración, de corpulencia maciza y descomunal.
+> [Frase 328](#original-328)
+
+> Si yo lograra volverme más feo, parecía estar sugiriendo, eso ayudaría enormemente a mi carrera.
+> [Frase 329](#original-329)
+
+Así Hitler le dio algo hacia lo cual crecer. Babette dijo que J. A. K. sonaba digno. Jack se sabe el personaje falso que sigue al nombre.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -215,6 +265,34 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 239](#lugar-239)
 > "What was the barn like before it was photographed?" he said.
+
+---
+
+### Capítulo 4: ¿Quién Morirá Primero?
+
+> [Frase 259](#lugar-259)
+> Her face was tilted up, catching the cool air, and she didn't see me.
+
+> [Frase 266](#lugar-266)
+> After the last descent I met her at the edge of the playing field and embraced her, putting my hands inside the sweatband of her gray cotton pants.
+
+> [Frase 281](#lugar-281)
+> I wonder if the thought itself is part of the nature of physical love, a reverse Darwinism that awards sadness and fear to the survivor.
+
+> [Frase 283](#lugar-283)
+> I held her in my arms on the cinder track.
+
+> [Frase 320](#lugar-320)
+> On one such night I got into bed next to Babette and told her how the chancellor had advised me, back in 1968, to do something about my name and appearance if I wanted to be taken seriously as a Hitler innovator.
+
+> [Frase 323](#lugar-323)
+> The chancellor warned against what he called my tendency to make a feeble presentation of self.
+
+> [Frase 328](#lugar-328)
+> I had the advantages of substantial height, big hands, big feet, but badly needed bulk, or so he believed—an air of unhealthy excess, of padding and exaggeration, hulking massive-ness.
+
+> [Frase 329](#lugar-329)
+> If I could become more ugly, he seemed to be suggesting, it would help my career enormously.
 
 © 2026 Osmancito
 
