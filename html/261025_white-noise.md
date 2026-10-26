@@ -2830,6 +2830,124 @@ Jack lo ve comer y le habla de las serpientes. Jack cuenta:
 
 ---
 
+### Capítulo 36: Cosecha de Otoño
+
+*Jack, Janet y el joven técnico de Autumn Harvest Farms.*
+
+[![En un despacho de paredes claras, un hombre de mediana edad sentado ante un escritorio escucha a un joven de bata blanca que sostiene un papel impreso.](../img/261025_white-noise_cosecha-de-otono.jpg)](../img/261025_white-noise_cosecha-de-otono.jpg)
+
+Janet llama a Jack por teléfono desde el ashram de Montana y dice que solo quiere saludarlo. Jack cuenta:
+
+> «No hemos hablado en siglos.»
+> [Frase 7806](#original-7806)
+
+> «Solo para saludarte, Jack.»
+> [Frase 7819](#original-7819)
+
+> «Ahora dime qué quieres.»
+> [Frase 7835](#original-7835)
+
+> Solo quiero saludarte.
+> [Frase 7839](#original-7839)
+
+> Te saludo, Jack.
+> [Frase 7840](#original-7840)
+
+> Te extraño.
+> [Frase 7841](#original-7841)
+
+Llegan los delegados a la conferencia sobre Hitler y Jack los recibe. Jack cuenta:
+
+> Resultaba interesante ver cuánto se parecían entre sí, a pesar de la gran diversidad de orígenes nacionales y regionales.
+> [Frase 7857](#original-7857)
+
+> Les di la bienvenida en la capilla de aspecto severamente moderno.
+> [Frase 7860](#original-7860)
+
+Jack se hace las pruebas en Autumn Harvest Farms y habla con un joven técnico. Jack cuenta:
+
+> «Pensé que estábamos aquí para una discusión general.»
+> [Frase 7939](#original-7939)
+
+> Créame, lo he visto suceder.
+> [Frase 7951](#original-7951)
+
+> Era un tipo de ojos apacibles y mala piel, y me recordó a los chicos del supermercado que se paran al final del mostrador de la caja embolsando mercancía.
+> [Frase 7955](#original-7955)
+
+> «Así es como solemos empezar», dijo.
+> [Frase 7956](#original-7956)
+
+> «Yo hago preguntas basadas en la impresión y luego usted responde lo mejor que pueda.»
+> [Frase 7957](#original-7957)
+
+> «Cuando terminemos, le doy la impresión en un sobre cerrado y usted se la lleva a su médico para una visita de pago.»
+> [Frase 7958](#original-7958)
+
+> «Solemos empezar preguntando cómo se siente.»
+> [Frase 7961](#original-7961)
+
+> «Solo cómo se siente», dijo con voz suave.
+> [Frase 7963](#original-7963)
+
+> «Solemos pasar luego al cansancio.»
+> [Frase 7965](#original-7965)
+
+> «En otras palabras, está diciendo que a veces tengo refuerzo del apetito, a veces no.»
+> [Frase 7974](#original-7974)
+
+> «¿Me lo está diciendo o me lo está preguntando?»
+> [Frase 7975](#original-7975)
+
+> «Entonces estamos de acuerdo.»
+> [Frase 7977](#original-7977)
+
+> Rechacé su oferta de té, lo cual pareció complacerlo.
+> [Frase 8001](#original-8001)
+
+> Avanzábamos sin problemas.
+> [Frase 8002](#original-8002)
+
+> «Aquí es donde preguntamos por el tabaco.»
+> [Frase 8003](#original-8003)
+
+> «Vamos avanzando bien, ¿verdad?»
+> [Frase 8012](#original-8012)
+
+> Dame vida.
+> [Frase 8022](#original-8022)
+
+El joven le pregunta por contaminantes y le habla de una masa nebulosa. Jack cuenta:
+
+> Esperé a que me dijera que estaba añadiendo años a mi vida.
+> [Frase 8035](#original-8035)
+
+> «Hablando de agua», dijo, «¿ha estado alguna vez expuesto a contaminantes industriales?»
+> [Frase 8036](#original-8036)
+
+> «¿Quiere decir si trabajo con una sustancia como el amianto?»
+> [Frase 8041](#original-8041)
+
+> ¿Qué había pasado con nuestro acuerdo tácito de avanzar con soltura por el programa, sin indagaciones largas y polémicas?
+> [Frase 8056](#original-8056)
+
+> «Usted acaba de decirme que nunca había oído hablar de eso.»
+> [Frase 8061](#original-8061)
+
+> Me tenía atrapado.
+> [Frase 8063](#original-8063)
+
+> Pasemos al siguiente tema.
+> [Frase 8069](#original-8069)
+
+> «Ahora es donde le digo que pague en la oficina de fuera.»
+> [Frase 8090](#original-8090)
+
+> Lo último que debo decirle es que lleve el sobre a su médico.
+> [Frase 8096](#original-8096)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -4681,6 +4799,112 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 7688](#lugar-7688)
 > Like they believe him now.
+
+---
+
+### Capítulo 36: Cosecha de Otoño
+
+> [Frase 7806](#lugar-7806)
+> We haven't talked in ages."
+
+> [Frase 7819](#lugar-7819)
+> "Just to greet you, Jack.
+
+> [Frase 7835](#lugar-7835)
+> Now tell me what you want."
+
+> [Frase 7839](#lugar-7839)
+> I only wish to greet you.
+
+> [Frase 7840](#lugar-7840)
+> I greet you, Jack.
+
+> [Frase 7841](#lugar-7841)
+> I miss you.
+
+> [Frase 7857](#lugar-7857)
+> It was interesting to see how closely they resembled each other despite the wide diversity of national and regional backgrounds.
+
+> [Frase 7860](#lugar-7860)
+> I welcomed them in the starkly modern chapel.
+
+> [Frase 7939](#lugar-7939)
+> "I thought we were here for a general discussion.
+
+> [Frase 7951](#lugar-7951)
+> Believe me, I've seen it happen.
+
+> [Frase 7955](#lugar-7955)
+> He was a mild-eyed fellow with a poor complexion and reminded me of the boys at the supermarket who stand at the end of the checkout counter bagging merchandise.
+
+> [Frase 7956](#lugar-7956)
+> "Here's how we usually start," he said.
+
+> [Frase 7957](#lugar-7957)
+> "I ask questions based on the printout and then you answer to the best of your ability.
+
+> [Frase 7958](#lugar-7958)
+> When we're all finished, I give you the printout in a sealed envelope and you take it to your doctor for a paid visit."
+
+> [Frase 7961](#lugar-7961)
+> We usually start by asking how do you feel."
+
+> [Frase 7963](#lugar-7963)
+> "Just how do you feel," he said in a mild voice.
+
+> [Frase 7965](#lugar-7965)
+> "We usually go on to tired.
+
+> [Frase 7974](#lugar-7974)
+> "In other words you're saying sometimes I have appetitive reinforcement, sometimes I don't."
+
+> [Frase 7975](#lugar-7975)
+> "Are you telling me or asking me?"
+
+> [Frase 7977](#lugar-7977)
+> "Then we agree."
+
+> [Frase 8001](#lugar-8001)
+> I turned down his offer of tea, which seemed to please him.
+
+> [Frase 8002](#lugar-8002)
+> We were moving right along.
+
+> [Frase 8003](#lugar-8003)
+> "Here's where we ask about smoking."
+
+> [Frase 8012](#lugar-8012)
+> "We're moving right along, aren't we?"
+
+> [Frase 8022](#lugar-8022)
+> Give me life.
+
+> [Frase 8035](#lugar-8035)
+> I waited for him to tell me I was adding years to my life.
+
+> [Frase 8036](#lugar-8036)
+> "Speaking of water," he said, "have you ever been exposed to industrial contaminants?"
+
+> [Frase 8041](#lugar-8041)
+> "You mean do I work with a substance like asbestos?
+
+> [Frase 8056](#lugar-8056)
+> What had happened to our tacit agreement to advance smartly through the program without time-consuming and controversial delving?
+
+> [Frase 8061](#lugar-8061)
+> "You just told me you'd never heard of it.
+
+> [Frase 8063](#lugar-8063)
+> He had me there.
+
+> [Frase 8069](#lugar-8069)
+> Let's get on to the next topic.
+
+> [Frase 8090](#lugar-8090)
+> "Now is where I tell you to pay in the outer office."
+
+> [Frase 8096](#lugar-8096)
+> The last thing I'm supposed to tell you is take the envelope to your doctor.
 
 © 2026 Osmancito
 
