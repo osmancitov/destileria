@@ -894,44 +894,59 @@ Wilder ha llorado casi siete horas seguidas.
 
 [![Un hombre corpulento con un abrigo de lana avanza por un pasillo luminoso de un gran centro comercial, rodeado de su familia, con una gruesa cuerda enrollada al hombro, bajo galerías y escaparates.](../img/261025_white-noise_la-cuna-de-la-desinformacion.jpg)](../img/261025_white-noise_la-cuna-de-la-desinformacion.jpg)
 
-Una noche Babette dice que pronto habrá otro niño en casa: Bee llega en un par de días. Al día siguiente Denise quiere sonsacar a su madre sobre la medicación que toma o no toma. Los seis van en el coche al centro comercial:
+Al día siguiente, Denise quiere sorprender a Babette con una pregunta sobre el Dylar. Jack cuenta:
 
-> Los seis íbamos apretados en el coche camino del centro comercial Mid-Village y Denise esperó sin más una pausa natural en la conversación para dirigir su pregunta a la nuca de Babette, con una voz vaciada de inferencias.
+> Los seis íbamos apretados en el coche camino del centro comercial Mid-Village y Denise esperó sin más una pausa natural en la conversación, dirigiendo su pregunta hacia la nuca de Babette, con una voz vaciada de inferencias.
 > [Frase 2044](#original-2044)
 
-La charla se desvía: Babette cree que el Dylar es una chica, y hablan de camellos y de Bolivia. Jack piensa en la familia como cuna de la desinformación. En una ferretería del centro comercial se cruza con Eric Massingale, que le dice que es otra persona. Eso le da ganas de comprar. Jack cuenta:
+Dentro, Jack se encuentra con Eric Massingale, que le dice que parece otra persona. Jack cuenta:
 
-> Encontré a los otros y cruzamos dos aparcamientos hasta el edificio principal del Mid-Village Mall, un edificio de diez plantas dispuesto en torno a un patio central de cascadas, paseos y jardines.
+> Encontré a los demás y cruzamos a pie dos estacionamientos hasta el edificio principal del centro comercial Mid-Village, un edificio de diez plantas dispuesto alrededor de un patio central de cascadas, paseos y jardines.
 > [Frase 2134](#original-2134)
 
-> Babette y los niños me siguieron al ascensor, a las tiendas dispuestas en los pisos, por los emporios y los grandes almacenes, desconcertados pero entusiasmados por mi deseo de comprar.
+> Babette y los niños me siguieron al ascensor, a las tiendas dispuestas a lo largo de las plantas, por los emporios y los grandes almacenes, desconcertados pero emocionados por mi deseo de comprar.
 > [Frase 2135](#original-2135)
 
 > Cuando no podía decidirme entre dos camisas, me animaban a comprar las dos.
 > [Frase 2136](#original-2136)
 
-> Cuando dije que tenía hambre, me dieron de comer pretzels, cerveza, souvlaki.
+> Cuando dije que tenía hambre, me dieron pretzels, cerveza, souvlaki.
 > [Frase 2137](#original-2137)
 
-Las dos chicas van delante, buscando cosas que él podría querer, y suena un órgano en el patio.
+Gente y música llenan el centro comercial. Jack cuenta:
 
-> Olíamos chocolate, palomitas, colonia; olíamos alfombras y pieles, salamis colgados y vinilo sepulcral.
+> Olíamos chocolate, palomitas, colonia; olíamos alfombras y pieles, salamis colgados y vinilo cadavérico.
 > [Frase 2142](#original-2142)
 
-Su familia se gloria con el acontecimiento. Jack se siente uno de ellos, comprando por fin.
+Su familia disfruta del acontecimiento. Jack cuenta:
 
-> Me daban consejos, acosaban a los dependientes en mi nombre.
+> Me daban consejos, increpaban a los dependientes en mi nombre.
 > [Frase 2145](#original-2145)
 
-> Íbamos de tienda en tienda, rechazando no solo artículos de ciertos departamentos, no solo departamentos enteros sino tiendas completas, corporaciones gigantescas que por una razón u otra no nos llamaban la atención.
+Jack se ve reflejado en las superficies. Jack cuenta:
+
+> Pasábamos de tienda en tienda, rechazando no solo artículos de ciertos departamentos, no solo departamentos enteros sino tiendas enteras, corporaciones gigantescas que no nos caían en gracia por una razón u otra.
 > [Frase 2147](#original-2147)
 
-Siempre hay otra tienda. Jack compra sin freno y se siente crecer. Manda a los niños a elegir sus regalos de Navidad, y ellos se dispersan y avisan en secreto a Babette de lo que escogen. Jack es el benefactor. Los niños saben que no se le puede pedir que discuta los detalles.
+Jack compra sin freno y siente que crece. Jack cuenta:
+
+> Pasamos de muebles a ropa de hombre, atravesando cosmética.
+> [Frase 2156](#original-2156)
+
+Jack dice a los niños que elijan sus regalos de Navidad. Jack cuenta:
 
 > Hicimos otra comida.
 > [Frase 2171](#original-2171)
 
-Suena música enlatada en vivo y el rugido de las voces sube diez pisos. Vuelven a casa en silencio, cada uno a su cuarto. Jack ve a Steffie ante el televisor, moviendo los labios para igualar las palabras.
+Una banda toca música ambiental y las voces suben por el edificio. Jack cuenta:
+
+> Volvimos a casa en coche, en silencio.
+> [Frase 2174](#original-2174)
+
+> Fuimos a nuestras habitaciones respectivas, con ganas de estar solos.
+> [Frase 2175](#original-2175)
+
+Jack mira luego a Steffie ante el televisor, moviendo los labios.
 
 ---
 
@@ -3916,8 +3931,17 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 2147](#lugar-2147)
 > We moved from store to store, rejecting not only items in certain departments, not only entire departments but whole stores, mammoth corporations that did not strike our fancy for one reason or another.
 
+> [Frase 2156](#lugar-2156)
+> We crossed from furniture to men's wear, walking through cosmetics.
+
 > [Frase 2171](#lugar-2171)
 > We ate another meal.
+
+> [Frase 2174](#lugar-2174)
+> We drove home in silence.
+
+> [Frase 2175](#lugar-2175)
+> We went to our respective rooms, wishing to be alone.
 
 ---
 
