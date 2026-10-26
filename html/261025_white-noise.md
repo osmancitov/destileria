@@ -830,50 +830,61 @@ Jack termina diciendo que las multitudes se forman contra la muerte. Murray lo s
 
 [![Un niño pequeño con gorro y mitones, de pie sobre el asiento de un coche de noche, llorando con la boca abierta, mientras un hombre con abrigo lo sostiene bajo los brazos.](../img/261025_white-noise_el-llanto-de-wilder.jpg)](../img/261025_white-noise_el-llanto-de-wilder.jpg)
 
-Wilder empezó a llorar a las dos de la tarde. Jack, que lo cuenta, recuerda la hora de la cena:
+Wilder llora desde las dos de la tarde. Babette tiene clase en una hora y media. Jack dice:
 
-> A las seis seguía llorando, sentado en el suelo de la cocina y mirando por la ventanilla del horno, y cenamos deprisa, moviéndonos a su alrededor o pasando por encima de él para llegar a los fogones y al frigorífico.
-> [Frase 1909](#original-1909)
-
-Babette tiene que dar en una hora y media su clase de sentarse, estar de pie y caminar a unos ancianos en el sótano de una iglesia. Ya le ha hablado con suavidad, lo ha bañado y lo ha examinado. Jack dice:
-
-> «Vamos a llevarlo al médico», dije.
+> «Lo llevaremos al médico», dije.
 > [Frase 1918](#original-1918)
 
-Hablan de qué médico podría ver a un niño que llora, y deciden ir. Jack cuenta:
+Jack y Babette deciden llevar a Wilder al médico. Jack cuenta:
 
-> Pero una vez decidido que iríamos al médico, empezamos a apresurarnos, a inquietarnos.
+> Pero cuando decidimos ir al médico, empezamos a apresurarnos, a inquietarnos.
 > [Frase 1928](#original-1928)
 
-> Buscamos la chaqueta y los zapatos de Wilder, tratamos de recordar qué había comido en las últimas veinticuatro horas, anticipamos las preguntas del médico y ensayamos con cuidado las respuestas.
+> Buscamos la chaqueta y los zapatos de Wilder, intentamos recordar lo que había comido en las últimas veinticuatro horas, anticipamos las preguntas que haría el médico y ensayamos con cuidado nuestras respuestas.
 > [Frase 1929](#original-1929)
 
-Les parece vital coincidir en las respuestas: los médicos pierden interés en quienes se contradicen. Jack cuenta:
+Jack teme que los médicos pierdan interés en él. Jack cuenta:
 
 > Esperé en el coche mientras Babette y Wilder entraban en el edificio médico, al final de Elm.
 > [Frase 1933](#original-1933)
 
-A Jack los consultorios lo deprimen más que los hospitales. Al salir, madre e hijo cruzan la acera y Jack los ve:
+Babette y Wilder salen a la calle. Jack cuenta:
 
-> El niño caminaba junto a su madre, de la mano, todavía llorando, y parecían una imagen de tristeza y calamidad tan aficionada que casi me eché a reír, reír no de la tristeza sino de la imagen que daban de ella, del desajuste entre su dolor y sus apariencias.
+> El niño caminaba junto a su madre, de la mano, todavía llorando, y parecían una imagen de tristeza y calamidad tan aficionadas que casi me puse a reír: reírme no de la tristeza sino de la imagen que formaban de ella, de la disparidad entre su dolor y sus apariencias.
 > [Frase 1939](#original-1939)
 
-Jack pregunta qué dijo el médico: que le dé una aspirina y lo acueste, lo mismo que dijo Denise. Babette cuenta lo que contestó el médico:
+Babette dice que el médico le aconsejó una aspirina y la cama. Dice que nunca controla lo que dice a los médicos. Jack dice:
 
-> Dijo: «Bueno, ¿y por qué no lo hizo?»
-> [Frase 1948](#original-1948)
+> «Sé exactamente a qué te refieres.»
+> [Frase 1954](#original-1954)
 
-Ya en el coche el llanto cambia de tono y se vuelve lamento. Jack pregunta qué hacen. Babette dice que piense algo, que faltan quince minutos para su clase:
+Wilder llora ahora con un gemido distinto. Jack dice:
+
+> «¿Qué hacemos?»
+> [Frase 1966](#original-1966)
+
+Babette le pide que piense algo. Jack dice:
 
 > Llevémoslo al hospital, a la entrada de urgencias.
 > [Frase 1969](#original-1969)
 
-Babette dice que llorar no es una urgencia y que la lleve a su clase. Jack la deja en la iglesia y se queda con Wilder, que lleva seis horas llorando. Lo sienta contra el volante, escucha el llanto y casi se duerme. Cuando Babette vuelve:
+> «Solo para ver qué dicen.»
+> [Frase 1970](#original-1970)
 
-> Íbamos a medio camino de casa cuando se detuvo el llanto.
-> [Frase 2023](#original-2023)
+Babette dice que no pueden llevar a un niño a urgencias por llorar. Jack dice que esperará en el coche. Babette pregunta qué les dirá. Jack dice:
 
-En casa nadie habla. Cuando Wilder pide leche, Denise corre descalza a la cocina, y él se la bebe de un trago. Es como si volviera de un lugar remoto y santo.
+> «Llevamos a los Stover este verano pasado.»
+> [Frase 1976](#original-1976)
+
+En el camino a casa, Wilder deja de llorar de golpe. Jack cuenta:
+
+> Babette no dijo nada, yo mantuve los ojos en la carretera.
+> [Frase 2025](#original-2025)
+
+> Esperé a que Babette me lanzara una mirada por detrás de su espalda, por encima de su cabeza, para mostrar alivio, felicidad, un suspenso esperanzado.
+> [Frase 2027](#original-2027)
+
+Wilder ha llorado casi siete horas seguidas.
 
 ---
 
@@ -3841,9 +3852,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 16: El Llanto de Wilder
 
-> [Frase 1909](#lugar-1909)
-> At six he was still crying, sitting on the kitchen floor and looking through the oven window, and we ate dinner quickly, moving around him or stepping over him to reach the stove and refrigerator.
-
 > [Frase 1918](#lugar-1918)
 > "We'll take him to the doctor," I said.
 
@@ -3859,14 +3867,26 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1939](#lugar-1939)
 > The boy walked next to his mother, holding her hand, still crying, and they seemed a picture of such amateurish sadness and calamity that I nearly started laughing—laughing not at the sadness but at the picture they made of it, at the disparity between their grief and its appearances.
 
-> [Frase 1948](#lugar-1948)
-> He said, 'Well, why didn't you do it?'"
+> [Frase 1954](#lugar-1954)
+> "I know exactly what you mean."
+
+> [Frase 1966](#lugar-1966)
+> "What do we do?"
 
 > [Frase 1969](#lugar-1969)
 > Let's take him to the hospital, to the emergency entrance.
 
-> [Frase 2023](#lugar-2023)
-> We were halfway home when the crying stopped.
+> [Frase 1970](#lugar-1970)
+> Just to see what they say."
+
+> [Frase 1976](#lugar-1976)
+> We took the Stovers this past summer."
+
+> [Frase 2025](#lugar-2025)
+> Babette said nothing, I kept my eyes on the road.
+
+> [Frase 2027](#lugar-2027)
+> I waited for Babette to glance at me behind his back, over his head, to show relief, happiness, hopeful suspense.
 
 ---
 
