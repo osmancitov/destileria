@@ -392,7 +392,10 @@ Jack, el narrador, cuenta que el martes evacuaron la escuela primaria de sus hij
 > Avanzamos juntos hacia el interior ultrafrío.
 > [Frase 791](#original-791)
 
-Allí se topan con Murray, un colega de Jack. Siguen adelante:
+> Wilder iba sentado en el carrito de la compra, intentando agarrar cosas de los estantes mientras pasábamos.
+> [Frase 792](#original-792)
+
+Murray, un colega de Jack, los acompaña:
 
 > Entramos en la zona de comida genérica y Murray se detuvo con su cesta de plástico a hurgar entre los cartones y los frascos blancos.
 > [Frase 802](#original-802)
@@ -1216,6 +1219,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 791](#lugar-791)
 > We moved together into the ultra-cool interior.
+
+> [Frase 792](#lugar-792)
+> Wilder sat in the shopping cart trying to grab items off the shelves as we went by.
 
 > [Frase 802](#lugar-802)
 > We moved into the generic food area and Murray paused with his plastic basket to probe among the white cartons and jars.
