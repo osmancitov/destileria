@@ -351,39 +351,34 @@ Heinrich le dice a Jack que busque abajo. Jack sube álbumes de fotos de familia
 
 ### Capítulo 8: Lecciones de Alemán
 
-*El narrador, Dunlop, Murray, el casero, el alemán, Denise y Babette.*
+*Dunlop, el casero, Murray y Jack.*
 
 [![Óleo impresionista, al estilo de Eugène Boudin: en un cuarto atestado, junto a una tabla de planchar y un radiador, un hombre delgado en camisa habla con gesto tenso a otro, muy corpulento, con toga negra y gafas oscuras, que toma notas en un cuaderno; a un lado, un catre con manta militar.](../img/261025_white-noise_lecciones-de-aleman.jpg)](../img/261025_white-noise_lecciones-de-aleman.jpg)
 
-En octubre empieza el esfuerzo de Jack por aprender alemán, casi un curso entero. Es el mayor especialista en Hitler de Norteamérica y no sabe alemán, requisito de su universidad para estudiar a Hitler. Por su fama, las clases serán secretas:
-
-> Me puse en contacto con un hombre sin relación con la universidad, alguien de quien me había hablado Murray Jay Siskind.
-> [Frase 706](#original-706)
-
-Murray, otro profesor, vive en una pensión de Middlebrook, igual que ese hombre. Tiene unos cincuenta años, el pelo ralo y ropa interior térmica bajo la camisa. Se llama Howard Dunlop:
+Jack, el narrador, es el mayor especialista en Hitler de Norteamérica y no sabe alemán. Por su fama quiere clases secretas y busca a un hombre que le recomendó su colega Murray. Es Howard Dunlop, de unos cincuenta años, vecino de pensión de Murray:
 
 > Dijo que había sido quiropráctico, pero no ofreció ninguna razón por la que ya no ejerciera, ni dijo cuándo había aprendido alemán, ni por qué, y algo en sus modales me impidió preguntar.
 > [Frase 712](#original-712)
 
-En su cuarto oscuro y atestado, Dunlop explica generalidades de gramática. Al pasar del inglés al alemán le cambia la voz, con un raspado y ruidos húmedos de pasión:
+En su cuarto oscuro y atestado, Dunlop da la clase. Al pasar del inglés al alemán le cambia la voz:
 
 > Solo estaba demostrando ciertos patrones básicos de pronunciación, pero la transformación de su cara y de su voz me hizo pensar que estaba haciendo un pasaje entre niveles del ser.
 > [Frase 724](#original-724)
 
-Jack toma notas y la hora pasa rápido.
+Jack toma notas y la hora pasa rápido. Luego va a buscar a Murray para cenar. En el porche de la pensión, Murray habla con el casero:
 
-> Dunlop logró un escaso encogimiento de hombros cuando le pedí que no hablara de las lecciones con nadie.
-> [Frase 727](#original-727)
+> Nos detuvimos en el porche el tiempo justo para que Murray le contara al casero, que estaba sentado allí, de un grifo que goteaba en el baño del segundo piso.
+> [Frase 731](#original-731)
 
-Camino de la cena, Murray dice que el casero de la pensión arregla todo pero es un intolerante, como todo el que arregla cosas. Jack no sabe. Murray dice que es obvio.
+Jack lo describe:
 
-> Me preguntó por qué había elegido este año en particular para aprender alemán, después de tantos años de escabullirme del radar.
-> [Frase 747](#original-747)
+> El casero era un hombre grande y rubicundo, de una salud tan robusta y desbordante que parecía estar sufriendo un infarto mientras lo mirábamos.
+> [Frase 732](#original-732)
 
-> Le dije que había una conferencia sobre Hitler programada para la próxima primavera en el College-on-the-Hill.
-> [Frase 748](#original-748)
+Murray dice que el casero lo arreglará, y salen a pie:
 
-En casa, Denise, la hija, echa una bolsa al compactador y escucha el estruendo para saber que funciona. Babette, la esposa de Jack, llega empapada de correr y Denise compara su ropa con la bolsa.
+> «Ya se pondrá a arreglarlo», dijo Murray, cuando echamos a andar rumbo a Elm.
+> [Frase 733](#original-733)
 
 ---
 
@@ -1177,23 +1172,20 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 8: Lecciones de Alemán
 
-> [Frase 706](#lugar-706)
-> I contacted a man not affiliated with the college, someone Murray Jay Siskind had told me about.
-
 > [Frase 712](#lugar-712)
 > He said he was a former chiropractor but didn't offer a reason why he was no longer active and didn't say when he'd learned German, or why, and something in his manner kept me from asking.
 
 > [Frase 724](#lugar-724)
 > He was only demonstrating certain basic pronunciation patterns but the transformation in his face and voice made me think he was making a passage between levels of being.
 
-> [Frase 727](#lugar-727)
-> Dunlop managed a scant shrug when I asked him not to discuss the lessons with anyone.
+> [Frase 731](#lugar-731)
+> We stopped on the porch long enough for Murray to tell the landlord, who was sitting there, about a dripping faucet in the second-floor bathroom.
 
-> [Frase 747](#lugar-747)
-> He asked me why I'd chosen this year in particular to learn German, after so many years of slipping past the radar.
+> [Frase 732](#lugar-732)
+> The landlord was a large florid man of such robust and bursting health that he seemed to be having a heart attack even as we looked on.
 
-> [Frase 748](#lugar-748)
-> I told him there was a Hitler conference scheduled for next spring at the College-on-the-Hill.
+> [Frase 733](#lugar-733)
+> "He'll get around to fixing it," Murray said, as we set out on foot in the direction of Elm.
 
 ---
 
