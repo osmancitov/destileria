@@ -1118,6 +1118,84 @@ Dos noches después Steffie se baña en agua sucia, porque es su suciedad, y Bee
 
 ---
 
+### Capítulo 20: Babette en la Pantalla
+
+*Jack, Babette, Murray, Heinrich y Denise.*
+
+[![Un cuarto infantil de noche: un televisor viejo en blanco y negro muestra el rostro gris de una mujer; una niña gira el dial, un niño pequeño se acerca a la pantalla, un hombre sentado en el suelo toma notas y otro hombre corpulento mira desde la puerta con una taza de café.](../img/261025_white-noise_babette-en-la-pantalla.jpg)](../img/261025_white-noise_babette-en-la-pantalla.jpg)
+
+Jack lee obituarios y calcula cuántos años le quedan. Babette le dice en el desayuno que la vida es buena y que tiene sueños terribles. Luego discuten quién morirá primero. Jack cuenta:
+
+> Desea sinceramente precederme.
+> [Frase 2591](#original-2591)
+
+> Discute el asunto con tal fuerza argumentativa que es evidente que cree que tenemos elección en la materia.
+> [Frase 2592](#original-2592)
+
+> Estamos a salvo mientras ellos estén cerca.
+> [Frase 2595](#original-2595)
+
+> Teme que yo muera inesperadamente, a hurtadillas, escabulléndome en la noche.
+> [Frase 2598](#original-2598)
+
+Jack responde:
+
+> Le digo que quiero morir yo primero.
+> [Frase 2602](#original-2602)
+
+> Somos dos versiones de la misma persona.
+> [Frase 2604](#original-2604)
+
+Discuten quién dejaría el agujero más grande en la vida del otro.
+
+> Tenemos discusiones serias en este nivel.
+> [Frase 2610](#original-2610)
+
+Babette sale a dar su clase de postura. Murray viene a hablar con los niños para su investigación sobre la sociedad de los niños. Jack cuenta:
+
+> Parecía creer que éramos un grupo visionario, abierto a formas especiales de conciencia.
+> [Frase 2621](#original-2621)
+
+En la cocina, Jack discute con Heinrich sobre el café y el movimiento que la gente desperdicia. Jack piensa en Babette y en el cielo:
+
+> No dejes que muramos, quiero gritarle a ese cielo del siglo V ardiente de misterio y luz en espiral.
+> [Frase 2670](#original-2670)
+
+> Que vivamos los dos para siempre, en la enfermedad y en la salud, seniles, chochos, desdentados, llenos de manchas de la edad, de vista débil, alucinando.
+> [Frase 2671](#original-2671)
+
+Jack mira el café subir por el tubo de la cafetera y sube con una taza para Murray a la habitación de Denise. Al pasar ve en la televisión el rostro de Babette. Jack cuenta:
+
+> La había visto hacía apenas una hora, comiendo huevos, pero su aparición en la pantalla me hizo pensar en ella como una figura lejana del pasado, una ex esposa y madre ausente, una caminante en las nieblas de los muertos.
+> [Frase 2708](#original-2708)
+
+> Si ella no estaba muerta, ¿lo estaba yo?
+> [Frase 2709](#original-2709)
+
+> Solo cuando el tiempo siguió su curso, se normalizó, nos devolvió una noción de nuestro entorno, la habitación, la casa, la realidad en la que estaba el televisor, solo entonces entendimos qué ocurría.
+> [Frase 2712](#original-2712)
+
+> O bien no sabía que habría una cámara a mano, o prefirió no decírnoslo, por vergüenza, amor, superstición, lo que sea que lleva a una persona a querer ocultar su imagen a quienes la conocen.
+> [Frase 2714](#original-2714)
+
+> Con el sonido bajo no podíamos oír lo que decía.
+> [Frase 2715](#original-2715)
+
+> Estábamos siendo atravesados por Babette.
+> [Frase 2723](#original-2723)
+
+> Una Babette de electrones y fotones, de cualesquiera fuerzas que produjeran esa luz gris que tomamos por su rostro.
+> [Frase 2725](#original-2725)
+
+Wilder toca la pantalla y deja una huella de su mano. Denise gira el volumen y no hay sonido; Heinrich cambia de canal y el sonido vuelve. Jack cuenta:
+
+> De vuelta en la estación de cable, él no lograba conseguir ni un zumbido, y mientras veíamos a Babette terminar la lección, nos invadía un estado de extraño recelo.
+> [Frase 2738](#original-2738)
+
+Cuando acaba el programa, las niñas bajan a esperar a Babette. Wilder se queda llorando ante el televisor, mientras Murray toma notas.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -1783,6 +1861,64 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 2498](#lugar-2498)
 > She liked me best when I was dry, derisive and cutting, a natural talent she believed I'd forfeited through long association with children.
+
+---
+
+### Capítulo 20: Babette en la Pantalla
+
+> [Frase 2591](#lugar-2591)
+> She sincerely wants to precede me.
+
+> [Frase 2592](#lugar-2592)
+> She discusses the subject with such argumentative force that it's obvious she thinks we have a choice in the matter.
+
+> [Frase 2595](#lugar-2595)
+> We're safe as long as they're around.
+
+> [Frase 2598](#lugar-2598)
+> She is afraid I will die unexpectedly, sneakily, slipping away in the night.
+
+> [Frase 2602](#lugar-2602)
+> I tell her I want to die first.
+
+> [Frase 2604](#lugar-2604)
+> We are two views of the same person.
+
+> [Frase 2610](#lugar-2610)
+> We have serious arguments on this level.
+
+> [Frase 2621](#lugar-2621)
+> He seemed to think we were a visionary group, open to special forms of consciousness.
+
+> [Frase 2670](#lugar-2670)
+> Don't let us die, I want to cry out to that fifth century sky ablaze with mystery and spiral light.
+
+> [Frase 2671](#lugar-2671)
+> Let us both live forever, in sickness and health, feebleminded, doddering, toothless, liver-spotted, dim-sighted, hallucinating.
+
+> [Frase 2708](#lugar-2708)
+> I'd seen her just an hour ago, eating eggs, but her appearance on the screen made me think of her as some distant figure from the past, some ex-wife and absentee mother, a walker in the mists of the dead.
+
+> [Frase 2709](#lugar-2709)
+> If she was not dead, was I?
+
+> [Frase 2712](#lugar-2712)
+> It was only as time drew on, normalized itself, returned to us a sense of our surroundings, the room, the house, the reality in which the TV set stood—it was only then that we understood what was going on.
+
+> [Frase 2714](#lugar-2714)
+> Either she hadn't known there would be a camera on hand or she preferred not to tell us, out of embarrassment, love, superstition, whatever causes a person to wish to withhold her image from those who know her.
+
+> [Frase 2715](#lugar-2715)
+> With the sound down low we couldn't hear what she was saying.
+
+> [Frase 2723](#lugar-2723)
+> We were being shot through with Babette.
+
+> [Frase 2725](#lugar-2725)
+> Babette of electrons and photons, of whatever forces produced that gray light we took to be her face.
+
+> [Frase 2738](#lugar-2738)
+> Back at the cable station, he couldn't raise a buzz and as we watched Babette finish the lesson, we were in a mood of odd misgiving.
 
 © 2026 Osmancito
 
