@@ -78,59 +78,40 @@ Los jefes de departamento usan togas académicas en el College-on-the-Hill. El d
 > Una excepción a parte de lo anterior es Murray Jay Siskind, un ex periodista deportivo que me pidió almorzar con él en el comedor, donde el olor institucional de una comida vagamente definida despertó en mí un recuerdo oscuro y sombrío.
 > [Frase 131](#original-131)
 
-Murray es nuevo, encorvado y de barba amish; da clases sobre íconos vivos. Elogia lo que Jack ha creado en torno a Hitler y quiere hacer lo mismo con Elvis. Jack cuenta:
+Murray es nuevo, encorvado y de barba amish; da clases sobre íconos vivos. Le gusta el pueblo porque quiere huir de las ciudades, del calor y de las complicaciones con mujeres. Vive en una pensión. Jack cuenta:
+
+> Tuve la impresión de que, desde los once años, en su abarrotada parcela de concreto, había asociado esta tela resistente con los estudios superiores en algún lugar imposiblemente lejano y sombreado de árboles.
+> [Frase 172](#original-172)
+
+Murray dice que está aquí para evitar situaciones y que lo que más ama de las mujeres son sus mentes. Elogia lo que Jack ha creado en torno a Hitler y quiere hacer lo mismo con Elvis. Jack cuenta:
 
 > Varios días después, Murray me preguntó por una atracción turística conocida como el granero más fotografiado de América.
 > [Frase 205](#original-205)
 
-Jack y Murray manejaron veintidós millas por el campo y empezaron a ver carteles. Jack cuenta:
+> Manejamos veintidós millas hacia el campo en torno a Farmington.
+> [Frase 206](#original-206)
+
+Hay prados, huertos de manzanos y vallas blancas, y empiezan a aparecer carteles. Jack cuenta:
 
 > Contamos cinco carteles antes de llegar al lugar.
 > [Frase 211](#original-211)
 
-Había cuarenta autos y un autobús en el estacionamiento. Jack cuenta:
+Hay cuarenta autos y un autobús en el estacionamiento improvisado. Jack cuenta:
 
 > Caminamos por un sendero de vacas hasta el punto ligeramente elevado reservado para ver y fotografiar.
 > [Frase 213](#original-213)
 
-Todos tenían cámaras y un hombre vendía postales. Jack cuenta:
+Todos tienen cámaras y un hombre vende postales. Jack cuenta:
 
 > Nos paramos cerca de una arboleda y miramos a los fotógrafos.
 > [Frase 216](#original-216)
 
-Murray guardó silencio y anotó en una libreta. Dijo que nadie ve el granero: tras ver los carteles, es imposible verlo. Luego dijo:
+Murray guarda silencio y anota en una libreta. Dice que nadie ve el granero: tras ver los carteles, es imposible verlo. Dice que cada foto refuerza el aura y que son parte de una percepción colectiva. La gente toma fotos de tomar fotos. Jack cuenta:
 
-> «No estamos aquí para capturar una imagen, estamos aquí para mantener una.
-> [Frase 223](#original-223)
+> Escuchamos el incesante chasquido de los botones del obturador, el crujido de las palancas que hacían avanzar la película.
+> [Frase 238](#original-238)
 
-Dice que cada foto refuerza el aura, una acumulación de energías sin nombre. Tras otro silencio:
-
-> «Estar aquí es una especie de entrega espiritual.
-> [Frase 229](#original-229)
-
-> Solo vemos lo que ven los otros.
-> [Frase 230](#original-230)
-
-Habla de los miles que estuvieron allí y de los que vendrán. Murray sigue:
-
-> Hemos aceptado ser parte de una percepción colectiva.
-> [Frase 232](#original-232)
-
-Dice que es una experiencia religiosa, como todo turismo, y que la gente toma fotos de tomar fotos. Murray pregunta cómo era el granero antes de ser fotografiado y concluye:
-
-> No podemos responder a estas preguntas porque hemos leído los carteles y visto a la gente sacando las fotos.
-> [Frase 241](#original-241)
-
-> No podemos salir del aura.
-> [Frase 242](#original-242)
-
-> Somos parte del aura.
-> [Frase 243](#original-243)
-
-> Estamos aquí, estamos ahora.»
-> [Frase 244](#original-244)
-
-A Jack le parece que Murray está muy contento.
+Murray pregunta cómo era el granero antes de ser fotografiado y concluye que no pueden salir del aura. Se le ve muy contento.
 
 ---
 
@@ -3362,8 +3343,14 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 131](#lugar-131)
 > An exception to some of the above is Murray Jay Siskind, an ex-sportswriter who asked me to have lunch with him in the dining room, where the institutional odor of vaguely defined food aroused in me an obscure and gloomy memory.
 
+> [Frase 172](#lugar-172)
+> I had the feeling that since the age of eleven in his crowded plot of concrete he'd associated this sturdy fabric with higher learning in some impossibly distant and tree-shaded place.
+
 > [Frase 205](#lugar-205)
 > Several days later Murray asked me about a tourist attraction known as the most photographed barn in America.
+
+> [Frase 206](#lugar-206)
+> We drove twenty-two miles into the country around Farmington.
 
 > [Frase 211](#lugar-211)
 > We counted five signs before we reached the site.
@@ -3374,29 +3361,8 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 216](#lugar-216)
 > We stood near a grove of trees and watched the photographers.
 
-> [Frase 223](#lugar-223)
-> "We're not here to capture an image, we're here to maintain one.
-
-> [Frase 229](#lugar-229)
-> "Being here is a kind of spiritual surrender.
-
-> [Frase 230](#lugar-230)
-> We see only what the others see.
-
-> [Frase 232](#lugar-232)
-> We've agreed to be part of a collective perception.
-
-> [Frase 241](#lugar-241)
-> We can't answer these questions because we've read the. signs, seen the people snapping the pictures.
-
-> [Frase 242](#lugar-242)
-> We can't get outside the aura.
-
-> [Frase 243](#lugar-243)
-> We're part of the aura.
-
-> [Frase 244](#lugar-244)
-> We're here, we're now."
+> [Frase 238](#lugar-238)
+> We listened to the incessant clicking of shutter release buttons, the rustling crank of levers that advanced the film.
 
 ---
 
