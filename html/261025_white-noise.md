@@ -2298,6 +2298,85 @@ Jack le habla a Babette y la describe como una persona fuerte, sana y afirmativa
 
 ---
 
+### Capítulo 30: La Puesta de Sol
+
+*Jack, Babette y Winnie.*
+
+[![Una mujer menuda con gorro de lana y un hombre con abrigo oscuro están de pie en lo alto de una colina del campus, mirando hacia el oeste un cielo en llamas sobre las casas y los árboles desnudos.](../img/261025_white-noise_la-puesta-de-sol.jpg)](../img/261025_white-noise_la-puesta-de-sol.jpg)
+
+Jack no puede dormir y despierta a Babette para exigirle acceso al señor Gray; ella se niega. Esa tarde Jack mira el Observatorio desde la ventana de su oficina y, al ver salir a Winnie Richards, corre tras ella. Jack cuenta:
+
+> La vi doblar una esquina en un derrape controlado antes de que desapareciera detrás de un edificio de mantenimiento.
+> [Frase 6290](#original-6290)
+
+> Decidí rodear la biblioteca y alcanzarla en el largo tramo recto hacia los laboratorios de química.
+> [Frase 6295](#original-6295)
+
+Jack pierde de vista a Winnie y la busca por el campus. Jack cuenta:
+
+> Volví a correr, sabiendo que estaba demasiado lejos, que desaparecería detrás de la cima de la colina, que no reaparecería en semanas.
+> [Frase 6307](#original-6307)
+
+> Qué sorpresa me llevé, al acercarme a la cima de la colina, al ver que se había detenido.
+> [Frase 6309](#original-6309)
+
+> Cuando pasé una hilera de casas particulares vi lo que la había hecho detenerse.
+> [Frase 6312](#original-6312)
+
+Jack la alcanza en lo alto de la colina, donde ella mira la puesta de sol. Winnie le dice:
+
+> «No sabía que subías aquí.»
+> [Frase 6321](#original-6321)
+
+Hablan de los atardeceres y Jack le pregunta por la pastilla en forma de platillo. Jack cuenta:
+
+> Nos quedamos allí mirando una oleada de luz chillona, como un corazón latiendo en un documental de televisión a color.
+> [Frase 6342](#original-6342)
+
+Jack le explica que el Dylar es contra el miedo a la muerte y que lo diseñó un grupo secreto. Jack dice:
+
+> «Me pregunto si has oído rumores de un grupo que trabaja en secreto en el miedo a la muerte.»
+> [Frase 6357](#original-6357)
+
+Winnie dice que es puro chisme y le pregunta quiénes son. Jack responde:
+
+> «Por eso te he estado persiguiendo.»
+> [Frase 6365](#original-6365)
+
+> Pensé que sabrías algo de ellos.
+> [Frase 6366](#original-6366)
+
+Winnie dice que psicobiólogo es una categoría muy amplia y que el verdadero trabajo está en los fosos. Jack pregunta:
+
+> «¿No hay nada que puedas decirme?»
+> [Frase 6371](#original-6371)
+
+> Algo en mi voz la hizo volverse a mirarme.
+> [Frase 6372](#original-6372)
+
+Winnie explica que el miedo es conciencia de uno mismo. Jack pregunta qué hacer para que la muerte sea menos extraña y ella dice que no sabe. Winnie dice:
+
+> «Creo que lo que haces, Jack, es olvidar la medicina de esa tableta.»
+> [Frase 6418](#original-6418)
+
+Jack piensa que ella tiene razón y que debe seguir con su vida, criar a sus hijos y dar clases. Jack dice:
+
+> «Sigo triste, Winnie, pero le has dado a mi tristeza una riqueza y una profundidad que nunca había conocido.»
+> [Frase 6424](#original-6424)
+
+Winnie se da vuelta, sonrojada. Jack cuenta:
+
+> Dije: «Eres más que una amiga de buen tiempo: eres una verdadera enemiga.»
+> [Frase 6426](#original-6426)
+
+> La vi sonrojarse.
+> [Frase 6429](#original-6429)
+
+> Echamos una última mirada al cielo y empezamos a bajar la colina.
+> [Frase 6431](#original-6431)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -3753,6 +3832,61 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 6125](#lugar-6125)
 > Then we went together to the car, loaded the merchandise, sat very close to each other as I drove home.
+
+---
+
+### Capítulo 30: La Puesta de Sol
+
+> [Frase 6290](#lugar-6290)
+> I saw her turn a corner in a controlled skid before she disappeared behind a maintenance building.
+
+> [Frase 6295](#lugar-6295)
+> I decided to cut behind the library and pick her up on the long straight approach to the chemistry labs.
+
+> [Frase 6307](#lugar-6307)
+> I started running again, knowing she was too far away, would disappear over the crest of the hill, would not resurface for weeks.
+
+> [Frase 6309](#lugar-6309)
+> How surprised I was, nearing the top of the hill, to see that she had stopped.
+
+> [Frase 6312](#lugar-6312)
+> When I cleared a row of private homes I saw what it was that had made her pause.
+
+> [Frase 6321](#lugar-6321)
+> I didn't know you came up here."
+
+> [Frase 6342](#lugar-6342)
+> We stood there watching a surge of florid light, like a heart pumping in a documentary on color TV.
+
+> [Frase 6357](#lugar-6357)
+> I wonder if you've heard rumors of a group working secretly on fear of death."
+
+> [Frase 6365](#lugar-6365)
+> "That's why I've been chasing you.
+
+> [Frase 6366](#lugar-6366)
+> I thought you'd know something about them.
+
+> [Frase 6371](#lugar-6371)
+> "Isn't there anything you can tell me?"
+
+> [Frase 6372](#lugar-6372)
+> Something in my voice made her turn to look at me.
+
+> [Frase 6418](#lugar-6418)
+> "I think what you do, Jack, is forget the medicine in that tablet.
+
+> [Frase 6424](#lugar-6424)
+> "I'm still sad, Winnie, but you've given my sadness a richness and depth it has never known before."
+
+> [Frase 6426](#lugar-6426)
+> I said, "You're more than a fair-weather friend—you're a true enemy."
+
+> [Frase 6429](#lugar-6429)
+> I watched her blush.
+
+> [Frase 6431](#lugar-6431)
+> We took a last look at the sky and started walking down the hill.
 
 © 2026 Osmancito
 
