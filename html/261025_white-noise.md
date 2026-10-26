@@ -2511,6 +2511,146 @@ Jack y Heinrich van en el auto a ver arder el manicomio, y una mujer con camisó
 
 ---
 
+### Capítulo 33: La Pistola de Vernon
+
+*Jack, Vernon, Babette y Denise.*
+
+[![En un coche viejo y oscuro, estacionado frente a una casa de pueblo, un hombre mayor de chaqueta de mezclilla le tiende a otro algo pequeño envuelto en un trapo, bajo una farola.](../img/261025_white-noise_la-pistola-de-vernon.jpg)](../img/261025_white-noise_la-pistola-de-vernon.jpg)
+
+Jack despierta de madrugada y ve a Wilder de pie junto a su cama. Wilder lo lleva a la ventana, y en el jardín hay un hombre de pelo blanco sentado en una silla de mimbre. Jack se esconde en el baño. Jack cuenta:
+
+> Pensé una cosa, que él había estado yo me puse en pie y volví a la ventana.
+> [Frase 6805](#original-6805)
+
+Jack vuelve a la ventana y observa al hombre mucho rato. Jack cuenta:
+
+> ¿Era tan viejo como yo había pensado al principio, o el pelo blanco era puramente emblemático, parte de su fuerza alegórica?
+> [Frase 6820](#original-6820)
+
+> Sería un aforista de las últimas cosas, que me daría la más breve mirada, civilizada, irónica, mientras decía su frase hábil y elegante sobre mi partida.
+> [Frase 6823](#original-6823)
+
+> Miré durante mucho rato, esperando a que moviera una mano.
+> [Frase 6824](#original-6824)
+
+Jack decide salir a sacar al hombre de la casa, pero antes mira a los niños. Jack cuenta:
+
+> Si quería mantenerlo fuera de la casa, lo que había que hacer era salir.
+> [Frase 6849](#original-6849)
+
+Jack sale al jardín con su ejemplar de Mein Kampf contra el estómago. El hombre se levanta. Jack cuenta:
+
+> Una segunda figura empezó a surgir de las ruinas numinosas de la primera, empezó a adquirir una forma efectiva, a desarrollarse a la luz nítida como un conjunto de movimientos, líneas y rasgos, un contorno, una persona viva cuyos rasgos físicos distintivos parecían cada vez más familiares mientras yo los veía cobrar existencia, un poco asombrado.
+> [Frase 6872](#original-6872)
+
+El hombre es Vernon Dickey, el padre de Babette. Ha conducido catorce horas sin avisar. Jack cuenta:
+
+> «¿Sabíamos que venías?»
+> [Frase 6877](#original-6877)
+
+Vernon, sentado a la mesa de la cocina, le cuenta a Jack lo que Babette opina de él y le habla de una mujer. Jack cuenta:
+
+> «Cree que eres un peligro para ti mismo. ‹Se dormirá fumando.›»
+> [Frase 6912](#original-6912)
+
+> «Para que sepas dónde estoy, Jack, hay una mujer que quiere casarse con mi culo.»
+> [Frase 6920](#original-6920)
+
+Babette entra en la cocina y ve a su padre. Jack cuenta:
+
+> Era la imagen misma del pasmo boquiabierto, el ideal luminoso, no menos confundida y alarmada de lo que yo había estado cuando lo vi sentado en el jardín, mortalmente quieto.
+> [Frase 6964](#original-6964)
+
+> «¿Sabíamos que venías?», dijo ella.
+> [Frase 6966](#original-6966)
+
+Vernon se queda unos días y Babette vuelve a ser la hija de su padre. Jack cuenta:
+
+> Mientras preparábamos y comíamos el desayuno, mientras los niños bajaban y se acercaban con cautela a Vernon para recibir besos y despeinadas, mientras pasaban las horas y Babette se acostumbraba a la visión de la figura de andar cansino en vaqueros remendados, empecé a notar el placer que ella sentía al rondar cerca, haciendo pequeñas cosas por él, estando allí para escuchar.
+> [Frase 6979](#original-6979)
+
+> Y luego se volvía hacia ella y decía: «Jack sabe el problema que tengo con los parques estatales.»
+> [Frase 6992](#original-6992)
+
+Jack y Babette le dan a Vernon el cuarto de Heinrich. Jack cuenta:
+
+> Pasamos a Heinrich al sofá de abajo y le dimos a Vernon su cuarto.
+> [Frase 6994](#original-6994)
+
+> Era inquietante encontrarlo en la cocina a las siete de la mañana, a las seis, a la hora grisácea que fuera en que Babette o yo bajábamos a hacer café.
+> [Frase 6995](#original-6995)
+
+> Daba la impresión de estar empeñado en burlarnos, en explotar nuestra culpa, en mostrarnos que por poco que durmiéramos nosotros, él dormía menos.
+> [Frase 6996](#original-6996)
+
+Vernon se pone a hablarle a Jack de la vejez y de la rutina. Jack cuenta:
+
+> «Te voy a decir una cosa, Jack.»
+> [Frase 6997](#original-6997)
+
+Vernon mira la casa de Jack. Jack cuenta:
+
+> «Se te hunde el canalón del tejado», me dijo.
+> [Frase 7011](#original-7011)
+
+Vernon le pide a Jack que le responda una cosa. Jack cuenta:
+
+> «¿Que te diga qué?»
+> [Frase 7027](#original-7027)
+
+Una noche, Jack oye una voz. Jack cuenta:
+
+> Una noche oí una voz y pensé que gemía en sueños.
+> [Frase 7031](#original-7031)
+
+Vernon lo lleva afuera para hablar de algo en privado. Jack cuenta:
+
+> «Lo que tenemos aquí es una situación que deberíamos manejar en privado.»
+> [Frase 7140](#original-7140)
+
+> Salimos por la puerta de atrás para no despertar a Heinrich.
+> [Frase 7146](#original-7146)
+
+Vernon se sienta al volante y quiere darle algo a Jack. Jack cuenta:
+
+> «Quiero que te quedes con esto, Jack.»
+> [Frase 7153](#original-7153)
+
+> Ahora quiero que te quedes con él.
+> [Frase 7156](#original-7156)
+
+> ¿Me das el coche?
+> [Frase 7161](#original-7161)
+
+Jack sostiene una pistola cargada y Vernon le habla del arma. Jack cuenta:
+
+> «Odio decirte qué destrozo puede causar en la colocación de las facciones de un hombre.»
+> [Frase 7214](#original-7214)
+
+> Me dio una mirada astuta.
+> [Frase 7215](#original-7215)
+
+Una cuadrilla arregla la calle y la visita de Vernon parece acabar. Jack cuenta:
+
+> Empezamos a ver un espacio en blanco donde Vernon estaba.
+> [Frase 7244](#original-7244)
+
+> Nos miraba desde una distancia prudente, como si fuéramos desconocidos con resentimientos secretos.
+> [Frase 7245](#original-7245)
+
+Babette despide a Vernon en la acera. Jack cuenta:
+
+> «Es una buena chica», me dijo con gesto sombrío.
+> [Frase 7253](#original-7253)
+
+> Luego tosió un rato, regalándonos un episodio más de flema azotadora.
+> [Frase 7255](#original-7255)
+
+> Nos asomamos a la ventanilla del lado del pasajero, mirando cómo se encorvaba hasta su postura de conducir, acomodándose con desparpajo entre la puerta y el asiento, con el brazo izquierdo colgando por la ventanilla.
+> [Frase 7257](#original-7257)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -4119,6 +4259,106 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 6717](#lugar-6717)
 > She was white-haired and slight, fringed in burning air, and we could see she was mad, so lost to dreams and furies that the fire around her head seemed almost incidental.
+
+---
+
+### Capítulo 33: La Pistola de Vernon
+
+> [Frase 6805](#lugar-6805)
+> I thought one thing, that he'd been I got to my feet and went back to the window.
+
+> [Frase 6820](#lugar-6820)
+> Was he as old as I'd first thought—or was the white hair purely emblematic, part of his allegorical force?
+
+> [Frase 6823](#lugar-6823)
+> He would be an aphorist of last things, giving me the barest glance—civilized, ironic—as he spoke his deft and stylish line about my journey out.
+
+> [Frase 6824](#lugar-6824)
+> I watched for a long time, waiting for him to move a hand.
+
+> [Frase 6849](#lugar-6849)
+> If I wanted to keep him out of the house, the thing to do was go outside.
+
+> [Frase 6872](#lugar-6872)
+> A second figure began to emerge from the numinous ruins of the first, began to assume effective form, develop in the crisp light as a set of movements, lines and features, a contour, a living person whose distinctive physical traits seemed more and more familiar as I watched them come into existence, a little amazed.
+
+> [Frase 6877](#lugar-6877)
+> "Did we know you were coming?"
+
+> [Frase 6912](#lugar-6912)
+> "She thinks you're a danger to yourself. 'He'll fall asleep smoking.
+
+> [Frase 6920](#lugar-6920)
+> "Just so you know where I'm at, Jack, there's a woman that wants to marry my ass.
+
+> [Frase 6964](#lugar-6964)
+> She was the picture of gapingness, the bright ideal, no less confused and alarmed than I had been when I saw him sitting in the yard, deathly still.
+
+> [Frase 6966](#lugar-6966)
+> "Did we know you were coming?" she said.
+
+> [Frase 6979](#lugar-6979)
+> As we fixed and ate breakfast, as the kids came down and warily approached Vernon for kisses and hair-mussings, as the hours passed and Babette became accustomed to the sight of the ambling figure in patched jeans, I began to notice the pleasure she took in hovering nearby, doing little things for him, being there to listen.
+
+> [Frase 6992](#lugar-6992)
+> And then he'd turn to her and say, "Jack knows the problem I have with state parks.
+
+> [Frase 6994](#lugar-6994)
+> We moved Heinrich down to the sofa and gave Vernon his room.
+
+> [Frase 6995](#lugar-6995)
+> It was unnerving to find him in the kitchen at seven in the morning, at six, at whatever grayish hour Babette or I went down to make coffee.
+
+> [Frase 6996](#lugar-6996)
+> He gave the impression he was intent on outfoxing us, working on our guilt, showing us that no matter how little sleep we got, he got less.
+
+> [Frase 6997](#lugar-6997)
+> "Tell you what, Jack.
+
+> [Frase 7011](#lugar-7011)
+> "Your roof gutter's sagging," he told me.
+
+> [Frase 7027](#lugar-7027)
+> "Tell you what?"
+
+> [Frase 7031](#lugar-7031)
+> One night I heard a voice and thought he was moaning in his sleep.
+
+> [Frase 7140](#lugar-7140)
+> "What we have here is a situation we ought to conduct in private.
+
+> [Frase 7146](#lugar-7146)
+> We went out the back door to keep from waking Heinrich.
+
+> [Frase 7153](#lugar-7153)
+> "I want you to have this, Jack."
+
+> [Frase 7156](#lugar-7156)
+> Now I want you to have it.
+
+> [Frase 7161](#lugar-7161)
+> You're giving me the car?
+
+> [Frase 7214](#lugar-7214)
+> I hate to tell you what mischief it can cause with the placement of a man's features."
+
+> [Frase 7215](#lugar-7215)
+> He gave me a canny look.
+
+> [Frase 7244](#lugar-7244)
+> We began to see a blank space where Vernon stood.
+
+> [Frase 7245](#lugar-7245)
+> He regarded us from a prudent distance, as if we were strangers with secret resentments.
+
+> [Frase 7253](#lugar-7253)
+> ''She's a good girl," he told me grimly.
+
+> [Frase 7255](#lugar-7255)
+> Then he coughed a while, giving us one more episode of lashing phlegm.
+
+> [Frase 7257](#lugar-7257)
+> We leaned toward the window on the passenger's side, watching him hunch around into his driving posture, setting himself casually between the door and the seat, his left arm hanging out the window.
 
 © 2026 Osmancito
 
