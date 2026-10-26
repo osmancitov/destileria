@@ -280,42 +280,57 @@ Babette hornea sus galletas favoritas. Heinrich juega ajedrez por correo con un 
 
 [![Óleo impresionista, al estilo de Eugène Boudin: sobre una mesa, junto a una lámpara, un álbum de fotos antiguas abierto, con niños, mujeres con sombrero y un hombre que se protege los ojos del sol; dos manos pasan la página y por la ventana se ven la luna y un triciclo bajo la luz de un porche.](../img/261025_white-noise_quien-complace-a-quien.jpg)](../img/261025_white-noise_quien-complace-a-quien.jpg)
 
-Dos noches por semana Babette enseña postura a ancianos en un sótano. Una noche, ya en la cama, discuten quién complace a quién. Babette dice que sabe que a Jack le gusta que ella lea cosas eróticas. Jack responde:
+Dos noches por semana Babette da clases de postura a ancianos en una iglesia. Esa noche Jack y ella se desvisten en el dormitorio. Jack cuenta:
+
+> Creíamos que algo vivía en el sótano.
+> [Frase 594](#original-594)
+
+Cada uno quiere complacer al otro. Babette ofrece leerle. Jack dice:
 
 > «Pensé que a ti también te gustaba.»
 > [Frase 612](#original-612)
 
-Babette dice que quien se beneficia es quien escucha, como cuando lee al viejo Treadwell. Jack contesta que él no es ciego. Ella responde:
+Babette dice que el beneficio es de quien escucha. Jack le recuerda que a ella le gusta leer pasajes eróticos. Babette dice:
 
-> «Si a ti te complace, entonces me gusta hacerlo.»
+> «Si a ti te agrada, entonces me gusta hacerlo.»
 > [Frase 617](#original-617)
 
-Jack insiste en que ella también debe disfrutar. Ella dice:
+Jack dice que también debe agradarle a ella. Babette dice:
 
-> «Me complace que disfrutes mi lectura.»
+> «Me agrada que disfrutes mi lectura.»
 > [Frase 620](#original-620)
 
-Jack le ofrece épocas para la lectura, y cada uno quiere que elija el otro. Babette dice:
+Babette quiere leer. Jack le pide que elija un siglo y le propone lecturas. Jack dice:
+
+> Tenemos íncubos y súcubos.
+> [Frase 634](#original-634)
+
+Cada uno quiere que el otro elija. Babette dice:
 
 > ¿No queremos un equilibrio, una especie de toma y daca?
 > [Frase 640](#original-640)
 
-Jack dice que elegirá él y que ella leerá. Ella pone una condición:
+Jack elegirá y ella leerá. Babette dice:
 
-> «Pero no quiero que elijas nada que tenga hombres dentro de mujeres, comillas, comillas, o hombres entrando en mujeres. 'Yo entré en ella.' 'Él entró en mí.' No somos vestíbulos ni ascensores. 'Lo quería dentro de mí', como si pudiera meterse del todo, firmar el registro, dormir, comer, etcétera.
+> «Pero no quiero que elijas nada que tenga hombres dentro de mujeres, entre comillas, o hombres que entran en mujeres. “Entré en ella.” “Él entró en mí.” No somos vestíbulos ni ascensores. “Lo quería dentro de mí”, como si pudiera arrastrarse del todo hacia adentro, firmar el registro, dormir, comer, y así sucesivamente.»
 > [Frase 646](#original-646)
 
-Ella inventa frases con un tal Rex y Jack siente una erección. Después Jack piensa en que Babette y él se cuentan todo, una forma de renovación y de confianza. Jack cuenta:
+Babette se ríe de sus propias frases eróticas. Jack y Babette se cuentan todo. Jack cuenta:
 
-> En estos relatos nocturnos creamos un espacio entre las cosas tal como las sentimos entonces y como las decimos ahora.
+> En estos recitales nocturnos creamos un espacio entre las cosas como las sentimos en su momento y como las decimos ahora.
 > [Frase 669](#original-669)
 
-Ese espacio es de la ironía y la simpatía, y con él se rescatan del pasado. Jack elige el siglo veinte:
+Jack elige el siglo veinte y va a buscar una revista al cuarto de Heinrich. Jack cuenta:
 
-> Me puse la bata y fui por el pasillo hasta la habitación de Heinrich a buscar una revista barata de la que Babette pudiera leer, de esas que traen cartas de lectores que detallan sus experiencias sexuales.
+> Me puse la bata y fui por el pasillo hasta el cuarto de Heinrich a buscar una revista chabacana de la que Babette pudiera leer, de esas que traen cartas de lectores que detallan sus experiencias sexuales.
 > [Frase 672](#original-672)
 
-Heinrich le dice a Jack que busque abajo. Jack sube álbumes de fotos de familia, y pasan horas mirándolos en la cama. Se pregunta quién morirá primero.
+Heinrich hace un experimento con Wilder. Jack encuentra álbumes de fotos. Jack cuenta:
+
+> Pasamos horas revisándolos, sentados en la cama.
+> [Frase 682](#original-682)
+
+En las fotos, la gente se ve escéptica ante la cámara. Jack se pregunta quién morirá primero.
 
 ---
 
@@ -3487,6 +3502,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 7: Quién Complace a Quién
 
+> [Frase 594](#lugar-594)
+> We believed something lived in the basement.
+
 > [Frase 612](#lugar-612)
 > "I thought you liked it too."
 
@@ -3495,6 +3513,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 620](#lugar-620)
 > "It pleases me that you enjoy my reading."
+
+> [Frase 634](#lugar-634)
+> We have incubi and succubi.
 
 > [Frase 640](#lugar-640)
 > Don't we want a balance, a sort of give-and-take?
@@ -3507,6 +3528,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 672](#lugar-672)
 > I put on my bathrobe and went down the hall to Heinrich's room to find a trashy magazine Babette might read from, the type that features letters from readers detailing their sexual experiences.
+
+> [Frase 682](#lugar-682)
+> We spent hours going through them, sitting up in bed.
 
 ---
 
