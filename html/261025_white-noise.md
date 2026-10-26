@@ -701,12 +701,12 @@ Más tarde Jack estudia alemán en la cama. Denise entra y se tumba a los pies, 
 
 Denise cuenta que Babette no recuerda nada y que encontró en la basura un frasco de Dylar, uno cada tres días. No sale en su libro de fármacos. Jack dice que debe ser reciente y ofrece:
 
-> ¿Quieres que vuelva a mirar el libro?»
+> «¿Quieres que vuelva a mirar el libro?»
 > [Frase 1539](#original-1539)
 
-Denise responde que ya miró. Jack contesta:
+Denise responde que ya miró; Jack propone otra salida:
 
-> Miré» «Siempre podríamos llamar a su médico.
+> «Miré.» «Siempre podríamos llamar a su médico.»
 > [Frase 1541](#original-1541)
 
 Jack no quiere darle demasiada importancia: todos toman algo y olvidan cosas. Denise sigue queriendo saber. Jack cuenta:
