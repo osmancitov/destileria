@@ -864,11 +864,21 @@ Jack mira la alfombra y cuenta hasta siete. Murray lo mira agradecido desde el o
 
 ### Capítulo 16: El Llanto de Wilder
 
-*Wilder, Babette, Jack y Denise.*
+*Jack, Babette, Wilder, el médico y el llanto.*
 
 [![Un niño pequeño con gorro y mitones, de pie sobre el asiento de un coche de noche, llorando con la boca abierta, mientras un hombre con abrigo lo sostiene bajo los brazos.](../img/261025_white-noise_el-llanto-de-wilder.jpg)](../img/261025_white-noise_el-llanto-de-wilder.jpg)
 
-A las seis Wilder lleva cuatro horas llorando, sentado en el suelo de la cocina, mirando por la ventanilla del horno. Babette debe dar en una hora y media su clase de sentarse, estar de pie y caminar a unos ancianos en el sótano de una iglesia. Jack propone llevarlo al médico y dejarla después en la iglesia. Hasta entonces solo había exasperación; ahora, de camino:
+Wilder empezó a llorar a las dos de la tarde. Jack, que lo cuenta, recuerda la hora de la cena:
+
+> A las seis seguía llorando, sentado en el suelo de la cocina y mirando por la ventanilla del horno, y cenamos deprisa, moviéndonos a su alrededor o pasando por encima de él para llegar a los fogones y al frigorífico.
+> [Frase 1909](#original-1909)
+
+Babette tiene que dar en una hora y media su clase de sentarse, estar de pie y caminar a unos ancianos en el sótano de una iglesia. Ya le ha hablado con suavidad, lo ha bañado y lo ha examinado. Jack dice:
+
+> «Vamos a llevarlo al médico», dije.
+> [Frase 1918](#original-1918)
+
+Hablan de qué médico podría ver a un niño que llora, y deciden ir. Jack cuenta:
 
 > Pero una vez decidido que iríamos al médico, empezamos a apresurarnos, a inquietarnos.
 > [Frase 1928](#original-1928)
@@ -876,38 +886,32 @@ A las seis Wilder lleva cuatro horas llorando, sentado en el suelo de la cocina,
 > Buscamos la chaqueta y los zapatos de Wilder, tratamos de recordar qué había comido en las últimas veinticuatro horas, anticipamos las preguntas del médico y ensayamos con cuidado las respuestas.
 > [Frase 1929](#original-1929)
 
-> Parecía vital ponernos de acuerdo en las respuestas aunque no estuviéramos seguros de que fueran correctas.
-> [Frase 1930](#original-1930)
+Les parece vital coincidir en las respuestas: los médicos pierden interés en quienes se contradicen. Jack cuenta:
 
-Los médicos pierden interés en quienes se contradicen.
+> Esperé en el coche mientras Babette y Wilder entraban en el edificio médico, al final de Elm.
+> [Frase 1933](#original-1933)
 
-> Este miedo ha marcado desde siempre mi relación con los médicos: que pierdan interés en mí, que ordenen a sus recepcionistas llamar otros nombres antes que el mío, que den mi muerte por descontada.
-> [Frase 1932](#original-1932)
+A Jack los consultorios lo deprimen más que los hospitales. Al salir, madre e hijo cruzan la acera y Jack los ve:
 
-Jack espera en el coche mientras Babette entra con Wilder en el edificio médico. Al salir, el niño sigue llorando. El médico le ha dicho que le dé una aspirina y lo acueste, lo mismo que dijo Denise. Babette dice:
+> El niño caminaba junto a su madre, de la mano, todavía llorando, y parecían una imagen de tristeza y calamidad tan aficionada que casi me eché a reír, reír no de la tristeza sino de la imagen que daban de ella, del desajuste entre su dolor y sus apariencias.
+> [Frase 1939](#original-1939)
 
-> «No sé qué le dije», dijo, «nunca controlo lo que digo a los médicos, y mucho menos lo que ellos me dicen.
-> [Frase 1952](#original-1952)
+Jack pregunta qué dijo el médico: que le dé una aspirina y lo acueste, lo mismo que dijo Denise. Babette cuenta lo que contestó el médico:
 
-Hablan de los médicos, como en una conversación durante un paseo espacial: todo flota. Uno de los dos dice:
+> Dijo: «Bueno, ¿y por qué no lo hizo?»
+> [Frase 1948](#original-1948)
 
-> «Yo miento a los médicos todo el tiempo.»
-> [Frase 1957](#original-1957)
+Ya en el coche el llanto cambia de tono y se vuelve lamento. Jack pregunta qué hacen. Babette dice que piense algo, que faltan quince minutos para su clase:
 
-El otro también. Ya en el coche el llanto se vuelve lamento. Jack propone urgencias; Babette dice que llorar no es una urgencia. La deja en la iglesia, en la sexta hora de llanto. Jack piensa en el hospital:
+> Llevémoslo al hospital, a la entrada de urgencias.
+> [Frase 1969](#original-1969)
 
-> Pero si un médico que había examinado al niño a fondo en su acogedor consultorio, con cuadros de marcos dorados y labrados en las paredes, no había encontrado nada malo, ¿qué podrían hacer los técnicos de urgencias, gente entrenada para saltar sobre pechos y golpear corazones inmóviles?
-> [Frase 1988](#original-1988)
+Babette dice que llorar no es una urgencia y que la lleve a su clase. Jack la deja en la iglesia y se queda con Wilder, que lleva seis horas llorando. Lo sienta contra el volante, escucha el llanto y casi se duerme. Cuando Babette vuelve:
 
-Sienta a Wilder contra el volante, de cara a él. El lamento continúa, ola tras ola, tan grande y puro que casi puede escucharlo. No gimotea ni lloriquea.
+> Íbamos a medio camino de casa cuando se detuvo el llanto.
+> [Frase 2023](#original-2023)
 
-> Gritaba, decía cosas sin nombre de un modo que me tocaba por su hondura y su riqueza.
-> [Frase 1993](#original-1993)
-
-> Era un antiguo treno, tanto más impresionante por su monotonía resuelta.
-> [Frase 1994](#original-1994)
-
-Jack deja de querer que pare y se deja caer en el llanto como en la lluvia, y casi se duerme. De regreso con Babette, el llanto se detiene de golpe. En casa todos se mueven en silencio y Denise corre descalza a por leche. Wilder parece volver de un lugar remoto y sagrado.
+En casa nadie habla. Cuando Wilder pide leche, Denise corre descalza a la cocina, y él se la bebe de un trago. Es como si volviera de un lugar remoto y santo.
 
 ---
 
@@ -1506,32 +1510,32 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 16: El Llanto de Wilder
 
+> [Frase 1909](#lugar-1909)
+> At six he was still crying, sitting on the kitchen floor and looking through the oven window, and we ate dinner quickly, moving around him or stepping over him to reach the stove and refrigerator.
+
+> [Frase 1918](#lugar-1918)
+> "We'll take him to the doctor," I said.
+
 > [Frase 1928](#lugar-1928)
 > But once we decided to visit the doctor, we began to hurry, to fret.
 
 > [Frase 1929](#lugar-1929)
 > We looked for Wilder's jacket and shoes, tried to remember what he'd eaten in the last twenty-four hours, anticipated questions the doctor would ask and rehearsed our answers carefully.
 
-> [Frase 1930](#lugar-1930)
-> It seemed vital to agree on the answers even if we weren't sure they were correct.
+> [Frase 1933](#lugar-1933)
+> I waited in the car while Babette and Wilder went into the medical building at the end of Elm.
 
-> [Frase 1932](#lugar-1932)
-> This fear has long informed my relationship with doctors, that they would lose interest in me, instruct their receptionists to call other names before mine, take my dying for granted.
+> [Frase 1939](#lugar-1939)
+> The boy walked next to his mother, holding her hand, still crying, and they seemed a picture of such amateurish sadness and calamity that I nearly started laughing—laughing not at the sadness but at the picture they made of it, at the disparity between their grief and its appearances.
 
-> [Frase 1952](#lugar-1952)
-> "I don't know what I told him," she said, "I'm never in control of what I say to doctors, much less what they say to me.
+> [Frase 1948](#lugar-1948)
+> He said, 'Well, why didn't you do it?'"
 
-> [Frase 1957](#lugar-1957)
-> "I lie to doctors all the time."
+> [Frase 1969](#lugar-1969)
+> Let's take him to the hospital, to the emergency entrance.
 
-> [Frase 1988](#lugar-1988)
-> But if a doctor who examined the boy thoroughly in his cozy office with paintings on the wall in elaborate gilded frames could find nothing wrong, then what could emergency technicians do, people trained to leap on chests and pound at static hearts?
-
-> [Frase 1993](#lugar-1993)
-> He was crying out, saying nameless things in a way that touched me with its depth and richness.
-
-> [Frase 1994](#lugar-1994)
-> This was an ancient dirge all the more impressive for its resolute monotony.
+> [Frase 2023](#lugar-2023)
+> We were halfway home when the crying stopped.
 
 ---
 
