@@ -2279,9 +2279,6 @@ Jack le responde:
 > «Vamos a salir bien de esta», dije.
 > [Frase 6115](#original-6115)
 
-> «Quizá más fuertes que nunca.»
-> [Frase 6116](#original-6116)
-
 > Estamos decididos a estar bien.
 > [Frase 6117](#original-6117)
 
@@ -3817,9 +3814,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 6115](#lugar-6115)
 > "We're going to come through this thing all right," I said.
-
-> [Frase 6116](#lugar-6116)
-> "Maybe stronger than ever.
 
 > [Frase 6117](#lugar-6117)
 > We're determined to be well.
