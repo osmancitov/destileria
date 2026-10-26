@@ -2063,12 +2063,7 @@ Dentro, Babette le da de comer a Wilder y dice que estar con él la anima. Jack 
 > «Sé a qué te refieres.»
 > [Frase 5768](#original-5768)
 
-Jack agrega que le molesta que los otros niños dejen escapar los momentos especiales. Jack dice:
-
-> «Pero cuando Wilder lo hace, veo el espíritu del genio en acción.»
-> [Frase 5775](#original-5775)
-
-Babette dice que hay algo más grande en Wilder que no logra nombrar. Jack responde:
+Jack dice que le molesta que los otros niños dejen escapar los momentos especiales. Babette dice que hay algo más grande en Wilder que no logra nombrar. Jack responde:
 
 > «Recuérdame preguntarle a Murray», dije.
 > [Frase 5778](#original-5778)
@@ -2106,10 +2101,12 @@ Jack le dice que el Dylar mejora la memoria de Babette. Denise dice que no le cr
 > «Porque no vendrías a buscarme a la escuela solo para decirme eso.»
 > [Frase 5829](#original-5829)
 
-> Porque ya descubrimos que no puedes conseguirlo con receta.
-> [Frase 5830](#original-5830)
+Denise pregunta si su madre es una adicta. Jack dice:
 
-Jack le pregunta qué hizo con el frasco. Denise pregunta:
+> «Nos gustaría saber qué hiciste con el frasco.»
+> [Frase 5838](#original-5838)
+
+Denise pregunta:
 
 > «¿Cómo sabes que me las llevé?»
 > [Frase 5840](#original-5840)
@@ -2119,10 +2116,18 @@ Jack responde:
 > Yo lo sé, tú lo sabes.
 > [Frase 5841](#original-5841)
 
-Jack ensaya argumentos varios días. Jack cuenta:
+Denise dice:
+
+> «Si alguien quiere decirme qué es realmente el Dylar, quizá lleguemos a algo.»
+> [Frase 5842](#original-5842)
+
+Denise no cede. Jack cuenta:
 
 > Incluso recluté a Babette, convenciéndola de que el frasco debía estar en manos de adultos.
 > [Frase 5850](#original-5850)
+
+> Mantendría el objeto escondido hasta que le contáramos su secreto.
+> [Frase 5853](#original-5853)
 
 ---
 
@@ -3542,9 +3547,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 5768](#lugar-5768)
 > "I know what you mean.
 
-> [Frase 5775](#lugar-5775)
-> But when Wilder does it, I see the spirit of genius at work."
-
 > [Frase 5778](#lugar-5778)
 > "Remind me to ask Murray," I said.
 
@@ -3569,8 +3571,8 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 5829](#lugar-5829)
 > "Because you wouldn't come and get me at school just to tell me that.
 
-> [Frase 5830](#lugar-5830)
-> Because we already found out you can't get it with a prescription.
+> [Frase 5838](#lugar-5838)
+> "We'd like to know what you did with the bottle.
 
 > [Frase 5840](#lugar-5840)
 > "How do you know I took them?"
@@ -3578,8 +3580,14 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 5841](#lugar-5841)
 > 1 know it, you know it.
 
+> [Frase 5842](#lugar-5842)
+> "If somebody wants to tell me what Dylar really is, maybe we'll get somewhere."
+
 > [Frase 5850](#lugar-5850)
 > I even enlisted Babette, convincing her that the bottle belonged in adult hands.
+
+> [Frase 5853](#lugar-5853)
+> She would keep the object hidden until we told her its secret.
 
 ---
 
