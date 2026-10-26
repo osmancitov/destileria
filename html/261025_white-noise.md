@@ -754,56 +754,73 @@ Jack se ofreció a ir a la clase de Murray.
 
 [![Un aula con estudiantes sentados en el suelo y un profesor de barba que camina entre ellos, mientras un hombre de toga negra los observa de pie contra la pared.](../img/261025_white-noise_la-madre-y-la-multitud.jpg)](../img/261025_white-noise_la-madre-y-la-multitud.jpg)
 
-Jack, con gafas oscuras y toga negra, entra en el aula de Murray. Murray habla de Elvis y de su madre, Gladys, y dice que las madres saben. Jack contesta:
+Jack entra en el aula de Murray, que habla de Elvis y de su madre. Murray dice:
 
-> «Hitler adoraba a su madre», dije.
-> [Frase 1800](#original-1800)
+> «¿Sabía su madre que Elvis moriría joven?»
+> [Frase 1791](#original-1791)
 
-Un rumor de atención recorre el aula. Murray sigue andando, con más cuidado, entre los estudiantes.
+Murray sigue con Elvis y Gladys. Murray dice:
 
 > «A Elvis y a Gladys les gustaba acurrucarse y acariciarse», dijo.
+> [Frase 1803](#original-1803)
+
+> «Dormían en la misma cama hasta que él empezó a acercarse a la madurez física.»
 > [Frase 1804](#original-1804)
 
-> «Dormían en la misma cama hasta que él empezó a acercarse a la madurez física.
+> «Hablaban entre sí con media lengua todo el tiempo.»
 > [Frase 1805](#original-1805)
 
-> Hablaban entre sí en lenguaje de bebé a todas horas.»
+Jack entra en el juego de Murray. Jack dice:
+
+> «Hitler adoraba a su madre», dije.
 > [Frase 1806](#original-1806)
 
-Jack habla de Hitler y de su madre, Klara, que lo mimaba. Murray, de Gladys, que llevaba a Elvis al colegio cada día. Murray dice:
+Hablan por turnos de Elvis y de Hitler. Murray dice:
 
-> Lo defendía en pequeñas riñas callejeras y arremetía contra cualquier chico que intentara intimidarlo.»
+> «Gladys llevaba a Elvis a la escuela y a casa cada día.»
+> [Frase 1811](#original-1811)
+
+> «Lo defendía en pequeñas peleas callejeras, se lanzaba contra cualquier chico que intentara intimidarlo.»
 > [Frase 1812](#original-1812)
 
-Jack cuenta que Hitler fantaseaba, tocaba el piano y dibujaba, y Klara lo toleraba. Murray dice que Elvis se confiaba a Gladys.
+Jack habla de la infancia de Hitler y de su madre Klara. Murray sigue con Elvis. Murray dice:
 
-> Llevaba a sus novias para que la conocieran.»
+> «Elvis se confiaba a Gladys.»
+> [Frase 1819](#original-1819)
+
+> «Llevaba a sus novias para que la conocieran.»
 > [Frase 1820](#original-1820)
 
-Murray cuenta que Gladys enfermó cuando Elvis entró en el ejército. Un estudiante murmura «Mutter-söhnchen» y Jack se pone a pasear como Murray. Murray dice:
+Gladys enferma cuando Elvis entra en el ejército. Murray dice:
 
-> «Elvis apenas soportaba dejar que Gladys se le fuera de la vista cuando su estado empeoró.
+> «Elvis apenas soportaba perder de vista a Gladys cuando su estado empeoró.»
 > [Frase 1831](#original-1831)
 
-> Le habló en lenguaje de bebé hasta que estuvo bajo tierra.»
-> [Frase 1837](#original-1837)
+Jack habla de Hitler y de su madre enferma. Murray dice:
 
-Hitler lloró en la tumba de Klara. Murray se sienta en el suelo. Jack imagina a Hitler mirando atrás desde el búnker:
+> «Elvis se derrumbó de dolor cuando murió Gladys.»
+> [Frase 1835](#original-1835)
 
-> ¿Pensó en los pequeños grupos de turistas que visitaban el pequeño poblado donde nació su madre y donde él había pasado los veranos con sus primos, montando en carretas de bueyes y haciendo cometas?
+> La manoseaba y la acariciaba en el ataúd.
+> [Frase 1836](#original-1836)
+
+Jack sigue con Hitler y el pueblo donde nació Klara. Jack dice:
+
+> ¿Pensó en los pequeños grupos de turistas que visitaban el pequeño asentamiento donde nació su madre y donde él había pasado veranos con sus primos, montando en carros de bueyes y haciendo cometas?
 > [Frase 1865](#original-1865)
 
-Los turistas honraban el lugar donde nació Klara y entraban en la granja. Luego llegaron multitudes que cantaban canciones patrióticas y pintaban esvásticas en las paredes. Jack sigue:
+Jack describe cómo llegaban las multitudes. Jack dice:
 
-> Llegaron multitudes a su villa de montaña, tanta gente que tuvo que quedarse dentro.
+> Las multitudes llegaban a su villa de montaña, tanta gente que él tenía que quedarse dentro.
 > [Frase 1872](#original-1872)
 
-Se llevaban a casa guijarros que él había pisado.
+> Recogían guijarros por donde él había caminado y se los llevaban a casa como recuerdos.
+> [Frase 1873](#original-1873)
 
-> Llegaban multitudes a oírlo hablar, multitudes cargadas de erotismo, las masas que él llamó una vez su única novia.
+> Las multitudes venían a oírlo hablar, multitudes eróticamente cargadas, las masas a las que una vez llamó su única novia.
 > [Frase 1874](#original-1874)
 
-Jack cuenta hasta siete mirando la alfombra. Luego dice que las multitudes se reunían en nombre de la muerte. Murray lo mira agradecido. La gente se junta alrededor y Jack comprende que ya son una multitud.
+Jack termina diciendo que las multitudes se forman contra la muerte. Murray lo saca del aula.
 
 ---
 
@@ -3772,20 +3789,29 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 15: La Madre y la Multitud
 
-> [Frase 1800](#lugar-1800)
-> "Hitler adored his mother," I said.
+> [Frase 1791](#lugar-1791)
+> "Did his mother know that Elvis would die young?
 
-> [Frase 1804](#lugar-1804)
+> [Frase 1803](#lugar-1803)
 > "Elvis and Gladys liked to nuzzle and pet," he said.
 
-> [Frase 1805](#lugar-1805)
+> [Frase 1804](#lugar-1804)
 > "They slept in the same bed until he began to approach physical maturity.
 
-> [Frase 1806](#lugar-1806)
+> [Frase 1805](#lugar-1805)
 > They talked baby talk to each other all the time."
+
+> [Frase 1806](#lugar-1806)
+> "Hitler adored his mother," I said.
+
+> [Frase 1811](#lugar-1811)
+> "Gladys walked Elvis to school and back every day.
 
 > [Frase 1812](#lugar-1812)
 > She defended him in little street rumbles, lashed out at any kid who tried to bully him."
+
+> [Frase 1819](#lugar-1819)
+> "Elvis confided in Gladys.
 
 > [Frase 1820](#lugar-1820)
 > He brought his girlfriends around to meet her."
@@ -3793,14 +3819,20 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1831](#lugar-1831)
 > "Elvis could hardly bear to let Gladys out of his sight when her condition grew worse.
 
-> [Frase 1837](#lugar-1837)
-> He talked baby talk to her until she was in the ground."
+> [Frase 1835](#lugar-1835)
+> "Elvis fell apart with grief when Gladys died.
+
+> [Frase 1836](#lugar-1836)
+> He fondled and petted her in the casket.
 
 > [Frase 1865](#lugar-1865)
 > Did he think of the small groups of tourists who visited the little settlement where his mother was born and where he'd spent summers with his cousins, riding in ox carts and making kites?
 
 > [Frase 1872](#lugar-1872)
 > Crowds came to his mountain villa, so many people he had to stay indoors.
+
+> [Frase 1873](#lugar-1873)
+> They picked up pebbles where he'd walked and took them home as souvenirs.
 
 > [Frase 1874](#lugar-1874)
 > Crowds came to hear him speak, crowds erotically charged, the masses he once called his only bride.
