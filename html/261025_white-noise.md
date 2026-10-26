@@ -167,27 +167,38 @@ El rector le sugiere inventar la inicial J. A. K. y engordar para parecerse a Hi
 
 [![Óleo impresionista, al estilo de Eugène Boudin: en un supermercado luminoso, un hombre encorvado de barba y ropa de pana sostiene un frasco blanco de maní frente a una mujer de pelo abundante, junto a un carrito lleno de envases blancos que empuja un hombre corpulento de gafas oscuras; al fondo, una mujer caída entre libros de bolsillo.](../img/261025_white-noise_envases-blancos.jpg)](../img/261025_white-noise_envases-blancos.jpg)
 
-Jack, el narrador, y su esposa Babette se topan en el supermercado con Murray, un colega de Jack, cuya cesta lleva comida genérica en envases blancos. Murray elogia la nueva austeridad, el pelo de Babette y a Jack por tener una mujer así. Salen los tres:
+Jack disfruta los días sin rumbo, pero teme una aceleración; una noche cree caer a través de sí mismo y piensa que la muerte debería ser una zambullida elegante. Jack cuenta:
 
-> Los tres salimos juntos, intentando maniobrar los carritos entre los libros de bolsillo esparcidos por la entrada.
+> Nos topamos con Murray Jay Siskind en el supermercado.
+> [Frase 344](#original-344)
+
+Murray lleva alimentos genéricos en paquetes blancos: latas de DURAZNOS EN CONSERVA, cacahuates IRREGULARES. Jack cuenta:
+
+> Murray no dejaba de asentir hacia Babette mientras yo los presentaba.
+> [Frase 349](#original-349)
+
+Murray dice que los envases sin sabor son la nueva austeridad, la última vanguardia. Elogia el cabello de Babette. Murray dice:
+
+> «Espero que aprecies a esa mujer.»
+> [Frase 389](#original-389)
+
+Murray supone que Babette sería firme en una tragedia familiar. Jack responde que se derrumba. Jack cuenta:
+
+> Los tres nos fuimos juntos, intentando maniobrar nuestros carritos entre los libros de bolsillo esparcidos por la entrada.
 > [Frase 411](#original-411)
 
-Murray los ayuda con las bolsas:
-
-> Murray sacó uno de nuestros carritos al estacionamiento y luego nos ayudó a levantar y empujar toda nuestra mercancía en doble bolsa hasta la parte trasera de la camioneta.
+> Murray llevó rodando uno de nuestros carritos hasta el estacionamiento y luego nos ayudó a levantar y empujar toda nuestra mercadería en doble bolsa hacia la parte trasera de la camioneta.
 > [Frase 412](#original-412)
 
-Meten también la bolsa blanca de Murray y van hacia su pensión:
-
-> Pusimos la única bolsa liviana de Murray, con cosas blancas, en nuestra carga y cruzamos Elm rumbo a su pensión.
-> [Frase 415](#original-415)
-
-Murray se despide tomando la mano de Babette y dice:
+Cargan las compras en la camioneta y llevan a Murray a su pensión. Murray dice:
 
 > «Les pediría que visitaran mi cuarto, pero es demasiado pequeño para dos personas, a menos que estén dispuestas a ser íntimas.»
 > [Frase 418](#original-418)
 
-Murray les da las gracias por el viaje. Jack y Babette lo miran irse:
+Murray intenta desarrollar una vulnerabilidad que las mujeres encuentren atractiva. Jack cuenta:
+
+> Nos dio las gracias por llevarlo.
+> [Frase 427](#original-427)
 
 > Lo vimos caminar hacia el porche torcido, apuntalado con bloques de cemento, donde un hombre en una mecedora miraba al vacío.
 > [Frase 428](#original-428)
@@ -3394,17 +3405,26 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 5: Envases Blancos
 
+> [Frase 344](#lugar-344)
+> We ran into Murray Jay Siskind at the supermarket.
+
+> [Frase 349](#lugar-349)
+> Murray kept nodding to Babette as I introduced them.
+
+> [Frase 389](#lugar-389)
+> "I hope you appreciate that woman."
+
 > [Frase 411](#lugar-411)
 > The three of us left together, trying to maneuver our shopping carts between the paperback books scattered across the entrance.
 
 > [Frase 412](#lugar-412)
 > Murray wheeled one of our carts into the parking lot and then helped us heave and push all our double-bagged merchandise into the back of the station wagon.
 
-> [Frase 415](#lugar-415)
-> We added Murray's single lightweight bag of white items to our load and headed across Elm in the direction of his rooming house.
-
 > [Frase 418](#lugar-418)
 > "I'd ask you to visit my room but it's too small for two people unless they're prepared to be intimate."
+
+> [Frase 427](#lugar-427)
+> He thanked us for the lift.
 
 > [Frase 428](#lugar-428)
 > We watched him walk toward the lopsided porch, propped with cinder blocks, where a man in a rocker stared into space.
