@@ -3204,6 +3204,93 @@ Jack vuelve a casa y Babette quiere salir a correr de noche. Jack cuenta:
 
 ---
 
+### Capítulo 39: Roadway Motel
+
+*Jack, Willie Mink y las monjas de Germantown.*
+
+[![Un motel de una planta bajo una autopista elevada, de noche y bajo la lluvia, con un cartel luminoso en la esquina.](../img/261025_white-noise_roadway-motel.jpg)](../img/261025_white-noise_roadway-motel.jpg)
+
+Jack llega al motel con un plan en la cabeza. Jack cuenta:
+
+> Pasar varias veces por delante del lugar, aparcar a cierta distancia, volver a pie, localizar al señor Gray bajo su nombre real o un alias, dispararle tres veces en las vísceras para el máximo dolor, limpiar el arma de huellas, poner el arma en la mano estática de la víctima, encontrar un lápiz de cera o un tubo de pintalabios y garabatear una críptica nota de suicidio en el espejo de cuerpo entero, llevarse las tabletas de Dylar de la víctima, volver al coche, ir hacia la entrada de la autopista, tomar rumbo este hacia Blacksmith, salir por la vieja carretera del río, aparcar el coche de Stover en el garaje del viejo Treadwell, cerrar la puerta del garaje, volver a casa caminando bajo la lluvia y la niebla.
+> [Frase 8908](#original-8908)
+
+Jack entra en el cuarto de Mink y repasa su plan mientras Mink habla y se traga pastillas. Jack cuenta:
+
+> Entrar sin anunciarse, ganarse su confianza, esperar un momento de descuido, sacar la Zumwalt, dispararle tres veces en las vísceras para la máxima lentitud de agonía, poner el arma en su mano para sugerir el suicidio de un hombre solitario, escribir cosas semicoherentes en el espejo, dejar el coche de Stover en el garaje de Treadwell.
+> [Frase 8972](#original-8972)
+
+> «Al entrar aquí, usted acepta cierto comportamiento», dijo Mink.
+> [Frase 8973](#original-8973)
+
+> Girar la cabeza para mirar dentro de las habitaciones, ponerlo a gusto, esperar un momento de descuido, volarle las tripas tres veces para la máxima eficacia del dolor, llevarse su Dylar, salir por la carretera del río, cerrar la puerta del garaje, volver a casa caminando bajo la lluvia y la niebla.
+> [Frase 9026](#original-9026)
+
+> Vi a Mink tragar más pastillas, lanzándoselas a la cara, chupándolas como caramelos, con los ojos en la pantalla parpadeante.
+> [Frase 9056](#original-9056)
+
+> Pensé: Esta es la grisácea figura de mi tormento, el hombre que se llevó a mi esposa.
+> [Frase 9072](#original-9072)
+
+> Míralo ahora, brillando en la oscuridad, mostrando una sonrisa senil.
+> [Frase 9076](#original-9076)
+
+> «Sexo americano, déjame decirte, así fue como aprendí mi inglés.»
+> [Frase 9079](#original-9079)
+
+Jack avanza con su plan y Mink se arrastra hacia el baño. Jack cuenta:
+
+> Mirar de reojo dentro de las habitaciones, entrar sin anunciarse, reducirlo a temblores, dispararle en las tripas tres veces al máximo, salir por la carretera del río, cerrar la puerta del garaje.
+> [Frase 9105](#original-9105)
+
+> Pasar varias veces por delante del lugar, acercarse al motel a pie, girar la cabeza para mirar de reojo dentro de las habitaciones, localizar al señor Gray bajo su nombre real, entrar sin anunciarse, ganarse su confianza, avanzar poco a poco, reducirlo a temblores, esperar un momento de descuido, sacar la Zumwalt automática del calibre .25, disparar tres balas en sus vísceras para la máxima lentitud, profundidad e intensidad del dolor, limpiar el arma de huellas, poner el arma en la mano de la víctima para sugerir el suicidio trillado y previsible de un ermitaño de motel, embadurnar las paredes con palabras toscas en la sangre de la propia víctima como prueba de su frenesí final relacionado con un culto, llevarse sus reservas de Dylar, volver al coche, tomar la autopista hacia Blacksmith, dejar el coche de Stover en el garaje de Treadwell, cerrar la puerta del garaje, volver a casa caminando bajo la lluvia y la niebla.
+> [Frase 9149](#original-9149)
+
+> Lo seguí al baño, pasando junto al espejo de cuerpo entero donde sin duda había posado con Babette, con su peludo miembro colgando como el de un rumiante.
+> [Frase 9156](#original-9156)
+
+> «Me dijo: ¿Alguna vez se ha preguntado por qué, de treinta y dos dientes, estos cuatro causan tantos problemas?»
+> [Frase 9177](#original-9177)
+
+Jack dispara a Mink, Mink dispara a Jack y Jack arrastra a Mink hasta la calle. Jack cuenta:
+
+> Me acerqué a la figura sentada, cuidando de no pisar la sangre ni dejar huellas reveladoras.
+> [Frase 9201](#original-9201)
+
+> Levantó la mano y apretó el gatillo, disparándome en la muñeca.
+> [Frase 9209](#original-9209)
+
+> Pero antes de poder ayudar a Mink, tenía que hacerme yo mismo unas reparaciones básicas.
+> [Frase 9228](#original-9228)
+
+> Usando mi buena mano, agarré a Mink por su pie descalzo y lo arrastré por el suelo de baldosas manchado de sangre, con la pistola aún aferrada en su puño.
+> [Frase 9232](#original-9232)
+
+> Me sobresaltó la cantidad de sangre que íbamos dejando atrás.
+> [Frase 9239](#original-9239)
+
+Jack lleva a Mink a una clínica de monjas alemanas. Jack cuenta:
+
+> Llegamos al coche.
+> [Frase 9245](#original-9245)
+
+> Tras unos minutos de esto, sentí que volvía en sí y respiraba con regularidad.
+> [Frase 9263](#original-9263)
+
+> Había una rampa para sillas de ruedas, lo que significaba que podía arrastrar a Mink hasta la puerta principal sin golpearle la cabeza contra los escalones de cemento.
+> [Frase 9294](#original-9294)
+
+> Lo saqué del coche, agarré su elegante pie y subí por la rampa.
+> [Frase 9295](#original-9295)
+
+> «Nos han disparado», dije, levantando la muñeca al aire.
+> [Frase 9306](#original-9306)
+
+> Seguimos a la vieja monja hasta la sala de traumatología.
+> [Frase 9311](#original-9311)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -5385,6 +5472,79 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 8866](#lugar-8866)
 > "Wear your ski mask," I told her.
+
+---
+
+### Capítulo 39: Roadway Motel
+
+> [Frase 8908](#lugar-8908)
+> Drive past the scene several times, park some distance from the scene, go back on foot, locate Mr. Gray under his real name or an alias, shoot him three times in the viscera for maximum pain, clear the weapon of prints, place the weapon in the victim's staticky hand, find a crayon or lipstick tube and scrawl a cryptic suicide note on the full-length mirror, take the victim's supply of Dylar tablets, slip back to the car, proceed to the expressway entrance, head east toward Blacksmith, get off at the old river road, park Stover's car in Old Man Treadwell's garage, shut the garage door, walk home in the rain and the fog.
+
+> [Frase 8972](#lugar-8972)
+> Enter unannounced, gain his confidence, wait for an unguarded moment, take out the Zumwalt, shoot him three times in the viscera for maximum slowness of agony, put the gun in his hand to suggest a lonely man's suicide, write semi-coherent things on the mirror, leave Stover's car in Treadwell's garage.
+
+> [Frase 8973](#lugar-8973)
+> "By coming in here, you agree to a certain behavior," Mink said.
+
+> [Frase 9026](#lugar-9026)
+> Swivel my head to look into rooms, put him at his ease, wait for an unguarded moment, blast him in the gut three times for maximum efficiency of pain, take his Dylar, get off at the river road, shut the garage door, walk home in the rain and the fog.
+
+> [Frase 9056](#lugar-9056)
+> I watched Mink ingest more pills, throwing them at his face, sucking them like sweets, his eyes on the flickering screen.
+
+> [Frase 9072](#lugar-9072)
+> I thought, This is the grayish figure of my torment, the man who took my wife.
+
+> [Frase 9076](#lugar-9076)
+> Look at him now, glowing in the dark, showing a senile grin.
+
+> [Frase 9079](#lugar-9079)
+> American sex, let me tell you, this is how I learned my English."
+
+> [Frase 9105](#lugar-9105)
+> Look peripherally into rooms, enter unannounced, reduce him to trembling, gut-shoot him maximally three times, get off at the river road, shut the garage door.
+
+> [Frase 9149](#lugar-9149)
+> Drive past the scene several times, approach the motel on foot, swivel my head to look peripherally into rooms, locate Mr. Gray under his real name, enter unannounced, gain his confidence, advance gradually, reduce him to trembling, wait for an unguarded moment, take out the .25-caliber Zumwalt automatic, fire three bullets into his viscera for maximum slowness, depth and intensity of pain, wipe the weapon clear of prints, place the weapon in the victim's hand to suggest the trite and predictable suicide of a motel recluse, smear crude words on the walls in the victim's own blood as evidence of his final cult-related frenzy, take his supply of Dylar, slip back to the car, take the expressway to Blacksmith, leave Stover's car in Treadwell's garage, shut the garage door, walk home in the rain and the fog.
+
+> [Frase 9156](#lugar-9156)
+> I followed him into the toilet, passing the full-length mirror where he'd undoubtedly posed with Babette, his shaggy member dangling like a ruminant's.
+
+> [Frase 9177](#lugar-9177)
+> He said to me, "Did you ever wonder why, out of thirty-two teeth, these four cause so much trouble?
+
+> [Frase 9201](#lugar-9201)
+> I approached the sitting figure, careful not to step in blood, leave revealing prints.
+
+> [Frase 9209](#lugar-9209)
+> He raised his hand and pulled the trigger, shooting me in the wrist.
+
+> [Frase 9228](#lugar-9228)
+> But before I could help Mink, I had to do some basic repair work on myself.
+
+> [Frase 9232](#lugar-9232)
+> Using my good hand, I grabbed Mink by his bare foot and dragged him across the blood-dappled tile, the gun still clutched in his fist.
+
+> [Frase 9239](#lugar-9239)
+> I was shocked at the amount of blood we were leaving behind.
+
+> [Frase 9245](#lugar-9245)
+> We reached the car.
+
+> [Frase 9263](#lugar-9263)
+> After some minutes of this, I felt him come around, take regular breaths.
+
+> [Frase 9294](#lugar-9294)
+> There was a wheelchair ramp, which meant I could drag Mink to the front door without banging his head on the concrete steps.
+
+> [Frase 9295](#lugar-9295)
+> I got him out of the car, clutched his sleek foot and moved up the ramp.
+
+> [Frase 9306](#lugar-9306)
+> "We're shot," I said, lifting my wrist in the air.
+
+> [Frase 9311](#lugar-9311)
+> We followed the old nun to the trauma room.
 
 © 2026 Osmancito
 
