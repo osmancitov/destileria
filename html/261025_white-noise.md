@@ -2126,6 +2126,115 @@ Jack ensaya argumentos varios días. Jack cuenta:
 
 ---
 
+### Capítulo 28: El Almuerzo de los Neoyorquinos
+
+*Jack, Steffie, Grappa y Murray.*
+
+[![En un comedor universitario, cuatro hombres de toga negra se sientan ante una larga mesa de madera; uno enciende un cigarrillo y acerca la cerilla a una ensaladera, otros dos lo miran con aire de cine negro y un hombre de gafas observa desde el extremo.](../img/261025_white-noise_el-almuerzo-de-los-neoyorquinos.jpg)](../img/261025_white-noise_el-almuerzo-de-los-neoyorquinos.jpg)
+
+En la cocina, Wilder mira hervir el agua y Steffie cuenta que a la evacuación no se presentó mucha gente. Jack responde:
+
+> «Se presentan para las de verdad», dije.
+> [Frase 5876](#original-5876)
+
+Steffie dice que su madre quiere que la visite en Pascua. Jack le dice:
+
+> «Te llevaré al aeropuerto.»
+> [Frase 5888](#original-5888)
+
+Jack cuenta:
+
+> Mirábamos hervir el agua.
+> [Frase 5894](#original-5894)
+
+Steffie dice que se anotó de nuevo como víctima, esta vez por un olor raro. Jack dice:
+
+> «Estoy seguro de que no les importará disculparte solo por esta vez.»
+> [Frase 5905](#original-5905)
+
+Jack cuenta que su primer y su cuarto matrimonio fueron con Dana Breedlove, la madre de Steffie. Jack cuenta:
+
+> El primer matrimonio funcionó lo bastante bien como para animarnos a intentarlo otra vez en cuanto fue conveniente para ambos.
+> [Frase 5908](#original-5908)
+
+> Cuando lo hicimos, después de las melancólicas épocas de Janet Savory y Tweedy Browner, las cosas empezaron a desmoronarse.
+> [Frase 5909](#original-5909)
+
+Dana trabaja a medias como espía. Jack cuenta:
+
+> Me contó muy poco de su trabajo de inteligencia.
+> [Frase 5912](#original-5912)
+
+> Yo sabía que reseñaba ficción para la CIA, sobre todo novelas largas y serias con estructuras cifradas.
+> [Frase 5913](#original-5913)
+
+Jack se cruza con Babette. Jack cuenta:
+
+> «¿Cómo te sientes?» Hacer la pregunta y oírla nos hacía sentir mejor a los dos.
+> [Frase 5931](#original-5931)
+
+Más tarde, en el almuerzo de Centenary Hall, Jack observa a Murray. Jack cuenta:
+
+> En el comedor de Centenary Hall, vi a Murray olfatear sus cubiertos.
+> [Frase 5934](#original-5934)
+
+En la mesa, Lasher le pregunta a Grappa cuál fue la mayor influencia de su vida. Grappa dice que fue Richard Widmark en El beso de la muerte, por su risa sádica. Grappa dice:
+
+> Me sacó de algunos períodos emocionales difíciles.
+> [Frase 5951](#original-5951)
+
+Grappa dice:
+
+> «Me ayudó a convertirme en una persona.»
+> [Frase 5957](#original-5957)
+
+Lasher le hace preguntas raras a Grappa. Lasher pregunta:
+
+> «Cuando te arrancas la piel muerta del pulgar con los dientes, ¿te la comes o la escupes?»
+> [Frase 5972](#original-5972)
+
+Grappa responde:
+
+> «Mastícala un momento y luego lánzala con rapidez desde la punta de la lengua.»
+> [Frase 5973](#original-5973)
+
+Jack cuenta:
+
+> Lo vi encender un cigarrillo, sacudir el fósforo y tirarlo a la ensalada de Murray.
+> [Frase 5984](#original-5984)
+
+Lasher le pregunta cuánto placer sentía de niño al imaginarse muerto. Grappa responde:
+
+> «Todavía lo hago todo el tiempo.»
+> [Frase 5987](#original-5987)
+
+Grappa dice que imaginarse muerto es una forma infantil de autocompasión. Grappa concluye:
+
+> «Es mi manera de castigar a la gente por pensar que sus propias vidas son más importantes que la mía.»
+> [Frase 5999](#original-5999)
+
+Jack no quiere oír eso. Alfonse Stompanato empieza a mover los hombros. Jack cuenta:
+
+> Lo tomé como una señal de que se estaba preparando para hablar.
+> [Frase 6011](#original-6011)
+
+Jack sale a esperar a Murray y camina con él. Jack cuenta:
+
+> Cuando salió, lo sostuve del brazo, justo encima del codo, y caminamos por el campus como un par de ancianos europeos, con las cabezas inclinadas en conversación.
+> [Frase 6027](#original-6027)
+
+Jack le pregunta a Murray por esa conversación. Jack dice:
+
+> «¿Cómo soportas escuchar eso?», dije.
+> [Frase 6028](#original-6028)
+
+Siguen caminando. Jack cuenta:
+
+> Caminamos junto a pequeños montones de nieve derretida.
+> [Frase 6040](#original-6040)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -3471,6 +3580,73 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 5850](#lugar-5850)
 > I even enlisted Babette, convincing her that the bottle belonged in adult hands.
+
+---
+
+### Capítulo 28: El Almuerzo de los Neoyorquinos
+
+> [Frase 5876](#lugar-5876)
+> "They show up for the real ones," I said.
+
+> [Frase 5888](#lugar-5888)
+> "I'll take you to the airport.
+
+> [Frase 5894](#lugar-5894)
+> We watched the water boil.
+
+> [Frase 5905](#lugar-5905)
+> "I'm sure they won't mind excusing you just this once.
+
+> [Frase 5908](#lugar-5908)
+> The first marriage worked well enough to encourage us to try again as soon as it became mutually convenient.
+
+> [Frase 5909](#lugar-5909)
+> When we did, after the melancholy epochs of Janet Savory and Tweedy Browner, things proceeded to fall apart.
+
+> [Frase 5912](#lugar-5912)
+> She told me very little about her intelligence work.
+
+> [Frase 5913](#lugar-5913)
+> I knew she reviewed fiction for the CIA, mainly long serious novels with coded structures.
+
+> [Frase 5931](#lugar-5931)
+> "How do you feel?" Asking the question, hearing it asked, made us both feel better.
+
+> [Frase 5934](#lugar-5934)
+> In the lunchroom in Centenary Hall, I watched Murray sniff his utensils.
+
+> [Frase 5951](#lugar-5951)
+> It got me through some tough emotional periods.
+
+> [Frase 5957](#lugar-5957)
+> Helped me become a person."
+
+> [Frase 5972](#lugar-5972)
+> "When you bite dead skin off your thumb, do you eat it or spit it out?"
+
+> [Frase 5973](#lugar-5973)
+> "Chew it briefly, then propel it swiftly from the end of the tongue."
+
+> [Frase 5984](#lugar-5984)
+> I watched him light up a cigarette, shake out the match and toss it into Murray's salad.
+
+> [Frase 5987](#lugar-5987)
+> "I still do it all the time.
+
+> [Frase 5999](#lugar-5999)
+> It is my way of punishing people for thinking their own lives are more important than mine."
+
+> [Frase 6011](#lugar-6011)
+> I took this as a sign that he was wanning up to speak.
+
+> [Frase 6027](#lugar-6027)
+> When he emerged I held his arm just-above the elbow and we walked across campus like a pair of European senior citizens, heads bowed in conversation.
+
+> [Frase 6028](#lugar-6028)
+> "How do you listen to that?" I said.
+
+> [Frase 6040](#lugar-6040)
+> We walked past small mounds of melting snow.
 
 © 2026 Osmancito
 
