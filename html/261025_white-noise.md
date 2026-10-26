@@ -264,7 +264,7 @@ Heinrich pregunta qué verdad quiere ese hombre, y dice que «ahora» deja de se
 
 Jack dice que o llueve o no llueve; Heinrich, que sería adivinar. Pide una prueba:
 
-> «¿Cómo sé que lo que tú llamas lluvia es de verdad lluvia?
+> ¿Cómo sé que lo que tú llamas lluvia es de verdad lluvia?
 > [Frase 512](#original-512)
 
 Heinrich pregunta además qué es la lluvia. Jack contesta:
