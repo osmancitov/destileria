@@ -193,41 +193,34 @@ Así Hitler le dio algo hacia lo cual crecer. Babette dijo que J. A. K. sonaba d
 
 ### Capítulo 5: Envases Blancos
 
-*Murray, el narrador, Babette, los dos juntos, los envases y el maní.*
+*Murray, Jack, Babette, el cuarto y el porche.*
 
 [![Óleo impresionista, al estilo de Eugène Boudin: en un supermercado luminoso, un hombre encorvado de barba y ropa de pana sostiene un frasco blanco de maní frente a una mujer de pelo abundante, junto a un carrito lleno de envases blancos que empuja un hombre corpulento de gafas oscuras; al fondo, una mujer caída entre libros de bolsillo.](../img/261025_white-noise_envases-blancos.jpg)](../img/261025_white-noise_envases-blancos.jpg)
 
-En el supermercado se topan con Murray, con su cesta de comida genérica en envases blancos: «DURAZNOS EN CONSERVA», «MANÍ IRREGULAR». Jack lo presenta a Babette:
+Jack, el narrador, y su esposa Babette se topan en el supermercado con Murray, un colega de Jack, cuya cesta lleva comida genérica en envases blancos. Murray elogia la nueva austeridad, el pelo de Babette y a Jack por tener una mujer así. Salen los tres:
 
-> Murray no dejaba de asentir hacia Babette mientras yo los presentaba.
-> [Frase 349](#original-349)
+> Los tres salimos juntos, intentando maniobrar los carritos entre los libros de bolsillo esparcidos por la entrada.
+> [Frase 411](#original-411)
 
-Murray llama a esos envases «la nueva austeridad» y «la última vanguardia». Babette le dice a Murray:
+Murray los ayuda con las bolsas:
 
-> «Así que cocinas en la pensión», dijo Babette.
-> [Frase 372](#original-372)
+> Murray sacó uno de nuestros carritos al estacionamiento y luego nos ayudó a levantar y empujar toda nuestra mercancía en doble bolsa hasta la parte trasera de la camioneta.
+> [Frase 412](#original-412)
 
-Murray cuenta que es feliz en su cuarto. Luego elogia el pelo de Babette, «un pelo importante». Jack responde, y Murray insiste:
+Meten también la bolsa blanca de Murray y van hacia su pensión:
 
-> «Creo que sé a qué te refieres.»
-> [Frase 388](#original-388)
+> Pusimos la única bolsa liviana de Murray, con cosas blancas, en nuestra carga y cruzamos Elm rumbo a su pensión.
+> [Frase 415](#original-415)
 
-> «Espero que valores a esa mujer.»
-> [Frase 389](#original-389)
+Murray se despide tomando la mano de Babette y dice:
 
-Jack dice que sí. Murray agrega que una mujer así no sucede porque sí, y Jack lo sabe. Murray sigue:
+> «Les pediría que visitaran mi cuarto, pero es demasiado pequeño para dos personas, a menos que estén dispuestas a ser íntimas.»
+> [Frase 418](#original-418)
 
-> «Más que eso, apuesto a que es estupenda para tenerla cerca en una tragedia familiar.»
-> [Frase 394](#original-394)
+Murray les da las gracias por el viaje. Jack y Babette lo miran irse:
 
-Jack lo corrige: ella se desmorona, como cuando murió su madre. Murray lo encuentra extraordinario. Salen los tres con los carritos y llevan a Murray a su pensión. Jack siente:
-
-> Me pareció que Babette y yo, en la masa y la variedad de nuestras compras, en la pura abundancia que sugerían aquellas bolsas atestadas, el peso y el tamaño y el número, los diseños familiares de los envases y sus letras vivas, los tamaños gigantes, los paquetes de oferta familiar con pegatinas de rebaja Day-Glo, en la sensación de reposición que sentíamos, la sensación de bienestar, la seguridad y el contento que esos productos llevaban a algún rincón acogedor de nuestras almas, parecía que habíamos alcanzado una plenitud del ser que no conocen quienes necesitan menos, esperan menos, quienes planean su vida en torno a paseos solitarios por la tarde.
-> [Frase 416](#original-416)
-
-Day-Glo: marca de pigmentos fluorescentes que los hermanos Switzer crearon en Estados Unidos entre los años treinta y cincuenta. Dan colores tan intensos que parecen brillar incluso a la luz del día, y por eso se usan en envases y carteles de oferta.
-
-Murray se despide tomando la mano de Babette. Tiene una mirada entre furtiva y franca, y ensaya una vulnerabilidad que las mujeres encuentren atractiva. Lo ven irse hacia un porche torcido, donde un hombre en una mecedora mira al vacío.
+> Lo vimos caminar hacia el porche torcido, apuntalado con bloques de cemento, donde un hombre en una mecedora miraba al vacío.
+> [Frase 428](#original-428)
 
 ---
 
@@ -1080,23 +1073,20 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 5: Envases Blancos
 
-> [Frase 349](#lugar-349)
-> Murray kept nodding to Babette as I introduced them.
+> [Frase 411](#lugar-411)
+> The three of us left together, trying to maneuver our shopping carts between the paperback books scattered across the entrance.
 
-> [Frase 372](#lugar-372)
-> "So then you cook at the rooming house," Babette said.
+> [Frase 412](#lugar-412)
+> Murray wheeled one of our carts into the parking lot and then helped us heave and push all our double-bagged merchandise into the back of the station wagon.
 
-> [Frase 388](#lugar-388)
-> "I think I know what you mean."
+> [Frase 415](#lugar-415)
+> We added Murray's single lightweight bag of white items to our load and headed across Elm in the direction of his rooming house.
 
-> [Frase 389](#lugar-389)
-> "I hope you appreciate that woman."
+> [Frase 418](#lugar-418)
+> "I'd ask you to visit my room but it's too small for two people unless they're prepared to be intimate."
 
-> [Frase 394](#lugar-394)
-> More than that, I'll bet she's great to have around in a family tragedy.
-
-> [Frase 416](#lugar-416)
-> It seemed to me that Babette and I, in the mass and variety of our purchases, in the sheer plenitude those crowded bags suggested, the weight and size and number, the familiar package designs and vivid lettering, the giant sizes, the family bargain packs with Day-Glo sale stickers, in the sense of replenishment we felt, the sense of well-being, the security and contentment these products brought to some snug home in our souls—it seemed we had achieved a fullness of being that is not known to people who need less, expect less, who plan their lives around lonely walks in the evening.
+> [Frase 428](#lugar-428)
+> We watched him walk toward the lopsided porch, propped with cinder blocks, where a man in a rocker stared into space.
 
 ---
 
