@@ -143,51 +143,49 @@ Murray concluye que no pueden salir del aura, la energía sin nombre que rodea a
 
 ### Capítulo 4: ¿Quién Morirá Primero?
 
-*El narrador, Babette, Bee, el rector y la pregunta de quién morirá primero.*
+*Jack, Babette, la pregunta de quién morirá primero, las chicas y Bee.*
 
 [![Óleo impresionista, al estilo de Eugène Boudin: una mujer con ropa deportiva gris sube corriendo las gradas de piedra de un estadio y se apoya en el parapeto; al otro lado del campo, un hombre con gafas oscuras la mira sentado; el cielo está lleno de nubes alargadas y una avioneta cruza sobre los árboles.](../img/261025_white-noise_quien-morira-primero.jpg)](../img/261025_white-noise_quien-morira-primero.jpg)
 
-En Blacksmith la gente come de más cuando los tiempos son malos. Jack mira desde un estadio a Babette correr por las gradas y apoyarse arriba en el parapeto:
+Jack, el narrador, mira desde un estadio a su esposa Babette, que corre por las gradas:
 
 > Su rostro estaba inclinado hacia arriba, captando el aire fresco, y no me vio.
 > [Frase 259](#original-259)
 
-Sube tres veces y baja despacio, sola.
+Ella sube y baja varias veces. Jack baja a su encuentro:
 
 > Después del último descenso me reuní con ella al borde del campo de juego y la abracé, metiéndole las manos dentro de la cinturilla de sus pantalones grises de algodón.
 > [Frase 266](#original-266)
 
-Jack cuenta lo que Babette hace (corre, palea nieve, lee clásicos eróticos) y lo que hace él (retuerce bolsas de basura, nada). A veces entre los dos surge una pregunta, quién morirá primero:
+Jack cuenta lo que hace Babette:
 
-> Me pregunto si el pensamiento mismo es parte de la naturaleza del amor físico, un darwinismo inverso que otorga tristeza y miedo al sobreviviente.
-> [Frase 281](#original-281)
+> Planea viajes de esquí que nunca hacemos, con la cara radiante de ilusión.
+> [Frase 276](#original-276)
 
-Darwinismo: la teoría de la evolución por selección natural del naturalista inglés Charles Darwin (1809-1882): los organismos mejor adaptados a su entorno sobreviven y se reproducen con más éxito. En la frase es «inverso»: al sobreviviente le toca tristeza y miedo.
+A veces entre los dos surge la pregunta de quién morirá primero. Jack piensa:
 
-O si ese pensamiento es un elemento inerte del aire, como el neón.
+> Nos cura de nuestra inocencia sobre el futuro.
+> [Frase 288](#original-288)
 
-> La sostuve en mis brazos en la pista de ceniza.
-> [Frase 283](#original-283)
+Treinta chicas pasan corriendo por la pista, en pantalón corto:
 
-Jack piensa que esa pregunta los cura de su inocencia sobre el futuro. Bee, su hija con su exesposa Tweedy Browner, quiere visitarlos en Navidad. Esa noche, viernes, ven televisión los seis juntos: regla de Babette, para quitarle el encanto al medio. Los viernes Jack lee sobre Hitler:
+> Vimos a las chicas dar otra vuelta.
+> [Frase 290](#original-290)
+
+Camino a casa Jack le dice a Babette que Bee, su hija de otro matrimonio, quiere visitarlos en Navidad:
+
+> Podemos ponerla con Steffie.»
+> [Frase 294](#original-294)
+
+Babette quiere que los viernes la familia vea televisión junta, para quitarle el encanto:
+
+> Esa noche, un viernes, pedimos comida china y vimos televisión juntos, los seis.
+> [Frase 308](#original-308)
+
+Los viernes Jack lee sobre Hitler hasta tarde:
 
 > Una de esas noches me metí en la cama junto a Babette y le conté cómo el rector me había aconsejado, allá por 1968, hacer algo con mi nombre y mi apariencia si quería que me tomaran en serio como innovador de Hitler.
 > [Frase 320](#original-320)
-
-El rector dijo que Jack Gladney no servía; acordaron una inicial más: J. A. K.
-
-> El rector advirtió contra lo que llamaba mi tendencia a hacer una presentación débil de mí mismo.
-> [Frase 323](#original-323)
-
-Le sugirió engordar y «crecer» hasta ser Hitler:
-
-> Yo tenía las ventajas de una estatura considerable, manos grandes, pies grandes, pero necesitaba con urgencia volumen, o eso creía él: un aire de exceso malsano, de relleno y exageración, de corpulencia maciza y descomunal.
-> [Frase 328](#original-328)
-
-> Si yo lograra volverme más feo, parecía estar sugiriendo, eso ayudaría enormemente a mi carrera.
-> [Frase 329](#original-329)
-
-Así Hitler le dio algo hacia lo cual crecer. Babette dijo que J. A. K. sonaba digno. Jack se sabe el personaje falso que sigue al nombre.
 
 ---
 
@@ -1051,23 +1049,23 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 266](#lugar-266)
 > After the last descent I met her at the edge of the playing field and embraced her, putting my hands inside the sweatband of her gray cotton pants.
 
-> [Frase 281](#lugar-281)
-> I wonder if the thought itself is part of the nature of physical love, a reverse Darwinism that awards sadness and fear to the survivor.
+> [Frase 276](#lugar-276)
+> She plans ski trips that we never take, her face bright with excitement.
 
-> [Frase 283](#lugar-283)
-> I held her in my arms on the cinder track.
+> [Frase 288](#lugar-288)
+> It cures us of our innocence of the future.
+
+> [Frase 290](#lugar-290)
+> We watched the girls come round again.
+
+> [Frase 294](#lugar-294)
+> We can put her in with Steffie."
+
+> [Frase 308](#lugar-308)
+> That night, a Friday, we ordered Chinese food and watched television together, the six of us.
 
 > [Frase 320](#lugar-320)
 > On one such night I got into bed next to Babette and told her how the chancellor had advised me, back in 1968, to do something about my name and appearance if I wanted to be taken seriously as a Hitler innovator.
-
-> [Frase 323](#lugar-323)
-> The chancellor warned against what he called my tendency to make a feeble presentation of self.
-
-> [Frase 328](#lugar-328)
-> I had the advantages of substantial height, big hands, big feet, but badly needed bulk, or so he believed—an air of unhealthy excess, of padding and exaggeration, hulking massive-ness.
-
-> [Frase 329](#lugar-329)
-> If I could become more ugly, he seemed to be suggesting, it would help my career enormously.
 
 ---
 
