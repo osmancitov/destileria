@@ -435,6 +435,9 @@ En la fila de la caja, Jack se pega a Babette. Afuera corre el rumor de que muri
 
 Denise ve cómo Babette abre un paquete de chicles. Dice que provoca cáncer en ratas de laboratorio. Babette responde, y Jack cuenta:
 
+> «Querías que mascara chicle sin azúcar, Denise.»
+> [Frase 963](#original-963)
+
 > «Ahora ponen una advertencia, y me costaría creer que no la hayas visto.»
 > [Frase 966](#original-966)
 
@@ -511,9 +514,6 @@ Steffie quema tostadas porque le gusta el olor. Pregunta por su madre, que traba
 > «¿Qué hace exactamente?», dijo Babette.
 > [Frase 1179](#original-1179)
 
-> «¿La conozco?», dijo Babette.
-> [Frase 1187](#original-1187)
-
 Esa noche cenan en el cuarto de Murray, frente al antiguo manicomio. Jack cuenta:
 
 > Esa noche, en el cuarto blanco roto de Murray, después de una comida espectacular de gallina de Cornualles con forma de rana, preparada en un hornillo de dos fuegos, pasamos de nuestras sillas plegables de metal a la litera para el café.
@@ -534,6 +534,9 @@ Murray habla de la televisión con Jack. Murray dice:
 
 > Una experiencia grande y humilde, déjame decirte.
 > [Frase 1262](#original-1262)
+
+> «Pregunto a mis alumnos: “¿Qué más quieren?” Miren la riqueza de datos escondida en la cuadrícula, en el empaque brillante, los jingles, los comerciales de escenas de la vida cotidiana, los productos que salen disparados de la oscuridad, los mensajes cifrados y las repeticiones sin fin, como cánticos, como mantras. “Coke es eso, Coke es eso, Coke es eso.” El medio casi rebosa de fórmulas sagradas si recordamos cómo responder con inocencia y superar nuestra irritación, cansancio y asco.»
+> [Frase 1277](#original-1277)
 
 Babette le pregunta a Murray cómo sabe tanto. Jack cuenta:
 
@@ -3543,6 +3546,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 10: El Chicle y el Preso
 
+> [Frase 963](#lugar-963)
+> "You wanted me to chew sugarless gum, Denise.
+
 > [Frase 966](#lugar-966)
 > They put a warning, which I would have a hard time believing you didn't see."
 
@@ -3601,9 +3607,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1179](#lugar-1179)
 > "What exactly does she do?" Babette said.
 
-> [Frase 1187](#lugar-1187)
-> "Have I met her?" Babette said.
-
 > [Frase 1217](#lugar-1217)
 > That night, in Murray's off-white room, after a spectacular meal of Cornish hen in the shape of a frog, prepared on a two-burner hot plate, we moved from our metal folding chairs to the bunk bed for coffee.
 
@@ -3618,6 +3621,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 1262](#lugar-1262)
 > A great and humbling experience, let me tell you.
+
+> [Frase 1277](#lugar-1277)
+> I ask my students, 'What more do you want?' Look at the wealth of data concealed in the grid, in the bright packaging, the jingles, the slice-of-life commercials, the products hurtling out of darkness, the coded messages and endless repetitions, like chants, like mantras. 'Coke is it, Coke is it, Coke is it.' The medium practically overflows with sacred formulas if we can remember how to respond innocently and get past our irritation, weariness and disgust."
 
 > [Frase 1284](#lugar-1284)
 > "How do you know so much?" Babette said.
