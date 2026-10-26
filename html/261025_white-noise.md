@@ -2648,6 +2648,84 @@ Babette despide a Vernon en la acera. Jack cuenta:
 
 ---
 
+### Capítulo 34: Basura y Potasio
+
+*Jack, Murray y el doctor Chakravarty.*
+
+[![En un consultorio de paredes verdosas, un médico de rostro hinchado y bata blanca lee un papel impreso mientras un hombre de mediana edad lo escucha sentado, inquieto.](../img/261025_white-noise_basura-y-potasio.jpg)](../img/261025_white-noise_basura-y-potasio.jpg)
+
+Llega la época de las arañas. Denise le dice a Babette que Steffie se examina el pecho en busca de bultos. Jack cuenta:
+
+> Babette me lo contó.
+> [Frase 7318](#original-7318)
+
+> Murray y yo ampliamos el alcance de nuestros paseos contemplativos.
+> [Frase 7319](#original-7319)
+
+Murray y Jack caminan por el pueblo y hablan de nostalgia y de ruinas. Jack cuenta:
+
+> Le conté a Murray que Albert Speer quería construir estructuras que se deterioraran con gloria, de forma impresionante, como las ruinas romanas.
+> [Frase 7328](#original-7328)
+
+> La ruina está construida dentro de la creación, dije, lo cual muestra cierta nostalgia detrás del principio del poder, o una tendencia a organizar los anhelos de las generaciones futuras.
+> [Frase 7332](#original-7332)
+
+Jack revuelve la basura compactada de la casa, buscando las pastillas de Dylar que Denise tiró. Jack cuenta:
+
+> ¿Lo habíamos creado nosotros?
+> [Frase 7359](#original-7359)
+
+Jack decide hacerse otro examen físico. Jack cuenta:
+
+> Cuando llegaron los resultados, fui a ver al doctor Chakravarty a su pequeño consultorio del edificio médico.
+> [Frase 7386](#original-7386)
+
+El doctor Chakravarty le habla a Jack de su condición de paciente. Jack cuenta:
+
+> Yo soy el médico, usted el paciente.
+> [Frase 7396](#original-7396)
+
+> «¿Sabe lo que esto significa?» «No.»
+> [Frase 7413](#original-7413)
+
+> «Esto es todo lo que tiene que saber.»
+> [Frase 7416](#original-7416)
+
+El doctor insiste en el potasio de Jack. Jack cuenta:
+
+> «Ahora nos estamos metiendo en semántica», dijo.
+> [Frase 7422](#original-7422)
+
+> «Entonces estamos de acuerdo», dije.
+> [Frase 7430](#original-7430)
+
+> «Dígame esto, señor Gladney, con toda honestidad.»
+> [Frase 7431](#original-7431)
+
+> Parecía estar tratando de hacerme bajar la vista a fuerza de mirarme.
+> [Frase 7439](#original-7439)
+
+El doctor quiere mandarlo a Glassboro para más pruebas. Jack cuenta:
+
+> Dije: «¿Cómo podemos saber si la elevación es verdadera o falsa?»
+> [Frase 7442](#original-7442)
+
+> «Voy a enviarlo a Glassboro para más pruebas.»
+> [Frase 7443](#original-7443)
+
+> «Pero ¿es el potasio lo único que tenemos que vigilar?»
+> [Frase 7450](#original-7450)
+
+El doctor le habla del centro de Glassboro y de la prevención. Jack cuenta:
+
+> Tienen el know-how en Harvest Farms, los instrumentos más delicados, se lo prometo.
+> [Frase 7458](#original-7458)
+
+> «Juntos, como médico y paciente, podemos hacer cosas que ninguno de los dos podría hacer por separado.»
+> [Frase 7461](#original-7461)
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -4353,6 +4431,64 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 7257](#lugar-7257)
 > We leaned toward the window on the passenger's side, watching him hunch around into his driving posture, setting himself casually between the door and the seat, his left arm hanging out the window.
+
+---
+
+### Capítulo 34: Basura y Potasio
+
+> [Frase 7318](#lugar-7318)
+> Babette told me.
+
+> [Frase 7319](#lugar-7319)
+> Murray and I extended the range of our contemplative walks.
+
+> [Frase 7328](#lugar-7328)
+> I told Murray that Albert Speer wanted to build structures that would decay gloriously, impressively, like Roman ruins.
+
+> [Frase 7332](#lugar-7332)
+> The ruin is built into the creation, I said, which shows a certain nostalgia behind the power principle, or a tendency to organize the longings of future generations.
+
+> [Frase 7359](#lugar-7359)
+> Had we created it?
+
+> [Frase 7386](#lugar-7386)
+> When the results were in, I went to see Dr. Chakravarty in his little office in the medical building.
+
+> [Frase 7396](#lugar-7396)
+> I am the doctor, you the patient.
+
+> [Frase 7413](#lugar-7413)
+> Do you know what this means?" '"No."
+
+> [Frase 7416](#lugar-7416)
+> This is all you have to know."
+
+> [Frase 7422](#lugar-7422)
+> "Now we are getting into semantics," he said.
+
+> [Frase 7430](#lugar-7430)
+> 'Then we agree," I said.
+
+> [Frase 7431](#lugar-7431)
+> "Tell me this, Mr. Gladney, in all honesty.
+
+> [Frase 7439](#lugar-7439)
+> He seemed to be trying to stare me down.
+
+> [Frase 7442](#lugar-7442)
+> I said, "How can we tell whether the elevation is true or false?"
+
+> [Frase 7443](#lugar-7443)
+> "I will send you to Glassboro for further tests.
+
+> [Frase 7450](#lugar-7450)
+> But is potassium the only thing we have to watch?"
+
+> [Frase 7458](#lugar-7458)
+> They have the know-how at Harvest Farms, the most delicate of instruments, I promise you.
+
+> [Frase 7461](#lugar-7461)
+> "Together, as doctor and patient, we can do things that neither of us could do separately.
 
 © 2026 Osmancito
 
