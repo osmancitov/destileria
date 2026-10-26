@@ -686,94 +686,109 @@ Jack concluye que el misterio americano se profundiza.
 
 ### Capítulo 14: El Desvanecimiento Cerebral
 
-*Alfonse Stompanato, Murray, Lasher, Denise, Babette y Heinrich.*
+*Jack, Grappa, Lasher, Alfonse, Denise, Cotsakis, Babette, Heinrich y Murray.*
 
 [![Una mesa de comedor de profesores en torno a un hombre barbudo que habla con gravedad, mientras una televisión al fondo muestra una casa deslizándose hacia el mar.](../img/261025_white-noise_el-desvanecimiento-cerebral.jpg)](../img/261025_white-noise_el-desvanecimiento-cerebral.jpg)
 
-Jack estudia alemán en la cama. Denise se tumba a los pies y le cuenta que Babette toma un fármaco llamado Dylar, que ella ha visto el frasco en la basura y que no figura en ningún libro. Después le pregunta por qué llamó a su hijo Heinrich: un nombre fuerte, con autoridad, para protegerlo. Una noche de viernes, ante el televisor, con comida china:
+Denise entra y se tumba a los pies de la cama de Jack. Dice que Babette (Baba) no recuerda nada.
 
-> Había inundaciones, terremotos, aludes de barro, volcanes en erupción.
-> [Frase 1619](#original-1619)
+> «¿Te preguntó si está tomando medicación?»
+> [Frase 1520](#original-1520)
 
-Heinrich no está huraño y Jack no está aburrido.
+Denise dice que no se lo preguntó.
 
-> Steffie, a punto de llorar por un marido de comedia que discutía con su mujer, parecía absorta por completo en aquellos fragmentos documentales de calamidad y muerte.
-> [Frase 1622](#original-1622)
+> «Se suponía que debía hacerlo», dije.
+> [Frase 1524](#original-1524)
 
-Babette quiere cambiar a una comedia y se asombra de la fuerza de su protesta.
+Denise dice que no lo hizo.
 
-> Permanecíamos en silencio, viendo cómo las casas se deslizaban hacia el océano y pueblos enteros crepitaban y se encendían en una masa de lava que avanzaba.
-> [Frase 1625](#original-1625)
+> «¿Cómo sabes que está tomando algo?»
+> [Frase 1526](#original-1526)
 
-Para entonces cada desastre les hace pedir otro mayor. El lunes Murray cuenta que no logra armar su base de poder sobre Elvis Presley en el departamento. Jack almuerza con los emigrados de Nueva York, que preside Alfonse Stompanato, de barba furiosa. Le pregunta:
+Denise vio el frasco enterrado en la basura: Dylar, uno cada tres días. No viene en su libro de fármacos, que tiene cuatro índices. Jack ofrece:
 
-> Le dije: «¿Por qué, Alfonse, gente decente, bienintencionada y responsable se siente intrigada por la catástrofe cuando la ve por televisión?»
-> [Frase 1650](#original-1650)
+> «¿Quieres que vuelva a mirar el libro?»
+> [Frase 1539](#original-1539)
+
+Denise ya miró. Jack no quiere darle demasiada importancia: todos toman algo y olvidan cosas. Denise registró su botiquín: sin Dylar. Sigue queriendo saber.
+
+> Pero ahora cambió de postura, se apoyó en un codo para incorporar la parte superior del cuerpo y me observó con aire especulativo desde los pies de la cama.
+> [Frase 1559](#original-1559)
+
+> «¿Puedo preguntarte algo?»
+> [Frase 1560](#original-1560)
+
+Jack dice que sí. Ella ya conoce su botiquín, ¿qué secretos le quedan?
+
+> «¿Por qué llamaste Heinrich a Heinrich?»
+> [Frase 1565](#original-1565)
+
+Jack dice que es una buena pregunta. Le pareció un nombre fuerte, con autoridad. Denise pregunta si lleva el nombre de alguien.
+
+> «No. Nació poco después de que yo empezara el departamento y supongo que quería reconocer mi buena fortuna.
+> [Frase 1574](#original-1574)
+
+Quería hacer algo alemán. Denise repite el nombre completo. Jack lo creyó impresionante, y aún lo cree.
+
+> Quería protegerlo, hacer que no tuviera miedo.
+> [Frase 1580](#original-1580)
+
+La gente llamaba entonces a sus hijos Kim, Kelly y Tracy. Hubo un largo silencio.
+
+> Siguió mirándome.
+> [Frase 1583](#original-1583)
+
+Con los rasgos apretados en el centro de la cara, tiene en la concentración un aire de dogo medio beligerante.
+
+> «¿Crees que me equivoqué en el cálculo?»
+> [Frase 1585](#original-1585)
+
+Jack dice que no le toca decirlo. Hablan de Hitler y de los uniformes. Heinrich llama a ver un accidente aéreo. El viernes la familia ve catástrofes por televisión con comida china.
+
+> Heinrich no estaba hosco, yo no estaba aburrido.
+> [Frase 1621](#original-1621)
+
+Steffie casi llora; Babette quiere cambiar a una comedia y se asombra de la protesta.
+
+> El lunes entré en mi despacho y encontré a Murray sentado en la silla junto al escritorio, como quien espera que llegue una enfermera con un tensiómetro.
+> [Frase 1627](#original-1627)
+
+Murray no logra imponer su base de Elvis Presley: el jefe del departamento, Alfonse Stompanato, cree que Dimitrios Cotsakis tiene derecho previo.
+
+> Sugerí que podía pasarme por su próxima clase, de manera informal, sin avisar, solo para dar un toque de importancia al acto, para darle el beneficio de cualquier influencia y prestigio que pudieran residir en mi cargo, mi materia, mi persona física.
+> [Frase 1631](#original-1631)
+
+Murray asiente. En el almuerzo Jack ve a Alfonse presidir la mesa de los emigrados de Nueva York, de barba furiosa.
+
+> Una vez me dijo que el arte de salir adelante en Nueva York se basaba en aprender a expresar la insatisfacción de manera interesante.
+> [Frase 1641](#original-1641)
+
+Alfonse aplasta toda opinión ajena. Jack le pregunta por qué la gente decente se intriga ante las catástrofes por televisión.
 
 > Le conté la reciente velada de lava, barro y aguas furiosas que a los niños y a mí nos había resultado tan entretenida.
 > [Frase 1651](#original-1651)
 
-Queríamos más, más.
+Queríamos más. Alfonse dice que es natural: sufrimos de desvanecimiento cerebral y necesitamos catástrofes que ocurran en otra parte, como California. Lasher asiente.
 
-> «Es natural, es normal», dijo, con un asentimiento tranquilizador.
-> [Frase 1653](#original-1653)
+> Grappa lanzó con naturalidad medio panecillo con mantequilla a Lasher y le dio en el hombro.
+> [Frase 1700](#original-1700)
 
-Le pasa a todo el mundo, dice Alfonse. Jack pregunta por qué.
+El panecillo era para llamar la atención de Lasher.
 
-> «Porque sufrimos de desvanecimiento cerebral.
-> [Frase 1656](#original-1656)
+> Grappa le dijo: «¿Alguna vez te lavaste los dientes con el dedo?»
+> [Frase 1702](#original-1702)
 
-> Necesitamos una catástrofe de vez en cuando para interrumpir el bombardeo incesante de información.»
-> [Frase 1657](#original-1657)
+Lasher, Cotsakis y Murray cuentan dónde se lavaron los dientes con el dedo. Alfonse pregunta a Lasher y a Cotsakis dónde estaban cuando murió James Dean, y luego mira a Grappa:
 
-Elliot Lasher, un hombre delgado de cara tensa, lo respalda, y Alfonse sigue:
+> «¿Dónde demonios estabas?», dijo, como si acabara de ocurrírsele que la muerte del actor no estaba completa sin algún registro del paradero de Grappa.
+> [Frase 1748](#original-1748)
 
-> «Palabras, imágenes, cifras, hechos, gráficos, estadísticas, motas, ondas, partículas, partículas de polvo.
-> [Frase 1661](#original-1661)
+Grappa dice que lo sabe, pero que tiene lagunas. Alfonse le exige que produzca y le recita la fecha del accidente. Lasher le pregunta a Cotsakis, que fue guardaespaldas de Little Richard, por una playa de Florida.
 
-> Solo una catástrofe atrae nuestra atención.
-> [Frase 1662](#original-1662)
+> Vi a Grappa lanzar una galleta salada a Murray.
+> [Frase 1781](#original-1781)
 
-> Las queremos, las necesitamos, dependemos de ellas.
-> [Frase 1663](#original-1663)
-
-> Mientras ocurran en otra parte.
-> [Frase 1664](#original-1664)
-
-Y sigue, ahora con California:
-
-> Aludes de barro, incendios forestales, erosión de la costa, terremotos, matanzas, etcétera.
-> [Frase 1666](#original-1666)
-
-> Podemos relajarnos y disfrutar de estos desastres porque en el fondo sentimos que California se merece lo que le toque.
-> [Frase 1667](#original-1667)
-
-Califica a los californianos de inventores del estilo de vida, lo cual basta para condenarlos. Habla luego de Japón y de la India:
-
-> Tienen un potencial tremendo con sus hambrunas, monzones, conflictos religiosos, choques de trenes, hundimientos de barcos, etcétera.
-> [Frase 1673](#original-1673)
-
-Sus desastres rara vez se registran: tres líneas en el periódico, sin película ni enlace por satélite. Por eso California es tan importante:
-
-> No solo disfrutamos viéndolos castigados por su vida relajada y sus ideas sociales progresistas, sino que sabemos que no nos perdemos nada.
-> [Frase 1678](#original-1678)
-
-Las cámaras están ahí mismo, dice, listas.
-
-> Nada terrible escapa a su escrutinio.»
-> [Frase 1681](#original-1681)
-
-Jack resume que fascinarse con desastres televisados es casi universal. Alfonse dice que para la mayoría solo hay dos lugares en el mundo, donde viven y su televisor:
-
-> Si algo ocurre en la televisión, tenemos todo el derecho a encontrarlo fascinante, sea lo que sea.»
-> [Frase 1685](#original-1685)
-
-Jack no sabe si alegrarse o apenarse. «Apénate», dice Alfonse, y Lasher añade que todos se sienten mal pero pueden disfrutarlo en ese plano. Murray habla de la atención equivocada: la gente olvidó mirar y escuchar como un niño.
-
-> En el sentido psíquico, un incendio forestal en la tele está en un plano inferior al de un anuncio de diez segundos del Lavavajillas Automático All.
-> [Frase 1695](#original-1695)
-
-Murray dice que los anuncios tienen ondas más profundas, y que es un simple caso de mal uso. Luego Grappa lanza un panecillo a Lasher y los profesores se retan a contar dónde se cepillaron los dientes con el dedo y dónde estaban cuando murió James Dean.
+La lanzó de revés, como un frisbi.
 
 ---
 
@@ -1360,62 +1375,65 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 14: El Desvanecimiento Cerebral
 
-> [Frase 1619](#lugar-1619)
-> There were flopds, earthquakes, mud slides, erupting volcanoes.
+> [Frase 1520](#lugar-1520)
+> "Did she ask you whether she's taking medication?"
 
-> [Frase 1622](#lugar-1622)
-> Steffie, brought close to tears by a sitcom husband arguing with his wife, appeared totally absorbed in these documentary clips of calamity and death.
+> [Frase 1524](#lugar-1524)
+> "She was supposed to," I said.
 
-> [Frase 1625](#lugar-1625)
-> We were otherwise silent, watching houses slide into the ocean, whole villages crackle and ignite in a mass of advancing lava.
+> [Frase 1526](#lugar-1526)
+> "How do you know she's taking something?"
 
-> [Frase 1650](#lugar-1650)
-> I said to him, "Why is it, Alfonse, that decent, well-meaning and responsible people find themselves intrigued by catastrophe when they see it on television?"
+> [Frase 1539](#lugar-1539)
+> Do you want me to double-check the book?"
+
+> [Frase 1559](#lugar-1559)
+> But now she shifted position, used an elbow to prop her upper body and watched me speculatively from the foot of the bed.
+
+> [Frase 1560](#lugar-1560)
+> "Can I ask you something?"
+
+> [Frase 1565](#lugar-1565)
+> "Why did you name Heinrich Heinrich?"
+
+> [Frase 1574](#lugar-1574)
+> "No. He was born shortly after I started the department and I guess I wanted to acknowledge my good fortune.
+
+> [Frase 1580](#lugar-1580)
+> I wanted to shield him, make him unafraid.
+
+> [Frase 1583](#lugar-1583)
+> She kept watching me.
+
+> [Frase 1585](#lugar-1585)
+> "Do you think I miscalculated?"
+
+> [Frase 1621](#lugar-1621)
+> Heinrich was not sullen, I was not bored.
+
+> [Frase 1627](#lugar-1627)
+> I walked into my office on Monday to find Murray sitting in the chair adjacent to the desk, like someone waiting for a nurse to arrive with a blood-pressure gauge.
+
+> [Frase 1631](#lugar-1631)
+> I suggested that I might drop by his next lecture, informally, unannounced, simply to lend a note of consequence to the proceedings, to give him the benefit of whatever influence and prestige might reside in my office, my subject, my physical person.
+
+> [Frase 1641](#lugar-1641)
+> He'd once told me that the art of getting ahead in New York was based on learning how to express dissatisfaction in an interesting way.
 
 > [Frase 1651](#lugar-1651)
 > I told him about the recent evening of lava, mud and raging water that the children and I had found so entertaining.
 
-> [Frase 1653](#lugar-1653)
-> "It's natural, it's normal," he said, with a reassuring nod.
+> [Frase 1700](#lugar-1700)
+> Grappa casually tossed half a buttered roll at Lasher, hitting him on the shoulder.
 
-> [Frase 1656](#lugar-1656)
-> "Because we're suffering from brain fade.
+> [Frase 1702](#lugar-1702)
+> Grappa said to him, "Did you ever brush your teeth with your finger?"
 
-> [Frase 1657](#lugar-1657)
-> We need an occasional catastrophe to break up the incessant bombardment of information."
+> [Frase 1748](#lugar-1748)
+> "Where the hell were you?" he said, as if the thought had just occurred to him that the actor's death was not complete without some record of Grappa's whereabouts.
 
-> [Frase 1661](#lugar-1661)
-> "Words, pictures, numbers, facts, graphics, statistics, specks, waves, particles, motes.
-
-> [Frase 1662](#lugar-1662)
-> Only a catastrophe gets our attention.
-
-> [Frase 1663](#lugar-1663)
-> We want them, we need them, we depend on them.
-
-> [Frase 1664](#lugar-1664)
-> As long as they happen somewhere else.
-
-> [Frase 1666](#lugar-1666)
-> Mud slides, brush fires, coastal erosion, earthquakes, mass killings, et cetera.
-
-> [Frase 1667](#lugar-1667)
-> We can relax and enjoy these disasters because in our hearts we feel that California deserves whatever it gets.
-
-> [Frase 1673](#lugar-1673)
-> They have tremendous potential with their famines, monsoons, religious strife, train wrecks, boat sinkings, et cetera.
-
-> [Frase 1678](#lugar-1678)
-> We not only enjoy seeing them punished for their relaxed life-style and progressive social ideas but we know we're not missing anything.
-
-> [Frase 1681](#lugar-1681)
-> Nothing terrible escapes their scrutiny."
-
-> [Frase 1685](#lugar-1685)
-> If a thing happens on television, we have every right to find it fascinating, whatever it is."
-
-> [Frase 1695](#lugar-1695)
-> In the psychic sense a forest fire on TV is on a lower plane than a ten-second spot for Automatic Dishwasher All.
+> [Frase 1781](#lugar-1781)
+> I watched Grappa throw a cracker at Murray.
 
 ---
 
