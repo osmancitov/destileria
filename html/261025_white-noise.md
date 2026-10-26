@@ -645,94 +645,106 @@ El día antes del hallazgo, según el periódico local, la policía consultó a 
 
 [![Una mesa de comedor de profesores en torno a un hombre barbudo que habla con gravedad, mientras una televisión al fondo muestra una casa deslizándose hacia el mar.](../img/261025_white-noise_el-desvanecimiento-cerebral.jpg)](../img/261025_white-noise_el-desvanecimiento-cerebral.jpg)
 
-Jack cuenta:
+Al final del día, la familia se asoma a la ventana. Jack cuenta:
 
-> Nos apiñamos ante la ventana en el cuarto pequeño de Steffie, viendo la espectacular puesta de sol.
+> Nos apiñamos ante la ventana de la pequeña habitación de Steffie, viendo la espectacular puesta de sol.
 > [Frase 1509](#original-1509)
 
-Más tarde Jack estudia alemán en la cama. Denise entra y se tumba a los pies, de espaldas a él. Pasa un minuto. Denise dice:
+Más tarde, Jack estudia alemán en la cama y Denise entra. Denise dice:
 
-> «¿Qué vamos a hacer con Baba?», dijo ella.
+> «¿Qué vamos a hacer con Baba?», dijo.
 > [Frase 1517](#original-1517)
 
-Denise cuenta que Babette no recuerda nada y que encontró en la basura un frasco de Dylar, uno cada tres días. No sale en su libro de fármacos. Jack dice que debe ser reciente y ofrece:
+Denise cuenta que Babette no recuerda nada. Jack pregunta si Babette le ha preguntado si toma medicación. Denise dice que no. Jack dice:
 
-> «¿Quieres que vuelva a mirar el libro?»
+> «Se suponía que debía hacerlo», dije.
+> [Frase 1524](#original-1524)
+
+Denise cuenta que vio un frasco de Dylar en la basura y que no figura en su libro de medicamentos. Jack dice:
+
+> «¿Quieres que vuelva a comprobar el libro?»
 > [Frase 1539](#original-1539)
 
-Denise responde que ya miró; Jack propone otra salida:
+Denise dice que ya buscó en el libro. Jack dice:
 
-> «Miré.» «Siempre podríamos llamar a su médico.»
+> «Ya miré.» «Siempre podríamos llamar a su médico.»
 > [Frase 1541](#original-1541)
 
-Jack no quiere darle demasiada importancia: todos toman algo y olvidan cosas. Denise sigue queriendo saber. Jack cuenta:
+Denise insiste en saberlo y le da la espalda a Jack. Jack cuenta:
 
 > Pero ahora cambió de postura, se apoyó en un codo para incorporar la parte superior del cuerpo y me observó con aire especulativo desde los pies de la cama.
 > [Frase 1559](#original-1559)
 
+Denise quiere preguntarle algo. Denise dice:
+
 > «¿Puedo preguntarte algo?»
 > [Frase 1560](#original-1560)
 
-Ella pregunta por qué Jack le puso Heinrich a su hijo Heinrich. Jack responde que le pareció un nombre fuerte, con autoridad, y que quería protegerlo. Hubo un largo silencio. Jack cuenta:
+Denise pregunta por qué Jack le puso Heinrich a Heinrich, y si es por alguien. Jack dice:
+
+> «No. Nació poco después de que yo empezara el departamento y supongo que quería reconocer mi buena fortuna.»
+> [Frase 1574](#original-1574)
+
+Hay un largo silencio. Jack cuenta:
 
 > Siguió mirándome.
 > [Frase 1583](#original-1583)
 
-Con los rasgos apretados en el centro de la cara, tiene en la concentración un aire de dogo medio beligerante. Ella pregunta:
+Denise lo mira con atención. Jack dice:
 
-> «¿Crees que me equivoqué en el cálculo?»
+> «¿Crees que calculé mal?»
 > [Frase 1585](#original-1585)
 
-Jack dice que no le toca decirlo. Hablan de Hitler, que siempre sale en televisión, y de los uniformes. Steffie entra con la visera verde de Denise. Jack cuenta:
+Jack habla de su obsesión por lo alemán y de Hitler. Entra Steffie con la visera de Denise. Jack cuenta:
 
-> Se subió a la cama y los tres repasamos mi diccionario alemán-inglés, buscando palabras que suenan casi igual en los dos idiomas, como orgy y shoe.
+> Se subió a la cama y los tres repasamos mi diccionario alemán-inglés, buscando palabras que suenan más o menos igual en los dos idiomas, como orgy y shoe.
 > [Frase 1607](#original-1607)
 
-Heinrich llama a ver imágenes de un accidente aéreo y todos corren al televisor. Jack llega tarde y solo ve humo negro. Jack cuenta:
+Heinrich entra corriendo. Heinrich dice:
 
-> Teníamos dos puertas de armario que se abrían solas.
-> [Frase 1617](#original-1617)
+> «Vamos, daos prisa, imágenes de un accidente de avión.»
+> [Frase 1609](#original-1609)
 
-> Esa noche, un viernes, nos reunimos frente al aparato, como era costumbre y regla, con comida china para llevar.
+Heinrich y las niñas corren a ver un accidente de avión en la tele. Jack cuenta:
+
+> Aquella noche, un viernes, nos reunimos ante el televisor, como era costumbre y norma, con comida china para llevar.
 > [Frase 1618](#original-1618)
 
-Había inundaciones, terremotos, deslaves y volcanes en erupción. Jack cuenta:
+Babette intenta cambiar a una comedia y todos protestan. Jack cuenta:
 
-> Nunca antes habíamos estado tan atentos a nuestro deber, nuestra reunión de los viernes.
-> [Frase 1620](#original-1620)
-
-Heinrich no estaba hosco ni Jack aburrido. Steffie casi llora ante una comedia; Babette quiso cambiar de canal y se asombró de la protesta. Jack cuenta:
-
-> Por lo demás permanecíamos en silencio, viendo casas deslizarse hacia el océano, aldeas enteras crepitar y encenderse en una masa de lava que avanzaba.
+> Por lo demás estábamos en silencio, viendo cómo las casas se deslizaban al océano y pueblos enteros crepitaban y se inflamaban en una masa de lava que avanzaba.
 > [Frase 1625](#original-1625)
 
-> Cada desastre nos hacía desear más, algo más grande, más imponente, más arrasador.
+> Cada desastre nos hacía desear más, algo más grande, más grandioso, más arrollador.
 > [Frase 1626](#original-1626)
 
-El lunes Murray espera a Jack en su oficina: no logra imponer su base de Elvis Presley en el departamento. En el almuerzo Jack ve a Alfonse presidir la mesa de los emigrados de Nueva York. Jack cuenta:
+En el comedor, Jack se sienta a la mesa de Alfonse Stompanato, el jefe del departamento. Jack cuenta:
 
-> Una vez me dijo que el arte de salir adelante en Nueva York se basaba en aprender a expresar la insatisfacción de manera interesante.
+> Una vez me había dicho que el arte de salir adelante en Nueva York se basaba en aprender a expresar la insatisfacción de una manera interesante.
 > [Frase 1641](#original-1641)
 
-Alfonse aplasta toda opinión ajena. Jack cuenta:
+Alfonse habla con furia de la cultura popular. Jack dice:
 
-> Le dije: «¿Por qué es, Alfonse, que personas decentes, bienintencionadas y responsables se sienten intrigadas por la catástrofe cuando la ven por televisión?»
+> Le dije: «¿Por qué es, Alfonse, que personas decentes, bienintencionadas y responsables se sienten intrigadas por la catástrofe cuando la ven en la televisión?»
 > [Frase 1650](#original-1650)
 
-> Le conté la reciente velada de lava, barro y aguas furiosas que a los niños y a mí nos había resultado tan entretenida.
+> Le conté la reciente noche de lava, barro y aguas furiosas que los niños y yo habíamos encontrado tan entretenida.
 > [Frase 1651](#original-1651)
 
-Alfonse dice que es natural: sufrimos de desvanecimiento cerebral y necesitamos catástrofes que ocurran en otra parte, como California. Murray añade que la gente ha olvidado cómo mirar y escuchar. Grappa lanza medio panecillo a Lasher para llamar su atención y le dice:
+> Queríamos más, más.
+> [Frase 1652](#original-1652)
 
-> Grappa le dijo: «¿Alguna vez te lavaste los dientes con el dedo?»
-> [Frase 1702](#original-1702)
+Alfonse dice que la gente necesita catástrofes para escapar del exceso de información. Jack no sabe si alegrarse de que su experiencia sea tan común. Alfonse dice:
 
-Lasher, Cotsakis y Murray cuentan dónde se lavaron los dientes con el dedo. Alfonse pregunta dónde estaban cuando murió James Dean, y Grappa dice tener lagunas. Jack cuenta:
+> «Siéntete mal», dijo.
+> [Frase 1687](#original-1687)
 
-> Vi a Grappa lanzar una galleta salada a Murray.
+Grappa, Lasher y Cotsakis se tiran comida y se preguntan dónde estaban cuando murió James Dean. Jack cuenta:
+
+> Vi a Grappa lanzarle una galleta salada a Murray.
 > [Frase 1781](#original-1781)
 
-La lanzó de revés, como un frisbi.
+Jack se ofreció a ir a la clase de Murray.
 
 ---
 
@@ -3699,6 +3711,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1517](#lugar-1517)
 > "What are we going to do about Baba?" she said.
 
+> [Frase 1524](#lugar-1524)
+> "She was supposed to," I said.
+
 > [Frase 1539](#lugar-1539)
 > Do you want me to double-check the book?"
 
@@ -3711,6 +3726,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1560](#lugar-1560)
 > "Can I ask you something?"
 
+> [Frase 1574](#lugar-1574)
+> "No. He was born shortly after I started the department and I guess I wanted to acknowledge my good fortune.
+
 > [Frase 1583](#lugar-1583)
 > She kept watching me.
 
@@ -3720,14 +3738,11 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1607](#lugar-1607)
 > She climbed up on the bed and all three of us went through my German-English dictionary, looking for words that sound about the same in both languages, like orgy and shoe.
 
-> [Frase 1617](#lugar-1617)
-> We had two closet doors that opened by themselves.
+> [Frase 1609](#lugar-1609)
+> "Come on, hurry up, plane crash footage."
 
 > [Frase 1618](#lugar-1618)
 > That night, a Friday, we gathered in front of the set, as was the custom and the rule, with take-out Chinese.
-
-> [Frase 1620](#lugar-1620)
-> We'd never before been so attentive to our duty, our Friday assembly.
 
 > [Frase 1625](#lugar-1625)
 > We were otherwise silent, watching houses slide into the ocean, whole villages crackle and ignite in a mass of advancing lava.
@@ -3744,8 +3759,11 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1651](#lugar-1651)
 > I told him about the recent evening of lava, mud and raging water that the children and I had found so entertaining.
 
-> [Frase 1702](#lugar-1702)
-> Grappa said to him, "Did you ever brush your teeth with your finger?"
+> [Frase 1652](#lugar-1652)
+> We wanted more, more.
+
+> [Frase 1687](#lugar-1687)
+> "Feel bad," he said.
 
 > [Frase 1781](#lugar-1781)
 > I watched Grappa throw a cracker at Murray.
