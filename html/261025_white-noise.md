@@ -121,45 +121,43 @@ Murray pregunta cómo era el granero antes de ser fotografiado y concluye que no
 
 [![Óleo impresionista, al estilo de Eugène Boudin: una mujer con ropa deportiva gris sube corriendo las gradas de piedra de un estadio y se apoya en el parapeto; al otro lado del campo, un hombre con gafas oscuras la mira sentado; el cielo está lleno de nubes alargadas y una avioneta cruza sobre los árboles.](../img/261025_white-noise_quien-morira-primero.jpg)](../img/261025_white-noise_quien-morira-primero.jpg)
 
-Jack, el narrador, mira desde un estadio a su esposa Babette, que corre por las gradas:
+Jack mira desde el estadio de un colegio a Babette, que corre escaleras arriba. Jack cuenta:
 
-> Su rostro estaba inclinado hacia arriba, captando el aire fresco, y no me vio.
+> Tenía la cara inclinada hacia arriba, captando el aire fresco, y no me vio.
 > [Frase 259](#original-259)
 
-Ella sube y baja varias veces. Jack baja a su encuentro:
-
-> Después del último descenso me reuní con ella al borde del campo de juego y la abracé, metiéndole las manos dentro de la cinturilla de sus pantalones grises de algodón.
+> Después del último descenso me reuní con ella en el borde del campo de juego y la abracé, poniendo las manos dentro de la cintura elástica de sus pantalones grises de algodón.
 > [Frase 266](#original-266)
 
-Jack cuenta lo que hace Babette:
+Babette corre, palea nieve y lee clásicos eróticos en voz alta. Jack cuenta:
 
-> Planea viajes de esquí que nunca hacemos, con la cara radiante de ilusión.
+> Ella planea viajes de esquí que nunca hacemos, con la cara radiante de entusiasmo.
 > [Frase 276](#original-276)
 
-A veces entre los dos surge la pregunta de quién morirá primero. Jack piensa:
+Jack sube la colina hacia la universidad y se pregunta quién morirá primero. En la pista de ceniza abraza a Babette. Jack cuenta:
 
-> Nos cura de nuestra inocencia sobre el futuro.
+> Nos cura de nuestra inocencia respecto del futuro.
 > [Frase 288](#original-288)
-
-Treinta chicas pasan corriendo por la pista, en pantalón corto:
 
 > Vimos a las chicas dar otra vuelta.
 > [Frase 290](#original-290)
 
-Camino a casa Jack le dice a Babette que Bee, su hija de otro matrimonio, quiere visitarlos en Navidad:
+De camino a casa, Jack dice que Bee quiere visitarlos en Navidad. Jack cuenta:
 
-> Podemos ponerla con Steffie.»
+> «Podemos ponerla con Steffie.»
 > [Frase 294](#original-294)
 
-Babette quiere que los viernes la familia vea televisión junta, para quitarle el encanto:
+Bee y Steffie se conocieron en Disney World. Bee, hija de Jack y de Tweedy Browner, vuelve de dos años en Corea del Sur. Jack cuenta:
 
 > Esa noche, un viernes, pedimos comida china y vimos televisión juntos, los seis.
 > [Frase 308](#original-308)
 
-Los viernes Jack lee sobre Hitler hasta tarde:
+Babette impuso ver televisión una noche por semana con los hijos. Los viernes, después de la tele, Jack lee a Hitler hasta tarde. Jack cuenta:
 
-> Una de esas noches me metí en la cama junto a Babette y le conté cómo el rector me había aconsejado, allá por 1968, hacer algo con mi nombre y mi apariencia si quería que me tomaran en serio como innovador de Hitler.
+> Una de esas noches me metí en la cama junto a Babette y le conté cómo el rector me había aconsejado, allá por 1968, que hiciera algo con mi nombre y mi aspecto si quería que me tomaran en serio como innovador de Hitler.
 > [Frase 320](#original-320)
+
+El rector le sugiere inventar la inicial J. A. K. y engordar para parecerse a Hitler.
 
 ---
 
