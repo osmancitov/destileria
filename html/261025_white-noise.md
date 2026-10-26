@@ -580,37 +580,42 @@ Llega el otoño: hojas, bolsas negras en la acera y niños que piden dulces en l
 
 [![Dunlop y Jack sentados frente a frente en un cuarto atestado, con un mapa del tiempo en la pared y un cielo gris en la ventana, haciendo muecas de pronunciación.](../img/261025_white-noise_dunlop-y-el-clima.jpg)](../img/261025_white-noise_dunlop-y-el-clima.jpg)
 
-Jack toma clases de alemán dos veces por semana. Howard Dunlop exige que se sienten frente a frente toda la lección. Dunlop deforma la cara y hace muecas al pronunciar, y Jack lo imita:
+Jack toma clases de alemán con Howard Dunlop, sentados frente a frente. Dunlop retuerce la cara al pronunciar. Jack cuenta:
 
-> Cuando llegaba el momento de que repitiera los ruidos, yo hacía lo mismo, aunque solo fuera para complacer al profesor, torciendo la boca, cerrando los ojos del todo, consciente de una sobrearticulación tan torturada que debía de haber sonado como una flexión repentina de la ley natural, una piedra o un árbol que se esfuerza por hablar.
+> Cuando llegaba mi turno de repetir los ruidos, hacía lo mismo, aunque solo fuera por complacer al profesor, retorciendo la boca, cerrando los ojos del todo, consciente de una sobrearticulación tan torturada que debía de sonar como un doblegamiento repentino de la ley natural, una piedra o un árbol luchando por hablar.
 > [Frase 1352](#original-1352)
 
-Dunlop mira a lo lejos, desprendido. Jack es su único alumno de alemán; también enseña griego, latín y navegación:
+Jack le pregunta a Dunlop cuántos alumnos tiene. Dunlop dice que ya no tiene tantos. Jack cuenta:
 
 > «¿Enseña algo más?», dije.
 > [Frase 1376](#original-1376)
 
-Dunlop también enseña meteorología: tras la muerte de su madre vio por televisión a un joven pronosticando el tiempo y encontró paz; hoy da clases en sótanos de iglesias. En casa, Bob Pardee, el padre de Denise, practica su swing de golf en la cocina:
+Al volver a casa, Jack encuentra a Bob Pardee, el padre de Denise, practicando su swing de golf en la cocina. Jack cuenta:
 
-> Dijo que iba de paso por la ciudad hacia Glassboro para hacer una presentación y pensó en llevarnos a todos a cenar.
+> Dijo que pasaba por la ciudad camino de Glassboro para hacer una presentación y que había pensado llevarnos a todos a cenar.
 > [Frase 1413](#original-1413)
 
-Denise le pregunta para qué son los fondos. Bob habla de una fundación para la defensa legal de la industria nuclear y dice que tiene hambre:
+Bob se lleva a los tres hijos mayores al Wagon Wheel. Jack lleva a Babette a leerle al ciego Treadwell. Jack cuenta:
 
-> Vamos a acercarnos sigilosos a unas costillas, ¿por qué no?
-> [Frase 1438](#original-1438)
+> El plan era que, después de la lectura, los tres nos reuniríamos con el grupo del Wagon Wheel en el Dinky Donut, donde ellos tomarían postre y nosotros cenaríamos.
+> [Frase 1453](#original-1453)
 
-Bob lleva a los hijos mayores al Wagon Wheel. Jack acompaña a Babette a leerle al ciego Treadwell; ella sale y no hay nadie, ni él ni su hermana. La policía no sabe nada. En el Dinky Donut:
+Babette entra en la casa de Treadwell, y no hay nadie. Jack cuenta:
 
-> Me di cuenta de que Babette lo miraba con atención, tratando de captar el sentido de los cuatro años desbocados que habían pasado como marido y mujer.
+> En el Dinky Donut, a las afueras, Bob Pardee estaba sentado en silencio mientras la familia comía y hablaba.
+> [Frase 1468](#original-1468)
+
+Bob parece derrotado. Jack cuenta:
+
+> Me di cuenta de que Babette lo miraba con atención, tratando de captar el sentido de los cuatro años turbulentos que habían pasado como marido y mujer.
 > [Frase 1472](#original-1472)
 
-Bob bebía, apostaba, tiraba el auto por terraplenes y le pagó a una mujer para que le hablara en sueco; eso enfureció a Babette, que le pegó:
+Babette mira a Bob con ternura. Jack cuenta:
 
-> Ahora ella lo miraba con una tierna compasión, una reflexión que parecía honda, cariñosa y generosa como para contener todos los contrahechizos mágicos contra su actual racha de desgracias, aunque yo sabía, por supuesto, mientras volvía a mi libro, que era solo un afecto pasajero, una de esas bondades que nadie entiende.
+> Ahora lo miraba con una tierna simpatía, una reflexividad que parecía profunda, cariñosa y lo bastante generosa para contener todos los contrahechizos mágicos de su actual racha de desgracias, aunque yo sabía, claro, mientras volvía a mi libro, que era solo un afecto pasajero, una de esas bondades que nadie entiende.
 > [Frase 1477](#original-1477)
 
-Al día siguiente, al mediodía, dragan el río.
+Al día siguiente, a mediodía, la policía rastrea el río.
 
 ---
 
@@ -3662,8 +3667,11 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1413](#lugar-1413)
 > He said he was driving through town on his way to Glassboro to make a presentation and thought he'd take us all to dinner.
 
-> [Frase 1438](#lugar-1438)
-> Let's sneak up on some ribs, why don't we?
+> [Frase 1453](#lugar-1453)
+> The plan was that after the reading the three of us would meet the Wagon Wheel group at the Dinky Donut, where they would have dessert and we would have dinner.
+
+> [Frase 1468](#lugar-1468)
+> At the Dinky Donut, outside town, Bob Pardee sat quietly as the family ate and talked.
 
 > [Frase 1472](#lugar-1472)
 > I realized Babette was looking at him carefully, trying to grasp the meaning of the four careening years they'd spent as man and wife.
