@@ -18,22 +18,12 @@ Se divide en tres partes: «Waves and Radiation» («Ondas y Radiación»), «Th
 
 [![Óleo impresionista: una fila de camionetas familiares cargadas de maletas y bicicletas en un campus soleado; estudiantes descargan y padres elegantes miran, al estilo de Childe Hassam.](../img/261025_white-noise_las-camionetas.jpg)](../img/261025_white-noise_las-camionetas.jpg)
 
-Las camionetas familiares llegan a mediodía al campus de una universidad, cargadas de maletas, y los estudiantes empiezan a descargarlas. El narrador, Jack, cuenta:
+Las camionetas familiares llegan a mediodía al campus de una universidad, cargadas de maletas. El narrador, Jack, cuenta:
 
-> He presenciado este espectáculo cada septiembre durante veintiún años.
-> [Frase 5](#original-5)
+> Cuando los coches reducían la marcha hasta casi detenerse y paraban, los estudiantes saltaban afuera y corrían a las puertas traseras para empezar a sacar los objetos del interior: los equipos de música, las radios, los ordenadores personales; los pequeños frigoríficos y las cocinas de mesa; las cajas de discos y casetes; los secadores de pelo y los rizadores; las raquetas de tenis, los balones de fútbol, los palos de hockey y lacrosse, los arcos y las flechas; las sustancias controladas, las píldoras y los dispositivos anticonceptivos; la comida basura aún en las bolsas de la compra: chips de cebolla y ajo, nachos finos, tortitas de crema de cacahuete, Waffelos y Kabooms, gominolas de fruta y palomitas de caramelo; los chupa-chups Dum-Dum, las pastillas de menta Mystic.
+> [Frase 4](#original-4)
 
-Los padres miran las camionetas con satisfacción. Jack baja al pueblo; vive con su esposa Babette en una calle tranquila:
-
-> Ahora hay una autopista más allá del patio trasero, mucho más abajo, y de noche, cuando nos acomodamos en nuestra cama de latón, el tráfico escaso pasa con un rumor, un murmullo remoto y constante alrededor de nuestro sueño, como de almas muertas que balbucean al borde de un sueño.
-> [Frase 21](#original-21)
-
-Jack dirige el departamento de estudios sobre Hitler de la universidad:
-
-> Inventé los estudios sobre Hitler en Norteamérica en marzo de 1968.
-> [Frase 23](#original-23)
-
-Fue un día frío y luminoso, cuando habló con el rector, la máxima autoridad de la universidad:
+Jack dirige el departamento de estudios sobre Hitler de la universidad. Fue un día frío y luminoso, cuando habló con el rector, la máxima autoridad de la universidad. Jack cuenta:
 
 > Cuando le sugerí al rector que podríamos construir un departamento entero en torno a la vida y la obra de Hitler, él vio enseguida las posibilidades.
 > [Frase 25](#original-25)
@@ -3334,14 +3324,8 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 1: Las Camionetas
 
-> [Frase 5](#lugar-5)
-> I've witnessed this spectacle every September for twenty-one years.
-
-> [Frase 21](#lugar-21)
-> There is an expressway beyond the backyard now, well below us, and at night as we settle into our brass bed the sparse traffic washes past, a remote and steady murmur around our sleep, as of dead souls babbling at the edge of a dream.
-
-> [Frase 23](#lugar-23)
-> I invented Hitler studies in North America in March of 1968.
+> [Frase 4](#lugar-4)
+> As cars slowed to a crawl and stopped, students sprang out and raced to the rear doors to begin removing the objects inside; the stereo sets, radios, personal computers; small refrigerators and table ranges; the cartons of phonograph records and cassettes; the hairdryers and styling irons; the tennis rackets, soccer balls, hockey and lacrosse sticks, bows and arrows; the controlled substances, the birth control pills and devices; the jurik food still in shopping bags—onion-and-garlic chips, nacho thins, peanut creme patties, Waffelos and Kabooms, fruit chews and toffee popcorn; the Dum-Dum pops, the Mystic mints.
 
 > [Frase 25](#lugar-25)
 > When I suggested to the chancellor that we might build a whole department around Hitler's life and work, he was quick to see the possibilities.
