@@ -433,93 +433,62 @@ En la fila de la caja, Jack se pega a Babette. Afuera corre el rumor de que muri
 
 [![Heinrich, de calentador y con toalla al cuello, inclinado sobre un tablero de ajedrez con cartas; Jack lo mira desde la puerta, y al fondo Babette rompe huevos mientras dos niñas discuten.](../img/261025_white-noise_el-chicle-y-el-preso.jpg)](../img/261025_white-noise_el-chicle-y-el-preso.jpg)
 
-Denise, de once años, mira a su madre Babette abrir un paquete de chicles y dice que causan cáncer. Babette contesta:
+Denise ve cómo Babette abre un paquete de chicles. Dice que provoca cáncer en ratas de laboratorio. Babette responde, y Jack cuenta:
 
-> «Querías que masticara chicle sin azúcar, Denise.
-> [Frase 963](#original-963)
-
-Denise dice que entonces el paquete no avisaba. Babette replica:
-
-> Pusieron una advertencia, y me costaría creer que no la vieras.»
+> «Ahora ponen una advertencia, y me costaría creer que no la hayas visto.»
 > [Frase 966](#original-966)
 
-Babette no le da importancia. Steffie, su hermana, cuelga. Babette rompe huevos:
+> «No mastiques nada», dijo.
+> [Frase 974](#original-974)
+
+Steffie cuelga el teléfono después de hablar con los Stover, y Babette sigue discutiendo con Denise. Jack cuenta:
 
 > Me lanzó una mirada que se preguntaba cómo la niña podía hablar por teléfono y escucharnos al mismo tiempo.
 > [Frase 977](#original-977)
 
-> Quise decir que porque nos encuentra interesantes.
+> Quise decir que era porque nos encuentra interesantes.
 > [Frase 978](#original-978)
 
-Babette dice que o mastica o fuma:
+> Babette dijo a las niñas: «Miren, o mastico chicle o fumo.»
+> [Frase 979](#original-979)
 
-> Si quieres que vuelva a fumar, quítame el chicle y mis Mentho-Lyptus.»
+> «Si quieren que empiece a fumar otra vez, quítenme el chicle y mi Mentho-Lyptus.»
 > [Frase 980](#original-980)
 
-Steffie articula sin voz que los Stover quieren venir. Babette pregunta si los padres o los hijos. Steffie se encoge de hombros:
+> «¿Por qué tienes que hacer una cosa o la otra?», dijo Steffie.
+> [Frase 981](#original-981)
+
+> «¿Y por qué no hacer las dos?», dijo Denise, mientras la cara se le vaciaba con cuidado de toda expresión.
+> [Frase 983](#original-983)
 
 > «No los queremos», dijo Babette.
 > [Frase 1004](#original-1004)
 
-Los Stover quedan fuera. Babette dice que el chicle no daña; las niñas, que solo mata ratas. Denise dice que Babette olvida cosas. Jack, el padre, besa a Wilder, el hijo menor:
+Jack sube a ver a Heinrich, que juega al ajedrez por correo con un preso. Jack cuenta:
 
-> Luego lo puse sobre el mostrador y subí a buscar a Heinrich.
-> [Frase 1033](#original-1033)
-
-Heinrich, el hijo mayor, juega ajedrez por correo con un preso. Dice que va bien:
-
-> Creo que lo tengo acorralado.»
+> «Creo que lo tengo arrinconado.»
 > [Frase 1038](#original-1038)
 
-Jack quiere saber más. Heinrich dice que hoy importa la víctima:
-
-> ¿Qué sabes de él, aparte de que está en la cárcel de por vida por asesinato?
+> ¿Qué sabes de él, aparte de que está en la cárcel de por vida, por asesinato?
 > [Frase 1045](#original-1045)
-
-Jack pregunta si se hablan:
 
 > «A veces nos mandamos notas.»
 > [Frase 1048](#original-1048)
 
-El preso, Tommy Roy Foster, mató a cinco en Iron City y a un policía. Jack pregunta si eran desconocidos o si fue un ajuste de cuentas:
+Heinrich cuenta que el preso mató a cinco personas desde un tejado. Jack cuenta:
 
-> ¿Había estado oyendo voces?»
-> [Frase 1080](#original-1080)
-
-Heinrich dice que eran desconocidos. Jack insiste:
-
-> «¿Había estado oyendo voces?»
-> [Frase 1082](#original-1082)
-
-Heinrich dice que por televisión. Jack pregunta:
-
-> «¿Hablándole solo a él?
-> [Frase 1084](#original-1084)
-
-> ¿Señalándolo?»
-> [Frase 1085](#original-1085)
-
-Heinrich responde:
-
-> «Diciéndole que pasara a la historia.
-> [Frase 1086](#original-1086)
-
-Heinrich dice que en Iron City no hay medios. Si Foster empezara de nuevo, lo haría como un magnicidio:
-
-> «Elegiría con más cuidado, mataría a una persona famosa, se haría notar y haría que el hecho perdurara.»
-> [Frase 1095](#original-1095)
-
-Foster sabe que no pasará a la historia; Jack, que él tampoco. Jack tiene a Hitler (es profesor de estudios hitlerianos) y Foster nada. Jack le pregunta:
-
-> «Muy bien, te ha contado todas estas cosas en las cartas que manda.
+> «Bueno, te ha contado todo esto en las cartas que te manda.»
 > [Frase 1101](#original-1101)
 
-Heinrich responde que se le cae el pelo. Jack lo mira y nombra a su madre:
+> «Sabes lo que diría tu madre de esta relación de ajedrez por correo.»
+> [Frase 1106](#original-1106)
 
-> «Sé lo que dirías.
-> [Frase 1107](#original-1107)
+Jack le pregunta por las cartas que le manda el preso. Heinrich dice:
 
-Heinrich dice que su madre lo quiere en un ashram y duda de lo que quiere él.
+> «Quiere que vaya al ashram este verano.»
+> [Frase 1111](#original-1111)
+
+Heinrich duda de que sepamos lo que queremos. A la mañana siguiente, Jack va al banco y comprueba su saldo en el cajero.
 
 ---
 
@@ -3583,11 +3552,11 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 10: El Chicle y el Preso
 
-> [Frase 963](#lugar-963)
-> "You wanted me to chew sugarless gum, Denise.
-
 > [Frase 966](#lugar-966)
 > They put a warning, which I would have a hard time believing you didn't see."
+
+> [Frase 974](#lugar-974)
+> "Don't chew at all," she said.
 
 > [Frase 977](#lugar-977)
 > She gave me a look that wondered how the girl could talk on the phone and listen to us at the same time.
@@ -3595,14 +3564,20 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 978](#lugar-978)
 > I wanted to say because she finds us interesting.
 
+> [Frase 979](#lugar-979)
+> Babette said to the girls, "Look, either I chew gum or I smoke.
+
 > [Frase 980](#lugar-980)
 > If you want me to start smoking again, take away my chewing gum and my Mentho-Lyptus."
 
+> [Frase 981](#lugar-981)
+> "Why do you have to do one or the other?" Steffie said.
+
+> [Frase 983](#lugar-983)
+> "Why not do both?" Denise said, the face carefully emptying itself of expression.
+
 > [Frase 1004](#lugar-1004)
 > "We don't want them," Babette said.
-
-> [Frase 1033](#lugar-1033)
-> Then I put him on the counter and went upstairs to find Heinrich.
 
 > [Frase 1038](#lugar-1038)
 > I think I got him cornered."
@@ -3613,29 +3588,14 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1048](#lugar-1048)
 > "We send notes sometimes."
 
-> [Frase 1080](#lugar-1080)
-> Had he been hearing voices?"
-
-> [Frase 1082](#lugar-1082)
-> "Had he been hearing voices?"
-
-> [Frase 1084](#lugar-1084)
-> "Talking just to him?
-
-> [Frase 1085](#lugar-1085)
-> Singling him out?"
-
-> [Frase 1086](#lugar-1086)
-> "Telling him to go down in history.
-
-> [Frase 1095](#lugar-1095)
-> "He would select more carefully, kill one famous person, get noticed, make it stick."
-
 > [Frase 1101](#lugar-1101)
 > "All right, he's told you all these things in the letters he sends.
 
-> [Frase 1107](#lugar-1107)
-> "I know what you would say.
+> [Frase 1106](#lugar-1106)
+> "You know what your mother would say about this chess by mail relationship."
+
+> [Frase 1111](#lugar-1111)
+> "She wants me to go out to the ashram this summer."
 
 ---
 
