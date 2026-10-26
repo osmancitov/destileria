@@ -1677,39 +1677,45 @@ Al final, Jack no se lo pide.
 
 [![Una cena familiar a la luz de una lámpara: un chico moldea el puré como un volcán mientras una mujer lo observa; por la ventana, un poste eléctrico contra el cielo frío.](../img/261025_white-noise_la-radiacion-y-los-teoremas.jpg)](../img/261025_white-noise_la-radiacion-y-los-teoremas.jpg)
 
-Jack le pide a Dunlop, su profesor de alemán, media hora más por lección. Dunlop apila muebles contra las ventanas. Jack domina el vocabulario, pero no logra pronunciar. Perros pastores alemanes patrullan el pueblo con hombres de traje Mylex. En la cena Denise pregunta por qué no se visten con ropa normal, y Babette dice que es lo que usan de servicio. Heinrich responde:
+Jack pide a Dunlop, su profesor de alemán, media hora más por lección. Le va bien con la gramática, pero le cuesta pronunciar. Jack cuenta:
+
+> Clavaba la vista dentro de mi boca mientras yo hacía mis ejercicios de pronunciación.
+> [Frase 4551](#original-4551)
+
+Los pastores alemanes siguen patrullando la ciudad con hombres en trajes protectores. En la cena Denise pregunta por qué no usan ropa normal. Babette dice que es su uniforme de trabajo. Heinrich dice:
 
 > «Eso es lo que se supone que debemos creer», dijo Heinrich.
 > [Frase 4562](#original-4562)
 
-Heinrich dice que publicar los resultados verdaderos traería demandas, pánico y desorden. Babette cree en los resultados publicados: un derrame diario no puede ser tan grave. Heinrich dice que esos derrames no son nada. Babette contesta:
+Heinrich dice que, si se publicaran los resultados verdaderos, habría demandas por miles de millones. Babette lo encuentra extremo. Heinrich pregunta:
 
-> «No diría que no son nada», dijo ella con cautela.
-> [Frase 4586](#original-4586)
+> «¿De verdad crees eso?», dijo él.
+> [Frase 4570](#original-4570)
 
-Heinrich dice que el problema real es la radiación de cada día: radio, televisor, microondas, cables de alta tensión. Babette pregunta qué dicen ahora. Jack cuenta:
+Babette dice que, si hay derrames tóxicos todos los días, no pueden ser tan graves. Heinrich dice que los olviden. Jack cuenta:
 
-> Lo vimos usar la cuchara para moldear el puré de su plato con forma de montaña volcánica.
+> Babette lo observaba con atención.
+> [Frase 4584](#original-4584)
+
+Heinrich dice que el problema real es la radiación de todos los días: radio, televisor, microondas. Babette pregunta: ¿y ahora? Jack cuenta:
+
+> Lo mirábamos usar su cuchara para moldear el puré de papas de su plato con la forma de una montaña volcánica.
 > [Frase 4598](#original-4598)
 
-Heinrich habla de los campos eléctricos y magnéticos, y dice que los hallazgos científicos explican hasta los bebés deformes. Las niñas lo admiran. Jack cuenta:
+Heinrich dice que el nuevo peligro son los campos eléctricos y magnéticos, y que los bebés deformados vienen de la radio y la televisión. Las niñas lo miran con admiración. Jack cuenta:
 
-> Quería discutir con él.
-> [Frase 4619](#original-4619)
-
-> Quería preguntarle por qué debía creer esos hallazgos científicos y no los resultados que indicaban que estábamos a salvo de la contaminación por Nyodene.
+> Quería preguntarle por qué debía yo creer estos hallazgos científicos y no los resultados que indicaban que estábamos a salvo de la contaminación de Nyodene.
 > [Frase 4620](#original-4620)
 
-> Quería decirle que la evidencia estadística como la que citaba era por naturaleza no concluyente y engañosa.
+Jack se pregunta qué puede decir, dado su estado. Jack cuenta:
+
+> Quería decirle que la evidencia estadística del tipo que él citaba era por naturaleza inconclusa y engañosa.
 > [Frase 4622](#original-4622)
 
-> Quería decir que aprendería a considerar con ecuanimidad todos esos hallazgos catastróficos a medida que madurara, saliera de su literalismo asfixiante, desarrollara un espíritu de indagación informada y escéptica, avanzara en sabiduría y juicio equilibrado, envejeciera, decayera, muriera.
+> Quería decir que aprendería a mirar con ecuanimidad todos esos hallazgos catastróficos a medida que madurara, dejara atrás su literalismo limitante, desarrollara un espíritu de indagación informada y escéptica, avanzara en sabiduría y juicio equilibrado, envejeciera, declinara, muriera.
 > [Frase 4623](#original-4623)
 
-Jack solo dice que los datos aterradores ya son una industria. Heinrich cita un dato sobre ratas blancas. Babette se queja de que en la escuela ya no enseñan teoremas ni historia, y lanza preguntas. Jack responde:
-
-> «¿Fue el Monitor o el Merrimac el que se hundió?», dije.
-> [Frase 4637](#original-4637)
+Jack solo dice que los datos aterradores ya son una industria. Heinrich contesta con una rata blanca y sus iones de calcio.
 
 ---
 
@@ -4421,17 +4427,20 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 23: La Radiación y los Teoremas
 
+> [Frase 4551](#lugar-4551)
+> He stared into my mouth as I did my exercises in pronunciation.
+
 > [Frase 4562](#lugar-4562)
 > "That's what we're supposed to believe," Heinrich said.
 
-> [Frase 4586](#lugar-4586)
-> "I wouldn't say they were nothing," she said cautiously.
+> [Frase 4570](#lugar-4570)
+> "Do you really believe that?" he said.
+
+> [Frase 4584](#lugar-4584)
+> Babette watched him carefully.
 
 > [Frase 4598](#lugar-4598)
 > We watched him use his spoon to mold the mashed potatoes on his plate into the shape of a volcanic mountain.
-
-> [Frase 4619](#lugar-4619)
-> I wanted to argue with him.
 
 > [Frase 4620](#lugar-4620)
 > I wanted to ask him why I should believe these scientific findings but not the results that indicated we were safe from Nyodene contamination.
@@ -4441,9 +4450,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 4623](#lugar-4623)
 > I wanted to say that he would learn to regard all such catastrophic findings with equanimity as he matured, grew out of his confining literalism, developed a spirit of informed and skeptical inquiry, advanced in wisdom and rounded judgment, got old, declined, died.
-
-> [Frase 4637](#lugar-4637)
-> "Was it the Monitor or the Merrimac that got sunk?" I said.
 
 ---
 
