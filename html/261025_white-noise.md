@@ -1777,6 +1777,76 @@ Heinrich hace dominadas en el clóset con una barra de Mercator, un estudiante m
 
 ---
 
+### Capítulo 25: Winnie Richards, la Brillante
+
+*Jack, Winnie y Babette.*
+
+[![En una sala de laboratorio llena de cerebros en frascos, una joven alta de túnica verde pálido aprieta unos archivos contra el pecho y mira con miedo hacia una puerta; un hombre agitado bebe agua de un vaso de papel.](../img/261025_white-noise_winnie-richards-la-brillante.jpg)](../img/261025_white-noise_winnie-richards-la-brillante.jpg)
+
+Un iraní entrega el diario desde un Nissan Sentra, y a Jack le inquieta. Mira la tableta blanca. Jack cuenta:
+
+> Fui caminando hasta un pequeño edificio con cúpula, conocido como el Observatorio, y le di la tableta a Winnie Richards, una joven neuroquímica investigadora cuyo trabajo se decía que era brillante.
+> [Frase 4841](#original-4841)
+
+Winnie es alta, huidiza, y se ruboriza con facilidad. Jack cuenta:
+
+> La vi sentarse en el escritorio atestado durante dos o tres minutos, haciendo girar despacio la tableta entre el pulgar y el índice.
+> [Frase 4844](#original-4844)
+
+Winnie lame la tableta y le pide a Jack volver en cuarenta y ocho horas. Nadie sabe cómo ni por qué se mueve sin que la vean. Jack cuenta:
+
+> De todos modos, me costó encontrarla durante el resto de esa semana.
+> [Frase 4855](#original-4855)
+
+Winnie no aparece. Denise evita hablar del Dylar y Babette mira por las ventanas. Jack le cuenta a Babette lo del Dylar, y ella le propone meterse en la cama. Jack cuenta:
+
+> Esa tarde vi a Winnie Richards salir por una puerta lateral del Observatorio y bajar trotando, con zancadas largas, por un pequeño césped hacia los edificios nuevos.
+> [Frase 4902](#original-4902)
+
+Jack sale tras Winnie, que va pegada a las paredes; no logra alcanzarla sin trotar. Jack cuenta:
+
+> Ella se apresuró por detrás de Faculty House y yo aceleré el paso, por miedo a estar a punto de perderla.
+> [Frase 4908](#original-4908)
+
+La alcanza en un pasillo vacío; ella lo lleva a una sala con cerebros embotellados. Jack cuenta:
+
+> Me dio agua en un vaso de papel.
+> [Frase 4919](#original-4919)
+
+Jack le pregunta si se esconde de él. Winnie dice que la gente se esconde aunque nadie la busque. La tableta se llama Dylar, dice Jack, y pide:
+
+> «¿Qué puedes decirme de eso?»
+> [Frase 4935](#original-4935)
+
+Winnie explica que el agua atraviesa una membrana, disuelve la medicina y esta sale por un agujero. Dice:
+
+> «No soy experta en nada de esto, Jack, pero puedo decirte que es un sistema pequeño y maravilloso.»
+> [Frase 4953](#original-4953)
+
+Jack pregunta para qué tanta precisión y qué pasa con la tableta después. Ella dice que implosiona sola y añade:
+
+> «Hemos entrado en el reino de la física.»
+> [Frase 4966](#original-4966)
+
+Jack pregunta qué es el Dylar. Winnie no lo sabe. Jack insiste en que es brillante. Ella aprieta unos archivos y dice:
+
+> «Jack, lo único que puedo decirte con certeza es que la sustancia contenida en el Dylar es algún tipo de psicofármaco.»
+> [Frase 4996](#original-4996)
+
+Winnie habla del cerebro humano y dice que ignora qué es el medicamento, pero:
+
+> «Puedo decirte una cosa.»
+> [Frase 5013](#original-5013)
+
+Winnie dice que no está en el mercado. Jack replica que lo encontró en un frasco de receta. Ella dice:
+
+> «No me importa dónde lo encontraste.»
+> [Frase 5016](#original-5016)
+
+Winnie reconocería cualquier droga conocida, y esta no. Mira la puerta con miedo: se oyen pasos. Sale corriendo por atrás. Jack trata de pensar en algo gracioso.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, las frases que arriba van en castellano. El número de cada una lleva de vuelta a su lugar.
@@ -2909,6 +2979,46 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 4760](#lugar-4760)
 > But she just nodded grimly and I headed down the hall, stopping in Heinrich's room to say goodnight.
+
+---
+
+### Capítulo 25: Winnie Richards, la Brillante
+
+> [Frase 4841](#lugar-4841)
+> I walked over to a small domed building known as the Observatory and gave the tablet to Winnie Richards, a" young research neurochemist whose work was said to be brilliant.
+
+> [Frase 4844](#lugar-4844)
+> I watched her sit at the cluttered desk for two or three minutes, slowly rotating the tablet between her thumb and index finger.
+
+> [Frase 4855](#lugar-4855)
+> In any case I had trouble locating her all the rest of that week.
+
+> [Frase 4902](#lugar-4902)
+> That afternoon I saw Winnie Richards slip out a side door of the Observatory and go loping down a small lawn toward the new buildings.
+
+> [Frase 4908](#lugar-4908)
+> She hurried around the back of Faculty House and I picked up the pace, fearing I was on the verge of losing her.
+
+> [Frase 4919](#lugar-4919)
+> She gave me water in a paper cup.
+
+> [Frase 4935](#lugar-4935)
+> "What can you tell me about it?
+
+> [Frase 4953](#lugar-4953)
+> "I'm not an expert in any of this, Jack, but I can tell you it's a wonderful little system."
+
+> [Frase 4966](#lugar-4966)
+> We've entered the realm of physics.
+
+> [Frase 4996](#lugar-4996)
+> "Jack, all I can tell you for certain is that the substance contained in Dylar is some kind of psychopharmaceutical.
+
+> [Frase 5013](#lugar-5013)
+> I can tell you one thing.
+
+> [Frase 5016](#lugar-5016)
+> "I don't care where you found it.
 
 © 2026 Osmancito
 
