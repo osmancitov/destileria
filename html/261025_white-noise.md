@@ -36,7 +36,12 @@ Jack dirige el departamento de estudios sobre Hitler de la universidad. Fue un d
 
 [![Óleo realista, al estilo de David Teniers el Joven: en una cocina antigua, una mujer alta de pelo rubio revuelto, con un paño en la mano, habla con un hombre de anteojos sentado a una mesa con pan y fruta; por la puerta se ve a un niño en triciclo y, al fondo, cajas apiladas.](../img/261025_white-noise_babette-en-la-cocina.jpg)](../img/261025_white-noise_babette-en-la-cocina.jpg)
 
-Es mediodía en la cocina de Jack, el narrador, y de su esposa Babette; Wilder, el menor de los niños, está sentado en el mostrador. Denise y Steffie, las niñas, bajan:
+Es mediodía en la cocina de Jack, el narrador, y de su esposa Babette. Jack cuenta:
+
+> Yo la miro todo el tiempo haciendo cosas en secuencia medida, con destreza, con aparente soltura, a diferencia de mis antiguas esposas, que tenían tendencia a sentirse ajenas al mundo objetivo: un grupo ensimismado y de nervios tensos, con vínculos con la comunidad de inteligencia.
+> [Frase 55](#original-55)
+
+Wilder, el menor de los niños, está sentado en el mostrador. Denise y Steffie, las niñas, bajan:
 
 > Denise y Steffie bajaron y hablamos de los útiles escolares que necesitarían.
 > [Frase 79](#original-79)
@@ -52,12 +57,7 @@ Es la hora del almuerzo:
 > Por fin quedamos todos satisfechos con lo que habíamos logrado sacar de los armarios y del refrigerador o quitarnos unos a otros, y empezamos a untar con calma mostaza o mayonesa en nuestra comida de colores vivos.
 > [Frase 83](#original-83)
 
-Babette dice que pensaba comer yogur y germen de trigo. Denise responde:
-
-> «¿Dónde hemos oído eso antes?», dijo Denise.
-> [Frase 90](#original-90)
-
-Las niñas dicen que Babette compra comida que luego tira. Jack la defiende, y ella dice que él hace virtudes de sus defectos. Arriba suena una alarma:
+Jack defiende a Babette ante las niñas. Arriba suena una alarma:
 
 > La alarma de humo sonó en el pasillo de arriba, o para avisarnos de que la pila acababa de morir o porque la casa se incendiaba.
 > [Frase 112](#original-112)
@@ -3334,6 +3334,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 2: Babette en la Cocina
 
+> [Frase 55](#lugar-55)
+> I watch her all the time doing things in measured sequence, skillfully, with seeming ease, unlike my former wives, who had a tendency to feel estranged from the objective world— a self-absorbed and high-strung bunch, with ties to the intelligence community.
+
 > [Frase 79](#lugar-79)
 > Denise and Steffie came downstairs and we talked about the school supplies they would need.
 
@@ -3345,9 +3348,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 83](#lugar-83)
 > Finally we were all satisfied with what we'd been able to snatch from the cupboards and refrigerator or swipe from each other and we began quietly plastering mustard or mayonnaise on our brightly colored food.
-
-> [Frase 90](#lugar-90)
-> "Where have we heard that before?" Denise said.
 
 > [Frase 112](#lugar-112)
 > The smoke alarm went off in the hallway upstairs, either to 'et us know the battery had just died or because the house was on fire.
