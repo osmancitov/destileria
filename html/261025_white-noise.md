@@ -340,35 +340,33 @@ En las fotos, la gente se ve escéptica ante la cámara. Jack se pregunta quién
 
 [![Óleo impresionista, al estilo de Eugène Boudin: en un cuarto atestado, junto a una tabla de planchar y un radiador, un hombre delgado en camisa habla con gesto tenso a otro, muy corpulento, con toga negra y gafas oscuras, que toma notas en un cuaderno; a un lado, un catre con manta militar.](../img/261025_white-noise_lecciones-de-aleman.jpg)](../img/261025_white-noise_lecciones-de-aleman.jpg)
 
-Jack, el narrador, es el mayor especialista en Hitler de Norteamérica y no sabe alemán. Por su fama quiere clases secretas:
+Jack es la máxima figura de los estudios sobre Hitler en Norteamérica y oculta que no sabe alemán. Quiere aprenderlo en secreto. Jack cuenta:
 
-> Me puse en contacto con un hombre que no tenía relación con la universidad, alguien de quien me había hablado Murray Jay Siskind.
+> Me puse en contacto con un hombre sin vínculos con la universidad, alguien de quien Murray Jay Siskind me había hablado.
 > [Frase 706](#original-706)
 
-Ese hombre es Howard Dunlop, de unos cincuenta años, vecino de pensión de Murray:
+El hombre se llama Howard Dunlop y vive en la pensión de Murray. Jack cuenta:
 
-> Dijo que había sido quiropráctico, pero no ofreció ninguna razón por la que ya no ejerciera, ni dijo cuándo había aprendido alemán, ni por qué, y algo en sus modales me impidió preguntar.
+> Dijo que había sido quiropráctico, pero no ofreció una razón por la que ya no ejercía, y no dijo cuándo había aprendido alemán, ni por qué, y algo en su manera me impidió preguntar.
 > [Frase 712](#original-712)
 
-En su cuarto oscuro y atestado, Dunlop da la clase. Al pasar del inglés al alemán le cambia la voz:
+Dunlop da clases en su cuarto oscuro; al hablar alemán parece estrangularse. Jack le pide que no hable de las lecciones y va a buscar a Murray. Jack cuenta:
 
-> Solo estaba demostrando ciertos patrones básicos de pronunciación, pero la transformación de su cara y de su voz me hizo pensar que estaba haciendo un pasaje entre niveles del ser.
-> [Frase 724](#original-724)
-
-Jack toma notas y la hora pasa rápido. Luego va a buscar a Murray para cenar. En el porche de la pensión, Murray habla con el casero:
-
-> Nos detuvimos en el porche el tiempo justo para que Murray le contara al casero, que estaba sentado allí, de un grifo que goteaba en el baño del segundo piso.
+> Nos detuvimos en el porche el tiempo suficiente para que Murray le contara al casero, que estaba sentado allí, de un grifo que goteaba en el baño del segundo piso.
 > [Frase 731](#original-731)
 
-Jack lo describe:
-
-> El casero era un hombre grande y rubicundo, de una salud tan robusta y desbordante que parecía estar sufriendo un infarto mientras lo mirábamos.
+> El casero era un hombre corpulento y rubicundo, de una salud tan robusta y desbordante que parecía estar sufriendo un infarto incluso mientras lo mirábamos.
 > [Frase 732](#original-732)
 
-Murray dice que el casero lo arreglará, y salen a pie:
-
-> «Ya se pondrá a arreglarlo», dijo Murray, cuando echamos a andar rumbo a Elm.
+> «Ya se ocupará de arreglarlo», dijo Murray, mientras salíamos a pie en dirección a Elm.
 > [Frase 733](#original-733)
+
+Murray dice que el casero es un fanático, como todos los que arreglan cosas. Jack cuenta:
+
+> Me preguntó por qué había elegido precisamente este año para aprender alemán, después de tantos años esquivando el radar.
+> [Frase 747](#original-747)
+
+Jack dice que hay un congreso sobre Hitler en primavera. En casa, Denise enciende el compactador de basura, y Babette llega de correr.
 
 ---
 
@@ -3542,9 +3540,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 712](#lugar-712)
 > He said he was a former chiropractor but didn't offer a reason why he was no longer active and didn't say when he'd learned German, or why, and something in his manner kept me from asking.
 
-> [Frase 724](#lugar-724)
-> He was only demonstrating certain basic pronunciation patterns but the transformation in his face and voice made me think he was making a passage between levels of being.
-
 > [Frase 731](#lugar-731)
 > We stopped on the porch long enough for Murray to tell the landlord, who was sitting there, about a dripping faucet in the second-floor bathroom.
 
@@ -3553,6 +3548,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 733](#lugar-733)
 > "He'll get around to fixing it," Murray said, as we set out on foot in the direction of Elm.
+
+> [Frase 747](#lugar-747)
+> He asked me why I'd chosen this year in particular to learn German, after so many years of slipping past the radar.
 
 ---
 
