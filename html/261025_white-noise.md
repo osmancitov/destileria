@@ -685,31 +685,31 @@ Babette dice que no pudieron localizar a la sobrina nieta. El misterio americano
 
 ### Capítulo 14: El Desvanecimiento Cerebral
 
-*Jack, Grappa, Lasher, Alfonse, Denise, Cotsakis, Babette, Heinrich y Murray.*
+*Jack, Grappa, Denise, Lasher, Alfonse, Cotsakis, Babette, Heinrich y Murray.*
 
 [![Una mesa de comedor de profesores en torno a un hombre barbudo que habla con gravedad, mientras una televisión al fondo muestra una casa deslizándose hacia el mar.](../img/261025_white-noise_el-desvanecimiento-cerebral.jpg)](../img/261025_white-noise_el-desvanecimiento-cerebral.jpg)
 
-Denise entra y se tumba a los pies de la cama de Jack. Dice que Babette (Baba) no recuerda nada.
+Jack cuenta:
 
-> «¿Te preguntó si está tomando medicación?»
-> [Frase 1520](#original-1520)
+> Nos apiñamos ante la ventana en el cuarto pequeño de Steffie, viendo la espectacular puesta de sol.
+> [Frase 1509](#original-1509)
 
-Denise dice que no se lo preguntó.
+Más tarde Jack estudia alemán en la cama. Denise entra y se tumba a los pies, de espaldas a él. Pasa un minuto. Denise dice:
 
-> «Se suponía que debía hacerlo», dije.
-> [Frase 1524](#original-1524)
+> «¿Qué vamos a hacer con Baba?», dijo ella.
+> [Frase 1517](#original-1517)
 
-Denise dice que no lo hizo.
+Denise cuenta que Babette no recuerda nada y que encontró en la basura un frasco de Dylar, uno cada tres días. No sale en su libro de fármacos. Jack dice que debe ser reciente y ofrece:
 
-> «¿Cómo sabes que está tomando algo?»
-> [Frase 1526](#original-1526)
-
-Denise vio el frasco enterrado en la basura: Dylar, uno cada tres días. No viene en su libro de fármacos, que tiene cuatro índices. Jack ofrece:
-
-> «¿Quieres que vuelva a mirar el libro?»
+> ¿Quieres que vuelva a mirar el libro?»
 > [Frase 1539](#original-1539)
 
-Denise ya miró. Jack no quiere darle demasiada importancia: todos toman algo y olvidan cosas. Denise registró su botiquín: sin Dylar. Sigue queriendo saber.
+Denise responde que ya miró. Jack contesta:
+
+> Miré» «Siempre podríamos llamar a su médico.
+> [Frase 1541](#original-1541)
+
+Jack no quiere darle demasiada importancia: todos toman algo y olvidan cosas. Denise sigue queriendo saber. Jack cuenta:
 
 > Pero ahora cambió de postura, se apoyó en un codo para incorporar la parte superior del cuerpo y me observó con aire especulativo desde los pies de la cama.
 > [Frase 1559](#original-1559)
@@ -717,72 +717,61 @@ Denise ya miró. Jack no quiere darle demasiada importancia: todos toman algo y 
 > «¿Puedo preguntarte algo?»
 > [Frase 1560](#original-1560)
 
-Jack dice que sí. Ella ya conoce su botiquín, ¿qué secretos le quedan?
-
-> «¿Por qué llamaste Heinrich a Heinrich?»
-> [Frase 1565](#original-1565)
-
-Jack dice que es una buena pregunta. Le pareció un nombre fuerte, con autoridad. Denise pregunta si lleva el nombre de alguien.
-
-> «No. Nació poco después de que yo empezara el departamento y supongo que quería reconocer mi buena fortuna.
-> [Frase 1574](#original-1574)
-
-Quería hacer algo alemán. Denise repite el nombre completo. Jack lo creyó impresionante, y aún lo cree.
-
-> Quería protegerlo, hacer que no tuviera miedo.
-> [Frase 1580](#original-1580)
-
-La gente llamaba entonces a sus hijos Kim, Kelly y Tracy. Hubo un largo silencio.
+Ella pregunta por qué Jack le puso Heinrich a su hijo Heinrich. Jack responde que le pareció un nombre fuerte, con autoridad, y que quería protegerlo. Hubo un largo silencio. Jack cuenta:
 
 > Siguió mirándome.
 > [Frase 1583](#original-1583)
 
-Con los rasgos apretados en el centro de la cara, tiene en la concentración un aire de dogo medio beligerante.
+Con los rasgos apretados en el centro de la cara, tiene en la concentración un aire de dogo medio beligerante. Ella pregunta:
 
 > «¿Crees que me equivoqué en el cálculo?»
 > [Frase 1585](#original-1585)
 
-Jack dice que no le toca decirlo. Hablan de Hitler y de los uniformes. Heinrich llama a ver un accidente aéreo. El viernes la familia ve catástrofes por televisión con comida china.
+Jack dice que no le toca decirlo. Hablan de Hitler, que siempre sale en televisión, y de los uniformes. Steffie entra con la visera verde de Denise. Jack cuenta:
 
-> Heinrich no estaba hosco, yo no estaba aburrido.
-> [Frase 1621](#original-1621)
+> Se subió a la cama y los tres repasamos mi diccionario alemán-inglés, buscando palabras que suenan casi igual en los dos idiomas, como orgy y shoe.
+> [Frase 1607](#original-1607)
 
-Steffie casi llora; Babette quiere cambiar a una comedia y se asombra de la protesta.
+Heinrich llama a ver imágenes de un accidente aéreo y todos corren al televisor. Jack llega tarde y solo ve humo negro. Jack cuenta:
 
-> El lunes entré en mi despacho y encontré a Murray sentado en la silla junto al escritorio, como quien espera que llegue una enfermera con un tensiómetro.
-> [Frase 1627](#original-1627)
+> Teníamos dos puertas de armario que se abrían solas.
+> [Frase 1617](#original-1617)
 
-Murray no logra imponer su base de Elvis Presley: el jefe del departamento, Alfonse Stompanato, cree que Dimitrios Cotsakis tiene derecho previo.
+> Esa noche, un viernes, nos reunimos frente al aparato, como era costumbre y regla, con comida china para llevar.
+> [Frase 1618](#original-1618)
 
-> Sugerí que podía pasarme por su próxima clase, de manera informal, sin avisar, solo para dar un toque de importancia al acto, para darle el beneficio de cualquier influencia y prestigio que pudieran residir en mi cargo, mi materia, mi persona física.
-> [Frase 1631](#original-1631)
+Había inundaciones, terremotos, deslaves y volcanes en erupción. Jack cuenta:
 
-Murray asiente. En el almuerzo Jack ve a Alfonse presidir la mesa de los emigrados de Nueva York, de barba furiosa.
+> Nunca antes habíamos estado tan atentos a nuestro deber, nuestra reunión de los viernes.
+> [Frase 1620](#original-1620)
+
+Heinrich no estaba hosco ni Jack aburrido. Steffie casi llora ante una comedia; Babette quiso cambiar de canal y se asombró de la protesta. Jack cuenta:
+
+> Por lo demás permanecíamos en silencio, viendo casas deslizarse hacia el océano, aldeas enteras crepitar y encenderse en una masa de lava que avanzaba.
+> [Frase 1625](#original-1625)
+
+> Cada desastre nos hacía desear más, algo más grande, más imponente, más arrasador.
+> [Frase 1626](#original-1626)
+
+El lunes Murray espera a Jack en su oficina: no logra imponer su base de Elvis Presley en el departamento. En el almuerzo Jack ve a Alfonse presidir la mesa de los emigrados de Nueva York. Jack cuenta:
 
 > Una vez me dijo que el arte de salir adelante en Nueva York se basaba en aprender a expresar la insatisfacción de manera interesante.
 > [Frase 1641](#original-1641)
 
-Alfonse aplasta toda opinión ajena. Jack le pregunta por qué la gente decente se intriga ante las catástrofes por televisión.
+Alfonse aplasta toda opinión ajena. Jack cuenta:
+
+> Le dije: «¿Por qué es, Alfonse, que personas decentes, bienintencionadas y responsables se sienten intrigadas por la catástrofe cuando la ven por televisión?»
+> [Frase 1650](#original-1650)
 
 > Le conté la reciente velada de lava, barro y aguas furiosas que a los niños y a mí nos había resultado tan entretenida.
 > [Frase 1651](#original-1651)
 
-Queríamos más. Alfonse dice que es natural: sufrimos de desvanecimiento cerebral y necesitamos catástrofes que ocurran en otra parte, como California. Lasher asiente.
-
-> Grappa lanzó con naturalidad medio panecillo con mantequilla a Lasher y le dio en el hombro.
-> [Frase 1700](#original-1700)
-
-El panecillo era para llamar la atención de Lasher.
+Alfonse dice que es natural: sufrimos de desvanecimiento cerebral y necesitamos catástrofes que ocurran en otra parte, como California. Murray añade que la gente ha olvidado cómo mirar y escuchar. Grappa lanza medio panecillo a Lasher para llamar su atención y le dice:
 
 > Grappa le dijo: «¿Alguna vez te lavaste los dientes con el dedo?»
 > [Frase 1702](#original-1702)
 
-Lasher, Cotsakis y Murray cuentan dónde se lavaron los dientes con el dedo. Alfonse pregunta a Lasher y a Cotsakis dónde estaban cuando murió James Dean, y luego mira a Grappa:
-
-> «¿Dónde demonios estabas?», dijo, como si acabara de ocurrírsele que la muerte del actor no estaba completa sin algún registro del paradero de Grappa.
-> [Frase 1748](#original-1748)
-
-Grappa dice que lo sabe, pero que tiene lagunas. Alfonse le exige que produzca y le recita la fecha del accidente. Lasher le pregunta a Cotsakis, que fue guardaespaldas de Little Richard, por una playa de Florida.
+Lasher, Cotsakis y Murray cuentan dónde se lavaron los dientes con el dedo. Alfonse pregunta dónde estaban cuando murió James Dean, y Grappa dice tener lagunas. Jack cuenta:
 
 > Vi a Grappa lanzar una galleta salada a Murray.
 > [Frase 1781](#original-1781)
@@ -1663,17 +1652,17 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 14: El Desvanecimiento Cerebral
 
-> [Frase 1520](#lugar-1520)
-> "Did she ask you whether she's taking medication?"
+> [Frase 1509](#lugar-1509)
+> We crowded before the window in Steffie's small room, watching the spectacular sunset.
 
-> [Frase 1524](#lugar-1524)
-> "She was supposed to," I said.
-
-> [Frase 1526](#lugar-1526)
-> "How do you know she's taking something?"
+> [Frase 1517](#lugar-1517)
+> "What are we going to do about Baba?" she said.
 
 > [Frase 1539](#lugar-1539)
 > Do you want me to double-check the book?"
+
+> [Frase 1541](#lugar-1541)
+> I looked" "We could always call her doctor.
 
 > [Frase 1559](#lugar-1559)
 > But now she shifted position, used an elbow to prop her upper body and watched me speculatively from the foot of the bed.
@@ -1681,44 +1670,41 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 1560](#lugar-1560)
 > "Can I ask you something?"
 
-> [Frase 1565](#lugar-1565)
-> "Why did you name Heinrich Heinrich?"
-
-> [Frase 1574](#lugar-1574)
-> "No. He was born shortly after I started the department and I guess I wanted to acknowledge my good fortune.
-
-> [Frase 1580](#lugar-1580)
-> I wanted to shield him, make him unafraid.
-
 > [Frase 1583](#lugar-1583)
 > She kept watching me.
 
 > [Frase 1585](#lugar-1585)
 > "Do you think I miscalculated?"
 
-> [Frase 1621](#lugar-1621)
-> Heinrich was not sullen, I was not bored.
+> [Frase 1607](#lugar-1607)
+> She climbed up on the bed and all three of us went through my German-English dictionary, looking for words that sound about the same in both languages, like orgy and shoe.
 
-> [Frase 1627](#lugar-1627)
-> I walked into my office on Monday to find Murray sitting in the chair adjacent to the desk, like someone waiting for a nurse to arrive with a blood-pressure gauge.
+> [Frase 1617](#lugar-1617)
+> We had two closet doors that opened by themselves.
 
-> [Frase 1631](#lugar-1631)
-> I suggested that I might drop by his next lecture, informally, unannounced, simply to lend a note of consequence to the proceedings, to give him the benefit of whatever influence and prestige might reside in my office, my subject, my physical person.
+> [Frase 1618](#lugar-1618)
+> That night, a Friday, we gathered in front of the set, as was the custom and the rule, with take-out Chinese.
+
+> [Frase 1620](#lugar-1620)
+> We'd never before been so attentive to our duty, our Friday assembly.
+
+> [Frase 1625](#lugar-1625)
+> We were otherwise silent, watching houses slide into the ocean, whole villages crackle and ignite in a mass of advancing lava.
+
+> [Frase 1626](#lugar-1626)
+> Every disaster made us wish for more, for something bigger, grander, more sweeping.
 
 > [Frase 1641](#lugar-1641)
 > He'd once told me that the art of getting ahead in New York was based on learning how to express dissatisfaction in an interesting way.
 
+> [Frase 1650](#lugar-1650)
+> I said to him, "Why is it, Alfonse, that decent, well-meaning and responsible people find themselves intrigued by catastrophe when they see it on television?"
+
 > [Frase 1651](#lugar-1651)
 > I told him about the recent evening of lava, mud and raging water that the children and I had found so entertaining.
 
-> [Frase 1700](#lugar-1700)
-> Grappa casually tossed half a buttered roll at Lasher, hitting him on the shoulder.
-
 > [Frase 1702](#lugar-1702)
 > Grappa said to him, "Did you ever brush your teeth with your finger?"
-
-> [Frase 1748](#lugar-1748)
-> "Where the hell were you?" he said, as if the thought had just occurred to him that the actor's death was not complete without some record of Grappa's whereabouts.
 
 > [Frase 1781](#lugar-1781)
 > I watched Grappa throw a cracker at Murray.
