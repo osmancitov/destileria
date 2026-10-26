@@ -917,80 +917,48 @@ En casa nadie habla. Cuando Wilder pide leche, Denise corre descalza a la cocina
 
 ### Capítulo 17: La Cuna de la Desinformación
 
-*Denise, Babette, Murray, Eric Massingale, Jack y Steffie.*
+*Jack, Babette, Denise, Steffie, Heinrich, Wilder y la comida.*
 
 [![Un hombre corpulento con un abrigo de lana avanza por un pasillo luminoso de un gran centro comercial, rodeado de su familia, con una gruesa cuerda enrollada al hombro, bajo galerías y escaparates.](../img/261025_white-noise_la-cuna-de-la-desinformacion.jpg)](../img/261025_white-noise_la-cuna-de-la-desinformacion.jpg)
 
-Bee llegará en unos días. Camino del centro comercial, Denise pregunta a Babette por el Dylar; ella lo toma por una chica, y la charla deriva a camellos y Bolivia. Jack concluye:
+Una noche Babette dice que pronto habrá otro niño en casa: Bee llega en un par de días. Al día siguiente Denise quiere sonsacar a su madre sobre la medicación que toma o no toma. Los seis van en el coche al centro comercial:
 
-> La familia es la cuna de la desinformación del mundo.
-> [Frase 2083](#original-2083)
+> Los seis íbamos apretados en el coche camino del centro comercial Mid-Village y Denise esperó sin más una pausa natural en la conversación para dirigir su pregunta a la nuca de Babette, con una voz vaciada de inferencias.
+> [Frase 2044](#original-2044)
 
-Algo en la vida familiar genera error: la cercanía, el ruido, quizá la necesidad de sobrevivir.
+La charla se desvía: Babette cree que el Dylar es una chica, y hablan de camellos y de Bolivia. Jack piensa en la familia como cuna de la desinformación. En una ferretería del centro comercial se cruza con Eric Massingale, que le dice que es otra persona. Eso le da ganas de comprar. Jack cuenta:
 
-> Murray dice que somos criaturas frágiles rodeadas por un mundo de hechos hostiles.
-> [Frase 2087](#original-2087)
-
-Los hechos amenazan nuestra seguridad.
-
-> El proceso familiar trabaja para sellar el mundo.
-> [Frase 2090](#original-2090)
-
-Las ficciones proliferan. Jack objeta que la ignorancia no puede mover la solidaridad familiar.
-
-> Me pregunta por qué las unidades familiares más fuertes existen en las sociedades menos desarrolladas.
-> [Frase 2094](#original-2094)
-
-> No saber es un arma de supervivencia, dice.
-> [Frase 2095](#original-2095)
-
-La familia es más fuerte donde la realidad se malinterpreta. En una ferretería del centro, Jack compra cuerda y se cruza con Eric Massingale, que le dice:
-
-> «Nunca te había visto fuera del campus, Jack.
-> [Frase 2114](#original-2114)
-
-> Te ves distinto sin tus gafas y tu toga.
-> [Frase 2115](#original-2115)
-
-Lo examina, retrocede y sonríe satisfecho: conoce esos zapatos. Jack pregunta en qué es otro.
-
-> «¿No te ofenderás?», dijo, con la sonrisa volviéndose lasciva, rica en significado secreto.
-> [Frase 2125](#original-2125)
-
-Jack promete no ofenderse. Massingale lo encuentra inofensivo, grande, envejecido. Jack paga y sale deprisa, con ganas de comprar.
+> Encontré a los otros y cruzamos dos aparcamientos hasta el edificio principal del Mid-Village Mall, un edificio de diez plantas dispuesto en torno a un patio central de cascadas, paseos y jardines.
+> [Frase 2134](#original-2134)
 
 > Babette y los niños me siguieron al ascensor, a las tiendas dispuestas en los pisos, por los emporios y los grandes almacenes, desconcertados pero entusiasmados por mi deseo de comprar.
 > [Frase 2135](#original-2135)
 
-Le animan a comprar las dos camisas y le dan de comer. Las chicas van delante.
+> Cuando no podía decidirme entre dos camisas, me animaban a comprar las dos.
+> [Frase 2136](#original-2136)
 
-> Eran mis guías hacia un bienestar sin fin.
-> [Frase 2139](#original-2139)
+> Cuando dije que tenía hambre, me dieron de comer pretzels, cerveza, souvlaki.
+> [Frase 2137](#original-2137)
 
-Suena un órgano y huele a chocolate y colonia. Su familia se gloria.
+Las dos chicas van delante, buscando cosas que él podría querer, y suena un órgano en el patio.
 
-> Era uno de ellos, comprando, por fin.
-> [Frase 2144](#original-2144)
+> Olíamos chocolate, palomitas, colonia; olíamos alfombras y pieles, salamis colgados y vinilo sepulcral.
+> [Frase 2142](#original-2142)
 
-Va de tienda en tienda y compra sin freno, por comprar. Crece en valor y encuentra a una persona que había olvidado.
+Su familia se gloria con el acontecimiento. Jack se siente uno de ellos, comprando por fin.
 
-> La luminosidad se posó a mi alrededor.
-> [Frase 2155](#original-2155)
+> Me daban consejos, acosaban a los dependientes en mi nombre.
+> [Frase 2145](#original-2145)
 
-Sus imágenes aparecen en columnas de espejo. Cambia dinero por bienes.
+> Íbamos de tienda en tienda, rechazando no solo artículos de ciertos departamentos, no solo departamentos enteros sino tiendas completas, corporaciones gigantescas que por una razón u otra no nos llamaban la atención.
+> [Frase 2147](#original-2147)
 
-> Cuanto más dinero gastaba, menos importante parecía.
-> [Frase 2159](#original-2159)
+Siempre hay otra tienda. Jack compra sin freno y se siente crecer. Manda a los niños a elegir sus regalos de Navidad, y ellos se dispersan y avisan en secreto a Babette de lo que escogen. Jack es el benefactor. Los niños saben que no se le puede pedir que discuta los detalles.
 
-> Yo era más grande que esas sumas.
-> [Frase 2160](#original-2160)
+> Hicimos otra comida.
+> [Frase 2171](#original-2171)
 
-Esas sumas resbalaban por su piel como lluvia y volvían a él como crédito existencial.
-
-> Me sentía expansivo, dispuesto a ser generoso a lo grande, y dije a los niños que eligieran ahí mismo sus regalos de Navidad.
-> [Frase 2163](#original-2163)
-
-Los niños se dispersan y anotan en secreto con Babette lo que quieren. Jack es el benefactor. Vuelven a casa en silencio. Jack ve a Steffie ante el televisor, moviendo los labios para igualar las palabras.
+Suena música enlatada en vivo y el rugido de las voces sube diez pisos. Vuelven a casa en silencio, cada uno a su cuarto. Jack ve a Steffie ante el televisor, moviendo los labios para igualar las palabras.
 
 ---
 
@@ -1541,50 +1509,32 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 17: La Cuna de la Desinformación
 
-> [Frase 2083](#lugar-2083)
-> The family is the cradle of the world's misinformation.
+> [Frase 2044](#lugar-2044)
+> All six of us were jammed into the car on our way to the Mid-Village Mall and Denise simply waited for a natural break in the conversation, directing her question toward the back of Babette's head, in a voice drained of inference.
 
-> [Frase 2087](#lugar-2087)
-> Murray says we are fragile creatures surrounded by a world of hostile facts.
-
-> [Frase 2090](#lugar-2090)
-> The family process works toward sealing off the world.
-
-> [Frase 2094](#lugar-2094)
-> He asks me why the strongest family units exist in the least developed societies.
-
-> [Frase 2095](#lugar-2095)
-> Not to know is a weapon of survival, he says.
-
-> [Frase 2114](#lugar-2114)
-> "I've never seen you off campus, Jack.
-
-> [Frase 2115](#lugar-2115)
-> You look different without your glasses and gown.
-
-> [Frase 2125](#lugar-2125)
-> "You won't take offense?" he said, the grin turning lascivious, rich with secret meaning.
+> [Frase 2134](#lugar-2134)
+> I found the others and we walked across two parking lots to the main structure in the Mid-Village Mall, a ten-story building arranged around a center court of waterfalls, promenades and gardens.
 
 > [Frase 2135](#lugar-2135)
 > Babette and the kids followed me into the elevator, into the shops set along the tiers, through the emporiums and department stores, puzzled but excited by my desire to buy.
 
-> [Frase 2139](#lugar-2139)
-> They were my guides to endless wellbeing.
+> [Frase 2136](#lugar-2136)
+> When I could not decide between two shirt" they encouraged me to buy both.
 
-> [Frase 2144](#lugar-2144)
-> I was one of them, shopping, at last.
+> [Frase 2137](#lugar-2137)
+> When I said I was hungry, they fed me pretzels, beer, souvlaki.
 
-> [Frase 2155](#lugar-2155)
-> Brightness settled around me.
+> [Frase 2142](#lugar-2142)
+> We smelled chocolate, popcorn, cologne; we smelled rugs and furs, hanging salamis and deathly vinyl.
 
-> [Frase 2159](#lugar-2159)
-> The more money I spent, the less important it seemed.
+> [Frase 2145](#lugar-2145)
+> They gave me advice, badgered clerks on my behalf.
 
-> [Frase 2160](#lugar-2160)
-> I was bigger than these sums.
+> [Frase 2147](#lugar-2147)
+> We moved from store to store, rejecting not only items in certain departments, not only entire departments but whole stores, mammoth corporations that did not strike our fancy for one reason or another.
 
-> [Frase 2163](#lugar-2163)
-> I felt expansive, inclined to be sweepíngly generous, and told the kids to pick out their Christmas gifts here and now.
+> [Frase 2171](#lugar-2171)
+> We ate another meal.
 
 © 2026 Osmancito
 
