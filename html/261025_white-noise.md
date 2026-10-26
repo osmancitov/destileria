@@ -1178,49 +1178,59 @@ Cuando acaba el programa, las niñas bajan a esperar a Babette. Wilder se queda 
 
 ### Capítulo 21: El Evento Tóxico Aéreo
 
-*Jack, Heinrich, Babette, Denise, Steffie y Wilder.*
+*Jack, Heinrich, Babette, Steffie, Denise y Wilder.*
 
 [![Una carretera de noche bajo la nieve, llena de autos con los faros encendidos; una inmensa nube negra, iluminada desde abajo por helicópteros, se alza sobre las colinas y ocupa medio cielo; en primer plano, un auto con una familia y una niña que mira hacia atrás.](../img/261025_white-noise_el-evento-toxico-aereo.jpg)](../img/261025_white-noise_el-evento-toxico-aereo.jpg)
 
 Jack vuelve a casa tras una noche de nieve y ve a Heinrich, de catorce años, en una cornisa junto a la ventana del ático, mirando con binoculares el humo de un descarrilamiento en los patios de trenes. Jack sube y le dice que no debe estar en cornisas heladas, que eso preocupa a Baba, el apodo de Babette. Heinrich responde:
 
-> «Crees que si me dices que a ella le preocupa, me sentiré culpable y no lo haré.
+> «Crees que si me dices que a ella le preocupa, me sentiré culpable y no lo haré.»
 > [Frase 2793](#original-2793)
 
-> Pero si me dices que te preocupa a ti, lo haré todo el tiempo.»
-> [Frase 2794](#original-2794)
-
-Jack lo manda a quitar la nieve de la entrada. Más tarde Heinrich vuelve al ático con una radio y un mapa: la radio habla de una columna plumosa, pero él ve una cosa negra y creciente, y dice que viene del Nyodene D., un desecho químico. Abajo, Steffie pregunta:
+Jack lo manda a quitar la nieve de la entrada. Más tarde Heinrich vuelve al ático con una radio y un mapa: la radio habla de una columna plumosa, pero él ve una cosa negra y creciente, y dice que el químico se llama Nyodene D. Abajo, Steffie pregunta:
 
 > «¿Pero tendremos que dejar nuestras casas?»
 > [Frase 2858](#original-2858)
 
-Jack dice que no. Denise cuenta que usan sopladores de nieve para echar nieve sobre el derrame. Pregunta:
+Jack dice que no. Denise entra y cuenta que usan sopladores de nieve para echar nieve sobre el derrame. Pregunta:
 
 > «¿Cuándo comemos?»
 > [Frase 2873](#original-2873)
 
-Babette atiende el teléfono: los Stover, unos amigos, hablaron con el centro meteorológico y ya no dicen «columna plumosa» sino «nube negra y ondulante». Jack contesta:
+Babette atiende el teléfono: es de los Stover, conocidos de la familia, que hablaron con el centro meteorológico. Ya no dicen «columna plumosa» sino «nube negra y ondulante», y se espera que una masa de aire baje de Canadá. Jack comenta que eso siempre pasa. Babette dice:
+
+> «Y como Canadá queda al norte, si la nube ondulante va derecho hacia el sur, nos pasará de largo con un margen cómodo.»
+> [Frase 2896](#original-2896)
 
 > «¿Cuándo comemos?», dije.
 > [Frase 2897](#original-2897)
 
-Suenan sirenas antiaéreas. Babette saca cosas del refrigerador y dice que quizá deberían preocuparse más por la nube. Dice:
-
-> «Es por los niños que seguimos diciendo que no va a pasar nada.»
-> [Frase 2905](#original-2905)
-
-Jack responde que estas cosas les pasan a los pobres, no a un profesor universitario. Dice:
+Suenan sirenas antiaéreas. Babette saca cosas del refrigerador y dice que quizá deberían preocuparse más por la nube. Jack responde que estas cosas les pasan a los pobres, no a un profesor universitario. Dice:
 
 > «Vivimos en un pueblo ordenado y agradable, cerca de una universidad de nombre pintoresco.»
 > [Frase 2915](#original-2915)
 
-La cena empieza temprano. Jack cuenta:
+Jack sube al ático, sale a la cornisa con los binoculares y ve el descarrilamiento: helicópteros, bomberos y hombres con trajes amarillos Mylex y máscaras, que llevan instrumentos para medir la muerte. Vuelve a entrar. Heinrich le pregunta si la nube vendrá hacia ellos y dice que por su voz sabe que Jack sabe algo. Jack dice:
+
+> «Quieres que diga que no vendrá hacia aquí ni en un millón de años.»
+> [Frase 2979](#original-2979)
+
+Jack cuenta que la radio ya no la llama «nube negra y ondulante» sino «evento tóxico aéreo». Heinrich lo mira buscando que lo tranquilicen. Jack le contesta:
+
+> «Está allá, nosotros estamos aquí.»
+> [Frase 2997](#original-2997)
+
+Heinrich dice que una gran masa de aire baja de Canadá. Jack responde que ya lo sabía. Jack cuenta:
+
+> Vimos a Wilder bajar de espaldas los escalones del ático, que eran más altos que los demás escalones de la casa.
+> [Frase 3008](#original-3008)
+
+Wilder, el niño pequeño, baja del ático. Denise se levanta varias veces durante la cena con la mano en la boca. Jack cuenta:
 
 > Nos detuvimos, en medio de un bocado o de un salpimentar, para oír sus arcadas incompletas.
 > [Frase 3010](#original-3010)
 
-Denise nota que cenan antes de lo habitual. Pregunta:
+Heinrich le dice a Denise que sus síntomas están pasados de moda. Denise nota que cenan antes de lo habitual. Pregunta:
 
 > «¿No estamos cenando un poco temprano esta noche?», dijo Denise.
 > [Frase 3017](#original-3017)
@@ -1266,16 +1276,10 @@ Heinrich sale a escuchar a la puerta y vuelve con paso rígido. Dice:
 > «Quieren que evacuemos», dijo, sin mirarnos a los ojos.
 > [Frase 3044](#original-3044)
 
-> Babette dijo: «¿Tuviste la impresión de que solo hacían una sugerencia o era algo más obligatorio, te parece?»
-> [Frase 3045](#original-3045)
-
-Heinrich cuenta que era el auto de un capitán de bomberos con altavoz, que gritaba que se evacuara y hablaba de una nube de sustancias mortales. Jack cuenta:
+Babette pregunta si solo era una sugerencia o algo más obligatorio. Heinrich cuenta que era el auto de un capitán de bomberos con altavoz, que gritaba que se evacuara y hablaba de una nube de sustancias mortales. Babette dice que hay tiempo de sobra, porque si no les habrían dicho que se apuraran. Jack cuenta:
 
 > Nos quedamos sentados ante el bizcocho y los duraznos en lata.
 > [Frase 3052](#original-3052)
-
-> «Estoy segura de que hay tiempo de sobra», dijo Babette, «o se habrían ocupado de decirnos que nos apuráramos.»
-> [Frase 3053](#original-3053)
 
 Steffie lee un cupón llorando bajito, Denise sube a hacer maletas, Heinrich busca los binoculares y Babette junta latas y frascos. Jack cuenta:
 
@@ -1373,7 +1377,7 @@ Jack lo ve por el retrovisor, feliz entre el desastre, hablando de la nieve, del
 > Debía de saber que todos podíamos morir.
 > [Frase 3146](#original-3146)
 
-Los demás discuten dentro del auto. El Nyodene D. es el desecho químico del derrame. Jack cuenta:
+Los demás discuten dentro del auto. El Nyodene D. es el químico del derrame. Jack cuenta:
 
 > Por la radio supimos que enviaban a la zona perros adiestrados para olfatear el Nyodene D., desde un centro de detección química en una región remota de Nuevo México.
 > [Frase 3176](#original-3176)
@@ -1383,20 +1387,25 @@ Babette dice que a los perros no les pasa nada, porque solo afecta a humanos y r
 > Llegamos al punto donde la barrera de concreto cede el paso a un tramo de veinte yardas de mediana ajardinada, no más alta que un bordillo.
 > [Frase 3203](#original-3203)
 
-Los trajes Mylex son trajes de protección química. Jack cuenta:
+Los hombres de traje Mylex son como los que Jack vio desde la cornisa: trajes amarillos con máscara. Jack cuenta:
 
 > Pero en lugar de un policía estatal que dirigiera el tráfico hacia dos carriles extra, vimos a un hombre con traje Mylex que nos alejaba con gestos de la abertura.
 > [Frase 3204](#original-3204)
+
+Más allá hay un montón de chatarra, una casa rodante sobre un quitanieves, y utensilios de plástico regados. Jack cuenta:
+
+> No había señales de víctimas ni de sangre fresca, lo que nos llevaba a creer que había pasado algún tiempo desde que la casa rodante se montó sobre el quitanieves, probablemente en un momento en que el oportunismo parecía una falla fácilmente defendible, dadas las circunstancias.
+> [Frase 3208](#original-3208)
 
 Steffie dice que ya vio todo esto antes: el hombre del traje amarillo y la máscara, el gran choque en la nieve, todo exactamente igual. Dice:
 
 > «Estábamos todos aquí, en el auto.»
 > [Frase 3217](#original-3217)
 
-Jack cuenta:
+Heinrich le había dicho a Jack que la exposición a los desechos químicos podía producir déjà vu. Steffie no estaba cuando lo dijo, pero pudo oírlo en la radio de la cocina. Jack cuenta:
 
-> Había sido Heinrich quien me había dicho que la exposición a los desechos químicos podía hacer que una persona tuviera la sensación de déjà vu.
-> [Frase 3220](#original-3220)
+> No creía que Steffie supiera lo que significaba déjà vu, pero era posible que Babette se lo hubiera dicho.
+> [Frase 3222](#original-3222)
 
 Jack se pregunta si hay un déjà vu verdadero y uno falso y si Steffie desarrolla síntomas reales por vías naturales. Apaga la radio. Heinrich dice que otra cosa ya pasó antes:
 
@@ -1479,7 +1488,12 @@ La Cruz Roja repartió catres, calentadores portátiles, sándwiches y café, y 
 > El lugar estaba atestado, aún bastante frío, pero la visión de enfermeras y voluntarios nos hizo sentir que los niños estaban a salvo, y la presencia de otras almas varadas, mujeres jóvenes con bebés, ancianos y enfermos, nos dio cierta firmeza y voluntad, una inclinación desinteresada tan marcada que servía de identidad común.
 > [Frase 3321](#original-3321)
 
-Jack avanza entre la gente hasta el borde y ve a Heinrich hablar del evento tóxico de forma técnica, casi cantando de orgullo. Jack no quiere que lo vea ahí. Jack cuenta:
+Jack avanza entre la gente hasta el borde de un grupo grande y descubre que su hijo Heinrich, con binoculares al cuello, habla del evento tóxico de forma técnica, casi cantando de orgullo. La gente lo escucha con atención. Jack cuenta:
+
+> Lo oí decir: «Lo que rociaron sobre el gran derrame en el patio de trenes era probablemente ceniza de sosa.»
+> [Frase 3335](#original-3335)
+
+Heinrich sigue hablando. Jack no quiere que lo vea ahí. Jack cuenta:
 
 > Así que me escabullí, pasando junto a un hombre con botas de nieve envueltas en plástico, y me dirigí al extremo más lejano del barracón, donde habíamos acampado antes.
 > [Frase 3369](#original-3369)
@@ -1492,17 +1506,12 @@ Una mujer de la familia le dice a Babette que esto es algo, y ella responde que 
 > «Estamos prácticamente al borde.»
 > [Frase 3394](#original-3394)
 
-Más tarde susurran. Jack dice que Heinrich parece salir de su concha y que está allí en medio, contando a la gente lo que sabe. Babette pregunta por qué no se lo dijo a ellos. Jack responde:
+Más tarde Jack y Babette susurran. Jack le dice que Heinrich parece salir de su concha y que está allí en medio, contando a la gente lo que sabe. Babette susurra:
 
-> «Supongo que lo tenía dentro todo el tiempo.»
-> [Frase 3449](#original-3449)
+> «¿Por qué no nos lo dijo?», susurró ella.
+> [Frase 3443](#original-3443)
 
-Una mujer al frente del salón habla de la exposición a agentes tóxicos. Denise, con mirada dura, le pregunta a Jack si no oyó la palabra «exposición» y le dice que eso no es sobre ellos sino sobre él, que bajó del auto a cargar gasolina. Jack pregunta dónde estaba la nube entonces. Denise responde:
-
-> «Volviste al auto, avanzamos un poco y entonces ahí estaba, en medio de todas esas luces.»
-> [Frase 3576](#original-3576)
-
-Jack va al frente. Se forman dos filas por letras, de la A a la M y de la N a la Z, ante mesas plegables, y técnicos con credenciales se mueven entre la gente. Jack cuenta:
+Jack le dice que Heinrich debe de estar cansado de ellos. Después una mujer al frente del salón habla de la exposición a agentes tóxicos. Denise, con mirada dura, le dice a Jack que eso lo toca a él, que bajó del auto a cargar gasolina. Jack va al frente. Se forman dos filas por letras, de la A a la M y de la N a la Z, ante mesas plegables, con técnicos con credenciales. Jack cuenta:
 
 > Los gruesos chalecos naranjas no parecían especialmente fuera de lugar, aunque estábamos más o menos en tierra seca, muy por encima del nivel del mar, a muchas millas del cuerpo de agua amenazante más cercano.
 > [Frase 3585](#original-3585)
@@ -1512,17 +1521,7 @@ Un técnico de SIMUVAC, abreviatura de evacuación simulada, un programa estatal
 > Cuando volví al otro extremo del barracón, los tres niños menores dormían, Heinrich hacía anotaciones en un mapa de carreteras y Babette estaba sentada a cierta distancia con el viejo Treadwell y varios otros ciegos.
 > [Frase 3721](#original-3721)
 
-Babette lee a los ciegos titulares de tabloides de supermercado sobre hipnotistas de reencarnación y las predicciones de los videntes. Jack mira dormir a los niños. Heinrich, despierto, lee un manual de resucitación. Jack dice que parece que lo tienen controlado, y Heinrich responde que es como si los hubieran lanzado atrás en el tiempo, a la Edad de Piedra. Jack dice que están bien. Heinrich dice:
-
-> «Es como si nos hubieran lanzado hacia atrás.»
-> [Frase 3846](#original-3846)
-
-Heinrich sigue con las edades de piedra y los pedernales. Jack encuentra a Murray Jay Siskind hablando con unas prostitutas desde las ventanillas de un auto. Murray habla de la muerte en el aire y del déjà vu; Jack le dice que le gustaría perder el interés en sí mismo. Una de las mujeres ofrece a Murray hacerlo por veinticinco dólares. Jack pregunta:
-
-> «No es asunto mío», dije, «pero ¿qué está dispuesta a hacer contigo por veinticinco dólares?»
-> [Frase 4031](#original-4031)
-
-Jack vuelve a echarse junto a Babette. Un niño dormido murmura palabras sin sentido. Una voz con megáfono ordena evacuar de nuevo: el evento tóxico se dirige hacia ellos. Todos se levantan y Jack se limpia los dientes con el dedo. En la puerta, una mujer con brazalete reparte mascarillas quirúrgicas blancas. Jack cuenta:
+Babette lee a los ciegos titulares de tabloides de supermercado. Heinrich, despierto, dice que es como si los hubieran lanzado atrás en el tiempo, a la Edad de Piedra. Jack encuentra a Murray Jay Siskind hablando con unas prostitutas desde las ventanillas de un auto y habla con él del déjà vu y de la muerte. Una voz con megáfono ordena evacuar de nuevo: el evento tóxico se dirige hacia ellos. Todos se levantan; en la puerta, una mujer con brazalete reparte mascarillas quirúrgicas blancas. Jack cuenta:
 
 > Tomamos seis y salimos.
 > [Frase 4154](#original-4154)
@@ -2397,23 +2396,29 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 2793](#lugar-2793)
 > "You think if you tell me it worries her, I'll feel guilty and not do it.
 
-> [Frase 2794](#lugar-2794)
-> But if you tell me it worries you, I'll do it all the time."
-
 > [Frase 2858](#lugar-2858)
 > "But will we have to leave our homes?"
 
 > [Frase 2873](#lugar-2873)
 > "When do we eat?"
 
+> [Frase 2896](#lugar-2896)
+> And since Canada is to the north, if the billowing cloud is blown due south, it will miss us by a comfortable margin."
+
 > [Frase 2897](#lugar-2897)
 > "When do we eat?" I said.
 
-> [Frase 2905](#lugar-2905)
-> "It's because of the kids we keep saying nothing's going to happen.
-
 > [Frase 2915](#lugar-2915)
 > We live in a neat and pleasant town near a college with a quaint name.
+
+> [Frase 2979](#lugar-2979)
+> "You want me to say it won't come this way in a million years.
+
+> [Frase 2997](#lugar-2997)
+> It's there, we're here."
+
+> [Frase 3008](#lugar-3008)
+> We watched Wilder climb backwards down the attic steps, which were higher than the steps elsewhere in the house.
 
 > [Frase 3010](#lugar-3010)
 > We paused in odd moments of chewing or salt-sprinkling to hear her retch incompletely.
@@ -2454,14 +2459,8 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 3044](#lugar-3044)
 > "They want us to evacuate," he said, not meeting our eyes.
 
-> [Frase 3045](#lugar-3045)
-> Babette said, "Did you get the impression they were only making a suggestion or was it a little more mandatory, do you think?"
-
 > [Frase 3052](#lugar-3052)
 > We sat there over sponge cake and canned peaches.
-
-> [Frase 3053](#lugar-3053)
-> "I'm sure there's plenty of time," Babette said, "or they would have made a point of telling us to hurry.
 
 > [Frase 3061](#lugar-3061)
 > Twenty minutes later we were in the car.
@@ -2544,11 +2543,14 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 3204](#lugar-3204)
 > But instead of a state trooper directing traffic into two extra lanes, we saw a Mylex-suited man waving us away from the opening.
 
+> [Frase 3208](#lugar-3208)
+> There was no sign of victims or fresh blood, leading us to believe that some time had passed since the recreational vehicle mounted the plow, probably in a moment when opportunism seemed an easily defensible failing, given the situation.
+
 > [Frase 3217](#lugar-3217)
 > We were all here in the car.
 
-> [Frase 3220](#lugar-3220)
-> It was Heinrich who'd told me that exposure to the chemical waste could cause a person to experience a sense of déjà vu.
+> [Frase 3222](#lugar-3222)
+> I didn't think Steffie knew what déjà vu meant, but it was possible Babette had told her.
 
 > [Frase 3252](#lugar-3252)
 > "We're running out of gas."
@@ -2607,6 +2609,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 3321](#lugar-3321)
 > The place was crowded, still quite cold, but the sight of nurses and volunteer workers made us feel the children were safe, and the presence of other stranded souls, young women with infants, old and infirm people, gave us a certain staunchness and will, a selfless bent that was pronounced enough to function as a common identity.
 
+> [Frase 3335](#lugar-3335)
+> I heard him say, "The stuff they sprayed on the big spill at the train yard was probably soda ash.
+
 > [Frase 3369](#lugar-3369)
 > So I slipped away, passing a man who wore snow boots wrapped in plastic, and headed for the far end of the barracks, where we'd, earlier made camp.
 
@@ -2616,23 +2621,14 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 3394](#lugar-3394)
 > We're practically at the edge."
 
-> [Frase 3449](#lugar-3449)
-> "I guess he had it in him all the while.
-
-> [Frase 3576](#lugar-3576)
-> You got back in the car and we went a little ways and then there it was in all those lights."
+> [Frase 3443](#lugar-3443)
+> "Why didn't he tell us?" she whispered.
 
 > [Frase 3585](#lugar-3585)
 > The thick orange vests did not seem especially out of place even though we were on more or less dry land, well above sea level, many miles from the nearest ominous body of water.
 
 > [Frase 3721](#lugar-3721)
 > When I got back to the other end of the barracks, the three younger children were asleep, Heinrich was making notations on a road map and Babette was seated some distance away with Old Man Treadwell and a number of other blind people.
-
-> [Frase 3846](#lugar-3846)
-> It's like we're flung back."
-
-> [Frase 4031](#lugar-4031)
-> "It's none of my business," I said, "but what is it she's willing to do with you for twenty-five dollars?"
 
 > [Frase 4154](#lugar-4154)
 > We took six and went outside.
