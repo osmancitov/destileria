@@ -16,31 +16,17 @@ Se divide en tres partes: «Waves and Radiation» («Ondas y Radiación»), «Th
 
 [![Óleo impresionista: una fila de camionetas familiares cargadas de maletas y bicicletas en un campus soleado; estudiantes descargan y padres elegantes miran, al estilo de Childe Hassam.](../img/261025_white-noise_las-camionetas.jpg)](../img/261025_white-noise_las-camionetas.jpg)
 
-Las camionetas familiares llegan a mediodía al campus de una universidad, cargadas de maletas. El narrador, Jack, cuenta:
-
-> Cuando los coches reducían la marcha hasta casi detenerse y paraban, los estudiantes saltaban afuera y corrían a las puertas traseras para empezar a sacar los objetos del interior: los equipos de música, las radios, los ordenadores personales; los pequeños frigoríficos y las cocinas de mesa; las cajas de discos y casetes; los secadores de pelo y los rizadores; las raquetas de tenis, los balones de fútbol, los palos de hockey y lacrosse, los arcos y las flechas; las sustancias controladas, las píldoras y los dispositivos anticonceptivos; la comida basura aún en las bolsas de la compra: chips de cebolla y ajo, nachos finos, tortitas de crema de cacahuete, Waffelos y Kabooms, gominolas de fruta y palomitas de caramelo; los chupa-chups Dum-Dum, las pastillas de menta Mystic.
-> [Frase 4](#original-4)
-
-Jack dirige el departamento de estudios sobre Hitler de la universidad. Fue un día frío y luminoso, cuando habló con el rector, la máxima autoridad de la universidad. Jack cuenta:
-
-> Cuando le sugerí al rector que podríamos construir un departamento entero en torno a la vida y la obra de Hitler, él vio enseguida las posibilidades.
-> [Frase 25](#original-25)
-
----
-
-### Capítulo 1: Las Camionetas (Cobertura Léxica)
-
 > Las camionetas llegaron a mediodía, una larga fila brillante que recorrió el campus oeste. En fila india rodearon despacio la escultura anaranjada de vigas de doble T y avanzaron hacia las residencias de los estudiantes. Los techos de las camionetas venían cargados de maletas cuidadosamente sujetas, llenas de ropa ligera y de abrigo; de cajas de mantas, botas y zapatos, papelería y libros, sábanas, almohadas, edredones; de alfombras enrolladas y sacos de dormir; de bicicletas, esquíes, mochilas, monturas inglesas y vaqueras, balsas inflables. Cuando los coches reducían la marcha hasta casi detenerse y paraban, los estudiantes saltaban afuera y corrían a las puertas traseras para empezar a sacar los objetos del interior: los equipos de música, las radios, los ordenadores personales; los pequeños frigoríficos y las cocinas de mesa; las cajas de discos y casetes; los secadores de pelo y los rizadores; las raquetas de tenis, los balones de fútbol, los palos de hockey y lacrosse, los arcos y las flechas; las sustancias controladas, las píldoras y los dispositivos anticonceptivos; la comida basura aún en las bolsas de la compra: chips de cebolla y ajo, nachos finos, tortitas de crema de cacahuete, Waffelos y Kabooms, gominolas de fruta y palomitas de caramelo; los chupa-chups Dum-Dum, las pastillas de menta Mystic.
-> [Párrafo 1](#original-cl-1)
+> [Párrafo 1](#original-wn-1-p1)
 
 El narrador ha visto ese espectáculo, siempre brillante, cada septiembre durante veintiún años. Los estudiantes se saludan con gritos cómicos; los padres, mareados de sol, se reconocen unos en otros: las camionetas les dicen, más que ninguna liturgia, que son un pueblo, una nación.
 
 Quien habla en primera persona es Jack Gladney, el narrador de la novela; su nombre no aparece en este capítulo y se oirá en el siguiente. Babette es su esposa, y los dos tienen hijos de matrimonios anteriores.
 
 > Salí de mi oficina, bajé andando la colina y entré en el pueblo. Hay casas en el pueblo con torrecillas y porches de dos pisos donde la gente se sienta a la sombra de arces antiguos. Hay iglesias neogriegas y góticas. Hay un manicomio de pórtico alargado, buhardillas ornamentadas y un tejado muy inclinado coronado por una piña. Babette y yo, y nuestros hijos de matrimonios anteriores, vivimos al final de una calle tranquila, en lo que antes era una zona arbolada de barrancos profundos. Ahora hay una autopista más allá del patio trasero, muy por debajo de nosotros, y por la noche, al acomodarnos en nuestra cama de latón, el tráfico escaso pasa como un oleaje, un murmullo remoto y constante alrededor de nuestro sueño, como de almas muertas que balbucean al borde de un sueño.
-> [Párrafo 3](#original-cl-3)
+> [Párrafo 3](#original-wn-1-p3)
 
-Jack dirige el departamento de estudios sobre Hitler del College-on-the-Hill, que inventó en 1968 con éxito inmediato. En el pueblo, una mujer policía vigila el estacionamiento y los postes llevan carteles caseros de perros y gatos perdidos, alguno con letra de niño.
+Jack inventó en 1968 el departamento de estudios sobre Hitler de su universidad; el rector, su máxima autoridad, apoyó la idea y fue un éxito. En el pueblo, una policía vigila el estacionamiento y los postes llevan carteles de animales perdidos, alguno con letra de niño.
 
 ---
 
@@ -48,34 +34,27 @@ Jack dirige el departamento de estudios sobre Hitler del College-on-the-Hill, qu
 
 [![Óleo realista, al estilo de David Teniers el Joven: en una cocina antigua, una mujer alta de pelo rubio revuelto, con un paño en la mano, habla con un hombre de anteojos sentado a una mesa con pan y fruta; por la puerta se ve a un niño en triciclo y, al fondo, cajas apiladas.](../img/261025_white-noise_babette-en-la-cocina.jpg)](../img/261025_white-noise_babette-en-la-cocina.jpg)
 
-Es mediodía en la cocina de Jack, el narrador, y de su esposa Babette. Jack cuenta:
+Babette, la esposa de Jack, es alta, corpulenta y rubia. Él le cuenta la llegada de las camionetas; ella ha vuelto a olvidarla.
 
-> Yo la miro todo el tiempo haciendo cosas en secuencia medida, con destreza, con aparente soltura, a diferencia de mis antiguas esposas, que tenían tendencia a sentirse ajenas al mundo objetivo: un grupo ensimismado y de nervios tensos, con vínculos con la comunidad de inteligencia.
-> [Frase 55](#original-55)
+> Babette, despeinada, tiene la dignidad despreocupada de quien está demasiado absorto en asuntos serios para saber o preocuparse por su aspecto. No es que traiga grandes dones, según lo que el mundo suele entender por tales. Reúne y cuida a los niños, da un curso en un programa de educación de adultos, pertenece a un grupo de voluntarios que leen a los ciegos. Una vez por semana le lee a un anciano llamado Treadwell, que vive a las afueras del pueblo. Lo conocen como el Viejo Treadwell, como si fuera un hito del paisaje, una formación rocosa o un pantano sombrío. Le lee el <em>National Enquirer</em>, el <em>National Examiner</em>, el <em>National Express</em>, el <em>Globe</em>, el <em>World</em>, el <em>Star</em>. El viejo exige su dosis semanal de misterios de sectas. ¿Por qué negársela? El caso es que Babette, haga lo que haga, me hace sentir dulcemente recompensado, unido a una mujer de alma entera, una amante de la luz del día y de la vida densa, del aire variado y bullicioso de las familias. La miro todo el tiempo hacer las cosas en una secuencia medida, con destreza, con aparente soltura, a diferencia de mis antiguas esposas, que tendían a sentirse ajenas al mundo objetivo: un grupo ensimismado y de nervios tensos, con vínculos con los servicios de inteligencia.
+> [Párrafo 8](#original-wn-2-p8)
 
-Wilder, el menor de los niños, está sentado en el mostrador. Denise y Steffie, las niñas, bajan:
+Hablan de la riqueza de aquellos padres: Babette apenas puede imaginar su muerte; Jack propone que allí solo cambian de manos los documentos. Ella busca a Wilder, su hijo pequeño, que está en el patio.
 
-> Denise y Steffie bajaron y hablamos de los útiles escolares que necesitarían.
-> [Frase 79](#original-79)
+> Babette y yo hablamos en la cocina. La cocina y el dormitorio son aquí las estancias principales, los lugares del poder, las fuentes. En esto nos parecemos: consideramos el resto de la casa un almacén de muebles, juguetes, todos los objetos sin uso de matrimonios anteriores y de distintas familias de niños, los regalos de parientes políticos perdidos, las cosas heredadas y las de segunda mano. Cosas, cajas. ¿Por qué pesan de un modo tan triste estas posesiones? Llevan adherida una oscuridad, un presentimiento. Me hacen temer, no el fracaso y la derrota personales, sino algo más general, algo de gran alcance y contenido.
+> [Párrafo 16](#original-wn-2-p16)
 
-Es la hora del almuerzo:
+Denise es hija de Babette; Steffie y Heinrich son hijos de Jack, de matrimonios anteriores. Esta casa reúne familias que antes vivían separadas.
 
-> Entramos en un período de caos y ruido.
-> [Frase 81](#original-81)
+> Entró con Wilder y lo sentó en el mostrador de la cocina. Denise y Steffie bajaron y hablamos de los útiles escolares que necesitarían. Pronto llegó la hora del almuerzo. Entramos en un período de caos y ruido. Dimos vueltas, discutimos un poco, dejamos caer utensilios. Por fin quedamos todos satisfechos con lo que habíamos logrado sacar de los armarios y del refrigerador o quitarnos unos a otros, y empezamos a untar en silencio mostaza o mayonesa en nuestra comida de colores vivos. El ánimo era de una expectación mortalmente seria, de una recompensa ganada con esfuerzo. La mesa estaba abarrotada y Babette y Denise se dieron dos codazos, aunque ninguna habló. Wilder seguía sentado en el mostrador, rodeado de cajas abiertas, papel de aluminio arrugado, bolsas brillantes de papas fritas, cuencos de sustancias pastosas cubiertos con plástico, anillas de apertura y cierres de alambre, lonchas de queso anaranjado envueltas por separado. Entró Heinrich, estudió con cuidado la escena, mi único hijo varón, y luego salió por la puerta trasera y desapareció.
+> [Párrafo 17](#original-wn-2-p17)
 
-> Dimos vueltas, discutimos un poco, dejamos caer utensilios.
-> [Frase 82](#original-82)
+Las niñas se burlan de la comida sana que Babette compra y deja estropearse: siente culpa al comprarla, al no comerla y al tirarla.
 
-> Por fin quedamos todos satisfechos con lo que habíamos logrado sacar de los armarios y del refrigerador o quitarnos unos a otros, y empezamos a untar con calma mostaza o mayonesa en nuestra comida de colores vivos.
-> [Frase 83](#original-83)
+> Denise tenía once años, era una niña de carácter firme. Casi a diario encabezaba una protesta contra aquellos hábitos de su madre que le parecían derrochadores o peligrosos. Yo defendía a Babette. Le decía que era yo quien necesitaba disciplina con la comida. Le recordaba cuánto me gustaba su aspecto. Sugerí que había una honradez propia de la corpulencia, si era la cantidad justa. La gente confía en cierta corpulencia en los demás.
+> [Párrafo 29](#original-wn-2-p29)
 
-Jack defiende a Babette ante las niñas. Arriba suena una alarma:
-
-> La alarma de humo sonó en el pasillo de arriba, o para avisarnos de que la pila acababa de morir o porque la casa se incendiaba.
-> [Frase 112](#original-112)
-
-> Terminamos el almuerzo en silencio.
-> [Frase 113](#original-113)
+Babette no acepta ese consuelo: le disgustan sus caderas y muslos y cree que Jack protege a los suyos de la verdad. Suena la alarma de humo: quizá murió la pila, quizá arde la casa. Terminan de comer en silencio.
 
 ---
 
@@ -83,45 +62,24 @@ Jack defiende a Babette ante las niñas. Arriba suena una alarma:
 
 [![Óleo impresionista, al estilo de Camille Pissarro: entre manzanos, una fila de fotógrafos con trípodes mira un granero rojo en la loma; dos hombres de espaldas observan junto a un cartel que dice «El granero más fotografiado de América», y una mujer vende postales en un puesto de madera; al fondo, un autobús y varios autos.](../img/261025_white-noise_el-granero-fotografiado.jpg)](../img/261025_white-noise_el-granero-fotografiado.jpg)
 
-Los jefes de departamento usan togas académicas en el College-on-the-Hill. El departamento de Jack comparte edificio con el de cultura popular, cuyos profesores, casi todos emigrados de Nueva York, estudian los placeres brillantes de la cultura. Jack cuenta:
+Jack disfruta la toga sin mangas que llevan los jefes de departamento de su universidad: le da gravedad a sus gestos. Su especialidad no tiene edificio propio.
 
-> Una excepción a parte de lo anterior es Murray Jay Siskind, un ex periodista deportivo que me pidió almorzar con él en el comedor, donde el olor institucional de una comida vagamente definida despertó en mí un recuerdo oscuro y sombrío.
-> [Frase 131](#original-131)
+> No hay un edificio de Hitler como tal. Nos alojamos en el Centenary Hall, un edificio de ladrillo oscuro que compartimos con el departamento de cultura popular, conocido oficialmente como Entornos Estadounidenses. Un grupo curioso. El profesorado está formado casi por entero por emigrados de Nueva York, listos, matonescos, locos por el cine, obsesionados con datos triviales. Están aquí para descifrar el lenguaje natural de la cultura, para convertir en un método formal los placeres brillantes que habían conocido en sus infancias bajo la sombra de Europa: un aristotelismo de envoltorios de chicle y canciones publicitarias de detergente. El jefe del departamento es Alfonse «Comida Rápida» Stompanato, un hombre de pecho ancho y mirada ceñuda cuya colección de botellas de refrescos de antes de la guerra se exhibe de forma permanente en una hornacina. Todos sus profesores son hombres, llevan la ropa arrugada, necesitan un corte de pelo, tosen en sus axilas. Juntos parecen dirigentes del sindicato de camioneros reunidos para identificar el cadáver de un compañero mutilado. La impresión es de amargura, sospecha e intriga por todas partes.
+> [Párrafo 2](#original-wn-3-p2)
 
-Murray es nuevo, encorvado y de barba amish; da clases sobre íconos vivos. Le gusta el pueblo porque quiere huir de las ciudades, del calor y de las complicaciones con mujeres. Vive en una pensión. Jack cuenta:
+La comparación con el aristotelismo eleva estos objetos corrientes a materia de estudio. Los profesores quieren descifrar una cultura que otros solo consumen.
 
-> Tuve la impresión de que, desde los once años, en su abarrotada parcela de concreto, había asociado esta tela resistente con los estudios superiores en algún lugar imposiblemente lejano y sombreado de árboles.
-> [Frase 172](#original-172)
+Murray Jay Siskind, antiguo periodista deportivo y nuevo profesor, quiere dejar atrás la ciudad y sus enredos. Vive en una pensión y viste de pana, como si hubiera deseado desde niño ese mundo universitario.
 
-Murray dice que está aquí para evitar situaciones y que lo que más ama de las mujeres son sus mentes. Elogia lo que Jack ha creado en torno a Hitler y quiere hacer lo mismo con Elvis. Jack cuenta:
+> «No puedo evitar ser feliz en un pueblo llamado Blacksmith», dijo. «Estoy aquí para evitar situaciones. Las ciudades están llenas de situaciones, de gente con astucia sexual. Hay partes de mi cuerpo que ya no animo a las mujeres a tocar libremente. Estuve en una situación con una mujer en Detroit. Necesitaba mi semen para un juicio de divorcio. La ironía es que amo a las mujeres. Me desarmo al ver unas piernas largas, avanzando con paso vivo, mientras sube una brisa del río, un día de semana, en el juego de la luz de la mañana. La segunda ironía es que lo que deseo en último término no son los cuerpos de las mujeres, sino sus mentes. La mente de una mujer. Sus delicadas cámaras y su enorme flujo en una sola dirección, como un experimento de física. Qué divertido es hablar con una mujer inteligente que lleva medias mientras cruza las piernas. Ese pequeño sonido estático del roce del nailon puede hacerme feliz en varios niveles. La tercera ironía, relacionada con las anteriores, es que las mujeres que siempre me atraen son las más complejas, neuróticas y difíciles. Me gustan los hombres sencillos y las mujeres complicadas».
+> [Párrafo 12](#original-wn-3-p12)
 
-> Varios días después, Murray me preguntó por una atracción turística conocida como el granero más fotografiado de América.
-> [Frase 205](#original-205)
+Murray admira el departamento que Jack ha construido alrededor de Hitler. Él quiere hacer algo semejante con Elvis Presley, el cantante, y pide ayuda.
 
-> Manejamos veintidós millas hacia el campo en torno a Farmington.
-> [Frase 206](#original-206)
+> Varios días después, Murray me preguntó por una atracción turística conocida como el granero más fotografiado de América. Condujimos veintidós millas hacia el campo, por los alrededores de Farmington. Había prados y huertos de manzanos. Las cercas blancas recorrían las ondulaciones del terreno. Pronto empezaron a aparecer los carteles. EL GRANERO MÁS FOTOGRAFIADO DE AMÉRICA. Contamos cinco antes de llegar al lugar. Había cuarenta coches y un autobús turístico en el estacionamiento improvisado. Caminamos por un sendero de vacas hasta el lugar ligeramente elevado reservado para mirar y fotografiar. Todo el mundo llevaba cámara; algunos tenían trípodes, teleobjetivos, juegos de filtros. Un hombre vendía en una caseta postales y diapositivas: fotos del granero tomadas desde el punto elevado. Nos detuvimos cerca de un grupo de árboles y miramos a los fotógrafos. Murray guardó un silencio prolongado, de vez en cuando garabateando notas en una libreta.
+> [Párrafo 16](#original-wn-3-p16)
 
-Hay prados, huertos de manzanos y vallas blancas, y empiezan a aparecer carteles. Jack cuenta:
-
-> Contamos cinco carteles antes de llegar al lugar.
-> [Frase 211](#original-211)
-
-Hay cuarenta autos y un autobús en el estacionamiento improvisado. Jack cuenta:
-
-> Caminamos por un sendero de vacas hasta el punto ligeramente elevado reservado para ver y fotografiar.
-> [Frase 213](#original-213)
-
-Todos tienen cámaras y un hombre vende postales. Jack cuenta:
-
-> Nos paramos cerca de una arboleda y miramos a los fotógrafos.
-> [Frase 216](#original-216)
-
-Murray guarda silencio y anota en una libreta. Dice que nadie ve el granero: tras ver los carteles, es imposible verlo. Dice que cada foto refuerza el aura y que son parte de una percepción colectiva. La gente toma fotos de tomar fotos. Jack cuenta:
-
-> Escuchamos el incesante chasquido de los botones del obturador, el crujido de las palancas que hacían avanzar la película.
-> [Frase 238](#original-238)
-
-Murray pregunta cómo era el granero antes de ser fotografiado y concluye que no pueden salir del aura. Se le ve muy contento.
+Para Murray, los carteles impiden ver el granero: cada visitante confirma con su foto la imagen que ya traía. Todos aceptan mirar lo mismo. Ya no pueden saber cómo era antes de las fotografías. La idea lo deja satisfecho.
 
 ---
 
@@ -129,43 +87,20 @@ Murray pregunta cómo era el granero antes de ser fotografiado y concluye que no
 
 [![Óleo impresionista, al estilo de Eugène Boudin: una mujer con ropa deportiva gris sube corriendo las gradas de piedra de un estadio y se apoya en el parapeto; al otro lado del campo, un hombre con gafas oscuras la mira sentado; el cielo está lleno de nubes alargadas y una avioneta cruza sobre los árboles.](../img/261025_white-noise_quien-morira-primero.jpg)](../img/261025_white-noise_quien-morira-primero.jpg)
 
-Jack mira desde el estadio de un colegio a Babette, que corre escaleras arriba. Jack cuenta:
+En Blacksmith, los adultos y niños comen sin descanso; los ancianos parecen escapar de esa fiebre. Jack encuentra a Babette ejercitándose en las gradas de la escuela. La abraza en la pista. Piensa en sus fuerzas desiguales y se pregunta quién morirá primero.
 
-> Tenía la cara inclinada hacia arriba, captando el aire fresco, y no me vio.
-> [Frase 259](#original-259)
+> Esta pregunta surge de vez en cuando, como dónde están las llaves del coche. Cierra una frase, prolonga una mirada entre nosotros. Me pregunto si la idea misma forma parte de la naturaleza del amor físico, un darwinismo al revés que premia al superviviente con tristeza y miedo. ¿O es algún elemento inerte del aire que respiramos, algo raro como el neón, con un punto de fusión, un peso atómico? La abracé en la pista de ceniza. Venían niños corriendo hacia nosotros, treinta chicas con pantalones cortos de colores vivos, una masa improbable que subía y bajaba. La respiración ansiosa, los ritmos superpuestos de sus pisadas. A veces pienso que nuestro amor es inexperto. La pregunta por la muerte se convierte en un sabio recordatorio. Nos cura de nuestra inocencia del futuro. Las cosas sencillas están condenadas, ¿o es una superstición? Vimos a las chicas dar otra vuelta. Ahora estaban separadas, con caras y maneras de andar propias, casi sin peso en su afán, capaces de pisar con ligereza.
+> [Párrafo 7](#original-wn-4-p7)
 
-> Después del último descenso me reuní con ella en el borde del campo de juego y la abracé, poniendo las manos dentro de la cintura elástica de sus pantalones grises de algodón.
-> [Frase 266](#original-266)
+De regreso, Jack anuncia que su hija Bee quiere visitarlos en Navidad. Las dudas de Babette sobre un antiguo viaje familiar los llevan de una ciudad de Disney a otra.
 
-Babette corre, palea nieve y lee clásicos eróticos en voz alta. Jack cuenta:
+> Mi hija Bee, de mi matrimonio con Tweedy Browner, acababa de empezar séptimo grado en un suburbio de Washington y le costaba readaptarse a la vida en Estados Unidos después de dos años en Corea del Sur. Iba a la escuela en taxi, llamaba por teléfono a amigos de Seúl y Tokio. En el extranjero había querido comer sándwiches de kétchup con palitos Trix. Ahora cocinaba platos fieros y chisporroteantes de manojos de cebollín y camarones pequeños, acaparando la cocina de calidad profesional de Tweedy.
+> [Párrafo 17](#original-wn-4-p17)
 
-> Ella planea viajes de esquí que nunca hacemos, con la cara radiante de entusiasmo.
-> [Frase 276](#original-276)
+> Aquella noche, un viernes, pedimos comida china y vimos la televisión juntos, los seis. Babette lo había impuesto como regla. Parecía pensar que, si los niños veían la televisión una noche por semana con sus padres o padrastros, el efecto sería quitarle su encanto al medio, convertirlo en un sano entretenimiento doméstico. Su resaca narcótica y su extraño poder enfermizo de sorber cerebros se irían reduciendo. Me sentía vagamente agraviado por este razonamiento. La velada era, de hecho, una forma sutil de castigo para todos. Heinrich permanecía callado ante sus rollitos de primavera. Steffie se alteraba cada vez que parecía a punto de pasarle algo vergonzoso o humillante a alguien en la pantalla. Tenía una enorme capacidad para sentir vergüenza ajena. A menudo salía de la habitación hasta que Denise le indicaba que la escena había terminado. Denise aprovechaba estas ocasiones para aconsejar a la pequeña que fuera dura, sobre la necesidad de ser mala en el mundo, de tener la piel gruesa.
+> [Párrafo 18](#original-wn-4-p18)
 
-Jack sube la colina hacia la universidad y se pregunta quién morirá primero. En la pista de ceniza abraza a Babette. Jack cuenta:
-
-> Nos cura de nuestra inocencia respecto del futuro.
-> [Frase 288](#original-288)
-
-> Vimos a las chicas dar otra vuelta.
-> [Frase 290](#original-290)
-
-De camino a casa, Jack dice que Bee quiere visitarlos en Navidad. Jack cuenta:
-
-> «Podemos ponerla con Steffie.»
-> [Frase 294](#original-294)
-
-Bee y Steffie se conocieron en Disney World. Bee, hija de Jack y de Tweedy Browner, vuelve de dos años en Corea del Sur. Jack cuenta:
-
-> Esa noche, un viernes, pedimos comida china y vimos televisión juntos, los seis.
-> [Frase 308](#original-308)
-
-Babette impuso ver televisión una noche por semana con los hijos. Los viernes, después de la tele, Jack lee a Hitler hasta tarde. Jack cuenta:
-
-> Una de esas noches me metí en la cama junto a Babette y le conté cómo el rector me había aconsejado, allá por 1968, que hiciera algo con mi nombre y mi aspecto si quería que me tomaran en serio como innovador de Hitler.
-> [Frase 320](#original-320)
-
-El rector le sugiere inventar la inicial J. A. K. y engordar para parecerse a Hitler.
+Después de la televisión, Jack estudia a Hitler. Recuerda al rector que le aconsejó inventar una inicial, llamarse J. A. K. Gladney y ganar corpulencia. Las gafas oscuras fueron idea suya. Babette encuentra prestigioso el nombre; él se siente el personaje falso que lo sigue.
 
 ---
 
@@ -173,41 +108,24 @@ El rector le sugiere inventar la inicial J. A. K. y engordar para parecerse a Hi
 
 [![Óleo impresionista, al estilo de Eugène Boudin: en un supermercado luminoso, un hombre encorvado de barba y ropa de pana sostiene un frasco blanco de maní frente a una mujer de pelo abundante, junto a un carrito lleno de envases blancos que empuja un hombre corpulento de gafas oscuras; al fondo, una mujer caída entre libros de bolsillo.](../img/261025_white-noise_envases-blancos.jpg)](../img/261025_white-noise_envases-blancos.jpg)
 
-Jack disfruta los días sin rumbo, pero teme una aceleración; una noche cree caer a través de sí mismo y piensa que la muerte debería ser una zambullida elegante. Jack cuenta:
+Jack quiere disfrutar los días sin rumbo mientras duren. Babette lee los horóscopos durante el desayuno; él intenta no escuchar el suyo. Por la noche oye la televisión recomendar una postura de meditación.
 
-> Nos topamos con Murray Jay Siskind en el supermercado.
-> [Frase 344](#original-344)
+> Aquella noche, segundos después de dormirme, me pareció caer a través de mí mismo, una caída corta que me paró el corazón. Desperté de golpe y miré la oscuridad, comprendiendo que había experimentado la contracción muscular más o menos normal conocida como sacudida mioclónica. ¿Es así, abrupta, perentoria? ¿No debería la muerte, pensé, ser una zambullida de cisne, elegante, de alas blancas y suave, que dejara la superficie intacta?
+> [Párrafo 4](#original-wn-5-p4)
 
-Murray lleva alimentos genéricos en paquetes blancos: latas de DURAZNOS EN CONSERVA, cacahuates IRREGULARES. Jack cuenta:
+Una sacudida mioclónica es una contracción muscular involuntaria. Aquí, un movimiento del cuerpo al dormirse se convierte para Jack en ensayo de su final.
 
-> Murray no dejaba de asentir hacia Babette mientras yo los presentaba.
-> [Frase 349](#original-349)
+En el supermercado encuentran a Murray, que compra productos sin marca: ve en los envases blancos una austeridad espiritual. Huele las compras y admira a Babette. Jack cuenta cómo ella lloró al morir su madre y al lastimarse Steffie, que no es hija suya.
 
-Murray dice que los envases sin sabor son la nueva austeridad, la última vanguardia. Elogia el cabello de Babette. Murray dice:
+> Los tres salimos juntos, tratando de maniobrar los carritos entre los libros de bolsillo esparcidos por la entrada. Murray llevó uno de nuestros carritos al estacionamiento y luego nos ayudó a alzar y empujar toda la mercancía, embolsada por partida doble, hasta la parte trasera de la camioneta. Los coches entraban y salían. La mujer policía recorría la zona en su minitaxi con cremallera, buscando banderas rojas en los parquímetros. Añadimos la única bolsa ligera de productos blancos de Murray a nuestra carga y cruzamos Elm en dirección a su pensión. Me parecía que Babette y yo, en la masa y variedad de nuestras compras, en la pura abundancia que sugerían aquellas bolsas atestadas, el peso y el tamaño y la cantidad, los diseños conocidos de los envases y sus letras vivas, los tamaños gigantes, los paquetes familiares con pegatinas de oferta fluorescentes, en la sensación de renovación que sentíamos, la sensación de bienestar, la seguridad y el contento que estos productos traían a algún rincón acogedor de nuestras almas, me parecía que habíamos alcanzado una plenitud del ser desconocida para quienes necesitan menos, esperan menos, para quienes organizan su vida alrededor de paseos solitarios al atardecer.
+> [Párrafo 31](#original-wn-5-p31)
 
-> «Espero que aprecies a esa mujer.»
-> [Frase 389](#original-389)
+Llevan a Murray hasta su pensión. Él toma la mano de Babette y comenta que su cuarto apenas admite a dos personas si no están dispuestas a intimar.
 
-Murray supone que Babette sería firme en una tragedia familiar. Jack responde que se derrumba. Jack cuenta:
+> Murray es capaz de adoptar una expresión furtiva y franca al mismo tiempo. Es una expresión que da el mismo crédito al desastre y al éxito lascivo. Dice que, en los viejos tiempos de sus enredos urbanos, creía que solo había una forma de seducir a una mujer: con deseo claro y abierto. Se esmeraba en evitar el menosprecio de sí mismo, la burla de sí mismo, la ambigüedad, la ironía, la sutileza, la vulnerabilidad, el hartazgo civilizado del mundo y un sentido trágico de la historia: precisamente lo que, según él, le resulta más natural. De todo ello solo ha permitido que un elemento, la vulnerabilidad, se incorpore poco a poco a su programa de lujuria directa. Intenta desarrollar una vulnerabilidad que las mujeres encuentren atractiva. La trabaja de forma consciente, como un hombre en un gimnasio con pesas y un espejo. Pero hasta ahora sus esfuerzos solo han producido esa expresión medio furtiva, entre avergonzada y zalamera.
+> [Párrafo 34](#original-wn-5-p34)
 
-> Los tres nos fuimos juntos, intentando maniobrar nuestros carritos entre los libros de bolsillo esparcidos por la entrada.
-> [Frase 411](#original-411)
-
-> Murray llevó rodando uno de nuestros carritos hasta el estacionamiento y luego nos ayudó a levantar y empujar toda nuestra mercadería en doble bolsa hacia la parte trasera de la camioneta.
-> [Frase 412](#original-412)
-
-Cargan las compras en la camioneta y llevan a Murray a su pensión. Murray dice:
-
-> «Les pediría que visitaran mi cuarto, pero es demasiado pequeño para dos personas, a menos que estén dispuestas a ser íntimas.»
-> [Frase 418](#original-418)
-
-Murray intenta desarrollar una vulnerabilidad que las mujeres encuentren atractiva. Jack cuenta:
-
-> Nos dio las gracias por llevarlo.
-> [Frase 427](#original-427)
-
-> Lo vimos caminar hacia el porche torcido, apuntalado con bloques de cemento, donde un hombre en una mecedora miraba al vacío.
-> [Frase 428](#original-428)
+Murray agradece el viaje y camina hacia el porche torcido, sostenido con bloques, donde un hombre mira al vacío desde una mecedora.
 
 ---
 
@@ -215,66 +133,35 @@ Murray intenta desarrollar una vulnerabilidad que las mujeres encuentren atracti
 
 [![Óleo impresionista, al estilo de Eugène Boudin: desde el interior de una camioneta, un hombre barbudo con gafas oscuras conduce y a su lado un muchacho con gorra de camuflaje mira por el parabrisas mojado a una mujer de impermeable amarillo que detiene el tráfico para que crucen unos niños frente a una escuela de ladrillo.](../img/261025_white-noise_llueve-o-no.jpg)](../img/261025_white-noise_llueve-o-no.jpg)
 
-A Heinrich, de catorce años, le retrocede el pelo. Jack se pregunta si lo crió cerca de un vertedero químico. Jack cuenta:
+> A Heinrich se le está empezando a retirar el pelo de la frente. Me pregunto por qué. ¿Consumió su madre alguna sustancia capaz de perforar los genes cuando estaba embarazada? ¿Tengo yo alguna culpa? ¿Lo he criado, sin saberlo, cerca de un vertedero químico, en el camino de corrientes de aire que transportan residuos industriales capaces de producir degeneración del cuero cabelludo, atardeceres gloriosos? (La gente dice que los atardeceres de aquí no eran ni de lejos tan asombrosos hace treinta o cuarenta años). La culpa del hombre en la historia y en las mareas de su propia sangre se ha complicado con la tecnología, con la muerte diaria que se filtra a traición.
+> [Párrafo 1](#original-wn-6-p1)
 
-> ¿Lo he criado, sin saberlo, cerca de un vertedero químico, en la trayectoria de corrientes de aire que llevan desechos industriales capaces de producir degeneración del cuero cabelludo, gloriosos atardeceres?
-> [Frase 433](#original-433)
+> El chico tiene catorce años, a menudo es evasivo y malhumorado, otras veces inquietantemente dócil. Tengo la impresión de que su pronta aceptación de nuestros deseos y exigencias es un arma privada de reproche. Babette teme que acabe atrincherado en una habitación, disparando cientos de disparos de armas automáticas contra un centro comercial vacío antes de que vayan a buscarlo los equipos especiales de la policía, con sus armas de cañón pesado, sus megáfonos y sus chalecos antibalas.
+> [Párrafo 2](#original-wn-6-p2)
 
-Heinrich dice que lloverá esta noche. Jack dice que ya llueve. Jack cuenta:
+Jack lleva a Heinrich a la escuela bajo la lluvia. El hijo prefiere el pronóstico de la radio a lo que ve en el parabrisas: cuestiona los sentidos, el presente, la posición del observador y hasta que aquello sea agua. Jack intenta arrancarle una respuesta sencilla.
 
-> Lo llevé a la escuela en su primer día de regreso después de un dolor de garganta y fiebre.
-> [Frase 442](#original-442)
+> «De primera», le dije. «Una victoria para la incertidumbre, el azar y el caos. La hora más gloriosa de la ciencia».
+> [Párrafo 39](#original-wn-6-p39)
 
-Una mujer con impermeable amarillo detiene el tráfico para que crucen unos niños. Jack cuenta:
+Heinrich lo acusa de sarcasmo. Jack insiste en que los discutidores que parten cada distinción en otras más pequeñas viven su gran momento.
 
-> «Mira el parabrisas», dije.
-> [Frase 445](#original-445)
+Un ashram es una comunidad de vida y enseñanza espiritual. La novela presenta el de la madre de Heinrich a través de rumores, no de hechos comprobados por Jack.
 
-> «Solo te cuento lo que dijeron.»
-> [Frase 447](#original-447)
+> La madre de Heinrich vive ahora en un ashram. Ha adoptado el nombre de Madre Devi y lleva la parte comercial. El ashram está en las afueras del antiguo pueblo de fundición de cobre de Tubb, Montana, ahora llamado Dharamsalapur. Abundan los rumores de siempre sobre libertad sexual, esclavitud sexual, drogas, desnudez, control mental, falta de higiene, evasión de impuestos, culto a los monos, tortura, muerte prolongada y espantosa.
+> [Párrafo 43](#original-wn-6-p43)
 
-Heinrich dice que los sentidos fallan y que el tiempo está solo en la mente. Jack imagina a un hombre armado que exige saber si llueve. Heinrich dice:
+> Lo vi caminar bajo el aguacero hacia la entrada de la escuela. Avanzaba con deliberada lentitud, quitándose la gorra de camuflaje a diez yardas de la puerta. En momentos así siento que lo quiero con una desesperación animal, una necesidad de meterlo bajo mi abrigo y apretarlo contra mi pecho, mantenerlo ahí, protegerlo. Parece atraer el peligro. Se acumula en el aire, lo sigue de una habitación a otra. Babette hornea sus galletas favoritas. Lo miramos en su escritorio, una mesa sin pintar cubierta de libros y revistas. Trabaja hasta bien entrada la noche, planeando movimientos de ajedrez en una partida que juega por correo con un asesino condenado en la penitenciaría.
+> [Párrafo 44](#original-wn-6-p44)
 
-> «Quizá si esa gente pudiera vernos con un telescopio parezcamos medir dos pies y dos pulgadas de alto, y podría estar lloviendo ayer en vez de hoy.»
-> [Frase 475](#original-475)
+Al día siguiente, los alumnos de su curso avanzado sobre nazismo llegan a la sala de proyección.
 
-Jack le pone nombre al hombre armado. Heinrich duda de que exista el ahora, y Jack le pregunta si hay lluvia aquí y ahora. Heinrich dice:
+Goebbels fue el ministro de propaganda del régimen nazi. Las esvásticas y los reflectores pertenecen al aparato de sus ceremonias públicas.
 
-> «Si quieres hablar de este lugar preciso mientras vas en un vehículo que obviamente se mueve, entonces creo que ese es el problema de esta discusión.»
-> [Frase 495](#original-495)
+> Cada semestre organizaba una proyección de material de archivo. Consistía en películas de propaganda, escenas filmadas en congresos del partido, tomas descartadas de epopeyas místicas con desfiles de gimnastas y montañeros: una colección que yo había montado en un documental impresionista de ochenta minutos. Predominaban las escenas de multitudes. Primeros planos agitados de miles de personas fuera de un estadio después de un discurso de Goebbels, gente que se arremolinaba, se agolpaba, irrumpía en el tráfico. Salones colgados de banderas con esvásticas, con coronas mortuorias e insignias de calaveras. Filas de miles de abanderados ante columnas de luz inmóvil, ciento treinta reflectores antiaéreos apuntando hacia arriba: una escena que parecía un anhelo geométrico, la notación formal de algún poderoso deseo de masas. No había narrador. Solo cánticos, canciones, arias, discursos, gritos, vítores, acusaciones, alaridos.
+> [Párrafo 47](#original-wn-6-p47)
 
-> «Solo dame una respuesta, ¿de acuerdo, Heinrich?»
-> [Frase 496](#original-496)
-
-Jack insiste en que o llueve o no. Heinrich pregunta cómo saber que no es ácido sulfúrico. Heinrich dice:
-
-> ¿Cómo sé yo que lo que llamas lluvia es realmente lluvia?
-> [Frase 512](#original-512)
-
-Jack define la lluvia como lo que cae del cielo y moja. Heinrich pregunta si Jack está mojado. Jack cuenta:
-
-> «De primera», le dije.
-> [Frase 520](#original-520)
-
-Jack celebra la victoria de la incertidumbre. Heinrich le dice que sea sarcástico. Heinrich dice:
-
-> «Adelante, sé sarcástico, no me importa.»
-> [Frase 525](#original-525)
-
-La madre de Heinrich vive en un ashram. Jack cuenta:
-
-> Vi cómo caminaba bajo el aguacero hasta la entrada de la escuela.
-> [Frase 530](#original-530)
-
-Heinrich se quita la gorra. Jack cuenta:
-
-> En esos momentos descubro que lo amo con una desesperación animal, la necesidad de llevarlo bajo mi abrigo y estrujarlo contra mi pecho, mantenerlo allí, protegerlo.
-> [Frase 532](#original-532)
-
-> Lo vemos en su escritorio, una mesa sin pintar cubierta de libros y revistas.
-> [Frase 536](#original-536)
-
-Babette hornea sus galletas favoritas. Heinrich juega ajedrez por correo con un asesino. Jack da su clase de Nazismo Avanzado y habla de las tramas, que tienden hacia la muerte.
+Jack observa entrar a los estudiantes y deja crecer el silencio. Tras la película, una pregunta sobre el complot contra Hitler lo lleva a afirmar que toda trama avanza hacia la muerte. Luego duda de sus propias palabras.
 
 ---
 
@@ -282,46 +169,35 @@ Babette hornea sus galletas favoritas. Heinrich juega ajedrez por correo con un 
 
 [![Óleo impresionista, al estilo de Eugène Boudin: sobre una mesa, junto a una lámpara, un álbum de fotos antiguas abierto, con niños, mujeres con sombrero y un hombre que se protege los ojos del sol; dos manos pasan la página y por la ventana se ven la luna y un triciclo bajo la luz de un porche.](../img/261025_white-noise_quien-complace-a-quien.jpg)](../img/261025_white-noise_quien-complace-a-quien.jpg)
 
-Dos noches por semana Babette da clases de postura a ancianos en una iglesia. Esa noche Jack y ella se desvisten en el dormitorio.
+> Dos noches por semana Babette va a la iglesia congregacional del otro extremo del pueblo y da clases de postura correcta a adultos en el sótano. Básicamente les enseña a estar de pie, sentarse y caminar. Casi todos sus alumnos son viejos. No tengo claro por qué quieren mejorar su postura. Parece que creemos posible mantener a raya la muerte siguiendo reglas de buen arreglo personal. A veces acompaño a mi mujer al sótano de la iglesia y la veo ponerse de pie, girar, adoptar distintas poses heroicas, gesticular con gracia. Hace referencias al yoga, al kendo, a caminar en trance. Habla de derviches sufíes, de montañeros sherpas. Los viejos asienten y escuchan. Nada es extraño, nada está demasiado lejos para aplicarlo. Siempre me sorprenden su aceptación y confianza, la dulzura de su fe. Nada es demasiado dudoso para servirles mientras buscan redimir sus cuerpos de toda una vida de malas posturas. Es el fin del escepticismo.
+> [Párrafo 1](#original-wn-7-p1)
 
-Cada uno quiere complacer al otro. Babette ofrece leerle. Jack dice:
+La clase mezcla prácticas de lugares y tradiciones diferentes: yoga, kendo (esgrima japonesa), derviches de la tradición sufí y sherpas del Himalaya. Para Jack, importa la confianza con que los alumnos reciben todo eso.
 
-> «Pensé que a ti también te gustaba.»
-> [Frase 612](#original-612)
+> Volvimos a casa bajo una luna de color de caléndula. Nuestra casa parecía vieja y pálida al final de la calle, con la luz del porche sobre un triciclo de plástico moldeado, una pila de leños de aserrín y cera que daban tres horas de llamas de colores. Denise hacía la tarea en la cocina, vigilando a Wilder, que había bajado a sentarse en el suelo y mirar por la ventana del horno. Silencio en los pasillos, sombras en el césped en pendiente. Cerramos la puerta y nos desnudamos. La cama era un desorden. Revistas, barras de cortina, un calcetín infantil lleno de hollín. Babette tarareó algo de un espectáculo de Broadway, poniendo las barras en un rincón. Nos abrazamos, caímos de lado en la cama de forma controlada y luego nos acomodamos, bañándonos en la carne del otro, tratando de quitarnos las sábanas de los tobillos a patadas. Su cuerpo tenía varios huecos largos, lugares donde la mano podía detenerse a resolver algo en la oscuridad, lugares que frenaban el ritmo.
+> [Párrafo 2](#original-wn-7-p2)
 
-Babette dice que el beneficio es de quien escucha. Jack le recuerda que a ella le gusta leer pasajes eróticos. Babette dice:
+En la cama, cada uno insiste en hacer lo que agrade al otro. Babette propone leer algo erótico. Discuten quién disfruta, quién elige y quién carga con la obligación de ser complacido. La televisión del pasillo intercala una explicación de geología.
 
-> «Si a ti te agrada, entonces me gusta hacerlo.»
-> [Frase 617](#original-617)
+> Dije: «Escoge tu siglo. ¿Quieres leer sobre esclavas etruscas, libertinos de la época georgiana? Creo que tenemos algo sobre burdeles de flagelación. ¿Qué tal la Edad Media? Tenemos íncubos y súcubos. Monjas de sobra».
+> [Párrafo 30](#original-wn-7-p30)
 
-Jack dice que también debe agradarle a ella. Babette dice:
+Jack ofrece un catálogo de fantasías: antiguos etruscos, libertinos de otra época e íncubos y súcubos, seres imaginarios que visitan sexualmente a los durmientes.
 
-> «Me agrada que disfrutes mi lectura.»
-> [Frase 620](#original-620)
+Finalmente él escogerá el texto y ella lo leerá.
 
-Babette quiere leer. Jack le pide que elija un siglo y le propone lecturas. Cada uno quiere que el otro elija. Babette dice:
+> «Yo leeré», dijo ella. «Pero no quiero que escojas nada que tenga hombres dentro de mujeres, entre comillas, ni hombres entrando en mujeres. “Entré en ella”. “Él entró en mí”. No somos vestíbulos ni ascensores. “Lo quería dentro de mí”, como si pudiera meterse entero, firmar el registro, dormir, comer, etcétera. ¿Podemos acordar eso? No me importa lo que hagan esas personas, siempre que no entren ni se dejen entrar».
+> [Párrafo 35](#original-wn-7-p35)
 
-> ¿No queremos un equilibrio, una especie de toma y daca?
-> [Frase 640](#original-640)
+Jack acepta. Babette sigue burlándose de esas expresiones sexuales, que convierten el cuerpo femenino en un edificio al que se entra.
 
-Jack elegirá y ella leerá. Babette dice:
+> Empecé a sentir que se me levantaba una erección. Qué estúpido y fuera de contexto. Babette se rio de sus propias frases. La televisión dijo: «Hasta que unos cirujanos de Florida le colocaron una aleta artificial».
+> [Párrafo 42](#original-wn-7-p42)
 
-> «Pero no quiero que elijas nada que tenga hombres dentro de mujeres, entre comillas, o hombres que entran en mujeres. “Entré en ella.” “Él entró en mí.” No somos vestíbulos ni ascensores. “Lo quería dentro de mí”, como si pudiera arrastrarse del todo hacia adentro, firmar el registro, dormir, comer, y así sucesivamente.»
-> [Frase 646](#original-646)
+> Babette y yo nos contamos todo. Le he contado todo, tal como era entonces, a cada una de mis esposas. Hay más que contar, por supuesto, a medida que se acumulan los matrimonios. Pero cuando digo que creo en la revelación completa no lo digo en un sentido barato, como diversión anecdótica o confesión superficial. Es una forma de renovarse y un gesto de confianza en la custodia del otro. El amor nos ayuda a desarrollar una identidad lo bastante segura para dejarse poner al cuidado y bajo la protección de otro. Babette y yo hemos vuelto nuestras vidas para la atenta consideración del otro, las hemos vuelto a la luz de la luna en nuestras manos pálidas, hemos hablado hasta muy entrada la noche de padres y madres, infancia, amistades, despertares, viejos amores, viejos miedos (salvo el miedo a la muerte). No debe quedar fuera ningún detalle, ni siquiera un perro con garrapatas o el hijo de un vecino que se comió un insecto por una apuesta. El olor de las despensas, la sensación de las tardes vacías, el tacto de las cosas al llover sobre nuestra piel, las cosas como hechos y pasiones, la sensación del dolor, la pérdida, la decepción, el deleite sin aliento. En estos relatos nocturnos creamos un espacio entre las cosas tal como las sentimos entonces y tal como las contamos ahora. Es el espacio reservado para la ironía, la compasión y la diversión afectuosa, los medios por los que nos rescatamos del pasado.
+> [Párrafo 43](#original-wn-7-p43)
 
-Babette se ríe de sus propias frases eróticas. Jack y Babette se cuentan todo. Jack cuenta:
-
-> En estos recitales nocturnos creamos un espacio entre las cosas como las sentimos en su momento y como las decimos ahora.
-> [Frase 669](#original-669)
-
-Jack elige el siglo veinte y va a buscar una revista al cuarto de Heinrich. Jack cuenta:
-
-> Me puse la bata y fui por el pasillo hasta el cuarto de Heinrich a buscar una revista chabacana de la que Babette pudiera leer, de esas que traen cartas de lectores que detallan sus experiencias sexuales.
-> [Frase 672](#original-672)
-
-Heinrich hace un experimento con Wilder. Jack encuentra álbumes de fotos, y él y Babette pasan horas revisándolos, sentados en la cama.
-
-En las fotos, la gente se ve escéptica ante la cámara. Jack se pregunta quién morirá primero.
+Jack busca una revista en el cuarto de Heinrich, donde Wilder observa un experimento con bolas y un cuenco. Encuentra álbumes familiares y los lleva al dormitorio. Pasan horas mirando antepasados, señales de parecido y herencias. Vuelve la pregunta: quién morirá primero.
 
 ---
 
@@ -329,33 +205,27 @@ En las fotos, la gente se ve escéptica ante la cámara. Jack se pregunta quién
 
 [![Óleo impresionista, al estilo de Eugène Boudin: en un cuarto atestado, junto a una tabla de planchar y un radiador, un hombre delgado en camisa habla con gesto tenso a otro, muy corpulento, con toga negra y gafas oscuras, que toma notas en un cuaderno; a un lado, un catre con manta militar.](../img/261025_white-noise_lecciones-de-aleman.jpg)](../img/261025_white-noise_lecciones-de-aleman.jpg)
 
-Jack es la máxima figura de los estudios sobre Hitler en Norteamérica y oculta que no sabe alemán. Quiere aprenderlo en secreto. Jack cuenta:
+El especialista en Hitler oculta una vergüenza: no sabe alemán, aunque sus alumnos deben estudiarlo. En octubre decide volver a intentarlo.
 
-> Me puse en contacto con un hombre sin vínculos con la universidad, alguien de quien Murray Jay Siskind me había hablado.
-> [Frase 706](#original-706)
+> Había hecho varios intentos de aprender alemán, exploraciones serias de los orígenes, las estructuras, las raíces. Percibía el poder mortal del idioma. Quería hablarlo bien, usarlo como un amuleto, un dispositivo protector. Cuanto más retrocedía ante el aprendizaje de palabras, reglas y pronunciación concretas, más importante me parecía seguir adelante. Aquello que nos resistimos a tocar a menudo parece el tejido mismo de nuestra salvación. Pero los sonidos básicos me derrotaban, la áspera condición norteña de las palabras y las sílabas, que salían a borbotones, el tono de mando. Algo ocurría entre el fondo de mi lengua y el paladar que convertía en una burla mis intentos de pronunciar palabras alemanas.
+> [Párrafo 3](#original-wn-8-p3)
 
-El hombre se llama Howard Dunlop y vive en la pensión de Murray. Jack cuenta:
+Para no arriesgar su autoridad, Jack necesita clases secretas. Murray lo pone en contacto con Howard Dunlop, antiguo quiropráctico y vecino de su pensión, que no explica dónde aprendió alemán.
 
-> Dijo que había sido quiropráctico, pero no ofreció una razón por la que ya no ejercía, y no dijo cuándo había aprendido alemán, ni por qué, y algo en su manera me impidió preguntar.
-> [Frase 712](#original-712)
+> Nos sentamos en su habitación oscura y atestada de la pensión. Había una tabla de planchar abierta junto a la ventana. Cacerolas de esmalte desconchado, bandejas de utensilios sobre una cómoda. Los muebles eran vagos, expósitos. En los bordes de la habitación estaban las cosas elementales. Un radiador descubierto, un catre con una manta militar. Dunlop se sentó en el borde de una silla recta, entonando generalidades gramaticales. Cuando pasaba del inglés al alemán, era como si le hubieran retorcido una cuerda en la laringe. Una emoción brusca entraba en su voz, un raspado y un gorgoteo que sonaban como el despertar de la ambición de alguna bestia. Me miraba boquiabierto y gesticulaba, graznaba, rozaba la estrangulación. Los sonidos salían a borbotones de la base de su lengua, ruidos ásperos, húmedos de pasión. Solo demostraba algunos patrones básicos de pronunciación, pero la transformación de su cara y su voz me hacía pensar que atravesaba niveles del ser.
+> [Párrafo 8](#original-wn-8-p8)
 
-Dunlop da clases en su cuarto oscuro; al hablar alemán parece estrangularse. Jack le pide que no hable de las lecciones y va a buscar a Murray. Jack cuenta:
+Jack toma notas y pide discreción. Invita a Murray a cenar. Camino a casa, este acusa de intolerancia al casero porque sabe arreglar cosas. Jack explica su urgencia: en primavera recibirá a especialistas en Hitler, incluidos alemanes.
 
-> Nos detuvimos en el porche el tiempo suficiente para que Murray le contara al casero, que estaba sentado allí, de un grifo que goteaba en el baño del segundo piso.
-> [Frase 731](#original-731)
+> En casa, Denise puso una bolsa húmeda de basura en el compactador de la cocina. Encendió la máquina. El pistón bajó con un espantoso sonido de torsión, lleno de una sensación extraña. Los niños entraban y salían de la cocina, el agua goteaba en el fregadero, la lavadora se sacudía en el recibidor. Murray parecía absorto en la trama incidental. Metal que chirriaba, botellas que estallaban, plástico aplastado. Denise escuchaba con atención, asegurándose de que el estruendo triturador contuviera los elementos sonoros correctos, lo que significaba que la máquina funcionaba bien.
+> [Párrafo 22](#original-wn-8-p22)
 
-> El casero era un hombre corpulento y rubicundo, de una salud tan robusta y desbordante que parecía estar sufriendo un infarto incluso mientras lo mirábamos.
-> [Frase 732](#original-732)
+Heinrich habla por teléfono sobre el incesto entre animales.
 
-> «Ya se ocupará de arreglarlo», dijo Murray, mientras salíamos a pie en dirección a Elm.
-> [Frase 733](#original-733)
+> Babette entró de correr, con la ropa empapada. Murray cruzó la cocina para estrecharle la mano. Ella se dejó caer en una silla, recorrió la habitación con la mirada buscando a Wilder. Vi a Denise comparar mentalmente la ropa de correr de su madre con la bolsa mojada que había echado al compactador. Podía verlo en sus ojos, una relación sardónica. Eran estos niveles secundarios de la vida, estos destellos extrasensoriales y matices flotantes del ser, estas bolsas de entendimiento que se formaban sin aviso, los que me hacían creer que éramos un número de magia, adultos y niños juntos, compartiendo cosas inexplicables.
+> [Párrafo 24](#original-wn-8-p24)
 
-Murray dice que el casero es un fanático, como todos los que arreglan cosas, y pregunta por qué Jack aprende alemán justo este año. Jack dice que hay un congreso sobre Hitler en primavera. En casa, Denise enciende el compactador de basura, y Babette llega de correr. Steffie dice:
-
-> «Tenemos que hervir nuestra agua», dijo Steffie.
-> [Frase 767](#original-767)
-
-Babette dice que siempre dicen eso. Heinrich habla por teléfono de neutrinos.
+Steffie anuncia que deben hervir el agua porque lo dijo la radio. Babette lo recibe como otra recomendación de moda. Wilder llega, ella le hace caras y ya pueden comer. Heinrich sigue al teléfono: los neutrinos atraviesan la Tierra.
 
 ---
 
@@ -363,54 +233,37 @@ Babette dice que siempre dicen eso. Heinrich habla por teléfono de neutrinos.
 
 [![Pasillo luminoso de un supermercado: Murray, barbudo y de chaqueta de pana, habla de cerca con Babette junto a un carrito, mientras Wilder, sentado en otro, alcanza una caja de la estantería.](../img/261025_white-noise_la-invitacion-de-murray.jpg)](../img/261025_white-noise_la-invitacion-de-murray.jpg)
 
-En el colegio de los niños evacuan a todos: dolores de cabeza, sabor a metal, una maestra que habla lenguas extrañas. Nadie sabe la causa. Jack cuenta:
+Evacúan la escuela: los niños sufren dolores e irritación y nadie identifica la causa. Los trajes de los inspectores también son sospechosos y habrá otra revisión. La familia va al supermercado; Murray reaparece y agradece la cena. Wilder viaja en el carrito.
 
-> Minutos después de entrar, nos topamos con Murray.
-> [Frase 785](#original-785)
+> Steffie me tomó de la mano y pasamos junto a los cajones de fruta, una zona que se extendía unas cuarenta y cinco yardas a lo largo de una pared. Los cajones estaban dispuestos en diagonal y tenían detrás espejos que la gente golpeaba por accidente al alcanzar la fruta de las filas superiores. Una voz dijo por el altavoz: «Kleenex Softique, su camión está bloqueando la entrada». Manzanas y limones caían al suelo de dos en dos o de tres en tres cuando alguien cogía fruta de ciertos puntos de la pila. Había seis clases de manzanas, había melones exóticos de varios tonos pastel. Todo parecía estar de temporada, rociado, pulido, brillante. La gente arrancaba de los soportes bolsas finísimas y trataba de averiguar por qué extremo se abrían. Comprendí que el lugar estaba inundado de ruido. Los sistemas sin tono, el traqueteo y el patinar de los carritos, el altavoz y las cafeteras, los gritos de los niños. Y por encima de todo, o por debajo, un rugido sordo e imposible de situar, como de alguna forma de vida que bullera justo fuera del alcance de la comprensión humana.
+> [Párrafo 11](#original-wn-9-p11)
 
-> Pasamos a la zona de alimentos genéricos y Murray se detuvo con su cesta de plástico a hurgar entre los cartones y los frascos blancos.
-> [Frase 802](#original-802)
+Jack pide a Steffie que devuelva a Denise su libro de medicamentos. La niña explica por qué Denise lo consulta: busca efectos secundarios de algo que toma Babette. Cuando él pregunta qué toma, Steffie lo remite a ellas.
 
-En el supermercado, Murray dice que allí se aprende sobre la muerte. Babette cuenta que Denise lleva una visera verde a todas partes. Jack cuenta:
+> Murray salió de un pasillo y caminó junto a Babette, un poco por delante de nosotros. Sacó de su carrito un paquete doble de rollos de papel de cocina y lo olió. Denise había encontrado a unos amigos y fueron hacia la entrada para mirar los libros de bolsillo en sus estantes endebles, los libros de letras metálicas brillantes, letras en relieve, ilustraciones vivas de violencia de sectas y romances al viento. Denise llevaba una visera verde. Oí a Babette decirle a Murray que llevaba tres semanas usándola catorce horas al día. No salía sin ella, no salía siquiera de su habitación. La llevaba a la escuela, cuando había escuela, al baño, al sillón del dentista, a la mesa. Algo de la visera parecía hablarle, ofrecerle integridad e identidad.
+> [Párrafo 28](#original-wn-9-p28)
 
-> Oí a Babette decirle a Murray que llevaba catorce horas diarias con la visera, desde hacía tres semanas.
-> [Frase 841](#original-841)
+Murray ve la visera como el contacto de Denise con el mundo. Compara el supermercado con una espera entre la muerte y el renacimiento: cree que sus signos y su luz recargan a quienes compran.
 
-Murray habla de los tibetanos, y Babette escucha. Babette pregunta dónde está Wilder. Jack cuenta:
+> «Todo está oculto en el simbolismo, escondido por velos de misterio y capas de material cultural. Pero son datos psíquicos, sin duda. Las grandes puertas se abren deslizándose, se cierran sin que nadie se lo pida. Ondas de energía, radiación incidente. Aquí están todas las letras y todos los números, todos los colores del espectro, todas las voces y los sonidos, todas las palabras en clave y las frases ceremoniales. Es solo cuestión de descifrar, reordenar, desprender las capas de lo indecible. No es que quisiéramos hacerlo, ni que sirviera para algo. Esto no es el Tíbet. Ni siquiera el Tíbet es ya el Tíbet».
+> [Párrafo 32](#original-wn-9-p32)
 
-> Los tres adultos nos plantamos cada uno a la entrada de un pasillo y escrutamos el tráfico de carritos y de cuerpos que se deslizaban.
-> [Frase 909](#original-909)
+Murray sigue exponiendo su comparación: aceptar la muerte permitiría cruzarla sin terror; el supermercado, cerrado y sin tiempo, le recuerda los ritos que atribuye al Tíbet. Jack se acerca para oírlo.
 
-> Luego recorrimos tres pasillos más, con la cabeza adelantada, zigzagueando un poco mientras cambiábamos las líneas de visión.
-> [Frase 910](#original-910)
+> «Los supermercados así de grandes, limpios y modernos son una revelación para mí. Pasé la vida en pequeñas tiendas de comida preparada, llenas de vapor, con vitrinas inclinadas llenas de bandejas que contienen materia blanda, húmeda, grumosa y de colores pálidos. Vitrinas tan altas que había que ponerse de puntillas para pedir. Gritos, acentos. En las ciudades nadie se fija en una muerte concreta. Morir es una cualidad del aire. Está en todas partes y en ninguna. Los hombres gritan al morir, para que los noten, para que los recuerden uno o dos segundos. Morir en un apartamento en vez de una casa puede deprimir el alma, me imagino, durante varias vidas futuras. En un pueblo hay casas, plantas en miradores. La gente se fija mejor en la muerte. Los muertos tienen caras, automóviles. Si no conoces un nombre, conoces el de una calle, el de un perro. “Conducía un Mazda anaranjado”. Sabes dos cosas inútiles de una persona que se convierten en datos fundamentales de identificación y ubicación cósmica cuando muere de pronto, tras una breve enfermedad, en su propia cama, con un edredón y almohadas a juego, una tarde lluviosa de miércoles, con fiebre, algo congestionado de los senos nasales y el pecho, pensando en su ropa de la tintorería».
+> [Párrafo 36](#original-wn-9-p36)
 
-Murray ve a Wilder en el carrito de otra mujer. Jack cuenta:
+Babette descubre que Wilder ya no está en el carrito. Su mirada mide cuánto tiempo ha dejado de vigilarlo.
 
-> Antes de ir a la caja rápida, Murray nos invitó a cenar, dentro de ocho días, el sábado.
-> [Frase 921](#original-921)
+> Los tres adultos nos detuvimos cada uno en la cabecera de un pasillo y miramos entre el tráfico de carritos y cuerpos que se deslizaban. Luego hicimos otros tres pasillos, con la cabeza adelantada, moviéndonos un poco para cambiar el ángulo de visión. Yo seguía viendo manchas de colores a la derecha, pero cuando giraba no había nada. Llevaba años viendo manchas de colores, pero nunca tantas ni tan alegremente animadas. Murray vio a Wilder en el carrito de otra mujer. La mujer saludó a Babette y vino hacia nosotros. Vivía en nuestra calle con una hija adolescente y un bebé asiático, Chun Duc. Todos se referían al bebé por su nombre, casi con un tono de orgullosa posesión, pero nadie sabía de quién era Chun ni de dónde había venido.
+> [Párrafo 39](#original-wn-9-p39)
 
-> «No tienen que avisarme hasta el último minuto.»
-> [Frase 922](#original-922)
+Entre anuncios, Steffie aprieta la mano de Jack para tranquilizarlo. Murray los invita a cenar, insiste en que pueden cancelar y anuncia un posible curso sobre choques de cine.
 
-> «No voy a preparar nada importante, así que llamen antes y avísenme si surgió otra cosa.»
-> [Frase 924](#original-924)
+> Me froté contra Babette en la cola para pagar. Ella retrocedió hacia mí y yo la rodeé y le puse las manos en los pechos. Movió las caderas y yo hundí la nariz en su pelo y murmuré: «Rubio sucio». La gente extendía cheques, muchachos altos embolsaban la mercancía. No todos hablaban inglés en las cajas, ni cerca de los cajones de fruta y los congelados, ni entre los coches del estacionamiento. Cada vez oía más idiomas que no podía identificar y mucho menos entender, aunque los muchachos altos habían nacido en Estados Unidos y también las cajeras, bajas, algo gordas, con túnicas azules, pantalones elásticos y pequeñas alpargatas blancas. Intenté meter las manos en la falda de Babette, sobre su vientre, mientras la cola avanzaba lentamente hacia el último punto de compra, las pastillas de menta y los inhaladores nasales.
+> [Párrafo 54](#original-wn-9-p54)
 
-> «Si no aparecen, sabré que surgió algo y que no pudieron avisarme.»
-> [Frase 926](#original-926)
-
-> No quiero que sientan que los obligo a algo.
-> [Frase 932](#original-932)
-
-> Tengo que comer de todos modos, así que no es ninguna catástrofe si surge algo y tienen que cancelar.
-> [Frase 935](#original-935)
-
-> Solo quiero que sepan que estaré ahí si deciden pasar, con niños o sin ellos.
-> [Frase 936](#original-936)
-
-> «Tenemos hasta mayo o junio del año que viene para hacer esto, así que la cena del sábado no tiene ninguna mística especial.»
-> [Frase 937](#original-937)
-
-En la fila de la caja, Jack se pega a Babette. Afuera corre el rumor de que murió un hombre durante la inspección de la escuela.
+En el estacionamiento oyen el rumor de que uno de los inspectores de la escuela se desplomó y murió en un aula.
 
 ---
 
@@ -418,66 +271,46 @@ En la fila de la caja, Jack se pega a Babette. Afuera corre el rumor de que muri
 
 [![Heinrich, de calentador y con toalla al cuello, inclinado sobre un tablero de ajedrez con cartas; Jack lo mira desde la puerta, y al fondo Babette rompe huevos mientras dos niñas discuten.](../img/261025_white-noise_el-chicle-y-el-preso.jpg)](../img/261025_white-noise_el-chicle-y-el-preso.jpg)
 
-Denise ve cómo Babette abre un paquete de chicles. Dice que provoca cáncer en ratas de laboratorio. Babette responde, y Jack cuenta:
+> La matrícula del College-on-the-Hill cuesta catorce mil dólares, incluido el desayuno-almuerzo del domingo. Percibo una relación entre esta poderosa cifra y la forma en que los estudiantes acomodan el cuerpo en las zonas de lectura de la biblioteca. Se sientan en amplios asientos acolchados, en distintas posturas desmañadas, calculadas sin duda para ser signos de identificación de algún grupo de parentesco u organización secreta. Están en posición fetal, despatarrados, con las rodillas juntas, arqueados, anudados, a veces casi boca abajo. Las posturas son tan estudiadas que equivalen a una pantomima clásica. Hay un elemento de refinamiento excesivo y endogamia. A veces siento que he entrado en un sueño del Lejano Oriente, demasiado remoto para interpretarlo. Pero solo hablan el lenguaje de la clase económica, en una de sus formas externas permitidas, como la convocatoria de camionetas al empezar el curso.
+> [Párrafo 1](#original-wn-10-p1)
 
-> «Querías que mascara chicle sin azúcar, Denise.»
-> [Frase 963](#original-963)
+> Denise vio a su madre tirar de la pequeña cinta de celofán de un paquete de oferta de dieciséis chicles envueltos por separado. Entornó los ojos mientras volvía a las libretas de direcciones que tenía delante en la mesa de la cocina. Su cara de once años era una máscara experta de exasperación contenida.
+> [Párrafo 2](#original-wn-10-p2)
 
-> «Ahora ponen una advertencia, y me costaría creer que no la hayas visto.»
-> [Frase 966](#original-966)
+Denise señala la advertencia de cáncer del chicle. Babette contrapone el azúcar, los aditivos y volver a fumar; las niñas rechazan esas alternativas. Apartan una visita de los Stover y acaban atacando también los olvidos de su madre.
 
-> «No mastiques nada», dijo.
-> [Frase 974](#original-974)
+> Levanté a Wilder de una silla y le di un beso ruidoso en la oreja, y él se encogió de gusto. Luego lo puse en el mostrador y subí a buscar a Heinrich. Estaba en su habitación, estudiando la disposición de unas piezas de ajedrez de plástico.
+> [Párrafo 43](#original-wn-10-p43)
 
-Steffie cuelga el teléfono después de hablar con los Stover, y Babette sigue discutiendo con Denise. Jack cuenta:
+Jack pregunta por el preso con quien Heinrich juega por correo. El muchacho cree tenerlo acorralado en el tablero.
 
-> Me lanzó una mirada que se preguntaba cómo la niña podía hablar por teléfono y escucharnos al mismo tiempo.
-> [Frase 977](#original-977)
+> «Llevas meses jugando al ajedrez con ese hombre. ¿Qué sabes de él, aparte de que está condenado a cadena perpetua por asesinato? ¿Es joven, viejo, negro, blanco? ¿Se comunican de alguna manera, aparte de los movimientos de ajedrez?».
+> [Párrafo 48](#original-wn-10-p48)
 
-> Quise decir que era porque nos encuentra interesantes.
-> [Frase 978](#original-978)
+Heinrich dice que intercambian notas. El preso mató a cinco personas en Iron City y después a un policía estatal: la presión se le había acumulado.
 
-> Babette dijo a las niñas: «Miren, o mastico chicle o fumo.»
-> [Frase 979](#original-979)
+> «Seis personas. ¿Cuidaba sus armas de forma obsesiva? ¿Tenía un arsenal escondido en su cuartucho miserable junto a un estacionamiento de hormigón de seis pisos?».
+> [Párrafo 60](#original-wn-10-p60)
 
-> «Si quieren que empiece a fumar otra vez, quítenme el chicle y mi Mentho-Lyptus.»
-> [Frase 980](#original-980)
+Tenía pistolas y un rifle de cerrojo con mira.
 
-> «¿Por qué tienes que hacer una cosa o la otra?», dijo Steffie.
-> [Frase 981](#original-981)
+> «Una mira telescópica. ¿Disparó desde un paso elevado de la autopista, desde una habitación alquilada? ¿Entró en un bar, una lavandería, su antiguo lugar de trabajo y empezó a disparar sin discriminar? Gente dispersándose, refugiándose bajo las mesas. Gente en la calle pensando que oía petardos. “Estaba esperando el autobús cuando oí unos chasquidos como de petardos”».
+> [Párrafo 62](#original-wn-10-p62)
 
-> «¿Y por qué no hacer las dos?», dijo Denise, mientras la cara se le vaciaba con cuidado de toda expresión.
-> [Frase 983](#original-983)
+Heinrich precisa que disparó desde una azotea. Grabó cintas y las envió a personas queridas pidiendo perdón.
 
-> «No los queremos», dijo Babette.
-> [Frase 1004](#original-1004)
+> «“No puedo evitarlo, amigos”. ¿Las víctimas eran completos desconocidos? ¿Fue un crimen por rencor? ¿Lo habían despedido? ¿Había estado oyendo voces?».
+> [Párrafo 68](#original-wn-10-p68)
 
-Jack sube a ver a Heinrich, que juega al ajedrez por correo con un preso. Jack cuenta:
+Eran desconocidos. La televisión le prometía entrar en la historia; pero en Iron City no había medios. Ahora preferiría matar a alguien famoso. Jack tampoco pasará a la historia, replica Heinrich, aunque tiene a Hitler. Él escribe al preso que pierde el pelo.
 
-> «Creo que lo tengo arrinconado.»
-> [Frase 1038](#original-1038)
+La madre de Heinrich lo invita a su comunidad espiritual en Montana. Jack pregunta si quiere ir.
 
-> ¿Qué sabes de él, aparte de que está en la cárcel de por vida, por asesinato?
-> [Frase 1045](#original-1045)
+> «¿Quién sabe lo que quiero hacer? ¿Quién sabe lo que cualquiera quiere hacer? ¿Cómo se puede estar seguro de algo así? ¿No es todo una cuestión de química cerebral, de señales que van y vienen, energía eléctrica en la corteza? ¿Cómo sabes si algo es de verdad lo que quieres hacer o solo alguna clase de impulso nervioso del cerebro? Se produce una pequeña actividad en algún lugar de poca importancia de uno de los hemisferios cerebrales y de pronto quiero ir a Montana o no quiero ir a Montana. ¿Cómo sé que quiero ir de verdad y que no son solo unas neuronas que se disparan o algo así? A lo mejor es un destello accidental en el bulbo raquídeo y de pronto estoy en Montana y descubro que, para empezar, no quería ir. No puedo controlar lo que pasa en mi cerebro, así que ¿cómo voy a estar seguro de lo que quiero hacer dentro de diez segundos, mucho menos de Montana el verano que viene? Es toda esta actividad del cerebro y no sabes qué eres tú como persona y qué es alguna neurona que se dispara o que por casualidad falla al dispararse. ¿No fue por eso por lo que Tommy Roy mató a esas personas?».
+> [Párrafo 90](#original-wn-10-p90)
 
-> «A veces nos mandamos notas.»
-> [Frase 1048](#original-1048)
-
-Heinrich cuenta que el preso mató a cinco personas desde un tejado. Jack cuenta:
-
-> «Bueno, te ha contado todo esto en las cartas que te manda.»
-> [Frase 1101](#original-1101)
-
-> «Sabes lo que diría tu madre de esta relación de ajedrez por correo.»
-> [Frase 1106](#original-1106)
-
-Jack le pregunta por su madre. Heinrich dice:
-
-> «Quiere que vaya al ashram este verano.»
-> [Frase 1111](#original-1111)
-
-Heinrich duda de que sepamos lo que queremos. A la mañana siguiente, Jack va al banco y comprueba su saldo en el cajero.
-
+> Por la mañana fui andando al banco. Fui al cajero automático a consultar mi saldo. Introduje la tarjeta, marqué mi código secreto, tecleé mi solicitud. La cifra de la pantalla se correspondía aproximadamente con mi cálculo independiente, penosamente obtenido tras largas búsquedas entre documentos, una aritmética atormentada. Me recorrieron oleadas de alivio y gratitud. El sistema había bendecido mi vida. Sentí su apoyo y su aprobación. El equipo del sistema, la computadora central en una habitación cerrada de alguna ciudad lejana. Qué interacción tan agradable. Percibí que algo de profundo valor personal, pero no dinero, no eso en absoluto, había sido autenticado y confirmado. Dos guardias armados sacaron del banco a una persona trastornada. El sistema era invisible, lo que lo hacía aún más impresionante, aún más inquietante de tratar. Pero estábamos de acuerdo, al menos por ahora. Las redes, los circuitos, los flujos, las armonías.
+> [Párrafo 91](#original-wn-10-p91)
 ---
 
 ### Capítulo 11: El Cuarto de Murray
@@ -3280,318 +3113,161 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 1: Las Camionetas
 
-> [Frase 4](#lugar-4)
-> As cars slowed to a crawl and stopped, students sprang out and raced to the rear doors to begin removing the objects inside; the stereo sets, radios, personal computers; small refrigerators and table ranges; the cartons of phonograph records and cassettes; the hairdryers and styling irons; the tennis rackets, soccer balls, hockey and lacrosse sticks, bows and arrows; the controlled substances, the birth control pills and devices; the jurik food still in shopping bags—onion-and-garlic chips, nacho thins, peanut creme patties, Waffelos and Kabooms, fruit chews and toffee popcorn; the Dum-Dum pops, the Mystic mints.
-
-> [Frase 25](#lugar-25)
-> When I suggested to the chancellor that we might build a whole department around Hitler's life and work, he was quick to see the possibilities.
-
----
-
-### Capítulo 1: Las Camionetas (Cobertura Léxica)
-
-> [Párrafo 1](#lugar-cl-1)
+> [Párrafo 1](#lugar-wn-1-p1)
 > The station wagons arrived at noon, a long shining line that coursed through the west campus. In single file they eased around the orange I-beam sculpture and moved toward the dormitories. The roofs of the station wagons were loaded down with carefully secured suitcases full of light and heavy clothing; with boxes of blankets, boots and shoes, stationery and books, sheets, pillows, quilts; with rolled-up rugs and sleeping bags; with bicycles, skis, rucksacks, English and Western saddles, inflated rafts. As cars slowed to a crawl and stopped, students sprang out and raced to the rear doors to begin removing the objects inside; the stereo sets, radios, personal computers; small refrigerators and table ranges; the cartons of phonograph records and cassettes; the hairdryers and styling irons; the tennis rackets, soccer balls, hockey and lacrosse sticks, bows and arrows; the controlled substances, the birth control pills and devices; the junk food still in shopping bags—onion-and-garlic chips, nacho thins, peanut creme patties, Waffelos and Kabooms, fruit chews and toffee popcorn; the Dum-Dum pops, the Mystic mints.
 
-> [Párrafo 3](#lugar-cl-3)
+> [Párrafo 3](#lugar-wn-1-p3)
 > I left my office and walked down the hill and into town. There are houses in town with turrets and two-story porches where people sit in the shade of ancient maples. There are Greek revival and Gothic churches. There is an insane asylum with an elongated portico, ornamented dormers and a steeply pitched roof topped by a pineapple finial. Babette and I and our children by previous marriages live at the end of a quiet street in what was once a wooded area with deep ravines. There is an expressway beyond the backyard now, well below us, and at night as we settle into our brass bed the sparse traffic washes past, a remote and steady murmur around our sleep, as of dead souls babbling at the edge of a dream.
-
----
 
 ### Capítulo 2: Babette en la Cocina
 
-> [Frase 55](#lugar-55)
-> I watch her all the time doing things in measured sequence, skillfully, with seeming ease, unlike my former wives, who had a tendency to feel estranged from the objective world— a self-absorbed and high-strung bunch, with ties to the intelligence community.
+> [Párrafo 8](#lugar-wn-2-p8)
+> Babette, disheveled, has the careless dignity of someone too preoccupied with serious matters to know or care what she looks like. Not that she is a gift-bearer of great things as the world generally reckons them. She gathers and tends the children, teaches a course in an adult education program, belongs to a group of volunteers who read to the blind. Once a week she reads to an elderly man named Treadwell who lives on the edge of town. He is known as Old Man Treadwell, as if he were a landmark, a rock formation or brooding swamp. She reads to him from the <em>National Enquirer,</em> the <em>National Examiner,</em> the <em>National Express,</em> the <em>Globe,</em> the <em>World,</em> the <em>Star.</em> The old fellow demands his weekly dose of cult mysteries. Why deny him? The point is that Babette, whatever she is doing, makes me feel sweetly rewarded, bound up with a full-souled woman, a lover of daylight and dense life, the miscellaneous swarming air of families. I watch her all the time doing things in measured sequence, skillfully, with seeming ease, unlike my former wives, who had a tendency to feel estranged from the objective world—a self-absorbed and high-strung bunch, with ties to the intelligence community.
 
-> [Frase 79](#lugar-79)
-> Denise and Steffie came downstairs and we talked about the school supplies they would need.
+> [Párrafo 16](#lugar-wn-2-p16)
+> Babette and I do our talking in the kitchen. The kitchen and the bedroom are the major chambers around here, the power haunts, the sources. She and I are alike in this, that we regard the rest of the house as storage space for furniture, toys, all the unused objects of earlier marriages and different sets of children, the gifts of lost in-laws, the hand-me-downs and rummages. Things, boxes. Why do these possessions carry such sorrowful weight? There is a darkness attached to them, a foreboding. They make me wary not of personal failure and defeat but of something more general, something large in scope and content.
 
-> [Frase 81](#lugar-81)
-> We entered a period of chaos and noise.
+> [Párrafo 17](#lugar-wn-2-p17)
+> She came in with Wilder and seated him on the kitchen counter. Denise and Steffie came downstairs and we talked about the school supplies they would need. Soon it was time for lunch. We entered a period of chaos and noise. We milled about, bickered a little, dropped utensils. Finally we were all satisfied with what we'd been able to snatch from the cupboards and refrigerator or swipe from each other and we began quietly plastering mustard or mayonnaise on our brightly colored food. The mood was one of deadly serious anticipation, a reward hard-won. The table was crowded and Babette and Denise elbowed each other twice, although neither spoke. Wilder was still seated on the counter surrounded by open cartons, crumpled tin-foil, shiny bags of potato chips, bowls of pasty substances covered with plastic wrap, flip-top rings and twist ties, individually wrapped slices of orange cheese. Heinrich came in, studied the scene carefully, my only son, then walked out the back door and disappeared.
 
-> [Frase 82](#lugar-82)
-> We milled about, bickered a little, dropped utensils.
-
-> [Frase 83](#lugar-83)
-> Finally we were all satisfied with what we'd been able to snatch from the cupboards and refrigerator or swipe from each other and we began quietly plastering mustard or mayonnaise on our brightly colored food.
-
-> [Frase 112](#lugar-112)
-> The smoke alarm went off in the hallway upstairs, either to 'et us know the battery had just died or because the house was on fire.
-
-> [Frase 113](#lugar-113)
-> We finished our lunch in silence.
-
----
+> [Párrafo 29](#lugar-wn-2-p29)
+> Denise was eleven, a hard-nosed kid. She led a more or less daily protest against those of her mother's habits that struck her as wasteful or dangerous. I defended Babette. I told her I was the one who needed to show discipline in matters of diet. I reminded her how much I liked the way she looked. I suggested there was an honesty inherent in bulkiness if it is just the right amount. People trust a certain amount of bulk in others.
 
 ### Capítulo 3: El Granero Fotografiado
 
-> [Frase 131](#lugar-131)
-> An exception to some of the above is Murray Jay Siskind, an ex-sportswriter who asked me to have lunch with him in the dining room, where the institutional odor of vaguely defined food aroused in me an obscure and gloomy memory.
+> [Párrafo 2](#lugar-wn-3-p2)
+> There is no Hitler building as such. We are quartered in Centenary Hall, a dark brick structure we share with the popular culture department, known officially as American environments. A curious group. The teaching staff is composed almost solely of New York émigrés, smart, thuggish, movie-mad, trivia-crazed. They are here to decipher the natural language of the culture, to make a formal method of the shiny pleasures they'd known in their Europe-shadowed childhoods—an Aristotelianism of bubble gum wrappers and detergent jingles. The department head is Alfonse (Fast Food) Stompanato, a broad-chested glowering man whose collection of prewar soda pop bottles is on permanent display in an alcove. All his teachers are male, wear rumpled clothes, need haircuts, cough into their armpits. Together they look like teamster officials assembled to identify the body of a mutilated colleague. The impression is one of pervasive bitterness, suspicion and intrigue.
 
-> [Frase 172](#lugar-172)
-> I had the feeling that since the age of eleven in his crowded plot of concrete he'd associated this sturdy fabric with higher learning in some impossibly distant and tree-shaded place.
+> [Párrafo 12](#lugar-wn-3-p12)
+> "I can't help being happy in a town called Blacksmith," he said. "I'm here to avoid situations. Cities are full of situations, sexually cunning people. There are parts of my body I no longer encourage women to handle freely. I was in a situation with a woman in Detroit. She needed my semen in a divorce suit. The irony is that I love women. I fall apart at the sight of long legs, striding, briskly, as a breeze carries up from the river, on a weekday, in the play of morning light. The second irony is that it's not the bodies of women that I ultimately crave but their minds. The mind of a woman. The delicate chambering and massive unidirectional flow, like a physics experiment. What fun it is to talk to an intelligent woman wearing stockings as she crosses her legs. That little staticky sound of rustling nylon can make me happy on several levels. The third and related irony is that it's the most complex and neurotic and difficult women that I am invariably drawn to. I like simple men and complicated women."
 
-> [Frase 205](#lugar-205)
-> Several days later Murray asked me about a tourist attraction known as the most photographed barn in America.
-
-> [Frase 206](#lugar-206)
-> We drove twenty-two miles into the country around Farmington.
-
-> [Frase 211](#lugar-211)
-> We counted five signs before we reached the site.
-
-> [Frase 213](#lugar-213)
-> We walked along a cowpath to the slightly elevated spot set aside for viewing and photographing.
-
-> [Frase 216](#lugar-216)
-> We stood near a grove of trees and watched the photographers.
-
-> [Frase 238](#lugar-238)
-> We listened to the incessant clicking of shutter release buttons, the rustling crank of levers that advanced the film.
-
----
+> [Párrafo 16](#lugar-wn-3-p16)
+> Several days later Murray asked me about a tourist attraction known as the most photographed barn in America. We drove twenty-two miles into the country around Farmington. There were meadows and apple orchards. White fences trailed through the rolling fields. Soon the signs started appearing. THE MOST PHOTOGRAPHED BARN IN AMERICA. We counted five signs before we reached the site. There were forty cars and a tour bus in the makeshift lot. We walked along a cowpath to the slightly elevated spot set aside for viewing and photographing. All the people had cameras; some had tripods, telephoto lenses, filter kits. A man in a booth sold postcards and slides—pictures of the barn taken from the elevated spot. We stood near a grove of trees and watched the photographers. Murray maintained a prolonged silence, occasionally scrawling some notes in a little book.
 
 ### Capítulo 4: ¿Quién Morirá Primero?
 
-> [Frase 259](#lugar-259)
-> Her face was tilted up, catching the cool air, and she didn't see me.
+> [Párrafo 7](#lugar-wn-4-p7)
+> This question comes up from time to time, like where are the car keys. It ends a sentence, prolongs a glance between us. I wonder if the thought itself is part of the nature of physical love, a reverse Darwinism that awards sadness and fear to the survivor. Or is it some inert element in the air we breathe, a rare thing like neon, with a melting point, an atomic weight? I held her in my arms on the cinder track. Kids came running our way, thirty girls in bright shorts, an improbable bobbing mass. The eager breathing, the overlapping rhythms of their footfalls. Sometimes I think our love is inexperienced. The question of dying becomes a wise reminder. It cures us of our innocence of the future. Simple things are doomed, or is that a superstition? We watched the girls come round again. They were strung out now, with faces and particular gaits, almost weightless in their craving, able to land lightly.
 
-> [Frase 266](#lugar-266)
-> After the last descent I met her at the edge of the playing field and embraced her, putting my hands inside the sweatband of her gray cotton pants.
+> [Párrafo 17](#lugar-wn-4-p17)
+> My daughter Bee, from my marriage to Tweedy Browner, was just starting seventh grade in a Washington suburb and was having trouble readjusting to life in the States after two years in South Korea. She took taxis to school, made phone calls to friends in Seoul and Tokyo. Abroad she'd wanted to eat ketchup sandwiches with Trix sticks. Now she cooked fierce sizzling meals of scallion bushes and baby shrimp, monopolizing Tweedy's restaurant-quality range.
 
-> [Frase 276](#lugar-276)
-> She plans ski trips that we never take, her face bright with excitement.
-
-> [Frase 288](#lugar-288)
-> It cures us of our innocence of the future.
-
-> [Frase 290](#lugar-290)
-> We watched the girls come round again.
-
-> [Frase 294](#lugar-294)
-> We can put her in with Steffie."
-
-> [Frase 308](#lugar-308)
-> That night, a Friday, we ordered Chinese food and watched television together, the six of us.
-
-> [Frase 320](#lugar-320)
-> On one such night I got into bed next to Babette and told her how the chancellor had advised me, back in 1968, to do something about my name and appearance if I wanted to be taken seriously as a Hitler innovator.
-
----
+> [Párrafo 18](#lugar-wn-4-p18)
+> That night, a Friday, we ordered Chinese food and watched television together, the six of us. Babette had made it a rule. She seemed to think that if kids watched television one night a week with parents or stepparents, the effect would be to de-glamorize the medium in their eyes, make it wholesome domestic sport. Its narcotic undertow and eerie diseased brain-sucking power would be gradually reduced. I felt vaguely slighted by this reasoning. The evening in fact was a subtle form of punishment for us all. Heinrich sat silent over his egg rolls. Steffie became upset every time something shameful or humiliating seemed about to happen to someone on the screen. She had a vast capacity for being embarrassed on other people's behalf. Often she would leave the room until Denise signaled to her that the scene was over. Denise used these occasions to counsel the younger girl on toughness, the need to be mean in the world, thick-skinned.
 
 ### Capítulo 5: Envases Blancos
 
-> [Frase 344](#lugar-344)
-> We ran into Murray Jay Siskind at the supermarket.
+> [Párrafo 4](#lugar-wn-5-p4)
+> That night, seconds after going to sleep, I seemed to fall through myself, a shallow heart-stopping plunge. Jarred awake, I stared into the dark, realizing I'd experienced the more or less normal muscular contraction known as the myoclonic jerk. Is this what it's like, abrupt, peremptory? Shouldn't death, I thought, be a swan dive, graceful, white-winged and smooth, leaving the surface undisturbed?
 
-> [Frase 349](#lugar-349)
-> Murray kept nodding to Babette as I introduced them.
+> [Párrafo 31](#lugar-wn-5-p31)
+> The three of us left together, trying to maneuver our shopping carts between the paperback books scattered across the entrance. Murray wheeled one of our carts into the parking lot and then helped us heave and push all our double-bagged merchandise into the back of the station wagon. Cars entered and exited. The policewoman in her zippered minicab scouted the area for red flags on the parking meters. We added Murray's single lightweight bag of white items to our load and headed across Elm in the direction of his rooming house. It seemed to me that Babette and I, in the mass and variety of our purchases, in the sheer plenitude those crowded bags suggested, the weight and size and number, the familiar package designs and vivid lettering, the giant sizes, the family bargain packs with Day-Glo sale stickers, in the sense of replenishment we felt, the sense of well-being, the security and contentment these products brought to some snug home in our souls—it seemed we had achieved a fullness of being that is not known to people who need less, expect less, who plan their lives around lonely walks in the evening.
 
-> [Frase 389](#lugar-389)
-> "I hope you appreciate that woman."
-
-> [Frase 411](#lugar-411)
-> The three of us left together, trying to maneuver our shopping carts between the paperback books scattered across the entrance.
-
-> [Frase 412](#lugar-412)
-> Murray wheeled one of our carts into the parking lot and then helped us heave and push all our double-bagged merchandise into the back of the station wagon.
-
-> [Frase 418](#lugar-418)
-> "I'd ask you to visit my room but it's too small for two people unless they're prepared to be intimate."
-
-> [Frase 427](#lugar-427)
-> He thanked us for the lift.
-
-> [Frase 428](#lugar-428)
-> We watched him walk toward the lopsided porch, propped with cinder blocks, where a man in a rocker stared into space.
-
----
+> [Párrafo 34](#lugar-wn-5-p34)
+> Murray is able to produce a look that is sneaky and frank at the same time. It is a look that gives equal credence to disaster and lecherous success. He says that in the old days of his urban entanglements he believed there was only one way to seduce a woman, with clear and open desire. He took pains to avoid self-depreciation, self-mockery, ambiguity, irony, subtlety, vulnerability, a civilized world-weariness and a tragic sense of history—the very things, he says, that are most natural to him. Of these he has allowed only one element, vulnerability, to insert itself gradually into his program of straightforward lust. He is trying to develop a vulnerability that women will find attractive. He works at it consciously, like a man in a gym with weights and a mirror. But his efforts so far have produced only this half sneaky look, sheepish and wheedling.
 
 ### Capítulo 6: ¿Llueve o No?
 
-> [Frase 433](#lugar-433)
-> Have I raised him, unwittingly, in the vicinity of a chemical dump site, in the path of air currents that carry industrial wastes capable of producing scalp degeneration, glorious sunsets?
+> [Párrafo 1](#lugar-wn-6-p1)
+> Heinrich'S HAIRLINE is beginning to recede. I wonder about this. Did his mother consume some kind of gene-piercing substance when she was pregnant? Am I at fault somehow? Have I raised him, unwittingly, in the vicinity of a chemical dump site, in the path of air currents that carry industrial wastes capable of producing scalp degeneration, glorious sunsets? (People say the sunsets around here were not nearly so stunning thirty or forty years ago.) Man's guilt in history and in the tides of his own blood has been complicated by technology, the daily seeping falsehearted death.
 
-> [Frase 442](#lugar-442)
-> I drove him to school on his first day back after a sore throat and fever.
+> [Párrafo 2](#lugar-wn-6-p2)
+> The boy is fourteen, often evasive and moody, at other times disturbingly compliant. I have a sense that his ready yielding to our wishes and demands is a private weapon of reproach. Babette is afraid he will end up in a barricaded room, spraying hundreds of rounds of automatic fire across an empty mall before the SWAT teams come for him with their heavy-barreled weapons, their bullhorns and body armor.
 
-> [Frase 445](#lugar-445)
-> "Look at the windshield," I said.
+> [Párrafo 39](#lugar-wn-6-p39)
+> "First-rate," I told him. "A victory for uncertainty, randomness and chaos. Science's finest hour."
 
-> [Frase 447](#lugar-447)
-> "I'm only telling you what they said."
+> [Párrafo 43](#lugar-wn-6-p43)
+> Heinrich's mother lives in an ashram now. She has taken the name Mother Devi and runs the business end of things. The ashram is located on the outskirts of the former copper-smelting town of Tubb, Montana, now called Dharamsalapur. The usual rumors abound of sexual freedom, sexual slavery, drugs, nudity, mind control, poor hygiene, tax evasion, monkey-worship, torture, prolonged and hideous death.
 
-> [Frase 475](#lugar-475)
-> Maybe if these people could see us through a telescope we might look like we were two feet two inches tall and it might be raining yesterday instead of today."
+> [Párrafo 44](#lugar-wn-6-p44)
+> I watched him walk through the downpour to the school entrance. He moved with deliberate slowness, taking off his camouflage cap ten yards from the doorway. At such moments I find I love him with an animal desperation, a need to take him under my coat and crush him to my chest, keep him there, protect him. He seems to bring a danger to him. It collects in the air, follows him from room to room. Babette bakes his favorite cookies. We watch him at his desk, an unpainted table covered with books and magazines. He works well into the night, plotting chess moves in a game he plays by mail with a convicted killer in the penitentiary.
 
-> [Frase 495](#lugar-495)
-> "If you want to talk about this precise locality while you're in a vehicle that's obviously moving, then I think that's the trouble with this discussion."
-
-> [Frase 496](#lugar-496)
-> "Just give me an answer, okay, Heinrich?"
-
-> [Frase 512](#lugar-512)
-> How do I know that what you call rain is really rain?
-
-> [Frase 520](#lugar-520)
-> "First-rate," I told him.
-
-> [Frase 525](#lugar-525)
-> "Go ahead, be sarcastic, I don't care."
-
-> [Frase 530](#lugar-530)
-> I watched him walk through the downpour to the school entrance.
-
-> [Frase 532](#lugar-532)
-> At such moments I find I love him with an animal desperation, a need to take him under my coat and crush him to my chest, keep him there, protect him.
-
-> [Frase 536](#lugar-536)
-> We watch him at his desk, an unpainted table covered with books and magazines.
-
----
+> [Párrafo 47](#lugar-wn-6-p47)
+> Every semester I arranged for a screening of background footage. This consisted of propaganda films, scenes shot at party congresses, outtakes from mystical epics featuring parades of gymnasts and mountaineers—a collection I'd edited into an impressionistic eighty-minute documentary. Crowd scenes predominated. Close-up jostled shots of thousands of people outside a stadium after a Goebbels speech, people surging, massing, bursting through the traffic. Halls hung with swastika banners, with mortuary wreaths and death's-head insignia. Ranks of thousands of flagbearers arrayed before columns of frozen light, a hundred and thirty antiaircraft searchlights aimed straight up—a scene that resembled a geometric longing, the formal notation of some powerful mass desire. There was no narrative voice. Only chants, songs, arias, speeches, cries, cheers, accusations, shrieks.
 
 ### Capítulo 7: Quién Complace a Quién
 
-> [Frase 612](#lugar-612)
-> "I thought you liked it too."
+> [Párrafo 1](#lugar-wn-7-p1)
+> Two nights a week babette goes to the Congregational church at the other end of town and lectures to adults in the basement on correct posture. Basically she is teaching them how to stand, sit and walk. Most of her students are old. It isn't clear to me why they want to improve their posture. We seem to believe it is possible to ward off death by following rules of good grooming. Sometimes I go with my wife to the church basement and watch her stand, turn, assume various heroic poses, gesture gracefully. She makes references to yoga, kendo, trance-walking. She talks of Sufi dervishes, Sherpa mountaineers. The old folks nod and listen. Nothing is foreign, nothing too remote to apply. I am always surprised at their acceptance and trust, the sweetness of their belief. Nothing is too doubtful to be of use to them as they seek to redeem their bodies from a lifetime of bad posture. It is the end of skepticism.
 
-> [Frase 617](#lugar-617)
-> "If it pleases you, then I like to do it."
+> [Párrafo 2](#lugar-wn-7-p2)
+> We walked home under a marigold moon. Our house looked old and wan at the end of the street, the porch light shining on a molded plastic tricycle, a stack of three-hour colored-flame sawdust and wax logs. Denise was doing her homework in the kitchen, keeping an eye on Wilder, who had wandered downstairs to sit on the floor and stare through the oven window. Silence in the halls, shadows on the sloping lawn. We closed the door and disrobed. The bed was a mess. Magazines, curtain rods, a child's sooty sock. Babette hummed something from a Broadway show, putting the rods in a corner. We embraced, fell sideways to the bed in a controlled way, then repositioned ourselves, bathing in each other's flesh, trying to kick the sheets off our ankles. Her body had a number of long hollows, places the hand might stop to solve in the dark, tempo-slowing places.
 
-> [Frase 620](#lugar-620)
-> "It pleases me that you enjoy my reading."
+> [Párrafo 30](#lugar-wn-7-p30)
+> I said, "Pick your century. Do you want to read about Etruscan slave girls, Georgian rakes? I think we have some literature on flagellation brothels. What about the Middle Ages? We have incubi and succubi. Nuns galore."
 
-> [Frase 640](#lugar-640)
-> Don't we want a balance, a sort of give-and-take?
+> [Párrafo 35](#lugar-wn-7-p35)
+> "I will read," she said. "But I don't want you to choose anything that has men inside women, quote-quote, or men entering women. 'I entered her.' 'He entered me.' We're not lobbies or elevators. 'I wanted him inside me,' as if he could crawl completely in, sign the register, sleep, eat, so forth. Can we agree on that? I don't care what these people do as long as they don't enter or get entered."
 
-> [Frase 646](#lugar-646)
-> "But I don't want you to choose anything that has men inside women, quote-quote, or men entering women. 'I entered her.' 'He entered me.' We're not lobbies or elevators. 'I wanted him inside me,' as if he could crawl completely in, sign the register, sleep, eat, so forth.
+> [Párrafo 42](#lugar-wn-7-p42)
+> I began to feel an erection stirring. How stupid and out of context. Babette laughed at her own lines. The TV said: "Until Florida surgeons attached an artificial flipper."
 
-> [Frase 669](#lugar-669)
-> In these night recitations we create a space between things as we felt them at the time and as we speak them now.
-
-> [Frase 672](#lugar-672)
-> I put on my bathrobe and went down the hall to Heinrich's room to find a trashy magazine Babette might read from, the type that features letters from readers detailing their sexual experiences.
-
----
+> [Párrafo 43](#lugar-wn-7-p43)
+> Babette and I tell each other everything. I have told everything, such as it was at the time, to each of my wives. There is more to tell, of course, as marriages accumulate. But when I say I believe in complete disclosure I don't mean it cheaply, as anecdotal sport or shallow revelation. It is a form of self-renewal and a gesture of custodial trust. Love helps us develop an identity secure enough to allow itself to be placed in another's care and protection. Babette and I have turned our lives for each other's thoughtful regard, turned them in the moonlight in our pale hands, spoken deep into the night about fathers and mothers, childhood, friendships, awakenings, old loves, old fears (except fear of death). No detail must be left out, not even a dog with ticks or a neighbor's boy who ate an insect on a dare. The smell of pantries, the sense of empty afternoons, the feel of things as they rained across our skin, things as facts and passions, the feel of pain, loss, disappointment, breathless delight. In these night recitations we create a space between things as we felt them at the time and as we speak them now. This is the space reserved for irony, sympathy and fond amusement, the means by which we rescue ourselves from the past.
 
 ### Capítulo 8: Lecciones de Alemán
 
-> [Frase 706](#lugar-706)
-> I contacted a man not affiliated with the college, someone Murray Jay Siskind had told me about.
+> [Párrafo 3](#lugar-wn-8-p3)
+> I'd made several attempts to learn German, serious probes into origins, structures, roots. I sensed the deathly power of the language. I wanted to speak it well, use it as a charm, a protective device. The more I shrank from learning actual words, rules and pronunciation, the more important it seemed that I go forward. What we are reluctant to touch often seems the very fabric of our salvation. But the basic sounds defeated me, the harsh spurting northernness of the words and syllables, the command delivery. Something happened between the back of my tongue and the roof of my mouth that made a mockery of my attempts to sound German words.
 
-> [Frase 712](#lugar-712)
-> He said he was a former chiropractor but didn't offer a reason why he was no longer active and didn't say when he'd learned German, or why, and something in his manner kept me from asking.
+> [Párrafo 8](#lugar-wn-8-p8)
+> We sat in his dark crowded room at the boarding house. An ironing board stood unfolded at the window. There were chipped enamel pots, trays of utensils set on a dresser. The furniture was vague, foundling. At the borders of the room were the elemental things. An exposed radiator, an army-blanketed cot. Dunlop sat at the edge of a straight chair, intoning generalities of grammar. When he switched from English to German, it was as though a cord had been twisted in his larynx. An abrupt emotion entered his voice, a scrape and gargle that sounded like the stirring of some beast's ambition. He gaped at me and gestured, he croaked, he verged on strangulation. Sounds came spewing from the base of his tongue, harsh noises damp with passion. He was only demonstrating certain basic pronunciation patterns but the transformation in his face and voice made me think he was making a passage between levels of being.
 
-> [Frase 731](#lugar-731)
-> We stopped on the porch long enough for Murray to tell the landlord, who was sitting there, about a dripping faucet in the second-floor bathroom.
+> [Párrafo 22](#lugar-wn-8-p22)
+> At home Denise placed a moist bag of garbage in the kitchen compactor. She started up the machine. The ram stroked downward with a dreadful wrenching sound, full of eerie feeling. Children walked in and out of the kitchen, water dripped in the sink, the washing machine heaved in the entranceway. Murray seemed engrossed in the incidental mesh. Whining metal, exploding bottles, plastic smashed flat. Denise listened carefully, making sure the mangling din contained the correct sonic elements, which meant the machine was operating properly.
 
-> [Frase 732](#lugar-732)
-> The landlord was a large florid man of such robust and bursting health that he seemed to be having a heart attack even as we looked on.
-
-> [Frase 733](#lugar-733)
-> "He'll get around to fixing it," Murray said, as we set out on foot in the direction of Elm.
-
-> [Frase 767](#lugar-767)
-> "We have to boil our water," Steffie said.
-
----
+> [Párrafo 24](#lugar-wn-8-p24)
+> Babette came in from running, her outfit soaked through. Murray walked across the kitchen to shake her hand. She fell into a chair, scanned the room for Wilder. I watched Denise make a mental comparison between her mother's running clothes and the wet bag she'd dumped in the compactor. I could see it in her eyes, a sardonic connection. It was these secondary levels of life, these extrasensory flashes and floating nuances of being, these pockets of rapport forming unexpectedly, that made me believe we were a magic act, adults and children together, sharing unaccountable things.
 
 ### Capítulo 9: La Invitación de Murray
 
-> [Frase 785](#lugar-785)
-> Minutes after we entered, we ran into Murray.
+> [Párrafo 11](#lugar-wn-9-p11)
+> Steffie took my hand and we walked past the fruit bins, an area that extended about forty-five yards along one wall. The bins were arranged diagonally and backed by mirrors that people accidentally punched when reaching for fruit in the upper rows. A voice on the loudspeaker said: "Kleenex Softique, your truck's blocking the entrance." Apples and lemons tumbled in twos and threes to the floor when someone took a fruit from certain places in the stacked array. There were six kinds of apples, there were exotic melons in several pastels. Everything seemed to be in season, sprayed, burnished, bright. People tore filmy bags off racks and tried to figure out which end opened. I realized the place was awash in noise. The toneless systems, the jangle and skid of carts, the loudspeaker and coffee-making machines, the cries of children. And over it all, or under it all, a dull and unlocatable roar, as of some form of swarming life just outside the range of human apprehension.
 
-> [Frase 802](#lugar-802)
-> We moved into the generic food area and Murray paused with his plastic basket to probe among the white cartons and jars.
+> [Párrafo 28](#lugar-wn-9-p28)
+> Murray came out of an aisle and walked alongside Babette, just ahead of us. He took a twin roll of paper towels out of her cart and smelled it. Denise had found some friends and they went up front to look at the paperback books in spindly racks, the books with shiny metallic print, raised letters, vivid illustrations of cult violence and windswept romance. Denise was wearing a green visor. I heard Babette tell Murray she'd been wearing it fourteen hours a day for three weeks now. She would not go out without it, would not even leave her room. She wore it in school, when there was school, wore it to the toilet, the dentist's chair, the dinner table. Something about the visor seemed to speak to her, to offer wholeness and identity.
 
-> [Frase 841](#lugar-841)
-> I heard Babette tell Murray she'd been wearing it fourteen hours a day for three weeks now.
+> [Párrafo 32](#lugar-wn-9-p32)
+> "Everything is concealed in symbolism, hidden by veils of mystery and layers of cultural material. But it is psychic data, absolutely. The large doors slide open, they close unbidden. Energy waves, incident radiation. All the letters and numbers are here, all the colors of the spectrum, all the voices and sounds, all the code words and ceremonial phrases. It is just a question of deciphering, rearranging, peeling off the layers of unspeakability. Not that we would want to, not that any useful purpose would be served. This is not Tibet. Even Tibet is not Tibet anymore."
 
-> [Frase 909](#lugar-909)
-> The three adults each stood at the head of an aisle and peered into the traffic of carts and gliding bodies.
+> [Párrafo 36](#lugar-wn-9-p36)
+> "Supermarkets this large and clean and modern are a revelation to me. I spent my life in small steamy delicatessens with slanted display cabinets full of trays that hold soft wet lumpy matter in pale colors. High enough cabinets so you had to stand on tiptoes to give your order. Shouts, accents. In cities no one notices specific dying. Dying is a quality of the air. It's everywhere and nowhere. Men shout as they die, to be noticed, remembered for a second or two. To die in an apartment instead of a house can depress the soul, I would imagine, for several lives to come. In a town there are houses, plants in bay windows. People notice dying better. The dead have faces, automobiles. If you don't know a name, you know a street name, a dog's name. 'He drove an orange Mazda.' You know a couple of useless things about a person that become major facts of identification and cosmic placement when he dies suddenly, after a short illness, in his own bed, with a comforter and matching pillows, on a rainy Wednesday afternoon, feverish, a little congested in the sinuses and chest, thinking about his dry cleaning."
 
-> [Frase 910](#lugar-910)
-> Then we did three more aisles, heads set forward, weaving slightly as we changed our sightlines.
+> [Párrafo 39](#lugar-wn-9-p39)
+> The three adults each stood at the head of an aisle and peered into the traffic of carts and gliding bodies. Then we did three more aisles, heads set forward, weaving slightly as we changed our sightlines. I kept seeing colored spots off to the right but when I turned there was nothing there. I'd been seeing colored spots for years but never so many, so gaily animated. Murray saw Wilder in another woman's cart. The woman waved at Babette and headed toward us. She lived on our street with a teenage daughter and an Asian baby, Chun Duc. Everyone referred to the baby by name, almost in a tone of proud proprietorship, but no one knew who Chun belonged to or where he or she had come from.
 
-> [Frase 921](#lugar-921)
-> Before Murray went to the express line he invited us to dinner, a week from Saturday.
-
-> [Frase 922](#lugar-922)
-> "You don't have to let me know till the last minute."
-
-> [Frase 924](#lugar-924)
-> "I'm not preparing anything major, so just call beforehand and tell me if something else came up.
-
-> [Frase 926](#lugar-926)
-> If you don't show up, I'll know that something came up and you couldn't let me know."
-
-> [Frase 932](#lugar-932)
-> I don't want you to feel I'm holding you to something.
-
-> [Frase 935](#lugar-935)
-> I have to eat anyway, so there's no major catastrophe if something comes up and you have to cancel.
-
-> [Frase 936](#lugar-936)
-> I just want you to know I'll be there if you decide to drop by, with or without kids.
-
-> [Frase 937](#lugar-937)
-> We have till next May or June to do this thing so there's no special mystique about a week from Saturday."
-
----
+> [Párrafo 54](#lugar-wn-9-p54)
+> I rubbed against Babette in the checkout line. She backed into me and I reached around her and put my hands on her breasts. She rotated her hips and I nuzzled her hair and murmured, "Dirty blond." People wrote checks, tall boys bagged the merchandise. Not everyone spoke English at the cash terminals, or near the fruit bins and frozen foods, or out among the cars in the lot. More and more I heard languages I could not identify much less understand, although the tall boys were American-born and the checkout women as well, short, fattish in blue tunics, wearing stretch slacks and tiny white espadrilles. I tried to fit my hands into Babette's skirt, over her belly, as the slowly moving line edged toward the last purchase point, the breath mints and nasal inhalers.
 
 ### Capítulo 10: El Chicle y el Preso
 
-> [Frase 963](#lugar-963)
-> "You wanted me to chew sugarless gum, Denise.
+> [Párrafo 1](#lugar-wn-10-p1)
+> Tuition at the college-on-the-hill is fourteen thousand dollars, Sunday brunch included. I sense there is a connection between this powerful number and the way the students arrange themselves physically in the reading areas of the library. They sit on broad cushioned seats in various kinds of ungainly posture, clearly calculated to be the identifying signs of some kinship group or secret organization. They are fetal, splayed, knock-kneed, arched, square-knotted, sometimes almost upside-down. The positions are so studied they amount to a classical mime. There is an element of over-refinement and inbreeding. Sometimes I feel I've wandered into a Far Eastern dream, too remote to be interpreted. But it is only the language of economic class they are speaking, in one of its allowable outward forms, like the convocation of station wagons at the start of the year.
 
-> [Frase 966](#lugar-966)
-> They put a warning, which I would have a hard time believing you didn't see."
+> [Párrafo 2](#lugar-wn-10-p2)
+> Denise watched her mother pull the little cellophane ribbon on a bonus pack of sixteen individually wrapped units of chewing gum. Her eyes narrowed as she turned back to the address books on the kitchen table before her. The eleven-year-old face was an expert mask of restrained exasperation.
 
-> [Frase 974](#lugar-974)
-> "Don't chew at all," she said.
+> [Párrafo 43](#lugar-wn-10-p43)
+> I scooped Wilder off a chair and gave him a noisy kiss on the ear and he shrank away in delight. Then I put him on the counter and went upstairs to find Heinrich. He was in his room studying the deployment of plastic chessmen.
 
-> [Frase 977](#lugar-977)
-> She gave me a look that wondered how the girl could talk on the phone and listen to us at the same time.
+> [Párrafo 48](#lugar-wn-10-p48)
+> "You've been playing chess with the man for months. What do you know about him except that he's in jail for life, for murder? Is he young, old, black, white? Do you communicate at all except for chess moves?"
 
-> [Frase 978](#lugar-978)
-> I wanted to say because she finds us interesting.
+> [Párrafo 60](#lugar-wn-10-p60)
+> "Six people. Did he care for his weapons obsessively? Did he have an arsenal stashed in his shabby little room off a six-story concrete car park?"
 
-> [Frase 979](#lugar-979)
-> Babette said to the girls, "Look, either I chew gum or I smoke.
+> [Párrafo 62](#lugar-wn-10-p62)
+> "A telescopic sight. Did he fire from a highway overpass, a rented room? Did he walk into a bar, a washette, his former place of employment and start firing indiscriminately? People scattering, taking cover under tables. People out on the street thinking they heard firecrackers. 'I was just waiting for the bus when I heard this little popping noise like firecrackers going off.' "
 
-> [Frase 980](#lugar-980)
-> If you want me to start smoking again, take away my chewing gum and my Mentho-Lyptus."
+> [Párrafo 68](#lugar-wn-10-p68)
+> " 'I can't help myself, folks.' Were the victims total strangers? Was it a grudge killing? Did he get fired from his job? Had he been hearing voices?"
 
-> [Frase 981](#lugar-981)
-> "Why do you have to do one or the other?" Steffie said.
+> [Párrafo 90](#lugar-wn-10-p90)
+> "Who knows what I want to do? Who knows what anyone wants to do? How can you be sure about something like that? Isn't it all a question of brain chemistry, signals going back and forth, electrical energy in the cortex? How do you know whether something is really what you want to do or just some kind of nerve impulse in the brain? Some minor little activity takes place somewhere in this unimportant place in one of the brain hemispheres and suddenly I want to go to Montana or I don't want to go to Montana. How do I know I really want to go and it isn't just some neurons firing or something? Maybe it's just an accidental flash in the medulla and suddenly there I am in Montana and I find out I really didn't want to go there in the first place. I can't control what happens in my brain, so how can I be sure what I want to do ten seconds from now, much less Montana next summer? It's all this activity in the brain and you don't know what's you as a person and what's some neuron that just happens to fire or just happens to misfire. Isn't that why Tommy Roy killed those people?"
 
-> [Frase 983](#lugar-983)
-> "Why not do both?" Denise said, the face carefully emptying itself of expression.
-
-> [Frase 1004](#lugar-1004)
-> "We don't want them," Babette said.
-
-> [Frase 1038](#lugar-1038)
-> I think I got him cornered."
-
-> [Frase 1045](#lugar-1045)
-> What do you know about him except that he's in jail for life, for murder?
-
-> [Frase 1048](#lugar-1048)
-> "We send notes sometimes."
-
-> [Frase 1101](#lugar-1101)
-> "All right, he's told you all these things in the letters he sends.
-
-> [Frase 1106](#lugar-1106)
-> "You know what your mother would say about this chess by mail relationship."
-
-> [Frase 1111](#lugar-1111)
-> "She wants me to go out to the ashram this summer."
-
----
-
+> [Párrafo 91](#lugar-wn-10-p91)
+> In the morning I walked to the bank. I went to the automated teller machine to check my balance. I inserted my card, entered my secret code, tapped out my request. The figure on the screen roughly corresponded to my independent estimate, feebly arrived at after long searches through documents, tormented arithmetic. Waves of relief and gratitude flowed over me. The system had blessed my life. I felt its support and approval. The system hardware, the mainframe sitting in a locked room in some distant city. What a pleasing interaction. I sensed that something of deep personal value, but not money, not that at all, had been authenticated and confirmed. A deranged person was escorted from the bank by two armed guards. The system was invisible, which made it all the more impressive, all the more disquieting to deal with. But we were in accord, at least for now. The networks, the circuits, the streams, the harmonies.
 ### Capítulo 11: El Cuarto de Murray
 
 > [Frase 1149](#lugar-1149)
