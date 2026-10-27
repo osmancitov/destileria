@@ -280,10 +280,7 @@ Babette hornea sus galletas favoritas. Heinrich juega ajedrez por correo con un 
 
 [![Óleo impresionista, al estilo de Eugène Boudin: sobre una mesa, junto a una lámpara, un álbum de fotos antiguas abierto, con niños, mujeres con sombrero y un hombre que se protege los ojos del sol; dos manos pasan la página y por la ventana se ven la luna y un triciclo bajo la luz de un porche.](../img/261025_white-noise_quien-complace-a-quien.jpg)](../img/261025_white-noise_quien-complace-a-quien.jpg)
 
-Dos noches por semana Babette da clases de postura a ancianos en una iglesia. Esa noche Jack y ella se desvisten en el dormitorio. Jack cuenta:
-
-> Creíamos que algo vivía en el sótano.
-> [Frase 594](#original-594)
+Dos noches por semana Babette da clases de postura a ancianos en una iglesia. Esa noche Jack y ella se desvisten en el dormitorio.
 
 Cada uno quiere complacer al otro. Babette ofrece leerle. Jack dice:
 
@@ -300,12 +297,7 @@ Jack dice que también debe agradarle a ella. Babette dice:
 > «Me agrada que disfrutes mi lectura.»
 > [Frase 620](#original-620)
 
-Babette quiere leer. Jack le pide que elija un siglo y le propone lecturas. Jack dice:
-
-> Tenemos íncubos y súcubos.
-> [Frase 634](#original-634)
-
-Cada uno quiere que el otro elija. Babette dice:
+Babette quiere leer. Jack le pide que elija un siglo y le propone lecturas. Cada uno quiere que el otro elija. Babette dice:
 
 > ¿No queremos un equilibrio, una especie de toma y daca?
 > [Frase 640](#original-640)
@@ -325,10 +317,7 @@ Jack elige el siglo veinte y va a buscar una revista al cuarto de Heinrich. Jack
 > Me puse la bata y fui por el pasillo hasta el cuarto de Heinrich a buscar una revista chabacana de la que Babette pudiera leer, de esas que traen cartas de lectores que detallan sus experiencias sexuales.
 > [Frase 672](#original-672)
 
-Heinrich hace un experimento con Wilder. Jack encuentra álbumes de fotos. Jack cuenta:
-
-> Pasamos horas revisándolos, sentados en la cama.
-> [Frase 682](#original-682)
+Heinrich hace un experimento con Wilder. Jack encuentra álbumes de fotos, y él y Babette pasan horas revisándolos, sentados en la cama.
 
 En las fotos, la gente se ve escéptica ante la cámara. Jack se pregunta quién morirá primero.
 
@@ -361,12 +350,12 @@ Dunlop da clases en su cuarto oscuro; al hablar alemán parece estrangularse. Ja
 > «Ya se ocupará de arreglarlo», dijo Murray, mientras salíamos a pie en dirección a Elm.
 > [Frase 733](#original-733)
 
-Murray dice que el casero es un fanático, como todos los que arreglan cosas. Jack cuenta:
+Murray dice que el casero es un fanático, como todos los que arreglan cosas, y pregunta por qué Jack aprende alemán justo este año. Jack dice que hay un congreso sobre Hitler en primavera. En casa, Denise enciende el compactador de basura, y Babette llega de correr. Steffie dice:
 
-> Me preguntó por qué había elegido precisamente este año para aprender alemán, después de tantos años esquivando el radar.
-> [Frase 747](#original-747)
+> «Tenemos que hervir nuestra agua», dijo Steffie.
+> [Frase 767](#original-767)
 
-Jack dice que hay un congreso sobre Hitler en primavera. En casa, Denise enciende el compactador de basura, y Babette llega de correr.
+Babette dice que siempre dicen eso. Heinrich habla por teléfono de neutrinos.
 
 ---
 
@@ -3517,9 +3506,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 7: Quién Complace a Quién
 
-> [Frase 594](#lugar-594)
-> We believed something lived in the basement.
-
 > [Frase 612](#lugar-612)
 > "I thought you liked it too."
 
@@ -3528,9 +3514,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 620](#lugar-620)
 > "It pleases me that you enjoy my reading."
-
-> [Frase 634](#lugar-634)
-> We have incubi and succubi.
 
 > [Frase 640](#lugar-640)
 > Don't we want a balance, a sort of give-and-take?
@@ -3543,9 +3526,6 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 > [Frase 672](#lugar-672)
 > I put on my bathrobe and went down the hall to Heinrich's room to find a trashy magazine Babette might read from, the type that features letters from readers detailing their sexual experiences.
-
-> [Frase 682](#lugar-682)
-> We spent hours going through them, sitting up in bed.
 
 ---
 
@@ -3566,8 +3546,8 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 > [Frase 733](#lugar-733)
 > "He'll get around to fixing it," Murray said, as we set out on foot in the direction of Elm.
 
-> [Frase 747](#lugar-747)
-> He asked me why I'd chosen this year in particular to learn German, after so many years of slipping past the radar.
+> [Frase 767](#lugar-767)
+> "We have to boil our water," Steffie said.
 
 ---
 
