@@ -14,8 +14,6 @@ Se divide en tres partes: «Waves and Radiation» («Ondas y Radiación»), «Th
 
 ### Capítulo 1: Las Camionetas
 
-*Jack, los estudios sobre Hitler, el espectáculo de la llegada y el rector.*
-
 [![Óleo impresionista: una fila de camionetas familiares cargadas de maletas y bicicletas en un campus soleado; estudiantes descargan y padres elegantes miran, al estilo de Childe Hassam.](../img/261025_white-noise_las-camionetas.jpg)](../img/261025_white-noise_las-camionetas.jpg)
 
 Las camionetas familiares llegan a mediodía al campus de una universidad, cargadas de maletas. El narrador, Jack, cuenta:
@@ -31,8 +29,6 @@ Jack dirige el departamento de estudios sobre Hitler de la universidad. Fue un d
 ---
 
 ### Capítulo 2: Babette en la Cocina
-
-*Denise, Steffie, Jack, Babette, Wilder y el almuerzo.*
 
 [![Óleo realista, al estilo de David Teniers el Joven: en una cocina antigua, una mujer alta de pelo rubio revuelto, con un paño en la mano, habla con un hombre de anteojos sentado a una mesa con pan y fruta; por la puerta se ve a un niño en triciclo y, al fondo, cajas apiladas.](../img/261025_white-noise_babette-en-la-cocina.jpg)](../img/261025_white-noise_babette-en-la-cocina.jpg)
 
@@ -68,8 +64,6 @@ Jack defiende a Babette ante las niñas. Arriba suena una alarma:
 ---
 
 ### Capítulo 3: El Granero Fotografiado
-
-*Murray, el narrador, el calor, la gente, el granero y los profesores.*
 
 [![Óleo impresionista, al estilo de Camille Pissarro: entre manzanos, una fila de fotógrafos con trípodes mira un granero rojo en la loma; dos hombres de espaldas observan junto a un cartel que dice «El granero más fotografiado de América», y una mujer vende postales en un puesto de madera; al fondo, un autobús y varios autos.](../img/261025_white-noise_el-granero-fotografiado.jpg)](../img/261025_white-noise_el-granero-fotografiado.jpg)
 
@@ -117,8 +111,6 @@ Murray pregunta cómo era el granero antes de ser fotografiado y concluye que no
 
 ### Capítulo 4: ¿Quién Morirá Primero?
 
-*Jack, Babette, la pregunta de quién morirá primero, las chicas y Bee.*
-
 [![Óleo impresionista, al estilo de Eugène Boudin: una mujer con ropa deportiva gris sube corriendo las gradas de piedra de un estadio y se apoya en el parapeto; al otro lado del campo, un hombre con gafas oscuras la mira sentado; el cielo está lleno de nubes alargadas y una avioneta cruza sobre los árboles.](../img/261025_white-noise_quien-morira-primero.jpg)](../img/261025_white-noise_quien-morira-primero.jpg)
 
 Jack mira desde el estadio de un colegio a Babette, que corre escaleras arriba. Jack cuenta:
@@ -163,8 +155,6 @@ El rector le sugiere inventar la inicial J. A. K. y engordar para parecerse a Hi
 
 ### Capítulo 5: Envases Blancos
 
-*Murray, Jack, Babette, el cuarto y el porche.*
-
 [![Óleo impresionista, al estilo de Eugène Boudin: en un supermercado luminoso, un hombre encorvado de barba y ropa de pana sostiene un frasco blanco de maní frente a una mujer de pelo abundante, junto a un carrito lleno de envases blancos que empuja un hombre corpulento de gafas oscuras; al fondo, una mujer caída entre libros de bolsillo.](../img/261025_white-noise_envases-blancos.jpg)](../img/261025_white-noise_envases-blancos.jpg)
 
 Jack disfruta los días sin rumbo, pero teme una aceleración; una noche cree caer a través de sí mismo y piensa que la muerte debería ser una zambullida elegante. Jack cuenta:
@@ -206,8 +196,6 @@ Murray intenta desarrollar una vulnerabilidad que las mujeres encuentren atracti
 ---
 
 ### Capítulo 6: ¿Llueve o No?
-
-*Heinrich, Jack, la radio y el escritorio.*
 
 [![Óleo impresionista, al estilo de Eugène Boudin: desde el interior de una camioneta, un hombre barbudo con gafas oscuras conduce y a su lado un muchacho con gorra de camuflaje mira por el parabrisas mojado a una mujer de impermeable amarillo que detiene el tráfico para que crucen unos niños frente a una escuela de ladrillo.](../img/261025_white-noise_llueve-o-no.jpg)](../img/261025_white-noise_llueve-o-no.jpg)
 
@@ -276,8 +264,6 @@ Babette hornea sus galletas favoritas. Heinrich juega ajedrez por correo con un 
 
 ### Capítulo 7: Quién Complace a Quién
 
-*Babette, Jack, los ancianos y la lectura.*
-
 [![Óleo impresionista, al estilo de Eugène Boudin: sobre una mesa, junto a una lámpara, un álbum de fotos antiguas abierto, con niños, mujeres con sombrero y un hombre que se protege los ojos del sol; dos manos pasan la página y por la ventana se ven la luna y un triciclo bajo la luz de un porche.](../img/261025_white-noise_quien-complace-a-quien.jpg)](../img/261025_white-noise_quien-complace-a-quien.jpg)
 
 Dos noches por semana Babette da clases de postura a ancianos en una iglesia. Esa noche Jack y ella se desvisten en el dormitorio.
@@ -325,8 +311,6 @@ En las fotos, la gente se ve escéptica ante la cámara. Jack se pregunta quién
 
 ### Capítulo 8: Lecciones de Alemán
 
-*Dunlop, el casero, Murray y Jack.*
-
 [![Óleo impresionista, al estilo de Eugène Boudin: en un cuarto atestado, junto a una tabla de planchar y un radiador, un hombre delgado en camisa habla con gesto tenso a otro, muy corpulento, con toga negra y gafas oscuras, que toma notas en un cuaderno; a un lado, un catre con manta militar.](../img/261025_white-noise_lecciones-de-aleman.jpg)](../img/261025_white-noise_lecciones-de-aleman.jpg)
 
 Jack es la máxima figura de los estudios sobre Hitler en Norteamérica y oculta que no sabe alemán. Quiere aprenderlo en secreto. Jack cuenta:
@@ -360,8 +344,6 @@ Babette dice que siempre dicen eso. Heinrich habla por teléfono de neutrinos.
 ---
 
 ### Capítulo 9: La Invitación de Murray
-
-*Murray, Babette, Jack, Denise, Wilder y Steffie.*
 
 [![Pasillo luminoso de un supermercado: Murray, barbudo y de chaqueta de pana, habla de cerca con Babette junto a un carrito, mientras Wilder, sentado en otro, alcanza una caja de la estantería.](../img/261025_white-noise_la-invitacion-de-murray.jpg)](../img/261025_white-noise_la-invitacion-de-murray.jpg)
 
@@ -417,8 +399,6 @@ En la fila de la caja, Jack se pega a Babette. Afuera corre el rumor de que muri
 ---
 
 ### Capítulo 10: El Chicle y el Preso
-
-*Tommy Roy, Heinrich, Babette, Jack, Steffie y Denise.*
 
 [![Heinrich, de calentador y con toalla al cuello, inclinado sobre un tablero de ajedrez con cartas; Jack lo mira desde la puerta, y al fondo Babette rompe huevos mientras dos niñas discuten.](../img/261025_white-noise_el-chicle-y-el-preso.jpg)](../img/261025_white-noise_el-chicle-y-el-preso.jpg)
 
@@ -485,8 +465,6 @@ Heinrich duda de que sepamos lo que queremos. A la mañana siguiente, Jack va al
 ---
 
 ### Capítulo 11: El Cuarto de Murray
-
-*Babette, Jack, Murray, la gallina de Cornualles, el brazo de Jack y la posibilidad.*
 
 [![Murray sirve café en la litera a Jack y a Babette, que miran un televisor sobre una pila de cómics; por la ventana, bajo la lluvia, se ve el viejo manicomio.](../img/261025_white-noise_el-cuarto-de-murray.jpg)](../img/261025_white-noise_el-cuarto-de-murray.jpg)
 
@@ -565,8 +543,6 @@ Llega el otoño: hojas, bolsas negras en la acera y niños que piden dulces en l
 
 ### Capítulo 12: Dunlop y el Clima
 
-*Jack, Dunlop, Bob Pardee, Babette, algo más, la compasión y los ojos.*
-
 [![Dunlop y Jack sentados frente a frente en un cuarto atestado, con un mapa del tiempo en la pared y un cielo gris en la ventana, haciendo muecas de pronunciación.](../img/261025_white-noise_dunlop-y-el-clima.jpg)](../img/261025_white-noise_dunlop-y-el-clima.jpg)
 
 Jack toma clases de alemán con Howard Dunlop, sentados frente a frente. Dunlop retuerce la cara al pronunciar. Jack cuenta:
@@ -610,8 +586,6 @@ Al día siguiente, a mediodía, la policía rastrea el río.
 
 ### Capítulo 13: La Vidente de la Policía
 
-*La sobrina nieta, Heinrich, los Treadwell y Babette.*
-
 [![Dentro de una casa rodante, la vidente Adele T. en trance ante unas fotografías, mientras el jefe de policía espera en la puerta con la gorra en las manos.](../img/261025_white-noise_la-vidente-de-la-policia.jpg)](../img/261025_white-noise_la-vidente-de-la-policia.jpg)
 
 Babette llama a Jack a su despacho de Centenary Hall. Jack cuenta:
@@ -629,8 +603,6 @@ El día antes del hallazgo, según el periódico local, la policía consultó a 
 ---
 
 ### Capítulo 14: El Desvanecimiento Cerebral
-
-*Jack, Grappa, Denise, Lasher, Alfonse, Cotsakis, Babette, Heinrich y Murray.*
 
 [![Una mesa de comedor de profesores en torno a un hombre barbudo que habla con gravedad, mientras una televisión al fondo muestra una casa deslizándose hacia el mar.](../img/261025_white-noise_el-desvanecimiento-cerebral.jpg)](../img/261025_white-noise_el-desvanecimiento-cerebral.jpg)
 
@@ -739,8 +711,6 @@ Jack se ofreció a ir a la clase de Murray.
 
 ### Capítulo 15: La Madre y la Multitud
 
-*Hitler, Elvis, Jack, Gladys, Murray y las multitudes.*
-
 [![Un aula con estudiantes sentados en el suelo y un profesor de barba que camina entre ellos, mientras un hombre de toga negra los observa de pie contra la pared.](../img/261025_white-noise_la-madre-y-la-multitud.jpg)](../img/261025_white-noise_la-madre-y-la-multitud.jpg)
 
 Jack entra en el aula de Murray, que habla de Elvis y de su madre. Murray dice:
@@ -815,8 +785,6 @@ Jack termina diciendo que las multitudes se forman contra la muerte. Murray lo s
 
 ### Capítulo 16: El Llanto de Wilder
 
-*Jack, Babette, Wilder, el médico y el llanto.*
-
 [![Un niño pequeño con gorro y mitones, de pie sobre el asiento de un coche de noche, llorando con la boca abierta, mientras un hombre con abrigo lo sostiene bajo los brazos.](../img/261025_white-noise_el-llanto-de-wilder.jpg)](../img/261025_white-noise_el-llanto-de-wilder.jpg)
 
 Wilder llora desde las dos de la tarde. Babette tiene clase en una hora y media. Jack dice:
@@ -879,8 +847,6 @@ Wilder ha llorado casi siete horas seguidas.
 
 ### Capítulo 17: La Cuna de la Desinformación
 
-*Jack, Babette, Denise, Steffie, Heinrich, Wilder y la comida.*
-
 [![Un hombre corpulento con un abrigo de lana avanza por un pasillo luminoso de un gran centro comercial, rodeado de su familia, con una gruesa cuerda enrollada al hombro, bajo galerías y escaparates.](../img/261025_white-noise_la-cuna-de-la-desinformacion.jpg)](../img/261025_white-noise_la-cuna-de-la-desinformacion.jpg)
 
 Al día siguiente, Denise quiere sorprender a Babette con una pregunta sobre el Dylar. Jack cuenta:
@@ -940,8 +906,6 @@ Jack mira luego a Steffie ante el televisor, moviendo los labios.
 ---
 
 ### Capítulo 18: Tweedy y el Aterrizaje Forzoso
-
-*Tweedy, Jack, Bee, Janet y los niños.*
 
 [![Una mujer delgada con suéter Shetland fuma junto a un hombre corpulento con abrigo oscuro en una sala de llegadas en obras, polvo de yeso y cables al descubierto, mientras una multitud de pasajeros cansados rodea a un hombre con gorra de cartero que cuenta una historia.](../img/261025_white-noise_tweedy-y-el-aterrizaje-forzoso.jpg)](../img/261025_white-noise_tweedy-y-el-aterrizaje-forzoso.jpg)
 
@@ -1045,8 +1009,6 @@ Tweedy sostiene que todo niño debería viajar solo miles de millas, que Bee ya 
 
 ### Capítulo 19: Bee, la Testigo Silenciosa
 
-*Bee, Jack, Denise y la familia.*
-
 [![Una muchacha pálida y delgada con un largo atuendo caqui está sentada junto a una chimenea de llamas turquesa en una sala navideña, mientras un hombre corpulento en un sillón, con cajas de regalo y papel de seda en el regazo, la mira con inquietud.](../img/261025_white-noise_bee-la-testigo-silenciosa.jpg)](../img/261025_white-noise_bee-la-testigo-silenciosa.jpg)
 
 Bee, la hija de doce años de Jack, ha llegado a la casa. Jack cuenta:
@@ -1095,8 +1057,6 @@ Bee lo mira con una compasión que Jack no acaba de creer. Al volver, Jack se de
 ---
 
 ### Capítulo 20: Babette en la Pantalla
-
-*Jack, Babette, Murray, Heinrich y Denise.*
 
 [![Un cuarto infantil de noche: un televisor viejo en blanco y negro muestra el rostro gris de una mujer; una niña gira el dial, un niño pequeño se acerca a la pantalla, un hombre sentado en el suelo toma notas y otro hombre corpulento mira desde la puerta con una taza de café.](../img/261025_white-noise_babette-en-la-pantalla.jpg)](../img/261025_white-noise_babette-en-la-pantalla.jpg)
 
@@ -1164,8 +1124,6 @@ Cuando termina el programa, las dos niñas bajan a esperar a Babette en la puert
 ---
 
 ### Capítulo 21: El Evento Tóxico Aéreo
-
-*Jack, Heinrich, Babette, Steffie, Denise y Wilder.*
 
 [![Una carretera de noche bajo la nieve, llena de autos con los faros encendidos; una inmensa nube negra, iluminada desde abajo por helicópteros, se alza sobre las colinas y ocupa medio cielo; en primer plano, un auto con una familia y una niña que mira hacia atrás.](../img/261025_white-noise_el-evento-toxico-aereo.jpg)](../img/261025_white-noise_el-evento-toxico-aereo.jpg)
 
@@ -1601,8 +1559,6 @@ A las siete un hombre con un televisor diminuto camina por el salón y se queja 
 
 ### Capítulo 22: El Supermercado y el Atardecer
 
-*Jack, Babette, Murray, Denise y Wilder.*
-
 [![Un paso elevado al atardecer bajo un cielo enorme, ardiente y violeta; una mujer con calentadores de piernas y un hombre con abrigo lo miran junto a un auto; al fondo, el supermercado iluminado.](../img/261025_white-noise_el-supermercado-y-el-atardecer.jpg)](../img/261025_white-noise_el-supermercado-y-el-atardecer.jpg)
 
 El supermercado se llena de ancianos asustados por el anuncio de una gran nevada. Jack empuja el carro, con Wilder sentado dentro. Jack cuenta:
@@ -1670,8 +1626,6 @@ Al final, Jack no se lo pide.
 
 ### Capítulo 23: La Radiación y los Teoremas
 
-*Jack, Heinrich y Babette.*
-
 [![Una cena familiar a la luz de una lámpara: un chico moldea el puré como un volcán mientras una mujer lo observa; por la ventana, un poste eléctrico contra el cielo frío.](../img/261025_white-noise_la-radiacion-y-los-teoremas.jpg)](../img/261025_white-noise_la-radiacion-y-los-teoremas.jpg)
 
 Jack pide a Dunlop, su profesor de alemán, media hora más por lección. Le va bien con la gramática, pero le cuesta pronunciar. Jack cuenta:
@@ -1717,8 +1671,6 @@ Jack solo dice que los datos aterradores ya son una industria. Heinrich contesta
 ---
 
 ### Capítulo 24: El Frasco de Dylar
-
-*Jack, Denise y Babette.*
 
 [![Un hombre y una adolescente de rodillas junto a un radiador abierto en un baño de noche; bajo la tapa, un frasco ámbar pegado con cinta.](../img/261025_white-noise_el-frasco-de-dylar.jpg)](../img/261025_white-noise_el-frasco-de-dylar.jpg)
 
@@ -1788,8 +1740,6 @@ Heinrich cuenta que ya fue a una dermatóloga y que ella le dijo que tiene una z
 ---
 
 ### Capítulo 25: Winnie Richards, la Brillante
-
-*Jack, Winnie y Babette.*
 
 [![En una sala de laboratorio llena de cerebros en frascos, una joven alta de túnica verde pálido aprieta unos archivos contra el pecho y mira con miedo hacia una puerta; un hombre agitado bebe agua de un vaso de papel.](../img/261025_white-noise_winnie-richards-la-brillante.jpg)](../img/261025_white-noise_winnie-richards-la-brillante.jpg)
 
@@ -1863,8 +1813,6 @@ Winnie reconocería cualquier droga conocida, y esta no. Mira la puerta con mied
 ---
 
 ### Capítulo 26: La Confesión de Babette
-
-*Babette, Jack y Mr. Gray.*
 
 [![De noche, en un dormitorio, un hombre con gafas y bata de franela está sentado al borde de la cama y sostiene la mano de su esposa, que se arropa en una colcha con el rostro pálido y lleno de pena; un radiodespertador brilla en verde sobre la mesilla.](../img/261025_white-noise_la-confesion-de-babette.jpg)](../img/261025_white-noise_la-confesion-de-babette.jpg)
 
@@ -2014,8 +1962,6 @@ Después ella se duerme inquieta. La radio se enciende. Jack va al baño, se lav
 
 ### Capítulo 27: El Simulacro
 
-*Jack, Steffie, Orest y Babette.*
-
 [![En una calle fría, un hombre con gafas y abrigo se agacha junto a una niña de nueve años tendida en el suelo como víctima de un simulacro, con una manga extendida; al fondo hay una ambulancia, un hombre con brazalete y voluntarios tendidos.](../img/261025_white-noise_el-simulacro.jpg)](../img/261025_white-noise_el-simulacro.jpg)
 
 Jack vuelve a casa por Elm y encuentra la calle cerrada por un simulacro. Un hombre con brazalete SIMUVAC le ordena retroceder. Jack pregunta qué significa estar en la franja de exposición. El hombre responde:
@@ -2143,8 +2089,6 @@ Denise no cede. Jack cuenta:
 
 ### Capítulo 28: El Almuerzo de los Neoyorquinos
 
-*Jack, Steffie, Grappa y Murray.*
-
 [![En un comedor universitario, cuatro hombres de toga negra se sientan ante una larga mesa de madera; uno enciende un cigarrillo y acerca la cerilla a una ensaladera, otros dos lo miran con aire de cine negro y un hombre de gafas observa desde el extremo.](../img/261025_white-noise_el-almuerzo-de-los-neoyorquinos.jpg)](../img/261025_white-noise_el-almuerzo-de-los-neoyorquinos.jpg)
 
 En la cocina, Wilder mira hervir el agua y Steffie cuenta que a la evacuación no se presentó mucha gente. Jack responde:
@@ -2252,8 +2196,6 @@ Siguen caminando. Jack cuenta:
 
 ### Capítulo 29: Los Pasillos
 
-*Jack y Babette.*
-
 [![En el pasillo de un supermercado iluminado, un hombre de abrigo oscuro y gafas y una mujer de cabello claro avanzan juntos, cada uno con un carrito, mientras al fondo una familia compra hablando con las manos.](../img/261025_white-noise_los-pasillos.jpg)](../img/261025_white-noise_los-pasillos.jpg)
 
 Jack cuenta que va de compras al supermercado con Babette:
@@ -2306,8 +2248,6 @@ Jack le habla a Babette y la describe como una persona fuerte, sana y afirmativa
 ---
 
 ### Capítulo 30: La Puesta de Sol
-
-*Jack, Babette y Winnie.*
 
 [![Una mujer menuda con gorro de lana y un hombre con abrigo oscuro están de pie en lo alto de una colina del campus, mirando hacia el oeste un cielo en llamas sobre las casas y los árboles desnudos.](../img/261025_white-noise_la-puesta-de-sol.jpg)](../img/261025_white-noise_la-puesta-de-sol.jpg)
 
@@ -2385,8 +2325,6 @@ Winnie se da vuelta, sonrojada. Jack cuenta:
 ---
 
 ### Capítulo 31: Comer en el Auto
-
-*Jack, Babette, Denise, Steffie, Heinrich y Wilder.*
 
 [![Dentro de un auto aparcado de noche bajo luces de neón, una familia con abrigos y sombreros come pollo de cartones en silencio, todos mirando hacia delante, mientras afuera pasan otros autos.](../img/261025_white-noise_comer-en-el-auto.jpg)](../img/261025_white-noise_comer-en-el-auto.jpg)
 
@@ -2484,8 +2422,6 @@ Esa semana un policía dice que vio caer un cuerpo de un OVNI, y hay avistamient
 
 ### Capítulo 32: El Incendio
 
-*Jack, Murray, Heinrich y Howard.*
-
 [![De noche, un manicomio antiguo arde con llamas que salen por las buhardillas, mientras padres e hijos miran desde la acera frente a los camiones de bomberos.](../img/261025_white-noise_el-incendio.jpg)](../img/261025_white-noise_el-incendio.jpg)
 
 Jack camina por el campus con Murray y hablan de Howard Dunlop, el profesor de alemán. Jack cuenta:
@@ -2522,8 +2458,6 @@ Jack y Heinrich van en el auto a ver arder el manicomio, y una mujer con camisó
 ---
 
 ### Capítulo 33: La Pistola de Vernon
-
-*Jack, Vernon, Babette y Denise.*
 
 [![En un coche viejo y oscuro, estacionado frente a una casa de pueblo, un hombre mayor de chaqueta de mezclilla le tiende a otro algo pequeño envuelto en un trapo, bajo una farola.](../img/261025_white-noise_la-pistola-de-vernon.jpg)](../img/261025_white-noise_la-pistola-de-vernon.jpg)
 
@@ -2660,8 +2594,6 @@ Babette despide a Vernon en la acera. Jack cuenta:
 
 ### Capítulo 34: Basura y Potasio
 
-*Jack, Murray y el doctor Chakravarty.*
-
 [![En un consultorio de paredes verdosas, un médico de rostro hinchado y bata blanca lee un papel impreso mientras un hombre de mediana edad lo escucha sentado, inquieto.](../img/261025_white-noise_basura-y-potasio.jpg)](../img/261025_white-noise_basura-y-potasio.jpg)
 
 Llega la época de las arañas. Denise le dice a Babette que Steffie se examina el pecho en busca de bultos. Jack cuenta:
@@ -2737,8 +2669,6 @@ El doctor le habla del centro de Glassboro y de la prevención. Jack cuenta:
 ---
 
 ### Capítulo 35: La Jaula de Orest
-
-*Jack, Babette, Heinrich y Orest Mercator.*
 
 [![En un restaurante de reservados rojos, un hombre corpulento de cabeza maciza come espagueti mientras un padre y su hijo adolescente lo miran.](../img/261025_white-noise_la-jaula-de-orest.jpg)](../img/261025_white-noise_la-jaula-de-orest.jpg)
 
@@ -2841,8 +2771,6 @@ Jack lo ve comer y le habla de las serpientes. Jack cuenta:
 ---
 
 ### Capítulo 36: Cosecha de Otoño
-
-*Jack, Janet y el joven técnico de Autumn Harvest Farms.*
 
 [![En un despacho de paredes claras, un hombre de mediana edad sentado ante un escritorio escucha a un joven de bata blanca que sostiene un papel impreso.](../img/261025_white-noise_cosecha-de-otono.jpg)](../img/261025_white-noise_cosecha-de-otono.jpg)
 
@@ -2959,8 +2887,6 @@ El joven le pregunta por contaminantes y le habla de una masa nebulosa. Jack cue
 ---
 
 ### Capítulo 37: El largo paseo
-
-*Jack y Murray caminan por la ciudad hablando de la muerte.*
 
 [![Dos hombres caminan juntos por una calle sombreada de árboles en otoño, uno fuma una pipa.](../img/261025_white-noise_el-largo-paseo.jpg)](../img/261025_white-noise_el-largo-paseo.jpg)
 
@@ -3149,8 +3075,6 @@ Murray insiste en la teoría del asesino y del que muere. Jack cuenta:
 
 ### Capítulo 38: La pistola Zumwalt
 
-*Jack, Babette y Winnie Richards, entre el miedo y la noche.*
-
 [![Un hombre cruza corriendo un césped brumoso de noche y se pega a un roble, bajo luces tenues, en un campus vacío.](../img/261025_white-noise_la-pistola-zumwalt.jpg)](../img/261025_white-noise_la-pistola-zumwalt.jpg)
 
 Jack está en la cama con Babette y habla de reprimir el miedo. Jack cuenta:
@@ -3215,8 +3139,6 @@ Jack vuelve a casa y Babette quiere salir a correr de noche. Jack cuenta:
 ---
 
 ### Capítulo 39: Roadway Motel
-
-*Jack, Willie Mink y las monjas de Germantown.*
 
 [![Un motel de una planta bajo una autopista elevada, de noche y bajo la lluvia, con un cartel luminoso en la esquina.](../img/261025_white-noise_roadway-motel.jpg)](../img/261025_white-noise_roadway-motel.jpg)
 
@@ -3302,8 +3224,6 @@ Jack lleva a Mink a una clínica de monjas alemanas. Jack cuenta:
 ---
 
 ### Capítulo 40: El triciclo y el paso elevado
-
-*Wilder cruza la autopista, el cielo al atardecer y el supermercado reordenado.*
 
 [![Un niño pequeño en un triciclo sobre un terraplén junto a una autopista al atardecer, visto desde lejos, con un paso elevado al fondo y un cielo dorado.](../img/261025_white-noise_triciclo-paso-elevado.jpg)](../img/261025_white-noise_triciclo-paso-elevado.jpg)
 
