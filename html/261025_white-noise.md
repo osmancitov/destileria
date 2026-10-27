@@ -394,42 +394,38 @@ Llega el otoño: hojas, bolsas negras en la acera y niños que piden dulces en l
 
 [![Dunlop y Jack sentados frente a frente en un cuarto atestado, con un mapa del tiempo en la pared y un cielo gris en la ventana, haciendo muecas de pronunciación.](../img/261025_white-noise_dunlop-y-el-clima.jpg)](../img/261025_white-noise_dunlop-y-el-clima.jpg)
 
-Jack toma clases de alemán con Howard Dunlop, sentados frente a frente. Dunlop retuerce la cara al pronunciar. Jack cuenta:
+> Iba a clases de alemán dos veces por semana, a última hora de la tarde, con la oscuridad llegando más temprano en cada visita. Era la regla de trabajo de Howard Dunlop que nos sentáramos frente a frente durante toda la lección. Quería que yo estudiara las posiciones de su lengua mientras demostraba la pronunciación de las consonantes, los diptongos, las vocales largas y cortas. Él, a su vez, miraba de cerca dentro de mi boca cuando yo intentaba reproducir aquellos sonidos infelices.
+> [Párrafo 1](#original-wn-12-p1)
 
-> Cuando llegaba mi turno de repetir los ruidos, hacía lo mismo, aunque solo fuera por complacer al profesor, retorciendo la boca, cerrando los ojos del todo, consciente de una sobrearticulación tan torturada que debía de sonar como un doblegamiento repentino de la ley natural, una piedra o un árbol luchando por hablar.
-> [Frase 1352](#original-1352)
+Dunlop es el maestro de alemán que Jack contrató para remediar su vergüenza académica: presidir los estudios sobre Hitler sin saber alemán. Su método convierte la lección en un examen dental mutuo, dos bocas abiertas frente a frente.
 
-Jack le pregunta a Dunlop cuántos alumnos tiene. Dunlop dice que ya no tiene tantos. Jack cuenta:
+> La suya era una cara mansa y tranquila, una superficie ovalada sin rastro de singularidad hasta que empezaba sus rutinas vocales. Entonces comenzaba la deformación. Era algo sobrecogedor de ver, vergonzosamente fascinante, como podría serlo una convulsión presenciada en un entorno controlado. Metía la cabeza en el tronco, entornaba los ojos, hacía muecas humanoides. Cuando me tocaba repetir los ruidos, yo hacía lo mismo, aunque solo fuera por complacer al maestro: torcía la boca, cerraba los ojos por completo, consciente de una articulación tan torturada que debió de sonar como una doblez súbita de la ley natural, una piedra o un árbol luchando por hablar. Cuando abría los ojos, él estaba a centímetros de mi boca, inclinado para mirar dentro. Solía preguntarme qué veía ahí.
+> [Párrafo 2](#original-wn-12-p2)
 
-> «¿Enseña algo más?», dije.
-> [Frase 1376](#original-1376)
+La escena roza lo grotesco y se queda en ternura: dos adultos haciendo muecas a centímetros uno del otro. Aprender un idioma aparece aquí como un acto corporal, casi una posesión: la lengua extranjera como una ley natural que se dobla.
 
-Al volver a casa, Jack encuentra a Bob Pardee, el padre de Denise, practicando su swing de golf en la cocina. Jack cuenta:
+Antes y después de cada lección hay silencios tensos. Dunlop fue quiropráctico; habla de los inquilinos y del casero con una queja arrastrada, como quien pasó la vida entre gente que no capta el punto. Jack es su único alumno de alemán: el alemán ha decaído, estas cosas van en ciclos. También enseña griego, latín y navegación oceánica. «Es asombroso cuánta gente enseña hoy», dice Jack. Dunlop mira hacia un armario. También enseña meteorología.
 
-> Dijo que pasaba por la ciudad camino de Glassboro para hacer una presentación y que había pensado llevarnos a todos a cenar.
-> [Frase 1413](#original-1413)
+> «La muerte de mi madre tuvo un impacto terrible en mí. Me derrumbé por completo, perdí mi fe en Dios. Estaba inconsolable, encerrado totalmente en mí mismo. Entonces, un día, por casualidad, vi un pronóstico del tiempo en la televisión. Un hombre joven y dinámico, con un puntero brillante, estaba de pie ante una foto satelital multicolor, prediciendo el tiempo de los cinco días siguientes. Me quedé allí sentado, hipnotizado por su seguridad y su destreza. Era como si un mensaje se transmitiera desde el satélite meteorológico a través de ese joven y luego hasta mí, en mi silla de lona. Recurrí a la meteorología en busca de consuelo. Leía mapas del tiempo, coleccionaba libros sobre el clima, asistía a lanzamientos de globos meteorológicos. Comprendí que el clima era algo que había estado buscando toda mi vida. Me trajo una paz y una seguridad que nunca había conocido. Rocío, escarcha y niebla. Ráfagas de nieve. La corriente en chorro. Creo que hay una grandeza en la corriente en chorro. Empecé a salir de mi caparazón, a hablar con la gente en la calle. "Lindo día." "Parece que va a llover." "¿No hace demasiado calor?" Todo el mundo se fija en el clima. Lo primero al levantarse es ir a la ventana a mirar el tiempo. Usted lo hace, yo lo hago. Hice una lista de metas que esperaba alcanzar en la meteorología. Tomé un curso por correspondencia, obtuve un título para enseñar la materia en edificios con ocupación legal inferior a cien personas. He enseñado meteorología en sótanos de iglesias, en campamentos de remolques, en los estudios y las salas de la gente. Vinieron a oírme a Millers Creek, Lumberville, Watertown. Obreros de fábrica, amas de casa, comerciantes, miembros de la policía y de los bomberos. Vi algo en sus ojos. Un hambre, una necesidad imperiosa».
+> [Párrafo 17](#original-wn-12-p17)
 
-Bob se lleva a los tres hijos mayores al Wagon Wheel. Jack lleva a Babette a leerle al ciego Treadwell. Jack cuenta:
+La fe que Dunlop perdió con su madre vuelve por el canal del clima: un joven seguro ante una foto de satélite. «Lindo día», «parece que va a llover»: la liturgia mínima con que dos desconocidos se reconocen. Su título, válido solo para edificios de menos de cien personas, mide la escala exacta de su redención.
 
-> El plan era que, después de la lectura, los tres nos reuniríamos con el grupo del Wagon Wheel en el Dinky Donut, donde ellos tomarían postre y nosotros cenaríamos.
-> [Frase 1453](#original-1453)
+Hay agujeritos en los puños de su camiseta térmica. Es la hora del año y del día en que una pequeña tristeza insistente pasa a la textura de las cosas. En casa, Bob Pardee, el padre de Denise, practica su swing de golf en la cocina: va de paso hacia Glassboro para una presentación y quiere llevarlos a todos a cenar.
 
-Babette entra en la casa de Treadwell, y no hay nadie. Jack cuenta:
+> «Ah, ya sabes. Gráficos, flechas. Pegarle colores a una pared. Es una herramienta básica de difusión, cariño».
+> [Párrafo 22](#original-wn-12-p22)
 
-> En el Dinky Donut, a las afueras, Bob Pardee estaba sentado en silencio mientras la familia comía y hablaba.
-> [Frase 1468](#original-1468)
+«Gráficos, flechas»: la jerga de Bob Pardee no explica nada, y esa es su función. Denise, de once años, es la única que interroga los empleos de su padre; la novela reparte la lucidez entre los niños y el vértigo entre los adultos.
 
-Bob parece derrotado. Jack cuenta:
+Bob cambió otra vez de empleo: recauda fondos para la Nuclear Accident Readiness Foundation, un fondo legal de la industria nuclear, «por si acaso». Se lleva a los tres mayores al Wagon Wheel; Jack lleva a Babette y Wilder a la casa del Viejo Treadwell, el ciego al que ella lee. La puerta está abierta y la casa, vacía: nadie ha visto a los Treadwell en días. En el cuartel de la policía estatal, una empleada les dice que hay una desaparición cada once segundos, y graba todo lo que dicen.
 
-> Me di cuenta de que Babette lo miraba con atención, tratando de captar el sentido de los cuatro años turbulentos que habían pasado como marido y mujer.
-> [Frase 1472](#original-1472)
+> En el Dinky Donut, a las afueras del pueblo, Bob Pardee se sentó en silencio mientras la familia comía y hablaba. La suave cara rosada de golfista había empezado a desprendérsele del cráneo. Su carne parecía colgar en general, dándole el aire apesadumbrado de alguien que tiene órdenes estrictas de adelgazar. Su pelo estaba cortado y escalonado con lujo, con cierta cantidad de color peinado dentro, cierta cantidad de tecnología aplicada, pero parecía necesitar una cabeza más dinámica. Me di cuenta de que Babette lo miraba con atención, intentando captar el sentido de los cuatro años desbocados que habían pasado como marido y mujer. La carnicería panorámica. Él bebía, jugaba, conducía su coche por los terraplenes, lo despedían, renunciaba, se retiraba, viajaba disfrazado a Coaltown, donde le pagaba a una mujer para que le hablara en sueco mientras se acostaban. Era lo del sueco lo que enfurecía a Babette, eso o su necesidad de confesarlo, y ella lo golpeaba: lo golpeaba con el dorso de las manos, con los codos y las muñecas. Viejos amores, viejos miedos. Ahora lo miraba con una simpatía tierna, una reflexividad que parecía honda, afectuosa y lo bastante generosa para contener todos los contrahechizos mágicos contra su racha actual de desdichas, aunque yo sabía, por supuesto, mientras volvía a mi libro, que era solo un cariño pasajero, una de esas bondades que nadie entiende.
+> [Párrafo 42](#original-wn-12-p42)
 
-Babette mira a Bob con ternura. Jack cuenta:
+La «carnicería panorámica» resume un matrimonio entero en dos palabras. Lo que enfurece a Babette no es la infidelidad sino su adorno: el sueco pagado, la confesión. Y sin embargo lo mira con ternura; la novela registra ese tránsito sin explicarlo: «una de esas bondades que nadie entiende».
 
-> Ahora lo miraba con una tierna simpatía, una reflexividad que parecía profunda, cariñosa y lo bastante generosa para contener todos los contrahechizos mágicos de su actual racha de desgracias, aunque yo sabía, claro, mientras volvía a mi libro, que era solo un afecto pasajero, una de esas bondades que nadie entiende.
-> [Frase 1477](#original-1477)
-
-Al día siguiente, a mediodía, la policía rastrea el río.
+Al mediodía del día siguiente ya dragaban el río.
 
 ---
 
@@ -3325,26 +3321,20 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 ### Capítulo 12: Dunlop y el Clima
 
-> [Frase 1352](#lugar-1352)
-> When it was time for me to repeat the noises I did likewise, if only to please the teacher, twisting my mouth, shutting my eyes completely, conscious of an overarticulation so tortured it must have sounded like a sudden bending of the natural law, a stone or tree struggling to speak.
+> [Párrafo 1](#lugar-wn-12-p1)
+> I went to german lessons twice a week, in the late afternoon, darkness crowding in earlier with each succeeding visit. It was Howard Dunlop’s working rule that we sit facing each other during the full length of the lesson. He wanted me to study his tongue positions as he demonstrated the pronunciation of consonants, diphthongs, long and short vowels. He in turn would look closely into my mouth as I attempted to reproduce the unhappy sounds.
 
-> [Frase 1376](#lugar-1376)
-> "Do you teach anything else?" I said.
+> [Párrafo 2](#lugar-wn-12-p2)
+> His was a mild and quiet face, an oval surface with no hint of distinctiveness until he started his vocal routines. Then the warping began. It was an eerie thing to see, shamefully fascinating, as a seizure might be if witnessed in a controlled environment. He tucked his head into his trunk, narrowed his eyes, made grimacing humanoid faces. When it was time for me to repeat the noises I did likewise, if only to please the teacher, twisting my mouth, shutting my eyes completely, conscious of an overarticulation so tortured it must have sounded like a sudden bending of the natural law, a stone or tree struggling to speak. When I opened my eyes he was only inches from my mouth, leaning in to peer. I used to wonder what he saw in there.
 
-> [Frase 1413](#lugar-1413)
-> He said he was driving through town on his way to Glassboro to make a presentation and thought he'd take us all to dinner.
+> [Párrafo 17](#lugar-wn-12-p17)
+> “My mother’s death had a terrible impact on me. I collapsed totally, lost my faith in God. I was inconsolable, withdrew completely into myself. Then one day by chance I saw a weather report on TV A dynamic young man with a glowing pointer stood before a multicolored satellite photo, predicting the weather for the next five days. I sat there mesmerized by his self-assurance and skill. It was as though a message was being transmitted from the weather satellite through that young man and then to me in my canvas chair. I turned to meteorology for comfort. I read weather maps, collected books on weather, attended launchings of weather balloons. I realized weather was something I’d been looking for all my life. It brought me a sense of peace and security I’d never experienced. Dew, frost and fog. Snow flurries. The jet stream. I believe there is a grandeur in the jet stream. I began to come out of my shell, talk to people in the street. ‘Nice day.’ ‘Looks like rain.’ ‘Hot enough for you?’ Everyone notices the weather. First thing on rising, you go to the window, look at the weather. You do it, I do it. I made a list of goals I hoped to achieve in meteorology. I took a correspondence course, got a degree to teach the subject in buildings with a legal occupancy of less than one hundred. I’ve taught meteorology in church basements, in trailer parks, in people’s dens and living rooms. They came to hear me in Millers Creek, Lumberville, Watertown. Factory workers, housewives, merchants, members of the police and the fire. I saw something in their eyes. A hunger, a compelling need.”
 
-> [Frase 1453](#lugar-1453)
-> The plan was that after the reading the three of us would meet the Wagon Wheel group at the Dinky Donut, where they would have dessert and we would have dinner.
+> [Párrafo 22](#lugar-wn-12-p22)
+> “Oh, you know. Charts, arrows. Slap some colors on a wall. It’s a basic outreach tool, sweetheart.”
 
-> [Frase 1468](#lugar-1468)
-> At the Dinky Donut, outside town, Bob Pardee sat quietly as the family ate and talked.
-
-> [Frase 1472](#lugar-1472)
-> I realized Babette was looking at him carefully, trying to grasp the meaning of the four careening years they'd spent as man and wife.
-
-> [Frase 1477](#lugar-1477)
-> Now she watched him with a tender sympathy, a reflectiveness that seemed deep and fond and generous enough to contain all the magical coun-terspells to his current run of woe, although I knew, of course, as I went back to my book, that it was only a passing affection, one of those kindnesses no one understands.
+> [Párrafo 42](#lugar-wn-12-p42)
+> At the Dinky Donut, outside town, Bob Pardee sat quietly as the family ate and talked. The soft pink golfer’s face had begun to droop from his skull. His flesh seemed generally to sag, giving him the hang-dog look of someone under strict orders to lose weight. His hair was expensively cut and layered, a certain amount of color combed in, a certain amount of technology brought to bear, but it seemed to need a more dynamic head. I realized Babette was looking at him carefully, trying to grasp the meaning of the four careening years they’d spent as man and wife. The panoramic carnage. He drank, gambled, drove his car down embankments, got fired, quit, retired, traveled in disguise to Coaltown where he paid a woman to speak Swedish to him as they screwed. It was the Swedish that enraged Babette, either that or his need to confess it, and she hit out at him—hit out with the backs of her hands, with her elbows and wrists. Old loves, old fears. Now she watched him with a tender sympathy, a reflectiveness that seemed deep and fond and generous enough to contain all the magical counterspells to his current run of woe, although I knew, of course, as I went back to my book, that it was only a passing affection, one of those kindnesses no one understands.
 
 ---
 
