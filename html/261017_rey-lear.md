@@ -1,6 +1,6 @@
 17 de octubre de 2026
 
-# La Tragedia del Rey Lear
+# La tragedia del rey Lear
 
 [![Óleo: un rey anciano de barba blanca y un bufón con gorra de cascabeles y laúd cruzan un páramo bajo un cielo inmenso de tormenta, al estilo de Jacob van Ruisdael.](img/261017_rey-lear_og.jpg)](img/261017_rey-lear_og.jpg)
 

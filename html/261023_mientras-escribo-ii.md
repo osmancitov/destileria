@@ -1,10 +1,10 @@
-# Mientras Escribo II
+# Mientras escribo II
 
 23 de octubre de 2026
 
 [![Óleo: el escritorio de un escritor en un rincón bajo el alero, al atardecer, con una máquina de escribir y una hoja a medio escribir, una pila de cuartillas, una taza, una lámpara encendida y una caja de herramientas de carpintero cerrada junto a la ventana.](../img/261023_mientras-escribo-ii.jpg)](../img/261023_mientras-escribo-ii.jpg)
 
-Mientras Escribo II sigue a Mientras Escribo I, la primera parte del libro de Stephen King sobre el oficio de escribir, On Writing. Empieza donde la otra termina, en «What Writing Is» («Qué Es Escribir»), y recorre «Toolbox» («Caja de Herramientas»), «On Writing» («Mientras Escribo»), «On Living» («Sobre Vivir») y «And Furthermore» («Y Además»), que trae un ejemplo de edición y una lista de libros.
+Mientras escribo II sigue a Mientras escribo I, la primera parte del libro de Stephen King sobre el oficio de escribir, On Writing. Empieza donde la otra termina, en «What Writing Is» («Qué es escribir»), y recorre «Toolbox» («Caja de herramientas»), «On Writing» («Mientras escribo»), «On Living» («Sobre vivir») y «And Furthermore» («Y además»), que trae un ejemplo de edición y una lista de libros.
 
 
 ---

@@ -1,14 +1,14 @@
 12 de octubre de 2026
 
-# El Libro de Arena: trece cuentos
+# El libro de arena: trece cuentos
 
 [![Óleo de fantasía al estilo de El Bosco: unas manos enguantadas sostienen un libro antiguo cuyas páginas se multiplican y se disuelven en arena, en una biblioteca en penumbra.](img/261012_borges_arena_og.jpg)](img/261012_borges_arena_og.jpg)
 
 Jorge Luis Borges
 
-En 1975, Jorge Luis Borges publicó *El Libro de Arena*, trece cuentos que el autor prefiere presentar con un epílogo en lugar de un prólogo, porque prologar cuentos todavía no leídos es tarea casi imposible. Un viejo y un muchacho que son el mismo hombre conversan en un banco junto a un río, un congreso crece hasta confundirse con el cosmos y la suma de los días, una utopía cansa al hombre que la imagina y un libro de páginas infinitas se vuelve un objeto de pesadilla para quien lo posee. Esta lectura sigue los cuentos uno por uno: pasajes de Borges, con el número de su frase, y entre ellos unos textos cuentan lo que pasa y explican lo que haga falta.
+En 1975, Jorge Luis Borges publicó *El libro de arena*, trece cuentos que el autor prefiere presentar con un epílogo en lugar de un prólogo, porque prologar cuentos todavía no leídos es tarea casi imposible. Un viejo y un muchacho que son el mismo hombre conversan en un banco junto a un río, un congreso crece hasta confundirse con el cosmos y la suma de los días, una utopía cansa al hombre que la imagina y un libro de páginas infinitas se vuelve un objeto de pesadilla para quien lo posee. Esta lectura sigue los cuentos uno por uno: pasajes de Borges, con el número de su frase, y entre ellos unos textos cuentan lo que pasa y explican lo que haga falta.
 
-## 1. El Otro
+## 1. El otro
 
 [![Óleo de fantasía: un anciano y un muchacho idénticos, sentados en los extremos de un mismo banco frente a un río con hielo, al estilo de El Bosco](img/261012_borges_arena_i-1.jpg)](img/261012_borges_arena_i-1.jpg)
 
@@ -666,7 +666,7 @@ El crimen es de una línea: un hachazo en la nuca. Busca el disco y no lo encuen
 
 ---
 
-## 13. El Libro de Arena
+## 13. El libro de arena
 
 [![Óleo de fantasía: un hombre en una biblioteca infinita, de cuyas manos brotan las páginas sin fin de un libro de arena, al estilo de El Bosco](img/261012_borges_arena_i-13.jpg)](img/261012_borges_arena_i-13.jpg)
 

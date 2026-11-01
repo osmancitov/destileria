@@ -8,13 +8,13 @@ Aquí se ensaya algo parecido con los libros: quitar lo que sobra hasta encontra
 
 - [How to DeFi: Beginner](html/261031_how-to-defi-beginner.html): el manual del equipo de CoinGecko para aprender finanzas descentralizadas desde cero, destilado capítulo a capítulo.
 - [White Noise](html/261025_white-noise.html): la novela de Don DeLillo, destilada capítulo a capítulo.
-- [Autobiografía de un Yogui](html/261017_autobiografia-de-un-yogui.html): la vida de Paramhansa Yogananda contada por él mismo, destilada capítulo a capítulo.
-- [Mientras Escribo II](html/261023_mientras-escribo-ii.html): la segunda parte del libro de Stephen King sobre el oficio de escribir, destilado sección a sección; incluye «Qué es escribir», «Caja de herramientas», en cinco unidades, y «Mientras escribo», en diecisiete.
-- [Mientras Escribo I](html/261017_mientras-escribo.html): el libro de Stephen King sobre el oficio de escribir, destilado sección a sección; esta primera parte llega hasta el final del C.V.
-- [La Tragedia del Rey Lear](html/261017_rey-lear.html): la obra de William Shakespeare, destilada escena a escena.
+- [Autobiografía de un yogui](html/261017_autobiografia-de-un-yogui.html): la vida de Paramhansa Yogananda contada por él mismo, destilada capítulo a capítulo.
+- [Mientras escribo II](html/261023_mientras-escribo-ii.html): la segunda parte del libro de Stephen King sobre el oficio de escribir, destilado sección a sección; incluye «Qué es escribir», «Caja de herramientas», en cinco unidades, y «Mientras escribo», en diecisiete.
+- [Mientras escribo I](html/261017_mientras-escribo.html): el libro de Stephen King sobre el oficio de escribir, destilado sección a sección; esta primera parte llega hasta el final del C.V.
+- [La tragedia del rey Lear](html/261017_rey-lear.html): la obra de William Shakespeare, destilada escena a escena.
 - [Todo es una voz: una glosa de Victor Hugo](html/261015_todo-es-una-voz.html): «todo es una voz y todo es un perfume», leído con calma.
 - [Ce que dit la bouche d’ombre: un poema de Victor Hugo](html/261014_ce-que-dit-la-bouche-dombre.html): el poema entero de donde viene la hidra Universo, en francés y en castellano.
-- [El Otro: un Cuento de Borges](html/261015_el-otro.html): el primer cuento de El Libro de Arena, solo, para leerlo con calma.
-- [El Libro de Arena](html/261012_borges_arena.html): una lectura breve de los cuentos de Jorge Luis Borges.
+- [El otro: un cuento de Borges](html/261015_el-otro.html): el primer cuento de El libro de arena, solo, para leerlo con calma.
+- [El libro de arena](html/261012_borges_arena.html): una lectura breve de los cuentos de Jorge Luis Borges.
 - [Macbeth](html/261009_macbeth.html): la obra de William Shakespeare, que se va poblando escena a escena.
 - [Bodega 103](bodega-103/README.md): Recuerdos de la primera Destilería.

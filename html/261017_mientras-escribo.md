@@ -1,8 +1,8 @@
-# Mientras Escribo I
+# Mientras escribo I
 
 [![Óleo: una vieja caja de herramientas de carpintero abierta sobre el escritorio de un escritor, con un manuscrito mecanografiado y una pluma entre las herramientas, una máquina de escribir y una pila de cuartillas al lado, en luz cálida de taller al final de la tarde.](../img/261017_mientras-escribo.jpg)](../img/261017_mientras-escribo.jpg)
 
-*Mientras Escribo* es el título castellano de *On Writing*, el libro en que Stephen King cuenta cómo llegó al oficio de escribir y cómo se hace. Scribner lo publicó el 3 de octubre de 2000 y Plaza & Janés lo editó en castellano en 2001. Esta primera parte reúne los tres prólogos y la primera sección del libro, «C.V.», que aquí se titula La Memoria: la infancia de King, la universidad, la lavandería, su primer libro y la bebida. La segunda parte empieza en «What Writing Is».
+*Mientras escribo* es el título castellano de *On Writing*, el libro en que Stephen King cuenta cómo llegó al oficio de escribir y cómo se hace. Scribner lo publicó el 3 de octubre de 2000 y Plaza & Janés lo editó en castellano en 2001. Esta primera parte reúne los tres prólogos y la primera sección del libro, «C.V.», que aquí se titula La Memoria: la infancia de King, la universidad, la lavandería, su primer libro y la bebida. La segunda parte empieza en «What Writing Is».
 
 
 ---
