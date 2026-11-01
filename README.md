@@ -8,7 +8,7 @@ Aquí se ensaya algo parecido con los libros: quitar lo que sobra hasta encontra
 
 - [How to DeFi: Beginner](html/261031_how-to-defi-beginner.html): el manual del equipo de CoinGecko para aprender finanzas descentralizadas desde cero, destilado capítulo a capítulo.
 - [White Noise](html/261025_white-noise.html): la novela de Don DeLillo, destilada capítulo a capítulo.
-- [Autobiografía de un yogui](html/261017_autobiografia-de-un-yogui.html): la vida de Paramhansa Yogananda contada por él mismo, destilada capítulo a capítulo.
+- [Autobiografía de un Yogui](html/261017_autobiografia-de-un-yogui.html): la vida de Paramhansa Yogananda contada por él mismo, destilada capítulo a capítulo.
 - [Mientras Escribo II](html/261023_mientras-escribo-ii.html): la segunda parte del libro de Stephen King sobre el oficio de escribir, destilado sección a sección; incluye «Qué es escribir», «Caja de herramientas», en cinco unidades, y «Mientras escribo», en diecisiete.
 - [Mientras Escribo I](html/261017_mientras-escribo.html): el libro de Stephen King sobre el oficio de escribir, destilado sección a sección; esta primera parte llega hasta el final del C.V.
 - [La Tragedia del Rey Lear](html/261017_rey-lear.html): la obra de William Shakespeare, destilada escena a escena.
