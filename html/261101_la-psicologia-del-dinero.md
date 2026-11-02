@@ -129,6 +129,88 @@ Los fondos índice tienen menos de cincuenta años. Los perros, domesticados hac
 
 ---
 
+## Capítulo 2: Suerte y riesgo
+
+[![Dos adolescentes ante un terminal de teletipo en el aula de una escuela en 1968, absortos en el papel que imprime la máquina; luz de tarde entrando por la ventana. Al estilo de Norman Rockwell.](../img/261101_la-psicologia-del-dinero_suerte-y-riesgo.jpg)](../img/261101_la-psicologia-del-dinero_suerte-y-riesgo.jpg)
+
+La suerte y el riesgo son hermanos, abre el capítulo. El profesor Scott Galloway, de la Universidad de Nueva York, tiene la idea hermana: nada es tan bueno ni tan malo como parece. Housel lo cuenta con una historia. Bill Gates fue a uno de los pocos institutos del mundo que tenían una computadora, y cómo la consiguió la Escuela Lakeside, a las afueras de Seattle, es notable por sí mismo.
+
+> Bill Dougall fue piloto de la marina en la Segunda Guerra Mundial y después profesor de matemáticas y ciencias en un instituto. "Creía que estudiar los libros no bastaba sin experiencia del mundo real. También se dio cuenta de que necesitaríamos saber algo de computadoras cuando llegáramos a la universidad", recordó Paul Allen, el difunto cofundador de Microsoft.
+> [Párrafo 5](#original-psicologia-cap2-p5)
+
+Bill Dougall daba clases en Lakeside, la escuela privada donde estudió Gates. El recuerdo es de Paul Allen, cofundador de Microsoft con Gates y compañero suyo en Lakeside.
+
+> En 1968 Dougall pidió al Club de Madres de la Escuela Lakeside que usara lo recaudado en su venta benéfica anual, unos 3.000 dólares, para arrendar una computadora Teletype Model 30 conectada al terminal central de General Electric para trabajar en tiempo compartido. "La idea misma del tiempo compartido se acababa de inventar en 1965", dijo Gates años después. "Alguien fue bastante visionario".
+> [Párrafo 6](#original-psicologia-cap2-p6)
+
+El tiempo compartido permitía a varios usuarios trabajar a la vez sobre una misma computadora remota, cara y escasa entonces. El Club de Madres financiaba proyectos del colegio con una venta anual de objetos usados. Gates tenía trece años.
+
+Con esa máquina, Gates y Allen se volvieron expertos. Su amigo Kent Evans tenía el mismo talento.
+
+> Evans manejaba las computadoras tan bien como Gates y Allen. Lakeside tuvo una vez que armar a mano el horario de clases del colegio, un laberinto de complejidad para dar a cientos de estudiantes las materias que necesitan a horas que no choquen con otras materias. El colegio encargó a Bill y a Kent, niños por donde se mire, construir un programa de computadora que resolviera el problema. Funcionó.
+> [Párrafo 26](#original-psicologia-cap2-p26)
+
+Kent Evans era el mejor amigo de Gates en Lakeside; con él soñó sus primeras empresas. No llegó a la universidad: murió en un accidente de montañismo antes de graduarse, una probabilidad tan remota como la de estudiar con computadora en 1968.
+
+De un millón de institutos, solo uno tenía computadora, y Gates cayó en él. Él mismo lo dice: sin Lakeside no habría Microsoft. Del lado contrario está Evans, con el mismo talento y la misma pasión, al que el azar le cerró todo. Por eso Housel pone los dos nombres uno al lado del otro.
+
+> La suerte y el riesgo son una misma realidad: todo resultado en la vida lo guían fuerzas ajenas al esfuerzo individual. Se parecen tanto que no puedes creer en una sin respetar igual al otro. Ambos ocurren porque el mundo es demasiado complejo para que el 100 % de tus actos dicte el 100 % de tus resultados. Los mueve lo mismo: eres una persona en un juego con otros siete mil millones de personas y piezas en movimiento infinitas.
+> [Párrafo 36](#original-psicologia-cap2-p36)
+
+La tesis del capítulo. El esfuerzo cuenta, pero ningún resultado se explica solo con él, porque el mundo mete demasiadas variables en juego.
+
+Aceptarlo cuesta. Cuando Housel sugiere cuánto del éxito financiero se debe a la suerte, la reacción suele ser a la defensiva.
+
+> Me encanta esa respuesta, porque nadie piensa de verdad que la suerte no juegue un papel en el éxito financiero. Pero como es difícil cuantificar la suerte y de mala educación insinuar que el éxito ajeno se le debe a ella, la postura por defecto suele ser ignorarla en silencio como factor del éxito.
+> [Párrafo 42](#original-psicologia-cap2-p42)
+
+La respuesta defensiva le encanta a Housel porque delata un doble rasero: nadie niega la suerte en abstracto, pero nombrarla en un caso concreto suena a insulto.
+
+Hay fuerzas que no dependen de ti y pesan desde la cuna.
+
+> El economista Bhashkar Mazumder ha mostrado que los ingresos entre hermanos están más correlacionados que la estatura o el peso. Si eres rico y alto, es más probable que tu hermano también sea rico a que sea alto. Creo que la mayoría sabemos por intuición que es verdad: la calidad de tu educación y las puertas que se te abren están muy ligadas a la posición socioeconómica de tus padres.
+> [Párrafo 46](#original-psicologia-cap2-p46)
+
+Mazumder es economista e investiga cómo se transmiten los ingresos entre generaciones. La comparación con la estatura hace visible lo que la intuición ya sabe: el punto de partida familiar pesa más que muchos rasgos heredados.
+
+Con el riesgo pasa lo mismo, y juzgarlo de frente incomoda. Vanderbilt y Rockefeller, dos gigantes del capitalismo, quebrantaban la ley con naturalidad.
+
+> Cornelius Vanderbilt acababa de cerrar una serie de negocios para expandir su imperio ferroviario.
+> [Párrafo 65](#original-psicologia-cap2-p65)
+
+Cornelius Vanderbilt armó en el siglo XIX el mayor imperio ferroviario y naviero de Estados Unidos. Housel cuenta que su desprecio por la ley era notorio y parte de su éxito.
+
+Los biógrafos leen esa despreocupación por la ley como audacia fundacional.
+
+> Pero ¿qué tan peligroso es ese análisis? Nadie en su sano juicio recomendaría el delito flagrante como rasgo emprendedor. Es fácil imaginar la historia de Vanderbilt con un final muy distinto: un forajido cuya joven empresa se derrumbó por orden judicial.
+> [Párrafo 71](#original-psicologia-cap2-p71)
+
+El mismo Vanderbilt que desafiaba la ley pudo terminar en la ruina judicial. La lección cambia según el desenlace, aunque la conducta sea la misma.
+
+Rockefeller sigue el mismo molde.
+
+> John D. Rockefeller es parecido. Su frecuente burla de la ley, un juez llamó una vez a su empresa "no mejor que un ladrón común", suele ser retratada por los historiadores como astucia para los negocios. Quizá lo era. Pero ¿cuándo cambia el relato de "no dejaste que leyes anticuadas estorbaran la innovación" a "cometiste un delito"? ¿O qué poco tendría que cambiar la historia para que el relato pasara de "Rockefeller era un genio, aprende de sus aciertos" a "Rockefeller era un criminal, aprende de sus fracasos empresariales"? Muy poco.
+> [Párrafo 74](#original-psicologia-cap2-p74)
+
+John D. Rockefeller fundó Standard Oil y llegó a ser el hombre más rico de su época. Housel no niega su genio: pregunta dónde empieza el relato del delito.
+
+El caso más incómodo es el de un maestro reconocido.
+
+> Benjamin Graham es conocido como uno de los mayores inversores de todos los tiempos, el padre de la inversión en valor y el primer mentor de Warren Buffett. Pero la mayor parte de su éxito invirtiendo se debió a poseer un enorme paquete de acciones de GEICO que, según su propia admisión, rompía casi todas las reglas de diversificación que el propio Graham fijó en sus famosos textos. ¿Dónde cae aquí la delgada línea entre audaz y temerario? No lo sé. Graham escribió sobre su bonanza de GEICO: "¿Un golpe de suerte o una decisión supremamente astuta? ¿Podemos distinguirlas?". No fácilmente.
+> [Párrafo 78](#original-psicologia-cap2-p78)
+
+Benjamin Graham escribió el manual que formó a Buffett y predicaba la diversificación. GEICO es una aseguradora: aquella apuesta concentrada le dio a Graham la mayor parte de sus ganancias.
+
+La salida no es adivinar cuánto fue suerte en cada caso, imposible, sino cambiar a quién se estudia: menos extremos y más patrones amplios.
+
+> Mi historiador favorito, Frederick Lewis Allen, pasó su carrera retratando la vida del estadounidense medio: cómo vivía, cómo cambiaba, en qué trabajaba, qué cenaba, etcétera. Hay lecciones más útiles que sacar de esa clase de observación amplia que de estudiar a los personajes extremos que suelen dominar las noticias.
+> [Párrafo 96](#original-psicologia-cap2-p96)
+
+Frederick Lewis Allen escribió historia del estadounidense común, no de próceres. Es el mismo historiador del capítulo 1, el de la Depresión.
+
+El consejo práctico: menos casos extremos y más patrones comunes, y perdonarse al juzgar los fracasos, propios y ajenos, porque nada es tan bueno ni tan malo como parece. Con eso Housel pasa a las historias de dos hombres que tentaron a la suerte.
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, los párrafos que arriba van en castellano. El número de cada uno lleva de vuelta a su lugar.
@@ -181,6 +263,40 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, los pár
 
 > [Párrafo 82](#lugar-psicologia-cap1-p82)
 > The average college tuition over that time rose more than fourfold adjusted for inflation.⁸ Something so big and so important hitting society so fast explains why, for example, so many people have made poor decisions with student loans over the last 20 years. There is not decades of accumulated experience to even attempt to learn from. We’re winging it.
+### Capítulo 2: Suerte y riesgo
+
+> [Párrafo 5](#lugar-psicologia-cap2-p5)
+> Bill Dougall was a World War II navy pilot turned high school math and science teacher. “He believed that book study wasn’t enough without real-world experience. He also realized that we’d need to know something about computers when we got to college,” recalled late Microsoft co-founder Paul Allen.
+
+> [Párrafo 6](#lugar-psicologia-cap2-p6)
+> In 1968 Dougall petitioned the Lakeside School Mothers’ Club to use the proceeds from its annual rummage sale—about $3,000—to lease a Teletype Model 30 computer hooked up to the General Electric mainframe terminal for computer time-sharing. “The whole idea of time-sharing only got invented in 1965,” Gates later said. “Someone was pretty forwardlooking.”
+
+> [Párrafo 26](#lugar-psicologia-cap2-p26)
+> Evans was as skilled with computers as Gates and Allen. Lakeside once struggled to manually put together the school’s class schedule—a maze of complexity to get hundreds of students the classes they need at times that don’t conflict with other courses. The school tasked Bill and Kent—children, by any measure—to build a computer program to solve the problem. It worked.
+
+> [Párrafo 36](#lugar-psicologia-cap2-p36)
+> Luck and risk are both the reality that every outcome in life is guided by forces other than individual effort. They are so similar that you can’t believe in one without equally respecting the other. They both happen because the world is too complex to allow 100% of your actions to dictate 100% of your outcomes. They are driven by the same thing: You are one person in a game with seven billion other people and infinite moving parts.
+
+> [Párrafo 42](#lugar-psicologia-cap2-p42)
+> I love that response, because no one actually thinks luck doesn’t play a role in financial success. But since it’s hard to quantify luck and rude to suggest people’s success is owed to it, the default stance is often to implicitly ignore luck as a factor of success.
+
+> [Párrafo 46](#lugar-psicologia-cap2-p46)
+> Economist Bhashkar Mazumder has shown that incomes among brothers are more correlated than height or weight. If you are rich and tall, your brother is more likely to also be rich than he is tall. I think most of us intuitively know this is true—the quality of your education and the doors that open for you are heavily linked to your parents’ socioeconomic status.
+
+> [Párrafo 65](#lugar-psicologia-cap2-p65)
+> Cornelius Vanderbilt had just finished a series of business deals to expand his railroad empire.
+
+> [Párrafo 71](#lugar-psicologia-cap2-p71)
+> But how dangerous is that analysis? No sane person would recommend flagrant crime as an entrepreneurial trait. You can easily imagine Vanderbilt’s story turning out much different—an outlaw whose young company collapsed under court order.
+
+> [Párrafo 74](#lugar-psicologia-cap2-p74)
+> John D. Rockefeller is similar. His frequent circumventing of the law—a judge once called his company “no better than a common thief”—is often portrayed by historians as cunning business smarts. Maybe it was. But when does the narrative shift from, “You didn’t let outdated laws get in the way of innovation,” to “You committed a crime?” Or how little would the story have to shift for the narrative to have turned from “Rockefeller was a genius, try to learn from his successes,” to “Rockefeller was a criminal, try to learn from his business failures.” Very little.
+
+> [Párrafo 78](#lugar-psicologia-cap2-p78)
+> Benjamin Graham is known as one of the greatest investors of all time, the father of value investing and the early mentor of Warren Buffett. But the majority of Benjamin Graham’s investing success was due to owning an enormous chunk of GEICO stock which, by his own admission, broke nearly every diversification rule that Graham himself laid out in his famous texts. Where does the thin line between bold and reckless fall here? I don’t know. Graham wrote about his GEICO bonanza: “One lucky break, or one supremely shrewd decision—can we tell them apart?” Not easily.
+
+> [Párrafo 96](#lugar-psicologia-cap2-p96)
+> My favorite historian, Frederick Lewis Allen, spent his career depicting the life of the average, median American—how they lived, how they changed, what they did for work, what they ate for dinner, etc. There are more relevant lessons to take away from this kind of broad observation than there are in studying the extreme characters that tend to dominate the news.
 
 © 2026 Osmancito
 
