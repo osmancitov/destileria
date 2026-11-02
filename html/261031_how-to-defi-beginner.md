@@ -48,4 +48,4 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, las fras
 
 © 2026 Osmancito
 
-[volver](../destileria.html)
+[Volver](../destileria.html)
