@@ -67,6 +67,68 @@ La entendió mejor por la psicología y la historia: para explicar la deuda sirv
 
 ---
 
+## Capítulo 1: Nadie está loco
+
+[![Dentro de una pequeña tienda de esquina, al anochecer, una mujer trabajadora con uniforme compra un boleto de lotería en el mostrador; luz cálida y solitaria. Al estilo de Edward Hopper.](../img/261101_la-psicologia-del-dinero_nadie-esta-loco.jpg)](../img/261101_la-psicologia-del-dinero_nadie-esta-loco.jpg)
+
+Abre con una promesa: la gente hace locuras con el dinero, pero nadie está loco. Cada generación y cada familia viven algo distinto, y lo vivido convence más que lo oído. Lo vivido es una fracción mínima del mundo, pero moldea casi todo tu modo de verlo. El historiador Frederick Lewis Allen escribió que la Depresión marcó a millones por dentro; veinticinco años después, John F. Kennedy, ya candidato a presidente, contó lo que recordaba.
+
+> No tengo conocimiento de primera mano de la Depresión. Mi familia tenía una de las grandes fortunas del mundo y por entonces valía más que nunca. Teníamos casas más grandes, más servidumbre, viajábamos más. Casi lo único que vi directamente fue a mi padre contratar jardineros de más solo para darles un trabajo con el que comer. En realidad no supe de la Depresión hasta que leí sobre ella en Harvard.
+> [Párrafo 13](#original-psicologia-cap1-p13)
+
+Habla John F. Kennedy, entonces candidato y después presidente de Estados Unidos, criado en una de las grandes fortunas del país. La Gran Depresión fue la crisis que arrancó en 1929 y marcó los años treinta; Kennedy la conoció por los libros, no por la vida.
+
+> Ese fue un tema importante en la elección de 1960. ¿Cómo, pensaba la gente, se podía poner a cargo de la economía a alguien sin entender la mayor historia económica de la última generación? En muchos sentidos, solo quedó zanjado por la experiencia de JFK en la Segunda Guerra Mundial. Esa era la otra experiencia emocional más extendida de la generación anterior, y algo que su rival en las primarias, Hubert Humphrey, no tenía.
+> [Párrafo 14](#original-psicologia-cap1-p14)
+
+La Segunda Guerra Mundial fue la otra gran experiencia compartida de esa generación: haber combatido daba a Kennedy una credencial emocional que su rival Hubert Humphrey no tenía. Las primarias son la votación interna con la que un partido escoge a su candidato.
+
+Estudiar no recrea el miedo: una hoja de cálculo mide la frecuencia de las caídas, no el vértigo de llegar a casa y mirar a tus hijos. Como dice el inversionista Michael Batnick, algunas lecciones solo se entienden viviéndolas.
+
+> En 2006, las economistas Ulrike Malmendier y Stefan Nagel, de la Oficina Nacional de Investigación Económica, revisaron cincuenta años de la Encuesta de Finanzas del Consumidor: una mirada detallada a lo que hacen los estadounidenses con su dinero.
+> [Párrafo 21](#original-psicologia-cap1-p21)
+
+La Oficina Nacional de Investigación Económica (NBER, por sus siglas en inglés) es el centro privado de investigación económica más influyente de Estados Unidos. Malmendier y Nagel buscaban saber si la época en que nace una persona marca sus decisiones de inversión de por vida.
+
+En teoría uno decide según metas y opciones; los economistas hallaron otra cosa: las decisiones de inversión quedan ancladas a lo vivido por la propia generación, sobre todo al inicio de la vida adulta. Quien creció con inflación alta puso menos en bonos. No inteligencia ni educación: la suerte tonta de cuándo y dónde naciste.
+
+> El Financial Times entrevistó en 2019 a Bill Gross, el célebre gestor de bonos. "Gross admite que probablemente no estaría donde está hoy de haber nacido una década antes o después", decía la pieza. La carrera de Gross coincidió casi a la perfección con un desplome generacional de las tasas de interés que dio viento a favor a los precios de los bonos. Eso no solo afecta las oportunidades con las que te cruzas; afecta lo que piensas de ellas cuando se te presentan. Para Gross, los bonos eran máquinas de generar riqueza. Para la generación de su padre, que creció y aguantó una inflación más alta, podían parecer incineradores de riqueza.
+> [Párrafo 30](#original-psicologia-cap1-p30)
+
+Un bono es un préstamo que paga intereses: su precio sube cuando bajan las tasas de interés. Bill Gross fundó PIMCO y llegó a ser el gestor de bonos más famoso del mundo; a la generación anterior, que vio la inflación comerse esos mismos papeles, los bonos le parecían lo contrario de un buen negocio.
+
+Las diferencias no son pequeñas: quien nació en 1970 vio el S&P 500 multiplicarse por diez en su juventud. En 2009 el desempleo fue del 10 %; entre jóvenes negros sin diploma, del 49 %. Alemania y Japón salieron de la guerra arrasadas; la bolsa estadounidense se duplicó durante ella. Nadie puede pedirles que piensen igual.
+
+> Hace unos años, The New York Times publicó una historia sobre las condiciones laborales en Foxconn, el enorme fabricante taiwanés de electrónica. Las condiciones son a menudo atroces. Los lectores se indignaron con razón. Pero una respuesta fascinante a la historia vino del sobrino de una trabajadora china, que escribió en la sección de comentarios:
+> [Párrafo 43](#original-psicologia-cap1-p43)
+
+Foxconn es la empresa taiwanesa que ensambla en China gran parte de los aparatos electrónicos del mundo, incluido el iPhone. La historia del Times denunciaba las condiciones de sus fábricas.
+
+El comentario contaba que su tía trabajó años en esos talleres: duro y mal pagado, pero mejor que la vida anterior; prefería ser «explotada» por un patrón capitalista por dólares que por varios hombres por centavos. Housel no sabe qué hacer con eso: una parte quiere discutir, otra entender.
+
+> las experiencias pueden llevar a puntos de vista muy distintos dentro de temas que una parte cree, por intuición, de blanco y negro.
+> [Párrafo 50](#original-psicologia-cap1-p50)
+
+Es el cierre de la frase anterior: Housel comenta la carta del sobrino y admite que lo que para un lector neoyorquino es blanco y negro puede verse de otro modo desde otra vida. El fragmento empieza en minúscula porque continúa una oración partida en el original.
+
+Toda decisión financiera tiene sentido para quien la toma en ese momento, con la información y el modelo mental que tiene. Ejemplo: la lotería. La compran sobre todo los pobres, 412 dólares al año por hogar, los mismos que dicen no poder reunir 400 en una emergencia. Parece una locura.
+
+> Vivimos al día y ahorrar parece fuera de nuestro alcance. Tener un salario mucho más alto parece fuera de nuestro alcance. No podemos pagar vacaciones bonitas, carros nuevos, seguro médico ni casas en vecindarios seguros. No podemos pagar la universidad de nuestros hijos sin una deuda aplastante. Muchas de las cosas que ustedes, los que leen libros de finanzas, ya tienen o tienen buena chance de conseguir, nosotros no las tenemos. Comprar un boleto de lotería es la única vez en la vida en que podemos sostener en la mano un sueño tangible de tener lo bueno que ustedes ya tienen y dan por sentado. Estamos pagando por un sueño, y quizá no lo entiendan porque ya están viviendo un sueño. Por eso compramos más boletos que ustedes.
+> [Párrafo 64](#original-psicologia-cap1-p64)
+
+Housel imagina la voz de un hogar pobre; no es la suya. El boleto no compra una probabilidad de ganar: compra un rato de un sueño que los demás ya viven, y por eso la condena fácil no entiende qué se está comprando.
+
+No hay que estar de acuerdo: entender por qué el otro lo hace desnuda la raíz. Otro punto: la moneda tiene 2.600 años; el retiro digno, dos generaciones: antes se trabajaba hasta morir, y el 401(k) es de 1978. No es locura: somos novatos. La universidad, igual: de 1 de cada 20 graduados en 1940 a 1 de cada 4 en 2015.
+
+> La matrícula universitaria promedio se multiplicó por más de cuatro en ese tiempo, ajustada por inflación. Que algo tan grande y tan importante golpee a la sociedad tan rápido explica por qué, por ejemplo, tanta gente ha tomado malas decisiones con los préstamos estudiantiles en los últimos veinte años. No hay décadas de experiencia acumulada de las que siquiera intentar aprender. Estamos improvisando.
+> [Párrafo 82](#original-psicologia-cap1-p82)
+
+La matrícula es el precio de estudiar en la universidad. Su disparada convirtió los préstamos estudiantiles en una decisión masiva sin experiencia acumulada: por eso dice que se está improvisando.
+
+Los fondos índice tienen menos de cincuenta años. Los perros, domesticados hace diez mil años, aún guardan conductas salvajes; nosotros llevamos veinte o cincuenta de práctica. Nadie está loco: todos somos nuevos. Cierra con el anzuelo del capítulo 2: cómo se hizo rico Bill Gates.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, los párrafos que arriba van en castellano. El número de cada uno lleva de vuelta a su lugar.
@@ -93,6 +155,32 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, los pár
 
 > [Párrafo 63](#lugar-psicologia-intro-p63)
 > Engineers can determine the cause of a bridge collapse because there’s agreement that if a certain amount of force is applied to a certain area, that area will break. Physics isn’t controversial. It’s guided by laws. Finance is different. It’s guided by people’s behaviors. And how I behave might make sense to me but look crazy to you.
+
+### Capítulo 1: Nadie está loco
+
+> [Párrafo 13](#lugar-psicologia-cap1-p13)
+> I have no first-hand knowledge of the Depression. My family had one of the great fortunes of the world and it was worth more than ever then. We had bigger houses, more servants, we traveled more. About the only thing that I saw directly was when my father hired some extra gardeners just to give them a job so they could eat. I really did not learn about the Depression until I read about it at Harvard.
+
+> [Párrafo 14](#lugar-psicologia-cap1-p14)
+> This was a major point in the 1960 election. How, people thought, could someone with no understanding of the biggest economic story of the last generation be put in charge of the economy? It was, in many ways, overcome only by JFK’s experience in World War II. That was the other most widespread emotional experience of the previous generation, and something his primary opponent, Hubert Humphrey, didn’t have.
+
+> [Párrafo 21](#lugar-psicologia-cap1-p21)
+> In 2006 economists Ulrike Malmendier and Stefan Nagel from the National Bureau of Economic Research dug through 50 years of the Survey of Consumer Finances—a detailed look at what Americans do with their money.⁴
+
+> [Párrafo 30](#lugar-psicologia-cap1-p30)
+> The Financial Times interviewed Bill Gross, the famed bond manager, in 2019. “Gross admits that he would probably not be where he is today if he had been born a decade earlier or later,” the piece said. Gross’s career coincided almost perfectly with a generational collapse in interest rates that gave bond prices a tailwind. That kind of thing doesn’t just affect the opportunities you come across; it affects what you think about those opportunities when they’re presented to you. To Gross, bonds were wealth-generating machines. To his father’s generation, who grew up with and endured higher inflation, they might be seen as wealth incinerators.
+
+> [Párrafo 43](#lugar-psicologia-cap1-p43)
+> A few years ago, The New York Times did a story on the working conditions of Foxconn, the massive Taiwanese electronics manufacturer. The conditions are often atrocious. Readers were rightly upset. But a fascinating response to the story came from the nephew of a Chinese worker, who wrote in the comment section:
+
+> [Párrafo 50](#lugar-psicologia-cap1-p50)
+> experiences can lead to vastly different views within topics that one side intuitively thinks should be black and white.
+
+> [Párrafo 64](#lugar-psicologia-cap1-p64)
+> We live paycheck-to-paycheck and saving seems out of reach. Our prospects for much higher wages seem out of reach. We can’t afford nice vacations, new cars, health insurance, or homes in safe neighborhoods. We can’t put our kids through college without crippling debt. Much of the stuff you people who read finance books either have now, or have a good chance of getting, we don’t. Buying a lottery ticket is the only time in our lives we can hold a tangible dream of getting the good stuff that you already have and take for granted. We are paying for a dream, and you may not understand that because you are already living a dream. That’s why we buy more tickets than you do.
+
+> [Párrafo 82](#lugar-psicologia-cap1-p82)
+> The average college tuition over that time rose more than fourfold adjusted for inflation.⁸ Something so big and so important hitting society so fast explains why, for example, so many people have made poor decisions with student loans over the last 20 years. There is not decades of accumulated experience to even attempt to learn from. We’re winging it.
 
 © 2026 Osmancito
 
