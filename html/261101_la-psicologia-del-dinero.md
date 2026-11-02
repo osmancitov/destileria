@@ -220,7 +220,7 @@ Abre el capítulo una anécdota de John Bogle sobre el dinero.
 > John Bogle, el fundador de Vanguard fallecido en 2019, contaba una historia sobre el dinero que señala algo en lo que no pensamos bastante: en una fiesta que daba un multimillonario en Shelter Island, Kurt Vonnegut le dice a su amigo Joseph Heller que el anfitrión, un gestor de fondos de cobertura, había ganado más dinero en un solo día del que Heller había ganado con su popularísima novela Catch-22 en toda su historia. Heller responde: "Sí, pero yo tengo algo que él nunca tendrá: suficiente".
 > [Párrafo 1](#original-psicologia-cap3-p1)
 
-John Bogle fundó Vanguard y popularizó los fondos índice. Kurt Vonnegut y Joseph Heller eran novelistas; Catch-22, de 1961, es la obra más famosa de Heller. Shelter Island es un refugio de verano de los ricos de Nueva York.
+John Bogle fundó Vanguard, una gestora de fondos de inversión estadounidense que hoy está entre las mayores del mundo, y popularizó los fondos índice, que copian la marcha de todo un mercado en lugar de elegir unas pocas empresas. Kurt Vonnegut y Joseph Heller eran novelistas; Catch-22, de 1961, es la obra más famosa de Heller. Shelter Island es un refugio de verano de los ricos de Nueva York.
 
 De la palabra de Heller salen dos ejemplos contrarios. El primero, Rajat Gupta: huérfano de adolescente en Calcuta; si los privilegiados nacen en tercera base, él ni veía el estadio.
 
