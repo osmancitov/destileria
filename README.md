@@ -6,6 +6,7 @@ Una destilería es un lugar donde se destila: se separa una sustancia mediante e
 
 Aquí se ensaya algo parecido con los libros: quitar lo que sobra hasta encontrar una forma breve que conserve su fuerza y se pueda contar a otro. Es una hipótesis de trabajo, no una promesa cumplida.
 
+- [Análisis técnico de los mercados financieros](html/261102_analisis-tecnico-de-los-mercados-financieros.html): el manual clásico de John J. Murphy sobre el análisis técnico de los mercados financieros, destilado capítulo a capítulo.
 - [La psicología del dinero](html/261101_la-psicologia-del-dinero.html): Morgan Housel (2020): el dinero se maneja mejor con conducta que con inteligencia.
 - [How to DeFi: Beginner](html/261031_how-to-defi-beginner.html): el manual del equipo de CoinGecko para aprender finanzas descentralizadas desde cero, destilado capítulo a capítulo.
 - [White Noise](html/261025_white-noise.html): la novela de Don DeLillo, destilada capítulo a capítulo.
