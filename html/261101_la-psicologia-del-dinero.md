@@ -211,6 +211,62 @@ Frederick Lewis Allen escribió historia del estadounidense común, no de próce
 El consejo práctico: menos casos extremos y más patrones comunes, y perdonarse al juzgar los fracasos, propios y ajenos, porque nada es tan bueno ni tan malo como parece. Con eso Housel pasa a las historias de dos hombres que tentaron a la suerte.
 ---
 
+## Capítulo 3: Nunca es suficiente
+
+[![Dos escritores conversan aparte en una fiesta elegante junto al mar en Shelter Island, entre copas y luces cálidas, con la noche azul detrás de las ventanas. Al estilo de Toulouse-Lautrec.](../img/261101_la-psicologia-del-dinero_nunca-es-suficiente.jpg)](../img/261101_la-psicologia-del-dinero_nunca-es-suficiente.jpg)
+
+Abre el capítulo una anécdota de John Bogle sobre el dinero.
+
+> John Bogle, el fundador de Vanguard fallecido en 2019, contaba una historia sobre el dinero que señala algo en lo que no pensamos bastante: en una fiesta que daba un multimillonario en Shelter Island, Kurt Vonnegut le dice a su amigo Joseph Heller que el anfitrión, un gestor de fondos de cobertura, había ganado más dinero en un solo día del que Heller había ganado con su popularísima novela Catch-22 en toda su historia. Heller responde: "Sí, pero yo tengo algo que él nunca tendrá: suficiente".
+> [Párrafo 1](#original-psicologia-cap3-p1)
+
+John Bogle fundó Vanguard y popularizó los fondos índice. Kurt Vonnegut y Joseph Heller eran novelistas; Catch-22, de 1961, es la obra más famosa de Heller. Shelter Island es un refugio de verano de los ricos de Nueva York.
+
+De la palabra de Heller salen dos ejemplos contrarios. El primero, Rajat Gupta: huérfano de adolescente en Calcuta; si los privilegiados nacen en tercera base, él ni veía el estadio.
+
+> A los cuarenta y tantos Gupta era consejero delegado de McKinsey, la consultora más prestigiosa del mundo. Se retiró en 2007 para asumir cargos en las Naciones Unidas y el Foro Económico Mundial. Colaboró en obra filantrópica con Bill Gates. Fue miembro del consejo de administración de cinco empresas cotizadas. Desde los barrios bajos de Calcuta, Gupta se había convertido, literalmente, en uno de los hombres de negocios más exitosos del mundo.
+> [Párrafo 8](#original-psicologia-cap3-p8)
+
+McKinsey es la consultora de empresas más prestigiosa del mundo. Calcuta, hoy Kolkata, es una de las mayores ciudades de India; Gupta creció allí en la pobreza.
+
+En 2008, en plena crisis, Buffett preparaba inyectar 5.000 millones en Goldman Sachs. Gupta, del consejo, lo supo antes que el público.
+
+> Dieciséis segundos después de enterarse del acuerdo inminente, Gupta, que estaba conectado a la reunión del consejo de Goldman, colgó el teléfono y llamó a un gestor de fondos de cobertura llamado Raj Rajaratnam. La llamada no se grabó, pero Rajaratnam compró de inmediato 175.000 acciones de Goldman Sachs, así que puedes imaginar de qué hablaron. El acuerdo de Buffett con Goldman se anunció al público horas después. Las acciones de Goldman se dispararon. Rajaratnam ganó un millón de dólares en un santiamén.
+> [Párrafo 18](#original-psicologia-cap3-p18)
+
+Raj Rajaratnam fundó el fondo Galleon. Operar con información no pública es el delito de uso de información privilegiada: la SEC atribuyó a los avisos de Gupta 17 millones de dólares en ganancias, y ambos fueron a prisión.
+
+El segundo, Bernie Madoff, el estafador Ponzi más célebre, tuvo antes un negocio legítimo y exitoso como creador de mercado. Así describió The Wall Street Journal su firma en 1992:
+
+> Ha construido una firma de valores muy rentable, Bernard L. Madoff Investment Securities, que desvía un enorme volumen de operaciones bursátiles del Big Board. Los 740 millones de dólares de volumen diario medio de operaciones electrónicas que la firma Madoff ejecuta fuera de la bolsa equivalen al 9 % de las de la Bolsa de Nueva York. La firma del señor Madoff puede ejecutar operaciones tan rápido y tan barato que incluso paga a otras corredurías un centavo por acción por ejecutar las órdenes de sus clientes, y gana con el diferencial entre los precios de compra y de venta al que se negocian la mayoría de las acciones.
+> [Párrafo 28](#original-psicologia-cap3-p28)
+
+Un creador de mercado casa compradores y vendedores de acciones, y Big Board es el apodo de la Bolsa de Nueva York. La descripción es anterior al fraude conocido: la parte legítima del negocio de Madoff ganaba entre 25 y 50 millones de dólares al año, según un exempleado.
+
+No hace falta llegar al delito: el fondo Long-Term Capital Management, con socios riquísimos apostando su propia fortuna, lo perdió todo buscando más. Regla obvia y olvidada: no arriesgar lo que tienes y necesitas por lo que no tienes y no necesitas. Si tienes lo suficiente, cuatro recordatorios. Primero: la habilidad más difícil es que el poste de la meta deje de moverse.
+
+> Pero es una de las más importantes. Si las expectativas suben con los resultados, no hay lógica en esforzarse por más, porque te sentirás igual después del esfuerzo extra. Se vuelve peligroso cuando el gusto por tener más, más dinero, más poder, más prestigio, aumenta la ambición más rápido que la satisfacción. En ese caso, un paso adelante empuja el poste de la meta dos pasos más allá. Sientes que te quedas atrás, y la única forma de alcanzar es asumir riesgos cada vez mayores.
+> [Párrafo 44](#original-psicologia-cap3-p44)
+
+Mover los postes de la meta es cambiar el objetivo cuando ya casi lo alcanzas. La metáfora es deportiva: si la portería se aleja con cada avance, no hay marcador que se cierre.
+
+Segundo: la comparación social. El novato de béisbol con medio millón de sueldo es rico hasta medirse con Mike Trout y sus 430 millones; el gestor de 340 millones, con los cinco de 770; esos, con Buffett; Buffett, con Bezos. El techo nadie lo toca: solo se gana no jugando. Un amigo de Housel preguntó en Las Vegas a un crupier a qué jugaba.
+
+> El crupier, serio como una piedra, respondió: "La única forma de ganar en un casino de Las Vegas es salir en cuanto entras".
+> [Párrafo 53](#original-psicologia-cap3-p53)
+
+El crupier es el empleado del casino que reparte las cartas y cobra las apuestas; ve perder a miles cada año. Su respuesta es la regla de la comparación llevada al juego: entrar ya es perder.
+
+Tercero: suficiente no es poco ni renuncia conservadora.
+
+> La única forma de saber cuánta comida puedes comer es comer hasta enfermar. Casi nadie lo intenta, porque vomitar duele más de lo que sabe bien cualquier comida. Por alguna razón la misma lógica no se traslada a los negocios y la inversión, y muchos solo dejan de buscar más cuando se rompen y se ven forzados a ello.
+> [Párrafo 60](#original-psicologia-cap3-p60)
+
+En la mesa el exceso se paga al instante y el límite casi no se tienta; con el dinero el límite análogo solo se descubre al romperse.
+
+Cuarto: hay cosas que nunca se arriesgan. Gupta, ya libre, dijo al Times que la lección era no apegarse a la reputación; Housel lo lee al revés: la reputación no tiene precio, ni la libertad, la familia y los amigos, el cariño, la felicidad. Conservarlas es saber cuándo dejar de arriesgarlas. La herramienta para construir suficiente es simple, y es el capítulo que sigue.
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, los párrafos que arriba van en castellano. El número de cada uno lleva de vuelta a su lugar.
@@ -297,6 +353,28 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, los pár
 
 > [Párrafo 96](#lugar-psicologia-cap2-p96)
 > My favorite historian, Frederick Lewis Allen, spent his career depicting the life of the average, median American—how they lived, how they changed, what they did for work, what they ate for dinner, etc. There are more relevant lessons to take away from this kind of broad observation than there are in studying the extreme characters that tend to dominate the news.
+### Capítulo 3: Nunca es suficiente
+
+> [Párrafo 1](#lugar-psicologia-cap3-p1)
+> John Bogle, the Vanguard founder who passed away in 2019, once told a story about money that highlights something we don’t think about enough: At a party given by a billionaire on Shelter Island, Kurt Vonnegut informs his pal, Joseph Heller, that their host, a hedge fund manager, had made more money in a single day than Heller had earned from his wildly popular novel Catch-22 over its whole history. Heller responds, “Yes, but I have something he will never have … enough.”
+
+> [Párrafo 8](#lugar-psicologia-cap3-p8)
+> By his mid 40s Gupta was CEO of McKinsey, the world’s most prestigious consulting firm. He retired in 2007 to take on roles with the United Nations and the World Economic Forum. He partnered on philanthropic work with Bill Gates. He sat on the board of directors of five public companies. From the slums of Kolkata, Gupta had quite literally become one of the most successful businessmen alive.
+
+> [Párrafo 18](#lugar-psicologia-cap3-p18)
+> Sixteen seconds after learning of the pending deal Gupta, who was dialed into the Goldman board meeting, hung up the phone and called a hedge fund manager named Raj Rajaratnam. The call wasn’t recorded, but Rajaratnam immediately bought 175,000 shares of Goldman Sachs, so you can guess what was discussed. The Buffett-Goldman deal was announced to the public hours later. Goldman stock surged. Rajaratnam made a quick $1 million.
+
+> [Párrafo 28](#lugar-psicologia-cap3-p28)
+> He has built a highly profitable securities firm, Bernard L. Madoff Investment Securities, which siphons a huge volume of stock trades away from the Big Board. The $740 million average daily volume of trades executed electronically by the Madoff firm off the exchange equals 9% of the New York exchange’s. Mr. Madoff’s firm can execute trades so quickly and cheaply that it actually pays other brokerage firms a penny a share to execute their customers’ orders, profiting from the spread between bid and ask prices that most stocks trade for.
+
+> [Párrafo 44](#lugar-psicologia-cap3-p44)
+> But it’s one of the most important. If expectations rise with results there is no logic in striving for more because you’ll feel the same after putting in extra effort. It gets dangerous when the taste of having more—more money, more power, more prestige—increases ambition faster than satisfaction. In that case one step forward pushes the goalpost two steps ahead. You feel as if you’re falling behind, and the only way to catch up is to take greater and greater amounts of risk.
+
+> [Párrafo 53](#lugar-psicologia-cap3-p53)
+> The dealer, stone-cold serious, replied: “The only way to win in a Las Vegas casino is to exit as soon as you enter.”
+
+> [Párrafo 60](#lugar-psicologia-cap3-p60)
+> The only way to know how much food you can eat is to eat until you’re sick. Few try this because vomiting hurts more than any meal is good. For some reason the same logic doesn’t translate to business and investing, and many will only stop reaching for more when they break and are forced to.
 
 © 2026 Osmancito
 
