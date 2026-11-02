@@ -107,7 +107,7 @@ Foxconn es la empresa taiwanesa que ensambla en China gran parte de los aparatos
 El comentario contaba que su tía trabajó años en esos talleres: duro y mal pagado, pero mejor que la vida anterior; prefería ser «explotada» por un patrón capitalista por dólares que por varios hombres por centavos. Housel no sabe qué hacer con eso: una parte quiere discutir, otra entender.
 
 > No sé qué hacer con esto. Una parte de mí quiere discutir, con furia. Otra parte quiere entender. Pero sobre todo es un ejemplo de cómo experiencias distintas pueden llevar a puntos de vista muy distintos dentro de temas que una parte cree, por intuición, de blanco y negro.
-> [Párrafos 49 y 50](#original-psicologia-cap1-p50)
+> [Párrafo 49](#original-psicologia-cap1-p49)
 
 Housel comenta la carta del sobrino y admite que lo que para un lector neoyorquino es blanco y negro puede verse de otro modo desde otra vida.
 
@@ -173,7 +173,7 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, los pár
 > [Párrafo 43](#lugar-psicologia-cap1-p43)
 > A few years ago, The New York Times did a story on the working conditions of Foxconn, the massive Taiwanese electronics manufacturer. The conditions are often atrocious. Readers were rightly upset. But a fascinating response to the story came from the nephew of a Chinese worker, who wrote in the comment section:
 
-> [Párrafos 49 y 50](#lugar-psicologia-cap1-p50)
+> [Párrafo 49](#lugar-psicologia-cap1-p49)
 > I don’t know what to make of this. Part of me wants to argue, fiercely. Part of me wants to understand. But mostly it’s an example of how different experiences can lead to vastly different views within topics that one side intuitively thinks should be black and white.
 
 > [Párrafo 64](#lugar-psicologia-cap1-p64)
