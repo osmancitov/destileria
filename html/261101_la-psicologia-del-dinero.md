@@ -109,7 +109,7 @@ El comentario contaba que su tía trabajó años en esos talleres: duro y mal pa
 > las experiencias pueden llevar a puntos de vista muy distintos dentro de temas que una parte cree, por intuición, de blanco y negro.
 > [Párrafo 50](#original-psicologia-cap1-p50)
 
-Es el cierre de la frase anterior: Housel comenta la carta del sobrino y admite que lo que para un lector neoyorquino es blanco y negro puede verse de otro modo desde otra vida. El fragmento empieza en minúscula porque continúa una oración partida en el original.
+Es el cierre de la frase anterior: Housel comenta la carta del sobrino y admite que lo que para un lector neoyorquino es blanco y negro puede verse de otro modo desde otra vida.
 
 Toda decisión financiera tiene sentido para quien la toma en ese momento, con la información y el modelo mental que tiene. Ejemplo: la lotería. La compran sobre todo los pobres, 412 dólares al año por hogar, los mismos que dicen no poder reunir 400 en una emergencia. Parece una locura.
 
