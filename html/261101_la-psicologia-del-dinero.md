@@ -267,6 +267,56 @@ En la mesa el exceso se paga al instante y el límite casi no se tienta; con el 
 Cuarto: hay cosas que nunca se arriesgan. Gupta, ya libre, dijo al Times que la lección era no apegarse a la reputación; Housel lo lee al revés: la reputación no tiene precio, ni la libertad, la familia y los amigos, el cariño, la felicidad. Conservarlas es saber cuándo dejar de arriesgarlas. La herramienta para construir suficiente es simple, y es el capítulo que sigue.
 ---
 
+## Capítulo 4: La confusión del interés compuesto
+
+[![Un valle invernal al estilo del barroco holandés: patinadores, trineos y veleros sobre una llanura helada que se extiende hasta unas montañas nevadas, con un pueblo y un molino a los lados; en primer plano, una capa fina de nieve sobre un prado. Al estilo de Hendrick Avercamp.](../img/261101_la-psicologia-del-dinero_la-confusion-del-interes-compuesto.jpg)](../img/261101_la-psicologia-del-dinero_la-confusion-del-interes-compuesto.jpg)
+
+El capítulo pide prestada una ciencia lejana: las edades de hielo. Solo en el siglo XIX se aceptaron cinco, y ninguna teoría grandiosa explicaba su repetición en ciclo.
+
+> A comienzos del siglo XX, un científico serbio llamado Milutin Milanković estudió la posición de la Tierra respecto a otros planetas y llegó a la teoría de las edades de hielo que hoy sabemos acertada: la atracción gravitatoria del sol y la luna afecta con suavidad el movimiento de la Tierra y su inclinación hacia el sol. Durante partes de este ciclo, que puede durar decenas de miles de años, cada hemisferio de la Tierra recibe un poco más, o un poco menos, de radiación solar de la acostumbrada.
+> [Párrafo 9](#original-psicologia-cap4-p9)
+
+Milutin Milanković (1879-1958) fue un matemático y astrónomo serbio, profesor de la Universidad de Belgrado, y los ciclos de la órbita de la Tierra que describió llevan su nombre. Un hemisferio es cada mitad del planeta, y la radiación solar es la energía que llega del sol: de su reparto entre hemisferios dependen las estaciones.
+
+Milanković culpaba a inviernos feroces; el meteorólogo Wladimir Köppen halló al culpable: el verano templado. La nieve que no se derrite acumula más nieve, que refleja más sol y enfría más, hasta volverse hielo continental.
+
+> Lo asombroso aquí es cuán grande puede llegar a ser algo que nace de un cambio relativamente pequeño en las condiciones. Empiezas con una capa fina de nieve sobrante de un verano fresco, algo que a nadie le llamaría la atención, y luego, en un abrir y cerrar de ojos geológico, la Tierra entera queda cubierta de hielo de kilómetros de espesor. Como dijo la glacióloga Gwen Schultz: «No es necesariamente la cantidad de nieve lo que causa las capas de hielo, sino el hecho de que la nieve, por poca que sea, perdure».
+> [Párrafo 15](#original-psicologia-cap4-p15)
+
+Wladimir Köppen (1846-1940), nacido en San Petersburgo, creó la primera clasificación de los climas del mundo, aún en uso; Gwen Schultz es la glacióloga que el libro cita. La frase invierte lo intuitivo: no manda cuánta nieve cae, sino cuánta se queda.
+
+Con el dinero pasa igual. Los más de dos mil libros sobre Warren Buffett pasan por alto lo simple: invirtió bien desde niño. De sus 84.500 millones de dólares, 84.200 los juntó después de los cincuenta; de haber empezado a los treinta y jubilado a los sesenta, tendría 11,9 millones: un 99,9 % menos. Jim Simons, de Renaissance Technologies, capitaliza al 66 % anual desde 1988 y aun así vale un 75 % menos.
+
+> ¿Por qué la diferencia, si Simons es mucho mejor inversor? Porque Simons no encontró su ritmo de inversión hasta los cincuenta años. Ha tenido menos de la mitad de años que Buffett para capitalizar. Si James Simons hubiera mantenido sus rendimientos anuales del 66 % durante el lapso de setenta años en que Buffett ha construido su fortuna, valdría —contenga la respiración— sesenta y tres trillones novecientos mil billones setecientos ochenta y un billones setecientos ochenta mil millones setecientos cuarenta y ocho millones ciento sesenta mil dólares.
+> [Párrafo 36](#original-psicologia-cap4-p36)
+
+Jim Simons (1938-2024) fue un matemático estadounidense, y su fondo, Renaissance Technologies, es de los más rentables de la historia; un fondo de cobertura es un fondo privado de inversión que opera con estrategias libres y mucho riesgo. La cifra, escrita en números, es un 64 seguido de dieciocho ceros: la broma es que unos puntos más de rendimiento, sostenidos unas décadas más, producen un resultado que ya no significa nada para nadie.
+
+Pequeños cambios de suposiciones producen números absurdos; el motor del éxito queda fuera de la mirada.
+
+> He oído a muchas personas decir que la primera vez que vieron una tabla de interés compuesto —o una de esas historias sobre cuánto más tendrías para la jubilación si empezaras a ahorrar a los veinte en vez de a los treinta— les cambió la vida. Pero probablemente no fue así. Lo que probablemente hizo fue sorprenderlas, porque los resultados no parecían correctos a la intuición. El pensamiento lineal es mucho más intuitivo que el pensamiento exponencial. Si te pido calcular 8+8+8+8+8+8+8+8+8 de cabeza, lo haces en unos segundos (es 72).
+> [Párrafo 38](#original-psicologia-cap4-p38)
+
+El interés compuesto es el interés que se gana también sobre el interés ya ganado: la base crece y cada vuelta suma más que la anterior. Una tabla de interés compuesto muestra ese crecimiento año por año. Pensar en lineal es sumar lo mismo a cada paso; pensar en exponencial es multiplicar, y la cabeza humana suma con facilidad y multiplica mal.
+
+El mismo ocho multiplicado nueve veces estalla: 134.217.728.
+
+> IBM fabricó un disco duro de 3,5 megabytes en los años cincuenta. En los sesenta se manejaban unas cuantas decenas de megabytes. En los setenta, el disco Winchester de IBM alcanzó los 70 megabytes. Luego los discos se hicieron exponencialmente más pequeños y con más almacenamiento. Una PC típica de principios de los noventa guardaba de 200 a 500 megabytes.
+> [Párrafo 40](#original-psicologia-cap4-p40)
+
+El megabyte, el gigabyte y el terabyte miden almacenamiento digital, y cada uno es unas mil veces el anterior; una PC es una computadora personal. IBM dominaba entonces la informática, y sus 3,5 megabytes guardaban lo que hoy serían una o dos fotos de teléfono.
+
+Después, la explosión: el iMac, la computadora de Apple, traía 6 gigabytes en 1999; en 2019, discos de 100 terabytes. Nadie predijo «treinta millones de veces más dentro de mi vida», y eso pasó.
+
+> La naturaleza contraintuitiva del interés compuesto lleva incluso a los más listos de nosotros a pasar por alto su poder. En 2004, Bill Gates criticó el nuevo Gmail preguntándose por qué alguien necesitaría un gigabyte de almacenamiento. El autor Steven Levy escribió:
+> [Párrafo 50](#original-psicologia-cap4-p50)
+
+Bill Gates cofundó Microsoft, la mayor empresa de software de su época; Gmail, el correo de Google, ofrecía en 2004 un gigabyte gratis, cientos de veces más que la competencia. Steven Levy, periodista de tecnología, escribió una historia de Google, y concluyó que la mentalidad de Gates seguía «anclada en el viejo paradigma» del almacenamiento como bien escaso: nadie se acostumbra a la rapidez con que crecen las cosas, ni siquiera quien las vio crecer de cerca.
+
+De no verse el interés compuesto con intuición nace la mayoría de las operaciones decepcionantes. Ningún libro sobre Buffett se titula *Este tipo ha invertido con constancia durante tres cuartos de siglo*; el más importante debería llamarse *Cállate y espera*, una página con el gráfico del crecimiento a largo plazo. Lo que cuenta no es el mayor rendimiento, sino uno bastante bueno sostenido el mayor tiempo posible. Lo contrario trae las historias trágicas del capítulo que sigue.
+
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, los párrafos que arriba van en castellano. El número de cada uno lleva de vuelta a su lugar.
@@ -376,6 +426,26 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, los pár
 > [Párrafo 60](#lugar-psicologia-cap3-p60)
 > The only way to know how much food you can eat is to eat until you’re sick. Few try this because vomiting hurts more than any meal is good. For some reason the same logic doesn’t translate to business and investing, and many will only stop reaching for more when they break and are forced to.
 
+
+### Capítulo 4: La confusión del interés compuesto
+
+> [Párrafo 9](#lugar-psicologia-cap4-p9)
+> In the early 1900s a Serbian scientist named Milutin Milanković studied the Earth’s position relative to other planets and came up with the theory of ice ages that we now know is accurate: The gravitational pull of the sun and moon gently affect the Earth’s motion and tilt toward the sun. During parts of this cycle—which can last tens of thousands of years—each of the Earth’s hemispheres gets a little more, or a little less, solar radiation than they’re used to.
+
+> [Párrafo 15](#lugar-psicologia-cap4-p15)
+> The amazing thing here is how big something can grow from a relatively small change in conditions. You start with a thin layer of snow left over from a cool summer that no one would think anything of and then, in a geological blink of an eye, the entire Earth is covered in miles-thick ice. As glaciologist Gwen Schultz put it: “It is not necessarily the amount of snow that causes ice sheets but the fact that snow, however little, lasts.”
+
+> [Párrafo 36](#lugar-psicologia-cap4-p36)
+> Why the difference, if Simons is such a better investor? Because Simons did not find his investment stride until he was 50 years old. He’s had less than half as many years to compound as Buffett. If James Simons had earned his 66% annual returns for the 70-year span Buffett has built his wealth he would be worth—please hold your breath—sixty-three quintillion nine hundred quadrillion seven hundred eighty-one trillion seven hundred eighty billion seven hundred forty-eight million one hundred sixty thousand dollars.
+
+> [Párrafo 38](#lugar-psicologia-cap4-p38)
+> I have heard many people say the first time they saw a compound interest table—or one of those stories about how much more you’d have for retirement if you began saving in your 20s versus your 30s—changed their life. But it probably didn’t. What it likely did was surprise them, because the results intuitively didn’t seem right. Linear thinking is so much more intuitive than exponential thinking. If I ask you to calculate 8+8+8+8+8+8+8+8+8 in your head, you can do it in a few seconds (it’s 72).
+
+> [Párrafo 40](#lugar-psicologia-cap4-p40)
+> IBM made a 3.5 megabyte hard drive in the 1950s. By the 1960s things were moving into a few dozen megabytes. By the 1970s, IBM’s Winchester drive held 70 megabytes. Then drives got exponentially smaller in size with more storage. A typical PC in the early 1990s held 200–500 megabytes.
+
+> [Párrafo 50](#lugar-psicologia-cap4-p50)
+> The counterintuitive nature of compounding leads even the smartest of us to overlook its power. In 2004 Bill Gates criticized the new Gmail, wondering why anyone would need a gigabyte of storage. Author Steven Levy wrote,
 © 2026 Osmancito
 
 [Volver](../destileria.html)
