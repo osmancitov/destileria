@@ -311,6 +311,9 @@ Después, la explosión: el iMac, la computadora de Apple, traía 6 gigabytes en
 > La naturaleza contraintuitiva del interés compuesto lleva incluso a los más listos de nosotros a pasar por alto su poder. En 2004, Bill Gates criticó el nuevo Gmail preguntándose por qué alguien necesitaría un gigabyte de almacenamiento. El autor Steven Levy escribió:
 > [Párrafo 50](#original-psicologia-cap4-p50)
 
+> «Pese a estar al día con las tecnologías de vanguardia, su mentalidad seguía anclada en el viejo paradigma de que el almacenamiento era un recurso que había que conservar». Uno nunca se acostumbra a lo rápido que pueden crecer las cosas.
+> [Párrafo 51](#original-psicologia-cap4-p51)
+
 Bill Gates cofundó Microsoft, la mayor empresa de software de su época; Gmail, el correo de Google, ofrecía en 2004 un gigabyte gratis, cientos de veces más que la competencia. Steven Levy, periodista de tecnología, escribió una historia de Google, y concluyó que la mentalidad de Gates seguía «anclada en el viejo paradigma» del almacenamiento como bien escaso: nadie se acostumbra a la rapidez con que crecen las cosas, ni siquiera quien las vio crecer de cerca.
 
 De no verse el interés compuesto con intuición nace la mayoría de las operaciones decepcionantes. Ningún libro sobre Buffett se titula *Este tipo ha invertido con constancia durante tres cuartos de siglo*; el más importante debería llamarse *Cállate y espera*, una página con el gráfico del crecimiento a largo plazo. Lo que cuenta no es el mayor rendimiento, sino uno bastante bueno sostenido el mayor tiempo posible. Lo contrario trae las historias trágicas del capítulo que sigue.
@@ -446,6 +449,9 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, los pár
 
 > [Párrafo 50](#lugar-psicologia-cap4-p50)
 > The counterintuitive nature of compounding leads even the smartest of us to overlook its power. In 2004 Bill Gates criticized the new Gmail, wondering why anyone would need a gigabyte of storage. Author Steven Levy wrote,
+
+> [Párrafo 51](#lugar-psicologia-cap4-p51)
+> “Despite his currency with cutting-edge technologies, his mentality was anchored in the old paradigm of storage being a commodity that must be conserved.” You never get accustomed to how quickly things can grow.
 © 2026 Osmancito
 
 [Volver](../destileria.html)
