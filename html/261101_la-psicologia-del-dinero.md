@@ -320,6 +320,74 @@ De no verse el interés compuesto con intuición nace la mayoría de las operaci
 
 ---
 
+## Capítulo 5: Hacerse rico frente a seguir siéndolo
+
+[![Un hombre de traje y sombrero de los años veinte camina por una acera de Manhattan haciendo trizas una tira de cinta de cotizaciones; al fondo, los edificios de Wall Street bajo un cielo gris. Al estilo de George Wesley Bellows.](../img/261101_la-psicologia-del-dinero_hacerse-rico-frente-a-seguir-siendolo.jpg)](../img/261101_la-psicologia-del-dinero_hacerse-rico-frente-a-seguir-siendolo.jpg)
+
+Abre el capítulo una cuenta desigual: un millón de maneras de hacerse rico y una sola de seguir siéndolo —cierta mezcla de frugalidad y paranoia—. Para mostrarla, dos inversionistas que nunca se conocieron: Jesse Livermore, el mayor especulador de bolsa de su época, y Abraham Germansky.
+
+> Dorothy, la esposa de Livermore, temió lo peor cuando su marido volvió a casa el 29 de octubre. Corrían por Nueva York noticias de especuladores de Wall Street que se suicidaban. Ella y sus hijos recibieron a Jesse en la puerta entre lágrimas, mientras su madre, desconsolada, se escondía en otra habitación gritando.
+> [Párrafo 8](#original-psicologia-cap5-p8)
+
+La escena guarda un giro: la familia llora porque solo sabe que el mercado se desplomó; no sabe en qué dirección apostaba Jesse. Los especuladores que se suicidaban eran la noticia de la semana en Nueva York.
+
+Jesse estaba en corto —apostó a la baja— y ese día ganó el equivalente de más de tres mil millones de dólares. Germansky, promotor inmobiliario multimillonario, apostó fuerte al mercado; el 26 de octubre, The New York Times publicó una nota: su esposa lo buscaba.
+
+> Sandler dijo que la señora de Germansky le contó que un amigo vio a su marido el jueves por la tarde en Wall Street, cerca de la bolsa. Según su informante, su marido rompía en pedazos una tira de cinta de cotizaciones y la esparcía por la acera mientras caminaba hacia Broadway.
+> [Párrafo 20](#original-psicologia-cap5-p20)
+
+La cinta de cotizaciones era la tira de papel donde una máquina de telégrafo imprimía los precios de la bolsa casi en vivo; romperla era romper el instrumento que medía la ruina. La nota es un parte periodístico: quién busca, quién falta y qué hacía cuando lo vieron por última vez.
+
+De Germansky no se volvió a saber. Cuatro años después Livermore se endeudó para apostar cada vez más alto y lo perdió todo. Los dos eran buenos para hacerse ricos e igual de malos para seguir siéndolo: ganar dinero es una cosa; conservarlo, otra. El éxito con el dinero se resume en una palabra: supervivencia.
+
+> Como veremos en el capítulo 6, el 40 % de las empresas con suficiente éxito para salir a bolsa perdieron con el tiempo prácticamente todo su valor. La lista Forbes 400 de los estadounidenses más ricos renueva en promedio alrededor de un 20 % de sus miembros por década, por causas que no tienen que ver con la muerte ni con traspasar el dinero a otro familiar.
+> [Párrafo 33](#original-psicologia-cap5-p33)
+
+Salir a bolsa es ofrecer las acciones de una empresa al público; Forbes 400 es la lista anual de la revista Forbes con los cuatrocientos estadounidenses más ricos. Que esa lista cambie un quinto cada década, sin contar muertes ni herencias, quiere decir que las fortunas se pierden por sí solas.
+
+Parte de esa rotación ocurre porque hacer dinero y conservarlo son habilidades opuestas: ganarlo pide riesgo y optimismo; conservarlo, humildad, frugalidad y miedo a perderlo, con la aceptación de que algo del éxito fue suerte. Lo mismo vive Michael Moritz.
+
+> A Michael Moritz, el director multimillonario de Sequoia Capital, Charlie Rose le preguntó por qué Sequoia tenía tanto éxito. Moritz mencionó la longevidad y señaló que algunas firmas de capital de riesgo prosperan cinco o diez años, pero Sequoia lleva cuatro décadas. Rose le preguntó por qué. Moritz: Creo que siempre hemos tenido miedo de quebrar.
+> [Párrafo 37](#original-psicologia-cap5-p37)
+
+Sequoia Capital es una firma estadounidense de capital de riesgo, que invierte en empresas jóvenes a cambio de una parte de ellas; Charlie Rose es un entrevistador de televisión. Moritz no explica cuatro décadas de éxito por ver más lejos que los demás, sino por temer más que los demás.
+
+¿Solo los paranoicos sobreviven?, repregunta Rose. Moritz: no podemos dar por hecho que el éxito de ayer se vuelva la fortuna de mañana. No es «crecimiento», ni «cerebro», ni «visión»: es durar —casi ninguna ganancia vale una ruina, y el interés compuesto del capítulo anterior solo funciona si el dinero tiene años para crecer—.
+
+> Es como plantar robles: un año de crecimiento nunca muestra mucho avance, diez años pueden marcar una diferencia significativa y cincuenta años pueden crear algo absolutamente extraordinario.
+> [Párrafo 46](#original-psicologia-cap5-p46)
+
+El roble crece despacio y puede vivir siglos: es la imagen del interés compuesto. La fuerza no está en lo que crece cada año, sino en los años que se le dejan al crecimiento; por eso sobrevivir a los altibajos es la condición de todo lo demás.
+
+Buffett lo muestra: catorce recesiones vividas sin endeudarse de más, sin vender en pánico ni manchar su nombre, sin quemarse ni retirarse; esa supervivencia es lo que dejó obrar al interés compuesto. Aquí entra Rick Guerin: hace cuarenta años, el dúo de Warren Buffett y Charlie Munger era un trío.
+
+> Warren, Charlie y Rick hacían inversiones juntos y entrevistaban juntos a los directivos de las empresas. Luego Rick desapareció de la escena, al menos en comparación con el éxito de Buffett y Munger. El inversionista Mohnish Pabrai le preguntó una vez a Buffett qué había pasado con Rick. Mohnish recordó:
+> [Párrafo 58](#original-psicologia-cap5-p58)
+
+Charlie Munger es el socio de Buffett en Berkshire Hathaway, la empresa que dirigen; Mohnish Pabrai es un inversionista que estudia sus métodos. La pregunta es buena porque al tercero no le faltó talento: le faltó otra cosa.
+
+Rick era igual de inteligente, «pero tenía prisa», contó Buffett: con dinero prestado en la caída de 1973 y 1974, se vio obligado a venderle a Warren sus acciones de Berkshire a menos de 40 dólares cada una. El ensayista Nassim Taleb lo resume: tener una ventaja y sobrevivir son cosas distintas; la primera exige la segunda. Llevarla a la práctica son tres cosas: ser inquebrantable, planear para el fracaso del plan y mezclar optimismo con paranoia.
+
+> ¿Cómo es el dicho? Uno planea y Dios se ríe. La planificación financiera y de inversiones es esencial, porque permite saber si lo que uno hace ahora está dentro de lo razonable. Pero pocos planes de cualquier clase sobreviven a su primer encuentro con el mundo real. Si estás proyectando tus ingresos, tu tasa de ahorro y los rendimientos del mercado para los próximos veinte años, piensa en todo lo grande que ha pasado en los últimos veinte sin que nadie pudiera preverlo: el 11 de septiembre, un auge y una caída de la vivienda que dejó a casi diez millones de estadounidenses sin su casa, una crisis financiera que dejó sin empleo a casi nueve millones, una subida de la bolsa que batió récords después y un coronavirus que sacude al mundo mientras escribo esto.
+> [Párrafo 71](#original-psicologia-cap5-p71)
+
+El 11 de septiembre es el atentado de 2001 contra las torres de Nueva York, y el coronavirus es la pandemia que cerraba el mundo en 2020, cuando se publicó el libro. La lista es la prueba: nadie que proyectara en el año 2000 llevaba en sus cuentas ninguna de esas catástrofes.
+
+Todo plan choca con una realidad llena de incógnitas: el buen plan abraza el margen de error y aguanta decir «sería estupendo un 8 % anual, pero con un 4 % estaré bien». La tercera pieza es una personalidad de barbell: optimista sobre el futuro, paranoica sobre lo que puede impedir llegar a él.
+
+> El optimismo suele definirse como la creencia de que las cosas saldrán bien. Pero esa definición es incompleta. El optimismo sensato es la creencia de que las probabilidades están a tu favor y de que, con el tiempo, las cosas se equilibrarán hacia un buen resultado, aunque lo que pase entretanto esté lleno de penurias. Y de hecho sabes que estará lleno de penurias. Puedes ser optimista sobre la trayectoria de crecimiento a largo plazo, que sube hacia la derecha, y estar igual de seguro de que el camino de aquí a allá está lleno de minas, y lo estará siempre. Esas dos cosas no se excluyen.
+> [Párrafo 77](#original-psicologia-cap5-p77)
+
+Barbell es la barra con pesas del gimnasio: la imagen de poner todo el peso en los dos extremos y nada en el medio. El optimismo sensato no niega las caídas del camino: las incluye en el precio del crecimiento.
+
+> La idea de que algo pueda ganar a largo plazo mientras es un desastre a corto plazo no es intuitiva, pero así funcionan muchas cosas en la vida. A los veinte años, la persona promedio puede perder cerca de la mitad de las conexiones sinápticas que su cerebro tenía a los dos, conforme se limpian las vías neuronales ineficientes y redundantes. Pero la persona promedio de veinte años es mucho más inteligente que la de dos. La destrucción frente al progreso no solo es posible: es una manera eficiente de deshacerse del exceso.
+> [Párrafo 78](#original-psicologia-cap5-p78)
+
+Las conexiones sinápticas son los puentes entre las neuronas; el cerebro del niño las poda para volverse más eficiente, no más pobre. Una economía hace algo parecido: pierde empresas, empleos y costumbres mientras mejora.
+
+Así creció la economía de Estados Unidos durante 170 años —guerras, recesiones y más de cien caídas de bolsa— mientras el nivel de vida se multiplicaba por veinte. Ser paranoico y optimista a la vez cuesta, pero la paranoia de corto plazo mantiene a uno vivo para cobrar el optimismo de largo plazo. Livermore confundió la buena fortuna con la invencibilidad. El capítulo que sigue muestra otra forma en que cuesta entender el crecimiento en medio de la adversidad.
+---
+
 ## Los Originales
 
 Esta sección reúne, en el idioma del libro y por orden de aparición, los párrafos que arriba van en castellano. El número de cada uno lleva de vuelta a su lugar.
@@ -452,6 +520,35 @@ Esta sección reúne, en el idioma del libro y por orden de aparición, los pár
 
 > [Párrafo 51](#lugar-psicologia-cap4-p51)
 > “Despite his currency with cutting-edge technologies, his mentality was anchored in the old paradigm of storage being a commodity that must be conserved.” You never get accustomed to how quickly things can grow.
+### Capítulo 5: Hacerse rico frente a seguir siéndolo
+
+> [Párrafo 8](#lugar-psicologia-cap5-p8)
+> Livermore’s wife Dorothy feared the worst when her husband returned home on October 29th. Reports of Wall Street speculators committing suicide were spreading across New York. She and her children greeted Jesse at the door in tears, while her mother was so distraught she hid in another room, screaming.
+
+> [Párrafo 20](#lugar-psicologia-cap5-p20)
+> Sandler said he was told by Mrs. Germansky that a friend saw her husband late Thursday on Wall Street near the stock exchange. According to her informant, her husband was tearing a strip of ticker tape into bits and scattering it on the sidewalk as he walked toward Broadway.
+
+> [Párrafo 33](#lugar-psicologia-cap5-p33)
+> As we’ll see in chapter 6, 40% of companies successful enough to become publicly traded lost effectively all of their value over time. The Forbes 400 list of richest Americans has, on average, roughly 20% turnover per decade for causes that don’t have to do with death or transferring money to another family member.¹⁷
+
+> [Párrafo 37](#lugar-psicologia-cap5-p37)
+> Michael Moritz, the billionaire head of Sequoia Capital, was asked by Charlie Rose why Sequoia was so successful. Moritz mentioned longevity, noting that some VC firms succeed for five or ten years, but Sequoia has prospered for four decades. Rose asked why that was: Moritz: I think we’ve always been afraid of going out of business.
+
+> [Párrafo 46](#lugar-psicologia-cap5-p46)
+> It’s like planting oak trees: A year of growth will never show much progress, 10 years can make a meaningful difference, and 50 years can create something absolutely extraordinary.
+
+> [Párrafo 58](#lugar-psicologia-cap5-p58)
+> Warren, Charlie, and Rick made investments together and interviewed business managers together. Then Rick kind of disappeared, at least relative to Buffett and Munger’s success. Investor Mohnish Pabrai once asked Buffett what happened to Rick. Mohnish recalled:
+
+> [Párrafo 71](#lugar-psicologia-cap5-p71)
+> What’s the saying? You plan, God laughs. Financial and investment planning are critical, because they let you know whether your current actions are within the realm of reasonable. But few plans of any kind survive their first encounter with the real world. If you’re projecting your income, savings rate, and market returns over the next 20 years, think about all the big stuff that’s happened in the last 20 years that no one could have foreseen: September 11th, a housing boom and bust that caused nearly 10 million Americans to lose their homes, a financial crisis that caused almost nine million to lose their jobs, a record-breaking stock-market rally that ensued, and a coronavirus that shakes the world as I write this.
+
+> [Párrafo 77](#lugar-psicologia-cap5-p77)
+> Optimism is usually defined as a belief that things will go well. But that’s incomplete. Sensible optimism is a belief that the odds are in your favor, and over time things will balance out to a good outcome even if what happens in between is filled with misery. And in fact you know it will be filled with misery. You can be optimistic that the long-term growth trajectory is up and to the right, but equally sure that the road between now and then is filled with landmines, and always will be. Those two things are not mutually exclusive.
+
+> [Párrafo 78](#lugar-psicologia-cap5-p78)
+> The idea that something can gain over the long run while being a basketcase in the short run is not intuitive, but it’s how a lot of things work in life. By age 20 the average person can lose roughly half the synaptic connections they had in their brain at age two, as inefficient and redundant neural pathways are cleared out. But the average 20-year-old is much smarter than the average two-year-old. Destruction in the face of progress is not only possible, but an efficient way to get rid of excess.
+
 © 2026 Osmancito
 
 [Volver](../destileria.html)
